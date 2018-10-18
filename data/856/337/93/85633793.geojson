@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1166.187278,
-    "geom:area_square_m":9816684960897.859375,
+    "geom:area_square_m":9816684960897.722656,
     "geom:bbox":"-179.231086,18.86546,179.859681,71.441059",
     "geom:latitude":45.964509,
     "geom:longitude":-113.2686,
@@ -1246,12 +1246,14 @@
     "wd:longitude":-100.0,
     "wd:population":318697314,
     "wd:wordcount":32749,
-    "wof:abbreviation":"U.S.",
     "wof:belongsto":[
         102191575,
         136253057
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        85931779
+    ],
     "wof:concordances":{
         "dbp:id":"United_States",
         "fb:id":"en.united_states",
@@ -1296,14 +1298,14 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1527639474,
+    "wof:lastmodified":1537309533,
     "wof:name":"United States",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
     "wof:population":318697314,
     "wof:population_rank":17,
     "wof:repo":"whosonfirst-data",
-    "wof:shortcode":"USA",
+    "wof:shortcode":"US",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

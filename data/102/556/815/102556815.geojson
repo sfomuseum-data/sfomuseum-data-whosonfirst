@@ -5,7 +5,6 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1879781.226752,
     "geom:bbox":"-3.347911,51.382656,-3.311777,51.402687",
     "geom:latitude":51.390707,
     "geom:longitude":-3.329048,
@@ -15,15 +14,12 @@
     "mps:latitude":51.389002,
     "mps:longitude":-3.330827,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CWL",
         "EGFF"
     ],
     "oa:elevation_ft":"220",
     "oa:type":"large_airport",
-    "sfomuseum:fid":"152",
-    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -36,9 +32,9 @@
     },
     "wof:belongsto":[
         85683913,
-        "102191581",
+        102191581,
         404452255,
-        "85633159",
+        85633159,
         404227475
     ],
     "wof:breaches":[],
@@ -51,19 +47,19 @@
         "wk:page":"Cardiff_International_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"d3db1e6fc34198efc8d1ba730fb61f26",
+    "wof:geomhash":"7f8d44be1039d64949fdcd1a1d90286d",
     "wof:hierarchy":[
         {
             "campus_id":102556815,
-            "continent_id":"102191581",
-            "country_id":"85633159",
+            "continent_id":102191581,
+            "country_id":85633159,
             "localadmin_id":404452255,
             "macroregion_id":404227475,
             "region_id":85683913
         }
     ],
     "wof:id":102556815,
-    "wof:lastmodified":1539822077,
+    "wof:lastmodified":1471047867,
     "wof:name":"Cardiff International Airport",
     "wof:parent_id":404452255,
     "wof:placetype":"campus",

@@ -2,15 +2,13 @@
   "id": 102529303,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1929-01-01",
-    "date:inception_upper":"1929-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1929",
-    "geom:area":0.000043,
-    "geom:area_square_m":404983.412492,
-    "geom:bbox":"-81.474892,41.027798,-81.46534,41.041393",
-    "geom:latitude":41.033029,
-    "geom:longitude":-81.471076,
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":50309.806647,
+    "geom:bbox":"-81.46804,41.037292,-81.46534,41.041393",
+    "geom:latitude":41.039099,
+    "geom:longitude":-81.466702,
     "iso:country":"US",
     "lbl:latitude":41.030867,
     "lbl:longitude":-81.472196,
@@ -44,9 +42,6 @@
     ],
     "oa:elevation_ft":"1067",
     "oa:type":"medium_airport",
-    "sfomuseum:fid":"185",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +73,7 @@
         "wk:page":"Akron_Fulton_International_Airport"
     },
     "wof:country":"US",
-    "wof:geomhash":"def4540a86694806a0a7def0618c9e30",
+    "wof:geomhash":"2ecf8e6d46661b87dfc72d728d745172",
     "wof:hierarchy":[
         {
             "campus_id":102529303,
@@ -92,7 +87,7 @@
         }
     ],
     "wof:id":102529303,
-    "wof:lastmodified":1539822081,
+    "wof:lastmodified":1535389802,
     "wof:name":"Fulton International Airport",
     "wof:parent_id":85817823,
     "wof:placetype":"campus",
@@ -104,10 +99,10 @@
     ]
 },
   "bbox": [
-    -81.474892,
-    41.027798,
+    -81.46804,
+    41.037292,
     -81.46534,
     41.041393
 ],
-  "geometry": {"coordinates":[[[[-81.469437,41.030613],[-81.471458,41.027798],[-81.474373,41.027992],[-81.474892,41.030777],[-81.473061,41.035275],[-81.46804,41.037292],[-81.469376,41.033203],[-81.469437,41.030613]]],[[[-81.46804,41.037292],[-81.466881,41.041393],[-81.46534,41.039227],[-81.466026,41.03801],[-81.46804,41.037292]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[-81.46804,41.037292],[-81.466881,41.041393],[-81.46534,41.039227],[-81.466026,41.03801],[-81.46804,41.037292]]],"type":"Polygon"}
 }

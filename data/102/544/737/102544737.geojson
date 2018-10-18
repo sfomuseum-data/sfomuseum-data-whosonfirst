@@ -117,11 +117,9 @@
     ],
     "oa:elevation_ft":"885",
     "oa:type":"large_airport",
-    "sfomuseum:fid":"10",
-    "sfomuseum:is_sfo":1,
     "src:geom":"ourairports",
     "src:geom_alt":[],
-    "wk:wordcount":2000,
+    "wd:wordcount":2000,
     "woe:hierarchy":{
         "country_id":23424819,
         "county_id":12597152,
@@ -130,7 +128,6 @@
         "state_id":7153330
     },
     "wof:belongsto":[
-        85683381,
         102191581,
         404228255,
         404359481,
@@ -138,7 +135,8 @@
         1108826391,
         101829567,
         136253037,
-        102066391
+        102066391,
+        85683381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,11 +160,12 @@
             "locality_id":101829567,
             "macrocounty_id":404228255,
             "macroregion_id":1108826391,
+            "neighbourhood_id":-1,
             "region_id":85683381
         }
     ],
     "wof:id":102544737,
-    "wof:lastmodified":1539822074,
+    "wof:lastmodified":1531438214,
     "wof:name":"Euroairport Basel-Mulhouse-Freiburg",
     "wof:parent_id":101829567,
     "wof:placetype":"campus",

@@ -2,10 +2,8 @@
   "id": 102526505,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1930-01-01",
-    "date:inception_upper":"1930-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1930",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-80.995201,33.970501,-80.995201,33.970501",
@@ -36,9 +34,6 @@
     ],
     "oa:elevation_ft":"193",
     "oa:type":"medium_airport",
-    "sfomuseum:fid":"228",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -78,7 +73,7 @@
         }
     ],
     "wof:id":102526505,
-    "wof:lastmodified":1539822079,
+    "wof:lastmodified":1514518095,
     "wof:name":"Columbia Owens Downtown Airport",
     "wof:parent_id":85846089,
     "wof:placetype":"campus",

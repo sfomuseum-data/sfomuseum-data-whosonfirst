@@ -2,15 +2,13 @@
   "id": 102531251,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1925-01-01",
-    "date:inception_upper":"1925-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1925",
-    "geom:area":0.000033,
-    "geom:area_square_m":319577.464382,
-    "geom:bbox":"-84.436722,39.097534,-84.420364,39.106022",
-    "geom:latitude":39.101592,
-    "geom:longitude":-84.429764,
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":271147.17968,
+    "geom:bbox":"-84.436722,39.097534,-84.426498,39.106022",
+    "geom:latitude":39.101572,
+    "geom:longitude":-84.431067,
     "iso:country":"US",
     "lbl:latitude":39.100846,
     "lbl:longitude":-84.430769,
@@ -34,9 +32,6 @@
     ],
     "oa:elevation_ft":"483",
     "oa:type":"medium_airport",
-    "sfomuseum:fid":"221",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +63,7 @@
         "wk:page":"Cincinnati_Municipal_Airport"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2488e461d9dd932ec0fbae113cf0a73",
+    "wof:geomhash":"db440bc275097259177357dabcc8117f",
     "wof:hierarchy":[
         {
             "campus_id":102531251,
@@ -82,7 +77,7 @@
         }
     ],
     "wof:id":102531251,
-    "wof:lastmodified":1539822064,
+    "wof:lastmodified":1535389827,
     "wof:name":"Cincinnati Municipal Airport-Lunken Field",
     "wof:parent_id":85868473,
     "wof:placetype":"campus",
@@ -96,8 +91,8 @@
   "bbox": [
     -84.436722,
     39.097534,
-    -84.420364,
+    -84.426498,
     39.106022
 ],
-  "geometry": {"coordinates":[[[[-84.426498,39.102383],[-84.42036400000001,39.102188],[-84.42054,39.100548],[-84.426498,39.102383]]],[[[-84.429535,39.103844],[-84.429146,39.103992],[-84.428383,39.103756],[-84.42675800000001,39.103233],[-84.426498,39.102383],[-84.427933,39.101665],[-84.430229,39.097534],[-84.43332700000001,39.100376],[-84.43383799999999,39.100903],[-84.436722,39.106022],[-84.432159,39.102222],[-84.429939,39.103336],[-84.429535,39.103844]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[-84.429535,39.103844],[-84.429146,39.103992],[-84.428383,39.103756],[-84.42675800000001,39.103233],[-84.426498,39.102383],[-84.427933,39.101665],[-84.430229,39.097534],[-84.43332700000001,39.100376],[-84.43383799999999,39.100903],[-84.436722,39.106022],[-84.432159,39.102222],[-84.429939,39.103336],[-84.429535,39.103844]]],"type":"Polygon"}
 }

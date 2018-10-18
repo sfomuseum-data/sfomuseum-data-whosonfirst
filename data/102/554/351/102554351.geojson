@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1941-09-01",
     "geom:area":0.001328,
-    "geom:area_square_m":11518829.577383,
+    "geom:area_square_m":11518829.577392,
     "geom:bbox":"-73.7820387447,45.4471494515,-73.7080113169,45.4878050297",
     "geom:latitude":45.467368,
     "geom:longitude":-73.743634,
@@ -129,8 +129,6 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":45.462004,
     "reversegeo:longitude":-73.744749,
-    "sfomuseum:fid":"87",
-    "sfomuseum:is_sfo":1,
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -144,10 +142,11 @@
         "suburb_id":417
     },
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101736475,
-        136251273
+        890458661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,12 +164,14 @@
             "campus_id":102554351,
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":890458661,
             "locality_id":101736475,
+            "neighbourhood_id":-1,
             "region_id":136251273
         }
     ],
     "wof:id":102554351,
-    "wof:lastmodified":1539822072,
+    "wof:lastmodified":1533277845,
     "wof:name":"Aeroport International Pierre-Elliott-Trudeau de Montreal",
     "wof:parent_id":101736475,
     "wof:placetype":"campus",

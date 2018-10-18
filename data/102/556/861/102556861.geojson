@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000235,
-    "geom:area_square_m":1735859.082143,
-    "geom:bbox":"-2.331976,53.357952,-2.211234,53.40646",
-    "geom:latitude":53.386294,
-    "geom:longitude":-2.254448,
+    "geom:area":0.000151,
+    "geom:area_square_m":1115803.8787,
+    "geom:bbox":"-2.331976,53.357952,-2.266402,53.40646",
+    "geom:latitude":53.391295,
+    "geom:longitude":-2.272803,
     "iso:country":"",
     "lbl:latitude":53.411253,
     "lbl:longitude":-2.337608,
@@ -124,8 +124,6 @@
     ],
     "oa:elevation_ft":"257",
     "oa:type":"large_airport",
-    "sfomuseum:fid":"76",
-    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -151,7 +149,7 @@
         "wk:page":"Manchester_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"0d186a234e374b2dfe2601f915bd80fc",
+    "wof:geomhash":"2710e2b115a2da8ef92df62cf03480d4",
     "wof:hierarchy":[
         {
             "campus_id":102556861,
@@ -161,7 +159,7 @@
         }
     ],
     "wof:id":102556861,
-    "wof:lastmodified":1539822077,
+    "wof:lastmodified":1535389651,
     "wof:name":"Manchester International Airport",
     "wof:parent_id":85791535,
     "wof:placetype":"campus",
@@ -175,8 +173,8 @@
   "bbox": [
     -2.331976,
     53.357952,
-    -2.211234,
+    -2.266402,
     53.40646
 ],
-  "geometry": {"coordinates":[[[[-2.31539,53.36993],[-2.331644,53.357952],[-2.331976,53.35812],[-2.31539,53.36993]]],[[[-2.232102,53.373253],[-2.223873,53.380562],[-2.211234,53.380676],[-2.217333,53.374832],[-2.232102,53.373253]]],[[[-2.27389,53.372692],[-2.275199,53.39642],[-2.271423,53.40646],[-2.266402,53.396885],[-2.27389,53.372692]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-2.31539,53.36993],[-2.331644,53.357952],[-2.331976,53.35812],[-2.31539,53.36993]]],[[[-2.27389,53.372692],[-2.275199,53.39642],[-2.271423,53.40646],[-2.266402,53.396885],[-2.27389,53.372692]]]],"type":"MultiPolygon"}
 }

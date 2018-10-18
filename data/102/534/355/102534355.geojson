@@ -2,10 +2,8 @@
   "id": 102534355,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1963-01-01",
-    "date:inception_upper":"1963-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1963",
+    "edtf:inception":"uuuu",
     "geom:area":0.000032,
     "geom:area_square_m":332545.717869,
     "geom:bbox":"-90.081482,32.303333,-90.072502,32.315605",
@@ -52,9 +50,6 @@
     ],
     "oa:elevation_ft":"346",
     "oa:type":"large_airport",
-    "sfomuseum:fid":"182",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +64,8 @@
         102191575,
         85633793,
         85969693,
-        102081407
+        102081407,
+        420525281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +87,14 @@
             "country_id":85633793,
             "county_id":102081407,
             "locality_id":85969693,
+            "neighbourhood_id":420525281,
             "region_id":85688579
         }
     ],
     "wof:id":102534355,
-    "wof:lastmodified":1539822077,
+    "wof:lastmodified":1533595810,
     "wof:name":"Jackson International Airport",
-    "wof:parent_id":85969693,
+    "wof:parent_id":420525281,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

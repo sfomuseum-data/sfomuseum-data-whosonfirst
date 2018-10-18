@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000252,
-    "geom:area_square_m":2175126.847967,
-    "geom:bbox":"5.06916,45.711151,5.090103,45.746262",
-    "geom:latitude":45.722192,
-    "geom:longitude":5.080224,
+    "geom:area":0.000023,
+    "geom:area_square_m":199157.388222,
+    "geom:bbox":"5.083408,45.732536,5.088213,45.746262",
+    "geom:latitude":45.739503,
+    "geom:longitude":5.085643,
     "iso:country":"",
     "lbl:latitude":45.719703,
     "lbl:longitude":5.079167,
@@ -106,8 +106,6 @@
     ],
     "oa:elevation_ft":"821",
     "oa:type":"medium_airport",
-    "sfomuseum:fid":"73",
-    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -119,14 +117,14 @@
         "state_id":7153329
     },
     "wof:belongsto":[
-        85683569,
         102191581,
         404227735,
         404390159,
         85633147,
         1108826389,
         136253037,
-        102070729
+        102070729,
+        85683569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +136,7 @@
         "wk:page":"Saint-Exup%C3%A9ry_International_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"d7167f0ea8f91bc7a22bc449b2d23838",
+    "wof:geomhash":"8c35b1497117c71c020a71c2d70f75bc",
     "wof:hierarchy":[
         {
             "campus_id":102544687,
@@ -147,13 +145,15 @@
             "county_id":102070729,
             "empire_id":136253037,
             "localadmin_id":404390159,
+            "locality_id":-1,
             "macrocounty_id":404227735,
             "macroregion_id":1108826389,
+            "neighbourhood_id":-1,
             "region_id":85683569
         }
     ],
     "wof:id":102544687,
-    "wof:lastmodified":1539822074,
+    "wof:lastmodified":1535389799,
     "wof:name":"A\u00e9roport de Lyon Saint-Exup\u00e9ry",
     "wof:parent_id":404390159,
     "wof:placetype":"campus",
@@ -165,10 +165,10 @@
     ]
 },
   "bbox": [
-    5.06916,
-    45.711151,
-    5.090103,
+    5.083408,
+    45.732536,
+    5.088213,
     45.746262
 ],
-  "geometry": {"coordinates":[[[[5.070962,45.721073],[5.06916,45.722301],[5.072803,45.72707],[5.076842,45.727394],[5.079932,45.725803],[5.086841,45.728592],[5.088213,45.732536],[5.08933,45.726913],[5.085639,45.719936],[5.085124,45.715275],[5.090103,45.711151],[5.083065,45.712074],[5.081348,45.712891],[5.078473,45.71331],[5.070737,45.713837],[5.072422,45.718765],[5.070962,45.721073]]],[[[5.088213,45.732536],[5.084167,45.738728],[5.083408,45.746262],[5.08675,45.740955],[5.088213,45.732536]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[5.088213,45.732536],[5.084167,45.738728],[5.083408,45.746262],[5.08675,45.740955],[5.088213,45.732536]]],"type":"Polygon"}
 }

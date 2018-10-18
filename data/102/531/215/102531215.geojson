@@ -2,15 +2,13 @@
   "id": 102531215,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1931-01-01",
-    "date:inception_upper":"1931-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1931",
-    "geom:area":0.000093,
-    "geom:area_square_m":965001.51402,
-    "geom:bbox":"-80.048149,32.876343,-80.030869,32.897606",
-    "geom:latitude":32.88863,
-    "geom:longitude":-80.039389,
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":454006.023077,
+    "geom:bbox":"-80.048149,32.888836,-80.038651,32.897606",
+    "geom:latitude":32.893227,
+    "geom:longitude":-80.043131,
     "gn:elevation":16,
     "iso:country":"US",
     "lbl:latitude":32.815319,
@@ -30,13 +28,10 @@
     ],
     "oa:elevation_ft":"46",
     "oa:type":"large_airport",
-    "sfomuseum:fid":"211",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "wk:wordcount":1468,
+    "wd:wordcount":1468,
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589809,
@@ -63,7 +58,7 @@
         "wk:page":"Charleston_International_Airport"
     },
     "wof:country":"US",
-    "wof:geomhash":"9676bf425cdc0b8a792e1ed766e1476b",
+    "wof:geomhash":"715a461cc9ef78ad8d2a6e6e1e0c8e22",
     "wof:hierarchy":[
         {
             "campus_id":102531215,
@@ -76,7 +71,7 @@
         }
     ],
     "wof:id":102531215,
-    "wof:lastmodified":1539822064,
+    "wof:lastmodified":1535389828,
     "wof:name":"Charleston International Airport",
     "wof:parent_id":85839447,
     "wof:placetype":"campus",
@@ -89,9 +84,9 @@
 },
   "bbox": [
     -80.048149,
-    32.876343,
-    -80.030869,
+    32.888836,
+    -80.038651,
     32.897606
 ],
-  "geometry": {"coordinates":[[[[-80.035416,32.885017],[-80.034447,32.881248],[-80.03338599999999,32.879875],[-80.035011,32.876343],[-80.037308,32.881496],[-80.03849,32.882271],[-80.04055,32.882721],[-80.038803,32.885101],[-80.038651,32.888836],[-80.030869,32.890217],[-80.035416,32.885017]]],[[[-80.038651,32.888836],[-80.046387,32.891983],[-80.048149,32.893559],[-80.0457,32.897606],[-80.039177,32.89386],[-80.038651,32.888836]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[-80.038651,32.888836],[-80.046387,32.891983],[-80.048149,32.893559],[-80.0457,32.897606],[-80.039177,32.89386],[-80.038651,32.888836]]],"type":"Polygon"}
 }

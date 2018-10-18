@@ -2,10 +2,8 @@
   "id": 102529295,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1928-01-01",
-    "date:inception_upper":"1928-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1928",
+    "edtf:inception":"uuuu",
     "geom:area":0.000101,
     "geom:area_square_m":914098.931234,
     "geom:bbox":"-73.819244,42.736687,-73.800552,42.749027",
@@ -64,13 +62,10 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Albany"
     ],
-    "sfomuseum:fid":"186",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "wk:wordcount":2571,
+    "wd:wordcount":2571,
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589312,
@@ -90,7 +85,7 @@
         "faa:code":"ALB",
         "gn:id":5106842,
         "gp:id":12518554,
-        "iata:code":"ALB",
+        "iata:code":"ZLY",
         "icao:code":"KALB",
         "wd:id":"Q1430745",
         "wk:page":"Albany International Airport"
@@ -110,7 +105,7 @@
         }
     ],
     "wof:id":102529295,
-    "wof:lastmodified":1539822081,
+    "wof:lastmodified":1527637302,
     "wof:name":"Albany International Airport",
     "wof:parent_id":85847957,
     "wof:placetype":"campus",

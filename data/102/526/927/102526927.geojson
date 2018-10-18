@@ -2,12 +2,10 @@
   "id": 102526927,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1925-01-01",
-    "date:inception_upper":"1925-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"1925",
+    "edtf:inception":"uuuu",
     "geom:area":0.001582,
-    "geom:area_square_m":16288991.40453,
+    "geom:area_square_m":16288991.404536,
     "geom:bbox":"-84.4568470405,33.6171662296,-84.4009406898,33.6589763526",
     "geom:latitude":33.637323,
     "geom:longitude":-84.428424,
@@ -150,9 +148,6 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":33.653467,
     "reversegeo:longitude":-84.423913,
-    "sfomuseum:fid":"190",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -209,7 +204,7 @@
         }
     ],
     "wof:id":102526927,
-    "wof:lastmodified":1539822079,
+    "wof:lastmodified":1514524613,
     "wof:name":"Hartsfield-Jackson Atlanta International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

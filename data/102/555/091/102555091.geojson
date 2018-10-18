@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1939",
     "geom:area":0.002106,
-    "geom:area_square_m":18838183.182163,
+    "geom:area_square_m":18838183.182162,
     "geom:bbox":"-79.6738391289,43.6512415593,-79.5898101427,43.7031910934",
     "geom:latitude":43.676962,
     "geom:longitude":-79.631203,
@@ -140,8 +140,6 @@
     ],
     "reversegeo:latitude":43.676352,
     "reversegeo:longitude":-79.628342,
-    "sfomuseum:fid":"147",
-    "sfomuseum:is_sfo":1,
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -155,11 +153,11 @@
     },
     "wof:belongsto":[
         1108905413,
-        "102555091",
         85895633,
         102191575,
         85633041,
         101740755,
+        890456343,
         85682057,
         101735893
     ],
@@ -174,18 +172,20 @@
     "wof:geomhash":"131d17c4a99435510ef6e2b02e5cc478",
     "wof:hierarchy":[
         {
-            "campus_id":"102555091",
+            "campus_id":102555091,
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":890456343,
             "locality_id":101740755,
             "microhood_id":1108905413,
             "neighbourhood_id":85895633,
             "region_id":85682057
         },
         {
-            "campus_id":"102555091",
+            "campus_id":102555091,
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":890456343,
             "locality_id":101735893,
             "microhood_id":1108905413,
             "neighbourhood_id":85895633,
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":102555091,
-    "wof:lastmodified":1539822081,
+    "wof:lastmodified":1533272685,
     "wof:name":"Toronto Lester B Pearson International Airport",
     "wof:parent_id":1108905413,
     "wof:placetype":"campus",

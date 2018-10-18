@@ -12,5 +12,5 @@ This data is published under the [Community Data License Agreement – Permissiv
 
 ## See also
 
-* https://millsfield.sfomuseum.org/placetypes/
+* https://github.com/whosonfirst/go-whosonfirst-fetch
 * https://github.com/whosonfirst-data

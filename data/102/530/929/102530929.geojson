@@ -1,0 +1,118 @@
+{
+  "id": 102530929,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1985-01-01",
+    "date:cessation_upper":"1985-12-31",
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"1985",
+    "edtf:inception":"1947",
+    "geom:area":0.000129,
+    "geom:area_square_m":1254614.788055,
+    "geom:bbox":"-81.602669,38.3615,-81.586998,38.379833",
+    "geom:latitude":38.36852,
+    "geom:longitude":-81.595698,
+    "iso:country":"US",
+    "lbl:latitude":38.367011,
+    "lbl:longitude":-81.596471,
+    "mps:latitude":38.367011,
+    "mps:longitude":-81.596471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:chi_x_preferred":[
+        "Yeager\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Yeager Airport"
+    ],
+    "name:eng_x_variant":[
+        "CRW",
+        "KCRW"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u06af\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport Yeager de Charleston"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Yeager de Charleston"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30fc\u30ac\u30fc\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u06af\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Yeager"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0438\u0433\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Kanawha Airport"
+    ],
+    "oa:elevation_ft":"981",
+    "oa:type":"large_airport",
+    "sfomuseum:fid":"210",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wk:wordcount":1567,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590498,
+        "planet_id":1,
+        "state_id":2347607
+    },
+    "wof:belongsto":[
+        420549807,
+        85633793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CRW",
+        "gn:id":4827897,
+        "gp:id":12522530,
+        "iata:code":"CRW",
+        "icao:code":"KCRW",
+        "oa:id":"3467",
+        "wd:id":"Q2875740",
+        "wk:page":"Yeager_Airport"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dd9c3bc8b16f990188917d0e9aeb31d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530929,
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":420549807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102530929,
+    "wof:lastmodified":1539822066,
+    "wof:name":"Yeager Airport",
+    "wof:parent_id":420549807,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.602669,
+    38.3615,
+    -81.586998,
+    38.379833
+],
+  "geometry": {"coordinates":[[[-81.58699799999999,38.379833],[-81.59287999999999,38.373287],[-81.589996,38.364666],[-81.592331,38.3615],[-81.597168,38.362167],[-81.599503,38.362831],[-81.600998,38.363499],[-81.60266900000001,38.364834],[-81.60266900000001,38.3685],[-81.602165,38.368999],[-81.59766399999999,38.372501],[-81.596146,38.375736],[-81.59066799999999,38.377666],[-81.58699799999999,38.379833]]],"type":"Polygon"}
+}

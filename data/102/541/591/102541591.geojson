@@ -1,0 +1,127 @@
+{
+  "id": 102541591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002998,
+    "geom:area_square_m":30159869.728878,
+    "geom:bbox":"139.725662,35.515312,139.81366,35.590473",
+    "geom:latitude":35.555814,
+    "geom:longitude":139.771974,
+    "gn:elevation":10,
+    "iso:country":"JP",
+    "lbl:latitude":35.554085,
+    "lbl:longitude":139.775638,
+    "mps:latitude":35.554085,
+    "mps:longitude":139.775638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0637\u0648\u0643\u064a\u0648 \u0647\u0627\u0646\u064a\u062f"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Tokio-Haneda"
+    ],
+    "name:eng_x_preferred":[
+        "Tokyo International Airport"
+    ],
+    "name:eng_x_variant":[
+        "HND",
+        "KHND",
+        "Haneda Airport",
+        "Tokyo Haneda Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0646\u0647\u200c\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport international de Tokyo-Haneda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d8\u05d5\u05e7\u05d9\u05d5 \u05d4\u05d0\u05e0\u05d3\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "T\u014dky\u014d Kokusai K\u016bk\u014d"
+    ],
+    "name:jpn_x_variant":[
+        "\u6771\u4eac\u56fd\u969b\u7a7a\u6e2f",
+        "\u7fbd\u7530\u7a7a\u6e2f",
+        "Haneda K\u016bk\u014d"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ucfc4 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0422\u043e\u043a\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Haneda"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u4eac\u570b\u969b\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"35",
+    "oa:type":"large_airport",
+    "sfomuseum:fid":"178",
+    "sfomuseum:is_sfo":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":15015506,
+        "planet_id":1,
+        "state_id":2345889
+    },
+    "wof:belongsto":[
+        85911187,
+        102191569,
+        85632429,
+        102031239,
+        1108741785,
+        85672805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6300412,
+        "gp:id":23388311,
+        "iata:code":"HND",
+        "icao:code":"RJTT",
+        "oa:id":"5627",
+        "wd:id":"Q204853",
+        "wk:page":"Tokyo_International_Airport"
+    },
+    "wof:country":"JP",
+    "wof:geomhash":"842f71e1407d3b1e8e73ff8a09d6aa5d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541591,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741785,
+            "locality_id":102031239,
+            "neighbourhood_id":85911187,
+            "region_id":85672805
+        }
+    ],
+    "wof:id":102541591,
+    "wof:lastmodified":1539822067,
+    "wof:name":"\u6771\u4eac\u56fd\u969b\u7a7a\u6e2f",
+    "wof:parent_id":85911187,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    139.725662,
+    35.515312,
+    139.81366,
+    35.590473
+],
+  "geometry": {"coordinates":[[[[139.78028900000001,35.524792],[139.779144,35.525589],[139.77458200000001,35.528412],[139.769745,35.530773],[139.758377,35.515312],[139.76010099999999,35.534477],[139.74121099999999,35.54044],[139.732315,35.53146],[139.72981300000001,35.53413],[139.72946200000001,35.534924],[139.725662,35.544659],[139.72938500000001,35.553482],[139.74319499999999,35.552132],[139.756226,35.558624],[139.75456199999999,35.573311],[139.75708,35.576496],[139.760254,35.580723],[139.766525,35.586128],[139.78385900000001,35.590473],[139.79731799999999,35.580624],[139.803696,35.574978],[139.81366,35.574165],[139.81350699999999,35.571037],[139.80317700000001,35.566444],[139.79600500000001,35.55262],[139.79399100000001,35.544518],[139.79591400000001,35.532784],[139.79536400000001,35.532776],[139.79482999999999,35.532825],[139.78239400000001,35.525379],[139.782059,35.524681],[139.78028900000001,35.524792]]]],"type":"MultiPolygon"}
+}

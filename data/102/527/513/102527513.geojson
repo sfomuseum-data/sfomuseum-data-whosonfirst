@@ -4,10 +4,10 @@
   "properties": {
     "date:inception_lower":"1927-03-15",
     "date:inception_upper":"1927-03-15",
-    "edtf:cessation":"open",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"1927-03-15",
     "geom:area":0.000932,
-    "geom:area_square_m":9124709.096507,
+    "geom:area_square_m":9124709.096504,
     "geom:bbox":"-122.405228,37.604481,-122.355044,37.645194",
     "geom:latitude":37.622096,
     "geom:longitude":-122.384864,
@@ -181,13 +181,15 @@
     ],
     "oa:elevation_ft":"13",
     "oa:type":"large_airport",
+    "sfomuseum:fid":"121",
+    "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"airport",
     "src:geom":"uszcta",
     "src:geom_alt":[
         "woedb"
     ],
     "src:lbl:centroid":"mapshaper",
-    "wd:wordcount":8627,
+    "wk:wordcount":8627,
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12587710,
@@ -200,8 +202,7 @@
         85633793,
         85922583,
         102087579,
-        554784711,
-        102085387
+        554784711
     ],
     "wof:breaches":[],
     "wof:category":"airport",
@@ -230,17 +231,10 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "region_id":85688637
         }
     ],
     "wof:id":102527513,
-    "wof:lastmodified":1534802368,
+    "wof:lastmodified":1539822068,
     "wof:name":"San Francisco International Airport",
     "wof:parent_id":85922583,
     "wof:placetype":"campus",

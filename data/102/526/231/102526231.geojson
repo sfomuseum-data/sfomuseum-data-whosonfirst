@@ -48,6 +48,9 @@
     ],
     "oa:elevation_ft":"1308",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":64,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":102526231,
-    "wof:lastmodified":1527637281,
+    "wof:lastmodified":1539894147,
     "wof:name":"Lanai Airport",
     "wof:parent_id":85890549,
     "wof:placetype":"campus",

@@ -106,6 +106,8 @@
     ],
     "oa:elevation_ft":"821",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":73,
+    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":102544687,
-    "wof:lastmodified":1535389799,
+    "wof:lastmodified":1539894148,
     "wof:name":"A\u00e9roport de Lyon Saint-Exup\u00e9ry",
     "wof:parent_id":404390159,
     "wof:placetype":"campus",

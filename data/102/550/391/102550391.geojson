@@ -22,6 +22,8 @@
     ],
     "oa:elevation_ft":"50",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":44,
+    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102550391,
-    "wof:lastmodified":1535389655,
+    "wof:lastmodified":1539894147,
     "wof:name":"Baiyun Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

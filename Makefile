@@ -5,9 +5,13 @@ OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 
 refresh:
 	@make refresh-wof
+	@make refresh-sfomuseum
 
-refresh-wof:
+refresh-whosonfirst:
 	utils/$(OS)/wof-fetch -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -reader 'reader=github repo=whosonfirst-data-postalcode-us' -mode repo .
+
+refresh-sfomuseum:
+	python2 utils/python/merge-properties -p properties -d data
 
 prune:
 	git gc --aggressive --prune

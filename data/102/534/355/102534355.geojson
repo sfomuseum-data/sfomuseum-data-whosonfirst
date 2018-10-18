@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":332545.717869,
+    "geom:area_square_m":332545.717867,
     "geom:bbox":"-90.081482,32.303333,-90.072502,32.315605",
     "geom:latitude":32.309792,
     "geom:longitude":-90.076693,
@@ -50,6 +50,9 @@
     ],
     "oa:elevation_ft":"346",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":182,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -60,12 +63,12 @@
         "state_id":2347583
     },
     "wof:belongsto":[
-        85688579,
+        420525281,
         102191575,
         85633793,
         85969693,
         102081407,
-        420525281
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102534355,
-    "wof:lastmodified":1533595810,
+    "wof:lastmodified":1539894147,
     "wof:name":"Jackson International Airport",
     "wof:parent_id":420525281,
     "wof:placetype":"campus",

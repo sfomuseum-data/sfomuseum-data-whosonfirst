@@ -106,6 +106,8 @@
     ],
     "oa:elevation_ft":"23",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":6,
+    "sfomuseum:is_sfo":1,
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":102552389,
-    "wof:lastmodified":1535389827,
+    "wof:lastmodified":1539894149,
     "wof:name":"Auckland International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

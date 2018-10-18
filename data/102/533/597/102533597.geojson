@@ -37,6 +37,9 @@
     ],
     "oa:elevation_ft":"742",
     "oa:type":"closed",
+    "sfomuseum:airport_id":180,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102533597,
-    "wof:lastmodified":1535389653,
+    "wof:lastmodified":1539894146,
     "wof:name":"Oneida County Airport",
     "wof:parent_id":85809313,
     "wof:placetype":"campus",

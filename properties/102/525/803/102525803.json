@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Des Moines International Airport", 
   "edtf:inception": "1933", 
-  "iata:code": "DSM", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 236, 
-  "icao:code": "KDSM", 
+  "wof:concordances": {
+    "icao:code": "KDSM", 
+    "iata:code": "DSM"
+  }, 
   "sfomuseum:is_sfo": 1
 }

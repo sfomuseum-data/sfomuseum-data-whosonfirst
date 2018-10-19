@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Little Rock National Airport", 
-  "iata:code": "LIT", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 259, 
-  "icao:code": "KLIT", 
+  "sfomuseum:name": "Little Rock National Airport", 
+  "wof:concordances": {
+    "icao:code": "KLIT", 
+    "iata:code": "LIT"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

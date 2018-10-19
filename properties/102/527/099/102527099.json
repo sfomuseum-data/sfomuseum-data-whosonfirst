@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Melbourne International Airport", 
-  "iata:code": "MLB", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 79, 
-  "icao:code": "YMML", 
+  "sfomuseum:name": "Melbourne International Airport", 
+  "wof:concordances": {
+    "icao:code": "YMML", 
+    "iata:code": "MLB"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

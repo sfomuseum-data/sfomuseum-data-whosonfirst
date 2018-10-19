@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Kahului Airport", 
-  "iata:code": "OGG", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 78, 
-  "icao:code": "PHOG", 
+  "sfomuseum:name": "Kahului Airport", 
+  "wof:concordances": {
+    "icao:code": "PHOG", 
+    "iata:code": "OGG"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

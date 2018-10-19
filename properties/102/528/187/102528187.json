@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Greater Cincinnati Airport", 
   "edtf:inception": "1942", 
-  "iata:code": "CVG", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 222, 
-  "icao:code": "KCVG", 
+  "wof:concordances": {
+    "icao:code": "KCVG", 
+    "iata:code": "CVG"
+  }, 
   "sfomuseum:is_sfo": 1
 }

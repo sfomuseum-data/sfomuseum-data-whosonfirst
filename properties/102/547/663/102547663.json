@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Cork Airport", 
-  "iata:code": "ORK", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 31, 
-  "icao:code": "EICK", 
+  "sfomuseum:name": "Cork Airport", 
+  "wof:concordances": {
+    "icao:code": "EICK", 
+    "iata:code": "ORK"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

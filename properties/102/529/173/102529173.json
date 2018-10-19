@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Albuquerque International Sunport", 
-  "iata:code": "ABQ", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 1, 
-  "icao:code": "KABQ", 
+  "sfomuseum:name": "Albuquerque International Sunport", 
+  "wof:concordances": {
+    "icao:code": "KABQ", 
+    "iata:code": "ABQ"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

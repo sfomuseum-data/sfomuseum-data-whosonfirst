@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "John Wayne Airport", 
-  "iata:code": "SNA", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 99, 
-  "icao:code": "KSNA", 
+  "sfomuseum:name": "John Wayne Airport", 
+  "wof:concordances": {
+    "icao:code": "KSNA", 
+    "iata:code": "SNA"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

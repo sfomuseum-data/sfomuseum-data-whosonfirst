@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Omaha Eppley Airfield", 
   "edtf:inception": "1925", 
-  "iata:code": "OMA", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 251, 
-  "icao:code": "KOMA", 
+  "wof:concordances": {
+    "icao:code": "KOMA", 
+    "iata:code": "OMA"
+  }, 
   "sfomuseum:is_sfo": 1
 }

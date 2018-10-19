@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Singapore Changi Airport", 
-  "iata:code": "SIN", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 134, 
-  "icao:code": "WSSS", 
+  "sfomuseum:name": "Singapore Changi Airport", 
+  "wof:concordances": {
+    "icao:code": "WSSS", 
+    "iata:code": "SIN"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Amsterdam Airport Schiphol", 
-  "iata:code": "AMS", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 2, 
-  "icao:code": "EHAM", 
+  "sfomuseum:name": "Amsterdam Airport Schiphol", 
+  "wof:concordances": {
+    "icao:code": "EHAM", 
+    "iata:code": "AMS"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

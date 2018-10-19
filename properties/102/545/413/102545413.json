@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Athens International Airport", 
-  "iata:code": "ATH", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 4, 
-  "icao:code": "LGAV", 
+  "sfomuseum:name": "Athens International Airport", 
+  "wof:concordances": {
+    "icao:code": "LGAV", 
+    "iata:code": "ATH"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

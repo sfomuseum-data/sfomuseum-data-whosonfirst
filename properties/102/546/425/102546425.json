@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Brussels Airport", 
-  "iata:code": "BRU", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 19, 
-  "icao:code": "EBBR", 
+  "sfomuseum:name": "Brussels Airport", 
+  "wof:concordances": {
+    "icao:code": "EBBR", 
+    "iata:code": "BRU"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

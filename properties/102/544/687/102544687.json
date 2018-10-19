@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Lyon - Saint Exup\u00e9ry Airport", 
-  "iata:code": "LYS", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 73, 
-  "icao:code": "LFLL", 
+  "sfomuseum:name": "Lyon - Saint Exup\u00e9ry Airport", 
+  "wof:concordances": {
+    "icao:code": "LFLL", 
+    "iata:code": "LYS"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Lihue Airport", 
-  "iata:code": "LIH", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 66, 
-  "icao:code": "PHLI", 
+  "sfomuseum:name": "Lihue Airport", 
+  "wof:concordances": {
+    "icao:code": "PHLI", 
+    "iata:code": "LIH"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Stuttgart Airport", 
-  "iata:code": "STR", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 169, 
-  "icao:code": "EDDS", 
+  "sfomuseum:name": "Stuttgart Airport", 
+  "wof:concordances": {
+    "icao:code": "EDDS", 
+    "iata:code": "STR"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

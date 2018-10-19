@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Cape Town International Airport", 
   "edtf:inception": "1954", 
-  "iata:code": "CPT", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 208, 
-  "icao:code": "FACT", 
+  "wof:concordances": {
+    "icao:code": "FACT", 
+    "iata:code": "CPT"
+  }, 
   "sfomuseum:is_sfo": 1
 }

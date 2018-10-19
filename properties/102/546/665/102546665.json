@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Johannesburg International Airport", 
   "edtf:inception": "1952", 
-  "iata:code": "JNB", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 171, 
-  "icao:code": "FAOR", 
+  "wof:concordances": {
+    "icao:code": "FAOR", 
+    "iata:code": "JNB"
+  }, 
   "sfomuseum:is_sfo": 1
 }

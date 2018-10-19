@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Erie International Airport", 
-  "iata:code": "ERI", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 242, 
-  "icao:code": "KERI", 
+  "sfomuseum:name": "Erie International Airport", 
+  "wof:concordances": {
+    "icao:code": "KERI", 
+    "iata:code": "ERI"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

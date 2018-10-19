@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Cairo International Airport", 
-  "iata:code": "CAI", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 23, 
-  "icao:code": "HECA", 
+  "sfomuseum:name": "Cairo International Airport", 
+  "wof:concordances": {
+    "icao:code": "HECA", 
+    "iata:code": "CAI"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

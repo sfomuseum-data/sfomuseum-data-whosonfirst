@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Kansai International Airport", 
-  "iata:code": "KIX", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 101, 
-  "icao:code": "RJBB", 
+  "sfomuseum:name": "Kansai International Airport", 
+  "wof:concordances": {
+    "icao:code": "RJBB", 
+    "iata:code": "KIX"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

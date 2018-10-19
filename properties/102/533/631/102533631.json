@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Chicago O'Hare International Airport", 
-  "iata:code": "ORD", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 26, 
-  "icao:code": "KORD", 
+  "sfomuseum:name": "Chicago O'Hare International Airport", 
+  "wof:concordances": {
+    "icao:code": "KORD", 
+    "iata:code": "ORD"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

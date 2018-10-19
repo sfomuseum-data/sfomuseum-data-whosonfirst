@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Zurich Airport", 
-  "iata:code": "ZRH", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 158, 
-  "icao:code": "LSZH", 
+  "sfomuseum:name": "Zurich Airport", 
+  "wof:concordances": {
+    "icao:code": "LSZH", 
+    "iata:code": "ZRH"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

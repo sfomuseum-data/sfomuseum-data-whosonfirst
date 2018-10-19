@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Tokyo Haneda Airport", 
   "edtf:inception": "1931-08-25", 
-  "iata:code": "HND", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 178, 
-  "icao:code": "RJTT", 
+  "wof:concordances": {
+    "icao:code": "RJTT", 
+    "iata:code": "HND"
+  }, 
   "sfomuseum:is_sfo": 1
 }

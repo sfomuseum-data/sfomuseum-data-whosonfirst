@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Berlin Tegel Airport", 
   "edtf:inception": "1906", 
-  "iata:code": "TXL", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 196, 
-  "icao:code": "EDDT", 
+  "wof:concordances": {
+    "icao:code": "EDDT", 
+    "iata:code": "TXL"
+  }, 
   "sfomuseum:is_sfo": 1
 }

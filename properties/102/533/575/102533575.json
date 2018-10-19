@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Ontario International Airport", 
-  "iata:code": "ONT", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 98, 
-  "icao:code": "KONT", 
+  "sfomuseum:name": "Ontario International Airport", 
+  "wof:concordances": {
+    "icao:code": "KONT", 
+    "iata:code": "ONT"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

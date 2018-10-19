@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "King Khalid International Airport", 
-  "iata:code": "RUH", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 114, 
-  "icao:code": "OERK", 
+  "sfomuseum:name": "King Khalid International Airport", 
+  "wof:concordances": {
+    "icao:code": "OERK", 
+    "iata:code": "RUH"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

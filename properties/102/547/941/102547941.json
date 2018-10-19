@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Leonardo da Vinci-Fiumicino Airport", 
-  "iata:code": "FCO", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 115, 
-  "icao:code": "LIRF", 
+  "sfomuseum:name": "Leonardo da Vinci-Fiumicino Airport", 
+  "wof:concordances": {
+    "icao:code": "LIRF", 
+    "iata:code": "FCO"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

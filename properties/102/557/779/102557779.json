@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Melbourne Airport", 
   "edtf:inception": "1970", 
-  "iata:code": "MEL", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 177, 
-  "icao:code": "YMML", 
+  "wof:concordances": {
+    "icao:code": "YMML", 
+    "iata:code": "MEL"
+  }, 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Santa Maria Public Airport", 
-  "iata:code": "SMX", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 124, 
-  "icao:code": "KSMX", 
+  "sfomuseum:name": "Santa Maria Public Airport", 
+  "wof:concordances": {
+    "icao:code": "KSMX", 
+    "iata:code": "SMX"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

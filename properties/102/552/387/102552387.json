@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Christchurch International Airport", 
   "edtf:inception": "1940", 
-  "iata:code": "CHC", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 219, 
-  "icao:code": "NZCH", 
+  "wof:concordances": {
+    "icao:code": "NZCH", 
+    "iata:code": "CHC"
+  }, 
   "sfomuseum:is_sfo": 1
 }

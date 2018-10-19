@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Spokane International Airport", 
   "edtf:inception": "1946", 
-  "iata:code": "GEG", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 256, 
-  "icao:code": "KGEG", 
+  "wof:concordances": {
+    "icao:code": "KGEG", 
+    "iata:code": "GEG"
+  }, 
   "sfomuseum:is_sfo": 1
 }

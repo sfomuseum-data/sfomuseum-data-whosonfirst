@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Sacramento International Airport", 
-  "iata:code": "SMF", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 116, 
-  "icao:code": "KSMF", 
+  "sfomuseum:name": "Sacramento International Airport", 
+  "wof:concordances": {
+    "icao:code": "KSMF", 
+    "iata:code": "SMF"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

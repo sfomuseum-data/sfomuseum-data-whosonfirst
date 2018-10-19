@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Halifax Stanfield International Airport", 
-  "iata:code": "YHZ", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 45, 
-  "icao:code": "CYHZ", 
+  "sfomuseum:name": "Halifax Stanfield International Airport", 
+  "wof:concordances": {
+    "icao:code": "CYHZ", 
+    "iata:code": "YHZ"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

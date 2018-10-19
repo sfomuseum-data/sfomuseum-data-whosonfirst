@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Hong Kong International Airport", 
-  "iata:code": "HKG", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 51, 
-  "icao:code": "VHHH", 
+  "sfomuseum:name": "Hong Kong International Airport", 
+  "wof:concordances": {
+    "icao:code": "VHHH", 
+    "iata:code": "HKG"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Paya Lebar Airport", 
-  "iata:code": "QPG", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 133, 
-  "icao:code": "WSAP", 
+  "sfomuseum:name": "Paya Lebar Airport", 
+  "wof:concordances": {
+    "icao:code": "WSAP", 
+    "iata:code": "QPG"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

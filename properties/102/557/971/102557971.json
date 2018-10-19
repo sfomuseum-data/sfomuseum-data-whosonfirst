@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Cairns Airport", 
-  "iata:code": "CNS", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 22, 
-  "icao:code": "YBCS", 
+  "sfomuseum:name": "Cairns Airport", 
+  "wof:concordances": {
+    "icao:code": "YBCS", 
+    "iata:code": "CNS"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

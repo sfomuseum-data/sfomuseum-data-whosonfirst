@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Los Angeles International Airport", 
-  "iata:code": "LAX", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 71, 
-  "icao:code": "KLAX", 
+  "sfomuseum:name": "Los Angeles International Airport", 
+  "wof:concordances": {
+    "icao:code": "KLAX", 
+    "iata:code": "LAX"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Chicago Midway International Airport", 
-  "iata:code": "MDW", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 25, 
-  "icao:code": "KMDW", 
+  "sfomuseum:name": "Chicago Midway International Airport", 
+  "wof:concordances": {
+    "icao:code": "KMDW", 
+    "iata:code": "MDW"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

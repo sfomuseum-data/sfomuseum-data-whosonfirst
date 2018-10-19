@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Tocumen International Airport", 
   "edtf:inception": "1947", 
-  "iata:code": "PTY", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 258, 
-  "icao:code": "MPTO", 
+  "wof:concordances": {
+    "icao:code": "MPTO", 
+    "iata:code": "PTY"
+  }, 
   "sfomuseum:is_sfo": 1
 }

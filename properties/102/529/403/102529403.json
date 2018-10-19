@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Philadelphia International Airport", 
-  "iata:code": "PHL", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 107, 
-  "icao:code": "KPHL", 
+  "sfomuseum:name": "Philadelphia International Airport", 
+  "wof:concordances": {
+    "icao:code": "KPHL", 
+    "iata:code": "PHL"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

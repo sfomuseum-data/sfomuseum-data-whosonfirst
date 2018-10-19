@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Ninoy Aquino International Airport", 
-  "iata:code": "MNL", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 77, 
-  "icao:code": "RPLL", 
+  "sfomuseum:name": "Ninoy Aquino International Airport", 
+  "wof:concordances": {
+    "icao:code": "RPLL", 
+    "iata:code": "MNL"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

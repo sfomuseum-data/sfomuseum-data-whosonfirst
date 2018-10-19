@@ -2,9 +2,11 @@
   "edtf:cessation": "1985", 
   "sfomuseum:name": "Kanawha Airport", 
   "edtf:inception": "1947", 
-  "iata:code": "CRW", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 210, 
-  "icao:code": "KCRW", 
+  "wof:concordances": {
+    "icao:code": "KCRW", 
+    "iata:code": "CRW"
+  }, 
   "sfomuseum:is_sfo": 1
 }

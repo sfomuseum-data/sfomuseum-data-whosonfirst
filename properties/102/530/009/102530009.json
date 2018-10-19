@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Louis Armstrong New Orleans International Airport", 
-  "iata:code": "MSY", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 93, 
-  "icao:code": "KMSY", 
+  "sfomuseum:name": "Louis Armstrong New Orleans International Airport", 
+  "wof:concordances": {
+    "icao:code": "KMSY", 
+    "iata:code": "MSY"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

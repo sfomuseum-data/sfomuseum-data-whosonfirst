@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Nut Tree Airport", 
-  "iata:code": "VCB", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 149, 
-  "icao:code": "KVCB", 
+  "sfomuseum:name": "Nut Tree Airport", 
+  "wof:concordances": {
+    "icao:code": "KVCB", 
+    "iata:code": "VCB"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

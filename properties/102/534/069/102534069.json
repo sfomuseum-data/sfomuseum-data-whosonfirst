@@ -2,9 +2,11 @@
   "edtf:cessation": "1963", 
   "sfomuseum:name": "Idlewild Airport", 
   "edtf:inception": "1948", 
-  "iata:code": "IDL", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 164, 
-  "icao:code": "KIDL", 
+  "wof:concordances": {
+    "icao:code": "KIDL", 
+    "iata:code": "IDL"
+  }, 
   "sfomuseum:is_sfo": 1
 }

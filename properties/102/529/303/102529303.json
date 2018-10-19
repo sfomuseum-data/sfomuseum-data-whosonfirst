@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Akron Fulton International Airport", 
   "edtf:inception": "1929", 
-  "iata:code": "AKC", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 185, 
-  "icao:code": "KAKR", 
+  "wof:concordances": {
+    "icao:code": "KAKR", 
+    "iata:code": "AKC"
+  }, 
   "sfomuseum:is_sfo": 1
 }

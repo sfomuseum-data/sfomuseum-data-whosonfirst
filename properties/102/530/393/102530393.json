@@ -1,9 +1,11 @@
 {
   "sfomuseum:name": "Block Island State Airport", 
   "edtf:inception": "1950", 
-  "iata:code": "BID", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 199, 
-  "icao:code": "KBID", 
+  "wof:concordances": {
+    "icao:code": "KBID", 
+    "iata:code": "BID"
+  }, 
   "sfomuseum:is_sfo": 1
 }

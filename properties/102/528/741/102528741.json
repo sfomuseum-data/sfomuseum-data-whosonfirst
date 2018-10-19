@@ -2,9 +2,11 @@
   "edtf:cessation": "1979~", 
   "sfomuseum:name": "Broome County Airport", 
   "edtf:inception": "1951", 
-  "iata:code": "BGM", 
   "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 197, 
-  "icao:code": "KBGM", 
+  "wof:concordances": {
+    "icao:code": "KBGM", 
+    "iata:code": "BGM"
+  }, 
   "sfomuseum:is_sfo": 1
 }

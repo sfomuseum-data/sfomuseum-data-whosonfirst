@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Augusto C. Sandino International Airport", 
-  "iata:code": "MGA", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 75, 
-  "icao:code": "MNMG", 
+  "sfomuseum:name": "Augusto C. Sandino International Airport", 
+  "wof:concordances": {
+    "icao:code": "MNMG", 
+    "iata:code": "MGA"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

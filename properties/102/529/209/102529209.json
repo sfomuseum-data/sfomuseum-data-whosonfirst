@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Allegheny County Airport", 
-  "iata:code": "AGC", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 155, 
-  "icao:code": "KAGC", 
+  "sfomuseum:name": "Allegheny County Airport", 
+  "wof:concordances": {
+    "icao:code": "KAGC", 
+    "iata:code": "AGC"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

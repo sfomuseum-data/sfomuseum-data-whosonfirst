@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "El Paso Municipal Airport", 
-  "iata:code": "ELP", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 240, 
-  "icao:code": "KELP", 
+  "sfomuseum:name": "El Paso Municipal Airport", 
+  "wof:concordances": {
+    "icao:code": "KELP", 
+    "iata:code": "ELP"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

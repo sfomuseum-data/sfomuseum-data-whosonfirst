@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "D\u00fcsseldorf International Airport", 
-  "iata:code": "DUS", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 37, 
-  "icao:code": "EDDL", 
+  "sfomuseum:name": "D\u00fcsseldorf International Airport", 
+  "wof:concordances": {
+    "icao:code": "EDDL", 
+    "iata:code": "DUS"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

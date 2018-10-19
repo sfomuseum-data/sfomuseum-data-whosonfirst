@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Bloemfontein Airport", 
-  "iata:code": "BFN", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 201, 
-  "icao:code": "FABL", 
+  "sfomuseum:name": "Bloemfontein Airport", 
+  "wof:concordances": {
+    "icao:code": "FABL", 
+    "iata:code": "BFN"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

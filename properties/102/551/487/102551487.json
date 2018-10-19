@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Taiwan Taoyuan International Airport", 
-  "iata:code": "TPE", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 139, 
-  "icao:code": "RCTP", 
+  "sfomuseum:name": "Taiwan Taoyuan International Airport", 
+  "wof:concordances": {
+    "icao:code": "RCTP", 
+    "iata:code": "TPE"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

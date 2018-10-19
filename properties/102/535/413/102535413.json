@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "S\u00e3o Paulo-Guarulhos International Airport", 
-  "iata:code": "GRU", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 126, 
-  "icao:code": "SBGR", 
+  "sfomuseum:name": "S\u00e3o Paulo-Guarulhos International Airport", 
+  "wof:concordances": {
+    "icao:code": "SBGR", 
+    "iata:code": "GRU"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

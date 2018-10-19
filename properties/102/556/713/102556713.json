@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "London Gatwick Airport", 
-  "iata:code": "LGW", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 69, 
-  "icao:code": "EGKK", 
+  "sfomuseum:name": "London Gatwick Airport", 
+  "wof:concordances": {
+    "icao:code": "EGKK", 
+    "iata:code": "LGW"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

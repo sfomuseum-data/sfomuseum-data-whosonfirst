@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Tan Son Nhat International Airport", 
-  "iata:code": "SGN", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 50, 
-  "icao:code": "VVTS", 
+  "sfomuseum:name": "Tan Son Nhat International Airport", 
+  "wof:concordances": {
+    "icao:code": "VVTS", 
+    "iata:code": "SGN"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

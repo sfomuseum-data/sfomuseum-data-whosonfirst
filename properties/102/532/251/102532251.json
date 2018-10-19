@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Portland International Airport", 
-  "iata:code": "PDX", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 110, 
-  "icao:code": "KPDX", 
+  "sfomuseum:name": "Portland International Airport", 
+  "wof:concordances": {
+    "icao:code": "KPDX", 
+    "iata:code": "PDX"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

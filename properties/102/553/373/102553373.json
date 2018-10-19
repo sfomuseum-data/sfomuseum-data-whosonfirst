@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Helsinki-Vantaa Airport", 
-  "iata:code": "HEL", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 48, 
-  "icao:code": "EFHK", 
+  "sfomuseum:name": "Helsinki-Vantaa Airport", 
+  "wof:concordances": {
+    "icao:code": "EFHK", 
+    "iata:code": "HEL"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

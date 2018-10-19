@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Boston Logan International Airport", 
-  "iata:code": "BOS", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 17, 
-  "icao:code": "KBOS", 
+  "sfomuseum:name": "Boston Logan International Airport", 
+  "wof:concordances": {
+    "icao:code": "KBOS", 
+    "iata:code": "BOS"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

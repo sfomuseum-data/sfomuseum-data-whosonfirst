@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "San Salvador Airport", 
-  "iata:code": "SAL", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 263, 
-  "icao:code": "MSLP", 
+  "sfomuseum:name": "San Salvador Airport", 
+  "wof:concordances": {
+    "icao:code": "MSLP", 
+    "iata:code": "SAL"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

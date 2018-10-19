@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Hilo International Airport", 
-  "iata:code": "ITO", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 49, 
-  "icao:code": "PHTO", 
+  "sfomuseum:name": "Hilo International Airport", 
+  "wof:concordances": {
+    "icao:code": "PHTO", 
+    "iata:code": "ITO"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Hector International Airport", 
-  "iata:code": "FAR", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 245, 
-  "icao:code": "KFAR", 
+  "sfomuseum:name": "Hector International Airport", 
+  "wof:concordances": {
+    "icao:code": "KFAR", 
+    "iata:code": "FAR"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

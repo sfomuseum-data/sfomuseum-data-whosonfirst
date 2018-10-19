@@ -1,8 +1,10 @@
 {
-  "sfomuseum:name": "Ministro Pistarini International Airport", 
-  "iata:code": "EZE", 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:airport_id": 20, 
-  "icao:code": "SAEZ", 
+  "sfomuseum:name": "Ministro Pistarini International Airport", 
+  "wof:concordances": {
+    "icao:code": "SAEZ", 
+    "iata:code": "EZE"
+  }, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

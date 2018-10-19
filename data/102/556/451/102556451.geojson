@@ -9,12 +9,19 @@
     "geom:bbox":"126.656311,37.449894,126.668167,37.458164",
     "geom:latitude":37.453752,
     "geom:longitude":126.661632,
+    "iata:code":"ICN",
+    "icao:code":"RKSI",
     "iso:country":"",
     "lbl:latitude":37.453966,
     "lbl:longitude":126.661632,
     "mps:latitude":37.453966,
     "mps:longitude":126.661632,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:airport_id":129,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Incheon International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -38,7 +45,7 @@
         "gp:id":24554859
     },
     "wof:country":"",
-    "wof:geomhash":"5ecf6253451f9d766ccb5648c731631e",
+    "wof:geomhash":"adc658e64f5f835de539840d4b4e67b0",
     "wof:hierarchy":[
         {
             "campus_id":102556451,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102556451,
-    "wof:lastmodified":1479836864,
+    "wof:lastmodified":1539983671,
     "wof:name":"\uc778\ucc9c\uacf5\ud56d",
     "wof:parent_id":85926685,
     "wof:placetype":"campus",

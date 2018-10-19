@@ -2,13 +2,17 @@
   "id": 102541685,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1978-01-01",
+    "date:inception_upper":"1978-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1978",
     "geom:area":0.001674,
     "geom:area_square_m":16801178.658207,
     "geom:bbox":"140.36084,35.734528,140.414719,35.812778",
     "geom:latitude":35.76175,
     "geom:longitude":140.389552,
+    "iata:code":"NRT",
+    "icao:code":"RJAA",
     "iso:country":"JP",
     "lbl:latitude":35.755744,
     "lbl:longitude":140.395257,
@@ -139,6 +143,10 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Narita"
     ],
+    "sfomuseum:airport_id":273,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Narita International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -174,7 +182,7 @@
         }
     ],
     "wof:id":102541685,
-    "wof:lastmodified":1535389837,
+    "wof:lastmodified":1539983669,
     "wof:name":"\u6210\u7530\u56fd\u969b\u7a7a\u6e2f",
     "wof:parent_id":102031933,
     "wof:placetype":"campus",

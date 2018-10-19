@@ -5,10 +5,11 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":2431865.152391,
+    "geom:area_square_m":2431865.152394,
     "geom:bbox":"-123.440834,48.634144,-123.405998,48.655239",
     "geom:latitude":48.644383,
     "geom:longitude":-123.421248,
+    "iata:code":"YYJ",
     "iso:country":"",
     "lbl:latitude":48.645386,
     "lbl:longitude":-123.420983,
@@ -67,6 +68,10 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Victoria"
     ],
+    "sfomuseum:airport_id":173,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Victoria Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -78,11 +83,11 @@
         "state_id":2344916
     },
     "wof:belongsto":[
-        85682117,
         102191575,
         85633041,
         101740883,
-        890456487
+        890456487,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":102555149,
-    "wof:lastmodified":1531520066,
+    "wof:lastmodified":1539983672,
     "wof:name":"Victoria International Airport",
     "wof:parent_id":101740883,
     "wof:placetype":"campus",

@@ -5,10 +5,12 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00287,
-    "geom:area_square_m":20034547.83461,
+    "geom:area_square_m":20034547.834608,
     "geom:bbox":"12.603167,55.589157,12.70998,55.65575",
     "geom:latitude":55.622633,
     "geom:longitude":12.64873,
+    "iata:code":"CPH",
+    "icao:code":"EKCH",
     "iso:country":"DK",
     "lbl:latitude":55.627628,
     "lbl:longitude":12.649581,
@@ -19,6 +21,10 @@
     "name:eng_x_variant":[
         "ZGH"
     ],
+    "sfomuseum:airport_id":30,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Copenhagen Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":102544207,
-    "wof:lastmodified":1535389799,
+    "wof:lastmodified":1539983670,
     "wof:name":"K\u00f8benhavns Lufthavn",
     "wof:parent_id":85907903,
     "wof:placetype":"campus",

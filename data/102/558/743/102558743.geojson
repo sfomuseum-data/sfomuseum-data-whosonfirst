@@ -9,6 +9,8 @@
     "geom:bbox":"-151.751007,-16.444401,-151.751007,-16.444401",
     "geom:latitude":-16.444401,
     "geom:longitude":-151.751007,
+    "iata:code":"BOB",
+    "icao:code":"NTTB",
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -68,6 +70,8 @@
     "oa:type":"medium_airport",
     "sfomuseum:airport_id":16,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Bora Bora Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":102558743,
-    "wof:lastmodified":1539894146,
+    "wof:lastmodified":1539983669,
     "wof:name":"Motu-Mute Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

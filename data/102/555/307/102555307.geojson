@@ -7,10 +7,12 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1968",
     "geom:area":0.001424,
-    "geom:area_square_m":11506207.342874,
+    "geom:area_square_m":11506207.342886,
     "geom:bbox":"-123.209321192,49.1775778755,-123.148890365,49.2076005722",
     "geom:latitude":49.193527,
     "geom:longitude":-123.177538,
+    "iata:code":"YVR",
+    "icao:code":"CYVR",
     "iso:country":"CA",
     "lbl:latitude":49.19333,
     "lbl:longitude":-123.1792,
@@ -134,6 +136,8 @@
     "reversegeo:longitude":-123.1792,
     "sfomuseum:airport_id":150,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Vancouver International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":102555307,
-    "wof:lastmodified":1539894149,
+    "wof:lastmodified":1539983672,
     "wof:name":"Vancouver International Airport",
     "wof:parent_id":1108952593,
     "wof:placetype":"campus",

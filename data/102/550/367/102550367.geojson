@@ -5,10 +5,12 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002233,
-    "geom:area_square_m":21125962.60417,
+    "geom:area_square_m":21125962.604176,
     "geom:bbox":"116.55687,40.037334,116.621246,40.103874",
     "geom:latitude":40.068088,
     "geom:longitude":116.585113,
+    "iata:code":"PEK",
+    "icao:code":"ZBAA",
     "iso:country":"",
     "lbl:latitude":40.068469,
     "lbl:longitude":116.586155,
@@ -19,6 +21,10 @@
     "name:eng_x_variant":[
         "BJS"
     ],
+    "sfomuseum:airport_id":11,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Beijing Capital International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":102550367,
-    "wof:lastmodified":1535389655,
+    "wof:lastmodified":1539983672,
     "wof:name":"Beijing Capital Airport",
     "wof:parent_id":102027745,
     "wof:placetype":"campus",

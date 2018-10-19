@@ -5,13 +5,11 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1614386.584663,
+    "geom:area_square_m":1614386.584666,
     "geom:bbox":"-85.751038,38.174442,-85.734383,38.197609",
     "geom:latitude":38.187221,
     "geom:longitude":-85.743463,
     "gn:elevation":152,
-    "iata:code":"SDF",
-    "icao:code":"KSDF",
     "iso:country":"US",
     "lbl:latitude":38.187123,
     "lbl:longitude":-85.744415,
@@ -84,10 +82,6 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Louisville"
     ],
-    "sfomuseum:airport_id":72,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Louisville International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +106,7 @@
         "faa:code":"SDF",
         "gn:id":6301715,
         "gp:id":12521983,
-        "iata:code":"ZTV",
+        "iata:code":"SDF",
         "icao:code":"KSDF",
         "wd:id":"Q1199087",
         "wk:page":"Louisville International Airport"
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":102533321,
-    "wof:lastmodified":1539983669,
+    "wof:lastmodified":1539983812,
     "wof:name":"Louisville International Airport",
     "wof:parent_id":85873389,
     "wof:placetype":"campus",

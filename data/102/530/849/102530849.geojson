@@ -5,13 +5,11 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":5905038.203028,
+    "geom:area_square_m":5905038.203035,
     "geom:bbox":"-87.92337,42.921558,-87.883408,42.960289",
     "geom:latitude":42.944754,
     "geom:longitude":-87.899392,
     "gn:elevation":204,
-    "iata:code":"MKE",
-    "icao:code":"KMKE",
     "iso:country":"US",
     "lbl:latitude":42.949572,
     "lbl:longitude":-87.896339,
@@ -85,10 +83,6 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf General Mitchell"
     ],
-    "sfomuseum:airport_id":83,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"General Mitchell International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +108,7 @@
         "faa:code":"MKE",
         "gn:id":5254139,
         "gp:id":12519880,
-        "iata:code":"ZML",
+        "iata:code":"MKE",
         "icao:code":"KMKE",
         "wd:id":"Q537950",
         "wk:page":"General Mitchell International Airport"
@@ -134,7 +128,7 @@
         }
     ],
     "wof:id":102530849,
-    "wof:lastmodified":1539983669,
+    "wof:lastmodified":1539983813,
     "wof:name":"General Mitchell International Airport",
     "wof:parent_id":85870975,
     "wof:placetype":"campus",

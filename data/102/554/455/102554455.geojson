@@ -11,8 +11,6 @@
     "geom:bbox":"-54.577332,48.942558,-54.56789,48.947308",
     "geom:latitude":48.945271,
     "geom:longitude":-54.572577,
-    "iata:code":"YQX",
-    "icao:code":"CYQX",
     "iso:country":"",
     "lbl:latitude":48.945249,
     "lbl:longitude":-54.572648,
@@ -65,10 +63,6 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u043d\u0434\u0440"
     ],
-    "sfomuseum:airport_id":274,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Gander International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -88,6 +82,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511673,
+        "iata:code":"YQX",
+        "icao:code":"CYQX",
         "wd:id":"Q1431350"
     },
     "wof:country":"",
@@ -104,7 +100,7 @@
         }
     ],
     "wof:id":102554455,
-    "wof:lastmodified":1539983669,
+    "wof:lastmodified":1539983813,
     "wof:name":"Gander International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

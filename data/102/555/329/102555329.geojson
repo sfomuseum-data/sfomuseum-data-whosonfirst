@@ -9,8 +9,6 @@
     "geom:bbox":"-68.569275,63.743328,-68.528076,63.756672",
     "geom:latitude":63.75009,
     "geom:longitude":-68.548138,
-    "iata:code":"YFB",
-    "icao:code":"CYFB",
     "iso:country":"",
     "lbl:latitude":63.748893,
     "lbl:longitude":-68.5536,
@@ -90,10 +88,6 @@
     "name:zho_x_preferred":[
         "\u4f0a\u9b41\u7279\u6a5f\u5834"
     ],
-    "sfomuseum:airport_id":56,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Iqaluit Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -113,6 +107,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511707,
+        "iata:code":"YFB",
+        "icao:code":"CYFB",
         "wd:id":"Q2415100"
     },
     "wof:country":"",
@@ -127,7 +123,7 @@
         }
     ],
     "wof:id":102555329,
-    "wof:lastmodified":1539983672,
+    "wof:lastmodified":1539983813,
     "wof:name":"Iqaluit Airport",
     "wof:parent_id":101735445,
     "wof:placetype":"campus",

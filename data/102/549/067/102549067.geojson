@@ -5,12 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001258,
-    "geom:area_square_m":10334507.3547,
+    "geom:area_square_m":10334507.354699,
     "geom:bbox":"11.750607,48.339134,11.812613,48.373512",
     "geom:latitude":48.354433,
     "geom:longitude":11.780722,
-    "iata:code":"MUC",
-    "icao:code":"EDDM",
     "iso:country":"",
     "lbl:latitude":48.352681,
     "lbl:longitude":11.776808,
@@ -23,10 +21,6 @@
         "XMUC"
     ],
     "oa:type":"closed",
-    "sfomuseum:airport_id":91,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Munich Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -45,7 +39,7 @@
     "wof:concordances":{
         "gp:id":22923040,
         "iata:code":"MUC",
-        "icao:code":"XMUC",
+        "icao:code":"EDDM",
         "oa:id":"30591",
         "wd:id":"Q131402",
         "wk:page":"Munich-Riem_airport"
@@ -60,7 +54,7 @@
         }
     ],
     "wof:id":102549067,
-    "wof:lastmodified":1539983671,
+    "wof:lastmodified":1539983813,
     "wof:name":"Franz-Josef-Strauss Airport",
     "wof:parent_id":85682571,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000728,
-    "geom:area_square_m":6654580.508864,
+    "geom:area_square_m":6654580.508871,
     "geom:bbox":"-71.029459,42.3466697683,-70.9862590819,42.3803501528",
     "geom:latitude":42.364181,
     "geom:longitude":-71.010808,
@@ -104,6 +104,10 @@
     ],
     "oa:elevation_ft":"20",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":17,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Boston Logan International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":102530741,
-    "wof:lastmodified":1535389806,
+    "wof:lastmodified":1539985220,
     "wof:name":"Gen E L Logan International Airport",
     "wof:parent_id":1108712227,
     "wof:placetype":"campus",

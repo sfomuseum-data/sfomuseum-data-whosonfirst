@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002996,
-    "geom:area_square_m":22651065.561002,
+    "geom:area_square_m":22651065.561003,
     "geom:bbox":"4.70592827461,52.2829391624,4.81707540703,52.3680155824",
     "geom:latitude":52.311228,
     "geom:longitude":4.760706,
@@ -40,6 +40,10 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":52.302739,
     "reversegeo:longitude":4.759844,
+    "sfomuseum:airport_id":2,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Amsterdam Airport Schiphol",
+    "sfomuseum:placetype":"airport",
     "src:geom":"cbsnl",
     "src:geom_alt":[
         "woedb"
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102542801,
-    "wof:lastmodified":1527637317,
+    "wof:lastmodified":1539985222,
     "wof:name":"Amsterdam Airport Schiphol",
     "wof:parent_id":1158822865,
     "wof:placetype":"campus",

@@ -150,6 +150,10 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":33.653467,
     "reversegeo:longitude":-84.423913,
+    "sfomuseum:airport_id":190,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Atlanta Municipal Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -206,7 +210,7 @@
         }
     ],
     "wof:id":102526927,
-    "wof:lastmodified":1539983812,
+    "wof:lastmodified":1539985223,
     "wof:name":"Hartsfield-Jackson Atlanta International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

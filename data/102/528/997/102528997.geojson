@@ -118,6 +118,10 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":32.733262,
     "reversegeo:longitude":-117.189768,
+    "sfomuseum:airport_id":120,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"San Diego International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":102528997,
-    "wof:lastmodified":1527637266,
+    "wof:lastmodified":1539985220,
     "wof:name":"San Diego International Airport",
     "wof:parent_id":85871191,
     "wof:placetype":"campus",

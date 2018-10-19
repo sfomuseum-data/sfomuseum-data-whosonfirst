@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
+    "geom:area_square_m":1731917.260821,
     "geom:bbox":"26.064291,44.56002,26.101713,44.578117",
     "geom:latitude":44.569598,
     "geom:longitude":26.08212,
@@ -14,12 +15,17 @@
     "mps:latitude":44.571102,
     "mps:longitude":26.082403,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OTP",
         "LROP"
     ],
     "oa:elevation_ft":"314",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":264,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Bucharest Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -44,7 +50,7 @@
         "wk:page":"Henri_Coand%C4%83_International_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"65f29b4b4cca797df77103a6908c1bb2",
+    "wof:geomhash":"8f5dac4e6209f126e3cd30aee157ba62",
     "wof:hierarchy":[
         {
             "campus_id":102559229,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":102559229,
-    "wof:lastmodified":1471047869,
+    "wof:lastmodified":1539985220,
     "wof:name":"Otopeni Airport",
     "wof:parent_id":101753935,
     "wof:placetype":"campus",

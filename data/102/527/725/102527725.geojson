@@ -2,10 +2,12 @@
   "id": 102527725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1931-05-31",
+    "date:inception_upper":"1931-05-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1931-05-31",
     "geom:area":0.000164,
-    "geom:area_square_m":1687607.412865,
+    "geom:area_square_m":1687607.412864,
     "geom:bbox":"-86.761604,33.557098,-86.736557,33.571426",
     "geom:latitude":33.56484,
     "geom:longitude":-86.750625,
@@ -26,13 +28,16 @@
     "name:dut_x_preferred":[
         "Birmingham-Shuttlesworth International Airport"
     ],
+    "name:eng_x_historical":[
+        "Birmingham International Airport",
+        "Birmingham Municipal Airport"
+    ],
     "name:eng_x_preferred":[
-        "Birmingham Int'l Airport"
+        "Birmingham-Shuttlesworth International Airport"
     ],
     "name:eng_x_variant":[
         "BHM",
-        "KBHM",
-        "Birmingham-Shuttlesworth International Airport"
+        "KBHM"
     ],
     "name:fin_x_preferred":[
         "Birminghamin kansainv\u00e4linen lentoasema "
@@ -126,8 +131,8 @@
         }
     ],
     "wof:id":102527725,
-    "wof:lastmodified":1540252760,
-    "wof:name":"Birmingham Int'l Airport",
+    "wof:lastmodified":1540321763,
+    "wof:name":"Birmingham\u2013Shuttlesworth International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",

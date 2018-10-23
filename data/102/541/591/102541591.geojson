@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1931-08-25",
     "geom:area":0.002998,
-    "geom:area_square_m":30159869.728878,
+    "geom:area_square_m":30159869.728865,
     "geom:bbox":"139.725662,35.515312,139.81366,35.590473",
     "geom:latitude":35.555814,
     "geom:longitude":139.771974,
@@ -42,6 +42,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d8\u05d5\u05e7\u05d9\u05d5 \u05d4\u05d0\u05e0\u05d3\u05d4"
+    ],
+    "name:jap_x_preferred":[
+        "\u6771\u4eac\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:jpn_x_preferred":[
         "T\u014dky\u014d Kokusai K\u016bk\u014d"
@@ -110,8 +113,8 @@
         }
     ],
     "wof:id":102541591,
-    "wof:lastmodified":1540252759,
-    "wof:name":"\u6771\u4eac\u56fd\u969b\u7a7a\u6e2f",
+    "wof:lastmodified":1540321766,
+    "wof:name":"Tokyo Haneda Airport",
     "wof:parent_id":85911187,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",

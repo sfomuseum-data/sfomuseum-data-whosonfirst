@@ -2,10 +2,12 @@
   "id": 102555149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1959-01-01",
+    "date:inception_upper":"1959-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1959",
     "geom:area":0.000298,
-    "geom:area_square_m":2431865.152394,
+    "geom:area_square_m":2431865.152391,
     "geom:bbox":"-123.440834,48.634144,-123.405998,48.655239",
     "geom:latitude":48.644383,
     "geom:longitude":-123.421248,
@@ -92,6 +94,7 @@
     "wof:concordances":{
         "gp:id":12511899,
         "iata:code":"YYJ",
+        "icao:code":"CYYJ",
         "wd:id":"Q130193"
     },
     "wof:country":"",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102555149,
-    "wof:lastmodified":1540252763,
+    "wof:lastmodified":1540321765,
     "wof:name":"Victoria International Airport",
     "wof:parent_id":101740883,
     "wof:placetype":"campus",

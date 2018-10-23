@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1941-09-01",
     "geom:area":0.001328,
-    "geom:area_square_m":11518829.577383,
+    "geom:area_square_m":11518829.577391,
     "geom:bbox":"-73.7820387447,45.4471494515,-73.7080113169,45.4878050297",
     "geom:latitude":45.467368,
     "geom:longitude":-73.743634,
@@ -44,6 +44,9 @@
     ],
     "name:fin_x_preferred":[
         "Montreal-Pierre Elliott Trudeaun kansainv\u00e4linen lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "Aeroport International Pierre-Elliott-Trudeau de Montreal"
     ],
     "name:fre_x_preferred":[
         "A\u00e9roport International Pierre-Elliott-Trudeau de Montreal"
@@ -175,8 +178,8 @@
         }
     ],
     "wof:id":102554351,
-    "wof:lastmodified":1540252760,
-    "wof:name":"Aeroport International Pierre-Elliott-Trudeau de Montreal",
+    "wof:lastmodified":1540321766,
+    "wof:name":"Montreal-Pierre Elliott Trudeau International Airport",
     "wof:parent_id":101736475,
     "wof:placetype":"campus",
     "wof:population_rank":0,

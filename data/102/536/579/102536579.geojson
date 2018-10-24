@@ -2,14 +2,16 @@
   "id": 102536579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1910-01-01",
+    "date:inception_upper":"1910-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1910",
     "geom:area":0.000693,
-    "geom:area_square_m":8083776.079112,
+    "geom:area_square_m":8083776.079109,
     "geom:bbox":"-99.108055,19.407827,-99.061935,19.462181",
     "geom:latitude":19.431671,
     "geom:longitude":-99.083075,
-    "iso:country":"",
+    "iso:country":"MX",
     "lbl:latitude":19.431302,
     "lbl:longitude":-99.080804,
     "mps:latitude":19.431302,
@@ -29,9 +31,10 @@
         "Internationale Luchthaven Benito Ju\u00e1rez"
     ],
     "name:eng_x_preferred":[
-        "Mexico City International Airport"
+        "Benito Ju\u00e1rez International Airport"
     ],
     "name:eng_x_variant":[
+        "Mexico City International Airport",
         "MEX",
         "MMMX"
     ],
@@ -139,7 +142,7 @@
         "wd:id":"Q860559",
         "wk:page":"Mexico_City_International_Airport"
     },
-    "wof:country":"",
+    "wof:country":"MX",
     "wof:geomhash":"8c353744ea508c312239af04a8262e3e",
     "wof:hierarchy":[
         {
@@ -164,8 +167,8 @@
         }
     ],
     "wof:id":102536579,
-    "wof:lastmodified":1540321766,
-    "wof:name":"Lic Benito Juarez International Airport",
+    "wof:lastmodified":1540345491,
+    "wof:name":"Benito Juarez International Airport",
     "wof:parent_id":85793999,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",

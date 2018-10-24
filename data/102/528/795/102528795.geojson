@@ -2,15 +2,21 @@
   "id": 102528795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1944-07-01",
+    "date:inception_upper":"1944-07-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1944-07",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"",
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.2715556,43.0664722,-83.2715556,43.0664722",
+    "geom:latitude":43.066472,
+    "geom:longitude":-83.271556,
+    "iso:country":"US",
+    "lbl:latitude":43.066472,
+    "lbl:longitude":-83.271556,
     "mz:hierarchy_label":1,
-    "src:geom":"missing",
+    "mz:is_current":1,
+    "src:geom":"sfomuseum",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -24,10 +30,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "faa:code":"D95",
         "gp:id":12519549
     },
-    "wof:country":"",
-    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:country":"US",
+    "wof:geomhash":"776441a762b50a5909f969f23cc309fb",
     "wof:hierarchy":[
         {
             "campus_id":102528795,
@@ -36,9 +43,9 @@
         }
     ],
     "wof:id":102528795,
-    "wof:lastmodified":1469812218,
+    "wof:lastmodified":1540339059,
     "wof:name":"Dupont Lapeer Airport",
-    "wof:parent_id":85688599,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
@@ -48,10 +55,10 @@
     ]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -83.2715556,
+    43.0664722,
+    -83.2715556,
+    43.0664722
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[-83.2715556,43.0664722],"type":"Point"}
 }

@@ -2,12 +2,12 @@
   "id": 102527513,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1927-03-15",
-    "date:inception_upper":"1927-03-15",
+    "date:inception_lower":"1948-01-01",
+    "date:inception_upper":"1948-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"1927-03-15",
+    "edtf:inception":"1948~",
     "geom:area":0.000932,
-    "geom:area_square_m":9124709.096504,
+    "geom:area_square_m":9124709.096507,
     "geom:bbox":"-122.405228,37.604481,-122.355044,37.645194",
     "geom:latitude":37.622096,
     "geom:longitude":-122.384864,
@@ -181,10 +181,6 @@
     ],
     "oa:elevation_ft":"13",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":121,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"San Francisco International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"uszcta",
     "src:geom_alt":[
         "woedb"
@@ -243,13 +239,15 @@
         }
     ],
     "wof:id":102527513,
-    "wof:lastmodified":1540345488,
+    "wof:lastmodified":1540420816,
     "wof:name":"San Francisco International Airport",
     "wof:parent_id":85922583,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360695655
+    ],
     "wof:tags":[
         "airport"
     ]

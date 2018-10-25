@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
+    "geom:area_square_m":1222487.622596,
     "geom:bbox":"-80.27269,40.487576,-80.24131,40.497616",
     "geom:latitude":40.493164,
     "geom:longitude":-80.258243,
@@ -14,6 +15,7 @@
     "mps:latitude":40.492624,
     "mps:longitude":-80.259551,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Greater Pittsburgh International Airport"
     ],
@@ -23,6 +25,10 @@
     ],
     "oa:elevation_ft":"1203",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":109,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Pittsburgh International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -50,7 +56,7 @@
         "wk:page":"Pittsburgh_International_Airport"
     },
     "wof:country":"US",
-    "wof:geomhash":"400f34894c0e1d1ef48b5be14f000181",
+    "wof:geomhash":"2e7eb454d7924accaa309c51a337b616",
     "wof:hierarchy":[
         {
             "campus_id":102528181,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":102528181,
-    "wof:lastmodified":1473198854,
+    "wof:lastmodified":1540504369,
     "wof:name":"Greater Pittsburgh International Airport",
     "wof:parent_id":404484901,
     "wof:placetype":"campus",

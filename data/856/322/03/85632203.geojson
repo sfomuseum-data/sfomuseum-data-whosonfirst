@@ -811,6 +811,8 @@
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
     "reversegeo:geometry":"85632203-alt-quattroshapes-reversegeo.geojson",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
@@ -876,7 +878,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538177717,
+    "wof:lastmodified":1540504425,
     "wof:name":"Indonesia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

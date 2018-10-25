@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001101,
-    "geom:area_square_m":8478285.402717,
+    "geom:area_square_m":8478285.402715,
     "geom:bbox":"-0.496959,51.452133,-0.418124,51.4851",
     "geom:latitude":51.470713,
     "geom:longitude":-0.453723,
@@ -243,10 +243,6 @@
     "name:yue_x_preferred":[
         "\u502b\u6566\u5e0c\u65af\u8def\u6a5f\u5834"
     ],
-    "sfomuseum:airport_id":70,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"London Heathrow Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -288,7 +284,7 @@
         }
     ],
     "wof:id":102556703,
-    "wof:lastmodified":1540498355,
+    "wof:lastmodified":1527636363,
     "wof:name":"London Heathrow Airport",
     "wof:parent_id":85788065,
     "wof:placetype":"campus",

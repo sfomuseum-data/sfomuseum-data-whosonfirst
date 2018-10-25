@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011836,
-    "geom:area_square_m":122890439.444991,
+    "geom:area_square_m":122890439.444989,
     "geom:bbox":"-97.106667,32.837563,-96.985809,32.959831",
     "geom:latitude":32.895265,
     "geom:longitude":-97.049809,
@@ -122,10 +122,6 @@
     ],
     "oa:elevation_ft":"607",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":32,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Dallas / Fort Worth International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -136,11 +132,11 @@
         "state_id":2347602
     },
     "wof:belongsto":[
+        85688753,
         102191575,
         85633793,
         101724411,
-        102083201,
-        85688753
+        102083201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +162,7 @@
         }
     ],
     "wof:id":102528541,
-    "wof:lastmodified":1540498357,
+    "wof:lastmodified":1531872957,
     "wof:name":"Dallas-Fort Worth International Airport",
     "wof:parent_id":101724411,
     "wof:placetype":"campus",

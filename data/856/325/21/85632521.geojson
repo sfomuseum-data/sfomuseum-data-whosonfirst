@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":106.595056,
-    "geom:area_square_m":1297329565909.463379,
+    "geom:area_square_m":1297329565909.445312,
     "geom:bbox":"-81.328781128,-18.351788101,-68.652329,-0.038777",
     "geom:latitude":-9.170911,
     "geom:longitude":-74.357813,
@@ -855,6 +855,8 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -930,7 +932,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1537303845,
+    "wof:lastmodified":1540425591,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

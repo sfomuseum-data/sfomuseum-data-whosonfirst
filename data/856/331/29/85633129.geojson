@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":53.588276,
-    "geom:area_square_m":505472480124.945984,
+    "geom:area_square_m":505472480124.945129,
     "geom:bbox":"-18.16077363,27.63783897,4.32773866,43.7913417",
     "geom:latitude":40.228091,
     "geom:longitude":-3.646342,
@@ -1054,6 +1054,8 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
@@ -1133,7 +1135,7 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1538173546,
+    "wof:lastmodified":1540425555,
     "wof:name":"Spain",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

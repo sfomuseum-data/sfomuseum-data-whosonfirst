@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003149,
-    "geom:area_square_m":29615502.546071,
+    "geom:area_square_m":29615502.546068,
     "geom:bbox":"-3.6031845975,40.4465576304,-3.52491140974,40.5124046886",
     "geom:latitude":40.478558,
     "geom:longitude":-3.563446,
@@ -191,6 +191,10 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":40.47391,
     "reversegeo:longitude":-3.554885,
+    "sfomuseum:airport_id":74,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Madrid-Barajas Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"esp-aytomad",
     "src:geom_alt":[
         "woedb"
@@ -238,7 +242,7 @@
         }
     ],
     "wof:id":102545773,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1540425678,
     "wof:name":"Madrid-Barajas Airport",
     "wof:parent_id":1158846263,
     "wof:placetype":"campus",

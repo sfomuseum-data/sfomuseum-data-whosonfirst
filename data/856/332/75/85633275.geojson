@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324521,
-    "geom:area_square_m":2591300436.868561,
+    "geom:area_square_m":2591300436.868612,
     "geom:bbox":"5.735759,49.4478385,6.5296005,50.1827815",
     "geom:latitude":49.776861,
     "geom:longitude":6.092603,
@@ -992,6 +992,8 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -1068,7 +1070,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1537303982,
+    "wof:lastmodified":1540425510,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

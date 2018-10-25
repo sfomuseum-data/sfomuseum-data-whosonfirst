@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":2744706.226178,
+    "geom:area_square_m":2744706.226179,
     "geom:bbox":"2.414953,48.941811,2.447762,48.970356",
     "geom:latitude":48.95438,
     "geom:longitude":2.432338,
@@ -106,6 +106,10 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Paris-Le Bourget"
     ],
+    "sfomuseum:airport_id":106,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Paris-Le Bourget Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":102544455,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1540425676,
     "wof:name":"Paris-Le Bourget Airport",
     "wof:parent_id":101749819,
     "wof:placetype":"campus",

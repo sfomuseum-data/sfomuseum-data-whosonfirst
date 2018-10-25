@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.219378,
-    "geom:area_square_m":301085969732.571228,
+    "geom:area_square_m":301085969732.573242,
     "geom:bbox":"6.627119,35.492485,18.5205205,47.0924265",
     "geom:latitude":42.79477,
     "geom:longitude":12.076679,
@@ -1067,6 +1067,8 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
@@ -1143,7 +1145,7 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1538173566,
+    "wof:lastmodified":1540425506,
     "wof:name":"Italy",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -2,14 +2,16 @@
   "id": 102553765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1964-01-01",
+    "date:inception_upper":"1964-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1964",
     "geom:area":0.000461,
-    "geom:area_square_m":5423846.364609,
+    "geom:area_square_m":5423846.364613,
     "geom:bbox":"-63.141258,18.020201,-63.082466,18.052927",
     "geom:latitude":18.034453,
     "geom:longitude":-63.112129,
-    "iso:country":"",
+    "iso:country":"SX",
     "lbl:latitude":18.036353,
     "lbl:longitude":-63.121483,
     "mps:latitude":18.036353,
@@ -109,7 +111,10 @@
         "planet_id":1,
         "state_id":23425000
     },
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85632185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515140,
@@ -117,20 +122,20 @@
         "icao:code":"TNCM",
         "wd:id":"Q723325"
     },
-    "wof:country":"",
+    "wof:country":"SX",
     "wof:geomhash":"8313c2525040238645bb78ced0a8cf8f",
     "wof:hierarchy":[
         {
             "campus_id":102553765,
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191575,
+            "country_id":85632185,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":-1
         }
     ],
     "wof:id":102553765,
-    "wof:lastmodified":1540425675,
+    "wof:lastmodified":1540498359,
     "wof:name":"Prinses Juliana International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

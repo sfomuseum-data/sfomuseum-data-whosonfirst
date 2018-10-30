@@ -4,7 +4,7 @@ Who's On First data that SFO Museum is interested in.
 
 ## Background
 
-For background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) blog post.
+For background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) and [SFO Museum, Who's On First and Airports](https://millsfield.sfomuseum.org/blog/2018/10/30/airports/) blog posts.
 
 ## Refreshing (WOF) data
 

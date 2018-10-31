@@ -3,6 +3,9 @@ OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 # metafiles:
 # 	utils/$(OS)/wof-build-metafiles -out meta .
 
+fetch:
+	utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -mode ids $(IDS)
+
 refresh:
 	@make refresh-wof
 	@make refresh-sfomuseum

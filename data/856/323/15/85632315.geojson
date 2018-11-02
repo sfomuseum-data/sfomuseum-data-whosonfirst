@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.967957,
-    "geom:area_square_m":20777514414.399059,
+    "geom:area_square_m":20777514414.401348,
     "geom:bbox":"34.2672578,29.481163492,35.6699225,33.290743",
     "geom:latitude":31.356156,
     "geom:longitude":34.966592,
@@ -957,6 +957,8 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -1036,7 +1038,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1537303749,
+    "wof:lastmodified":1541200403,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

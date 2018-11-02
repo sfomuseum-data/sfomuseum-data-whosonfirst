@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.194751,
-    "geom:area_square_m":75751986936.930191,
+    "geom:area_square_m":75751986936.92836,
     "geom:bbox":"-83.052241,7.204750061,-77.158488,9.648361206",
     "geom:latitude":8.512102,
     "geom:longitude":-80.11246,
@@ -813,6 +813,8 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -887,7 +889,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1537303685,
+    "wof:lastmodified":1541200423,
     "wof:name":"Panama",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

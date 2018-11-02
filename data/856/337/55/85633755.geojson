@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2006-05~/2006-06~",
     "geom:area":8.732641,
-    "geom:area_square_m":77363039455.605652,
+    "geom:area_square_m":77363039455.605972,
     "geom:bbox":"18.8476865,42.2321745,23.0058355,46.1900485",
     "geom:latitude":44.23001,
     "geom:longitude":20.793595,
@@ -857,6 +857,8 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -935,7 +937,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1537303993,
+    "wof:lastmodified":1541200488,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

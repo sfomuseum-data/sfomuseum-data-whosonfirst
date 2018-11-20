@@ -23,3 +23,8 @@ rm-empty:
 	find data -type d -empty -print -delete
 
 scrub: rm-empty prune
+
+stats:
+	if test ! -d docs/stats; then mkdir -p docs/stats; fi
+	utils/$(OS)/wof-stats-counts -pretty -custom 'properties.sfomuseum:placetype' -out docs/stats/counts.json ./
+	utils/$(OS)/wof-stats-du -pretty > docs/stats/diskusage.json ./

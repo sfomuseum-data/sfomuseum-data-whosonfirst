@@ -1,0 +1,91 @@
+#!/usr/bin/env python
+# -*-python-*-
+
+import os
+import sys
+import logging
+import csv
+import json
+
+import mapzen.whosonfirst.utils
+import mapzen.whosonfirst.uri
+import mapzen.whosonfirst.export
+
+import lib
+
+if __name__ == "__main__":
+
+    import optparse
+    opt_parser = optparse.OptionParser()
+
+    opt_parser.add_option('-p', '--properties', dest='properties', action='store', default=None, help='...')
+    opt_parser.add_option('-d', '--data', dest='data', action='store', default=None, help='...')
+    opt_parser.add_option('-w', '--whosonfirst-data', dest='whosonfirst_data', action='store', default=None, help='...')    
+    opt_parser.add_option('-v', '--verbose', dest='verbose', action='store_true', default=False, help='Be chatty (default is false)')
+    
+    options, args = opt_parser.parse_args()
+
+    if options.verbose:
+        logging.basicConfig(level=logging.DEBUG)
+    else:
+        logging.basicConfig(level=logging.INFO)
+
+    properties = os.path.abspath(options.properties)
+    data = os.path.abspath(options.data)    
+
+    exporter = mapzen.whosonfirst.export.flatfile(data)
+    
+    wof_root = os.path.abspath(options.whosonfirst_data)
+    wof_data = os.path.join(wof_root, "data")
+    wof_meta = os.path.join(wof_root, "meta")
+
+    wof_concordances = os.path.join(wof_meta, "wof-concordances-latest.csv")
+
+    if not os.path.exists(wof_concordances):
+            logging.error("%s is missing - please run `make concordances` from inside %s" % (wof_concordances, wof_root))
+            sys.exit(1)
+            
+    iata_lookup = {}
+
+    fh = open(wof_concordances, "r")
+    reader = csv.DictReader(fh)
+
+    for row in reader:
+
+            iata_code = row.get("iata:code", None)
+
+            if not iata_code:
+                    continue
+
+            wof_ids = iata_lookup.get(iata_code, [])
+            wof_ids.append(row["wof:id"])
+        
+            iata_lookup[iata_code] = wof_ids
+
+    # this assumes a JSON file like this: { "XYZ": "whatevs", "ABC": "don't know don't care" }
+
+    for path in args:
+
+            fh = open(path, "r")
+            data = json.load(fh)
+
+            for iata_code, ignore in data.items():
+
+                    wof_ids = iata_lookup.get(iata_code, None)
+
+                    if not wof_ids:
+                            logging.warning("No record(s) for %s... which is weird" % (iata_code))
+                            continue
+
+                    for wof_id in wof_ids:
+                            
+                            feature = mapzen.whosonfirst.utils.load(wof_data, wof_id)
+                            exporter.export_feature(feature)
+                            
+                            tree = mapzen.whosonfirst.uri.id2path(wof_id)
+                            root = os.path.join(properties, tree)
+                            
+                            fname = "%s.json" % wof_id        
+                            path = os.path.join(root, fname)
+                            
+	                    lib.ensure_airport(feature, path)	   

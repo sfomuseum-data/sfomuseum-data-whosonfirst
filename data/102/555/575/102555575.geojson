@@ -79,6 +79,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Nadi"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102555575,
-    "wof:lastmodified":1535389826,
+    "wof:lastmodified":1542830606,
     "wof:name":"Nadi International Airport",
     "wof:parent_id":85671181,
     "wof:placetype":"campus",

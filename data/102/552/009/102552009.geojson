@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":288804.805201,
+    "geom:area_square_m":288804.805202,
     "geom:bbox":"14.453588,46.22361,14.460625,46.232697",
     "geom:latitude":46.229133,
     "geom:longitude":14.457452,
@@ -118,6 +118,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Ljubljana Jo\u017ee Pu\u010dnik"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -129,10 +132,10 @@
         "state_id":55848358
     },
     "wof:belongsto":[
-        1108959967,
         102191581,
         1108959493,
-        85633779
+        85633779,
+        1108959967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":102552009,
-    "wof:lastmodified":1531171371,
+    "wof:lastmodified":1542830606,
     "wof:name":"Ljubljana Airport",
     "wof:parent_id":1108959493,
     "wof:placetype":"campus",

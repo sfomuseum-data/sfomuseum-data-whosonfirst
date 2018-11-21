@@ -14,7 +14,11 @@ refresh-whosonfirst:
 	utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -reader 'reader=github repo=whosonfirst-data-postalcode-us' -mode repo .
 
 refresh-sfomuseum:
+	@make ensure-sfomuseum
 	python2 utils/python/merge-properties -p properties -d data
+
+ensure-sfomuseum:
+	python2 utils/python/ensure-sfomuseum-properties -p properties -d data
 
 prune:
 	git gc --aggressive --prune

@@ -1,0 +1,72 @@
+#!/usr/bin/env python
+# -*-python-*-
+
+import os
+import sys
+import logging
+import json
+
+import mapzen.whosonfirst.utils
+import mapzen.whosonfirst.uri
+import mapzen.whosonfirst.export
+
+def ensure_airport(feature, path):
+
+	if not os.path.exists(path):
+
+            sfom_props = {
+                        "sfomuseum:placetype": "airport",
+                        "sfomuseum:is_sfo": 0,
+                        "sfomuseum:airport_id": -1,
+            }
+
+            root = os.path.dirname(path)
+
+            if not os.path.exists(root):
+                 os.makedirs(root, 0755)
+                        
+            fh = open(path, "w")
+            json.dump(sfom_props, fh, indent=2)
+            fh.close()
+
+            return
+
+     # fh = open(path, "r")
+     # sfom_props = json.load(fh)
+                    
+        
+if __name__ == "__main__":
+
+    import optparse
+    opt_parser = optparse.OptionParser()
+
+    opt_parser.add_option('-p', '--properties', dest='properties', action='store', default=None, help='...')
+    opt_parser.add_option('-d', '--data', dest='data', action='store', default=None, help='...')
+    opt_parser.add_option('-v', '--verbose', dest='verbose', action='store_true', default=False, help='Be chatty (default is false)')
+    
+    options, args = opt_parser.parse_args()
+
+    if options.verbose:
+        logging.basicConfig(level=logging.DEBUG)
+    else:
+        logging.basicConfig(level=logging.INFO)
+
+    properties = os.path.abspath(options.properties)
+    data = os.path.abspath(options.data)    
+
+    crawl = mapzen.whosonfirst.utils.crawl(data, inflate=True)
+    exporter = mapzen.whosonfirst.export.flatfile(data)
+    
+    for feature in crawl:
+
+        wof_props = feature["properties"]
+        wofid = wof_props["wof:id"]
+
+        tree = mapzen.whosonfirst.uri.id2path(wofid)
+        root = os.path.join(properties, tree)
+
+        fname = "%s.json" % wofid        
+        path = os.path.join(root, fname)
+
+	if wof_props["wof:placetype"] == "campus":
+	   ensure_airport(feature, path)	   

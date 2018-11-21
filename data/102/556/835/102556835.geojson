@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00239,
-    "geom:area_square_m":18245117.041643,
+    "geom:area_square_m":18245117.041644,
     "geom:bbox":"-0.432,51.847736,-0.315127,51.915314",
     "geom:latitude":51.872993,
     "geom:longitude":-0.377712,
@@ -163,6 +163,9 @@
     "name:zho_x_preferred":[
         "\u502b\u6566\u76e7\u9813\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":102556835,
-    "wof:lastmodified":1527636361,
+    "wof:lastmodified":1542830603,
     "wof:name":"London Luton Airport",
     "wof:parent_id":85791331,
     "wof:placetype":"campus",

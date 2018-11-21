@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098199,
-    "geom:area_square_m":773157557.083652,
+    "geom:area_square_m":773157557.083623,
     "geom:bbox":"30.23709,50.21354,30.828148,50.588962",
     "geom:latitude":50.451017,
     "geom:longitude":30.547874,
@@ -158,10 +158,11 @@
         "Mater\u2019 Gorodov Rrus'kih"
     ],
     "name:eng_x_preferred":[
-        "Kiev"
+        "Kiev City"
     ],
     "name:eng_x_variant":[
-        "Kyiv"
+        "Kyiv",
+        "Kiev"
     ],
     "name:epo_x_preferred":[
         "Kievo"
@@ -733,6 +734,18 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"wk",
+    "statoids:area_km":"839",
+    "statoids:area_mi":"324",
+    "statoids:as_of_date":"2001-12-05",
+    "statoids:capital":"Kiev",
+    "statoids:country":"UA",
+    "statoids:gec":"UP12",
+    "statoids:hasc":"UA.KC",
+    "statoids:iso":"30",
+    "statoids:name":"Kiev City",
+    "statoids:population":"2611327",
+    "statoids:timezone":"+2~",
+    "statoids:type":"independent city",
     "wd:elevation":179.0,
     "wd:latitude":50.45,
     "wd:longitude":30.523611,
@@ -749,6 +762,8 @@
     "wof:concordances":{
         "gn:id":703448,
         "gp:id":924938,
+        "hasc:id":"UA.KC",
+        "iso:id":"UA-30",
         "qs:id":128566,
         "wd:id":"Q1899"
     },
@@ -764,15 +779,17 @@
         }
     ],
     "wof:id":101752489,
-    "wof:lastmodified":1541636773,
+    "wof:lastmodified":1542073707,
     "wof:megacity":1,
-    "wof:name":"Kiev",
+    "wof:name":"Kiev City",
     "wof:parent_id":85688801,
     "wof:placetype":"locality",
+    "wof:placetype_local":"independent city",
     "wof:population":2845023,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
     "wof:scale":1,
+    "wof:shortcode":"KC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -2,10 +2,10 @@
   "id": 101753455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2018-10-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000577,
-    "geom:area_square_m":4706885.919688,
+    "geom:area_square_m":4706885.919687,
     "geom:bbox":"2.069536,48.7298796342,2.12208767603,48.7583738627",
     "geom:latitude":48.74777,
     "geom:longitude":2.096509,
@@ -16,7 +16,7 @@
     "mps:latitude":48.750889,
     "mps:longitude":2.104872,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:afr_x_preferred":[
         "Ch\u00e2teaufort"
     ],
@@ -343,14 +343,16 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1541636790,
+    "wof:lastmodified":1540414981,
     "wof:name":"Ch\u00e2teaufort",
     "wof:parent_id":404413665,
     "wof:placetype":"locality",
     "wof:population":1543,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360695921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

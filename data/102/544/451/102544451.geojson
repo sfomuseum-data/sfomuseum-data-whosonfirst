@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
-    "geom:area_square_m":5101326.929239,
+    "geom:area_square_m":5101326.92924,
     "geom:bbox":"7.173202,43.646011,7.222137,43.674477",
     "geom:latitude":43.663361,
     "geom:longitude":7.201056,
@@ -143,7 +143,6 @@
         "suburb_id":597231
     },
     "wof:belongsto":[
-        85794553,
         102191581,
         404227807,
         1159322131,
@@ -151,7 +150,8 @@
         404227445,
         101749273,
         102072439,
-        85683323
+        85683323,
+        85794553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,12 +172,12 @@
             "locality_id":101749273,
             "macrocounty_id":404227807,
             "macroregion_id":404227445,
-            "neighbourhood_id":85794553,
+            "neighbourhood_id":-1,
             "region_id":85683323
         }
     ],
     "wof:id":102544451,
-    "wof:lastmodified":1541200569,
+    "wof:lastmodified":1542828704,
     "wof:name":"Nice Cote d\u2019Azur Airport",
     "wof:parent_id":85794553,
     "wof:placetype":"campus",

@@ -51,6 +51,9 @@
     ],
     "oa:elevation_ft":"4473",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102530815,
-    "wof:lastmodified":1542836004,
+    "wof:lastmodified":1542836415,
     "wof:name":"Gallatin Field Airport",
     "wof:parent_id":420525777,
     "wof:placetype":"campus",

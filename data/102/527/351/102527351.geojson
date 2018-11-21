@@ -41,6 +41,9 @@
     ],
     "oa:elevation_ft":"212",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102527351,
-    "wof:lastmodified":1542836005,
+    "wof:lastmodified":1542836414,
     "wof:name":"San Luis Obispo County Airport",
     "wof:parent_id":85867429,
     "wof:placetype":"campus",

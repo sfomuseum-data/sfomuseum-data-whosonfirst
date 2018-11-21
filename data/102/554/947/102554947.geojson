@@ -105,6 +105,9 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":51.117869,
     "reversegeo:longitude":-114.007483,
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"can-calcai",
     "src:geom_alt":[
         "woedb"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":102554947,
-    "wof:lastmodified":1542836005,
+    "wof:lastmodified":1542836417,
     "wof:name":"Calgary International Airport",
     "wof:parent_id":1108964229,
     "wof:placetype":"campus",

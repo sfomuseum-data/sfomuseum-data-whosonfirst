@@ -93,6 +93,9 @@
     ],
     "oa:elevation_ft":"1365",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102551109,
-    "wof:lastmodified":1542836004,
+    "wof:lastmodified":1542836411,
     "wof:name":"Chongqing Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

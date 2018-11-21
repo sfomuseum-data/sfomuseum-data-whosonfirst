@@ -26,6 +26,9 @@
     ],
     "oa:elevation_ft":"2871",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102531167,
-    "wof:lastmodified":1542836005,
+    "wof:lastmodified":1542836416,
     "wof:name":"Midland International Airport",
     "wof:parent_id":101723957,
     "wof:placetype":"campus",

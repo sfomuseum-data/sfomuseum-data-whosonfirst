@@ -133,6 +133,9 @@
     ],
     "oa:elevation_ft":"777",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":102555709,
-    "wof:lastmodified":1542836004,
+    "wof:lastmodified":1542836416,
     "wof:name":"Indira Gandhi International Airport",
     "wof:parent_id":85928155,
     "wof:placetype":"campus",

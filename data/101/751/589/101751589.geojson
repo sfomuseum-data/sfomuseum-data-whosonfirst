@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003608,
-    "geom:area_square_m":27880881.165879,
+    "geom:area_square_m":27880881.16588,
     "geom:bbox":"-0.633444,51.2860865,-0.4701785,51.377048",
     "geom:latitude":51.327451,
     "geom:longitude":-0.546791,
@@ -184,11 +184,11 @@
     "wd:longitude":-0.561111,
     "wd:wordcount":5171,
     "wof:belongsto":[
-        85684417,
+        1360698599,
         102191581,
-        404435057,
         85633159,
-        404227469
+        404227469,
+        1360698887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -205,16 +205,16 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404435057,
+            "county_id":1360698887,
             "locality_id":101751589,
             "macroregion_id":404227469,
-            "region_id":85684417
+            "region_id":1360698599
         }
     ],
     "wof:id":101751589,
-    "wof:lastmodified":1527714360,
+    "wof:lastmodified":1542192531,
     "wof:name":"Woking",
-    "wof:parent_id":404435057,
+    "wof:parent_id":1360698887,
     "wof:placetype":"locality",
     "wof:population":103932,
     "wof:population_rank":9,

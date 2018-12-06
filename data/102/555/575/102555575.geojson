@@ -2,14 +2,16 @@
   "id": 102555575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:inception_lower":"1942-01-01",
+    "date:inception_upper":"1942-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":" 1942",
     "geom:area":0.000086,
     "geom:area_square_m":1015540.246321,
     "geom:bbox":"177.440353,-17.768356,177.46405,-17.746805",
     "geom:latitude":-17.753002,
     "geom:longitude":177.453594,
-    "iso:country":"",
+    "iso:country":"FJ",
     "lbl:latitude":-17.806865,
     "lbl:longitude":177.37636,
     "mps:latitude":-17.806865,
@@ -98,9 +100,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12523183,
-        "wd:id":"Q1150557"
+        "iata:code":"NAN",
+        "icao:code":"NFFN",
+        "wd:id":"Q1150557",
+        "wk:page":"Nadi_International_Airport"
     },
-    "wof:country":"",
+    "wof:country":"FJ",
     "wof:geomhash":"fe1fc6c7a4c8057b503d6775eb2b636a",
     "wof:hierarchy":[
         {
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":102555575,
-    "wof:lastmodified":1542842197,
+    "wof:lastmodified":1544119374,
     "wof:name":"Nadi International Airport",
     "wof:parent_id":85671181,
     "wof:placetype":"campus",

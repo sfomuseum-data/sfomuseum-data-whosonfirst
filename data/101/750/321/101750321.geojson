@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003029,
-    "geom:area_square_m":23509637.529,
+    "geom:area_square_m":23509637.528996,
     "geom:bbox":"-0.2358335,51.087713,-0.137984,51.142141",
     "geom:latitude":51.114989,
     "geom:longitude":-0.184567,
@@ -161,11 +161,11 @@
     "wd:longitude":-0.1937,
     "wd:wordcount":13496,
     "wof:belongsto":[
-        85684583,
+        1360698607,
         102191581,
-        404440103,
         85633159,
-        404227469
+        404227469,
+        1360698757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,16 +181,16 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404440103,
+            "county_id":1360698757,
             "locality_id":101750321,
             "macroregion_id":404227469,
-            "region_id":85684583
+            "region_id":1360698607
         }
     ],
     "wof:id":101750321,
-    "wof:lastmodified":1527714524,
+    "wof:lastmodified":1542191910,
     "wof:name":"Crawley",
-    "wof:parent_id":404440103,
+    "wof:parent_id":1360698757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

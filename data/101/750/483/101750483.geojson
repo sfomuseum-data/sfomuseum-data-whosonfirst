@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005779,
-    "geom:area_square_m":43362967.361078,
+    "geom:area_square_m":43362967.361075,
     "geom:bbox":"1.1941685,52.5992255,1.3728135,52.6735655",
     "geom:latitude":52.639095,
     "geom:longitude":1.285723,
@@ -411,11 +411,11 @@
     "wd:longitude":1.299167,
     "wd:wordcount":18127,
     "wof:belongsto":[
-        85683947,
+        1360698575,
         102191581,
-        404432969,
         85633159,
-        404227469
+        404227469,
+        1360698955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -433,19 +433,19 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404432969,
+            "county_id":1360698955,
             "locality_id":101750483,
             "macroregion_id":404227469,
-            "region_id":85683947
+            "region_id":1360698575
         }
     ],
     "wof:id":101750483,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714511,
+    "wof:lastmodified":1542193502,
     "wof:name":"Norwich",
-    "wof:parent_id":404432969,
+    "wof:parent_id":1360698955,
     "wof:placetype":"locality",
     "wof:population":177636,
     "wof:population_rank":9,

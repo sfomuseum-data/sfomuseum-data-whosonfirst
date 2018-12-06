@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005217,
-    "geom:area_square_m":39806503.647068,
+    "geom:area_square_m":39806503.647069,
     "geom:bbox":"-0.503325,51.854732,-0.35822,51.9275745",
     "geom:latitude":51.895783,
     "geom:longitude":-0.43167,
@@ -316,11 +316,11 @@
     "wd:longitude":-0.433333,
     "wd:wordcount":7043,
     "wof:belongsto":[
-        85684089,
+        1360698527,
         102191581,
-        404439103,
         85633159,
-        404227469
+        404227469,
+        1360698783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -337,16 +337,16 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404439103,
+            "county_id":1360698783,
             "locality_id":101750401,
             "macroregion_id":404227469,
-            "region_id":85684089
+            "region_id":1360698527
         }
     ],
     "wof:id":101750401,
-    "wof:lastmodified":1527714512,
+    "wof:lastmodified":1542396635,
     "wof:name":"Luton",
-    "wof:parent_id":404439103,
+    "wof:parent_id":1360698783,
     "wof:placetype":"locality",
     "wof:population":193669,
     "wof:population_rank":9,

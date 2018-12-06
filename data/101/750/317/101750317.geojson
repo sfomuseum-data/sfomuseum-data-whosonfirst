@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002081,
-    "geom:area_square_m":16269076.367502,
+    "geom:area_square_m":16269076.367503,
     "geom:bbox":"-0.7522775,50.76236,-0.594318,50.806368",
     "geom:latitude":50.788485,
     "geom:longitude":-0.680087,
@@ -169,11 +169,12 @@
     "wd:longitude":-0.676389,
     "wd:wordcount":2845,
     "wof:belongsto":[
-        85684583,
+        1360698607,
         102191581,
         404430465,
         85633159,
-        404227469
+        404227469,
+        1360698757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,17 +192,18 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1360698757,
             "localadmin_id":404430465,
             "locality_id":101750317,
             "macroregion_id":404227469,
-            "region_id":85684583
+            "region_id":1360698607
         }
     ],
     "wof:id":101750317,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714524,
+    "wof:lastmodified":1542191914,
     "wof:name":"Bognor Regis",
     "wof:parent_id":404430465,
     "wof:placetype":"locality",

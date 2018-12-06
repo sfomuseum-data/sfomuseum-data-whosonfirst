@@ -9,7 +9,6 @@
     "geom:bbox":"116.702026367,20.705389023,122.10294342,26.396249771",
     "geom:latitude":23.754764,
     "geom:longitude":120.952016,
-    "gn:id":"",
     "gn:population":22894384,
     "iso:country":"TW",
     "itu:country_code":[
@@ -904,13 +903,12 @@
         "Tiong-ho\u00e2 B\u00een-kok"
     ],
     "name:zho_x_preferred":[
-        "\u4e2d\u83ef\u6c11\u570b"
+        "\u53f0\u6e7e"
     ],
     "name:zho_x_variant":[
         "\u53f0\u7063",
         "\u4e2d\u83ef\u6c11\u570b",
-        "\u81fa\u7063",
-        "\u53f0\u6e7e"
+        "\u81fa\u7063"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e2d\u83ef\u6c11\u570b"
@@ -1032,7 +1030,9 @@
         "gn:id":1668284,
         "gp:id":23424971,
         "hasc:id":"TW",
+        "icao:code":"B",
         "ioc:id":"TPE",
+        "iso:id":"TW",
         "loc:id":"n80022631",
         "marc:id":"ch",
         "mzb:id":"republic-of-china",
@@ -1053,16 +1053,13 @@
         }
     ],
     "wof:id":85632403,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1542842408,
+    "wof:lastmodified":1544119416,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

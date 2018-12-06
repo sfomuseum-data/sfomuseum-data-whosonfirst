@@ -18,6 +18,15 @@
     "label:eng_x_preferred":[
         "Hong Kong"
     ],
+    "label:eng_x_preferred_longname":[
+        "Hong Kong Special Administrative Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special administrative region"
+    ],
+    "label:zho_x_preferred_placetype":[
+        "\u7279\u522b\u884c\u653f\u533a"
+    ],
     "lbl:latitude":22.440384,
     "lbl:longitude":114.098975,
     "mps:latitude":22.440384,
@@ -299,8 +308,8 @@
     ],
     "name:zho_x_variant":[
         "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340",
-        "\u9999\u6e2f",
-        "\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
+        "\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340",
+        "\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a"
     ],
     "name:zul_x_preferred":[
         "i-Hong Kong"
@@ -416,7 +425,9 @@
         "gn:id":1819730,
         "gp:id":24865698,
         "hasc:id":"HK",
+        "icao:code":"B-H",
         "ioc:id":"HKG",
+        "iso:id":"CN-HK",
         "itu:id":"HKG",
         "m49:code":"344",
         "ne:adm0_a3":"HKG",
@@ -440,9 +451,6 @@
         }
     ],
     "wof:id":85632483,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -451,7 +459,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1542842499,
+    "wof:lastmodified":1544119430,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

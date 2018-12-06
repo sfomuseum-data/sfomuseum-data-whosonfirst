@@ -437,11 +437,12 @@
     "wd:population":346100,
     "wd:wordcount":15849,
     "wof:belongsto":[
-        85683787,
+        1360698627,
         102191581,
         404446393,
         85633159,
-        404227475
+        404227475,
+        1360699107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -462,17 +463,18 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
+            "county_id":1360699107,
             "localadmin_id":404446393,
             "locality_id":101750397,
             "macroregion_id":404227475,
-            "region_id":85683787
+            "region_id":1360698627
         }
     ],
     "wof:id":101750397,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714510,
+    "wof:lastmodified":1542404076,
     "wof:name":"Cardiff",
     "wof:parent_id":404446393,
     "wof:placetype":"locality",

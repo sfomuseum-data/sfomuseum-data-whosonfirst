@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001782,
-    "geom:area_square_m":13780025.540861,
+    "geom:area_square_m":13780025.54086,
     "geom:bbox":"-0.799132,51.2664045,-0.733085,51.3182315",
     "geom:latitude":51.29461,
     "geom:longitude":-0.762612,
@@ -41,10 +41,9 @@
     "wd:longitude":-0.75,
     "wd:wordcount":3116,
     "wof:belongsto":[
-        85684375,
         102191581,
-        404440045,
         85633159,
+        1360698645,
         404227469
     ],
     "wof:breaches":[],
@@ -63,19 +62,18 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404440045,
             "locality_id":101750357,
             "macroregion_id":404227469,
-            "region_id":85684375
+            "region_id":1360698645
         }
     ],
     "wof:id":101750357,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714516,
+    "wof:lastmodified":1542206321,
     "wof:name":"Farnborough",
-    "wof:parent_id":404440045,
+    "wof:parent_id":1360698645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

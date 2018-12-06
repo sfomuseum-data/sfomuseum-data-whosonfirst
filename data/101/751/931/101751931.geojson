@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012474,
-    "geom:area_square_m":89364566.235231,
+    "geom:area_square_m":89364566.235242,
     "geom:bbox":"-6.0455115,54.5363085,-5.820194,54.6632661112",
     "geom:latitude":54.592089,
     "geom:longitude":-5.927069,
@@ -565,10 +565,11 @@
     "wd:population":336830,
     "wd:wordcount":13735,
     "wof:belongsto":[
+        1360699229,
         102191581,
         85633159,
-        85683995,
-        404227473
+        404227473,
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -586,19 +587,20 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
+            "empire_id":136253055,
             "locality_id":101751931,
             "macroregion_id":404227473,
-            "region_id":85683995
+            "region_id":1360699229
         }
     ],
     "wof:id":101751931,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714353,
+    "wof:lastmodified":1542184066,
     "wof:megacity":0,
     "wof:name":"Belfast",
-    "wof:parent_id":85683995,
+    "wof:parent_id":1360699229,
     "wof:placetype":"locality",
     "wof:population":336830,
     "wof:population_rank":10,

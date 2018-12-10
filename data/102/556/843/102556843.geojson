@@ -118,9 +118,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
+        85788643,
+        102191581,
         85633159,
-        85787275,
-        85684267
+        404227469,
+        101750467,
+        1360699077,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,15 +138,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102556843,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85787275,
-            "region_id":85684267
+            "county_id":1360699077,
+            "locality_id":101750467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788643,
+            "region_id":1360698605
         }
     ],
     "wof:id":102556843,
-    "wof:lastmodified":1544229520,
+    "wof:lastmodified":1544480375,
     "wof:name":"Birmingham International Airport",
-    "wof:parent_id":85787275,
+    "wof:parent_id":85788643,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

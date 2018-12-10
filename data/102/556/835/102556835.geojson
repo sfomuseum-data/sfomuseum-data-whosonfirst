@@ -178,9 +178,12 @@
         "state_id":24554868
     },
     "wof:belongsto":[
+        102191581,
+        404430085,
         85633159,
-        85791331,
-        85684331
+        404227469,
+        1360698767,
+        1360698527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,15 +195,20 @@
     "wof:hierarchy":[
         {
             "campus_id":102556835,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85791331,
-            "region_id":85684331
+            "county_id":1360698767,
+            "localadmin_id":404430085,
+            "locality_id":-1,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698527
         }
     ],
     "wof:id":102556835,
-    "wof:lastmodified":1544229520,
+    "wof:lastmodified":1544480375,
     "wof:name":"London Luton Airport",
-    "wof:parent_id":85791331,
+    "wof:parent_id":404430085,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

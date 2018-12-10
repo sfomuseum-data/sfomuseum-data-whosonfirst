@@ -139,9 +139,12 @@
         "state_id":24554868
     },
     "wof:belongsto":[
+        102191581,
         85633159,
-        85791535,
-        85684195
+        404227469,
+        1175612695,
+        1360698935,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,15 +160,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102556861,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85791535,
-            "region_id":85684195
+            "county_id":1360698935,
+            "locality_id":1175612695,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698555
         }
     ],
     "wof:id":102556861,
-    "wof:lastmodified":1544229520,
+    "wof:lastmodified":1544480375,
     "wof:name":"Manchester International Airport",
-    "wof:parent_id":85791535,
+    "wof:parent_id":1175612695,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

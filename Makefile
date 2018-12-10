@@ -11,7 +11,7 @@ refresh:
 	@make refresh-sfomuseum
 
 refresh-whosonfirst:
-	utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -reader 'reader=github repo=whosonfirst-data-postalcode-us' -mode repo .
+	utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to region -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -reader 'reader=github repo=whosonfirst-data-postalcode-us' -mode repo .
 
 refresh-sfomuseum:
 	@make ensure-sfomuseum

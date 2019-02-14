@@ -39,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676813,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +59,13 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85676813
         }
     ],
     "wof:id":102537469,
-    "wof:lastmodified":1544644094,
+    "wof:lastmodified":1550167774,
     "wof:name":"King Khalid International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

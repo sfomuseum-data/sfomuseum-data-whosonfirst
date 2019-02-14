@@ -237,11 +237,10 @@
         "state_id":2345792
     },
     "wof:belongsto":[
-        85672541,
         102191569,
         85632315,
-        136253049,
-        1108720815
+        1108720815,
+        85672541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,12 +259,13 @@
             "continent_id":102191569,
             "country_id":85632315,
             "county_id":1108720815,
-            "empire_id":136253049,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85672541
         }
     ],
     "wof:id":102542687,
-    "wof:lastmodified":1544644095,
+    "wof:lastmodified":1550167774,
     "wof:name":"Ben Gurion Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

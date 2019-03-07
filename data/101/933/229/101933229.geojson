@@ -532,8 +532,9 @@
     "wof:belongsto":[
         85681497,
         102191583,
-        404539427,
         85632793,
+        404539427,
+        1376953283,
         136253039,
         102049169
     ],
@@ -551,6 +552,9 @@
         "wd:id":"Q3141",
         "wk:page":"Melbourne"
     },
+    "wof:coterminous":[
+        404539427
+    ],
     "wof:country":"AU",
     "wof:geomhash":"eb313983fb76a6a3a8b001ca73fe0da8",
     "wof:hierarchy":[
@@ -561,6 +565,7 @@
             "empire_id":136253039,
             "localadmin_id":404539427,
             "locality_id":101933229,
+            "macrocounty_id":1376953283,
             "region_id":85681497
         }
     ],
@@ -568,7 +573,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714656,
+    "wof:lastmodified":1550792730,
     "wof:megacity":1,
     "wof:name":"Melbourne",
     "wof:parent_id":404539427,

@@ -91,7 +91,6 @@
         "suburb_id":28595984
     },
     "wof:belongsto":[
-        85780721,
         102191583,
         85632793,
         101933763,
@@ -118,14 +117,14 @@
             "county_id":102048911,
             "empire_id":136253039,
             "locality_id":101933763,
-            "neighbourhood_id":85780721,
+            "neighbourhood_id":-1,
             "region_id":85681463
         }
     ],
     "wof:id":102557971,
-    "wof:lastmodified":1550193117,
+    "wof:lastmodified":1551989868,
     "wof:name":"Cairns International Airport",
-    "wof:parent_id":85780721,
+    "wof:parent_id":101933763,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

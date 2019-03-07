@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001167,
-    "geom:area_square_m":11968565.509005,
+    "geom:area_square_m":11968565.508921,
     "geom:bbox":"151.159828,-33.974035002,151.20758464,-33.919165075",
     "geom:latitude":-33.940155,
     "geom:longitude":151.18198,
@@ -64,8 +64,9 @@
     "wof:belongsto":[
         85681545,
         102191583,
-        404224771,
         85632793,
+        404224771,
+        1376953385,
         136253039,
         102049567
     ],
@@ -76,6 +77,9 @@
         "wd:id":"Q2916103",
         "wk:page":"Mascot, New South Wales"
     },
+    "wof:coterminous":[
+        404224771
+    ],
     "wof:country":"AU",
     "wof:geomhash":"ea137a88e1d92f8090452d4cb458b547",
     "wof:hierarchy":[
@@ -86,11 +90,12 @@
             "empire_id":136253039,
             "localadmin_id":404224771,
             "locality_id":101931173,
+            "macrocounty_id":1376953385,
             "region_id":85681545
         }
     ],
     "wof:id":101931173,
-    "wof:lastmodified":1527641612,
+    "wof:lastmodified":1550726160,
     "wof:name":"Mascot",
     "wof:parent_id":404224771,
     "wof:placetype":"locality",
@@ -98,7 +103,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85769681
+    ],
     "wof:tags":[]
 },
   "bbox": [

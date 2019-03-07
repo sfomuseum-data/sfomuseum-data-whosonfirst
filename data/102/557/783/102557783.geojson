@@ -33,8 +33,8 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85769681,
         102191583,
+        1376953385,
         404224771,
         85632793,
         101931173,
@@ -59,14 +59,15 @@
             "empire_id":136253039,
             "localadmin_id":404224771,
             "locality_id":101931173,
-            "neighbourhood_id":85769681,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":-1,
             "region_id":85681545
         }
     ],
     "wof:id":102557783,
-    "wof:lastmodified":1550193117,
+    "wof:lastmodified":1551989868,
     "wof:name":"Kingsford Smith Airport",
-    "wof:parent_id":85769681,
+    "wof:parent_id":101931173,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

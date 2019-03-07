@@ -2,8 +2,8 @@
   "id": 101750367,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"0043-01-01",
-    "date:inception_upper":"0043-12-31",
+    "date:inception_lower":"2043-01-01",
+    "date:inception_upper":"2043-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"0043~",
     "geom:area":0.206467,
@@ -866,6 +866,9 @@
     "qs:type":"urban core",
     "reversegeo:latitude":51.492536,
     "reversegeo:longitude":-0.109386,
+    "sfomuseum:hashtags":[
+        "london"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -906,7 +909,7 @@
         }
     ],
     "wof:id":101750367,
-    "wof:lastmodified":1547769901,
+    "wof:lastmodified":1551990031,
     "wof:name":"London",
     "wof:parent_id":1360698645,
     "wof:placetype":"locality",

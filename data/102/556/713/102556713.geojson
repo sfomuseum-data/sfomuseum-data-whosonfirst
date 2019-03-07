@@ -197,6 +197,7 @@
         102191581,
         85633159,
         404227469,
+        101750321,
         1360698757,
         1360698607
     ],
@@ -217,16 +218,16 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698757,
-            "locality_id":-1,
+            "locality_id":101750321,
             "macroregion_id":404227469,
             "neighbourhood_id":-1,
             "region_id":1360698607
         }
     ],
     "wof:id":102556713,
-    "wof:lastmodified":1550193116,
+    "wof:lastmodified":1551989867,
     "wof:name":"London Gatwick Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":101750321,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],

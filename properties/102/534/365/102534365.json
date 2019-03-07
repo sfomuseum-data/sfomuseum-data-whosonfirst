@@ -1,10 +1,13 @@
 {
-  "sfomuseum:airport_id": 94, 
   "sfomuseum:name": "John F. Kennedy International Airport", 
+  "sfomuseum:hashtags": [
+    "jfk"
+  ], 
+  "sfomuseum:placetype": "airport", 
+  "sfomuseum:airport_id": 94, 
   "wof:concordances": {
     "icao:code": "KJFK", 
     "iata:code": "JFK"
   }, 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249521,
-    "geom:area_square_m":2131488774.655878,
+    "geom:area_square_m":2131488774.655825,
     "geom:bbox":"13.6774074094,46.0033725339,14.573794176,46.5233967787",
     "geom:latitude":46.303687,
     "geom:longitude":14.139248,
@@ -18,6 +18,7 @@
     "name:eng_x_preferred":[
         "Gorenjska"
     ],
+    "sfomuseum:placetype":"region",
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108959967,
-    "wof:lastmodified":1531510245,
+    "wof:lastmodified":1552077102,
     "wof:name":"Gorenjska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

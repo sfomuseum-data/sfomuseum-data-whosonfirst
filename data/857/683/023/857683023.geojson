@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062961,
-    "geom:area_square_m":734462338.836083,
+    "geom:area_square_m":734462338.835784,
     "geom:bbox":"-99.3267770986,19.1887101513,-98.9604482433,19.59275728",
     "geom:latitude":19.368809,
     "geom:longitude":-99.140357,
@@ -721,6 +721,7 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
+    "sfomuseum:placetype":"city",
     "src:geom":"mapzen",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -734,6 +735,7 @@
         102073737
     ],
     "wof:breaches":[],
+    "wof:capital_of":85633293,
     "wof:concordances":{
         "gn:id":3530597,
         "gp:id":116545,
@@ -743,7 +745,6 @@
     "wof:coterminous":[
         85686515
     ],
-    "wof:capital_of":85633293,
     "wof:country":"MX",
     "wof:geomhash":"869cb22f6c257fdd71b131283b694bd6",
     "wof:hierarchy":[
@@ -756,7 +757,7 @@
         }
     ],
     "wof:id":857683023,
-    "wof:lastmodified":1514487585,
+    "wof:lastmodified":1552074969,
     "wof:name":"Mexico City",
     "wof:parent_id":102073737,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021017,
-    "geom:area_square_m":166649997.008985,
+    "geom:area_square_m":166649997.008975,
     "geom:bbox":"8.48084890966,49.9948387857,8.78525113544,50.2101290941",
     "geom:latitude":50.114002,
     "geom:longitude":8.640344,
@@ -685,6 +685,7 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -728,7 +729,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1513948541,
+    "wof:lastmodified":1552075141,
     "wof:megacity":0,
     "wof:name":"Frankfurt am Main",
     "wof:parent_id":102063589,

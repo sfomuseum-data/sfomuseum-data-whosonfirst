@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003377,
-    "geom:area_square_m":28337143.107531,
+    "geom:area_square_m":28337143.107533,
     "geom:bbox":"11.3218091258,47.2470573997,11.452584553,47.29398",
     "geom:latitude":47.26907,
     "geom:longitude":11.396603,
@@ -502,6 +502,7 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -541,7 +542,7 @@
         }
     ],
     "wof:id":101748061,
-    "wof:lastmodified":1527688480,
+    "wof:lastmodified":1552075141,
     "wof:name":"Innsbruck",
     "wof:parent_id":1108837687,
     "wof:placetype":"locality",

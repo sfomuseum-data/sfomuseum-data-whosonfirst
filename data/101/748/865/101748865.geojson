@@ -501,6 +501,7 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -538,7 +539,7 @@
         }
     ],
     "wof:id":101748865,
-    "wof:lastmodified":1527688480,
+    "wof:lastmodified":1552075141,
     "wof:name":"Rostock",
     "wof:parent_id":102064115,
     "wof:placetype":"locality",

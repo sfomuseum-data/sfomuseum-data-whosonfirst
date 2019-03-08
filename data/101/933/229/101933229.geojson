@@ -519,6 +519,7 @@
     "qs:loc":"Melbourne",
     "qs:pop":0,
     "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -532,9 +533,9 @@
     "wof:belongsto":[
         85681497,
         102191583,
-        85632793,
-        404539427,
         1376953283,
+        404539427,
+        85632793,
         136253039,
         102049169
     ],
@@ -573,7 +574,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1550792730,
+    "wof:lastmodified":1552075147,
     "wof:megacity":1,
     "wof:name":"Melbourne",
     "wof:parent_id":404539427,

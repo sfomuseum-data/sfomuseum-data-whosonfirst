@@ -306,6 +306,7 @@
     "qs:pop":0,
     "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -345,7 +346,7 @@
         }
     ],
     "wof:id":101750401,
-    "wof:lastmodified":1547698427,
+    "wof:lastmodified":1552075146,
     "wof:name":"Luton",
     "wof:parent_id":1360698783,
     "wof:placetype":"locality",

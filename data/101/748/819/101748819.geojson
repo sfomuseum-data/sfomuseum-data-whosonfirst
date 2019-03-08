@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019402,
-    "geom:area_square_m":146454678.185914,
+    "geom:area_square_m":146454678.185925,
     "geom:bbox":"9.6351335,52.3170855,9.8810641501,52.4482873275",
     "geom:latitude":52.378298,
     "geom:longitude":9.756875,
@@ -545,6 +545,7 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -586,7 +587,7 @@
         }
     ],
     "wof:id":101748819,
-    "wof:lastmodified":1527688463,
+    "wof:lastmodified":1552075140,
     "wof:name":"Hannover",
     "wof:parent_id":102063941,
     "wof:placetype":"locality",

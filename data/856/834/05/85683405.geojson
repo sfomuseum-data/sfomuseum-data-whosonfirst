@@ -10,6 +10,12 @@
     "geom:latitude":48.949445,
     "geom:longitude":4.23885,
     "iso:country":"FR",
+    "label:eng_x_preferred_longname":[
+        "Marne Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":49.048494,
     "lbl:longitude":4.140958,
     "mps:latitude":49.048494,
@@ -442,7 +448,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1552076913,
+    "wof:lastmodified":1555022723,
     "wof:name":"Marne",
     "wof:parent_id":1108826391,
     "wof:placetype":"region",

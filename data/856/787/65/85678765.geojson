@@ -11,6 +11,18 @@
     "geom:longitude":100.706003,
     "gn:population":1041843,
     "iso:country":"TH",
+    "label:eng_x_preferred_longname":[
+        "Samut Prakan Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:tha_x_preferred_longname":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23"
+    ],
+    "label:tha_x_preferred_placetype":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14"
+    ],
     "lbl:latitude":13.60167,
     "lbl:longitude":100.774494,
     "mps:latitude":13.60167,
@@ -152,6 +164,9 @@
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0430\u043c\u0443\u0442 \u041f\u0440\u0430\u043a\u0430\u043d"
     ],
     "name:tha_x_preferred":[
+        "\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23"
+    ],
+    "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23"
     ],
     "name:tur_x_preferred":[
@@ -248,8 +263,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-09-01",
+    "src:population":"wikidata",
+    "src:population_date":"2017",
     "statoids:area_km":"1,004",
     "statoids:area_mi":"388",
     "statoids:as_of_date":"2010-09-01",
@@ -298,13 +313,13 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1552077082,
+    "wof:lastmodified":1555022883,
     "wof:name":"Samut Prakan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1828694,
+    "wof:population":1310766,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
     "wof:shortcode":"SP",

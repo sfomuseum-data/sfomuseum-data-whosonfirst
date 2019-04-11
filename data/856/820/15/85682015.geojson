@@ -14,6 +14,12 @@
     "geom:longitude":-53.320426,
     "iso:country":"BR",
     "label:eng_x_abbreviation":"RS",
+    "label:eng_x_preferred_longname":[
+        "Rio Grande Do Sul State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":-29.653676,
     "lbl:longitude":-53.379286,
     "mps:latitude":-29.653676,
@@ -414,7 +420,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1552076847,
+    "wof:lastmodified":1555022661,
     "wof:name":"Rio Grande Do Sul",
     "wof:parent_id":85633009,
     "wof:placetype":"region",

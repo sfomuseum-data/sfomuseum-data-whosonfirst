@@ -14,6 +14,18 @@
     "geom:longitude":-85.730953,
     "iso:country":"US",
     "iso:subdivision":"US-MI",
+    "label:eng_us_x_preferred_longname":[
+        "Michigan"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Michigan State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Michigan"
+    ],
     "lbl:latitude":43.924812,
     "lbl:longitude":-84.633107,
     "mps:latitude":43.924812,
@@ -723,7 +735,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077026,
+    "wof:lastmodified":1555022834,
     "wof:name":"Michigan",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

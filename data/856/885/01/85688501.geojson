@@ -14,6 +14,18 @@
     "geom:longitude":-76.687175,
     "iso:country":"US",
     "iso:subdivision":"US-MD",
+    "label:eng_us_x_preferred_longname":[
+        "Maryland"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Maryland State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Maryland"
+    ],
     "lbl:latitude":39.038828,
     "lbl:longitude":-76.346717,
     "mps:latitude":39.038828,
@@ -718,7 +730,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077025,
+    "wof:lastmodified":1555022833,
     "wof:name":"Maryland",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

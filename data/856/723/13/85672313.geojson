@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.363016,
-    "geom:area_square_m":13711598562.546135,
+    "geom:area_square_m":13711598562.546673,
     "geom:bbox":"50.3328197192,34.864582815,53.1566246488,36.139567495",
     "geom:latitude":35.554679,
     "geom:longitude":51.723961,
     "gn:population":12183391,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Tehran Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":35.540707,
     "lbl:longitude":51.510272,
     "meso:adm1_loc":"\u062a\u0647\u0631\u0627\u0646",
@@ -108,7 +114,7 @@
         "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:ger_x_preferred":[
-        "Teheran "
+        "Teheran"
     ],
     "name:glk_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0647\u0631\u0627\u0646"
@@ -390,7 +396,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1552076933,
+    "wof:lastmodified":1555022741,
     "wof:name":"Tehran",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

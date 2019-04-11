@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.11639,
-    "geom:area_square_m":376480967449.793579,
+    "geom:area_square_m":376480967449.79895,
     "geom:bbox":"41.6815672747,19.2116735173,48.2370685251,27.7000388669",
     "geom:latitude":23.08134,
     "geom:longitude":45.586126,
@@ -21,6 +21,9 @@
     ],
     "label:eng_x_placetype_preferred":[
         "region"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Ar Riyad Region"
     ],
     "lbl:latitude":23.198703,
     "lbl:longitude":45.648245,
@@ -88,7 +91,7 @@
         "\u0930\u093f\u092f\u093e\u0926 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:hrv_x_preferred":[
-        "Rijad "
+        "Rijad"
     ],
     "name:hun_x_preferred":[
         "Rij\u00e1d tartom\u00e1ny"
@@ -118,7 +121,7 @@
         "Riyadh-regionen"
     ],
     "name:nob_x_preferred":[
-        "Ar Riyad "
+        "Ar Riyad"
     ],
     "name:pam_x_preferred":[
         "Ar Riyad"
@@ -130,7 +133,7 @@
         "\u0635\u0648\u0628\u06c1 \u0631\u06cc\u0627\u0636"
     ],
     "name:pol_x_preferred":[
-        "Rijad "
+        "Rijad"
     ],
     "name:por_x_preferred":[
         "Ar Riyad"
@@ -172,13 +175,13 @@
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0631\u064a\u0627\u0636"
     ],
     "name:vec_x_preferred":[
-        "Riad "
+        "Riad"
     ],
     "name:vol_x_preferred":[
         "Riyadi\u00e4n"
     ],
     "name:war_x_preferred":[
-        "Riyadh "
+        "Riyadh"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1552076983,
+    "wof:lastmodified":1555022791,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

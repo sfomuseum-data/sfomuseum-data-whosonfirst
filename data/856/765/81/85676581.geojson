@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022017,
-    "geom:area_square_m":268557992.586174,
+    "geom:area_square_m":268557992.586132,
     "geom:bbox":"147.066253662,-9.542111397,147.290375368,-9.35640566353",
     "geom:latitude":-9.43676,
     "geom:longitude":147.196089,
     "gn:population":307643,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "National Capital District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.434881,
     "lbl:longitude":147.208705,
     "mps:latitude":-9.462101,
@@ -20,7 +26,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
     "name:bul_x_preferred":[
-        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u0441\u0442\u043e\u043b\u0438\u0447\u0435\u043d \u043e\u043a\u0440\u044a\u0433 "
+        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u0441\u0442\u043e\u043b\u0438\u0447\u0435\u043d \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:chi_x_preferred":[
         "\u570b\u5bb6\u9996\u90fd\u5340"
@@ -86,7 +92,7 @@
         "Nesenel Kapitol Distrik"
     ],
     "name:ukr_x_preferred":[
-        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433 "
+        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:unk_x_variant":[
         "National Capital Province"
@@ -220,7 +226,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1552076841,
+    "wof:lastmodified":1555022656,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -4,13 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.97833,29.36972,47.97833,29.36972",
-    "geom:latitude":29.36972,
-    "geom:longitude":47.97833,
+    "geom:area":0.004921,
+    "geom:area_square_m":53043799.595616,
+    "geom:bbox":"47.8584883786,29.3099683697,48.0083895473,29.3937612283",
+    "geom:latitude":29.347615,
+    "geom:longitude":47.943404,
     "iso:country":"KW",
+    "lbl:latitude":29.36972,
+    "lbl:longitude":47.97833,
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -153,7 +156,7 @@
         "Cathair Chu\u00e1it"
     ],
     "name:glg_x_preferred":[
-        "Kuwait "
+        "Kuwait"
     ],
     "name:gre_x_preferred":[
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03c4"
@@ -559,7 +562,10 @@
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940631,
     "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
@@ -578,7 +584,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459010119,
-    "wof:geomhash":"795fb2db8f2f22dcdf59e68d7a31bb80",
+    "wof:geomhash":"85c31f63f736ae8a916ed6bb77495ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -588,7 +594,7 @@
         }
     ],
     "wof:id":421202465,
-    "wof:lastmodified":1552077133,
+    "wof:lastmodified":1555022930,
     "wof:name":"Kuwait City",
     "wof:parent_id":85673383,
     "wof:placetype":"locality",
@@ -600,10 +606,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.97833,
-    29.36972,
-    47.97833,
-    29.36972
+    47.8584883786358,
+    29.30996836974452,
+    48.00838954733979,
+    29.3937612282981
 ],
-  "geometry": {"coordinates":[47.97833,29.36972],"type":"Point"}
+  "geometry": {"coordinates":[[[48.00836357312045,29.36915513320287],[47.97968672106538,29.35128367779953],[47.99177900619623,29.33035472349172],[47.90909671414209,29.32082042142537],[47.8648616878167,29.30996836974452],[47.85953901611276,29.31986440701684],[47.8584883786358,29.32320250699013],[47.87695438034041,29.3286714300425],[47.89918493693534,29.33524906159499],[47.90538684522676,29.35926278584895],[47.92020215250739,29.36487208587812],[47.93932590216872,29.35943313722953],[47.95937407215575,29.37243683848936],[47.96988341198994,29.38723870720065],[47.98574004067041,29.3937612282981],[47.99301191466816,29.38792552304449],[48.00838954733979,29.36917132010041],[48.00836357312045,29.36915513320287]]],"type":"Polygon"}
 }

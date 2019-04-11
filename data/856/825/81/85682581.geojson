@@ -10,6 +10,12 @@
     "geom:latitude":55.690155,
     "geom:longitude":12.895162,
     "iso:country":"DK",
+    "label:eng_x_preferred_longname":[
+        "Hovedstaden Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":55.921416,
     "lbl:longitude":12.31882,
     "mps:latitude":55.921416,
@@ -357,7 +363,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1552077060,
+    "wof:lastmodified":1555022863,
     "wof:name":"Hovedstaden",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

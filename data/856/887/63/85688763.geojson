@@ -14,6 +14,18 @@
     "geom:longitude":-72.662533,
     "iso:country":"US",
     "iso:subdivision":"US-VT",
+    "label:eng_us_x_preferred_longname":[
+        "Vermont"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Vermont State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Vermont"
+    ],
     "lbl:latitude":44.211857,
     "lbl:longitude":-72.681238,
     "mps:latitude":44.211857,
@@ -722,7 +734,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076873,
+    "wof:lastmodified":1555022684,
     "wof:name":"Vermont",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

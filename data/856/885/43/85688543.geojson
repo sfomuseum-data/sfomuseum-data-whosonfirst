@@ -14,6 +14,18 @@
     "geom:longitude":-75.596537,
     "iso:country":"US",
     "iso:subdivision":"US-NY",
+    "label:eng_us_x_preferred_longname":[
+        "New York"
+    ],
+    "label:eng_x_preferred_longname":[
+        "New York State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of New York"
+    ],
     "lbl:latitude":43.408777,
     "lbl:longitude":-74.871618,
     "mps:latitude":43.408777,
@@ -752,7 +764,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077024,
+    "wof:lastmodified":1555022832,
     "wof:name":"New York",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

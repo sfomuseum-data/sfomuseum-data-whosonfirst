@@ -14,6 +14,18 @@
     "geom:longitude":-78.666361,
     "iso:country":"US",
     "iso:subdivision":"US-VA",
+    "label:eng_us_x_preferred_longname":[
+        "Virginia"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Virginia State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Virginia"
+    ],
     "lbl:latitude":37.73086,
     "lbl:longitude":-78.376655,
     "mps:latitude":37.73086,
@@ -683,7 +695,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076874,
+    "wof:lastmodified":1555022684,
     "wof:name":"Virginia",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

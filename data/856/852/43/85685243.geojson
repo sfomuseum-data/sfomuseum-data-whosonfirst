@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181409,
-    "geom:area_square_m":1573324813.052202,
+    "geom:area_square_m":1573324813.052168,
     "geom:bbox":"8.70613860174,45.1614550747,9.55161040965,45.6426628306",
     "geom:latitude":45.461523,
     "geom:longitude":9.122654,
     "iso:country":"IT",
+    "label:eng_x_preferred_longname":[
+        "Milano Metropolitan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "metropolitan city"
+    ],
     "lbl:latitude":45.447319,
     "lbl:longitude":9.118788,
     "mps:latitude":45.447319,
@@ -217,7 +223,7 @@
         "Mil\u00e1n"
     ],
     "name:srp_x_preferred":[
-        "\u041c\u0438\u043b\u0430\u043d\u043e "
+        "\u041c\u0438\u043b\u0430\u043d\u043e"
     ],
     "name:swe_x_preferred":[
         "Milano"
@@ -374,7 +380,7 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1552077071,
+    "wof:lastmodified":1555022873,
     "wof:name":"Milano",
     "wof:parent_id":404227497,
     "wof:placetype":"region",

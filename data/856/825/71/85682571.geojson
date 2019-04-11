@@ -10,6 +10,12 @@
     "geom:latitude":48.947596,
     "geom:longitude":11.419965,
     "iso:country":"DE",
+    "label:eng_x_preferred_longname":[
+        "Bayern State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":48.768814,
     "lbl:longitude":11.658165,
     "mps:latitude":48.768814,
@@ -324,7 +330,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1552077061,
+    "wof:lastmodified":1555022864,
     "wof:name":"Bayern",
     "wof:parent_id":85633111,
     "wof:placetype":"region",

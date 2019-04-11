@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015655,
-    "geom:area_square_m":188982910.254627,
+    "geom:area_square_m":188982910.254797,
     "geom:bbox":"-70.0647625301,12.411672235,-69.8659252501,12.624617219",
     "geom:latitude":12.509023,
     "geom:longitude":-69.971047,
@@ -767,6 +767,9 @@
         "wd:id":"Q21203",
         "wmo:id":"NU"
     },
+    "wof:coterminous":[
+        85667489
+    ],
     "wof:country":"AW",
     "wof:country_alpha3":"ABW",
     "wof:geomhash":"bbfb7e7591ccf7813cd441ee194207c7",
@@ -791,7 +794,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1544059238,
+    "wof:lastmodified":1553823560,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

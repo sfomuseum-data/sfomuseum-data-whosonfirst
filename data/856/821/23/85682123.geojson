@@ -14,6 +14,12 @@
     "geom:longitude":-60.344619,
     "iso:country":"CA",
     "iso:subdivision":"CA-NL",
+    "label:eng_x_preferred_longname":[
+        "Newfoundland and Labrador Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":54.125069,
     "lbl:longitude":-61.783349,
     "mps:latitude":54.125069,
@@ -544,7 +550,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1552076882,
+    "wof:lastmodified":1555022696,
     "wof:name":"Newfoundland and Labrador",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

@@ -10,6 +10,12 @@
     "geom:latitude":37.839878,
     "geom:longitude":23.602836,
     "iso:country":"GR",
+    "label:eng_x_preferred_longname":[
+        "Attica Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":38.083149,
     "lbl:longitude":23.791185,
     "mps:latitude":38.083149,
@@ -61,10 +67,11 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1552076984,
+    "wof:lastmodified":1555022793,
     "wof:name":"Attica",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
+    "wof:placetype_local":"region",
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -7,12 +7,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037039,
-    "geom:area_square_m":435445581.385109,
+    "geom:area_square_m":435445581.385042,
     "geom:bbox":"-76.887905,17.937815,-76.617122,18.179596",
     "geom:latitude":18.052291,
     "geom:longitude":-76.760774,
     "gn:population":555995,
     "iso:country":"JM",
+    "label:eng_x_preferred_longname":[
+        "Saint Andrew Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
     "lbl:latitude":18.060187,
     "lbl:longitude":-76.79444,
     "mps:latitude":18.062417,
@@ -25,7 +31,7 @@
         "\u0623\u0628\u0631\u064a\u0634\u0629 \u0633\u0627\u0646\u062a \u0623\u0646\u062f\u0631\u0648"
     ],
     "name:baq_x_preferred":[
-        "Saint Andrew "
+        "Saint Andrew"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09cd\u09b0\u09c1"
@@ -115,7 +121,7 @@
         "Saint Andrew"
     ],
     "name:nob_x_preferred":[
-        "Saint Andrew prestegjeld "
+        "Saint Andrew prestegjeld"
     ],
     "name:nor_x_preferred":[
         "Saint Andrew prestegjeld"
@@ -157,7 +163,7 @@
         "Saint Andrew"
     ],
     "name:ukr_x_preferred":[
-        "\u0421\u0435\u043d\u0442-\u0415\u043d\u0434\u0440\u044e "
+        "\u0421\u0435\u043d\u0442-\u0415\u043d\u0434\u0440\u044e"
     ],
     "name:unk_x_variant":[
         "Saint Andrews Parish"
@@ -299,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1552077080,
+    "wof:lastmodified":1555022882,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632215,
     "wof:placetype":"region",

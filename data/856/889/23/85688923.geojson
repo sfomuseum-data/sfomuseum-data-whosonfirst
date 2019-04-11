@@ -11,6 +11,12 @@
     "geom:longitude":28.125779,
     "iso:country":"ZA",
     "label:eng_x_abbreviation":"GT",
+    "label:eng_x_preferred_longname":[
+        "Gauteng Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-26.238909,
     "lbl:longitude":28.059764,
     "meso:name_local":"Gauteng",
@@ -390,7 +396,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1552076862,
+    "wof:lastmodified":1555022673,
     "wof:name":"Gauteng",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

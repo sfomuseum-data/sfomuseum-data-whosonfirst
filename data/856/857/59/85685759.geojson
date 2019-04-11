@@ -10,6 +10,12 @@
     "geom:latitude":54.822808,
     "geom:longitude":25.234422,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Vilnius County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":54.650847,
     "lbl:longitude":25.314198,
     "mps:latitude":54.650847,
@@ -319,7 +325,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1552076908,
+    "wof:lastmodified":1555022718,
     "wof:name":"Vilnius",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

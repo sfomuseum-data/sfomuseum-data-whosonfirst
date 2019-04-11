@@ -10,6 +10,12 @@
     "geom:latitude":60.009029,
     "geom:longitude":11.146635,
     "iso:country":"NO",
+    "label:eng_x_preferred_longname":[
+        "Akershus County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":60.096435,
     "lbl:longitude":11.225451,
     "mps:latitude":60.096435,
@@ -424,7 +430,7 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1552076987,
+    "wof:lastmodified":1555022795,
     "wof:name":"Akershus",
     "wof:parent_id":85633341,
     "wof:placetype":"region",

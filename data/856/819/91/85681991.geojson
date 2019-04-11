@@ -14,6 +14,12 @@
     "geom:longitude":-42.663101,
     "iso:country":"BR",
     "label:eng_x_abbreviation":"RJ",
+    "label:eng_x_preferred_longname":[
+        "Rio De Janeiro State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":-22.367493,
     "lbl:longitude":-42.491546,
     "mps:latitude":-22.367493,
@@ -402,7 +408,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1552076885,
+    "wof:lastmodified":1555022698,
     "wof:name":"Rio De Janeiro",
     "wof:parent_id":85633009,
     "wof:placetype":"region",

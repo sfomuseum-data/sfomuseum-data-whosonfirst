@@ -10,6 +10,12 @@
     "geom:latitude":-36.522986,
     "geom:longitude":174.867371,
     "iso:country":"NZ",
+    "label:eng_x_preferred_longname":[
+        "Auckland Region Unitary Authority"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unitary authority"
+    ],
     "lbl:latitude":-36.716114,
     "lbl:longitude":174.684871,
     "mps:latitude":-36.716114,
@@ -165,7 +171,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1552076894,
+    "wof:lastmodified":1555022704,
     "wof:name":"Auckland Region",
     "wof:parent_id":85633345,
     "wof:placetype":"region",

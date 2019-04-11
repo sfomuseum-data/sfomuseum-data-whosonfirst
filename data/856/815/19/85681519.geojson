@@ -14,6 +14,12 @@
     "geom:longitude":135.831497,
     "iso:country":"AU",
     "label:eng_x_abbreviation":"SA",
+    "label:eng_x_preferred_longname":[
+        "South Australia State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":-29.467956,
     "lbl:longitude":135.915347,
     "mps:latitude":-29.471257,
@@ -520,7 +526,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1552077002,
+    "wof:lastmodified":1555022809,
     "wof:name":"South Australia",
     "wof:parent_id":85632793,
     "wof:placetype":"region",

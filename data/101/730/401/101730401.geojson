@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026905,
-    "geom:area_square_m":224240625.505108,
+    "geom:area_square_m":224240625.505017,
     "geom:bbox":"-122.435955898,47.495513624,-122.236044455,47.7341649468",
     "geom:latitude":47.621291,
     "geom:longitude":-122.333019,
-    "gn:elevation":56,
-    "gn:population":608660,
+    "gn:admin1_code":"WA",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"7174408.0",
+    "gn:asciiname":"Seattle",
+    "gn:country_code":"US",
+    "gn:dem":56,
+    "gn:elevation":"56.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":5809844,
+    "gn:latitude":47.60621,
+    "gn:longitude":-122.33207,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Seattle",
+    "gn:population":684451,
+    "gn:timezone":"America/Los_Angeles",
     "iso:country":"US",
     "lbl:latitude":47.673455,
     "lbl:longitude":-122.331537,
@@ -580,6 +594,7 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "src:population":"wk",
+    "src:population_date":"wk",
     "wd:latitude":47.6,
     "wd:longitude":-122.316667,
     "wd:population":608660,
@@ -605,6 +620,9 @@
         "wd:id":"Q5083",
         "wk:page":"Seattle"
     },
+    "wof:concordances_alt":{
+        "gn:id":5809844
+    },
     "wof:country":"US",
     "wof:geomhash":"15a63b918faeb4191301745c550c3c66",
     "wof:hierarchy":[
@@ -620,7 +638,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1552077119,
+    "wof:lastmodified":1555022917,
     "wof:megacity":1,
     "wof:name":"Seattle",
     "wof:parent_id":102086191,
@@ -631,7 +649,8 @@
     "wof:scale":1,
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125348241
+        1125348241,
+        1209839955
     ],
     "wof:tags":[]
 },

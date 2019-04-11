@@ -14,6 +14,18 @@
     "geom:longitude":-71.571225,
     "iso:country":"US",
     "iso:subdivision":"US-NH",
+    "label:eng_us_x_preferred_longname":[
+        "New Hampshire"
+    ],
+    "label:eng_x_preferred_longname":[
+        "New Hampshire State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of New Hampshire"
+    ],
     "lbl:latitude":43.644386,
     "lbl:longitude":-71.586283,
     "mps:latitude":43.644386,
@@ -719,7 +731,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076897,
+    "wof:lastmodified":1555022707,
     "wof:name":"New Hampshire",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

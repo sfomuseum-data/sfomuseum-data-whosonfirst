@@ -8,12 +8,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.794041,
-    "geom:area_square_m":154010911303.584259,
+    "geom:area_square_m":154010911303.59198,
     "geom:bbox":"-85.605165,30.355757,-80.751429,35.000659",
     "geom:latitude":32.638611,
     "geom:longitude":-83.42714,
     "iso:country":"US",
     "iso:subdivision":"US-GA",
+    "label:eng_us_x_preferred_longname":[
+        "Georgia"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Georgia State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Georgia"
+    ],
     "lbl:latitude":32.53951,
     "lbl:longitude":-83.380775,
     "mps:latitude":32.53951,
@@ -65,7 +77,7 @@
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f"
     ],
     "name:baq_x_preferred":[
-        "Georgia "
+        "Georgia"
     ],
     "name:bar_x_preferred":[
         "Georgia"
@@ -712,7 +724,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077021,
+    "wof:lastmodified":1555022830,
     "wof:name":"Georgia",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

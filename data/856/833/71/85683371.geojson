@@ -10,6 +10,12 @@
     "geom:latitude":48.52261,
     "geom:longitude":2.243428,
     "iso:country":"FR",
+    "label:eng_x_preferred_longname":[
+        "Essonne Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":48.53675,
     "lbl:longitude":2.270739,
     "mps:latitude":48.53675,
@@ -369,7 +375,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1552076913,
+    "wof:lastmodified":1555022723,
     "wof:name":"Essonne",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

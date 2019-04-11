@@ -8,12 +8,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019978,
-    "geom:area_square_m":203304609.978745,
+    "geom:area_square_m":203304609.978819,
     "geom:bbox":"-58.5315187406,-34.7052931352,-58.3351430067,-34.5275410741",
     "geom:latitude":-34.614507,
     "geom:longitude":-58.44661,
     "gn:population":2776138,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ciudad de Buenos Aires Federal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "federal district"
+    ],
     "lbl:latitude":-34.607357,
     "lbl:longitude":-58.454595,
     "mps:latitude":-34.636816,
@@ -127,7 +133,7 @@
         "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1"
     ],
     "name:hin_x_preferred":[
-        "\u092c\u094d\u092f\u0942\u0928\u0930\u094d\u0938 \u0906\u092f\u0930\u094d\u0938 "
+        "\u092c\u094d\u092f\u0942\u0928\u0930\u094d\u0938 \u0906\u092f\u0930\u094d\u0938"
     ],
     "name:hrv_x_preferred":[
         "Buenos Aires"
@@ -430,7 +436,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1552076877,
+    "wof:lastmodified":1555022687,
     "wof:name":"Ciudad de Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

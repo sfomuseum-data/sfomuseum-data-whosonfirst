@@ -14,6 +14,18 @@
     "geom:longitude":-86.343405,
     "iso:country":"US",
     "iso:subdivision":"US-TN",
+    "label:eng_us_x_preferred_longname":[
+        "Tennessee"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Tennessee State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Tennessee"
+    ],
     "lbl:latitude":35.820245,
     "lbl:longitude":-86.343764,
     "mps:latitude":35.820245,
@@ -728,7 +740,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076872,
+    "wof:lastmodified":1555022683,
     "wof:name":"Tennessee",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

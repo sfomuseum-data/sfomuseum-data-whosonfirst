@@ -13,6 +13,12 @@
     "geom:latitude":52.664236,
     "geom:longitude":4.911635,
     "iso:country":"NL",
+    "label:eng_x_preferred_longname":[
+        "Noord-Holland Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":52.827683,
     "lbl:longitude":4.955985,
     "mps:latitude":52.827683,
@@ -437,7 +443,7 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1552076987,
+    "wof:lastmodified":1555022795,
     "wof:name":"Noord-Holland",
     "wof:parent_id":85633337,
     "wof:placetype":"region",

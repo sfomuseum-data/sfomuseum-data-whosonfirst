@@ -10,6 +10,12 @@
     "geom:latitude":47.483871,
     "geom:longitude":19.107554,
     "iso:country":"HU",
+    "label:eng_x_preferred_longname":[
+        "Budapest Capital City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "capital city"
+    ],
     "lbl:latitude":47.489899,
     "lbl:longitude":19.107708,
     "mps:latitude":47.489899,
@@ -710,7 +716,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1552076987,
+    "wof:lastmodified":1555022795,
     "wof:name":"Budapest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

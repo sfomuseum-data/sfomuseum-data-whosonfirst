@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.72177,
-    "geom:area_square_m":8813200697.480808,
+    "geom:area_square_m":8813200697.480265,
     "geom:bbox":"-79.6914800882,8.205166817,-78.0625968961,9.49828067827",
     "geom:latitude":9.06861,
     "geom:longitude":-78.850315,
     "gn:population":1713070,
     "iso:country":"PA",
+    "label:eng_x_preferred_longname":[
+        "Panama Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":9.110687,
     "lbl:longitude":-78.72272,
     "meso:name_local":"Panama",
@@ -24,7 +30,7 @@
         "Panamako probintzia"
     ],
     "name:bel_x_preferred":[
-        "\u041f\u0430\u043d\u0430\u043c\u0430 "
+        "\u041f\u0430\u043d\u0430\u043c\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0430\u043c\u0430"
@@ -258,7 +264,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1552076975,
+    "wof:lastmodified":1555022781,
     "wof:name":"Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"region",

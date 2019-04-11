@@ -11,6 +11,12 @@
     "geom:longitude":139.559183,
     "gn:population":12445327,
     "iso:country":"JP",
+    "label:eng_x_preferred_longname":[
+        "Tokyo Metropolis"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "metropolis"
+    ],
     "lbl:bbox":"139.279417452,35.5330801096,140.147167867,35.813461192",
     "lbl:latitude":35.675099,
     "lbl:longitude":139.393288,
@@ -161,7 +167,7 @@
         "\u03a4\u03cc\u03ba\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Tokyo Prefecture"
+        "Tokyo"
     ],
     "name:eng_x_variant":[
         "Tokyo",
@@ -804,7 +810,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1552077082,
+    "wof:lastmodified":1555022883,
     "wof:name":"Tokyo",
     "wof:parent_id":85632429,
     "wof:placetype":"region",

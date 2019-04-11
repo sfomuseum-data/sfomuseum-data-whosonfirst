@@ -14,6 +14,18 @@
     "geom:longitude":-120.605273,
     "iso:country":"US",
     "iso:subdivision":"US-OR",
+    "label:eng_us_x_preferred_longname":[
+        "Oregon"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Oregon State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Oregon"
+    ],
     "lbl:latitude":43.854178,
     "lbl:longitude":-120.526709,
     "mps:latitude":43.854178,
@@ -703,7 +715,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077030,
+    "wof:lastmodified":1555022838,
     "wof:name":"Oregon",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

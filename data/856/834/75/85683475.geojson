@@ -10,6 +10,12 @@
     "geom:latitude":48.917619,
     "geom:longitude":2.478392,
     "iso:country":"FR",
+    "label:eng_x_preferred_longname":[
+        "Seine-Saint-Denis Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":48.916383,
     "lbl:longitude":2.493932,
     "mps:latitude":48.916383,
@@ -382,7 +388,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1552076913,
+    "wof:lastmodified":1555022723,
     "wof:name":"Seine-Saint-Denis",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

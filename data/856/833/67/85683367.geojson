@@ -10,6 +10,12 @@
     "geom:latitude":48.815304,
     "geom:longitude":1.841281,
     "iso:country":"FR",
+    "label:eng_x_preferred_longname":[
+        "Yvelines Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":48.793264,
     "lbl:longitude":1.841284,
     "mps:latitude":48.793264,
@@ -375,7 +381,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1552076913,
+    "wof:lastmodified":1555022722,
     "wof:name":"Yvelines",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

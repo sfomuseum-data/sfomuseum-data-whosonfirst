@@ -13,6 +13,12 @@
     "geom:latitude":41.92303,
     "geom:longitude":12.571416,
     "iso:country":"IT",
+    "label:eng_x_preferred_longname":[
+        "Rome Metropolitan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "metropolitan city"
+    ],
     "lbl:latitude":41.930095,
     "lbl:longitude":12.494351,
     "mps:latitude":41.930095,
@@ -70,10 +76,9 @@
         "Rome"
     ],
     "name:eng_x_preferred":[
-        "Roma"
+        "Rome"
     ],
     "name:eng_x_variant":[
-        "Rome",
         "Province of Rome"
     ],
     "name:epo_x_preferred":[
@@ -89,9 +94,6 @@
         "Rooma"
     ],
     "name:fra_x_preferred":[
-        "Roma"
-    ],
-    "name:fra_x_variant":[
         "Rome"
     ],
     "name:fre_x_preferred":[
@@ -413,8 +415,8 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1552077068,
-    "wof:name":"Roma",
+    "wof:lastmodified":1555022871,
+    "wof:name":"Rome",
     "wof:parent_id":404227517,
     "wof:placetype":"region",
     "wof:placetype_local":"metropolitan city",

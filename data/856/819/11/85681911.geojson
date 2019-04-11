@@ -8,12 +8,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.487483,
-    "geom:area_square_m":5800606783.624849,
+    "geom:area_square_m":5800606783.624881,
     "geom:bbox":"-48.2857910682,-16.0502642626,-47.3083869871,-15.5002551534",
     "geom:latitude":-15.780692,
     "geom:longitude":-47.797361,
     "iso:country":"BR",
     "label:eng_x_abbreviation":"DF",
+    "label:eng_x_preferred_longname":[
+        "Distrito Federal"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "federal district"
+    ],
     "lbl:latitude":-15.77526,
     "lbl:longitude":-47.797292,
     "mps:latitude":-15.77526,
@@ -122,7 +128,7 @@
         "\u05d4\u05de\u05d7\u05d5\u05d6 \u05d4\u05e4\u05d3\u05e8\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
-        "\u092b\u0947\u0921\u0930\u0932 \u0921\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u0915\u094d\u091f "
+        "\u092b\u0947\u0921\u0930\u0932 \u0921\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u0915\u094d\u091f"
     ],
     "name:hrv_x_preferred":[
         "Brazilski federalni distrikt"
@@ -188,7 +194,7 @@
         "Districte Federal"
     ],
     "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u062f\u0631\u0627\u0644 "
+        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u062f\u0631\u0627\u0644"
     ],
     "name:pms_x_preferred":[
         "Distret Federal d\u00ebl Brasil"
@@ -401,7 +407,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1552076884,
+    "wof:lastmodified":1555022697,
     "wof:name":"Distrito Federal",
     "wof:parent_id":85633009,
     "wof:placetype":"region",

@@ -14,6 +14,12 @@
     "geom:longitude":-85.830446,
     "iso:country":"CA",
     "iso:subdivision":"CA-ON",
+    "label:eng_x_preferred_longname":[
+        "Ontario Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":51.451405,
     "lbl:longitude":-85.835963,
     "mps:latitude":51.451405,
@@ -551,7 +557,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1552076843,
+    "wof:lastmodified":1555022657,
     "wof:name":"Ontario",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.629395,
-    "geom:area_square_m":16560101642.050768,
+    "geom:area_square_m":16560101642.050949,
     "geom:bbox":"17.244932,58.489857,19.992184,60.2984435",
     "geom:latitude":59.380131,
     "geom:longitude":18.587087,
     "iso:country":"SE",
+    "label:eng_x_preferred_longname":[
+        "Stockholm County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Stockholms l\u00e4n"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "l\u00e4n"
+    ],
     "lbl:latitude":59.305284,
     "lbl:longitude":18.566681,
     "mps:latitude":59.305284,
@@ -208,6 +220,9 @@
         "Stockholms l\u00e4n"
     ],
     "name:swe_x_preferred":[
+        "Stockholms"
+    ],
+    "name:swe_x_variant":[
         "Stockholms l\u00e4n"
     ],
     "name:tam_x_preferred":[
@@ -360,7 +375,7 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1552076985,
+    "wof:lastmodified":1555022793,
     "wof:name":"Stockholm",
     "wof:parent_id":85633789,
     "wof:placetype":"region",

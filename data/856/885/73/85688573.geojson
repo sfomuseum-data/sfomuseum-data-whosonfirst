@@ -14,6 +14,18 @@
     "geom:longitude":-151.593418,
     "iso:country":"US",
     "iso:subdivision":"US-AK",
+    "label:eng_us_x_preferred_longname":[
+        "Alaska"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Alaska State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Alaska"
+    ],
     "lbl:bbox":"-179.98,51.175092,-129.979511,71.441059",
     "lbl:latitude":64.724809,
     "lbl:longitude":-153.629618,
@@ -779,7 +791,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552077023,
+    "wof:lastmodified":1555022831,
     "wof:name":"Alaska",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

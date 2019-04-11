@@ -10,6 +10,12 @@
     "geom:latitude":50.303707,
     "geom:longitude":30.458027,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Kiev Oblast"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "oblast"
+    ],
     "lbl:latitude":50.121609,
     "lbl:longitude":30.435489,
     "meso:name_local":"\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -443,7 +449,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1552076903,
+    "wof:lastmodified":1555022713,
     "wof:name":"Kiev",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

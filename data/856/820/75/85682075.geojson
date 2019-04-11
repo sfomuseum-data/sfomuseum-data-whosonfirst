@@ -14,6 +14,12 @@
     "geom:longitude":-63.280038,
     "iso:country":"CA",
     "iso:subdivision":"CA-NS",
+    "label:eng_x_preferred_longname":[
+        "Nova Scotia Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":45.226989,
     "lbl:longitude":-63.509537,
     "mps:latitude":45.226989,
@@ -537,7 +543,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1552076843,
+    "wof:lastmodified":1555022658,
     "wof:name":"Nova Scotia",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

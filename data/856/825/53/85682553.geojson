@@ -10,6 +10,12 @@
     "geom:latitude":52.472896,
     "geom:longitude":13.397685,
     "iso:country":"DE",
+    "label:eng_x_preferred_longname":[
+        "Brandenburg State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":52.073056,
     "lbl:longitude":14.124409,
     "mps:latitude":52.073056,
@@ -662,7 +668,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1552077060,
+    "wof:lastmodified":1555022863,
     "wof:name":"Brandenburg",
     "wof:parent_id":85633111,
     "wof:placetype":"region",

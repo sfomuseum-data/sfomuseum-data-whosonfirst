@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940092,
-    "geom:area_square_m":7534379033.202215,
+    "geom:area_square_m":7534379033.202098,
     "geom:bbox":"12.4014595,48.941422,13.8342535,50.1043215",
     "geom:latitude":49.597197,
     "geom:longitude":13.221974,
     "iso:country":"CZ",
+    "label:eng_x_preferred_longname":[
+        "Plze\u0148sk\u00fd Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":49.62242,
     "lbl:longitude":13.22196,
     "mps:latitude":49.62242,
@@ -94,7 +100,7 @@
         "\u0aaa\u0ac0\u0ab2\u0acd\u0a9d\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
     "name:heb_x_preferred":[
-        "\u05e4\u05dc\u05d6\u05df "
+        "\u05e4\u05dc\u05d6\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0932\u0947\u091c\u0947\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1552076988,
+    "wof:lastmodified":1555022796,
     "wof:name":"Plze\u0148sk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

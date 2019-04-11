@@ -8,13 +8,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.805396,
-    "geom:area_square_m":305388348411.278503,
+    "geom:area_square_m":305388348411.289307,
     "geom:bbox":"-63.3913724217,-41.037918091,-56.66708374,-33.2574630467",
     "geom:latitude":-36.675118,
     "geom:longitude":-60.556011,
     "gn:id":"",
     "gn:population":13827203,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Buenos Aires Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-36.488662,
     "lbl:longitude":-60.283523,
     "mps:latitude":-36.426701,
@@ -108,7 +114,7 @@
         "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1"
     ],
     "name:hin_x_preferred":[
-        "\u092c\u094d\u092f\u0942\u0928\u0930\u094d\u0938 \u0906\u092f\u0930\u094d\u0938 "
+        "\u092c\u094d\u092f\u0942\u0928\u0930\u094d\u0938 \u0906\u092f\u0930\u094d\u0938"
     ],
     "name:hrv_x_preferred":[
         "Buenos Aires"
@@ -396,7 +402,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1552076877,
+    "wof:lastmodified":1555022687,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

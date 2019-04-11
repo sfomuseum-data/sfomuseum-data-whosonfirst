@@ -10,6 +10,12 @@
     "geom:latitude":52.501535,
     "geom:longitude":13.40184,
     "iso:country":"DE",
+    "label:eng_x_preferred_longname":[
+        "Berlin State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":52.524961,
     "lbl:longitude":13.407003,
     "mps:latitude":52.524961,
@@ -436,7 +442,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1552076988,
+    "wof:lastmodified":1555022796,
     "wof:name":"Berlin",
     "wof:parent_id":85633111,
     "wof:placetype":"region",

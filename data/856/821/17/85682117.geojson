@@ -14,6 +14,12 @@
     "geom:longitude":-124.834255,
     "iso:country":"CA",
     "iso:subdivision":"CA-BC",
+    "label:eng_x_preferred_longname":[
+        "British Columbia Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":54.790277,
     "lbl:longitude":-124.557003,
     "mps:latitude":54.790277,
@@ -555,7 +561,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1552076880,
+    "wof:lastmodified":1555022695,
     "wof:name":"British Columbia",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

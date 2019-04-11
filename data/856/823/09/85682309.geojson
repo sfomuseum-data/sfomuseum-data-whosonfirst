@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206042,
-    "geom:area_square_m":1724086558.372887,
+    "geom:area_square_m":1724086558.372892,
     "geom:bbox":"8.35769346253,47.1594358741,8.98495120804,47.6944698165",
     "geom:latitude":47.412895,
     "geom:longitude":8.655056,
     "iso:country":"CH",
+    "label:eng_x_preferred_longname":[
+        "Z\u00fcrich Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":47.390129,
     "lbl:longitude":8.661,
     "mps:latitude":47.390129,
@@ -269,7 +275,7 @@
         "\u0c15\u0c3e\u0c02\u0c1f\u0c28\u0c4d \u0c06\u0c2b\u0c4d \u0c1c\u0c4d\u0c2f\u0c42\u0c30\u0c3f\u0c15\u0c4d"
     ],
     "name:tgk_x_preferred":[
-        "\u0417\u044e\u0440\u0438\u0445 "
+        "\u0417\u044e\u0440\u0438\u0445"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e0b\u0e37\u0e2d\u0e23\u0e34\u0e0a"
@@ -420,7 +426,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1552076987,
+    "wof:lastmodified":1555022795,
     "wof:name":"Z\u00fcrich",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

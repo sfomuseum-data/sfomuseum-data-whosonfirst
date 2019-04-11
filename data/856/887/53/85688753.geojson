@@ -14,6 +14,18 @@
     "geom:longitude":-99.317137,
     "iso:country":"US",
     "iso:subdivision":"US-TX",
+    "label:eng_us_x_preferred_longname":[
+        "Texas"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Texas State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Texas"
+    ],
     "lbl:latitude":31.030974,
     "lbl:longitude":-98.326329,
     "mps:latitude":31.030974,
@@ -713,7 +725,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076870,
+    "wof:lastmodified":1555022681,
     "wof:name":"Texas",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

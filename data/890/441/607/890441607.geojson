@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +15,7 @@
     "gn:pop":344939,
     "iso:country":"QA",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":5.6,
     "name:ace_x_preferred":[
         "Doha"
@@ -579,7 +580,7 @@
         102191569,
         85632299,
         85676749,
-        1108757983
+        1377149699
     ],
     "wof:breaches":[],
     "wof:capital_of":85632299,
@@ -596,20 +597,22 @@
         {
             "continent_id":102191569,
             "country_id":85632299,
-            "county_id":1108757983,
+            "county_id":1377149699,
             "locality_id":890441607,
             "region_id":85676749
         }
     ],
     "wof:id":890441607,
-    "wof:lastmodified":1552077134,
+    "wof:lastmodified":1555022932,
     "wof:name":"Doha",
-    "wof:parent_id":1108757983,
+    "wof:parent_id":1377149699,
     "wof:placetype":"locality",
     "wof:population":344939,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421190363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

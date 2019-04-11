@@ -14,6 +14,18 @@
     "geom:longitude":-111.66439,
     "iso:country":"US",
     "iso:subdivision":"US-AZ",
+    "label:eng_us_x_preferred_longname":[
+        "Arizona"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Arizona State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "label:eng_x_variant_longname":[
+        "State of Arizona"
+    ],
     "lbl:latitude":34.255149,
     "lbl:longitude":-111.62621,
     "mps:latitude":34.255149,
@@ -737,7 +749,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1552076869,
+    "wof:lastmodified":1555022680,
     "wof:name":"Arizona",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

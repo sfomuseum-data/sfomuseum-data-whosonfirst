@@ -13,6 +13,12 @@
     "geom:latitude":53.54766,
     "geom:longitude":10.011776,
     "iso:country":"DE",
+    "label:eng_x_preferred_longname":[
+        "Hamburg State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
     "lbl:latitude":53.569444,
     "lbl:longitude":10.04862,
     "mps:latitude":53.569444,
@@ -696,7 +702,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1552077060,
+    "wof:lastmodified":1555022863,
     "wof:name":"Hamburg",
     "wof:parent_id":85633111,
     "wof:placetype":"region",

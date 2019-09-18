@@ -22,6 +22,10 @@
     "name:eng_x_variant":[
         "BJS"
     ],
+    "sfomuseum:airport_id":11,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Beijing Capital International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102550367,
-    "wof:lastmodified":1568759312,
+    "wof:lastmodified":1568826291,
     "wof:name":"Beijing Capital Airport",
     "wof:parent_id":102027745,
     "wof:placetype":"campus",

@@ -14,20 +14,22 @@
     "geom:longitude":-79.130909,
     "iso:country":"US",
     "iso:subdivision":"US-NC",
-    "label:eng_us_x_preferred_longname":[
-        "North Carolina"
-    ],
     "label:eng_x_preferred_longname":[
-        "North Carolina State"
+        "North Carolina"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
+    ],
     "label:eng_x_variant_longname":[
-        "State of North Carolina"
+        "State of North Carolina",
+        "North Carolina State"
     ],
     "lbl:latitude":35.387362,
     "lbl:longitude":-78.455056,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.387362,
     "mps:longitude":-78.455056,
     "mz:hierarchy_label":1,
@@ -37,14 +39,14 @@
     "name:afr_x_preferred":[
         "Noord-Carolina"
     ],
-    "name:alb_x_preferred":[
-        "North Carolina"
-    ],
     "name:amh_x_preferred":[
         "\u1296\u122d\u12dd \u12ab\u122e\u120b\u12ed\u1293"
     ],
     "name:ang_x_preferred":[
         "Nor\u00fecarol\u012bna"
+    ],
+    "name:ang_x_variant":[
+        "Nor\u00fe Carol\u012bna"
     ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0644\u0627\u064a\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
@@ -52,8 +54,8 @@
     "name:arg_x_preferred":[
         "Carolina do Norte"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u053f\u0561\u0580\u0578\u056c\u056b\u0576\u0561"
+    "name:arg_x_variant":[
+        "Carolina d'o Norte"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0644\u0627\u064a\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
@@ -73,9 +75,6 @@
     "name:bak_x_preferred":[
         "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Ipar Carolina"
-    ],
     "name:bar_x_preferred":[
         "North Carolina"
     ],
@@ -84,6 +83,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u041a\u0430\u0440\u0430\u043b\u0456\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u041a\u0430\u0440\u0430\u043b\u0456\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u0995\u09cd\u09af\u09be\u09b0\u09cb\u09b2\u09be\u0987\u09a8\u09be"
@@ -109,9 +111,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1031\u102c\u1000\u103a\u1000\u101a\u103a\u101b\u102d\u102f\u101c\u102d\u102f\u1004\u103a\u1038\u1014\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u0439\u0442\u043e \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
@@ -121,14 +120,17 @@
     "name:cdo_x_preferred":[
         "North Carolina"
     ],
+    "name:ceb_x_preferred":[
+        "North Carolina"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed Karol\u00edna"
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5361\u7f57\u6765\u7eb3\u5dde"
+    "name:che_x_variant":[
+        "\u041a\u044a\u0438\u043b\u0431\u0441\u0435\u0434\u0435\u0440\u0430 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:chv_x_preferred":[
         "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
@@ -145,20 +147,23 @@
     "name:cym_x_preferred":[
         "Gogledd Carolina"
     ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Karol\u00edna"
-    ],
     "name:dan_x_preferred":[
+        "North Carolina"
+    ],
+    "name:deu_x_preferred":[
         "North Carolina"
     ],
     "name:diq_x_preferred":[
         "Karolinaya Z\u0131mey"
     ],
-    "name:dut_x_preferred":[
-        "North Carolina"
+    "name:diq_x_variant":[
+        "Karolina Z\u0131mey"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039a\u03b1\u03c1\u03bf\u03bb\u03af\u03bd\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Carul\u00ecna dal N\u00f2rd"
     ],
     "name:eng_x_colloquial":[
         "Tar Heel State"
@@ -191,23 +196,17 @@
     "name:fra_x_preferred":[
         "Caroline du Nord"
     ],
-    "name:fre_x_preferred":[
-        "Caroline du Nord"
-    ],
     "name:frr_x_preferred":[
         "North Carolina"
     ],
     "name:fry_x_preferred":[
         "Noard-Karolina"
     ],
+    "name:fry_x_variant":[
+        "Noard Karolina"
+    ],
     "name:gag_x_preferred":[
         "Poyraz Karolina"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d9\u10d0\u10e0\u10dd\u10da\u10d8\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "North Carolina"
     ],
     "name:gla_x_preferred":[
         "Carolina a Tuath"
@@ -221,9 +220,6 @@
     "name:glv_x_preferred":[
         "Carolina Hwoaie"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039a\u03b1\u03c1\u03bf\u03bb\u03af\u03bd\u03b1"
-    ],
     "name:grn_x_preferred":[
         "Yvate Karolina"
     ],
@@ -233,8 +229,17 @@
     "name:hak_x_preferred":[
         "Pet Kh\u00e0-l\u00f2-l\u00f2i-na\u030dp"
     ],
+    "name:hak_x_variant":[
+        "North Carolina"
+    ],
     "name:hat_x_preferred":[
         "Karolin din\u00f2"
+    ],
+    "name:hau_x_preferred":[
+        "North Carolina"
+    ],
+    "name:haw_x_preferred":[
+        "Kalolaina \u2018\u0100kau"
     ],
     "name:hbs_x_preferred":[
         "Sjeverna Karolina"
@@ -248,6 +253,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u0947\u0930\u094b\u0932\u093f\u0928\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0909\u0924\u094d\u0924\u0930\u0940 \u0915\u0947\u0930\u094b\u0932\u093f\u0928\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Sjeverna Karolina"
     ],
@@ -260,11 +268,11 @@
     "name:ibo_x_preferred":[
         "Nort K\u00e1r\u00f3l\u00edn\u1ea1"
     ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ur-Kar\u00f3l\u00edna"
-    ],
     "name:ido_x_preferred":[
         "Nordal Karolina"
+    ],
+    "name:ido_x_variant":[
+        "Norda-Karolina"
     ],
     "name:iku_x_preferred":[
         "\u1473\u1549\u14d6\u14c8 \u1450\u14c4\u1555\u140a\u1585"
@@ -305,8 +313,14 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043b\u0442\u04af\u0441\u0442\u0456\u043a \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Karolina n\u025b hay\u028a"
+    ],
     "name:kor_x_preferred":[
         "\ub178\uc2a4\uce90\ub864\ub77c\uc774\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\uc2a4\uce90\ub864\ub77c\uc774\ub098\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Karol\u00eenaya Bakur"
@@ -319,6 +333,9 @@
     ],
     "name:lav_x_preferred":[
         "Zieme\u013ckarol\u012bna"
+    ],
+    "name:lfn_x_preferred":[
+        "North Carolina"
     ],
     "name:lij_x_preferred":[
         "Carolinn-a do Nord"
@@ -335,23 +352,23 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0644\u06cc\u0646\u0627 \u0634\u0648\u0645\u0627\u0644\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0627\u0631\u0648\u0644\u06cc\u0646\u0627 \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "North Carolina"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
+    "name:lzh_x_preferred":[
+        "\u5317\u5361\u7f85\u4f86\u7d0d\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u0930\u094d\u0925 \u0915\u094d\u092f\u093e\u0930\u094b\u0932\u093e\u0907\u0928\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d1f\u0d15\u0d4d\u0d15\u0d7b \u0d15\u0d30\u0d4a\u0d32\u0d48\u0d28"
     ],
-    "name:mao_x_preferred":[
-        "North Carolina"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0925 \u0915\u0945\u0930\u094b\u0932\u093f\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Carolina Utara"
     ],
     "name:mhr_x_preferred":[
         "\u0419\u04f1\u0434\u0432\u0435\u043b \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0435"
@@ -360,6 +377,9 @@
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
+        "North Carolina"
+    ],
+    "name:mri_x_preferred":[
         "North Carolina"
     ],
     "name:mrj_x_preferred":[
@@ -386,6 +406,9 @@
     "name:nav_x_preferred":[
         "N\u00e1hook\u01ebsj\u00ed K\u00e9\u00e9l\u00e1anah Hahoodzo"
     ],
+    "name:nav_x_variant":[
+        "Ch\u00e9ch\u02bcil \u0143t\u02bci\u02bc\u00ed Hahoodzo"
+    ],
     "name:nds_x_preferred":[
         "Noord-Carolina"
     ],
@@ -394,6 +417,9 @@
     ],
     "name:new_x_preferred":[
         "\u0928\u0930\u094d\u0925 \u0915\u094d\u092f\u093e\u0930\u094b\u0932\u093f\u0928\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "North Carolina"
     ],
     "name:nno_x_preferred":[
         "Nord-Carolina"
@@ -416,8 +442,8 @@
     "name:pan_x_preferred":[
         "\u0a09\u0a71\u0a24\u0a30\u0a40 \u0a15\u0a48\u0a30\u0a4b\u0a32\u0a40\u0a28\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u0648\u0644\u06cc\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+    "name:pap_x_preferred":[
+        "North Carolina"
     ],
     "name:pli_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u094d\u092f\u093e\u0930\u094b\u0932\u093f\u0928\u093e"
@@ -434,6 +460,9 @@
     "name:por_x_preferred":[
         "Carolina do Norte"
     ],
+    "name:pus_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u064a \u06a9\u0627\u0631\u0648\u0644\u06cc\u0646\u0627"
+    ],
     "name:que_x_preferred":[
         "North Carolina suyu"
     ],
@@ -441,9 +470,6 @@
         "North Carolina"
     ],
     "name:ron_x_preferred":[
-        "Carolina de Nord"
-    ],
-    "name:rum_x_preferred":[
         "Carolina de Nord"
     ],
     "name:rus_x_preferred":[
@@ -470,9 +496,6 @@
     "name:slk_x_preferred":[
         "Severn\u00e1 Karol\u00edna"
     ],
-    "name:slo_x_preferred":[
-        "Severn\u00e1 Karol\u00edna"
-    ],
     "name:slv_x_preferred":[
         "Severna Karolina"
     ],
@@ -487,6 +510,9 @@
     ],
     "name:spa_x_variant":[
         "Estado de Carolina del Norte"
+    ],
+    "name:sqi_x_preferred":[
+        "North Carolina"
     ],
     "name:srd_x_preferred":[
         "Carolina de Nord"
@@ -521,6 +547,9 @@
     "name:tgl_x_preferred":[
         "Hilagang Karolina"
     ],
+    "name:tgl_x_variant":[
+        "North Carolina"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e19\u0e2d\u0e23\u0e4c\u0e17\u0e41\u0e04\u0e42\u0e23\u0e44\u0e25\u0e19\u0e32"
     ],
@@ -533,11 +562,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041a\u0430\u0440\u043e\u043b\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nord Carolina"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u06a9\u06cc\u0631\u0648\u0644\u0627\u0626\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0634\u0645\u0627\u0644\u06cc \u06a9\u06cc\u0631\u0648\u0644\u06cc\u0646\u0627"
     ],
     "name:uzb_x_preferred":[
         "Shimoliy Karolina"
@@ -554,8 +586,8 @@
     "name:war_x_preferred":[
         "North Carolina"
     ],
-    "name:wel_x_preferred":[
-        "Gogledd Carolina"
+    "name:wuu_x_preferred":[
+        "\u5317\u5361\u7f57\u6765\u7eb3\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u0410\u0440 \u041a\u0430\u0440\u0435\u043b\u0430\u0439\u043d"
@@ -571,6 +603,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5317\u5361\u7f85\u840a\u7d0d\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "North Carolina"
     ],
     "name:zho_x_preferred":[
         "\u5317\u5361\u7f57\u6765\u7eb3\u5dde"
@@ -641,14 +676,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"136,413",
     "statoids:area_mi":"52,669",
     "statoids:as_of_date":"2010-04-01",
@@ -695,11 +729,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513866,
+    "wof:lastmodified":1566614759,
     "wof:name":"North Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":9535483,
     "wof:population_rank":13,

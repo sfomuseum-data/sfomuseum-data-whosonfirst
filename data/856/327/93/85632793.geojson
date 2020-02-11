@@ -14,8 +14,13 @@
     "itu:country_code":[
         "61"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AU"
+    ],
     "lbl:latitude":-23.992438,
     "lbl:longitude":134.050443,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-23.992438,
     "mps:longitude":134.050443,
     "mz:hierarchy_label":1,
@@ -36,9 +41,6 @@
     ],
     "name:aka_x_preferred":[
         "\u0186strelia"
-    ],
-    "name:alb_x_preferred":[
-        "Australia"
     ],
     "name:als_x_preferred":[
         "Australien"
@@ -67,11 +69,11 @@
     "name:arg_x_preferred":[
         "Australia"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u057e\u057d\u057f\u0580\u0561\u056c\u056b\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0627\u0644\u064a\u0627"
+    ],
+    "name:asm_x_preferred":[
+        "\u0985\u09b7\u09cd\u099f\u09cd\u09f0\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
     ],
     "name:ast_x_preferred":[
         "Australia"
@@ -81,6 +83,9 @@
     ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
+    ],
+    "name:azb_x_variant":[
+        "\u0627\u0648\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
     ],
     "name:aze_x_preferred":[
         "Avstraliya"
@@ -93,9 +98,6 @@
     ],
     "name:bam_x_variant":[
         "Ositirali"
-    ],
-    "name:baq_x_preferred":[
-        "Australia"
     ],
     "name:bar_x_preferred":[
         "Australien"
@@ -117,6 +119,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
+    ],
+    "name:bih_x_preferred":[
+        "\u0906\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Ostrelia"
@@ -145,9 +150,6 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
     ],
-    "name:bur_x_preferred":[
-        "\u1029\u1005\u1010\u103c\u1031\u1038\u101c\u103b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438"
     ],
@@ -161,7 +163,8 @@
         "Awstralya"
     ],
     "name:ceb_x_variant":[
-        "Australia"
+        "Australia",
+        "Ostralya"
     ],
     "name:ces_x_preferred":[
         "Austr\u00e1lie"
@@ -169,11 +172,11 @@
     "name:che_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6fb3\u5927\u5229\u4e9a"
-    ],
     "name:chr_x_preferred":[
         "\u13a1\u13b3\u13d7\u13dc"
+    ],
+    "name:chr_x_variant":[
+        "\u13d2\u13b3\u13d7\u13dd"
     ],
     "name:chu_x_preferred":[
         "\u0410\u0475\u0441\u0442\u0440\u0430\u043b\u0457\ua657"
@@ -184,6 +187,9 @@
     "name:ckb_x_preferred":[
         "\u0626\u0648\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
     ],
+    "name:ckb_x_variant":[
+        "\u0626\u06c6\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
+    ],
     "name:cor_x_preferred":[
         "Ostrali"
     ],
@@ -193,11 +199,11 @@
     "name:crh_x_preferred":[
         "Avstraliya"
     ],
+    "name:csb_x_preferred":[
+        "A\u00f9stral\u00ebj\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Awstralia"
-    ],
-    "name:cze_x_preferred":[
-        "Austr\u00e1lie"
     ],
     "name:dan_x_preferred":[
         "Australien"
@@ -205,8 +211,14 @@
     "name:deu_x_preferred":[
         "Australien"
     ],
+    "name:din_x_preferred":[
+        "Australia"
+    ],
     "name:diq_x_preferred":[
         "Australya"
+    ],
+    "name:diq_x_variant":[
+        "Aw\u0131stralya"
     ],
     "name:div_x_preferred":[
         "\u0787\u07ae\u0790\u07b0\u0793\u07a6\u0783\u07aa\u078d\u07a8\u0794\u07a7"
@@ -216,9 +228,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0905\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Australi\u00eb"
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f66\u0f0b\u0f4a\u0f7a\u0f61\u0f7a\u0f0b\u0f63\u0f72\u0f0b\u0f61"
@@ -277,17 +286,20 @@
     "name:fra_x_preferred":[
         "Australie"
     ],
-    "name:fre_x_preferred":[
-        "Australie"
-    ],
     "name:frp_x_preferred":[
         "\u00d4stralie"
+    ],
+    "name:frp_x_variant":[
+        "\u00d4stralia"
     ],
     "name:frr_x_preferred":[
         "Austraalien"
     ],
     "name:fry_x_preferred":[
         "Austraalje (l\u00e2n)"
+    ],
+    "name:fry_x_variant":[
+        "Austraalje"
     ],
     "name:ful_x_preferred":[
         "Ostaraalii"
@@ -300,12 +312,6 @@
     ],
     "name:gan_x_preferred":[
         "\u6fb3\u5927\u5229\u4e9e"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d5\u10e1\u10e2\u10e0\u10d0\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Australien"
     ],
     "name:gla_x_preferred":[
         "Astr\u00e0ilia"
@@ -322,11 +328,14 @@
     "name:gom_x_preferred":[
         "\u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1"
+    "name:gom_x_variant":[
+        "\u0c86\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cc7\u0cb2\u0cbf\u0caf"
     ],
     "name:grn_x_preferred":[
         "Autaralia"
+    ],
+    "name:grn_x_variant":[
+        "Autar\u00e1lia"
     ],
     "name:gsw_x_preferred":[
         "Australie"
@@ -336,6 +345,9 @@
     ],
     "name:hak_x_preferred":[
         "\u00c0u-thai-li-\u00e2"
+    ],
+    "name:hak_x_variant":[
+        "Au-ch\u00fb"
     ],
     "name:hat_x_preferred":[
         "Ostrali"
@@ -374,11 +386,11 @@
     "name:hye_x_preferred":[
         "\u0531\u057e\u057d\u057f\u0580\u0561\u056c\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0582\u057d\u057f\u0580\u0561\u056c\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Ostraliya"
-    ],
-    "name:ice_x_preferred":[
-        "\u00c1stral\u00eda"
     ],
     "name:ido_x_preferred":[
         "Australia"
@@ -398,6 +410,9 @@
     "name:ind_x_preferred":[
         "Australia"
     ],
+    "name:inh_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u043b\u0438"
+    ],
     "name:isl_x_preferred":[
         "\u00c1stral\u00eda"
     ],
@@ -409,6 +424,9 @@
     ],
     "name:jav_x_preferred":[
         "Australia"
+    ],
+    "name:jav_x_variant":[
+        "Ostrali"
     ],
     "name:jbo_x_preferred":[
         "sralygu'e"
@@ -483,6 +501,9 @@
     "name:lad_x_preferred":[
         "Ostralya"
     ],
+    "name:lad_x_variant":[
+        "Australia"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0ebb\u0e94\u0eaa\u0eb0\u0e95\u0eb0\u0ea3\u0eb2\u0ea5\u0eb5"
     ],
@@ -499,6 +520,9 @@
     "name:lez_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Australia"
+    ],
     "name:lij_x_preferred":[
         "Australia"
     ],
@@ -513,6 +537,9 @@
     ],
     "name:lmo_x_preferred":[
         "A\u00fcstralia"
+    ],
+    "name:lmo_x_variant":[
+        "Australia"
     ],
     "name:ltg_x_preferred":[
         "Australeja"
@@ -529,23 +556,14 @@
     "name:lzh_x_preferred":[
         "\u6fb3\u5927\u5229\u4e9e"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0458\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u0905\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d13\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f"
     ],
-    "name:mao_x_preferred":[
-        "Ahitereiria"
-    ],
     "name:mar_x_preferred":[
         "\u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Australia"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0435"
@@ -589,6 +607,9 @@
     "name:mya_x_variant":[
         "\u1029\u1005\u1010\u103c\u1031\u1038\u101c\u103b\u103e\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
     ],
@@ -597,6 +618,9 @@
     ],
     "name:nan_x_preferred":[
         "Australia"
+    ],
+    "name:nan_x_variant":[
+        "\u00d2-chiu"
     ],
     "name:nap_x_preferred":[
         "Australia"
@@ -652,6 +676,9 @@
     "name:nso_x_preferred":[
         "Australia (naga)"
     ],
+    "name:nso_x_variant":[
+        "Australia"
+    ],
     "name:oci_x_preferred":[
         "Austr\u00e0lia"
     ],
@@ -676,6 +703,9 @@
     "name:pan_x_preferred":[
         "\u0a06\u0a38\u0a1f\u0a30\u0a47\u0a32\u0a40\u0a06"
     ],
+    "name:pan_x_variant":[
+        "\u0a06\u0a38\u0a1f\u0a4d\u0a30\u0a47\u0a32\u0a40\u0a06"
+    ],
     "name:pap_x_preferred":[
         "Australia"
     ],
@@ -684,9 +714,6 @@
     ],
     "name:pdc_x_preferred":[
         "Australie"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
     ],
     "name:pih_x_preferred":[
         "Ostrielya"
@@ -727,8 +754,8 @@
     "name:rue_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Australia"
+    "name:rue_x_variant":[
+        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u044c\u0441\u043a\u044b\u0439 \u0421\u043e\u044e\u0437"
     ],
     "name:run_x_preferred":[
         "Australiya"
@@ -754,6 +781,9 @@
     "name:san_x_preferred":[
         "\u0906\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5a\u1c65\u1c74\u1c68\u1c6e\u1c5e\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Australia"
     ],
@@ -773,9 +803,6 @@
         "Austr\u00e1lia (\u0161t\u00e1t)"
     ],
     "name:slk_x_variant":[
-        "Austr\u00e1lia"
-    ],
-    "name:slo_x_preferred":[
         "Austr\u00e1lia"
     ],
     "name:slv_x_preferred":[
@@ -820,6 +847,9 @@
     "name:stq_x_preferred":[
         "Australien (Lound)"
     ],
+    "name:stq_x_variant":[
+        "Australien"
+    ],
     "name:sun_x_preferred":[
         "Australia"
     ],
@@ -848,6 +878,9 @@
     "name:tat_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
     ],
+    "name:tat_x_variant":[
+        "\u0410\u0443\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
+    ],
     "name:tcy_x_preferred":[
         "\u0c86\u0cb8\u0ccd\u0c9f\u0cc7\u0cb2\u0cbf\u0caf\u0cbe"
     ],
@@ -871,9 +904,6 @@
     ],
     "name:tha_x_variant":[
         "\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e40\u0e25\u0e35\u0e22"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f7c\u0f0b\u0f66\u0f7a\u0f0b\u0f50\u0f7a\u0f0b\u0f63\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:tir_x_preferred":[
         "\u12a3\u12cd\u1235\u1275\u122b\u120a\u12eb"
@@ -914,13 +944,6 @@
     "name:und_x_colloquial":[
         "Astralia"
     ],
-    "name:und_x_preferred":[
-        "Avstralija",
-        "\u00c1stral\u00eda"
-    ],
-    "name:unk_x_variant":[
-        "Commonwealth of Australia"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
     ],
@@ -945,6 +968,9 @@
     "name:vls_x_preferred":[
         "Australi\u00eb (land)"
     ],
+    "name:vls_x_variant":[
+        "Australi\u00eb"
+    ],
     "name:vol_x_preferred":[
         "Laustral\u00e4n"
     ],
@@ -953,9 +979,6 @@
     ],
     "name:war_x_preferred":[
         "Australya"
-    ],
-    "name:wel_x_preferred":[
-        "Awstralia"
     ],
     "name:wln_x_preferred":[
         "Ostraleye"
@@ -992,6 +1015,9 @@
     ],
     "name:zha_x_preferred":[
         "Audaihleihya"
+    ],
+    "name:zha_x_variant":[
+        "Audaliya"
     ],
     "name:zho_min_nan_x_preferred":[
         "Australia"
@@ -1082,15 +1108,13 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"Australia Census",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"61",
     "statoids:ds":"AUS",
@@ -1136,7 +1160,7 @@
         "mzb:id":"australia",
         "ne:adm0_a3":"AUS",
         "nyt:id":"53962635511746733021",
-        "qs:id":1028438,
+        "qs_pg:id":1028438,
         "uncrt:id":"AUS",
         "wd:id":"Q408",
         "wk:page":"Australia",
@@ -1159,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1578514125,
+    "wof:lastmodified":1566600744,
     "wof:name":"Australia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

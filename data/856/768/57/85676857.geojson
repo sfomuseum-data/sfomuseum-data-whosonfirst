@@ -10,23 +10,27 @@
     "geom:latitude":21.628768,
     "geom:longitude":41.257286,
     "iso:country":"SA",
-    "label:ara_x_placetype_longname":[
-        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629"
+    "label:ara_latn_x_preferred_placetype":[
+        "muhafazah"
     ],
-    "label:ara_x_placetype_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0625\u062f\u0627\u0631\u064a\u0629"
+    "label:ara_x_preferred_longname":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629"
     ],
-    "label:eng_x_placetype_longname":[
-        "Makkah Region"
-    ],
-    "label:eng_x_placetype_preferred":[
-        "region"
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629"
     ],
     "label:eng_x_preferred_longname":[
         "Makkah Region"
     ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "MK"
+    ],
     "lbl:latitude":21.939103,
     "lbl:longitude":41.689276,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
     "mps:latitude":21.939103,
     "mps:longitude":41.689276,
@@ -37,8 +41,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0643\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0643\u0647"
+    ],
     "name:ava_x_preferred":[
         "\u041c\u0430\u043a\u043a\u0430"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06a9\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259kk\u0259 b\u00f6lg\u0259si"
     ],
     "name:bak_x_preferred":[
         "\u041c\u04d9\u043a\u043a\u04d9"
@@ -52,14 +65,17 @@
     "name:bjn_x_preferred":[
         "Lalawangan Makkah"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea5\u52a0\u7701"
+    "name:ceb_x_preferred":[
+        "Makkah Province"
     ],
     "name:dan_x_preferred":[
         "Makkah Region"
     ],
-    "name:dut_x_preferred":[
-        "Mekka"
+    "name:deu_x_preferred":[
+        "Provinz Mekka"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03ac\u03ba\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Makkah"
@@ -75,23 +91,26 @@
     "name:est_x_preferred":[
         "Meka provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06a9\u0647"
+    ],
     "name:fin_x_preferred":[
         "Mekka"
+    ],
+    "name:fin_x_variant":[
+        "Makkah"
     ],
     "name:fra_x_preferred":[
         "La Mecque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "la Mecque"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Mekka"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03ac\u03ba\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0acd\u0a95\u0abe\u0ab9 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05db\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0915\u094d\u0915\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -111,11 +130,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30c3\u30ab"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30c3\u30ab\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0c95\u0cbe\u0cb9\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
     "name:kor_x_preferred":[
         "\ub9c9\uce74"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\uce74\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mekas mintaka"
@@ -123,20 +148,23 @@
     "name:lit_x_preferred":[
         "Mekos emyratas"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u043a\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0915\u094d\u0915\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Makkah Region"
     ],
     "name:nan_x_preferred":[
         "Makka S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Mekka"
     ],
     "name:nno_x_preferred":[
         "Mekka-regionen"
@@ -144,14 +172,14 @@
     "name:nob_x_preferred":[
         "Mekka"
     ],
+    "name:nob_x_variant":[
+        "Mekka-regionen"
+    ],
     "name:pam_x_preferred":[
         "Makkah"
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a71\u0a15\u0a3e \u0a38\u0a42\u0a2c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06a9\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u06a9\u06c1"
@@ -165,7 +193,7 @@
     "name:pus_x_preferred":[
         "\u0645\u06a9\u0647 \u0645\u0639\u0638\u0645\u0647"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Mecca"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +204,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0d9a\u0dca\u0d9a\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0db8\u0d9a\u0dca\u0d9a\u0db8 \u0db4\u0dca\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:spa_x_preferred":[
         "Provincia de La Meca"
@@ -204,17 +235,21 @@
     "name:tur_x_preferred":[
         "Mekke B\u00f6lgesi"
     ],
+    "name:uig_x_preferred":[
+        "\u0645\u06d5\u0643\u0643\u06d5 \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043a\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629"
-    ],
-    "name:unk_x_variant":[
+        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
         "Mecca Region"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0645\u06a9\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0645\u06a9\u06c1 \u0639\u0644\u0627\u0642\u06c1"
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Makkah"
@@ -225,8 +260,14 @@
     "name:war_x_preferred":[
         "Makkah"
     ],
+    "name:wuu_x_preferred":[
+        "\u9ea6\u52a0\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u9ea6\u52a0"
+    ],
+    "name:zho_x_variant":[
+        "\u9ea5\u52a0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -304,9 +345,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"153,128",
     "statoids:area_mi":"59,123",
     "statoids:as_of_date":"2010-04-27",
@@ -330,7 +371,7 @@
         "gp:id":2346959,
         "hasc:id":"SA.MK",
         "iso:id":"SA-02",
-        "qs:id":221725,
+        "qs_pg:id":221725,
         "wd:id":"Q234167"
     },
     "wof:country":"SA",
@@ -349,7 +390,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1578514032,
+    "wof:lastmodified":1566638228,
     "wof:name":"Makkah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

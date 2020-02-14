@@ -14,20 +14,22 @@
     "geom:longitude":-85.730953,
     "iso:country":"US",
     "iso:subdivision":"US-MI",
-    "label:eng_us_x_preferred_longname":[
-        "Michigan"
-    ],
     "label:eng_x_preferred_longname":[
-        "Michigan State"
+        "Michigan"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Michigan"
+        "State of Michigan",
+        "Michigan State"
     ],
     "lbl:latitude":43.924812,
     "lbl:longitude":-84.633107,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.924812,
     "mps:longitude":-84.633107,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Michigan"
-    ],
-    "name:alb_x_preferred":[
         "Michigan"
     ],
     "name:amh_x_preferred":[
@@ -55,9 +54,6 @@
     "name:arg_x_preferred":[
         "Michigan"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u0579\u056b\u0563\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0634\u064a\u062c\u0627\u0646"
     ],
@@ -72,9 +68,6 @@
     ],
     "name:aze_x_preferred":[
         "Mi\u00e7iqan"
-    ],
-    "name:baq_x_preferred":[
-        "Michigan"
     ],
     "name:bar_x_preferred":[
         "Michigan"
@@ -112,9 +105,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u102e\u1001\u103b\u102e\u1002\u1014\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
     ],
@@ -124,14 +114,14 @@
     "name:cdo_x_preferred":[
         "Michigan"
     ],
+    "name:ceb_x_preferred":[
+        "Michigan"
+    ],
     "name:ces_x_preferred":[
         "Michigan"
     ],
     "name:che_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u5bc6\u6b47\u6839\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
@@ -148,9 +138,6 @@
     "name:cym_x_preferred":[
         "Michigan"
     ],
-    "name:cze_x_preferred":[
-        "Michigan"
-    ],
     "name:dan_x_preferred":[
         "Michigan"
     ],
@@ -160,11 +147,11 @@
     "name:diq_x_preferred":[
         "Michigan"
     ],
-    "name:dut_x_preferred":[
-        "Michigan"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03af\u03c3\u03b9\u03b3\u03ba\u03b1\u03bd"
+    ],
+    "name:eml_x_preferred":[
+        "M\u00ecchigan"
     ],
     "name:eng_x_colloquial":[
         "Wolverine State"
@@ -196,9 +183,6 @@
     "name:fra_x_preferred":[
         "Michigan"
     ],
-    "name:fre_x_preferred":[
-        "Michigan"
-    ],
     "name:frp_x_preferred":[
         "Mich\u00b7igan"
     ],
@@ -209,12 +193,6 @@
         "Michigan"
     ],
     "name:gag_x_preferred":[
-        "Michigan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e9\u10d8\u10d2\u10d0\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Michigan"
     ],
     "name:gla_x_preferred":[
@@ -228,9 +206,6 @@
     ],
     "name:glv_x_preferred":[
         "Michigan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03c3\u03b9\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:grn_x_preferred":[
         "Michigan"
@@ -265,6 +240,9 @@
     "name:hrv_x_preferred":[
         "Michigan"
     ],
+    "name:hsb_x_preferred":[
+        "Michigan"
+    ],
     "name:hun_x_preferred":[
         "Michigan"
     ],
@@ -272,9 +250,6 @@
         "\u0544\u056b\u0579\u056b\u0563\u0561\u0576"
     ],
     "name:ibo_x_preferred":[
-        "Michigan"
-    ],
-    "name:ice_x_preferred":[
         "Michigan"
     ],
     "name:ido_x_preferred":[
@@ -316,11 +291,20 @@
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e9\u10d8\u10d2\u10d0\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10d8\u10e9\u10d8\u10d2\u10d0\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
     ],
+    "name:kbp_x_preferred":[
+        "Mizigaanii"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\uc2dc\uac04 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc2dc\uac04\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Michigan"
@@ -336,6 +320,9 @@
     ],
     "name:lav_x_preferred":[
         "Mi\u010digana"
+    ],
+    "name:lfn_x_preferred":[
+        "Michigan"
     ],
     "name:lij_x_preferred":[
         "Michigan"
@@ -355,20 +342,17 @@
     "name:ltz_x_preferred":[
         "Michigan"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0438\u0447\u0438\u0433\u0435\u043d"
+    "name:lzh_x_preferred":[
+        "\u5bc6\u6b47\u6839\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093f\u091a\u093f\u0917\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d3f\u0d37\u0d3f\u0d17\u0d7a"
     ],
-    "name:mao_x_preferred":[
-        "Michigan"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0936\u093f\u0917\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Michigan"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0433\u0430\u043d"
@@ -409,6 +393,9 @@
     "name:nav_x_preferred":[
         "M\u00edshigin Hahoodzo"
     ],
+    "name:nav_x_variant":[
+        "Dilk\u02bcisch\u00ed\u00edt\u00f3 Hahoodzo"
+    ],
     "name:nds_x_preferred":[
         "Michigan"
     ],
@@ -442,9 +429,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3f\u0a38\u0a3c\u0a40\u0a17\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0634\u06cc\u06af\u0627\u0646"
-    ],
     "name:pli_x_preferred":[
         "\u092e\u093f\u0938\u093f\u0917\u0928"
     ],
@@ -472,9 +456,6 @@
     "name:ron_x_preferred":[
         "Michigan"
     ],
-    "name:rum_x_preferred":[
-        "Michigan"
-    ],
     "name:rup_x_preferred":[
         "Michigan"
     ],
@@ -500,9 +481,6 @@
         "\u0db8\u0dd2\u0da0\u0dd2\u0d9c\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Michigan"
-    ],
-    "name:slo_x_preferred":[
         "Michigan"
     ],
     "name:slv_x_preferred":[
@@ -556,9 +534,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e21\u0e34\u0e0a\u0e34\u0e41\u0e01\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f72\u0f0b\u0f45\u0f72\u0f0b\u0f42\u0fb7\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Michigan"
     ],
@@ -568,7 +543,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0447\u0438\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Michigan"
     ],
     "name:urd_x_preferred":[
@@ -589,8 +564,8 @@
     "name:war_x_preferred":[
         "Michigan"
     ],
-    "name:wel_x_preferred":[
-        "Michigan"
+    "name:wuu_x_preferred":[
+        "\u5bc6\u6b47\u6839\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041c\u0438\u0447\u0438\u0438\u0433\u043d"
@@ -687,9 +662,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"151,585",
     "statoids:area_mi":"58,527",
     "statoids:as_of_date":"2010-04-01",
@@ -735,11 +710,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514075,
+    "wof:lastmodified":1581720747,
     "wof:name":"Michigan",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":9883640,
     "wof:population_rank":13,

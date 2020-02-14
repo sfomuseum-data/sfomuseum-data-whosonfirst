@@ -14,20 +14,22 @@
     "geom:longitude":-100.469334,
     "iso:country":"US",
     "iso:subdivision":"US-ND",
-    "label:eng_us_x_preferred_longname":[
-        "North Dakota"
-    ],
     "label:eng_x_preferred_longname":[
-        "North Dakota State"
+        "North Dakota"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ND"
+    ],
     "label:eng_x_variant_longname":[
-        "State of North Dakota"
+        "State of North Dakota",
+        "North Dakota State"
     ],
     "lbl:latitude":47.471495,
     "lbl:longitude":-100.469096,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.471495,
     "mps:longitude":-100.469096,
     "mz:hierarchy_label":1,
@@ -36,9 +38,6 @@
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
         "Noord-Dakota"
-    ],
-    "name:alb_x_preferred":[
-        "North Dakota"
     ],
     "name:als_x_preferred":[
         "North Dakota"
@@ -52,6 +51,9 @@
     "name:ang_x_preferred":[
         "Nor\u00fedakota"
     ],
+    "name:ang_x_variant":[
+        "Nor\u00fe Dakota"
+    ],
     "name:ara_x_preferred":[
         "\u062f\u0627\u0643\u0648\u062a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
@@ -63,9 +65,6 @@
     ],
     "name:arg_x_variant":[
         "Dakota do Norte"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0534\u0561\u056f\u0578\u057f\u0561"
     ],
     "name:arz_x_preferred":[
         "\u062f\u0627\u0643\u0648\u062a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
@@ -81,9 +80,6 @@
     ],
     "name:aze_x_preferred":[
         "\u015eimali Dakota"
-    ],
-    "name:baq_x_preferred":[
-        "Ipar Dakota"
     ],
     "name:bar_x_preferred":[
         "Noad-Dakota"
@@ -118,9 +114,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1031\u102c\u1000\u103a\u1012\u102b\u1000\u102d\u102f\u1010\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u0439\u0442\u043e \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
@@ -130,14 +123,17 @@
     "name:cdo_x_preferred":[
         "North Dakota"
     ],
+    "name:ceb_x_preferred":[
+        "North Dakota"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed Dakota"
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u8fbe\u79d1\u4ed6\u5dde"
+    "name:che_x_variant":[
+        "\u041a\u044a\u0438\u043b\u0431\u0441\u0435\u0434\u0435\u0440\u0430 \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
     "name:chv_x_preferred":[
         "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u0414\u0430\u043a\u043e\u0442\u0430"
@@ -154,9 +150,6 @@
     "name:cym_x_preferred":[
         "Gogledd Dakota"
     ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Dakota"
-    ],
     "name:dan_x_preferred":[
         "North Dakota"
     ],
@@ -166,11 +159,14 @@
     "name:diq_x_preferred":[
         "Dakotaya Z\u0131mey"
     ],
-    "name:dut_x_preferred":[
-        "North Dakota"
+    "name:diq_x_variant":[
+        "Dakota Z\u0131mey"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039d\u03c4\u03b1\u03ba\u03cc\u03c4\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Dak\u00f2ta dal N\u00f2rd"
     ],
     "name:eng_x_colloquial":[
         "Sioux State"
@@ -203,9 +199,6 @@
     "name:fra_x_preferred":[
         "Dakota du Nord"
     ],
-    "name:fre_x_preferred":[
-        "Dakota du Nord"
-    ],
     "name:frp_x_preferred":[
         "Dakota du Nord"
     ],
@@ -215,14 +208,11 @@
     "name:fry_x_preferred":[
         "Noard-Dakota"
     ],
+    "name:fry_x_variant":[
+        "Noard Dakota"
+    ],
     "name:gag_x_preferred":[
         "Poyraz Dakota"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d3\u10d0\u10d9\u10dd\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "North Dakota"
     ],
     "name:gla_x_preferred":[
         "Dakota a Tuath"
@@ -236,9 +226,6 @@
     "name:glv_x_preferred":[
         "Dakota Hwoaie"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039d\u03c4\u03b1\u03ba\u03cc\u03c4\u03b1"
-    ],
     "name:grn_x_preferred":[
         "Yvate Dakota"
     ],
@@ -251,8 +238,14 @@
     "name:hak_x_preferred":[
         "Pet Tha\u030dt-kh\u00f4-th\u00e2"
     ],
+    "name:hak_x_variant":[
+        "North Dakota"
+    ],
     "name:hat_x_preferred":[
         "Dakota din\u00f2"
+    ],
+    "name:hau_x_preferred":[
+        "North Dakota"
     ],
     "name:haw_x_preferred":[
         "Kakoka \u2018\u0100kau"
@@ -269,6 +262,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0921\u0915\u094b\u091f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0909\u0924\u094d\u0924\u0930 \u0921\u0947\u0915\u094b\u091f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Sjeverna Dakota"
     ],
@@ -281,11 +277,11 @@
     "name:ibo_x_preferred":[
         "North Dakota"
     ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ur-Dak\u00f3ta"
-    ],
     "name:ido_x_preferred":[
         "Nordal Dakota"
+    ],
+    "name:ido_x_variant":[
+        "Norda-Dakota"
     ],
     "name:iku_x_preferred":[
         "\u1456\u1470\u1456 \u1450\u14c4\u1555\u140a\u1585"
@@ -326,8 +322,14 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043b\u0442\u04af\u0441\u0442\u0456\u043a \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Takotaa n\u025b hay\u028a ki\u014b"
+    ],
     "name:kor_x_preferred":[
         "\ub178\uc2a4\ub2e4\ucf54\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\uc2a4\ub2e4\ucf54\ud0c0\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Dakotaya Bakur"
@@ -340,6 +342,9 @@
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cdakota"
+    ],
+    "name:lfn_x_preferred":[
+        "North Dakota"
     ],
     "name:lij_x_preferred":[
         "Dakota do N\u00f2rd"
@@ -356,23 +361,23 @@
     "name:lrc_x_preferred":[
         "\u062f\u0627\u06a9\u0648\u0659\u062a\u0627 \u0634\u0648\u0645\u0627\u0644\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u062f\u0627\u06a9\u0648\u062a\u0627 \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "North Dakota"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0414\u0430\u043a\u043e\u0442\u0430"
+    "name:lzh_x_preferred":[
+        "\u5317\u9054\u79d1\u4ed6\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u0930\u094d\u0925 \u0921\u0947\u0915\u094b\u091f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d1f\u0d15\u0d4d\u0d15\u0d7b \u0d21\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d\u0d1f"
     ],
-    "name:mao_x_preferred":[
-        "North Dakota"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0925 \u0921\u0915\u094b\u091f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Dakota Utara"
     ],
     "name:mhr_x_preferred":[
         "\u0419\u04f1\u0434\u0432\u0435\u043b \u0414\u0430\u043a\u043e\u0442\u043e"
@@ -413,6 +418,9 @@
     "name:nav_x_preferred":[
         "N\u00e1hook\u01ebsj\u00ed Dz\u00edgaii"
     ],
+    "name:nav_x_variant":[
+        "N\u00e1hook\u01ebsj\u00ed Naa\u0142\u00e1n\u00ed Bik\u00e9yah"
+    ],
     "name:nds_x_preferred":[
         "Noord-Dakota"
     ],
@@ -443,11 +451,11 @@
     "name:pam_x_preferred":[
         "Pangulung Dakota"
     ],
+    "name:pam_x_variant":[
+        "North Dakota"
+    ],
     "name:pan_x_preferred":[
         "\u0a09\u0a71\u0a24\u0a30\u0a40 \u0a21\u0a15\u0a4b\u0a1f\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u06a9\u0648\u062a\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pli_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0921\u0947\u0915\u094b\u091f\u093e"
@@ -473,9 +481,6 @@
     "name:ron_x_preferred":[
         "Dakota de Nord"
     ],
-    "name:rum_x_preferred":[
-        "Dakota de Nord"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0414\u0430\u043a\u043e\u0442\u0430"
     ],
@@ -498,9 +503,6 @@
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0da9\u0d9a\u0ddc\u0da7\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Severn\u00e1 Dakota"
-    ],
-    "name:slo_x_preferred":[
         "Severn\u00e1 Dakota"
     ],
     "name:slv_x_preferred":[
@@ -575,9 +577,6 @@
     "name:war_x_preferred":[
         "North Dakota"
     ],
-    "name:wel_x_preferred":[
-        "Gogledd Dakota"
-    ],
     "name:xal_x_preferred":[
         "\u0410\u0440 \u0414\u0430\u043a\u043e\u0442"
     ],
@@ -592,6 +591,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5317\u9054\u54e5\u4ed6\u5dde"
+    ],
+    "name:yue_x_variant":[
+        "\u5317\u5f97\u9ad8\u6253\u7701"
     ],
     "name:zho_min_nan_x_preferred":[
         "North Dakota"
@@ -673,9 +675,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"183,118",
     "statoids:area_mi":"70,702",
     "statoids:as_of_date":"2010-04-01",
@@ -722,11 +724,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514080,
+    "wof:lastmodified":1581720752,
     "wof:name":"North Dakota",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":672591,
     "wof:population_rank":11,

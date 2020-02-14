@@ -17,8 +17,18 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Callao"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-11.904273,
     "lbl:longitude":-77.119709,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Callao",
     "mps:latitude":-12.049479,
     "mps:longitude":-77.132608,
@@ -26,23 +36,56 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0644\u0627\u0648"
+    ],
     "name:aym_x_preferred":[
         "Kallao Jach\u2019a Suyu"
     ],
     "name:eng_x_preferred":[
         "Callao"
     ],
+    "name:eng_x_variant":[
+        "Callao Province"
+    ],
+    "name:fra_x_preferred":[
+        "Callao"
+    ],
+    "name:hun_x_preferred":[
+        "Callao tartom\u00e1ny"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e4\u30aa\u7279\u5225\u533a"
+    ],
+    "name:lat_x_preferred":[
+        "Provincia Calla\u00ebnsis"
+    ],
+    "name:nld_x_preferred":[
+        "Callao"
+    ],
     "name:que_x_preferred":[
         "Qallaw Suyu"
     ],
-    "name:spa_x_preferred":[
-        "Provincia Constitucional del Callao"
+    "name:que_x_variant":[
+        "Qallaw suyu"
     ],
-    "name:spa_x_variant":[
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u044f\u043e"
+    ],
+    "name:spa_x_preferred":[
         "Callao"
     ],
-    "name:unk_x_variant":[
+    "name:spa_x_variant":[
+        "Provincia Constitucional del Callao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u044f\u043e"
+    ],
+    "name:und_x_variant":[
         "Provincia Constitucional Callao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u4e9e\u4fc4\u61b2\u6cd5\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PER",
@@ -117,9 +160,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"147",
     "statoids:area_mi":"57",
     "statoids:as_of_date":"2007-10-21",
@@ -143,7 +186,7 @@
         "gp:id":2346474,
         "hasc:id":"PE.CL",
         "iso:id":"PE-CAL",
-        "qs:id":219585,
+        "qs_pg:id":219585,
         "wd:id":"Q3199075"
     },
     "wof:country":"PE",
@@ -156,9 +199,6 @@
         }
     ],
     "wof:id":85675817,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -167,11 +207,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1578514004,
+    "wof:lastmodified":1581720672,
     "wof:name":"Callao",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":876877,
     "wof:population_rank":11,

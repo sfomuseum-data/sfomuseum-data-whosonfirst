@@ -1,0 +1,147 @@
+{
+  "id": 102535315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":100435.534907,
+    "geom:bbox":"-60.049362,-3.037426,-60.044014,-3.030255",
+    "geom:latitude":-3.032977,
+    "geom:longitude":-60.046168,
+    "gn:elevation":80,
+    "iso:country":"BR",
+    "lbl:latitude":-3.031681,
+    "lbl:longitude":-60.045459,
+    "mps:latitude":-3.031681,
+    "mps:longitude":-60.045459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Eduardo Gomes"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Eduardo Gomes"
+    ],
+    "name:eng_x_preferred":[
+        "Eduardo Gomes International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MAO",
+        "KMAO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u062f\u0648\u0627\u0631\u062f\u0648 \u06af\u0648\u0645\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Manaus-Eduardo Gomes"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Eduardo Gomes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30a6\u30b9"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Eduardo Gomes"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Eduardo Gomes International"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Manaus"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Manaus"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Eduardo Gomes"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u0443\u0430\u0440\u0434\u0443 \u0413\u043e\u043c\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Eduardo Gomes"
+    ],
+    "name:swe_x_preferred":[
+        "Eduardo Gomes internationella flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0438\u0434\u0432\u043e\u0440\u0434\u0443 \u0433\u0443\u043c\u0437"
+    ],
+    "name:und_x_variant":[
+        "Eduardo Gomes International"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Eduardo Gomes"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u7459\u65af\uff0d\u7231\u5fb7\u534e\u591a\u00b7\u6208\u6885\u65af\u56fd\u9645\u673a\u573a"
+    ],
+    "oa:elevation_ft":"264",
+    "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578206,
+        "planet_id":1,
+        "state_id":2344847
+    },
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        1511777407,
+        101941913,
+        102050371,
+        85681885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6300620,
+        "gp:id":12511115,
+        "iata:code":"MAO",
+        "icao:code":"SBEG",
+        "oa:id":"5897",
+        "wd:id":"Q657271",
+        "wk:page":"Eduardo_Gomes_International_Airport"
+    },
+    "wof:country":"BR",
+    "wof:geomhash":"4d0c28e8759b1ea03b2f88fb76a70fb1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535315,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050371,
+            "locality_id":101941913,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
+            "region_id":85681885
+        }
+    ],
+    "wof:id":102535315,
+    "wof:lastmodified":1581720458,
+    "wof:name":"Aeroporto Internacional Eduardo Gomes",
+    "wof:parent_id":101941913,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.049362,
+    -3.037426,
+    -60.044014,
+    -3.030255
+],
+  "geometry": {"coordinates":[[[[-60.04631,-3.032328],[-60.046398,-3.031681],[-60.046204,-3.031176],[-60.04586,-3.030255],[-60.044014,-3.030933],[-60.045303,-3.033287],[-60.049362,-3.037426],[-60.04631,-3.032328]]]],"type":"MultiPolygon"}
+}

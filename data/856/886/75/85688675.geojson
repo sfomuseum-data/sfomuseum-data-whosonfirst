@@ -14,20 +14,22 @@
     "geom:longitude":-86.844521,
     "iso:country":"US",
     "iso:subdivision":"US-AL",
-    "label:eng_us_x_preferred_longname":[
-        "Alabama"
-    ],
     "label:eng_x_preferred_longname":[
-        "Alabama State"
+        "Alabama"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Alabama"
+        "State of Alabama",
+        "Alabama State"
     ],
     "lbl:latitude":32.688053,
     "lbl:longitude":-86.810585,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.688053,
     "mps:longitude":-86.810585,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Alabama"
-    ],
-    "name:alb_x_preferred":[
         "Alabama"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Alabama"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0561\u0562\u0561\u0574\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0627\u0628\u0627\u0645\u0627"
@@ -76,9 +72,6 @@
     "name:bak_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Alabama"
-    ],
     "name:bar_x_preferred":[
         "Alabama"
     ],
@@ -93,6 +86,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09be\u09ac\u09be\u09ae\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0985\u09cd\u09af\u09be\u09b2\u09be\u09ac\u09be\u09ae\u09be"
     ],
     "name:bho_x_preferred":[
         "\u090f\u0932\u092c\u093e\u092e\u093e"
@@ -118,9 +114,6 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u101c\u102c\u1018\u102c\u1038\u1019\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
     ],
@@ -130,14 +123,14 @@
     "name:cdo_x_preferred":[
         "Alabama"
     ],
+    "name:ceb_x_preferred":[
+        "Alabama"
+    ],
     "name:ces_x_preferred":[
         "Alabama"
     ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u62c9\u5df4\u9a6c\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
@@ -154,9 +147,6 @@
     "name:cym_x_preferred":[
         "Alabama"
     ],
-    "name:cze_x_preferred":[
-        "Alabama"
-    ],
     "name:dan_x_preferred":[
         "Alabama"
     ],
@@ -166,11 +156,11 @@
     "name:diq_x_preferred":[
         "Alabama"
     ],
-    "name:dut_x_preferred":[
-        "Alabama"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b1\u03bc\u03c0\u03ac\u03bc\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Alab\u00e0ma"
     ],
     "name:eng_x_colloquial":[
         "Heart of Dixie"
@@ -203,9 +193,6 @@
     "name:fra_x_preferred":[
         "Alabama"
     ],
-    "name:fre_x_preferred":[
-        "Alabama"
-    ],
     "name:frp_x_preferred":[
         "Alabama"
     ],
@@ -221,12 +208,6 @@
     "name:gan_x_preferred":[
         "\u963f\u62c9\u5df4\u99ac\u5dde"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d0\u10d1\u10d0\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Alabama"
-    ],
     "name:gla_x_preferred":[
         "Alabama"
     ],
@@ -239,11 +220,14 @@
     "name:glv_x_preferred":[
         "Alabama"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03b1\u03bc\u03c0\u03ac\u03bc\u03b1"
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf39\ud800\udf31\ud800\udf30\ud800\udf39\ud800\udf3c\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Alavama"
+    ],
+    "name:gsw_x_preferred":[
+        "Alabama"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0abe\u0aac\u0abe\u0aae\u0abe"
@@ -252,9 +236,13 @@
         "\u00c2-l\u00e0-p\u00e2-m\u00e2"
     ],
     "name:hak_x_variant":[
-        "\u00c2-l\u00e2-p\u00e2-m\u00e2"
+        "\u00c2-l\u00e2-p\u00e2-m\u00e2",
+        "Alabama"
     ],
     "name:hat_x_preferred":[
+        "Alabama"
+    ],
+    "name:hau_x_preferred":[
         "Alabama"
     ],
     "name:haw_x_preferred":[
@@ -287,9 +275,6 @@
     "name:ibo_x_preferred":[
         "Alabama"
     ],
-    "name:ice_x_preferred":[
-        "Alabama"
-    ],
     "name:ido_x_preferred":[
         "Alabama"
     ],
@@ -304,6 +289,9 @@
     ],
     "name:ina_x_preferred":[
         "Stato Alabama"
+    ],
+    "name:ina_x_variant":[
+        "Alabama"
     ],
     "name:ind_x_preferred":[
         "Alabama"
@@ -341,8 +329,14 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Alabamaa"
+    ],
     "name:kor_x_preferred":[
         "\uc568\ub77c\ubc30\ub9c8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc568\ub77c\ubc30\ub9c8\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Alabama"
@@ -358,6 +352,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Alabama"
     ],
     "name:lij_x_preferred":[
         "Alab\u00e0ma"
@@ -381,20 +378,17 @@
     "name:ltz_x_preferred":[
         "Alabama"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
+    "name:lzh_x_preferred":[
+        "\u963f\u62c9\u5df4\u99ac\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0932\u093e\u092c\u093e\u092e\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d2c\u0d3e\u0d2e"
     ],
-    "name:mao_x_preferred":[
-        "Alabama"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u093e\u092c\u093e\u092e\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Alabama"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0435"
@@ -486,9 +480,6 @@
     "name:pap_x_preferred":[
         "Alabama"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0627\u0628\u0627\u0645\u0627"
-    ],
     "name:pli_x_preferred":[
         "\u0905\u0932\u093e\u092c\u093e\u092e\u093e"
     ],
@@ -515,9 +506,6 @@
     ],
     "name:ron_x_variant":[
         "\u0410\u043b\u0430\u0431\u0430\u043c\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Alabama"
     ],
     "name:rup_x_preferred":[
         "Alabama"
@@ -546,9 +534,6 @@
     "name:slk_x_preferred":[
         "Alabama"
     ],
-    "name:slo_x_preferred":[
-        "Alabama"
-    ],
     "name:slv_x_preferred":[
         "Alabama"
     ],
@@ -557,6 +542,9 @@
     ],
     "name:smo_x_preferred":[
         "Alabama"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u0627\u0645\u0627"
     ],
     "name:som_x_preferred":[
         "Alabama"
@@ -603,9 +591,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e41\u0e2d\u0e25\u0e30\u0e41\u0e1a\u0e21\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f0b\u0f63\u0f0b\u0f54\u0f0b\u0f58\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Alabama"
     ],
@@ -633,14 +618,14 @@
     "name:war_x_preferred":[
         "Alabama"
     ],
-    "name:wel_x_preferred":[
-        "Alabama"
-    ],
     "name:wuu_x_preferred":[
         "\u963f\u62c9\u5df4\u9a6c"
     ],
     "name:xal_x_preferred":[
         "\u0410\u043b\u0430\u0431\u0430\u043c"
+    ],
+    "name:xho_x_preferred":[
+        "I-Alabhama"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10da\u10d0\u10d1\u10d0\u10db\u10d0"
@@ -653,6 +638,9 @@
     ],
     "name:yue_x_preferred":[
         "\u963f\u62c9\u5df4\u99ac\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "Alabama"
     ],
     "name:zho_min_nan_x_preferred":[
         "Alabama"
@@ -734,9 +722,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"133,916",
     "statoids:area_mi":"51,705",
     "statoids:as_of_date":"2010-04-01",
@@ -783,11 +771,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513897,
+    "wof:lastmodified":1581720599,
     "wof:name":"Alabama",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4779736,
     "wof:population_rank":12,

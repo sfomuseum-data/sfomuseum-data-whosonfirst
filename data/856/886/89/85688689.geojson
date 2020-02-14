@@ -14,20 +14,22 @@
     "geom:longitude":-71.571225,
     "iso:country":"US",
     "iso:subdivision":"US-NH",
-    "label:eng_us_x_preferred_longname":[
-        "New Hampshire"
-    ],
     "label:eng_x_preferred_longname":[
-        "New Hampshire State"
+        "New Hampshire"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NH"
+    ],
     "label:eng_x_variant_longname":[
-        "State of New Hampshire"
+        "State of New Hampshire",
+        "New Hampshire State"
     ],
     "lbl:latitude":43.644386,
     "lbl:longitude":-71.586283,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.644386,
     "mps:longitude":-71.586283,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "New Hampshire"
-    ],
-    "name:alb_x_preferred":[
         "New Hampshire"
     ],
     "name:amh_x_preferred":[
@@ -55,9 +54,6 @@
     "name:arg_x_preferred":[
         "Nueva Hampshire"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0575\u0578\u0582 \u0540\u0565\u0574\u057a\u0577\u056b\u0580"
-    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0648\u0647\u0627\u0645\u0634\u064a\u0631"
     ],
@@ -73,10 +69,10 @@
     "name:aze_x_preferred":[
         "Nyu-Hemp\u015fir"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "New Hampshire"
     ],
-    "name:bar_x_preferred":[
+    "name:bcl_x_preferred":[
         "New Hampshire"
     ],
     "name:bel_x_preferred":[
@@ -109,9 +105,6 @@
     "name:bul_x_preferred":[
         "\u041d\u044e \u0425\u0430\u043c\u043f\u0448\u044a\u0440"
     ],
-    "name:bur_x_preferred":[
-        "\u1014\u101a\u1030\u1038\u101f\u1019\u103a\u101b\u103e\u102d\u102f\u1004\u103a\u1038\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
@@ -121,20 +114,23 @@
     "name:cdo_x_preferred":[
         "New Hampshire"
     ],
+    "name:ceb_x_preferred":[
+        "New Hampshire"
+    ],
     "name:ces_x_preferred":[
         "New Hampshire"
     ],
     "name:che_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u7f55\u5e03\u4ec0\u5c14\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u00c7\u0115\u043d\u0115 \u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u0648\u06be\u06d5\u0645\u067e\u0634\u06cc\u0631"
+    ],
+    "name:ckb_x_variant":[
+        "\u0646\u06cc\u0648\u06be\u0627\u200c\u0645\u067e\u0634\u06cc\u0631"
     ],
     "name:cor_x_preferred":[
         "Hampshire Nowydh"
@@ -143,9 +139,6 @@
         "New Hampshire"
     ],
     "name:cym_x_preferred":[
-        "New Hampshire"
-    ],
-    "name:cze_x_preferred":[
         "New Hampshire"
     ],
     "name:dan_x_preferred":[
@@ -157,11 +150,11 @@
     "name:diq_x_preferred":[
         "New Hampshire"
     ],
-    "name:dut_x_preferred":[
-        "New Hampshire"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03bf\u03c5 \u03a7\u03ac\u03bc\u03c3\u03b1\u03ca\u03c1"
+    ],
+    "name:eml_x_preferred":[
+        "New Hampshire"
     ],
     "name:eng_x_colloquial":[
         "Granite State"
@@ -197,22 +190,16 @@
     "name:fra_x_preferred":[
         "New Hampshire"
     ],
-    "name:fre_x_preferred":[
-        "New Hampshire"
-    ],
     "name:frr_x_preferred":[
         "New Hampshire"
     ],
     "name:fry_x_preferred":[
         "Nij-Hampshire"
     ],
+    "name:fry_x_variant":[
+        "Nij Hampshire"
+    ],
     "name:gag_x_preferred":[
-        "New Hampshire"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e3-\u10f0\u10d4\u10db\u10e4\u10e8\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "New Hampshire"
     ],
     "name:gla_x_preferred":[
@@ -226,9 +213,6 @@
     ],
     "name:glv_x_preferred":[
         "New Hampshire"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03bf\u03c5 \u03a7\u03ac\u03bc\u03c3\u03b1\u03ca\u03c1"
     ],
     "name:grn_x_preferred":[
         "New Hampshire"
@@ -248,6 +232,9 @@
     "name:hat_x_preferred":[
         "Nou Anpchi"
     ],
+    "name:hau_x_preferred":[
+        "New Hampshire"
+    ],
     "name:haw_x_preferred":[
         "N\u016b Hamekia"
     ],
@@ -266,17 +253,20 @@
     "name:hrv_x_preferred":[
         "New Hampshire"
     ],
+    "name:hsb_x_preferred":[
+        "New Hampshire"
+    ],
     "name:hun_x_preferred":[
         "New Hampshire"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0575\u0578\u0582 \u0540\u0565\u0574\u0583\u0577\u056b\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0546\u0575\u0578\u0582 \u0540\u0565\u0574\u057a\u0577\u056b\u0580"
+    ],
     "name:ibo_x_preferred":[
         "Hampshire Oh\u00far\u00fa"
-    ],
-    "name:ice_x_preferred":[
-        "New Hampshire"
     ],
     "name:ido_x_preferred":[
         "Nova-Hampshire"
@@ -320,11 +310,17 @@
     "name:kaz_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
+    "name:kbp_x_preferred":[
+        "Niwu Hamsirii"
+    ],
     "name:kir_x_preferred":[
         "\u041d\u044c\u044e-\u0425\u0435\u043c\u043f\u0448\u0438\u0440"
     ],
     "name:kor_x_preferred":[
         "\ub274\ud584\ud504\uc154 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub274\ud584\ud504\uc154\uc8fc"
     ],
     "name:kur_x_preferred":[
         "New Hampshire"
@@ -332,11 +328,17 @@
     "name:lad_x_preferred":[
         "Mueva Hampshire"
     ],
+    "name:lad_x_variant":[
+        "Nueva Hampshire"
+    ],
     "name:lat_x_preferred":[
         "Nova Hantonia"
     ],
     "name:lav_x_preferred":[
         "\u0145\u016bhemp\u0161\u012bra"
+    ],
+    "name:lfn_x_preferred":[
+        "New Hampshire"
     ],
     "name:lij_x_preferred":[
         "Noeuvo Hampshire"
@@ -353,23 +355,23 @@
     "name:lrc_x_preferred":[
         "\u0646\u06cc\u0648\u0659\u06be\u0627\u0645\u067e\u0634\u0627\u06cc\u0626\u0631"
     ],
+    "name:lrc_x_variant":[
+        "\u0646\u06cc\u0648\u0647\u0645\u067e\u0634\u0627\u06cc\u0631"
+    ],
     "name:ltz_x_preferred":[
         "New Hampshire"
     ],
-    "name:mac_x_preferred":[
-        "\u040a\u0443 \u0425\u0435\u043c\u043f\u0448\u0438\u0440"
+    "name:lzh_x_preferred":[
+        "\u65b0\u7f55\u5e03\u4ec0\u723e\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u094d\u092f\u0942 \u0939\u094d\u092f\u093e\u092e\u094d\u092a\u094d\u0938\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d4d\u0d2f\u0d42 \u0d39\u0d3e\u0d02\u0d37\u0d46\u0d2f\u0d7c"
     ],
-    "name:mao_x_preferred":[
-        "New Hampshire"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0939\u0945\u092e\u094d\u092a\u0936\u093e\u092f\u0930"
-    ],
-    "name:may_x_preferred":[
-        "New Hampshire"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
@@ -416,6 +418,9 @@
     "name:nep_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0939\u094d\u092f\u093e\u092e\u094d\u092a\u094d\u0938\u0930"
     ],
+    "name:nep_x_variant":[
+        "\u0928\u094d\u092f\u0941 \u0939\u094d\u092f\u093e\u092e\u094d\u092a\u0938\u093e\u092f\u0930"
+    ],
     "name:new_x_preferred":[
         "\u0928\u094d\u092f\u0941 \u0939\u094d\u092f\u093e\u092e\u094d\u092a\u094d\u0936\u093e\u092f\u0930"
     ],
@@ -443,9 +448,6 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a3f\u0a0a \u0a39\u0a48\u0a02\u0a2a\u0a38\u0a3c\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0648\u0647\u0645\u067e\u0634\u0627\u06cc\u0631"
-    ],
     "name:pli_x_preferred":[
         "\u0928\u094d\u0939\u0941 \u0939\u094d\u092f\u093e\u092e\u094d\u092a\u094d\u0936\u093e\u092f\u0930"
     ],
@@ -470,9 +472,6 @@
     "name:ron_x_preferred":[
         "New Hampshire"
     ],
-    "name:rum_x_preferred":[
-        "New Hampshire"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
@@ -495,9 +494,6 @@
         "\u0db1\u0dd2\u0dc0\u0dca \u0dc4\u0dd0\u0db8\u0dca\u0db4\u0dca\u0dc2\u0dba\u0dbb\u0dca"
     ],
     "name:slk_x_preferred":[
-        "New Hampshire"
-    ],
-    "name:slo_x_preferred":[
         "New Hampshire"
     ],
     "name:slv_x_preferred":[
@@ -539,6 +535,9 @@
     "name:tat_x_preferred":[
         "\u041d\u044c\u044e-\u0413\u044d\u043c\u043f\u0448\u0438\u0440"
     ],
+    "name:tat_x_variant":[
+        "\u041d\u044c\u044e-\u04ba\u04d9\u043c\u043f\u0448\u0438\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42\u0c39\u0c3e\u0c02\u0c2a\u0c4d\u200c\u0c37\u0c48\u0c30\u0c4d"
     ],
@@ -553,9 +552,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e19\u0e34\u0e27\u0e41\u0e2e\u0e21\u0e1b\u0e4c\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f7a\u0f60\u0f74\u0f0b\u0f67\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f64\u0f62\u0f0d"
     ],
     "name:tur_x_preferred":[
         "New Hampshire"
@@ -581,11 +577,11 @@
     "name:war_x_preferred":[
         "New Hampshire"
     ],
-    "name:wel_x_preferred":[
-        "New Hampshire"
-    ],
     "name:wuu_x_preferred":[
         "\u65b0\u7f55\u5e03\u4ec0\u723e"
+    ],
+    "name:wuu_x_variant":[
+        "\u65b0\u7f55\u5e03\u4ec0\u5c14"
     ],
     "name:xal_x_preferred":[
         "\u0428\u0438\u043d \u0425\u04d9\u043c\u0448\u0438\u0440"
@@ -682,9 +678,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"24,033",
     "statoids:area_mi":"9,279",
     "statoids:as_of_date":"2010-04-01",
@@ -731,11 +727,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513896,
+    "wof:lastmodified":1581720597,
     "wof:name":"New Hampshire",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1316470,
     "wof:population_rank":12,

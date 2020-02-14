@@ -10,18 +10,24 @@
     "geom:latitude":45.264644,
     "geom:longitude":39.464596,
     "iso:country":"RU",
-    "label:eng_x_abbreviation":"KD",
     "label:eng_x_preferred_longname":[
         "Krasnodar Krai"
     ],
     "label:eng_x_preferred_placetype":[
         "krai"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KD"
+    ],
+    "label:rus_x_preferred_longname":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "label:rus_x_preferred_placetype":[
         "\u043a\u0440\u0430\u0439"
     ],
     "lbl:latitude":45.911909,
     "lbl:longitude":39.300244,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Krasnodar",
     "meso:name_alt2":"Krasnodarskij kraj",
     "meso:name_local":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -31,6 +37,87 @@
     "mz:is_current":1,
     "mz:max_zoom":10.2,
     "mz:min_zoom":4.7,
+    "name:abk_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:ady_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:afr_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:aka_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:amh_x_preferred":[
+        "\u12ad\u1228\u1235\u1290\u12f3\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u0633\u0646\u0648\u062f\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u062f\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0434\u0430\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09be\u09b8\u09cd\u09a8\u09cb\u09a6\u09be\u09b0"
+    ],
+    "name:bos_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:bre_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:ceb_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:ces_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:chu_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u044c\u043d\u043e\u0434\u0430\u0440\u044a"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:cym_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:dan_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:deu_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:diq_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03bd\u03c4\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Krasnodar"
     ],
@@ -39,33 +126,243 @@
         "Krasnodar",
         "Krasnodar Krai"
     ],
+    "name:epo_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:est_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:eus_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u062f\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Krasnodarin aluepiiri"
+    ],
+    "name:fin_x_variant":[
+        "Krasnodar"
     ],
     "name:fra_x_preferred":[
         "Kra\u00ef de Krasnodar"
     ],
+    "name:fra_x_variant":[
+        "Krasnodar"
+    ],
+    "name:fry_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:gle_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:glg_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:hak_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e1\u05e0\u05d5\u05d3\u05d0\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:hsb_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:hun_x_preferred":[
+        "Krasznodar"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u0576\u0578\u0564\u0561\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u0576\u0578\u057f\u0561\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:ita_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:jav_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30b9\u30ce\u30c0\u30fc\u30eb"
+    ],
+    "name:kaa_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:kom_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc2a4\ub178\ub2e4\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Crasnodaria"
+    ],
+    "name:lav_x_preferred":[
+        "Krasnodara"
+    ],
+    "name:lit_x_preferred":[
+        "Krasnodaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0938\u094d\u0928\u094b\u0926\u0930"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440 \u043e\u0448"
+    ],
+    "name:nau_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:nld_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:nno_x_preferred":[
+        "Krasnodar"
+    ],
     "name:nor_x_preferred":[
         "Krasnodarskij kraj"
     ],
+    "name:nor_x_variant":[
+        "Krasnodar"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0688\u0627\u0631"
+    ],
+    "name:pnt_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03bd\u03c4\u03ac\u03c1"
+    ],
+    "name:pol_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:por_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:ron_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:run_x_preferred":[
+        "Krasnodar"
+    ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439"
     ],
     "name:rus_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:sco_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:slk_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:slv_x_preferred":[
+        "Krasnodar"
     ],
     "name:spa_x_preferred":[
         "Krasnodarskiy"
     ],
+    "name:spa_x_variant":[
+        "Krasnodar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Krasnodar"
+    ],
     "name:swe_x_preferred":[
         "Krasnodar"
     ],
-    "name:und_x_variant":[
-        "Krasnodarskij kraj",
+    "name:szl_x_preferred":[
         "Krasnodar"
     ],
-    "name:unk_x_variant":[
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:tgl_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:tum_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:tur_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:twi_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440"
+    ],
+    "name:und_x_variant":[
         "Krasnodar Kray"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0688\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:vec_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:vep_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:vie_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:war_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:wol_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:xal_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:zea_x_preferred":[
+        "Krasnodar"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u65af\u8bfa\u8fbe\u5c14"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"RUS",
@@ -136,9 +433,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"76,000",
     "statoids:area_mi":"29,300",
     "statoids:as_of_date":"2010-10-14",
@@ -200,11 +497,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1578513861,
+    "wof:lastmodified":1566618520,
     "wof:name":"Krasnodar",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":5226647,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-ru",

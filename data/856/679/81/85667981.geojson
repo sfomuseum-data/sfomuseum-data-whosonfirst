@@ -25,8 +25,12 @@
     "label:eng_x_preferred_placetype":[
         "emirate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AZ"
+    ],
     "lbl:latitude":23.596148,
     "lbl:longitude":54.571212,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.596148,
     "mps:longitude":54.571212,
     "mz:hierarchy_label":1,
@@ -42,17 +46,26 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u0638\u0628\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0562\u0578\u0582 \u0534\u0561\u0562\u056b\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    "name:ara_x_variant":[
+        "\u0625\u0645\u0627\u0631\u0629 \u0623\u0628\u0648\u0638\u0628\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Emiratu d'Abu Dhabi"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0638\u0628\u06cc \u0627\u0645\u06cc\u0631\u0644\u06cc\u06af\u06cc"
     ],
     "name:aze_x_preferred":[
         "\u018fbu-Dabi"
     ],
-    "name:baq_x_preferred":[
-        "Abu Dhabi"
+    "name:aze_x_variant":[
+        "\u018fbu-Dabi \u0259mirliyi"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043c\u0456\u0440\u0430\u0442 \u0410\u0431\u0443-\u0414\u0430\u0431\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0431\u0443-\u0414\u0430\u0431\u0456"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c1\u09a7\u09be\u09ac\u09bf \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
@@ -66,17 +79,20 @@
     "name:cat_x_preferred":[
         "Abu Dhabi"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5e03\u624e\u6bd4"
+    "name:ceb_x_preferred":[
+        "Ab\u016b Z\u0327aby"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ab\u00fa Zab\u00ed"
     ],
     "name:dan_x_preferred":[
         "Emiratet Abu Dhabi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Abu Dhabi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03c0\u03bf\u03c5 \u039d\u03c4\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Abu Dhabi"
@@ -88,8 +104,20 @@
     "name:epo_x_preferred":[
         "Abu-Dabio"
     ],
+    "name:epo_x_variant":[
+        "Abudabio"
+    ],
     "name:est_x_preferred":[
         "Abu Dhabi emiraat"
+    ],
+    "name:eus_x_preferred":[
+        "Abu Dhabi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648\u0638\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0631\u062a \u0627\u0628\u0648\u0638\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Abu Dhabi Emirate"
@@ -97,23 +125,14 @@
     "name:fra_x_preferred":[
         "Abou Dabi"
     ],
-    "name:fre_x_preferred":[
-        "Abou Dabi"
-    ],
     "name:frp_x_preferred":[
         "Abou Dabi"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d1\u10e3-\u10d3\u10d0\u10d1\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:frr_x_preferred":[
         "Abu Dhabi"
     ],
     "name:glg_x_preferred":[
         "Emirato de Abu Dabi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bc\u03c0\u03bf\u03c5 \u039d\u03c4\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0ac1 \u0aa7\u0abe\u0aac\u0ac0 \u0a85\u0aae\u0ac0\u0ab0\u0abe\u0aa4"
@@ -130,8 +149,14 @@
     "name:hrv_x_preferred":[
         "Abu Dhabi"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0562\u0578\u0582 \u0534\u0561\u0562\u056b\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
     "name:ind_x_preferred":[
         "Abu Dhabi Emirate"
+    ],
+    "name:ind_x_variant":[
+        "Keamiran Abu Dhabi"
     ],
     "name:ita_x_preferred":[
         "Abu Dhabi"
@@ -142,8 +167,14 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30c0\u30d3"
     ],
+    "name:kab_x_preferred":[
+        "Limara n Abu \u1e0cabi"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0cac\u0cc1\u0ca7\u0cbe\u0cac\u0cbf \u0c8e\u0cae\u0cbf\u0cb0\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10d3\u10d0\u10d1\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0431\u0443-\u0414\u0430\u0431\u0438"
@@ -154,11 +185,17 @@
     "name:kor_x_preferred":[
         "\uc544\ubd80\ub2e4\ube44"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ubd80\ub2e4\ube44 \ud1a0\ud6c4\uad6d"
+    ],
     "name:kur_x_preferred":[
         "\u00cemarata Ab\u00fb Zeb\u00ee"
     ],
     "name:lav_x_preferred":[
         "Ab\u016b Dab\u012b"
+    ],
+    "name:lav_x_variant":[
+        "Ab\u016b Dab\u012b emir\u0101ts"
     ],
     "name:lit_x_preferred":[
         "Abu Dabio emyratas"
@@ -169,20 +206,32 @@
     "name:ltz_x_preferred":[
         "Abu Dhabi"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0431\u0443 \u0414\u0430\u0431\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d2c\u0d41\u0d26\u0d3e\u0d2c\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0905\u092c\u0942 \u0927\u093e\u092c\u0940 \u0905\u092e\u093f\u0930\u093e\u0924"
     ],
-    "name:may_x_preferred":[
-        "Abu Dhabi Emirate"
+    "name:mkd_x_preferred":[
+        "\u0410\u0431\u0443 \u0414\u0430\u0431\u0438"
     ],
     "name:mon_x_preferred":[
         "\u042d\u043c\u0438\u0440\u0442 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438"
+    ],
+    "name:mon_x_variant":[
+        "\u0410\u0431\u0443-\u0414\u0430\u0431\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Abu Dhabi Emirate"
+    ],
+    "name:msa_x_variant":[
+        "Amiriah Abu Dhabi"
+    ],
+    "name:nan_x_preferred":[
+        "Abu Dhabi Th\u00e2u-l\u00e2ng-kok"
+    ],
+    "name:nld_x_preferred":[
+        "Abu Dhabi"
     ],
     "name:nno_x_preferred":[
         "Emiratet Abu Dhabi"
@@ -190,11 +239,11 @@
     "name:nob_x_preferred":[
         "Emiratet Abu Dhabi"
     ],
+    "name:nor_x_preferred":[
+        "Abu Dhabi"
+    ],
     "name:pan_x_preferred":[
         "\u0a05\u0a2c\u0a42 \u0a27\u0a3e\u0a2c\u0a40"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u0648\u0638\u0628\u06cc"
     ],
     "name:pms_x_preferred":[
         "Abu Dhabi"
@@ -205,8 +254,11 @@
     "name:por_x_preferred":[
         "Emirados Abu Dhabi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Abu Dhabi"
+    ],
+    "name:ron_x_variant":[
+        "Emiratul Abu Dhabi"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0443-\u0414\u0430\u0431\u0438"
@@ -217,11 +269,14 @@
     "name:sin_x_preferred":[
         "\u0d85\u0db6\u0dd4\u0da9\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ab\u00fa Zab\u00ed"
     ],
     "name:spa_x_preferred":[
         "Abu Dhabi"
+    ],
+    "name:spa_x_variant":[
+        "Abu Dabi"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0431\u0443 \u0414\u0430\u0431\u0438"
@@ -229,11 +284,20 @@
     "name:swe_x_preferred":[
         "Emiratet Abu Dhabi"
     ],
+    "name:swe_x_variant":[
+        "Abu Dhabi"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bc2 \u0bb4\u0baa\u0bc0"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0baa\u0bc1\u0ba4\u0bbe\u0baa\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u04d8\u0431\u04af-\u0414\u04d9\u0431\u0438 \u04d9\u043c\u0438\u0440\u043b\u0435\u0433\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u04d8\u0431\u0443-\u0414\u0430\u0431\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2c\u0c41 \u0c27\u0c3e\u0c2c\u0c3f \u0c0e\u0c2e\u0c3f\u0c30\u0c47\u0c1f\u0c4d"
@@ -247,17 +311,29 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0443-\u0414\u0430\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Im\u0101rat Ab\u016b Z\u0327aby"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0648\u0638\u06c1\u0628\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0628\u0648\u0638\u0628\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Abu Dhabi"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10d3\u10d0\u10d1\u10d8\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u5e03\u624e\u6bd4\u914b\u9577\u570b"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u8fbe\u6bd4"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5e03\u624e\u6bd4"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARE",
@@ -333,7 +409,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2011",
@@ -361,7 +436,7 @@
         "hasc:id":"AE.AZ",
         "iso:id":"AE-AZ",
         "loc:id":"n81147503",
-        "qs:id":218190,
+        "qs_pg:id":218190,
         "wd:id":"Q187712",
         "wk:page":"Emirate of Abu Dhabi"
     },
@@ -381,7 +456,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1578514108,
+    "wof:lastmodified":1581720784,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

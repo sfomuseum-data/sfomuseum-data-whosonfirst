@@ -14,8 +14,13 @@
     "itu:country_code":[
         "58"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":7.18646,
     "lbl:longitude":-64.568705,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.18646,
     "mps:longitude":-64.568705,
     "mz:hierarchy_label":1,
@@ -61,6 +66,9 @@
     "name:arz_x_preferred":[
         "\u06a4\u064a\u0646\u064a\u0632\u0648\u064a\u0644\u0627"
     ],
+    "name:arz_x_variant":[
+        "\u0641\u0646\u064a\u0632\u0648\u064a\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Venezuela"
     ],
@@ -104,6 +112,9 @@
         "\u09ad\u09c7\u09a8\u09c7\u099c\u09c1\u09df\u09c7\u09b2\u09be",
         "\u09ad\u09c7\u09a8\u09bf\u099c\u09c1\u09af\u09bc\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0935\u0947\u0928\u0947\u091c\u0941\u090f\u0932\u093e"
+    ],
     "name:bis_x_preferred":[
         "Venezuela"
     ],
@@ -128,6 +139,9 @@
     "name:bxr_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u044d"
     ],
+    "name:bxr_x_variant":[
+        "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
+    ],
     "name:cat_x_preferred":[
         "Vene\u00e7uela"
     ],
@@ -141,6 +155,9 @@
         "Venezuela"
     ],
     "name:ces_x_preferred":[
+        "Venezuela"
+    ],
+    "name:cha_x_preferred":[
         "Venezuela"
     ],
     "name:che_x_preferred":[
@@ -185,8 +202,14 @@
     "name:dsb_x_preferred":[
         "Venezuela"
     ],
+    "name:dty_x_preferred":[
+        "\u092d\u0947\u0928\u0947\u091c\u0941\u092f\u0932\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03bd\u03b5\u03b6\u03bf\u03c5\u03ad\u03bb\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Venes\u00fcela"
     ],
     "name:eng_x_preferred":[
         "Venezuela"
@@ -228,6 +251,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
+    ],
+    "name:fij_x_preferred":[
+        "Venezuela"
     ],
     "name:fin_x_preferred":[
         "Venezuela"
@@ -283,6 +309,9 @@
     "name:grn_x_preferred":[
         "Venesu\u00e9la"
     ],
+    "name:gsw_x_preferred":[
+        "Venezuela"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0aa8\u0ac7\u0a9d\u0ac1\u0a8f\u0ab2\u0abe"
     ],
@@ -323,6 +352,9 @@
     "name:hye_x_preferred":[
         "\u054e\u0565\u0576\u0565\u057d\u0578\u0582\u0565\u056c\u0561"
     ],
+    "name:ibo_x_preferred":[
+        "Venezuela"
+    ],
     "name:ido_x_preferred":[
         "Venezuela"
     ],
@@ -338,6 +370,9 @@
     "name:ind_x_preferred":[
         "Venezuela"
     ],
+    "name:inh_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
+    ],
     "name:isl_x_preferred":[
         "Venes\u00faela"
     ],
@@ -349,6 +384,9 @@
     ],
     "name:jav_x_preferred":[
         "V\u00e9n\u00e9zu\u00e9la"
+    ],
+    "name:jav_x_variant":[
+        "Venezuela"
     ],
     "name:jbo_x_preferred":[
         "benesuel"
@@ -381,6 +419,12 @@
     "name:kbd_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u0435\u043b\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Fenezuyeelaa"
+    ],
     "name:khm_x_preferred":[
         "\u179c\u17c1\u1793\u17c1\u17a0\u17d2\u179f\u17ca\u17bb\u1799\u17a1\u17b6"
     ],
@@ -392,6 +436,9 @@
     ],
     "name:kir_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
+    ],
+    "name:kon_x_preferred":[
+        "Beneswela"
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub124\uc218\uc5d8\ub77c"
@@ -426,6 +473,9 @@
     "name:lez_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
     ],
+    "name:lfn_x_preferred":[
+        "Venezuela"
+    ],
     "name:lij_x_preferred":[
         "Venezuela"
     ],
@@ -447,6 +497,9 @@
     "name:lrc_x_preferred":[
         "\u06a4\u0626\u0646\u0626\u0632\u0627\u0626\u0648\u0659\u0644\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
+    ],
     "name:ltg_x_preferred":[
         "Venecuela"
     ],
@@ -458,6 +511,12 @@
     ],
     "name:lug_x_preferred":[
         "Venzwera"
+    ],
+    "name:lzh_x_preferred":[
+        "\u59d4\u5167\u745e\u62c9"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0947\u0928\u0947\u091c\u0941\u090f\u0932\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d46\u0d28\u0d38\u0d4d\u0d35\u0d47\u0d32"
@@ -473,6 +532,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
     ],
     "name:min_x_preferred":[
         "Venezuela"
@@ -509,6 +571,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Venezuela"
+    ],
+    "name:nan_x_preferred":[
+        "Venezuela"
     ],
     "name:nap_x_preferred":[
         "Venezuela"
@@ -549,6 +617,9 @@
     "name:oci_x_preferred":[
         "Vene\u00e7u\u00e8la"
     ],
+    "name:olo_x_preferred":[
+        "Venesuela"
+    ],
     "name:ori_x_preferred":[
         "\u0b2d\u0b47\u0b28\u0b47\u0b1c\u0b41\u0b0f\u0b32\u0b3e"
     ],
@@ -570,8 +641,17 @@
     "name:pan_x_preferred":[
         "\u0a35\u0a48\u0a28\u0a47\u0a1c\u0a3c\u0a41\u0a10\u0a32\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a35\u0a48\u0a28\u0a47\u0a1c\u0a3c\u0a41\u0a0f\u0a32\u0a3e"
+    ],
     "name:pap_x_preferred":[
         "Venezuela"
+    ],
+    "name:pih_x_preferred":[
+        "Wenezuela"
+    ],
+    "name:pli_x_preferred":[
+        "\u0935\u0947\u0928\u0947\u091c\u094d\u0935\u0947\u0932\u093e"
     ],
     "name:pms_x_preferred":[
         "Venessuela"
@@ -609,6 +689,9 @@
     "name:run_x_variant":[
         "Venezuwela"
     ],
+    "name:rup_x_preferred":[
+        "Venetsuela"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
     ],
@@ -621,11 +704,23 @@
     "name:san_x_preferred":[
         "\u0935\u0947\u0928\u0947\u091c\u0941\u092f\u0947\u0932\u093e"
     ],
+    "name:san_x_variant":[
+        "\u0935\u0947\u0928\u0947\u091c\u094d\u0935\u0947\u0932\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c77\u1c6e\u1c71\u1c6e\u1c61\u1c69\u1c6d\u1c6e\u1c5e\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Venezzuela"
     ],
     "name:sco_x_preferred":[
         "Venezuela"
+    ],
+    "name:sgs_x_preferred":[
+        "Venesoela"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Venezuela"
@@ -641,6 +736,9 @@
     ],
     "name:sna_x_preferred":[
         "Venezuela"
+    ],
+    "name:snd_x_preferred":[
+        "\u0648\u064a\u0646\u0632\u0648\u064a\u0644\u0627"
     ],
     "name:som_x_preferred":[
         "Fanansuwela"
@@ -662,11 +760,17 @@
     "name:sqi_x_variant":[
         "Venezuel\u00eb"
     ],
+    "name:srd_x_preferred":[
+        "Venezuela"
+    ],
     "name:srn_x_preferred":[
         "Venswelikondre"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Venezuela"
     ],
     "name:sun_x_preferred":[
         "V\u00e9n\u00e9zu\u00e9la"
@@ -719,6 +823,9 @@
     "name:ton_x_preferred":[
         "Venisuela"
     ],
+    "name:tpi_x_preferred":[
+        "Venesuwela"
+    ],
     "name:tuk_x_preferred":[
         "Wenesuela"
     ],
@@ -737,14 +844,8 @@
     "name:und_x_colloquial":[
         "Venesuela"
     ],
-    "name:und_x_preferred":[
-        "Venes\u00faela"
-    ],
     "name:und_x_variant":[
         "Republika Venezuela"
-    ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica Bolivariana de Venezuela"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"
@@ -774,6 +875,9 @@
     "name:vol_x_preferred":[
         "Venesol\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Venezuela"
+    ],
     "name:war_x_preferred":[
         "Venezuela"
     ],
@@ -801,6 +905,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de F\u1eb9n\u1eb9\u1e63u\u1eb9la"
     ],
+    "name:yue_x_preferred":[
+        "\u59d4\u5167\u745e\u62c9"
+    ],
     "name:zea_x_preferred":[
         "Venezuela"
     ],
@@ -814,7 +921,6 @@
         "\u59d4\u5167\u745e\u62c9"
     ],
     "name:zho_x_variant":[
-        "\u59d4\u5167\u745e\u62c9",
         "\u59d4\u5185\u745e\u62c9"
     ],
     "name:zho_yue_x_preferred":[
@@ -903,7 +1009,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"58",
     "statoids:ds":"YV",
@@ -948,7 +1054,7 @@
         "mzb:id":"venezuela",
         "ne:adm0_a3":"VEN",
         "nyt:id":"63723441165873404131",
-        "qs:id":223916,
+        "qs_pg:id":223916,
         "uncrt:id":"YV",
         "wd:id":"Q717",
         "wk:page":"Venezuela",
@@ -964,16 +1070,13 @@
         }
     ],
     "wof:id":85632317,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1578513946,
+    "wof:lastmodified":1566644710,
     "wof:name":"Venezuela",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

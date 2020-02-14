@@ -1,0 +1,402 @@
+{
+  "id": 85676745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.088444,
+    "geom:area_square_m":1078953325.002033,
+    "geom:bbox":"-140.72777259,-10.5504696587,-138.620228645,-7.95012786311",
+    "geom:latitude":-9.377793,
+    "geom:longitude":-139.57327,
+    "gn:id":"",
+    "iso:country":"PF",
+    "label:eng_x_preferred_longname":[
+        "Marquesas Islands Administrative Subdivision"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative subdivision"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
+    "lbl:latitude":-9.750211,
+    "lbl:longitude":-139.024882,
+    "lbl:min_zoom":8.0,
+    "mps:latitude":-9.750211,
+    "mps:longitude":-139.024882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Marquesaseilande"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0645\u0627\u0631\u0643\u064a\u0633\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Isles Marqueses"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0456\u0437\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u09b8\u09be\u09b8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Markiz"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "illes Marqueses"
+    ],
+    "name:ceb_x_preferred":[
+        "Marquesas Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Mark\u00e9zy"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Marquesas"
+    ],
+    "name:dan_x_preferred":[
+        "Marquesas\u00f8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Marquesas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9 \u039c\u03b1\u03c1\u03ba\u03ad\u03b6\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Marquesas Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Markizinsuloj"
+    ],
+    "name:est_x_preferred":[
+        "Markiisaared"
+    ],
+    "name:eus_x_preferred":[
+        "Markesak"
+    ],
+    "name:fao_x_preferred":[
+        "Marquesasoyggjar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06a9\u06cc\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Marquesassaaret"
+    ],
+    "name:fra_x_preferred":[
+        "Marquises"
+    ],
+    "name:fra_x_variant":[
+        "\u00eeles Marquises"
+    ],
+    "name:gla_x_preferred":[
+        "Na Marquesas"
+    ],
+    "name:gle_x_preferred":[
+        "Na hOile\u00e1in Mharcasacha"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Marquesas"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0acd\u0a95\u0acd\u0ab5\u0ac7\u0ab8\u0abe\u0ab8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:haw_x_preferred":[
+        "Nu\u02bbuhiwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05de\u05e8\u05e7\u05d9\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u0947\u0938\u0938 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Marki\u017eansko oto\u010dje"
+    ],
+    "name:hun_x_preferred":[
+        "Marquises-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056f\u056b\u0566\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Marquesas"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Marchesi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30ad\u30fc\u30ba\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0c95\u0ccd\u0cb5\u0cb8\u0cbe\u0cb8\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d9\u10d8\u10d6\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\ud0a4\uc988 \uc81c\ub3c4"
+    ],
+    "name:lat_x_preferred":[
+        "Insulae Marchionis"
+    ],
+    "name:lav_x_preferred":[
+        "Mar\u0137\u012bza salas"
+    ],
+    "name:lit_x_preferred":[
+        "Markiz\u0173 salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u0947\u0938\u093e\u0938 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "K\u0101hui o \u2018Enata"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u043e\u0448\u043c\u0430\u043e\u0442\u044b\u0432\u043b\u04d3"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Marquesas"
+    ],
+    "name:nan_x_preferred":[
+        "Marquises K\u00fbn-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Marquesaseilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Marquesas\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Marquesas\u00f8yene"
+    ],
+    "name:oci_x_preferred":[
+        "Illas Marquesas"
+    ],
+    "name:pol_x_preferred":[
+        "Markizy"
+    ],
+    "name:por_x_preferred":[
+        "Arquip\u00e9lago das Marquesas"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Marchize"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Marquesas Islands"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0d9a\u0dca\u0dc0\u0dd9\u0dc3\u0dcf\u0dc3\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:smo_x_preferred":[
+        "Marquesas"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Marquesas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u041c\u0430\u0440\u043a\u0438\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Marquesas\u00f6arna"
+    ],
+    "name:tah_x_preferred":[
+        "\u2019Enana m\u0101"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc6\u0b9a\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0438\u0437 \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d\u0c35\u0c46\u0c38\u0c3e\u0c38\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e04\u0e0b\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Markiz Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0456\u0437\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Marquezas Islands"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u06a9\u06cc\u0626\u0633\u0627\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Markiz orollari"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Marquises"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropod-an Marquises"
+    ],
+    "name:yue_x_preferred":[
+        "\u4faf\u7235\u592b\u4eba\u7fa4\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u514b\u85a9\u65af\u7fa4\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"PYF",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"6",
+    "ne:adm1_cod_1":"PYF-4967",
+    "ne:adm1_code":"PYF-4967",
+    "ne:admin":"French Polynesia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"PF.MI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4967",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"French Polynesia",
+    "ne:gn_a1_code":"PF.04",
+    "ne:gn_id":"4019991",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Iles Marquises",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"PYF",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"PF-",
+    "ne:iso_a2":"PF",
+    "ne:labelrank":"20",
+    "ne:latitude":"-9.75565000000",
+    "ne:longitude":"-139.03700000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":9,
+    "ne:name":"Marquesas Islands",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FR1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Marquesas_Islands",
+    "ne:woe_id":24549701,
+    "ne:woe_label":"Marquesas Islands, PF, French Polynesia",
+    "ne:woe_name":"Marquesas Islands",
+    "qs:a0":"French Polynesia",
+    "qs:a0_lc":"PF",
+    "qs:a1":"Marquesas Islands",
+    "qs:a1_lc":"PYF-4967",
+    "qs:adm0":"French Polynesia",
+    "qs:adm0_a3":"PYF",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2012-08-22",
+    "statoids:area_km":"997",
+    "statoids:area_mi":"385",
+    "statoids:as_of_date":"2012-08-22",
+    "statoids:capital":"Taiohae",
+    "statoids:country":"PF",
+    "statoids:gec":"",
+    "statoids:hasc":"PF.MI",
+    "statoids:iso":"",
+    "statoids:name":"Marquesas Islands",
+    "statoids:population":"9261",
+    "statoids:timezone":"-9:30",
+    "statoids:type":"administrative subdivision",
+    "wd:wordcount":3973,
+    "wof:belongsto":[
+        102191583,
+        85632653,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":4019991,
+        "gp:id":24549701,
+        "hasc:id":"PF.MI",
+        "qs_pg:id":1085967,
+        "wd:id":"Q172697"
+    },
+    "wof:country":"PF",
+    "wof:geomhash":"011af9b2830157508aa53bec487381d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "region_id":85676745
+        }
+    ],
+    "wof:id":85676745,
+    "wof:lang_x_official":[
+        "fra",
+        "tah"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "tah"
+    ],
+    "wof:lastmodified":1566677700,
+    "wof:name":"Marquesas Islands",
+    "wof:parent_id":85632653,
+    "wof:placetype":"region",
+    "wof:placetype_local":"administrative subdivision",
+    "wof:population":9261,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pf",
+    "wof:shortcode":"MI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -140.7277725902328,
+    -10.55046965874772,
+    -138.620228644936,
+    -7.95012786311037
+],
+  "geometry": {"coordinates":[[[[-138.63695227762548,-10.54216887759156],[-138.67149817550035,-10.55046965874772],[-138.68561764224035,-10.54208749793963],[-138.69343014188752,-10.52613697644028],[-138.69444739473147,-10.50790780939786],[-138.67959550662732,-10.4735653624515],[-138.68163001231517,-10.45826588266431],[-138.69880123578838,-10.4264462220155],[-138.66519121020616,-10.42734140358289],[-138.65046139157994,-10.43141041495863],[-138.63670813687099,-10.44060637768212],[-138.62043209496517,-10.47185637806933],[-138.62022864493599,-10.51083749755242],[-138.63695227762548,-10.54216887759156]]],[[[-139.11847896972864,-10.00017669040187],[-139.13076738170929,-10.01490650812877],[-139.14386959470602,-9.99781666430755],[-139.14268958165883,-9.97893645555291],[-139.13898678321345,-9.95940520598543],[-139.14443925676625,-9.94036223792688],[-139.13385983006708,-9.92831796670077],[-139.12067623561973,-9.90439218445169],[-139.10383053255299,-9.88827890364843],[-139.08238684767485,-9.89950937295913],[-139.06916256430088,-9.90390390384204],[-139.05565345034643,-9.91318124801614],[-139.04775956924868,-9.92253997184218],[-139.05134029911551,-9.92669036286992],[-139.05500240773489,-9.92839934635271],[-139.0576065745837,-9.9323869771772],[-139.05972245992353,-9.93710702846653],[-139.06187903598868,-9.94036223792688],[-139.06663977800332,-9.94329192428285],[-139.07664954264226,-9.94459400770722],[-139.08238684767485,-9.94719817455609],[-139.09585527270264,-9.96168385152851],[-139.11847896972864,-10.00017669040187]]],[[[-138.87694251158763,-9.75432708102994],[-138.8666886061942,-9.75546640335176],[-138.8554581368835,-9.75351327911449],[-138.84801184746874,-9.7489559880284],[-138.84235592388677,-9.74423593494038],[-138.83657792902818,-9.74114348748191],[-138.81403561075479,-9.73951588275173],[-138.81847083146369,-9.74871184637459],[-138.8692520823177,-9.79159921703018],[-138.89207923117158,-9.80071380010173],[-138.91661536350819,-9.80657317461225],[-138.95567786354252,-9.80999114337652],[-139.0094294905785,-9.80901458035856],[-139.02090410064369,-9.80632903385776],[-139.02623450381924,-9.80339934660253],[-139.0379939435656,-9.80242278358457],[-139.04971269348596,-9.80348072715378],[-139.05504309756088,-9.80632903385776],[-139.05504309756088,-9.83733489349049],[-139.06191972581468,-9.85393645580274],[-139.07135983019197,-9.85475025771819],[-139.08551998585864,-9.84880950265637],[-139.12629147027508,-9.84010182054254],[-139.14346269374829,-9.82887135213116],[-139.15689042895008,-9.81519947707415],[-139.16490637862643,-9.80331796695054],[-139.1703181632526,-9.79013437250325],[-139.17324785050789,-9.77418385190322],[-139.1694229807859,-9.76100025745586],[-139.13841712115317,-9.75090911316499],[-139.05138098894145,-9.70142994573536],[-139.01537024564027,-9.69443124800364],[-138.98452714800942,-9.69947682059876],[-138.97252356660925,-9.72063567489641],[-138.96129309819787,-9.73381926844445],[-138.94273841074903,-9.74236419035503],[-138.92121334531959,-9.74716562309499],[-138.9007869132854,-9.7486304667226],[-138.87694251158763,-9.75432708102994]]],[[[-140.05386308521321,-9.34628671645874],[-140.04141191302932,-9.35100676864738],[-140.02769934814637,-9.34392669036441],[-140.04063880093986,-9.37411874808168],[-140.04893958209601,-9.40813567462163],[-140.06289628773345,-9.43596770534526],[-140.09284420469623,-9.44752369596176],[-140.11139889214513,-9.437758071178],[-140.15859941313238,-9.37184010163935],[-140.13947506362325,-9.35784270617592],[-140.12144934750933,-9.34026458084566],[-140.10163326646204,-9.32626718448296],[-140.07673092389297,-9.32341887777892],[-140.05386308521321,-9.34628671645874]]],[[[-139.58234615774893,-8.86891041448399],[-139.57445227755056,-8.87021249790843],[-139.55842037729855,-8.86467864380433],[-139.54698645705929,-8.86712004955058],[-139.51439368432102,-8.88396575261737],[-139.50316321501032,-8.89902109165001],[-139.50841223853394,-8.91204192499481],[-139.52342688684132,-8.92156340902409],[-139.54165605388374,-8.92620208066143],[-139.58560136630996,-8.92945729012177],[-139.60309811108891,-8.93694426846315],[-139.61676998614593,-8.95419687248761],[-139.61270097566944,-8.93922291490554],[-139.61803137884505,-8.9249813777883],[-139.6262100896239,-8.91082122212168],[-139.63044186120288,-8.89544036268256],[-139.59691321527265,-8.85800546647903],[-139.58946692585789,-8.85800546647903],[-139.58234615774893,-8.86891041448399]]],[[[-140.21670488212459,-8.78101978963156],[-140.08971106651251,-8.80201588282671],[-140.05899003746021,-8.80201588282671],[-140.05142167856758,-8.80046965864778],[-140.03742428310414,-8.79225025804294],[-140.02769934814637,-8.78899504948191],[-140.02774003797236,-8.79371510167056],[-140.02953040290572,-8.79648202872261],[-140.03221595030584,-8.798760675165],[-140.03941809806673,-8.80706145542177],[-140.04942786360499,-8.82317473802368],[-140.02228756352019,-8.84677499806764],[-140.01598059822601,-8.85930754990346],[-140.01402747308936,-8.88111744591333],[-140.01915442623573,-8.8964169248012],[-140.03132076693981,-8.89446379966455],[-140.05557206869599,-8.87851327906452],[-140.06053626163913,-8.89999765376865],[-140.07664954334172,-8.91521575300453],[-140.09601803270601,-8.91904062272653],[-140.11021887909794,-8.90569426897531],[-140.11766516761338,-8.90569426897531],[-140.12999427031929,-8.91643645587772],[-140.16991126209501,-8.92945729012177],[-140.17853756365758,-8.93678150736065],[-140.18321692602029,-8.95370859187796],[-140.19432532495375,-8.95037200276568],[-140.20702063699275,-8.93938567510878],[-140.22769120978148,-8.92701588257688],[-140.23477128806445,-8.91285572691021],[-140.24518795456044,-8.86687590879609],[-140.24742591117683,-8.84734465832929],[-140.24958248634266,-8.83863697711473],[-140.2589412101687,-8.83049895616188],[-140.26105709460921,-8.82317473802368],[-140.24779212050993,-8.7868791650414],[-140.21670488212459,-8.78101978963156]]],[[[-140.70783443880828,-8.03972747144559],[-140.71776282469455,-8.04127369562451],[-140.7271622392459,-8.02809010207648],[-140.7277725902328,-7.99146900778845],[-140.70636959518066,-7.96306731590386],[-140.67316646965679,-7.95012786311037],[-140.63841712085343,-7.95973072679158],[-140.65306555892835,-7.97079843499972],[-140.65831458155264,-7.97340260184853],[-140.67564856702774,-7.97673919096087],[-140.68390865745852,-7.98528411287145],[-140.69245358026848,-8.01506926873174],[-140.69888261593997,-8.02898528364386],[-140.70783443880828,-8.03972747144559]]]],"type":"MultiPolygon"}
+}

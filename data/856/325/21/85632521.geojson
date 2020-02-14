@@ -15,8 +15,13 @@
     "itu:country_code":[
         "51"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":-12.98078,
     "lbl:longitude":-72.876651,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-12.98078,
     "mps:longitude":-72.876651,
     "mz:hierarchy_label":1,
@@ -91,6 +96,9 @@
     ],
     "name:ben_x_variant":[
         "\u09aa\u09bf\u09b0\u09c1"
+    ],
+    "name:bho_x_preferred":[
+        "\u092a\u0947\u0930\u0942"
     ],
     "name:bis_x_preferred":[
         "Peru"
@@ -170,6 +178,9 @@
     "name:dsb_x_preferred":[
         "Peru"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u0947\u0930\u0942"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03bf\u03cd"
     ],
@@ -211,6 +222,9 @@
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648"
+    ],
+    "name:fij_x_preferred":[
+        "Peru"
     ],
     "name:fin_x_preferred":[
         "Peru"
@@ -260,6 +274,9 @@
     "name:grn_x_preferred":[
         "Per\u0169"
     ],
+    "name:gsw_x_preferred":[
+        "Peru"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab0\u0ac1 (\u0aa6\u0ac7\u0ab6)"
     ],
@@ -302,6 +319,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u0578\u0582"
     ],
+    "name:ibo_x_preferred":[
+        "Peru"
+    ],
     "name:ido_x_preferred":[
         "Peru"
     ],
@@ -335,6 +355,9 @@
     "name:jbo_x_preferred":[
         "perus"
     ],
+    "name:jbo_x_variant":[
+        "lo gugdepu'e"
+    ],
     "name:jpn_x_preferred":[
         "\u30da\u30eb\u30fc"
     ],
@@ -358,6 +381,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0440\u0443"
+    ],
+    "name:kbp_x_preferred":[
+        "Peruu"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17c9\u17c1\u179a\u17bc"
@@ -407,6 +433,9 @@
     "name:lez_x_preferred":[
         "\u041f\u0435\u0440\u0443"
     ],
+    "name:lfn_x_preferred":[
+        "Peru"
+    ],
     "name:lij_x_preferred":[
         "Per\u00f9"
     ],
@@ -428,6 +457,9 @@
     "name:lrc_x_preferred":[
         "\u067e\u0626\u0631\u0648\u0659"
     ],
+    "name:lrc_x_variant":[
+        "\u067e\u0631\u0648"
+    ],
     "name:ltg_x_preferred":[
         "Peru"
     ],
@@ -439,6 +471,9 @@
     ],
     "name:lug_x_preferred":[
         "Peru"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7955\u9b6f"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d31\u0d41"
@@ -491,11 +526,20 @@
     "name:nah_x_preferred":[
         "Incatl\u0101n"
     ],
+    "name:nah_x_variant":[
+        "Peru"
+    ],
+    "name:nan_x_preferred":[
+        "Peru"
+    ],
     "name:nap_x_preferred":[
         "Per\u00f9"
     ],
     "name:nau_x_preferred":[
         "Peru"
+    ],
+    "name:nav_x_preferred":[
+        "Dib\u00e9n\u00e9\u00e9z Bik\u00e9yah"
     ],
     "name:nde_x_preferred":[
         "Pheru"
@@ -533,6 +577,9 @@
     "name:oci_x_preferred":[
         "Per\u00f3"
     ],
+    "name:olo_x_preferred":[
+        "Peru"
+    ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b47\u0b30\u0b41"
     ],
@@ -541,6 +588,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041f\u0435\u0440\u0443"
+    ],
+    "name:pag_x_preferred":[
+        "Peru"
     ],
     "name:pam_x_preferred":[
         "Peru"
@@ -608,6 +658,9 @@
     "name:sco_x_preferred":[
         "Peru"
     ],
+    "name:sgs_x_preferred":[
+        "Per\u016b"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dda\u0dbb\u0dd6"
     ],
@@ -629,6 +682,9 @@
     "name:sna_x_preferred":[
         "Peru"
     ],
+    "name:snd_x_preferred":[
+        "\u067e\u064a\u0631\u0648"
+    ],
     "name:som_x_preferred":[
         "Peru"
     ],
@@ -640,6 +696,9 @@
     ],
     "name:sqi_x_preferred":[
         "Peruja"
+    ],
+    "name:srd_x_preferred":[
+        "Per\u00f9"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0440\u0443"
@@ -692,11 +751,17 @@
     "name:ton_x_preferred":[
         "Pel\u016b"
     ],
+    "name:tpi_x_preferred":[
+        "Peru"
+    ],
     "name:tuk_x_preferred":[
         "Peru"
     ],
     "name:tur_x_preferred":[
         "Peru"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0435\u0440\u0443"
     ],
     "name:uig_x_preferred":[
         "\u067e\u06d0\u0631\u06c7"
@@ -706,9 +771,6 @@
     ],
     "name:und_x_variant":[
         "Republika Peru"
-    ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica del Per\u00fa"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u0648"
@@ -730,6 +792,9 @@
     ],
     "name:vol_x_preferred":[
         "Peruv\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Peruu"
     ],
     "name:war_x_preferred":[
         "Per\u00fa"
@@ -758,6 +823,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Peru"
     ],
+    "name:yue_x_preferred":[
+        "\u79d8\u9b6f"
+    ],
     "name:zea_x_preferred":[
         "Peru"
     ],
@@ -771,7 +839,6 @@
         "\u79d8\u9c81"
     ],
     "name:zho_x_variant":[
-        "\u79d8\u9c81",
         "\u79d8\u9b6f"
     ],
     "name:zho_yue_x_preferred":[
@@ -862,7 +929,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"51",
     "statoids:ds":"PE",
@@ -906,7 +973,7 @@
         "mzb:id":"peru",
         "ne:adm0_a3":"PER",
         "nyt:id":"50581724317645537281",
-        "qs:id":893592,
+        "qs_pg:id":893592,
         "uncrt:id":"PE",
         "wd:id":"Q419",
         "wk:page":"Peru",
@@ -922,9 +989,6 @@
         }
     ],
     "wof:id":85632521,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -933,7 +997,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1578513990,
+    "wof:lastmodified":1581720662,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

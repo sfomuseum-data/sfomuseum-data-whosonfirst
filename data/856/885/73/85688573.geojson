@@ -14,21 +14,23 @@
     "geom:longitude":-151.593418,
     "iso:country":"US",
     "iso:subdivision":"US-AK",
-    "label:eng_us_x_preferred_longname":[
-        "Alaska"
-    ],
     "label:eng_x_preferred_longname":[
-        "Alaska State"
+        "Alaska"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AK"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Alaska"
+        "State of Alaska",
+        "Alaska State"
     ],
     "lbl:bbox":"-179.98,51.175092,-129.979511,71.441059",
     "lbl:latitude":64.724809,
     "lbl:longitude":-153.629618,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.724809,
     "mps:longitude":-153.629618,
     "mz:hierarchy_label":1,
@@ -36,9 +38,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Alaska"
-    ],
-    "name:alb_x_preferred":[
         "Alaska"
     ],
     "name:als_x_preferred":[
@@ -59,9 +58,6 @@
     "name:arg_x_preferred":[
         "Alaska"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0575\u0561\u057d\u056f\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0627\u0633\u0643\u0627"
     ],
@@ -74,14 +70,14 @@
     "name:azb_x_preferred":[
         "\u0622\u0644\u0627\u0633\u06a9\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:azb_x_variant":[
+        "\u0622\u0644\u0627\u0633\u06a9\u0627"
+    ],
     "name:aze_x_preferred":[
         "Alyaska"
     ],
     "name:bak_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Alaska"
     ],
     "name:bar_x_preferred":[
         "Alaska"
@@ -110,6 +106,9 @@
     "name:bos_x_preferred":[
         "Aljaska"
     ],
+    "name:bos_x_variant":[
+        "Alaska"
+    ],
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09be\u09b8\u09cd\u0995\u09be"
     ],
@@ -118,9 +117,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
-    ],
-    "name:bur_x_preferred":[
-        "\u1021\u101c\u1000\u103a\u1005\u1000\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
@@ -140,14 +136,14 @@
     "name:che_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u65af\u52a0\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0644\u0627\u0633\u06a9\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u0627\u0644\u0627\u0633\u06a9\u0627"
     ],
     "name:cor_x_preferred":[
         "Alaska"
@@ -157,9 +153,6 @@
     ],
     "name:cym_x_preferred":[
         "Alaska"
-    ],
-    "name:cze_x_preferred":[
-        "Alja\u0161ka"
     ],
     "name:dan_x_preferred":[
         "Alaska"
@@ -173,11 +166,11 @@
     "name:dsb_x_preferred":[
         "Alaska"
     ],
-    "name:dut_x_preferred":[
-        "Alaska"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03ac\u03c3\u03ba\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Al\u00e0ska"
     ],
     "name:eng_x_colloquial":[
         "Land of the Midnight Sun"
@@ -210,9 +203,6 @@
     "name:fra_x_preferred":[
         "Alaska"
     ],
-    "name:fre_x_preferred":[
-        "Alaska"
-    ],
     "name:frp_x_preferred":[
         "Alaska"
     ],
@@ -228,12 +218,6 @@
     "name:gan_x_preferred":[
         "\u963f\u62c9\u65af\u52a0\u5dde"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d0\u10e1\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Alaska"
-    ],
     "name:gla_x_preferred":[
         "Alasca"
     ],
@@ -245,9 +229,6 @@
     ],
     "name:glv_x_preferred":[
         "Alaska"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03ac\u03c3\u03ba\u03b1"
     ],
     "name:grn_x_preferred":[
         "Alaska"
@@ -261,7 +242,13 @@
     "name:hak_x_preferred":[
         "\u00c2-l\u00e2-s\u1e73\u0302-k\u00e2"
     ],
+    "name:hak_x_variant":[
+        "Alaska"
+    ],
     "name:hat_x_preferred":[
+        "Alaska"
+    ],
+    "name:hau_x_preferred":[
         "Alaska"
     ],
     "name:haw_x_preferred":[
@@ -293,9 +280,6 @@
     ],
     "name:ibo_x_preferred":[
         "\u00c0l\u00e1sk\u00e0"
-    ],
-    "name:ice_x_preferred":[
-        "Alaska"
     ],
     "name:ido_x_preferred":[
         "Alaska"
@@ -342,11 +326,20 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u044f\u0441\u043a\u0430 \u0448\u0442\u0430\u0442\u044b"
+    ],
+    "name:kbp_x_preferred":[
+        "Alaskaa"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub798\uc2a4\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ub798\uc2a4\uce74\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Alaska"
@@ -362,6 +355,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Alaska"
     ],
     "name:lij_x_preferred":[
         "Alaska"
@@ -381,20 +377,17 @@
     "name:ltz_x_preferred":[
         "Alaska"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u0458\u0430\u0441\u043a\u0430"
+    "name:lzh_x_preferred":[
+        "\u963f\u62c9\u65af\u52a0\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0932\u093e\u0938\u094d\u0915\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d3e\u0d38\u0d4d\u0d15"
     ],
-    "name:mao_x_preferred":[
-        "Alaska"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u093e\u0938\u094d\u0915\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Alaska"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
@@ -489,8 +482,8 @@
     "name:pap_x_preferred":[
         "Alaska"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0627\u0633\u06a9\u0627"
+    "name:pih_x_preferred":[
+        "Alaska"
     ],
     "name:pli_x_preferred":[
         "\u0905\u0932\u093e\u0938\u094d\u0915\u093e"
@@ -516,9 +509,6 @@
     "name:ron_x_preferred":[
         "Alaska"
     ],
-    "name:rum_x_preferred":[
-        "Alaska"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
@@ -527,6 +517,9 @@
     ],
     "name:san_x_preferred":[
         "\u0905\u0932\u093e\u0938\u094d\u0915\u093e"
+    ],
+    "name:san_x_variant":[
+        "\u0905\u0932\u093e\u0938\u094d\u200d\u0915\u093e"
     ],
     "name:scn_x_preferred":[
         "Alaska"
@@ -537,13 +530,13 @@
     "name:sgs_x_preferred":[
         "Aleska"
     ],
+    "name:sgs_x_variant":[
+        "Aliaska"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0dbd\u0dc3\u0dca\u0d9a\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
-        "Alja\u0161ka"
-    ],
-    "name:slo_x_preferred":[
         "Alja\u0161ka"
     ],
     "name:slv_x_preferred":[
@@ -551,6 +544,9 @@
     ],
     "name:sme_x_preferred":[
         "Alaska"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u06aa\u0627"
     ],
     "name:som_x_preferred":[
         "Alaska"
@@ -615,7 +611,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Albion"
     ],
     "name:urd_x_preferred":[
@@ -623,6 +619,9 @@
     ],
     "name:uzb_x_preferred":[
         "Alaska"
+    ],
+    "name:uzb_x_variant":[
+        "Alyaska"
     ],
     "name:vec_x_preferred":[
         "A\u0142asca"
@@ -636,10 +635,10 @@
     "name:vol_x_preferred":[
         "Lalask\u00e4n"
     ],
-    "name:war_x_preferred":[
+    "name:vol_x_variant":[
         "Alaska"
     ],
-    "name:wel_x_preferred":[
+    "name:war_x_preferred":[
         "Alaska"
     ],
     "name:wuu_x_preferred":[
@@ -647,6 +646,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a"
+    ],
+    "name:xho_x_preferred":[
+        "I-Alaskha"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10da\u10d0\u10e1\u10d9\u10d0"
@@ -743,9 +745,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"1,530,700",
     "statoids:area_mi":"591,007",
     "statoids:as_of_date":"2010-04-01",
@@ -791,11 +793,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514072,
+    "wof:lastmodified":1581720743,
     "wof:name":"Alaska",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":710231,
     "wof:population_rank":11,

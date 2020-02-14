@@ -16,8 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IF"
+    ],
     "lbl:latitude":44.607618,
     "lbl:longitude":26.213713,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.607618,
     "mps:longitude":26.213713,
     "mz:hierarchy_label":1,
@@ -117,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0444\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Ilfov"
     ],
     "name:urd_x_preferred":[
@@ -200,9 +204,9 @@
     "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"1,583",
     "statoids:area_mi":"611",
     "statoids:as_of_date":"2011-10-22",
@@ -245,11 +249,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1578514056,
+    "wof:lastmodified":1581720725,
     "wof:name":"Ilfov",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":388738,
     "wof:population_rank":10,

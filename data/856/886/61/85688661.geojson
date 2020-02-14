@@ -14,20 +14,22 @@
     "geom:longitude":-92.477426,
     "iso:country":"US",
     "iso:subdivision":"US-MO",
-    "label:eng_us_x_preferred_longname":[
-        "Missouri"
-    ],
     "label:eng_x_preferred_longname":[
-        "Missouri State"
+        "Missouri"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Missouri"
+        "State of Missouri",
+        "Missouri State"
     ],
     "lbl:latitude":38.353141,
     "lbl:longitude":-92.747022,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.353141,
     "mps:longitude":-92.747022,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Missouri"
-    ],
-    "name:alb_x_preferred":[
         "Missouri"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Missouri"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057d\u057d\u0578\u0582\u0580\u056b"
     ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0632\u0648\u0631\u0649"
@@ -76,8 +72,8 @@
     "name:aze_x_variant":[
         "Missuri \u015ftat\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Missouri"
+    "name:bak_x_preferred":[
+        "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
     ],
     "name:bar_x_preferred":[
         "Missouri"
@@ -89,7 +85,8 @@
         "\u0428\u0442\u0430\u0442 \u041c\u0456\u0441\u0443\u0440\u044b"
     ],
     "name:bel_x_variant":[
-        "\u041c\u0456\u0437\u0443\u0440\u044b"
+        "\u041c\u0456\u0437\u0443\u0440\u044b",
+        "\u041c\u0456\u0441\u0443\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b8\u09cc\u09b0\u09bf"
@@ -112,9 +109,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0441\u0443\u0440\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1005\u103a\u1006\u102d\u102f\u101b\u102e\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
     ],
@@ -124,20 +118,23 @@
     "name:cdo_x_preferred":[
         "Missouri"
     ],
+    "name:ceb_x_preferred":[
+        "Missouri"
+    ],
     "name:ces_x_preferred":[
         "Missouri"
     ],
     "name:che_x_preferred":[
         "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5bc6\u8607\u91cc\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06cc\u0632\u0648\u0631\u06cc"
+    ],
+    "name:ckb_x_variant":[
+        "\u0645\u06cc\u0633\u0648\u0648\u0631\u06cc"
     ],
     "name:cor_x_preferred":[
         "Missouri"
@@ -146,9 +143,6 @@
         "Missouri"
     ],
     "name:cym_x_preferred":[
-        "Missouri"
-    ],
-    "name:cze_x_preferred":[
         "Missouri"
     ],
     "name:dan_x_preferred":[
@@ -160,11 +154,11 @@
     "name:diq_x_preferred":[
         "Missouri"
     ],
-    "name:dut_x_preferred":[
-        "Missouri"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03b6\u03bf\u03cd\u03c1\u03b9"
+    ],
+    "name:eml_x_preferred":[
+        "Missouri"
     ],
     "name:eng_x_colloquial":[
         "Show-Me State"
@@ -197,9 +191,6 @@
     "name:fra_x_preferred":[
         "Missouri"
     ],
-    "name:fre_x_preferred":[
-        "Missouri"
-    ],
     "name:frp_x_preferred":[
         "Missouri"
     ],
@@ -210,12 +201,6 @@
         "Missoury"
     ],
     "name:gag_x_preferred":[
-        "Missouri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e1\u10e3\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Missouri"
     ],
     "name:gla_x_preferred":[
@@ -233,8 +218,8 @@
     "name:glv_x_preferred":[
         "Missouri"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03b6\u03bf\u03cd\u03c1\u03b9"
+    "name:got_x_preferred":[
+        "\ud800\udf3c\ud800\udf39\ud800\udf36\ud800\udf3f\ud800\udf42\ud800\udf34\ud800\udf39"
     ],
     "name:grn_x_preferred":[
         "Misuri"
@@ -245,8 +230,14 @@
     "name:hak_x_preferred":[
         "Me\u030dt-s\u00fb-l\u00ee"
     ],
+    "name:hak_x_variant":[
+        "Missouri"
+    ],
     "name:hat_x_preferred":[
         "Misouri"
+    ],
+    "name:hau_x_preferred":[
+        "Missouri"
     ],
     "name:haw_x_preferred":[
         "Mikouli"
@@ -263,6 +254,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u091c\u093c\u0942\u0930\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u093f\u0938\u094c\u0930\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Missouri"
     ],
@@ -272,11 +266,11 @@
     "name:hye_x_preferred":[
         "\u0544\u056b\u057d\u057d\u0578\u0582\u0580\u056b"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u056b\u0566\u0578\u0582\u0580\u056b"
+    ],
     "name:ibo_x_preferred":[
         "Mizur\u1ecb"
-    ],
-    "name:ice_x_preferred":[
-        "Missouri"
     ],
     "name:ido_x_preferred":[
         "Missouri"
@@ -289,6 +283,9 @@
     ],
     "name:ina_x_preferred":[
         "Stato Missouri"
+    ],
+    "name:ina_x_variant":[
+        "Missouri"
     ],
     "name:ind_x_preferred":[
         "Missouri"
@@ -317,11 +314,20 @@
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e1\u10e3\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10d8\u10e1\u10e3\u10e0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
     ],
+    "name:kbp_x_preferred":[
+        "Misuurii"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\uc8fc\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc8fc\ub9ac\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Missouri"
@@ -334,6 +340,9 @@
     ],
     "name:lav_x_preferred":[
         "Mis\u016bri"
+    ],
+    "name:lfn_x_preferred":[
+        "Missouri"
     ],
     "name:lij_x_preferred":[
         "Missouri"
@@ -353,23 +362,23 @@
     "name:lrc_x_preferred":[
         "\u0645\u06cc\u0633\u0648\u0659\u0631\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0645\u06cc\u0633\u0648\u0631\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "Missouri"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0438\u0441\u0443\u0440\u0438"
+    "name:lzh_x_preferred":[
+        "\u5bc6\u8607\u91cc\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093f\u0938\u094c\u0930\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d3f\u0d38\u0d4b\u0d31\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Missouri"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0938\u0942\u0930\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Missouri"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0438\u0441\u0441\u0443\u0440\u0438"
@@ -452,9 +461,6 @@
     "name:pdc_x_preferred":[
         "Missouri"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0632\u0648\u0631\u06cc"
-    ],
     "name:pli_x_preferred":[
         "\u092e\u093f\u0938\u094c\u0930\u0940"
     ],
@@ -482,9 +488,6 @@
     "name:ron_x_preferred":[
         "Missouri"
     ],
-    "name:rum_x_preferred":[
-        "Missouri"
-    ],
     "name:rup_x_preferred":[
         "Missouri"
     ],
@@ -506,13 +509,13 @@
     "name:sgs_x_preferred":[
         "M\u0117s\u016bris"
     ],
+    "name:sgs_x_variant":[
+        "M\u0117s\u016br\u0117s"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0dc3\u0dd4\u0dbb\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Missouri"
-    ],
-    "name:slo_x_preferred":[
         "Missouri"
     ],
     "name:slv_x_preferred":[
@@ -533,6 +536,9 @@
     ],
     "name:sqi_x_preferred":[
         "Mizuri"
+    ],
+    "name:sqi_x_variant":[
+        "Missouri"
     ],
     "name:srd_x_preferred":[
         "Missouri"
@@ -600,11 +606,14 @@
     "name:war_x_preferred":[
         "Missouri"
     ],
-    "name:wel_x_preferred":[
-        "Missouri"
+    "name:wuu_x_preferred":[
+        "\u5bc6\u82cf\u91cc\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041c\u0438\u0437\u0443\u0443\u0440\u0438"
+    ],
+    "name:xho_x_preferred":[
+        "IMizuri"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d8\u10e1\u10e3\u10e0\u10d8\u10e8 \u10e8\u10e2\u10d0\u10e2\u10d8"
@@ -617,6 +626,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5bc6\u8607\u91cc\u5dde"
+    ],
+    "name:yue_x_variant":[
+        "\u7f8e\u758f\u5229\u7701"
     ],
     "name:zho_min_nan_x_preferred":[
         "Missouri"
@@ -701,9 +713,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"180,515",
     "statoids:area_mi":"69,697",
     "statoids:as_of_date":"2010-04-01",
@@ -750,11 +762,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513893,
+    "wof:lastmodified":1581720594,
     "wof:name":"Missouri",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":5988927,
     "wof:population_rank":13,

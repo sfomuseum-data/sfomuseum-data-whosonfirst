@@ -14,20 +14,22 @@
     "geom:longitude":-86.343405,
     "iso:country":"US",
     "iso:subdivision":"US-TN",
-    "label:eng_us_x_preferred_longname":[
-        "Tennessee"
-    ],
     "label:eng_x_preferred_longname":[
-        "Tennessee State"
+        "Tennessee"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TN"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Tennessee"
+        "State of Tennessee",
+        "Tennessee State"
     ],
     "lbl:latitude":35.820245,
     "lbl:longitude":-86.343764,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.820245,
     "mps:longitude":-86.343764,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Tennessee"
-    ],
-    "name:alb_x_preferred":[
         "Tennessee"
     ],
     "name:amh_x_preferred":[
@@ -51,9 +50,6 @@
     ],
     "name:arg_x_preferred":[
         "Tennessee"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0576\u0565\u057d\u056b"
     ],
     "name:arz_x_preferred":[
         "\u062a\u064a\u0646\u064a\u0633\u0649"
@@ -73,9 +69,6 @@
     "name:bak_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
     ],
-    "name:baq_x_preferred":[
-        "Tennessee"
-    ],
     "name:bar_x_preferred":[
         "Tennessee"
     ],
@@ -86,7 +79,8 @@
         "\u0428\u0442\u0430\u0442 \u0422\u044d\u043d\u0435\u0441\u0456"
     ],
     "name:bel_x_variant":[
-        "\u0422\u044d\u043d\u044d\u0441\u0456"
+        "\u0422\u044d\u043d\u044d\u0441\u0456",
+        "\u0422\u044d\u043d\u0435\u0441\u0456"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09a8\u09c7\u09b8\u09c0"
@@ -112,9 +106,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0441\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1010\u1004\u103a\u1014\u1000\u103a\u1006\u102e\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
     ],
@@ -124,14 +115,14 @@
     "name:cdo_x_preferred":[
         "Tennessee"
     ],
+    "name:ceb_x_preferred":[
+        "Tennessee"
+    ],
     "name:ces_x_preferred":[
         "Tennessee"
     ],
     "name:che_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u7530\u7eb3\u897f\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
@@ -148,9 +139,6 @@
     "name:cym_x_preferred":[
         "Tennessee"
     ],
-    "name:cze_x_preferred":[
-        "Tennessee"
-    ],
     "name:dan_x_preferred":[
         "Tennessee"
     ],
@@ -160,11 +148,11 @@
     "name:diq_x_preferred":[
         "Tennessee"
     ],
-    "name:dut_x_preferred":[
-        "Tennessee"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bd\u03b5\u03c3\u03af"
+    ],
+    "name:eml_x_preferred":[
+        "Tennessee"
     ],
     "name:eng_x_colloquial":[
         "Volunteer State"
@@ -197,9 +185,6 @@
     "name:fra_x_preferred":[
         "Tennessee"
     ],
-    "name:fre_x_preferred":[
-        "Tennessee"
-    ],
     "name:frp_x_preferred":[
         "Tennessee"
     ],
@@ -210,12 +195,6 @@
         "Tennessee"
     ],
     "name:gag_x_preferred":[
-        "Tennessee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10dc\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tennessee"
     ],
     "name:gla_x_preferred":[
@@ -233,9 +212,6 @@
     "name:glv_x_preferred":[
         "Tennessee"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bd\u03b5\u03c3\u03af"
-    ],
     "name:grn_x_preferred":[
         "Tenesi"
     ],
@@ -245,8 +221,14 @@
     "name:hak_x_preferred":[
         "Thi\u00e8n-na\u030dp-s\u00ee"
     ],
+    "name:hak_x_variant":[
+        "Tennessee"
+    ],
     "name:hat_x_preferred":[
         "Ten\u00e8si"
+    ],
+    "name:hau_x_preferred":[
+        "Tennessee"
     ],
     "name:haw_x_preferred":[
         "Kenek\u012b"
@@ -275,9 +257,6 @@
     "name:ibo_x_preferred":[
         "Tennessee"
     ],
-    "name:ice_x_preferred":[
-        "Tennessee"
-    ],
     "name:ido_x_preferred":[
         "Tennessee"
     ],
@@ -289,6 +268,9 @@
     ],
     "name:ina_x_preferred":[
         "Stato Tennessee"
+    ],
+    "name:ina_x_variant":[
+        "Tennessee"
     ],
     "name:ind_x_preferred":[
         "Tennessee"
@@ -320,8 +302,17 @@
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
     ],
+    "name:kbp_x_preferred":[
+        "Tenesii"
+    ],
+    "name:khm_x_preferred":[
+        "\u178f\u17c1\u178e\u17c1\u179f\u179f\u17ca\u17b8"
+    ],
     "name:kor_x_preferred":[
         "\ud14c\ub124\uc2dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\ub124\uc2dc\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Tennessee"
@@ -334,6 +325,9 @@
     ],
     "name:lav_x_preferred":[
         "Tenes\u012b"
+    ],
+    "name:lfn_x_preferred":[
+        "Tennessee"
     ],
     "name:lij_x_preferred":[
         "Tennessee"
@@ -350,23 +344,23 @@
     "name:lrc_x_preferred":[
         "\u062a\u0626\u0646\u0626\u0633\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u062a\u0646\u0633\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "Tennessee"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043d\u0435\u0441\u0438"
+    "name:lzh_x_preferred":[
+        "\u7530\u7d0d\u897f\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u0947\u0928\u0947\u0938\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d46\u0d28\u0d4d\u0d28\u0d38\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Tennessee"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u0928\u0947\u0938\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Tennessee"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
@@ -446,8 +440,8 @@
     "name:pan_x_preferred":[
         "\u0a1f\u0a48\u0a28\u0a47\u0a38\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0646\u0633\u06cc"
+    "name:pap_x_preferred":[
+        "Tennessee"
     ],
     "name:pli_x_preferred":[
         "\u091f\u0947\u0928\u093f\u0938\u0940"
@@ -476,9 +470,6 @@
     "name:ron_x_preferred":[
         "Tennessee"
     ],
-    "name:rum_x_preferred":[
-        "Tennessee"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
     ],
@@ -497,13 +488,13 @@
     "name:sgs_x_preferred":[
         "Tenesis"
     ],
+    "name:sgs_x_variant":[
+        "Tenes\u0117s"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0dc3\u0dca\u0dc3\u0dda"
     ],
     "name:slk_x_preferred":[
-        "Tennessee"
-    ],
-    "name:slo_x_preferred":[
         "Tennessee"
     ],
     "name:slv_x_preferred":[
@@ -551,14 +542,14 @@
     "name:tel_x_preferred":[
         "\u0c1f\u0c47\u0c28\u0c38\u0c4d\u0c38\u0c40"
     ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u04e3"
+    ],
     "name:tgl_x_preferred":[
         "Tennessee"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e17\u0e19\u0e40\u0e19\u0e2a\u0e0b\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f50\u0f7a\u0f53\u0f0b\u0f53\u0f7a\u0f0b\u0f66\u0f72\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Tennessee"
@@ -569,7 +560,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tennesie"
     ],
     "name:urd_x_preferred":[
@@ -588,9 +579,6 @@
         "Tennessee"
     ],
     "name:war_x_preferred":[
-        "Tennessee"
-    ],
-    "name:wel_x_preferred":[
         "Tennessee"
     ],
     "name:xal_x_preferred":[
@@ -691,9 +679,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"109,153",
     "statoids:area_mi":"42,144",
     "statoids:as_of_date":"2010-04-01",
@@ -740,11 +728,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513870,
+    "wof:lastmodified":1581720567,
     "wof:name":"Tennessee",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6346105,
     "wof:population_rank":13,

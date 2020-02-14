@@ -15,8 +15,13 @@
     "itu:country_code":[
         "591"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-16.640652,
     "lbl:longitude":-64.661928,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-16.640652,
     "mps:longitude":-64.661928,
     "mz:hierarchy_label":1,
@@ -41,9 +46,6 @@
     "name:aka_x_preferred":[
         "Bolivia"
     ],
-    "name:alb_x_preferred":[
-        "Bolivia"
-    ],
     "name:als_x_preferred":[
         "Bolivien"
     ],
@@ -62,9 +64,6 @@
     "name:arg_x_variant":[
         "Bolibia"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u056c\u056b\u057e\u056b\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u0644\u064a\u0641\u064a\u0627"
     ],
@@ -73,6 +72,9 @@
     ],
     "name:aym_x_preferred":[
         "Wuliwya"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
     "name:aze_x_preferred":[
         "Boliviya"
@@ -85,9 +87,6 @@
     ],
     "name:bam_x_variant":[
         "Bolivi"
-    ],
-    "name:baq_x_preferred":[
-        "Bolivia"
     ],
     "name:bar_x_preferred":[
         "Bolivien"
@@ -131,9 +130,6 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u102d\u102f\u101c\u102e\u1038\u1017\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
     ],
@@ -158,11 +154,11 @@
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u73bb\u5229\u7dad\u4e9e"
-    ],
     "name:chr_x_preferred":[
         "\u13c9\u13b5\u13eb\u13a0"
+    ],
+    "name:chr_x_variant":[
+        "\u13c9\u13b5\u13eb\u13ef"
     ],
     "name:chv_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
@@ -185,9 +181,6 @@
     "name:cym_x_variant":[
         "Bolivia"
     ],
-    "name:cze_x_preferred":[
-        "Bol\u00edvie"
-    ],
     "name:dan_x_preferred":[
         "Bolivia"
     ],
@@ -208,9 +201,6 @@
     ],
     "name:dty_x_preferred":[
         "\u092c\u094b\u0932\u093f\u092d\u093f\u092f\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Bolivia"
     ],
     "name:dut_x_variant":[
         "Bolivi\u00eb"
@@ -271,9 +261,6 @@
     "name:fra_x_preferred":[
         "Bolivie"
     ],
-    "name:fre_x_preferred":[
-        "Bolivie"
-    ],
     "name:frp_x_preferred":[
         "Bolivie"
     ],
@@ -289,12 +276,6 @@
     "name:gag_x_preferred":[
         "Boliviya"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10da\u10d8\u10d5\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bolivien"
-    ],
     "name:gla_x_preferred":[
         "Boilibhia"
     ],
@@ -309,9 +290,6 @@
     ],
     "name:gom_x_preferred":[
         "\u092c\u094b\u0932\u093f\u0935\u094d\u0939\u093f\u092f\u093e"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03bf\u03bb\u03b9\u03b2\u03af\u03b1"
     ],
     "name:grn_x_preferred":[
         "Vol\u00edvia"
@@ -363,9 +341,6 @@
     ],
     "name:ibo_x_preferred":[
         "Bolivia"
-    ],
-    "name:ice_x_preferred":[
-        "B\u00f3liv\u00eda"
     ],
     "name:ido_x_preferred":[
         "Bolivia"
@@ -475,6 +450,9 @@
     "name:lez_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Bolivia"
+    ],
     "name:lij_x_preferred":[
         "Bolivia"
     ],
@@ -496,6 +474,9 @@
     "name:lrc_x_preferred":[
         "\u0628\u0648\u0659\u0644\u06cc\u06a4\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0628\u0648\u0644\u06cc\u0648\u06cc"
+    ],
     "name:ltg_x_preferred":[
         "Boliveja"
     ],
@@ -511,20 +492,11 @@
     "name:lzh_x_preferred":[
         "\u73bb\u5229\u7dad\u4e9e"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u043b\u0438\u0432\u0438\u0458\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4a\u0d33\u0d40\u0d35\u0d3f\u0d2f"
     ],
-    "name:mao_x_preferred":[
-        "Poriwia"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0932\u093f\u0935\u094d\u0939\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Bolivia"
     ],
     "name:mhr_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u0439"
@@ -559,11 +531,17 @@
     "name:mya_x_variant":[
         "\u1018\u102d\u102f\u101c\u102e\u1038\u1018\u102e\u1038\u101a\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
     "name:nah_x_preferred":[
         "Bolivtl\u0101n"
+    ],
+    "name:nah_x_variant":[
+        "Bolivia"
     ],
     "name:nan_x_preferred":[
         "Bolivia"
@@ -622,6 +600,9 @@
     "name:oss_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
     ],
+    "name:pag_x_preferred":[
+        "Bolivia"
+    ],
     "name:pam_x_preferred":[
         "Bolivia"
     ],
@@ -630,9 +611,6 @@
     ],
     "name:pap_x_preferred":[
         "Bolivia"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
     "name:pfl_x_preferred":[
         "Bolivje"
@@ -677,9 +655,6 @@
     "name:rue_x_preferred":[
         "\u0411\u043e\u043b\u0456\u0432\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Bolivia"
-    ],
     "name:run_x_preferred":[
         "Boliviya"
     ],
@@ -710,10 +685,10 @@
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dbd\u0dd3\u0dc0\u0dd2\u0dba\u0dcf\u0dc0"
     ],
-    "name:slk_x_preferred":[
-        "Bol\u00edvia"
+    "name:sin_x_variant":[
+        "\u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bol\u00edvia"
     ],
     "name:slv_x_preferred":[
@@ -727,6 +702,9 @@
     ],
     "name:sna_x_preferred":[
         "Bolivia"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0648\u0644\u064a\u0648\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Booliifiya"
@@ -799,9 +777,6 @@
     "name:tha_x_variant":[
         "\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0fb7\u0f7c\u0f0b\u0f63\u0f72\u0f0b\u0f5d\u0f72\u0f0b\u0f61\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u1266\u120a\u126a\u12eb"
     ],
@@ -817,15 +792,14 @@
     "name:tur_x_preferred":[
         "Bolivya"
     ],
+    "name:udm_x_preferred":[
+        "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0628\u0648\u0644\u0649\u06cb\u0649\u064a\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0456\u0432\u0456\u044f"
-    ],
-    "name:und_x_preferred":[
-        "Bolivija",
-        "B\u00f3liv\u00eda"
     ],
     "name:und_x_variant":[
         "Republika Bolivija"
@@ -849,6 +823,9 @@
         "B\u00f4-li-vi-a",
         "B\u00f4-li-vi-a (Bolivia)"
     ],
+    "name:vls_x_preferred":[
+        "Bolivi\u00eb"
+    ],
     "name:vol_x_preferred":[
         "Boliv\u00e4n"
     ],
@@ -857,9 +834,6 @@
     ],
     "name:war_x_preferred":[
         "Bolivia"
-    ],
-    "name:wel_x_preferred":[
-        "Bolifia"
     ],
     "name:wln_x_preferred":[
         "Boliveye"
@@ -901,8 +875,7 @@
         "\u73bb\u5229\u7dad\u4e9e"
     ],
     "name:zho_x_variant":[
-        "\u73bb\u5229\u7ef4\u4e9a",
-        "\u73bb\u5229\u7dad\u4e9e"
+        "\u73bb\u5229\u7ef4\u4e9a"
     ],
     "name:zho_yue_x_preferred":[
         "\u73bb\u5229\u7dad\u4e9e"
@@ -987,7 +960,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"591",
     "statoids:ds":"BOL",
@@ -1024,6 +997,7 @@
         "gn:id":3923057,
         "gp:id":23424762,
         "hasc:id":"BO",
+        "icao:code":"CP",
         "ioc:id":"BOL",
         "itu:id":"BOL",
         "loc:id":"n79066590",
@@ -1032,7 +1006,7 @@
         "mzb:id":"bolivia",
         "ne:adm0_a3":"BOL",
         "nyt:id":"66221089036343704001",
-        "qs:id":461343,
+        "qs_pg:id":461343,
         "uncrt:id":"BOL",
         "wd:id":"Q750",
         "wk:page":"Bolivia",
@@ -1048,9 +1022,6 @@
         }
     ],
     "wof:id":85632623,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -1061,7 +1032,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1578514160,
+    "wof:lastmodified":1566616022,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -14,20 +14,22 @@
     "geom:longitude":-76.687175,
     "iso:country":"US",
     "iso:subdivision":"US-MD",
-    "label:eng_us_x_preferred_longname":[
-        "Maryland"
-    ],
     "label:eng_x_preferred_longname":[
-        "Maryland State"
+        "Maryland"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Maryland"
+        "State of Maryland",
+        "Maryland State"
     ],
     "lbl:latitude":39.038828,
     "lbl:longitude":-76.346717,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.038828,
     "mps:longitude":-76.346717,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Maryland"
-    ],
-    "name:alb_x_preferred":[
         "Maryland"
     ],
     "name:amh_x_preferred":[
@@ -49,14 +48,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0631\u064a\u0644\u0646\u062f"
+    ],
     "name:arc_x_preferred":[
         "\u0721\u0710\u072a\u071d\u0720\u0710\u0722\u0715"
     ],
     "name:arg_x_preferred":[
         "Maryland"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u0580\u056b\u056c\u0565\u0576\u0564"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0644\u0627\u0646\u062f"
@@ -73,9 +72,6 @@
     "name:aze_x_preferred":[
         "Merilend"
     ],
-    "name:baq_x_preferred":[
-        "Maryland"
-    ],
     "name:bar_x_preferred":[
         "Maryland"
     ],
@@ -86,7 +82,8 @@
         "\u0428\u0442\u0430\u0442 \u041c\u044d\u0440\u044b\u043b\u0435\u043d\u0434"
     ],
     "name:bel_x_variant":[
-        "\u041c\u044d\u0440\u044b\u043b\u044d\u043d\u0434"
+        "\u041c\u044d\u0440\u044b\u043b\u044d\u043d\u0434",
+        "\u041c\u044d\u0440\u044b\u043b\u0435\u043d\u0434"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b0\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
@@ -112,9 +109,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1031\u101b\u102e\u101c\u1014\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
@@ -124,17 +118,20 @@
     "name:cdo_x_preferred":[
         "Maryland"
     ],
+    "name:ceb_x_preferred":[
+        "Maryland"
+    ],
     "name:ces_x_preferred":[
         "Maryland"
     ],
     "name:che_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u91cc\u5170\u5dde"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06ce\u0631\u06cc\u0644\u06d5\u0646\u062f"
+    ],
+    "name:ckb_x_variant":[
+        "\u0645\u06d5\u0631\u06cc\u0644\u06d5\u0646\u062f"
     ],
     "name:cor_x_preferred":[
         "Tir Maria"
@@ -143,9 +140,6 @@
         "Maryland"
     ],
     "name:cym_x_preferred":[
-        "Maryland"
-    ],
-    "name:cze_x_preferred":[
         "Maryland"
     ],
     "name:dan_x_preferred":[
@@ -157,11 +151,11 @@
     "name:diq_x_preferred":[
         "Maryland"
     ],
-    "name:dut_x_preferred":[
-        "Maryland"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03c1\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:eml_x_preferred":[
+        "Maryland"
     ],
     "name:eng_x_colloquial":[
         "Old Line State"
@@ -194,9 +188,6 @@
     "name:fra_x_preferred":[
         "Maryland"
     ],
-    "name:fre_x_preferred":[
-        "Maryland"
-    ],
     "name:frp_x_preferred":[
         "Maryland"
     ],
@@ -207,12 +198,6 @@
         "Maryl\u00e2n"
     ],
     "name:gag_x_preferred":[
-        "Maryland"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10e0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Maryland"
     ],
     "name:gla_x_preferred":[
@@ -226,9 +211,6 @@
     ],
     "name:glv_x_preferred":[
         "Maryland"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03c1\u03b9\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Maryland"
@@ -245,6 +227,9 @@
     "name:hat_x_preferred":[
         "Merilann"
     ],
+    "name:hau_x_preferred":[
+        "Maryland"
+    ],
     "name:haw_x_preferred":[
         "Melelana"
     ],
@@ -260,6 +245,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0948\u0930\u093f\u0932\u0948\u0923\u094d\u0921"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u0948\u0930\u0940\u0932\u0948\u0902\u0921"
+    ],
     "name:hrv_x_preferred":[
         "Maryland"
     ],
@@ -271,9 +259,6 @@
     ],
     "name:ibo_x_preferred":[
         "M\u00e9r\u00edl\u1ea1nd"
-    ],
-    "name:ice_x_preferred":[
-        "Maryland"
     ],
     "name:ido_x_preferred":[
         "Maryland"
@@ -323,8 +308,14 @@
     "name:kaz_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
+    "name:kbp_x_preferred":[
+        "Mariland\u0269"
+    ],
     "name:kor_x_preferred":[
         "\uba54\ub9b4\ub79c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub9b4\ub79c\ub4dc\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Maryland"
@@ -337,6 +328,9 @@
     ],
     "name:lav_x_preferred":[
         "M\u0113rilenda"
+    ],
+    "name:lfn_x_preferred":[
+        "Maryland"
     ],
     "name:lij_x_preferred":[
         "Maryland"
@@ -356,20 +350,17 @@
     "name:ltz_x_preferred":[
         "Maryland"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u0440\u0438\u043b\u0435\u043d\u0434"
+    "name:lzh_x_preferred":[
+        "\u99ac\u91cc\u862d\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0947\u0930\u093f\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d46\u0d30\u0d3f\u0d32\u0d3e\u0d7b\u200c\u0d21\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Maryland"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0930\u0940\u0932\u0901\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Maryland"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
@@ -410,11 +401,17 @@
     "name:nav_x_preferred":[
         "M\u00e9elin Hahoodzo"
     ],
+    "name:nav_x_variant":[
+        "T\u00f3bin\u00eddahaazy\u00edn\u00ed Hahoodzo"
+    ],
     "name:nds_x_preferred":[
         "Maryland"
     ],
     "name:nep_x_preferred":[
         "\u092e\u0947\u0930\u093f\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
+    ],
+    "name:nep_x_variant":[
+        "\u092e\u0947\u0930\u093f\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:new_x_preferred":[
         "\u092e\u0947\u0930\u093f\u0932\u094d\u092f\u093e\u0928\u094d\u0926"
@@ -443,9 +440,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a48\u0a30\u0a40\u0a32\u0a48\u0a02\u0a21"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u06cc\u0644\u0646\u062f"
-    ],
     "name:pli_x_preferred":[
         "\u092e\u0947\u0930\u0940\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
@@ -470,9 +464,6 @@
     "name:ron_x_preferred":[
         "Maryland"
     ],
-    "name:rum_x_preferred":[
-        "Maryland"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
@@ -481,6 +472,9 @@
     ],
     "name:san_x_preferred":[
         "\u092e\u0947\u0930\u093f\u0932\u0948\u0923\u094d\u0921"
+    ],
+    "name:san_x_variant":[
+        "\u092e\u0947\u0930\u093f\u0932\u0948\u0902\u0921"
     ],
     "name:scn_x_preferred":[
         "Maryland"
@@ -495,9 +489,6 @@
         "\u0db8\u0dda\u0dbb\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Maryland"
-    ],
-    "name:slo_x_preferred":[
         "Maryland"
     ],
     "name:slv_x_preferred":[
@@ -539,6 +530,9 @@
     "name:tat_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
     ],
+    "name:tat_x_variant":[
+        "\u041c\u0435\u0440\u0438\u043b\u0435\u043d\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c47\u0c30\u0c40\u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d"
     ],
@@ -547,9 +541,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e41\u0e21\u0e23\u0e34\u0e41\u0e25\u0e19\u0e14\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f62\u0f72\u0f66\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f4c\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Maryland"
@@ -560,7 +551,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merriland"
     ],
     "name:urd_x_preferred":[
@@ -581,11 +572,14 @@
     "name:war_x_preferred":[
         "Maryland"
     ],
-    "name:wel_x_preferred":[
-        "Maryland"
+    "name:wuu_x_preferred":[
+        "\u9a6c\u91cc\u5170\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041c\u044d\u0440\u0438\u043b\u044d\u043d\u0434"
+    ],
+    "name:xho_x_preferred":[
+        "IMarilandi"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d4\u10e0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
@@ -682,9 +676,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"27,091",
     "statoids:area_mi":"10,460",
     "statoids:as_of_date":"2010-04-01",
@@ -730,11 +724,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514074,
+    "wof:lastmodified":1581720746,
     "wof:name":"Maryland",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":5773552,
     "wof:population_rank":13,

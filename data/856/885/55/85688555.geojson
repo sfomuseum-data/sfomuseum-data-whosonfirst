@@ -14,20 +14,22 @@
     "geom:longitude":-98.380161,
     "iso:country":"US",
     "iso:subdivision":"US-KS",
-    "label:eng_us_x_preferred_longname":[
-        "Kansas"
-    ],
     "label:eng_x_preferred_longname":[
-        "Kansas State"
+        "Kansas"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KS"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Kansas"
+        "State of Kansas",
+        "Kansas State"
     ],
     "lbl:latitude":38.500327,
     "lbl:longitude":-98.380429,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.500327,
     "mps:longitude":-98.380429,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Kansas"
-    ],
-    "name:alb_x_preferred":[
         "Kansas"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Kansas"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0576\u0566\u0561\u057d"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0646\u0633\u0627\u0633"
@@ -75,9 +71,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
-    ],
-    "name:baq_x_preferred":[
-        "Kansas"
     ],
     "name:bar_x_preferred":[
         "Kansas"
@@ -115,9 +108,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u1014\u103a\u1038\u1006\u1015\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
     ],
@@ -127,14 +117,14 @@
     "name:cdo_x_preferred":[
         "Kansas"
     ],
+    "name:ceb_x_preferred":[
+        "Kansas"
+    ],
     "name:ces_x_preferred":[
         "Kansas"
     ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u582a\u85a9\u65af\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
@@ -145,6 +135,9 @@
     "name:ckb_x_preferred":[
         "\u06a9\u0627\u0646\u0632\u0627\u0633"
     ],
+    "name:ckb_x_variant":[
+        "\u06a9\u0627\u0646\u0633\u0627\u0633"
+    ],
     "name:cor_x_preferred":[
         "Kansas"
     ],
@@ -152,9 +145,6 @@
         "Kansas"
     ],
     "name:cym_x_preferred":[
-        "Kansas"
-    ],
-    "name:cze_x_preferred":[
         "Kansas"
     ],
     "name:dan_x_preferred":[
@@ -166,11 +156,11 @@
     "name:diq_x_preferred":[
         "Kansas"
     ],
-    "name:dut_x_preferred":[
-        "Kansas"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03bd\u03c3\u03b1\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "K\u00e0nsas"
     ],
     "name:eng_x_colloquial":[
         "Sunflower State"
@@ -203,9 +193,6 @@
     "name:fra_x_preferred":[
         "Kansas"
     ],
-    "name:fre_x_preferred":[
-        "Kansas"
-    ],
     "name:frp_x_preferred":[
         "Kansas"
     ],
@@ -216,12 +203,6 @@
         "Kansas"
     ],
     "name:gag_x_preferred":[
-        "Kansas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d6\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kansas"
     ],
     "name:gla_x_preferred":[
@@ -236,9 +217,6 @@
     "name:glv_x_preferred":[
         "Kansas"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bd\u03c3\u03b1\u03c2"
-    ],
     "name:grn_x_preferred":[
         "Kansas"
     ],
@@ -248,11 +226,17 @@
     "name:hak_x_preferred":[
         "Kh\u00e2m-sat-s\u1e73\u0302"
     ],
+    "name:hak_x_variant":[
+        "Kansas"
+    ],
     "name:hat_x_preferred":[
         "Kannzas"
     ],
     "name:hat_x_variant":[
         "K\u00e8nsas"
+    ],
+    "name:hau_x_preferred":[
+        "Kansas"
     ],
     "name:haw_x_preferred":[
         "Kanekaka"
@@ -283,9 +267,6 @@
     ],
     "name:ibo_x_preferred":[
         "K\u00e1nz\u1ea1s"
-    ],
-    "name:ice_x_preferred":[
-        "Kansas"
     ],
     "name:ido_x_preferred":[
         "Kansas"
@@ -335,8 +316,14 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
     ],
+    "name:kbp_x_preferred":[
+        "Kanzasii"
+    ],
     "name:kor_x_preferred":[
         "\uce94\uc790\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce94\uc790\uc2a4\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Kansas"
@@ -352,6 +339,9 @@
     ],
     "name:lav_x_preferred":[
         "Kanzasa"
+    ],
+    "name:lfn_x_preferred":[
+        "Kansas"
     ],
     "name:lij_x_preferred":[
         "Kansas"
@@ -371,20 +361,17 @@
     "name:ltz_x_preferred":[
         "Kansas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043d\u0437\u0430\u0441"
+    "name:lzh_x_preferred":[
+        "\u582a\u85a9\u65af\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0928\u094d\u0938\u093e\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3e\u0d7b\u0d38\u0d38\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Kansas"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u094d\u0938\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Kansas"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
@@ -461,8 +448,8 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a3e\u0a02\u0a38\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0646\u0632\u0627\u0633"
+    "name:pap_x_preferred":[
+        "Kansas"
     ],
     "name:pli_x_preferred":[
         "\u0915\u093e\u0928\u094d\u0938\u093e\u0938\u094d"
@@ -482,6 +469,9 @@
     "name:por_x_variant":[
         "Cansas"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0627\u0646\u0632\u0627\u0633"
+    ],
     "name:que_x_preferred":[
         "Kansas suyu"
     ],
@@ -489,9 +479,6 @@
         "Kansas"
     ],
     "name:ron_x_preferred":[
-        "Kansas"
-    ],
-    "name:rum_x_preferred":[
         "Kansas"
     ],
     "name:rus_x_preferred":[
@@ -518,9 +505,6 @@
     "name:slk_x_preferred":[
         "Kansas"
     ],
-    "name:slo_x_preferred":[
-        "Kansas"
-    ],
     "name:slv_x_preferred":[
         "Kansas"
     ],
@@ -535,6 +519,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kanzas"
+    ],
+    "name:sqi_x_variant":[
+        "Kansas"
     ],
     "name:srd_x_preferred":[
         "Kansas"
@@ -572,9 +559,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e41\u0e04\u0e19\u0e0b\u0e31\u0e2a"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f53\u0f0b\u0f66\u0f71\u0f0b\u0f66\u0f72\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Kansas"
     ],
@@ -584,7 +568,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0437\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konzas"
     ],
     "name:urd_x_preferred":[
@@ -602,11 +586,14 @@
     "name:war_x_preferred":[
         "Kansas"
     ],
-    "name:wel_x_preferred":[
-        "Kansas"
+    "name:wuu_x_preferred":[
+        "\u582a\u8428\u65af\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041a\u0430\u0430\u043d\u0437\u0441"
+    ],
+    "name:xho_x_preferred":[
+        "IKhanzasi"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10dc\u10d6\u10d0\u10e1\u10d8"
@@ -619,6 +606,12 @@
     ],
     "name:yue_x_preferred":[
         "\u5e72\u6c99\u5dde"
+    ],
+    "name:yue_x_variant":[
+        "\u5e72\u6c99\u7701"
+    ],
+    "name:zea_x_preferred":[
+        "Kansas"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kansas"
@@ -700,9 +693,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"213,097",
     "statoids:area_mi":"82,277",
     "statoids:as_of_date":"2010-04-01",
@@ -749,11 +742,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514076,
+    "wof:lastmodified":1581720747,
     "wof:name":"Kansas",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2853118,
     "wof:population_rank":12,

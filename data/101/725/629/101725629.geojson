@@ -14,15 +14,14 @@
     "iso:country":"US",
     "lbl:latitude":29.784753,
     "lbl:longitude":-95.361416,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":29.784753,
     "mps:longitude":-95.361416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":3.0,
     "name:afr_x_preferred":[
-        "Houston"
-    ],
-    "name:alb_x_preferred":[
         "Houston"
     ],
     "name:amh_x_preferred":[
@@ -33,9 +32,6 @@
     ],
     "name:arg_x_preferred":[
         "Houston"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u057f\u0578\u0576"
     ],
     "name:ast_x_preferred":[
         "Houston"
@@ -49,7 +45,7 @@
     "name:aze_x_preferred":[
         "Hyuston"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Houston"
     ],
     "name:bar_x_preferred":[
@@ -57,6 +53,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u044e\u0441\u0442\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0425'\u044e\u0441\u0442\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0989\u09b8\u09cd\u099f\u09a8"
@@ -70,10 +69,10 @@
     "name:bul_x_preferred":[
         "\u0425\u044e\u0441\u0442\u044a\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101f\u1030\u1005\u1010\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
+        "Houston"
+    ],
+    "name:ceb_x_preferred":[
         "Houston"
     ],
     "name:ces_x_preferred":[
@@ -82,25 +81,22 @@
     "name:che_x_preferred":[
         "\u0425\u044c\u044e\u0441\u0442\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u4f11\u65af\u6566"
-    ],
     "name:ckb_x_preferred":[
         "\u06be\u06cc\u0648\u0648\u0633\u062a\u0646"
     ],
     "name:cor_x_preferred":[
         "Houston"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Houston"
     ],
     "name:dan_x_preferred":[
         "Houston"
     ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "Houston"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Houston"
     ],
     "name:ell_x_preferred":[
@@ -158,20 +154,11 @@
     "name:fra_x_preferred":[
         "Houston"
     ],
-    "name:fre_x_preferred":[
-        "Houston"
-    ],
     "name:fry_x_preferred":[
         "Houston"
     ],
     "name:gan_x_preferred":[
         "\u4f11\u65af\u9813"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d8\u10e3\u10e1\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Houston"
     ],
     "name:gla_x_preferred":[
         "Houston"
@@ -185,9 +172,6 @@
     "name:glv_x_preferred":[
         "Houston"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03bf\u03cd\u03c3\u03c4\u03bf\u03bd"
-    ],
     "name:gsw_x_preferred":[
         "Houston"
     ],
@@ -197,7 +181,13 @@
     "name:hak_x_preferred":[
         "Hi\u00fb-s\u1e73\u0302-t\u00fbn"
     ],
+    "name:hak_x_variant":[
+        "Houston"
+    ],
     "name:hat_x_preferred":[
+        "Houston"
+    ],
+    "name:hau_x_preferred":[
         "Houston"
     ],
     "name:haw_x_preferred":[
@@ -218,9 +208,6 @@
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u057f\u0578\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Houston"
-    ],
     "name:ido_x_preferred":[
         "Houston"
     ],
@@ -240,6 +227,9 @@
         "Houston"
     ],
     "name:ita_x_preferred":[
+        "Houston"
+    ],
+    "name:jav_x_preferred":[
         "Houston"
     ],
     "name:jpn_x_preferred":[
@@ -275,6 +265,9 @@
     "name:lav_x_preferred":[
         "Hj\u016bstona"
     ],
+    "name:lim_x_preferred":[
+        "Houston"
+    ],
     "name:lit_x_preferred":[
         "Hiustonas"
     ],
@@ -284,9 +277,6 @@
     "name:ltz_x_preferred":[
         "Houston"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0458\u0443\u0441\u0442\u043e\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u0939\u094d\u092f\u0941\u0938\u094d\u091f\u0928"
     ],
@@ -295,9 +285,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0939\u094d\u092f\u0941\u0938\u094d\u091f\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Houston"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0458\u0443\u0441\u0442\u043e\u043d"
@@ -311,6 +298,9 @@
     "name:mrj_x_preferred":[
         "\u0425\u044c\u044e\u0441\u0442\u043e\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Houston"
+    ],
     "name:mya_x_preferred":[
         "\u101f\u1030\u1005\u1010\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -318,6 +308,9 @@
         "Houston"
     ],
     "name:nan_x_preferred":[
+        "Houston"
+    ],
+    "name:nds_x_preferred":[
         "Houston"
     ],
     "name:nep_x_preferred":[
@@ -347,8 +340,8 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a42\u0a38\u0a1f\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0648\u0633\u062a\u0648\u0646"
+    "name:pap_x_preferred":[
+        "Houston"
     ],
     "name:pms_x_preferred":[
         "Houston"
@@ -371,9 +364,6 @@
     "name:ron_x_preferred":[
         "Houston"
     ],
-    "name:rum_x_preferred":[
-        "Houston"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u044c\u044e\u0441\u0442\u043e\u043d"
     ],
@@ -392,9 +382,6 @@
     "name:slk_x_preferred":[
         "Houston"
     ],
-    "name:slo_x_preferred":[
-        "Houston"
-    ],
     "name:slv_x_preferred":[
         "Houston"
     ],
@@ -402,6 +389,9 @@
         "Houston"
     ],
     "name:spa_x_preferred":[
+        "Houston"
+    ],
+    "name:sqi_x_preferred":[
         "Houston"
     ],
     "name:srd_x_preferred":[
@@ -431,6 +421,9 @@
     "name:tat_x_preferred":[
         "Hyuston"
     ],
+    "name:tat_x_variant":[
+        "\u04ba\u044c\u044e\u0441\u0442\u043e\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4d\u0c2f\u0c42\u0c38\u0c4d\u0c1f\u0c28\u0c4d"
     ],
@@ -458,14 +451,23 @@
     "name:ukr_x_preferred":[
         "\u0425\u044e\u0441\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:ukr_x_variant":[
+        "\u0425'\u044e\u0441\u0442\u043e\u043d"
+    ],
+    "name:und_x_variant":[
         "Houston City"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0648\u0633\u0679\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u06c1\u0648\u0633\u0679\u0646"
+    ],
     "name:uzb_x_preferred":[
         "Hyuston"
+    ],
+    "name:uzb_x_variant":[
+        "Xyuston"
     ],
     "name:vep_x_preferred":[
         "Hjuston"
@@ -479,11 +481,11 @@
     "name:war_x_preferred":[
         "Houston"
     ],
-    "name:wel_x_preferred":[
-        "Houston"
-    ],
     "name:xmf_x_preferred":[
         "\u10f0\u10d8\u10e3\u10e1\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:xmf_x_variant":[
+        "\u10f0\u10d8\u10e3\u10e1\u10d7\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05d9\u05d5\u05e1\u05d8\u05df"
@@ -608,7 +610,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":13.0,
     "wd:latitude":29.762778,
@@ -631,7 +633,6 @@
         "gp:id":2424766,
         "loc:id":"n79049234",
         "nyt:id":"N79469406486204041091",
-        "qs:id":821610,
         "qs_pg:id":821610,
         "wd:id":"Q16555",
         "wk:page":"Houston"
@@ -651,7 +652,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1578514195,
+    "wof:lastmodified":1581720866,
     "wof:megacity":1,
     "wof:name":"Houston",
     "wof:parent_id":102081111,

@@ -14,20 +14,22 @@
     "geom:longitude":-75.596537,
     "iso:country":"US",
     "iso:subdivision":"US-NY",
-    "label:eng_us_x_preferred_longname":[
-        "New York"
-    ],
     "label:eng_x_preferred_longname":[
-        "New York State"
+        "New York"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NY"
+    ],
     "label:eng_x_variant_longname":[
-        "State of New York"
+        "State of New York",
+        "New York State"
     ],
     "lbl:latitude":43.408777,
     "lbl:longitude":-74.871618,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.408777,
     "mps:longitude":-74.871618,
     "mz:hierarchy_label":1,
@@ -37,14 +39,14 @@
     "name:afr_x_preferred":[
         "New York"
     ],
-    "name:alb_x_preferred":[
-        "New York"
-    ],
     "name:amh_x_preferred":[
         "\u1292\u12cd \u12ee\u122d\u12ad"
     ],
     "name:ang_x_preferred":[
         "N\u012bwe Eoforw\u012bc"
+    ],
+    "name:ang_x_variant":[
+        "N\u012bwe Eoforwic"
     ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u064a\u0648\u0631\u0643"
@@ -55,9 +57,6 @@
     "name:arg_x_preferred":[
         "Nueva York"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0575\u0578\u0582 \u0545\u0578\u0580\u0584"
-    ],
     "name:arz_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u0648\u064a\u0648\u0631\u0643"
     ],
@@ -67,14 +66,17 @@
     "name:aym_x_preferred":[
         "New York suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Nyu-York"
     ],
+    "name:aze_x_variant":[
+        "Nyu York"
+    ],
     "name:bak_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "New York"
     ],
     "name:bar_x_preferred":[
         "New York"
@@ -84,6 +86,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041d\u044c\u044e-\u0401\u0440\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u044c\u044e-\u0401\u0440\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u0987\u09af\u09bc\u09b0\u09cd\u0995"
@@ -109,9 +114,6 @@
     "name:bul_x_preferred":[
         "\u041d\u044e \u0419\u043e\u0440\u043a"
     ],
-    "name:bur_x_preferred":[
-        "\u1014\u101a\u1030\u1038\u101a\u1031\u102c\u1000\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
     ],
@@ -124,14 +126,17 @@
     "name:cdo_x_preferred":[
         "Ni\u016b-i\u00f3k-ci\u016d"
     ],
+    "name:cdo_x_variant":[
+        "New York"
+    ],
+    "name:ceb_x_preferred":[
+        "New York"
+    ],
     "name:ces_x_preferred":[
         "New York"
     ],
     "name:che_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u7ebd\u7ea6\u5dde"
     ],
     "name:chr_x_preferred":[
         "\u13c4\u13ef\u13a9"
@@ -154,9 +159,6 @@
     "name:cym_x_preferred":[
         "Efrog Newydd"
     ],
-    "name:cze_x_preferred":[
-        "New York"
-    ],
     "name:dan_x_preferred":[
         "New York"
     ],
@@ -169,11 +171,11 @@
     "name:diq_x_preferred":[
         "New York"
     ],
-    "name:dut_x_preferred":[
-        "New York"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7"
+    ],
+    "name:eml_x_preferred":[
+        "New York"
     ],
     "name:eng_x_preferred":[
         "New York"
@@ -189,11 +191,17 @@
     "name:est_x_preferred":[
         "New Yorgi osariik"
     ],
+    "name:eus_x_preferred":[
+        "New York"
+    ],
     "name:fao_x_preferred":[
         "New York"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9"
     ],
     "name:fin_x_preferred":[
         "New York"
@@ -203,9 +211,6 @@
     ],
     "name:fra_x_variant":[
         "New York"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de New York"
     ],
     "name:frp_x_preferred":[
         "New York"
@@ -217,12 +222,6 @@
         "New York"
     ],
     "name:gag_x_preferred":[
-        "New York"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e3-\u10d8\u10dd\u10e0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "New York"
     ],
     "name:gla_x_preferred":[
@@ -240,9 +239,6 @@
     "name:glv_x_preferred":[
         "York Noa"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7"
-    ],
     "name:grn_x_preferred":[
         "Pyahu Iork"
     ],
@@ -255,8 +251,14 @@
     "name:hak_x_preferred":[
         "N\u00e9u-yok-ch\u00fb"
     ],
+    "name:hak_x_variant":[
+        "New York"
+    ],
     "name:hat_x_preferred":[
         "Nou Y\u00f2k"
+    ],
+    "name:hau_x_preferred":[
+        "New York"
     ],
     "name:haw_x_preferred":[
         "Nuioka"
@@ -282,17 +284,20 @@
     "name:hye_x_preferred":[
         "\u0546\u0575\u0578\u0582 \u0545\u0578\u0580\u0584"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u0582 \u0535\u0578\u0580\u0584"
+    ],
     "name:ibo_x_preferred":[
         "N\u00fa Y\u1ecdk"
-    ],
-    "name:ice_x_preferred":[
-        "New York-fylki"
     ],
     "name:ido_x_preferred":[
         "Nova-York"
     ],
     "name:iku_x_preferred":[
         "\u14c2\u1405 \u1403\u1405\u1550\u1483"
+    ],
+    "name:ile_x_preferred":[
+        "New York"
     ],
     "name:ilo_x_preferred":[
         "New York"
@@ -321,6 +326,9 @@
     "name:jbo_x_preferred":[
         "niu"
     ],
+    "name:jbo_x_variant":[
+        "niu,IORK"
+    ],
     "name:jpn_x_preferred":[
         "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde"
     ],
@@ -336,14 +344,23 @@
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e3-\u10d8\u10dd\u10e0\u10d9\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d8\u10e3-\u10d8\u10dd\u10e0\u10d9\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+    ],
+    "name:kbp_x_preferred":[
+        "Niwu Y\u0254rk\u0269"
     ],
     "name:khm_x_preferred":[
         "\u1789\u17bc\u179c\u1799\u17c9\u1780"
     ],
     "name:kor_x_preferred":[
         "\ub274\uc695 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub274\uc695\uc8fc"
     ],
     "name:kur_x_preferred":[
         "New York"
@@ -359,6 +376,9 @@
     ],
     "name:lav_x_preferred":[
         "\u0145ujorka"
+    ],
+    "name:lfn_x_preferred":[
+        "New York"
     ],
     "name:lij_x_preferred":[
         "Niorche"
@@ -378,20 +398,17 @@
     "name:ltz_x_preferred":[
         "New York"
     ],
-    "name:mac_x_preferred":[
-        "\u040a\u0443\u0458\u043e\u0440\u043a"
+    "name:lzh_x_preferred":[
+        "\u7d10\u7d04\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u094d\u092f\u0942 \u092f\u094b\u0930\u094d\u0915"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d4d\u0d2f\u0d42\u0d2f\u0d4b\u0d7c\u0d15\u0d4d\u0d15\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "New York"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u092f\u0949\u0930\u094d\u0915"
-    ],
-    "name:may_x_preferred":[
-        "New York"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
@@ -401,6 +418,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u041c\u0443\u0436 \u0423\u043b\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "New York"
     ],
     "name:mrj_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
@@ -416,6 +436,9 @@
     ],
     "name:nah_x_preferred":[
         "Yancuic York"
+    ],
+    "name:nah_x_variant":[
+        "Yancu\u012bc York"
     ],
     "name:nan_x_preferred":[
         "New York"
@@ -459,11 +482,14 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a3f\u0a0a \u0a2f\u0a3e\u0a30\u0a15"
     ],
+    "name:pan_x_variant":[
+        "\u0a28\u0a3f\u0a0a\u0a2f\u0a3e\u0a30\u0a15"
+    ],
     "name:pap_x_preferred":[
         "New York"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9"
+    "name:pdc_x_preferred":[
+        "Nei Yarrick"
     ],
     "name:pfl_x_preferred":[
         "Nju Yoorg"
@@ -495,8 +521,8 @@
     "name:ron_x_preferred":[
         "New York"
     ],
-    "name:rum_x_preferred":[
-        "New York"
+    "name:rue_x_preferred":[
+        "\u041d\u044e \u0419\u043e\u0440\u043a"
     ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
@@ -519,10 +545,10 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dc0\u0dca\u0dba\u0ddd\u0d9a\u0dca"
     ],
-    "name:slk_x_preferred":[
-        "New York"
+    "name:sin_x_variant":[
+        "\u0db1\u0dd2\u0dc0\u0dca\u0dba\u0ddd\u0dbb\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "New York"
     ],
     "name:slv_x_preferred":[
@@ -536,6 +562,9 @@
     ],
     "name:snd_x_preferred":[
         "\u0646\u064a\u0648 \u064a\u0627\u0631\u06aa"
+    ],
+    "name:som_x_preferred":[
+        "New York"
     ],
     "name:spa_x_preferred":[
         "Nueva York"
@@ -553,6 +582,9 @@
         "\u040a\u0443\u0458\u043e\u0440\u043a"
     ],
     "name:stq_x_preferred":[
+        "New York"
+    ],
+    "name:sun_x_preferred":[
         "New York"
     ],
     "name:swa_x_preferred":[
@@ -594,8 +626,8 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
     ],
-    "name:unk_x_variant":[
-        "Nova York"
+    "name:ukr_x_variant":[
+        "\u0448\u0442\u0430\u0442 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648\u06cc\u0627\u0631\u06a9"
@@ -609,6 +641,9 @@
     "name:vie_x_preferred":[
         "Ti\u1ec3u bang New York"
     ],
+    "name:vie_x_variant":[
+        "New York"
+    ],
     "name:vls_x_preferred":[
         "New York"
     ],
@@ -618,14 +653,17 @@
     "name:war_x_preferred":[
         "Nueva York"
     ],
-    "name:wel_x_preferred":[
-        "Efrog Newydd"
+    "name:war_x_variant":[
+        "New York"
     ],
     "name:wuu_x_preferred":[
         "\u7ebd\u7ea6\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u0428\u0438\u043d \u0419\u043e\u0440\u043a"
+    ],
+    "name:xho_x_preferred":[
+        "INyuyokhu"
     ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d8\u10e3-\u10d8\u10dd\u10e0\u10d9\u10d8\u10e8 \u10e8\u10e2\u10d0\u10e2\u10d8"
@@ -638,6 +676,9 @@
     ],
     "name:yue_x_preferred":[
         "\u7d10\u7d04\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "New York"
     ],
     "name:zho_x_preferred":[
         "\u7ebd\u7ea6\u5dde"
@@ -716,9 +757,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"127,190",
     "statoids:area_mi":"49,108",
     "statoids:as_of_date":"2010-04-01",
@@ -764,11 +805,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514073,
+    "wof:lastmodified":1581720745,
     "wof:name":"New York",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":19378102,
     "wof:population_rank":14,

@@ -1,0 +1,58 @@
+{
+  "id": 1528104601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3448.94394,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":0.0,
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
+    "src:geom":"nullisland",
+    "wof:belongsto":[
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "icao:code":"ZZZZ"
+    },
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "campus_id":1528104601,
+            "country_id":1
+        }
+    ],
+    "wof:id":1528104601,
+    "wof:lastmodified":1581720861,
+    "wof:name":"Null Airport",
+    "wof:parent_id":1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

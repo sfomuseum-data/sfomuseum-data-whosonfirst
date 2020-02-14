@@ -14,20 +14,22 @@
     "geom:longitude":-91.814093,
     "iso:country":"US",
     "iso:subdivision":"US-LA",
-    "label:eng_us_x_preferred_longname":[
-        "Louisiana"
-    ],
     "label:eng_x_preferred_longname":[
-        "Louisiana State"
+        "Louisiana"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Louisiana"
+        "State of Louisiana",
+        "Louisiana State"
     ],
     "lbl:latitude":30.542601,
     "lbl:longitude":-92.51441,
+    "lbl:min_zoom":8.0,
     "mps:latitude":30.542601,
     "mps:longitude":-92.51441,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Louisiana"
-    ],
-    "name:alb_x_preferred":[
         "Louisiana"
     ],
     "name:amh_x_preferred":[
@@ -51,9 +50,6 @@
     ],
     "name:arg_x_preferred":[
         "Loisiana"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u056b\u0566\u056b\u0561\u0576\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0644\u0648\u064a\u0632\u064a\u0627\u0646\u0627"
@@ -70,9 +66,6 @@
     "name:aze_x_preferred":[
         "Luiziana"
     ],
-    "name:baq_x_preferred":[
-        "Louisiana"
-    ],
     "name:bar_x_preferred":[
         "Louisiana"
     ],
@@ -83,7 +76,8 @@
         "\u0428\u0442\u0430\u0442 \u041b\u0443\u0456\u0437\u0456\u044f\u043d\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0443\u0456\u0437\u044b\u044f\u043d\u0430"
+        "\u041b\u0443\u0456\u0437\u044b\u044f\u043d\u0430",
+        "\u041b\u0443\u0456\u0437\u0456\u044f\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0987\u099c\u09bf\u09af\u09bc\u09be\u09a8\u09be"
@@ -109,9 +103,6 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u101c\u1030\u101d\u102e\u1005\u102e\u101a\u102c\u1038\u1014\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
     ],
@@ -121,20 +112,23 @@
     "name:cdo_x_preferred":[
         "Louisiana"
     ],
+    "name:ceb_x_preferred":[
+        "Louisiana"
+    ],
     "name:ces_x_preferred":[
         "Louisiana"
     ],
     "name:che_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0644\u0648\u06cc\u0632\u06cc\u0627\u0646\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0644\u0648\u0648\u0626\u06cc\u0632\u06cc\u0627\u0646\u0627"
     ],
     "name:cor_x_preferred":[
         "Louisiana"
@@ -143,9 +137,6 @@
         "Luisiana"
     ],
     "name:cym_x_preferred":[
-        "Louisiana"
-    ],
-    "name:cze_x_preferred":[
         "Louisiana"
     ],
     "name:dan_x_preferred":[
@@ -157,11 +148,11 @@
     "name:diq_x_preferred":[
         "Louisiana"
     ],
-    "name:dut_x_preferred":[
-        "Louisiana"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Lui\u015bi\u00e0na"
     ],
     "name:eng_x_colloquial":[
         "Pelican State"
@@ -197,9 +188,6 @@
     "name:fra_x_preferred":[
         "Louisiane"
     ],
-    "name:fre_x_preferred":[
-        "Louisiane"
-    ],
     "name:frp_x_preferred":[
         "Louisiana"
     ],
@@ -210,12 +198,6 @@
         "Louisiana"
     ],
     "name:gag_x_preferred":[
-        "Louisiana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10d8\u10d6\u10d8\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Louisiana"
     ],
     "name:gla_x_preferred":[
@@ -230,8 +212,8 @@
     "name:glv_x_preferred":[
         "Louisiana"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+    "name:got_x_preferred":[
+        "\ud800\udf3b\ud800\udf3f\ud800\udf34\ud800\udf39\ud800\udf43\ud800\udf39\ud800\udf30\ud800\udf3d\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Luisiana"
@@ -242,8 +224,14 @@
     "name:hak_x_preferred":[
         "Lu-yi-s\u1e73\u0302-\u00f4n-n\u00e1"
     ],
+    "name:hak_x_variant":[
+        "Louisiana"
+    ],
     "name:hat_x_preferred":[
         "Lwiziana"
+    ],
+    "name:hau_x_preferred":[
+        "Louisiana"
     ],
     "name:haw_x_preferred":[
         "Luikiana"
@@ -263,6 +251,9 @@
     "name:hrv_x_preferred":[
         "Louisiana"
     ],
+    "name:hsb_x_preferred":[
+        "Louisiana"
+    ],
     "name:hun_x_preferred":[
         "Louisiana"
     ],
@@ -271,9 +262,6 @@
     ],
     "name:ibo_x_preferred":[
         "Luwisi\u00e1n\u00e0"
-    ],
-    "name:ice_x_preferred":[
-        "Louisiana"
     ],
     "name:ido_x_preferred":[
         "Louisiana"
@@ -320,8 +308,14 @@
     "name:kaz_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Luwiiziyaaana"
+    ],
     "name:kor_x_preferred":[
         "\ub8e8\uc774\uc9c0\uc560\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc774\uc9c0\uc560\ub098\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Louisiana"
@@ -334,6 +328,9 @@
     ],
     "name:lav_x_preferred":[
         "Luizi\u0101na"
+    ],
+    "name:lfn_x_preferred":[
+        "Louisiana"
     ],
     "name:lij_x_preferred":[
         "Louisiann-a"
@@ -350,23 +347,23 @@
     "name:lrc_x_preferred":[
         "\u0644\u0648\u0659\u0626\u06cc\u0632\u06cc\u0627\u0646\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u0644\u0648\u0626\u06cc\u0632\u06cc\u0627\u0646\u0627"
+    ],
     "name:ltz_x_preferred":[
         "Louisiana"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0443\u0438\u0437\u0438\u0458\u0430\u043d\u0430"
+    "name:lzh_x_preferred":[
+        "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0941\u091c\u093f\u092f\u093e\u0928\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d41\u0d2f\u0d40\u0d38\u0d3f\u0d2f\u0d3e\u0d28"
     ],
-    "name:mao_x_preferred":[
-        "Louisiana"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0908\u091d\u093f\u092f\u093e\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Louisiana"
     ],
     "name:mhr_x_preferred":[
         "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0435"
@@ -416,6 +413,9 @@
     "name:nep_x_preferred":[
         "\u0932\u0941\u0907\u091c\u093f\u092f\u093e\u0928\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0932\u0941\u091c\u093f\u092f\u093e\u0928\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0932\u0941\u0907\u091c\u093f\u092f\u093e\u0928\u093e"
     ],
@@ -430,6 +430,9 @@
     ],
     "name:nor_x_preferred":[
         "Louisiana"
+    ],
+    "name:nrm_x_preferred":[
+        "Louisiane"
     ],
     "name:oci_x_preferred":[
         "Lo\u00efsiana"
@@ -449,9 +452,6 @@
     "name:pcd_x_preferred":[
         "Louisiane"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0626\u06cc\u0632\u06cc\u0627\u0646\u0627"
-    ],
     "name:pli_x_preferred":[
         "\u0932\u0941\u0907\u091c\u093f\u092f\u093e\u0928\u093e"
     ],
@@ -467,6 +467,9 @@
     "name:por_x_preferred":[
         "Luisiana"
     ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u06cc\u0632\u06cc\u0627\u0646\u0627"
+    ],
     "name:que_x_preferred":[
         "Louisiana suyu"
     ],
@@ -474,9 +477,6 @@
         "Louisiana"
     ],
     "name:ron_x_preferred":[
-        "Louisiana"
-    ],
-    "name:rum_x_preferred":[
         "Louisiana"
     ],
     "name:rus_x_preferred":[
@@ -501,9 +501,6 @@
         "\u0dbd\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Louisiana"
-    ],
-    "name:slo_x_preferred":[
         "Louisiana"
     ],
     "name:slv_x_preferred":[
@@ -550,6 +547,9 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c42\u0c38\u0c3f\u0c2f\u0c3e\u0c28\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Louisiana"
     ],
@@ -558,9 +558,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e25\u0e38\u0e22\u0e40\u0e0b\u0e35\u0e22\u0e19\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f74\u0f60\u0f72\u0f0b\u0f5f\u0f72\u0f0b\u0f68\u0f71\u0f53\u0f0b\u0f53\u0f71\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Louisiana"
@@ -571,7 +568,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0457\u0437\u0456\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luizijana"
     ],
     "name:urd_x_preferred":[
@@ -589,11 +586,14 @@
     "name:war_x_preferred":[
         "Louisiana"
     ],
-    "name:wel_x_preferred":[
-        "Louisiana"
+    "name:wuu_x_preferred":[
+        "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041b\u0443\u0432\u0438\u0437\u04d9\u043d"
+    ],
+    "name:xho_x_preferred":[
+        "ILuwiziyana"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10e3\u10d8\u10d6\u10d8\u10d0\u10dc\u10d0"
@@ -606,6 +606,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "Louisiana"
     ],
     "name:zho_min_nan_x_preferred":[
         "Louisiana"
@@ -687,9 +690,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"123,678",
     "statoids:area_mi":"47,752",
     "statoids:as_of_date":"2010-04-01",
@@ -736,11 +739,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513863,
+    "wof:lastmodified":1581720558,
     "wof:name":"Louisiana",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4533372,
     "wof:population_rank":12,

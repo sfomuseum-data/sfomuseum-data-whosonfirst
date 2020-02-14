@@ -15,8 +15,13 @@
     "itu:country_code":[
         "81"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JP"
+    ],
     "lbl:latitude":36.13793,
     "lbl:longitude":138.441899,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":36.13793,
     "mps:longitude":138.441899,
     "mz:hierarchy_label":1,
@@ -41,6 +46,12 @@
     "name:aka_x_preferred":[
         "Gyapan"
     ],
+    "name:aka_x_variant":[
+        "Japan"
+    ],
+    "name:aln_x_preferred":[
+        "Japan"
+    ],
     "name:als_x_preferred":[
         "Japan"
     ],
@@ -59,6 +70,9 @@
     "name:arg_x_preferred":[
         "Chap\u00f3n"
     ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u067e\u0648\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u064a\u0627\u0628\u0627\u0646"
     ],
@@ -67,6 +81,9 @@
     ],
     "name:ast_x_preferred":[
         "Xap\u00f3n"
+    ],
+    "name:ava_x_preferred":[
+        "\u042f\u043f\u043e\u043d\u0438\u044f"
     ],
     "name:aym_x_preferred":[
         "Nihun"
@@ -83,6 +100,9 @@
     "name:bam_x_preferred":[
         "Zap\u0254n"
     ],
+    "name:bam_x_variant":[
+        "Japan"
+    ],
     "name:bar_x_preferred":[
         "Japan"
     ],
@@ -92,14 +112,20 @@
     "name:bel_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u042f\u043f\u043e\u043d\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09aa\u09be\u09a8"
     ],
+    "name:bgn_x_preferred":[
+        "\u062c\u0627\u067e\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u091c\u093e\u092a\u093e\u0928"
+    ],
     "name:bih_x_preferred":[
         "\u091c\u093e\u092a\u093e\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Japan"
     ],
     "name:bjn_x_preferred":[
         "Japang"
@@ -108,7 +134,8 @@
         "\u0f49\u0f72\u0f0b\u0f67\u0f7c\u0f44\u0f0b\u0f0d"
     ],
     "name:bod_x_variant":[
-        "\u0f62\u0f72\u0f0b\u0f54\u0f72\u0f53\u0f0b"
+        "\u0f62\u0f72\u0f0b\u0f54\u0f72\u0f53\u0f0b",
+        "\u0f62\u0f72\u0f0b\u0f54\u0f72\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Japan"
@@ -121,6 +148,9 @@
     ],
     "name:bre_x_variant":[
         "Japon"
+    ],
+    "name:brh_x_preferred":[
+        "J\u00e1p\u00e1n"
     ],
     "name:bug_x_preferred":[
         "\u1a0d\u1a1b\u1a04"
@@ -158,6 +188,9 @@
     "name:chr_x_preferred":[
         "\u13e3\u13e9\u13c2\u13cf"
     ],
+    "name:chr_x_variant":[
+        "\u13e3\u13c6\u13c2\u13f1"
+    ],
     "name:chu_x_preferred":[
         "\ua656\u043f\u0461\u043d\u0457\ua657"
     ],
@@ -176,6 +209,9 @@
     "name:cor_x_variant":[
         "Japan"
     ],
+    "name:cos_x_preferred":[
+        "Giapponu"
+    ],
     "name:crh_x_preferred":[
         "Yaponiya"
     ],
@@ -188,13 +224,13 @@
     "name:cym_x_variant":[
         "Siapan"
     ],
-    "name:cze_x_preferred":[
-        "Japonsko"
-    ],
     "name:dan_x_preferred":[
         "Japan"
     ],
     "name:deu_x_preferred":[
+        "Japan"
+    ],
+    "name:din_x_preferred":[
         "Japan"
     ],
     "name:diq_x_preferred":[
@@ -206,6 +242,9 @@
     "name:dsb_x_preferred":[
         "Japa\u0144ska"
     ],
+    "name:dty_x_preferred":[
+        "\u091c\u093e\u092a\u093e\u0928"
+    ],
     "name:dzo_x_preferred":[
         "\u0f47\u0f71\u0f0b\u0f54\u0f71\u0f53\u0f0d"
     ],
@@ -214,6 +253,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Giap\u00f2\u1e45"
     ],
     "name:eng_x_preferred":[
         "Japan"
@@ -257,6 +299,9 @@
     "name:fas_x_preferred":[
         "\u0698\u0627\u067e\u0646"
     ],
+    "name:fij_x_preferred":[
+        "Japani"
+    ],
     "name:fin_x_preferred":[
         "Japani"
     ],
@@ -278,6 +323,9 @@
     "name:ful_x_preferred":[
         "Sapoo"
     ],
+    "name:ful_x_variant":[
+        "Japan"
+    ],
     "name:fur_x_preferred":[
         "Gjapon"
     ],
@@ -290,6 +338,9 @@
     "name:gla_x_preferred":[
         "An Iapan"
     ],
+    "name:gla_x_variant":[
+        "An t-Seapan"
+    ],
     "name:gle_x_preferred":[
         "An tSeap\u00e1in"
     ],
@@ -299,14 +350,29 @@
     "name:glg_x_variant":[
         "Xap\u00f3n - \u65e5\u672c"
     ],
+    "name:glk_x_preferred":[
+        "\u0698\u0627\u067e\u0624\u0646"
+    ],
     "name:glv_x_preferred":[
         "Yn \u00c7hapaan"
     ],
     "name:gom_x_preferred":[
         "\u091c\u092a\u093e\u0928"
     ],
+    "name:gom_x_variant":[
+        "\u0c9c\u0caa\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:gor_x_preferred":[
+        "Japangi"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3e\ud800\udf30\ud800\udf40\ud800\udf30\ud800\udf3d"
+    ],
     "name:grn_x_preferred":[
         "Hap\u00f5"
+    ],
+    "name:gsw_x_preferred":[
+        "Japan"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abe\u0aaa\u0abe\u0aa8"
@@ -347,6 +413,12 @@
     "name:hye_x_preferred":[
         "\u0543\u0561\u057a\u0578\u0576\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0543\u0561\u0583\u0578\u0576"
+    ],
+    "name:ibo_x_preferred":[
+        "Japan"
+    ],
     "name:ido_x_preferred":[
         "Japonia"
     ],
@@ -367,6 +439,12 @@
     ],
     "name:ind_x_preferred":[
         "Jepang"
+    ],
+    "name:inh_x_preferred":[
+        "\u042f\u043f\u043e\u043d\u0438"
+    ],
+    "name:ipk_x_preferred":[
+        "Japan"
     ],
     "name:isl_x_preferred":[
         "Japan"
@@ -412,6 +490,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0caa\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u091c\u093e\u092a\u093e\u0928"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d0"
     ],
@@ -420,6 +501,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u042f\u043f\u043e\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Jap\u0254\u014b"
     ],
     "name:khm_x_preferred":[
         "\u1787\u1794\u17c9\u17bb\u1793"
@@ -451,6 +535,9 @@
     "name:krc_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
     ],
+    "name:ksh_x_preferred":[
+        "Japan"
+    ],
     "name:kua_x_preferred":[
         "Japan"
     ],
@@ -460,6 +547,9 @@
     "name:kur_x_variant":[
         "Japonya",
         "\u0698\u0627\u067e\u06c6\u0646"
+    ],
+    "name:lad_x_preferred":[
+        "Djapon"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e8d\u0eb5\u0ec8\u0e9b\u0eb8\u0ec8\u0e99"
@@ -478,6 +568,9 @@
     ],
     "name:lez_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Nion"
     ],
     "name:lij_x_preferred":[
         "Giappon"
@@ -500,6 +593,9 @@
     "name:lrc_x_preferred":[
         "\u062c\u0627\u067e\u0648\u0646"
     ],
+    "name:lrc_x_variant":[
+        "\u0686\u0627\u067e\u0646"
+    ],
     "name:ltg_x_preferred":[
         "Japoneja"
     ],
@@ -512,11 +608,17 @@
     "name:lug_x_preferred":[
         "Japani"
     ],
+    "name:lug_x_variant":[
+        "Japan"
+    ],
     "name:lzh_x_preferred":[
         "\u65e5\u672c"
     ],
     "name:mah_x_preferred":[
         "Japan"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u093e\u092a\u093e\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d7b"
@@ -526,6 +628,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u042f\u043f\u043e\u043d\u043c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mdf_x_variant":[
+        "\u042f\u043f\u0443\u043d\u043c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mhr_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u0439"
@@ -629,6 +734,9 @@
     "name:nso_x_preferred":[
         "Japane"
     ],
+    "name:nya_x_preferred":[
+        "Japan"
+    ],
     "name:oci_x_preferred":[
         "Japon"
     ],
@@ -650,6 +758,9 @@
     "name:oss_x_preferred":[
         "\u042f\u043f\u043e\u043d"
     ],
+    "name:pag_x_preferred":[
+        "Hapon"
+    ],
     "name:pam_x_preferred":[
         "Hapon"
     ],
@@ -665,6 +776,9 @@
     "name:pdc_x_preferred":[
         "Japan"
     ],
+    "name:pfl_x_preferred":[
+        "Japan"
+    ],
     "name:pih_x_preferred":[
         "Japan"
     ],
@@ -677,13 +791,16 @@
     "name:pnb_x_preferred":[
         "\u062c\u067e\u0627\u0646"
     ],
+    "name:pnb_x_variant":[
+        "\u062c\u0627\u067e\u0627\u0646"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1"
+    ],
     "name:pol_x_preferred":[
         "Japonia"
     ],
     "name:por_x_preferred":[
-        "Jap\u00e3o"
-    ],
-    "name:por_x_variant":[
         "Jap\u00e3o"
     ],
     "name:pus_x_preferred":[
@@ -691,6 +808,9 @@
     ],
     "name:que_x_preferred":[
         "Nihun"
+    ],
+    "name:rmy_x_preferred":[
+        "Japan"
     ],
     "name:roh_x_preferred":[
         "Giapun"
@@ -704,11 +824,14 @@
     "name:rue_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Japonia"
-    ],
     "name:run_x_preferred":[
         "Ubuyapani"
+    ],
+    "name:run_x_variant":[
+        "Yapon"
+    ],
+    "name:rup_x_preferred":[
+        "Japonia"
     ],
     "name:rus_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
@@ -716,11 +839,20 @@
     "name:sag_x_preferred":[
         "Zap\u00f6on"
     ],
+    "name:sag_x_variant":[
+        "Zap\u00f6o"
+    ],
     "name:sah_x_preferred":[
         "\u0414\u044c\u043e\u043f\u043f\u0443\u043e\u043d"
     ],
     "name:san_x_preferred":[
         "\u091c\u092a\u093e\u0928\u094d"
+    ],
+    "name:san_x_variant":[
+        "\u091c\u093e\u092a\u093e\u0928"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5f\u1c6f\u1c5f\u1c71"
     ],
     "name:scn_x_preferred":[
         "Giappuni"
@@ -730,6 +862,9 @@
     ],
     "name:sgs_x_preferred":[
         "Japuon\u0117j\u0117"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u103b\u1015\u1062\u107c\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0db4\u0dcf\u0db1\u0dba"
@@ -812,6 +947,9 @@
     "name:tat_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
     ],
+    "name:tcy_x_preferred":[
+        "\u0c9c\u0caa\u0cbe\u0ca8\u0ccd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c2a\u0c3e\u0c28\u0c4d"
     ],
@@ -842,8 +980,14 @@
     "name:tpi_x_preferred":[
         "Siapan"
     ],
+    "name:tsn_x_preferred":[
+        "Japan"
+    ],
     "name:tso_x_preferred":[
         "Japan"
+    ],
+    "name:tso_x_variant":[
+        "Japani"
     ],
     "name:tuk_x_preferred":[
         "\u00ddaponi\u00fda"
@@ -857,6 +1001,9 @@
     "name:twi_x_preferred":[
         "Yapan"
     ],
+    "name:tyv_x_preferred":[
+        "\u042f\u043f\u043e\u043d\u0438\u044f"
+    ],
     "name:udm_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
     ],
@@ -865,12 +1012,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0456\u044f"
-    ],
-    "name:und_x_preferred":[
-        "Japonska"
-    ],
-    "name:unk_x_variant":[
-        "Nihon"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u067e\u0627\u0646"
@@ -901,6 +1042,9 @@
     ],
     "name:vol_x_preferred":[
         "Yap\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Jaapan"
     ],
     "name:war_x_preferred":[
         "Hapon"
@@ -948,7 +1092,6 @@
         "\u65e5\u672c"
     ],
     "name:zho_x_variant":[
-        "\u65e5\u672c",
         "\u65e5\u672c\u570b"
     ],
     "name:zho_yue_x_preferred":[
@@ -958,7 +1101,8 @@
         "IJapani"
     ],
     "name:zul_x_variant":[
-        "i-Japan"
+        "i-Japan",
+        "IJaphani"
     ],
     "ne:abbrev":"Japan",
     "ne:abbrev_len":5,
@@ -1039,7 +1183,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"81",
     "statoids:ds":"J",
@@ -1059,7 +1203,6 @@
     "wd:longitude":136.0,
     "wd:population":127110047,
     "wd:wordcount":12515,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569
     ],
@@ -1084,7 +1227,7 @@
         "marc:id":"ja",
         "ne:adm0_a3":"JPN",
         "nyt:id":"59436095099277148161",
-        "qs:id":276680,
+        "qs_pg:id":276680,
         "uncrt:id":"J",
         "wd:id":"Q17",
         "wk:page":"Japan",
@@ -1100,16 +1243,13 @@
         }
     ],
     "wof:id":85632429,
-    "wof:lang":[
-        "jpn"
-    ],
     "wof:lang_x_official":[
         "jpn"
     ],
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1578513924,
+    "wof:lastmodified":1581720627,
     "wof:name":"Japan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

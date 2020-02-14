@@ -14,20 +14,22 @@
     "geom:longitude":-109.64514,
     "iso:country":"US",
     "iso:subdivision":"US-MT",
-    "label:eng_us_x_preferred_longname":[
-        "Montana"
-    ],
     "label:eng_x_preferred_longname":[
-        "Montana State"
+        "Montana"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MT"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Montana"
+        "State of Montana",
+        "Montana State"
     ],
     "lbl:latitude":47.001265,
     "lbl:longitude":-109.645406,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.001265,
     "mps:longitude":-109.645406,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Montana"
-    ],
-    "name:alb_x_preferred":[
         "Montana"
     ],
     "name:amh_x_preferred":[
@@ -55,9 +54,6 @@
     "name:arg_x_preferred":[
         "Montana"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u057f\u0561\u0576\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0627\u0646\u0627"
     ],
@@ -73,9 +69,6 @@
     "name:aze_x_preferred":[
         "Montana"
     ],
-    "name:baq_x_preferred":[
-        "Montana"
-    ],
     "name:bar_x_preferred":[
         "Montana"
     ],
@@ -84,6 +77,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041c\u0430\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0442\u0430\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09be\u09a8\u09be"
@@ -109,9 +105,6 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103d\u1014\u103a\u1010\u102c\u1038\u1014\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
@@ -121,17 +114,23 @@
     "name:cdo_x_preferred":[
         "Montana"
     ],
+    "name:ceb_x_preferred":[
+        "Montana"
+    ],
+    "name:ces_x_preferred":[
+        "Montana"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u5927\u62ff\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
     "name:chy_x_preferred":[
         "Hohon\u00e1\u00e9\u0161\u00e9e"
+    ],
+    "name:chy_x_variant":[
+        "Ho'hon\u00e1\u00e9\u0161\u00e9'e"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06c6\u0646\u062a\u0627\u0646\u0627"
@@ -142,20 +141,23 @@
     "name:cos_x_preferred":[
         "Montana"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Montana"
     ],
     "name:dan_x_preferred":[
         "Montana"
     ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "Montana"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Montana"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bd\u03c4\u03ac\u03bd\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Munt\u00e0na"
     ],
     "name:eng_x_colloquial":[
         "Treasure State"
@@ -173,19 +175,22 @@
     "name:est_x_preferred":[
         "Montana"
     ],
+    "name:eus_x_preferred":[
+        "Montana"
+    ],
     "name:fao_x_preferred":[
         "Montana"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0627\u0646\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0648\u0646\u062a\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Montana"
     ],
     "name:fra_x_preferred":[
-        "Montana"
-    ],
-    "name:fre_x_preferred":[
         "Montana"
     ],
     "name:frp_x_preferred":[
@@ -200,12 +205,6 @@
     "name:gag_x_preferred":[
         "Montana"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Montana"
-    ],
     "name:gla_x_preferred":[
         "Montana"
     ],
@@ -218,9 +217,6 @@
     "name:glv_x_preferred":[
         "Montana"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03ac\u03bd\u03b1"
-    ],
     "name:grn_x_preferred":[
         "Montana"
     ],
@@ -230,7 +226,13 @@
     "name:hak_x_preferred":[
         "M\u00f9ng-thai-n\u00e2"
     ],
+    "name:hak_x_variant":[
+        "Montana"
+    ],
     "name:hat_x_preferred":[
+        "Montana"
+    ],
+    "name:hau_x_preferred":[
         "Montana"
     ],
     "name:haw_x_preferred":[
@@ -257,9 +259,6 @@
     "name:ibo_x_preferred":[
         "Montana"
     ],
-    "name:ice_x_preferred":[
-        "Montana"
-    ],
     "name:ido_x_preferred":[
         "Montana"
     ],
@@ -276,6 +275,9 @@
         "Montana"
     ],
     "name:ipk_x_preferred":[
+        "Montana"
+    ],
+    "name:isl_x_preferred":[
         "Montana"
     ],
     "name:ita_x_preferred":[
@@ -299,11 +301,17 @@
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "M\u0254ntanaa"
+    ],
     "name:kir_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud0dc\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaac\ud0dc\ub098\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Montana"
@@ -319,6 +327,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Montana"
     ],
     "name:lij_x_preferred":[
         "Montann-a"
@@ -338,20 +349,17 @@
     "name:ltz_x_preferred":[
         "Montana"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
+    "name:lzh_x_preferred":[
+        "\u8499\u5927\u62ff\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u094b\u0928\u094d\u091f\u093e\u0928\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d4d\u0d1f\u0d3e\u0d28"
     ],
-    "name:mao_x_preferred":[
-        "Montana"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0902\u091f\u093e\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Montana"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0435"
@@ -365,8 +373,14 @@
     "name:mon_x_preferred":[
         "Montana Wikipedia"
     ],
+    "name:mri_x_preferred":[
+        "Montana"
+    ],
     "name:mrj_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Montana"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1010\u102c\u1038\u1014\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
@@ -395,6 +409,12 @@
     "name:new_x_preferred":[
         "\u092e\u094b\u0928\u094d\u0924\u093e\u0928\u093e"
     ],
+    "name:new_x_variant":[
+        "\u092e\u094b\u0928\u094d\u091f\u093e\u0928\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Montana"
+    ],
     "name:nno_x_preferred":[
         "Montana"
     ],
@@ -419,9 +439,6 @@
     "name:pdc_x_preferred":[
         "Montana"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0648\u0646\u062a\u0627\u0646\u0627"
-    ],
     "name:pli_x_preferred":[
         "\u092e\u094b\u0928\u094d\u091f\u093e\u0928\u093e"
     ],
@@ -443,7 +460,7 @@
     "name:roh_x_preferred":[
         "Montana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Montana"
     ],
     "name:rus_x_preferred":[
@@ -467,7 +484,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dcf\u0db1\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Montana"
     ],
     "name:slv_x_preferred":[
@@ -477,6 +494,9 @@
         "Montana"
     ],
     "name:spa_x_preferred":[
+        "Montana"
+    ],
+    "name:sqi_x_preferred":[
         "Montana"
     ],
     "name:srd_x_preferred":[
@@ -500,6 +520,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0ba9\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bca\u0ba9\u0bcd\u0b9f\u0bbe\u0ba9\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u0430"
     ],
@@ -511,9 +534,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e21\u0e2d\u0e19\u0e41\u0e17\u0e19\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f7c\u0f53\u0f0b\u0f4f\u0f71\u0f0b\u0f53\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Montana"
@@ -542,11 +562,11 @@
     "name:war_x_preferred":[
         "Montana"
     ],
-    "name:wel_x_preferred":[
-        "Montana"
-    ],
     "name:xal_x_preferred":[
         "\u041c\u0430\u043d\u0442\u0430\u043d"
+    ],
+    "name:xho_x_preferred":[
+        "IMontana"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d0\u10dc\u10d0"
@@ -559,6 +579,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8499\u5927\u62ff\u5dde"
+    ],
+    "name:yue_x_variant":[
+        "\u671b\u4e39\u62ff\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8499\u5927\u62ff\u5dde"
@@ -634,9 +657,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"380,849",
     "statoids:area_mi":"147,047",
     "statoids:as_of_date":"2010-04-01",
@@ -682,11 +705,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513897,
+    "wof:lastmodified":1581720598,
     "wof:name":"Montana",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":989415,
     "wof:population_rank":11,

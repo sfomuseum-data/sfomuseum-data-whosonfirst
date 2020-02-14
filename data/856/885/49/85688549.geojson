@@ -14,20 +14,22 @@
     "geom:longitude":-92.439237,
     "iso:country":"US",
     "iso:subdivision":"US-AR",
-    "label:eng_us_x_preferred_longname":[
-        "Arkansas"
-    ],
     "label:eng_x_preferred_longname":[
-        "Arkansas State"
+        "Arkansas"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Arkansas"
+        "State of Arkansas",
+        "Arkansas State"
     ],
     "lbl:latitude":34.755883,
     "lbl:longitude":-92.640559,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.755883,
     "mps:longitude":-92.640559,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Arkansas"
-    ],
-    "name:alb_x_preferred":[
         "Arkansas"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Arkansas"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u056f\u0561\u0576\u0566\u0561\u057d"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u0643\u0646\u0633\u0627\u0633"
@@ -76,9 +72,6 @@
     "name:bak_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
-    "name:baq_x_preferred":[
-        "Arkansas"
-    ],
     "name:bar_x_preferred":[
         "Arkansas"
     ],
@@ -87,6 +80,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u0995\u09be\u09a8\u09b8\u09be\u09b8"
@@ -112,9 +108,6 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u102c\u1000\u1004\u103a\u1006\u1031\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
@@ -124,14 +117,14 @@
     "name:cdo_x_preferred":[
         "Arkansas"
     ],
+    "name:ceb_x_preferred":[
+        "Arkansas"
+    ],
     "name:ces_x_preferred":[
         "Arkansas"
     ],
     "name:che_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u80af\u8272\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
@@ -139,13 +132,16 @@
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0631\u06a9\u0646\u0633\u0627\u0633"
     ],
+    "name:ckb_x_variant":[
+        "\u0626\u0627\u0631\u06a9\u0627\u0646\u0633\u0627\u0633"
+    ],
     "name:cor_x_preferred":[
         "Arkansas"
     ],
     "name:cos_x_preferred":[
         "Arkansas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Arkansas"
     ],
     "name:dan_x_preferred":[
@@ -157,11 +153,11 @@
     "name:diq_x_preferred":[
         "Arkansas"
     ],
-    "name:dut_x_preferred":[
-        "Arkansas"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03ba\u03ac\u03bd\u03c3\u03b1\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "Ark\u00e0nsas"
     ],
     "name:eng_x_colloquial":[
         "Land of Opportunity"
@@ -194,9 +190,6 @@
     "name:fra_x_preferred":[
         "Arkansas"
     ],
-    "name:fre_x_preferred":[
-        "Arkansas"
-    ],
     "name:frp_x_preferred":[
         "Arkansas"
     ],
@@ -212,12 +205,6 @@
     "name:gan_x_preferred":[
         "\u963f\u80af\u8272\u5dde"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d9\u10d0\u10dc\u10d6\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Arkansas"
-    ],
     "name:gla_x_preferred":[
         "Arkansas"
     ],
@@ -230,8 +217,8 @@
     "name:glv_x_preferred":[
         "Arkansas"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03ba\u03ac\u03bd\u03c3\u03b1\u03c2"
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf42\ud800\udf3a\ud800\udf30\ud800\udf3d\ud800\udf43\ud800\udf30\ud800\udf45"
     ],
     "name:grn_x_preferred":[
         "Arkansas"
@@ -242,8 +229,14 @@
     "name:hak_x_preferred":[
         "\u00c2-kh\u00e9n-set"
     ],
+    "name:hak_x_variant":[
+        "Arkansas"
+    ],
     "name:hat_x_preferred":[
         "Akennsas"
+    ],
+    "name:hau_x_preferred":[
+        "Arkansas"
     ],
     "name:haw_x_preferred":[
         "\u2018Akanaka"
@@ -256,6 +249,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0906\u0930\u094d\u0915\u0928\u094d\u0938\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0905\u0930\u0915\u093e\u0902\u0938\u093e\u0938"
     ],
     "name:hrv_x_preferred":[
         "Arkansas"
@@ -271,9 +267,6 @@
     ],
     "name:ibo_x_preferred":[
         "Arkins\u1ecd"
-    ],
-    "name:ice_x_preferred":[
-        "Arkansas"
     ],
     "name:ido_x_preferred":[
         "Arkansas"
@@ -314,8 +307,14 @@
     "name:kaz_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
+    "name:kbp_x_preferred":[
+        "Arakanzaa"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uce78\uc18c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uce78\uc18c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Arkansas"
@@ -328,6 +327,9 @@
     ],
     "name:lav_x_preferred":[
         "\u0100rkanzasa"
+    ],
+    "name:lfn_x_preferred":[
+        "Arkansas"
     ],
     "name:lij_x_preferred":[
         "Arkansas"
@@ -347,20 +349,17 @@
     "name:ltz_x_preferred":[
         "Arkansas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
+    "name:lzh_x_preferred":[
+        "\u963f\u80af\u8272\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0906\u0930\u094d\u0915\u093e\u0928\u094d\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7c\u0d15\u0d4d\u0d15\u0d7b\u0d38\u0d3e\u0d38\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Arkansas"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u0915\u093e\u0928\u094d\u0938\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Arkansas"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
@@ -373,6 +372,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "Arkansas"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
@@ -404,6 +406,9 @@
     "name:nep_x_preferred":[
         "\u0906\u0930\u094d\u0915\u093e\u0928\u094d\u0938"
     ],
+    "name:nep_x_variant":[
+        "\u0906\u0930\u094d\u0915\u0928\u094d\u0938\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0906\u0930\u094d\u0915\u093e\u0928\u094d\u0938\u0903"
     ],
@@ -434,9 +439,6 @@
     "name:pap_x_preferred":[
         "Arkansas"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u06a9\u0627\u0646\u0632\u0627\u0633"
-    ],
     "name:pli_x_preferred":[
         "\u0906\u0930\u094d\u0915\u093e\u0928\u094d\u0938:"
     ],
@@ -459,9 +461,6 @@
         "Arkansas"
     ],
     "name:ron_x_preferred":[
-        "Arkansas"
-    ],
-    "name:rum_x_preferred":[
         "Arkansas"
     ],
     "name:rup_x_preferred":[
@@ -491,14 +490,14 @@
     "name:slk_x_preferred":[
         "Arkansas"
     ],
-    "name:slo_x_preferred":[
-        "Arkansas"
-    ],
     "name:slv_x_preferred":[
         "Arkansas"
     ],
     "name:sme_x_preferred":[
         "Arkansas"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0631\u06aa\u0646\u0633\u0627\u0633"
     ],
     "name:som_x_preferred":[
         "Arkansas"
@@ -536,14 +535,14 @@
     "name:tel_x_preferred":[
         "\u0c06\u0c30\u0c4d\u0c15\u0c3e\u0c28\u0c4d\u0c38\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Arkansas"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e2d\u0e32\u0e23\u0e4c\u0e04\u0e31\u0e19\u0e0b\u0e2d"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f62\u0f0b\u0f41\u0f53\u0f0b\u0f66\u0f71\u0f0b\u0f66\u0f72\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Arkansas"
@@ -554,7 +553,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arkansaw"
     ],
     "name:urd_x_preferred":[
@@ -572,8 +571,8 @@
     "name:war_x_preferred":[
         "Arkansas"
     ],
-    "name:wel_x_preferred":[
-        "Arkansas"
+    "name:wuu_x_preferred":[
+        "\u963f\u80af\u8272\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u04d8\u0440\u043a\u04d9\u043d\u0437\u04d9"
@@ -589,6 +588,9 @@
     ],
     "name:yue_x_preferred":[
         "\u963f\u80af\u8272\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "Arkansas"
     ],
     "name:zho_x_preferred":[
         "\u963f\u80af\u8272\u5dde"
@@ -664,9 +666,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"137,754",
     "statoids:area_mi":"53,187",
     "statoids:as_of_date":"2010-04-01",
@@ -713,11 +715,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578514079,
+    "wof:lastmodified":1581720751,
     "wof:name":"Arkansas",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2915918,
     "wof:population_rank":12,

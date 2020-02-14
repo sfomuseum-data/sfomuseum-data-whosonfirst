@@ -14,20 +14,22 @@
     "geom:longitude":-74.655608,
     "iso:country":"US",
     "iso:subdivision":"US-NJ",
-    "label:eng_us_x_preferred_longname":[
-        "New Jersey"
-    ],
     "label:eng_x_preferred_longname":[
-        "New Jersey State"
+        "New Jersey"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NJ"
+    ],
     "label:eng_x_variant_longname":[
-        "State of New Jersey"
+        "State of New Jersey",
+        "New Jersey State"
     ],
     "lbl:latitude":39.66502,
     "lbl:longitude":-74.738208,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.66502,
     "mps:longitude":-74.738208,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "New Jersey"
-    ],
-    "name:alb_x_preferred":[
         "New Jersey"
     ],
     "name:amh_x_preferred":[
@@ -58,9 +57,6 @@
     "name:arg_x_preferred":[
         "Nueva Jersey"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0575\u0578\u0582 \u054b\u0565\u0580\u057d\u056b"
-    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0648 \u062c\u064a\u0631\u0633\u0649"
     ],
@@ -79,8 +75,8 @@
     "name:aze_x_variant":[
         "Nyu Cersi"
     ],
-    "name:baq_x_preferred":[
-        "New Jersey"
+    "name:bak_x_preferred":[
+        "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
     "name:bar_x_preferred":[
         "New Jersey"
@@ -122,9 +118,6 @@
     "name:bul_x_preferred":[
         "\u041d\u044e \u0414\u0436\u044a\u0440\u0441\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1014\u101a\u1030\u1038\u1002\u103b\u102c\u1005\u102e\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
@@ -134,14 +127,14 @@
     "name:cdo_x_preferred":[
         "New Jersey"
     ],
+    "name:ceb_x_preferred":[
+        "New Jersey"
+    ],
     "name:ces_x_preferred":[
         "New Jersey"
     ],
     "name:che_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u65b0\u6cfd\u897f\u5dde"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13e4 \u13e8\u13cf"
@@ -161,9 +154,6 @@
     "name:cym_x_preferred":[
         "New Jersey"
     ],
-    "name:cze_x_preferred":[
-        "New Jersey"
-    ],
     "name:dan_x_preferred":[
         "New Jersey"
     ],
@@ -173,11 +163,11 @@
     "name:diq_x_preferred":[
         "New Jersey"
     ],
-    "name:dut_x_preferred":[
-        "New Jersey"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03bf\u03c5 \u03a4\u03b6\u03ad\u03c1\u03c3\u03b5\u03ca"
+    ],
+    "name:eml_x_preferred":[
+        "New Jersey"
     ],
     "name:eng_x_colloquial":[
         "Garden State"
@@ -204,13 +194,13 @@
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0648 \u062c\u0631\u0633\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0648\u062c\u0631\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "New Jersey"
     ],
     "name:fra_x_preferred":[
-        "New Jersey"
-    ],
-    "name:fre_x_preferred":[
         "New Jersey"
     ],
     "name:frr_x_preferred":[
@@ -219,13 +209,10 @@
     "name:fry_x_preferred":[
         "Nij-Jersey"
     ],
+    "name:fry_x_variant":[
+        "Nij Jersey"
+    ],
     "name:gag_x_preferred":[
-        "New Jersey"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e3-\u10ef\u10d4\u10e0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "New Jersey"
     ],
     "name:gla_x_preferred":[
@@ -239,9 +226,6 @@
     ],
     "name:glv_x_preferred":[
         "New Jersey"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03bf\u03c5 \u03a4\u03b6\u03ad\u03c1\u03c3\u03b5\u03ca"
     ],
     "name:grn_x_preferred":[
         "New Jersey"
@@ -260,6 +244,9 @@
     ],
     "name:hat_x_preferred":[
         "Nou J\u00e8ze"
+    ],
+    "name:hau_x_preferred":[
+        "New Jersey"
     ],
     "name:haw_x_preferred":[
         "N\u016b \u2018Ieleke"
@@ -282,6 +269,9 @@
     "name:hrv_x_preferred":[
         "New Jersey"
     ],
+    "name:hsb_x_preferred":[
+        "New Jersey"
+    ],
     "name:hun_x_preferred":[
         "New Jersey"
     ],
@@ -290,9 +280,6 @@
     ],
     "name:ibo_x_preferred":[
         "N\u00fa Jez\u1ecb"
-    ],
-    "name:ice_x_preferred":[
-        "New Jersey"
     ],
     "name:ido_x_preferred":[
         "Nova-Jersey"
@@ -339,17 +326,26 @@
     "name:kaz_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
+    "name:kbp_x_preferred":[
+        "Niwuj\u025brsii"
+    ],
     "name:kir_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
     "name:kor_x_preferred":[
         "\ub274\uc800\uc9c0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub274\uc800\uc9c0\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "New Jersey"
     ],
     "name:lad_x_preferred":[
         "Mueva Jersey"
+    ],
+    "name:lad_x_variant":[
+        "Nueva Jersey"
     ],
     "name:lat_x_preferred":[
         "Nova Caesarea"
@@ -360,8 +356,14 @@
     "name:lez_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
+    "name:lfn_x_preferred":[
+        "New Jersey"
+    ],
     "name:lij_x_preferred":[
         "Neuvo Jersey"
+    ],
+    "name:lij_x_variant":[
+        "Noeuvo Jersey"
     ],
     "name:lim_x_preferred":[
         "New Jersey"
@@ -375,23 +377,23 @@
     "name:lrc_x_preferred":[
         "\u0646\u06cc\u0648\u0659\u062c\u0626\u0631\u0633\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0646\u06cc\u0648\u062c\u0631\u0633\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "New Jersey"
     ],
-    "name:mac_x_preferred":[
-        "\u040a\u0443 \u040f\u0435\u0440\u0441\u0438"
+    "name:lzh_x_preferred":[
+        "\u65b0\u6fa4\u897f\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u094d\u092f\u0942 \u091c\u0930\u094d\u0938\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d4d\u0d2f\u0d42 \u0d1c\u0d46\u0d34\u0d4d\u0d38\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "New Jersey"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u091c\u0930\u094d\u0938\u0940"
-    ],
-    "name:may_x_preferred":[
-        "New Jersey"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
@@ -423,6 +425,9 @@
     "name:nan_x_preferred":[
         "New Jersey"
     ],
+    "name:nap_x_preferred":[
+        "New Jersey"
+    ],
     "name:nau_x_preferred":[
         "New Jersey"
     ],
@@ -434,6 +439,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0928\u094d\u092f\u0941 \u091c\u0930\u094d\u0938\u0940"
+    ],
+    "name:nep_x_variant":[
+        "\u0928\u094d\u092f\u0942 \u091c\u0930\u094d\u0938\u0940"
     ],
     "name:new_x_preferred":[
         "\u0928\u094d\u092f\u0941 \u091c\u0930\u094d\u0938\u0940"
@@ -465,9 +473,6 @@
     "name:pdc_x_preferred":[
         "Nei-Schaersi"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0648\u062c\u0631\u0633\u06cc"
-    ],
     "name:pli_x_preferred":[
         "\u0928\u094d\u0939\u0941 \u091c\u0930\u094d\u0938\u0940"
     ],
@@ -492,8 +497,8 @@
     "name:ron_x_preferred":[
         "New Jersey"
     ],
-    "name:rum_x_preferred":[
-        "New Jersey"
+    "name:rue_x_preferred":[
+        "\u041d\u044e \u0414\u0436\u0435\u0440\u0437\u0438"
     ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
@@ -517,9 +522,6 @@
         "\u0db1\u0dd2\u0dc0\u0dca \u0da2\u0dbb\u0dca\u0dc3\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "New Jersey"
-    ],
-    "name:slo_x_preferred":[
         "New Jersey"
     ],
     "name:slv_x_preferred":[
@@ -558,6 +560,9 @@
     "name:tat_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
+    "name:tat_x_variant":[
+        "\u041d\u044c\u044e-\u0496\u0435\u0440\u0441\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c1c\u0c46\u0c30\u0c4d\u0c38\u0c40"
     ],
@@ -573,9 +578,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e19\u0e34\u0e27\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e0b\u0e35\u0e22\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f7a\u0f60\u0f74\u0f0b\u0f47\u0f7a\u0f62\u0f0b\u0f66\u0f66\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "New Jersey"
     ],
@@ -585,7 +587,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nju Dzerzi"
     ],
     "name:urd_x_preferred":[
@@ -593,6 +595,9 @@
     ],
     "name:uzb_x_preferred":[
         "Nyu-Jersi"
+    ],
+    "name:uzb_x_variant":[
+        "N'yu-Jersi"
     ],
     "name:vec_x_preferred":[
         "New Jersey"
@@ -606,11 +611,14 @@
     "name:war_x_preferred":[
         "New Jersey"
     ],
-    "name:wel_x_preferred":[
-        "New Jersey"
+    "name:wuu_x_preferred":[
+        "\u65b0\u6cfd\u897f\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u0428\u0438\u043d \u0496\u04e9\u04e9\u0437\u0438"
+    ],
+    "name:xho_x_preferred":[
+        "INyujezi"
     ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d8\u10e3-\u10ef\u10d4\u10e0\u10e1\u10d8"
@@ -623,6 +631,9 @@
     ],
     "name:yue_x_preferred":[
         "\u7d10\u6fa4\u897f\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "New Jersey"
     ],
     "name:zho_min_nan_x_preferred":[
         "New Jersey"
@@ -707,9 +718,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"20,168",
     "statoids:area_mi":"7,787",
     "statoids:as_of_date":"2010-04-01",
@@ -756,11 +767,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513898,
+    "wof:lastmodified":1581720599,
     "wof:name":"New Jersey",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":8791894,
     "wof:population_rank":13,

@@ -14,6 +14,8 @@
     "iso:country":"US",
     "lbl:latitude":31.818409,
     "lbl:longitude":-106.488793,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":31.818409,
     "mps:longitude":-106.488793,
     "mz:hierarchy_label":1,
@@ -22,17 +24,11 @@
     "name:afr_x_preferred":[
         "El Paso"
     ],
-    "name:alb_x_preferred":[
-        "El Paso"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0628\u0627\u0633\u0648"
     ],
     "name:arg_x_preferred":[
         "El Paso"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u054a\u0561\u057d\u0578"
     ],
     "name:ast_x_preferred":[
         "El Paso"
@@ -43,7 +39,7 @@
     "name:aze_x_preferred":[
         "El-Paso"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "El Paso"
     ],
     "name:bar_x_preferred":[
@@ -51,6 +47,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u041f\u0430\u0441\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u042d\u043b\u044c-\u041f\u0430\u0441\u0430"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u09aa\u09cd\u09af\u09be\u09b8\u09cb"
@@ -67,25 +66,22 @@
     "name:cat_x_preferred":[
         "El Paso"
     ],
-    "name:ces_x_preferred":[
+    "name:ceb_x_preferred":[
         "El Paso"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u723e\u5e15\u7d22"
+    "name:ces_x_preferred":[
+        "El Paso"
     ],
     "name:cor_x_preferred":[
         "El Paso"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "El Paso"
     ],
     "name:dan_x_preferred":[
         "El Paso"
     ],
     "name:deu_x_preferred":[
-        "El Paso"
-    ],
-    "name:dut_x_preferred":[
         "El Paso"
     ],
     "name:ell_x_preferred":[
@@ -112,6 +108,9 @@
     "name:est_x_preferred":[
         "El Paso"
     ],
+    "name:eus_x_preferred":[
+        "El Paso"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644 \u067e\u0627\u0633\u0648"
     ],
@@ -121,16 +120,7 @@
     "name:fra_x_preferred":[
         "El Paso"
     ],
-    "name:fre_x_preferred":[
-        "El Paso"
-    ],
     "name:fry_x_preferred":[
-        "El Paso"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10de\u10d0\u10e1\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "El Paso"
     ],
     "name:gle_x_preferred":[
@@ -138,9 +128,6 @@
     ],
     "name:glg_x_preferred":[
         "El Paso"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u03a0\u03ac\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8d\u0ab2 \u0aaa\u0abe\u0ab8\u0acb"
@@ -163,13 +150,16 @@
     "name:hye_x_preferred":[
         "\u0537\u056c \u054a\u0561\u057d\u0578"
     ],
-    "name:ice_x_preferred":[
+    "name:ido_x_preferred":[
         "El Paso"
     ],
     "name:ina_x_preferred":[
         "El Paso"
     ],
     "name:ind_x_preferred":[
+        "El Paso"
+    ],
+    "name:isl_x_preferred":[
         "El Paso"
     ],
     "name:ita_x_preferred":[
@@ -205,14 +195,11 @@
     "name:lmo_x_preferred":[
         "El Paso"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u043b \u041f\u0430\u0441\u043e"
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d7d \u0d2a\u0d3e\u0d38\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u090f\u0932 \u092a\u0945\u0938\u094b"
-    ],
-    "name:may_x_preferred":[
-        "El Paso"
     ],
     "name:mkd_x_preferred":[
         "\u0415\u043b \u041f\u0430\u0441\u043e"
@@ -222,6 +209,9 @@
     ],
     "name:mon_x_preferred":[
         "\u042d\u043b\u044c-\u041f\u0430\u0441\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "El Paso"
     ],
     "name:nah_x_preferred":[
         "El Paso"
@@ -247,9 +237,6 @@
     "name:pam_x_preferred":[
         "El Paso"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644 \u067e\u0627\u0633\u0648"
-    ],
     "name:pms_x_preferred":[
         "El Paso"
     ],
@@ -265,9 +252,6 @@
     "name:ron_x_preferred":[
         "El Paso"
     ],
-    "name:rum_x_preferred":[
-        "El Paso"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041f\u0430\u0441\u043e"
     ],
@@ -277,13 +261,16 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dbd\u0dca \u0db4\u0dcf\u0dc3\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "El Paso"
     ],
     "name:slv_x_preferred":[
         "El Paso"
     ],
     "name:spa_x_preferred":[
+        "El Paso"
+    ],
+    "name:sqi_x_preferred":[
         "El Paso"
     ],
     "name:srd_x_preferred":[
@@ -304,6 +291,9 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0bb2\u0bcd \u0baa\u0bbe\u0bb8\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u041f\u0430\u0441\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c32\u0c4d \u0c2a\u0c3e\u0c38\u0c4b"
     ],
@@ -322,7 +312,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041f\u0430\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magoffinsville"
     ],
     "name:urd_x_preferred":[
@@ -341,9 +331,6 @@
         "El Paso"
     ],
     "name:war_x_preferred":[
-        "El Paso"
-    ],
-    "name:wel_x_preferred":[
         "El Paso"
     ],
     "name:xmf_x_preferred":[
@@ -472,7 +459,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":1140.0,
     "wd:latitude":31.790278,
@@ -495,7 +482,6 @@
         "gp:id":2397816,
         "loc:id":"n79121678",
         "nyt:id":"N13249314768494705091",
-        "qs:id":1060540,
         "qs_pg:id":1060540,
         "wd:id":"Q16562",
         "wk:page":"El Paso, Texas"
@@ -515,7 +501,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1578514199,
+    "wof:lastmodified":1581720869,
     "wof:megacity":1,
     "wof:name":"El Paso",
     "wof:parent_id":102085989,

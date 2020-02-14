@@ -14,20 +14,22 @@
     "geom:longitude":-119.663837,
     "iso:country":"US",
     "iso:subdivision":"US-CA",
-    "label:eng_us_x_preferred_longname":[
-        "California"
-    ],
     "label:eng_x_preferred_longname":[
-        "California State"
+        "California"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "label:eng_x_variant_longname":[
-        "State of California"
+        "State of California",
+        "California State"
     ],
     "lbl:latitude":36.531544,
     "lbl:longitude":-119.586168,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.531544,
     "mps:longitude":-119.586168,
     "mz:hierarchy_label":1,
@@ -36,9 +38,6 @@
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
         "Kaliforni\u00eb"
-    ],
-    "name:alb_x_preferred":[
-        "Kalifornia"
     ],
     "name:als_x_preferred":[
         "Kalifornien"
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "California"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u056c\u056b\u0586\u0578\u057c\u0576\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627"
@@ -76,9 +72,6 @@
     "name:bak_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
     ],
-    "name:baq_x_preferred":[
-        "Kalifornia"
-    ],
     "name:bar_x_preferred":[
         "Kalifornien"
     ],
@@ -88,11 +81,17 @@
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u041a\u0430\u043b\u0456\u0444\u043e\u0440\u043d\u0456\u044f"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u043b\u0456\u0444\u043e\u0440\u043d\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b2\u09bf\u09ab\u09cb\u09b0\u09cd\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:bho_x_preferred":[
         "\u0915\u094d\u092f\u093e\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
+    ],
+    "name:bho_x_variant":[
+        "\u0915\u0948\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Kalifornia"
@@ -112,9 +111,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u101a\u103a\u101c\u102e\u1016\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
     ],
@@ -124,14 +120,14 @@
     "name:cdo_x_preferred":[
         "California"
     ],
+    "name:ceb_x_preferred":[
+        "California"
+    ],
     "name:ces_x_preferred":[
         "Kalifornie"
     ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
@@ -148,11 +144,11 @@
     "name:cos_x_preferred":[
         "California"
     ],
+    "name:crh_x_preferred":[
+        "Kaliforniya"
+    ],
     "name:cym_x_preferred":[
         "Califfornia"
-    ],
-    "name:cze_x_preferred":[
-        "Kalifornie"
     ],
     "name:dan_x_preferred":[
         "Californien"
@@ -165,9 +161,6 @@
     ],
     "name:dsb_x_preferred":[
         "Kaliforniska"
-    ],
-    "name:dut_x_preferred":[
-        "Californi\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03b9\u03c6\u03cc\u03c1\u03bd\u03b9\u03b1"
@@ -204,9 +197,6 @@
     "name:fra_x_preferred":[
         "Californie"
     ],
-    "name:fre_x_preferred":[
-        "Californie"
-    ],
     "name:frp_x_preferred":[
         "California"
     ],
@@ -222,12 +212,6 @@
     "name:gan_x_preferred":[
         "\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10d8\u10e4\u10dd\u10e0\u10dc\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kalifornien"
-    ],
     "name:gla_x_preferred":[
         "Calaf\u00f2rnia"
     ],
@@ -240,8 +224,8 @@
     "name:glv_x_preferred":[
         "California"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03b9\u03c6\u03cc\u03c1\u03bd\u03b9\u03b1"
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf3b\ud800\udf39\ud800\udf46\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf3d\ud800\udf3e\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "California"
@@ -255,8 +239,14 @@
     "name:hak_x_preferred":[
         "K\u00e2-li-fuk-n\u00ec-\u00e2"
     ],
+    "name:hak_x_variant":[
+        "California"
+    ],
     "name:hat_x_preferred":[
         "Kalif\u00f2ni"
+    ],
+    "name:hau_x_preferred":[
+        "California"
     ],
     "name:haw_x_preferred":[
         "Kaleponi"
@@ -287,9 +277,6 @@
     ],
     "name:ibo_x_preferred":[
         "California"
-    ],
-    "name:ice_x_preferred":[
-        "Kaliforn\u00eda"
     ],
     "name:ido_x_preferred":[
         "Kalifornia"
@@ -333,6 +320,9 @@
     "name:kab_x_preferred":[
         "Kalifurnya"
     ],
+    "name:kab_x_variant":[
+        "California"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cbf\u0cab\u0cca\u0cb0\u0ccd\u0ca8\u0cbf\u0caf"
     ],
@@ -342,8 +332,20 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
     ],
+    "name:kbp_x_preferred":[
+        "Kal\u0269f\u0254rnii"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17b6\u179b\u17b8\u17a0\u17d2\u179c\u1789\u17c9\u17b6"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uce98\ub9ac\ud3ec\ub2c8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce98\ub9ac\ud3ec\ub2c8\uc544\uc8fc"
     ],
     "name:krc_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
@@ -354,11 +356,17 @@
     "name:lad_x_preferred":[
         "Kalifornia"
     ],
+    "name:lad_x_variant":[
+        "California"
+    ],
     "name:lat_x_preferred":[
         "California"
     ],
     "name:lav_x_preferred":[
         "Kalifornija"
+    ],
+    "name:lfn_x_preferred":[
+        "California"
     ],
     "name:lij_x_preferred":[
         "California"
@@ -375,23 +383,23 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0627\u0644\u06cc\u0641\u0648\u0631\u0646\u06cc\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627"
+    ],
     "name:ltz_x_preferred":[
         "Kalifornien"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0458\u0430"
+    "name:lzh_x_preferred":[
+        "\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3e\u0d32\u0d3f\u0d2b\u0d4b\u0d7c\u0d23\u0d3f\u0d2f"
     ],
-    "name:mao_x_preferred":[
-        "Karap\u014dnia"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "California"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0439"
@@ -410,6 +418,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "California"
     ],
     "name:mya_x_preferred":[
         "\u1000\u101a\u103a\u101c\u102e\u1016\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
@@ -477,8 +488,8 @@
     "name:pdc_x_preferred":[
         "Kalifornie"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627"
+    "name:pfl_x_preferred":[
+        "Kalifornien"
     ],
     "name:pli_x_preferred":[
         "\u0915\u094d\u092f\u093e\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
@@ -504,7 +515,7 @@
     "name:roh_x_preferred":[
         "California"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "California"
     ],
     "name:rup_x_preferred":[
@@ -534,9 +545,6 @@
     "name:slk_x_preferred":[
         "Kalifornia"
     ],
-    "name:slo_x_preferred":[
-        "Kalifornia"
-    ],
     "name:slv_x_preferred":[
         "Kalifornija"
     ],
@@ -545,6 +553,9 @@
     ],
     "name:smo_x_preferred":[
         "Kalefonia"
+    ],
+    "name:snd_x_preferred":[
+        "\u06aa\u064a\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Kalifornia"
@@ -558,6 +569,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kalifornia"
+    ],
+    "name:sqi_x_variant":[
+        "Kaliforni"
     ],
     "name:srd_x_preferred":[
         "Calif\u00f2rnia"
@@ -601,9 +615,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0fb0\u0f0b\u0f63\u0f7a\u0f0b\u0f67\u0fa5\u0f7c\u0f62\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Kaliforniya"
     ],
@@ -613,11 +624,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u0444\u043e\u0440\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calif."
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0644\u06cc\u0641\u0648\u0631\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u06cc\u0644\u06cc \u0641\u0648\u0631\u0646\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Kaliforniya"
@@ -634,9 +648,6 @@
     "name:war_x_preferred":[
         "California"
     ],
-    "name:wel_x_preferred":[
-        "Califfornia"
-    ],
     "name:wln_x_preferred":[
         "Californeye"
     ],
@@ -645,6 +656,9 @@
     ],
     "name:xal_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
+    ],
+    "name:xho_x_preferred":[
+        "IKhalifoniya"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10da\u10d8\u10e4\u10dd\u10e0\u10dc\u10d8\u10d0"
@@ -738,9 +752,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"411,049",
     "statoids:area_mi":"158,707",
     "statoids:as_of_date":"2010-04-01",
@@ -787,11 +801,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513898,
+    "wof:lastmodified":1581720600,
     "wof:name":"California",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":37253956,
     "wof:population_rank":14,

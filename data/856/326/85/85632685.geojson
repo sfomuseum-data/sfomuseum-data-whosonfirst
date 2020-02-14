@@ -14,9 +14,14 @@
     "itu:country_code":[
         "7"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RU"
+    ],
     "lbl:bbox":"19.638524214,41.18535,179.98,81.86164",
     "lbl:latitude":63.314401,
     "lbl:longitude":93.884016,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":63.314401,
     "mps:longitude":93.884016,
     "mz:hierarchy_label":1,
@@ -40,6 +45,9 @@
     ],
     "name:aka_x_preferred":[
         "R\u0254hyea"
+    ],
+    "name:aka_x_variant":[
+        "Russia"
     ],
     "name:als_x_preferred":[
         "Russland"
@@ -89,6 +97,9 @@
     "name:bak_x_preferred":[
         "\u0420\u04d9\u0441\u04d9\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f\u04bb\u044b"
     ],
+    "name:bak_x_variant":[
+        "\u0420\u04d9\u0441\u04d9\u0439"
+    ],
     "name:bam_x_preferred":[
         "Risila"
     ],
@@ -114,6 +125,12 @@
     "name:ben_x_variant":[
         "\u09b0\u09be\u09b6\u09bf\u09df\u09be"
     ],
+    "name:bgn_x_preferred":[
+        "\u0631\u0648\u0633\u06cc\u0647"
+    ],
+    "name:bho_x_preferred":[
+        "\u0930\u0942\u0938"
+    ],
     "name:bis_x_preferred":[
         "Rusia"
     ],
@@ -134,6 +151,9 @@
     ],
     "name:bre_x_preferred":[
         "Rusia"
+    ],
+    "name:brh_x_preferred":[
+        "R\u00fas"
     ],
     "name:bug_x_preferred":[
         "Russia"
@@ -171,6 +191,9 @@
     "name:chr_x_preferred":[
         "\u13f2\u13c2\u13a2"
     ],
+    "name:chr_x_variant":[
+        "\u13f2\u13c2\u13f1"
+    ],
     "name:chu_x_preferred":[
         "\u0420\u0461\u0441\u0457\ua657"
     ],
@@ -198,9 +221,6 @@
     "name:cym_x_preferred":[
         "Rwsia"
     ],
-    "name:cze_x_preferred":[
-        "Rusko"
-    ],
     "name:dan_x_preferred":[
         "Rusland"
     ],
@@ -224,11 +244,17 @@
     "name:dsb_x_preferred":[
         "Rusojska"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u0941\u0938"
+    ],
     "name:dzo_x_preferred":[
         "\u0f62\u0f0b\u0f64\u0f72\u0f0b\u0f61\u0f71\u0f53\u0f0b\u0f55\u0f7a\u0f0b\u0f4c\u0f72\u0f0b\u0f62\u0f7a\u0f0b\u0f64\u0f71\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03c9\u03c3\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Rossia"
     ],
     "name:eng_x_historical":[
         "Russian Soviet Federated Socialist Republic",
@@ -300,11 +326,17 @@
         "F\u00e9d\u00e9ration de Russie",
         "Russie, F\u00e9d\u00e9ration de"
     ],
+    "name:frc_x_preferred":[
+        "Russie"
+    ],
     "name:frp_x_preferred":[
         "Russie"
     ],
     "name:frr_x_preferred":[
         "Rusl\u00f6nj"
+    ],
+    "name:frr_x_variant":[
+        "Ruslun"
     ],
     "name:fry_x_preferred":[
         "Rusl\u00e2n"
@@ -336,6 +368,9 @@
     "name:glg_x_preferred":[
         "Rusia"
     ],
+    "name:glk_x_preferred":[
+        "\u0631\u06ca\u0633\u06cc\u0647"
+    ],
     "name:glv_x_preferred":[
         "Yn Roosh"
     ],
@@ -347,6 +382,12 @@
     ],
     "name:grn_x_preferred":[
         "Rr\u00fasia"
+    ],
+    "name:grn_x_variant":[
+        "Rrusia"
+    ],
+    "name:gsw_x_preferred":[
+        "Russland"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ab6\u0abf\u0aaf\u0abe"
@@ -404,6 +445,9 @@
     "name:hye_x_preferred":[
         "\u054c\u0578\u0582\u057d\u0561\u057d\u057f\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0578\u0582\u057d\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Mpaghara Russia"
     ],
@@ -427,6 +471,9 @@
     ],
     "name:ind_x_preferred":[
         "Rusia"
+    ],
+    "name:inh_x_preferred":[
+        "\u042d\u0440\u0441\u0435\u0447\u0435"
     ],
     "name:ipk_x_preferred":[
         "Russia"
@@ -461,6 +508,9 @@
     "name:kab_x_preferred":[
         "Rusya"
     ],
+    "name:kab_x_variant":[
+        "Rrus"
+    ],
     "name:kal_x_preferred":[
         "Ruslandi"
     ],
@@ -482,6 +532,9 @@
     "name:kbd_x_preferred":[
         "\u0423\u0440\u044b\u0441\u0435\u0439"
     ],
+    "name:kbp_x_preferred":[
+        "Ruusii"
+    ],
     "name:khm_x_preferred":[
         "\u179a\u17bb\u179f\u17d2\u179f\u17ca\u17b8"
     ],
@@ -492,7 +545,8 @@
         "Racia"
     ],
     "name:kik_x_variant":[
-        "Urusi"
+        "Urusi",
+        "Russia"
     ],
     "name:kin_x_preferred":[
         "Uburusiya"
@@ -515,6 +569,9 @@
     "name:krc_x_preferred":[
         "\u0420\u043e\u0441\u0441\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f"
     ],
+    "name:ksh_x_preferred":[
+        "Ru\u00dfland"
+    ],
     "name:kur_x_preferred":[
         "R\u00fbsya"
     ],
@@ -528,7 +585,8 @@
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb1\u0e94\u0ec0\u0e8a\u0e8d"
     ],
     "name:lao_x_variant":[
-        "\u0ea5\u0eb1\u0e94\u0ec0\u0e8a\u0e8d"
+        "\u0ea5\u0eb1\u0e94\u0ec0\u0e8a\u0e8d",
+        "\u0ea5\u0eb1\u0e94\u0ec0\u0e8a\u0eb1\u0ebd"
     ],
     "name:lat_x_preferred":[
         "Russia"
@@ -541,6 +599,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0423\u0440\u0443\u0441\u0430\u0442"
+    ],
+    "name:lfn_x_preferred":[
+        "Rusia"
     ],
     "name:lij_x_preferred":[
         "Ruscia"
@@ -560,11 +621,17 @@
     "name:lit_x_variant":[
         "Rusijos Federacija"
     ],
+    "name:liv_x_preferred":[
+        "Kr\u012bev\u00f5m\u014d"
+    ],
     "name:lmo_x_preferred":[
         "R\u00fcssia"
     ],
     "name:lrc_x_preferred":[
         "\u0631\u0648\u0659\u0633\u06cc\u06d5"
+    ],
+    "name:lrc_x_variant":[
+        "\u0631\u0648\u0633\u06cc\u0647"
     ],
     "name:ltg_x_preferred":[
         "Kr\u012bveja"
@@ -581,6 +648,12 @@
     "name:lug_x_variant":[
         "Lasa"
     ],
+    "name:lzh_x_preferred":[
+        "\u4fc4\u7f85\u65af"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u0942\u0938"
+    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d37\u0d4d\u0d2f"
     ],
@@ -595,6 +668,9 @@
     ],
     "name:min_x_preferred":[
         "Rusia"
+    ],
+    "name:min_x_variant":[
+        "Russia"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0443\u0441\u0438\u0458\u0430"
@@ -634,6 +710,15 @@
     ],
     "name:mzn_x_preferred":[
         "\u0631\u0648\u0633\u06cc\u0647"
+    ],
+    "name:mzn_x_variant":[
+        "\u0626\u0648\u0631\u0648\u0633\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Rusia"
+    ],
+    "name:nan_x_preferred":[
+        "L\u014d\u0358-se-a"
     ],
     "name:nap_x_preferred":[
         "Russia"
@@ -699,6 +784,9 @@
     "name:oci_x_preferred":[
         "Russia"
     ],
+    "name:olo_x_preferred":[
+        "Ven'a"
+    ],
     "name:ori_x_preferred":[
         "\u0b0b\u0b37\u0b3f\u0b06"
     ],
@@ -720,6 +808,9 @@
     "name:pam_x_preferred":[
         "Rusia"
     ],
+    "name:pam_x_variant":[
+        "Rusya"
+    ],
     "name:pan_x_preferred":[
         "\u0a30\u0a42\u0a38"
     ],
@@ -734,6 +825,9 @@
     ],
     "name:pfl_x_preferred":[
         "Russland"
+    ],
+    "name:pfl_x_variant":[
+        "Russlond"
     ],
     "name:pih_x_preferred":[
         "Rusha"
@@ -765,6 +859,9 @@
     "name:que_x_preferred":[
         "Rusya"
     ],
+    "name:que_x_variant":[
+        "Rusiya"
+    ],
     "name:rmy_x_preferred":[
         "Rusiya"
     ],
@@ -780,14 +877,14 @@
     "name:rue_x_preferred":[
         "\u0420\u043e\u0441\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Rusia"
-    ],
     "name:rum_x_variant":[
         "Federa\u021bia Rus\u0103"
     ],
     "name:run_x_preferred":[
         "Uburusiya"
+    ],
+    "name:rup_x_preferred":[
+        "Arusia"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0441\u0441\u0438\u044f"
@@ -804,11 +901,20 @@
     "name:san_x_preferred":[
         "\u0930\u093e\u0938\u094d\u092f\u093e"
     ],
+    "name:san_x_variant":[
+        "\u0930\u0936\u093f\u092f\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c5f\u1c65\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Russia"
     ],
     "name:sco_x_preferred":[
         "Roushie"
+    ],
+    "name:sgs_x_preferred":[
+        "Ros\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0"
@@ -825,11 +931,23 @@
     "name:slv_x_variant":[
         "Ruska federacija"
     ],
+    "name:sma_x_preferred":[
+        "Ruassja"
+    ],
     "name:sme_x_preferred":[
         "Ruo\u0161\u0161a"
     ],
+    "name:smn_x_preferred":[
+        "Ruo\u0161\u0161\u00e2"
+    ],
     "name:smo_x_preferred":[
         "Rusia"
+    ],
+    "name:smo_x_variant":[
+        "Lusia"
+    ],
+    "name:sms_x_preferred":[
+        "Ru\u00f5\u0161\u0161j\u00e2nnam"
     ],
     "name:sna_x_preferred":[
         "Russian Federation"
@@ -848,6 +966,9 @@
     ],
     "name:sot_x_preferred":[
         "Rashea"
+    ],
+    "name:sot_x_variant":[
+        "Russia"
     ],
     "name:spa_x_colloquial":[
         "Federacion de Rusia",
@@ -908,6 +1029,9 @@
     "name:tat_x_variant":[
         "\u0420\u043e\u0441\u0441\u0438\u044f"
     ],
+    "name:tcy_x_preferred":[
+        "\u0cb0\u0cb7\u0ccd\u0caf\u0cbe"
+    ],
     "name:tel_x_preferred":[
         "\u0c30\u0c37\u0c4d\u0c2f\u0c3e"
     ],
@@ -922,6 +1046,9 @@
     ],
     "name:tgl_x_preferred":[
         "Rusya"
+    ],
+    "name:tgl_x_variant":[
+        "Russia"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22"
@@ -946,6 +1073,9 @@
     ],
     "name:tso_x_preferred":[
         "Rhaxiya"
+    ],
+    "name:tso_x_variant":[
+        "Russia"
     ],
     "name:tuk_x_preferred":[
         "Russi\u00fda"
@@ -980,19 +1110,10 @@
     "name:und_x_colloquial":[
         "Rosia"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Rosija",
         "Ros\u00eda",
-        "Ruska",
-        "R\u00fassland",
-        "\u0420\u043e\u0441\u0441\u0438\u044f"
-    ],
-    "name:und_x_variant":[
         "Rossija",
-        "Rossiya",
-        "Ruska federacija"
-    ],
-    "name:unk_x_variant":[
         "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika"
     ],
     "name:urd_x_preferred":[
@@ -1005,7 +1126,8 @@
         "Rossiya"
     ],
     "name:uzb_x_variant":[
-        "\u0420\u043e\u0441\u0441\u0438\u044f"
+        "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "Rossiya Federatsiyasi"
     ],
     "name:vec_x_preferred":[
         "Rusia"
@@ -1024,6 +1146,9 @@
     ],
     "name:vol_x_preferred":[
         "Rus\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Vinnemaa"
     ],
     "name:war_x_preferred":[
         "Rusya"
@@ -1055,6 +1180,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de R\u1ecd\u1e63ia"
     ],
+    "name:yue_x_preferred":[
+        "\u4fc4\u7f85\u65af"
+    ],
     "name:zea_x_preferred":[
         "Rusland"
     ],
@@ -1068,7 +1196,6 @@
         "\u4fc4\u7f57\u65af"
     ],
     "name:zho_x_variant":[
-        "\u4fc4\u7f57\u65af",
         "\u4fc4\u7f85\u65af"
     ],
     "name:zho_yue_x_preferred":[
@@ -1159,7 +1286,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"7",
     "statoids:ds":"RUS",
@@ -1205,7 +1332,7 @@
         "mzb:id":"russian-federation",
         "ne:adm0_a3":"RUS",
         "nyt:id":"66221073798091489281",
-        "qs:id":351507,
+        "qs_pg:id":351507,
         "uncrt:id":"RUS",
         "wd:id":"Q159",
         "wmo:id":"RS"
@@ -1221,9 +1348,6 @@
         }
     ],
     "wof:id":85632685,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus"
     ],
@@ -1249,7 +1373,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1578514161,
+    "wof:lastmodified":1581720830,
     "wof:name":"Russia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

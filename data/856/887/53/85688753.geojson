@@ -14,20 +14,22 @@
     "geom:longitude":-99.317137,
     "iso:country":"US",
     "iso:subdivision":"US-TX",
-    "label:eng_us_x_preferred_longname":[
-        "Texas"
-    ],
     "label:eng_x_preferred_longname":[
-        "Texas State"
+        "Texas"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TX"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Texas"
+        "State of Texas",
+        "Texas State"
     ],
     "lbl:latitude":31.030974,
     "lbl:longitude":-98.326329,
+    "lbl:min_zoom":8.0,
     "mps:latitude":31.030974,
     "mps:longitude":-98.326329,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Texas"
-    ],
-    "name:alb_x_preferred":[
         "Texas"
     ],
     "name:amh_x_preferred":[
@@ -51,9 +50,6 @@
     ],
     "name:arg_x_preferred":[
         "Texas"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0565\u056d\u0561\u057d"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0643\u0633\u0627\u0633"
@@ -70,8 +66,8 @@
     "name:aze_x_preferred":[
         "Texas"
     ],
-    "name:baq_x_preferred":[
-        "Texas"
+    "name:bak_x_preferred":[
+        "\u0422\u0435\u0445\u0430\u0441"
     ],
     "name:bar_x_preferred":[
         "Texas"
@@ -81,6 +77,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0422\u044d\u0445\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u044d\u0445\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u0995\u09cd\u09b8\u09be\u09b8"
@@ -106,9 +105,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043a\u0441\u0430\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u1010\u1000\u1039\u1000\u1006\u1015\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
     ],
@@ -118,11 +114,14 @@
     "name:cdo_x_preferred":[
         "Texas"
     ],
+    "name:ceb_x_preferred":[
+        "Texas"
+    ],
+    "name:ces_x_preferred":[
+        "Texas"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u5f97\u514b\u8428\u65af\u5dde"
     ],
     "name:chr_x_preferred":[
         "\u13c5\u13d3\u13a9"
@@ -136,6 +135,9 @@
     "name:chy_x_preferred":[
         "Toh\u00e1ano\u00e9ho\u00ebva"
     ],
+    "name:chy_x_variant":[
+        "Toh\u00e1ano'\u00e9ho'\u00ebva"
+    ],
     "name:ckb_x_preferred":[
         "\u062a\u06ce\u06a9\u0633\u0627\u0633"
     ],
@@ -145,19 +147,22 @@
     "name:cos_x_preferred":[
         "Texas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Texas"
     ],
     "name:dan_x_preferred":[
         "Texas"
     ],
+    "name:deu_x_preferred":[
+        "Texas"
+    ],
     "name:diq_x_preferred":[
         "Teksas"
     ],
-    "name:dsb_x_preferred":[
+    "name:diq_x_variant":[
         "Texas"
     ],
-    "name:dut_x_preferred":[
+    "name:dsb_x_preferred":[
         "Texas"
     ],
     "name:ell_x_preferred":[
@@ -181,6 +186,9 @@
     "name:est_x_preferred":[
         "Texas"
     ],
+    "name:eus_x_preferred":[
+        "Texas"
+    ],
     "name:fao_x_preferred":[
         "Texas"
     ],
@@ -191,9 +199,6 @@
         "Texas"
     ],
     "name:fra_x_preferred":[
-        "Texas"
-    ],
-    "name:fre_x_preferred":[
         "Texas"
     ],
     "name:frp_x_preferred":[
@@ -207,12 +212,6 @@
     ],
     "name:gag_x_preferred":[
         "Teksas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10ee\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Texas"
     ],
     "name:gla_x_preferred":[
         "Texas"
@@ -229,8 +228,8 @@
     "name:glv_x_preferred":[
         "Texas"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ad\u03be\u03b1\u03c2"
+    "name:gor_x_preferred":[
+        "Texas"
     ],
     "name:grn_x_preferred":[
         "Texas"
@@ -244,8 +243,14 @@
     "name:hak_x_preferred":[
         "Tet-khiet-sat-s\u1e73\u0302"
     ],
+    "name:hak_x_variant":[
+        "Texas"
+    ],
     "name:hat_x_preferred":[
         "Teksas"
+    ],
+    "name:hau_x_preferred":[
+        "Texas"
     ],
     "name:haw_x_preferred":[
         "Kekeka"
@@ -259,8 +264,14 @@
     "name:hin_x_preferred":[
         "\u091f\u0947\u0915\u094d\u0938\u0938"
     ],
+    "name:hin_x_variant":[
+        "\u091f\u0945\u0915\u094d\u0938\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Teksas"
+    ],
+    "name:hsb_x_preferred":[
+        "Texas"
     ],
     "name:hun_x_preferred":[
         "Texas"
@@ -269,9 +280,6 @@
         "\u054f\u0565\u056d\u0561\u057d"
     ],
     "name:ibo_x_preferred":[
-        "Texas"
-    ],
-    "name:ice_x_preferred":[
         "Texas"
     ],
     "name:ido_x_preferred":[
@@ -293,6 +301,9 @@
         "Texas"
     ],
     "name:ipk_x_preferred":[
+        "Texas"
+    ],
+    "name:isl_x_preferred":[
         "Texas"
     ],
     "name:ita_x_preferred":[
@@ -322,8 +333,14 @@
     "name:kaz_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
     ],
+    "name:kbp_x_preferred":[
+        "T\u025bk\u0269zas\u0269"
+    ],
     "name:kor_x_preferred":[
         "\ud14d\uc0ac\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14d\uc0ac\uc2a4\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Teksas"
@@ -336,6 +353,9 @@
     ],
     "name:lav_x_preferred":[
         "Teksasa"
+    ],
+    "name:lfn_x_preferred":[
+        "Texas"
     ],
     "name:lij_x_preferred":[
         "Texas"
@@ -352,26 +372,23 @@
     "name:lrc_x_preferred":[
         "\u062a\u0626\u06af\u0632\u0627\u0633"
     ],
+    "name:lrc_x_variant":[
+        "\u062a\u06af\u0632\u0627\u0633"
+    ],
     "name:ltz_x_preferred":[
         "Texas"
     ],
     "name:lzh_x_preferred":[
         "\u5fb7\u514b\u85a9\u65af\u5dde"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043a\u0441\u0430\u0441"
+    "name:mai_x_preferred":[
+        "\u091f\u0947\u0915\u094d\u0938\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d46\u0d15\u0d4d\u0d38\u0d38\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Texas"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u0915\u094d\u0938\u093e\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Texas"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
@@ -385,8 +402,14 @@
     "name:mon_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
     ],
+    "name:mri_x_preferred":[
+        "Texas"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Texas"
     ],
     "name:mya_x_preferred":[
         "\u1010\u1000\u1039\u1000\u1006\u1015\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
@@ -415,6 +438,12 @@
     "name:new_x_preferred":[
         "\u0924\u0947\u0915\u094d\u0938\u093e\u0938"
     ],
+    "name:new_x_variant":[
+        "\u091f\u0947\u0915\u094d\u0938\u093e\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Texas"
+    ],
     "name:nno_x_preferred":[
         "Texas"
     ],
@@ -435,9 +464,6 @@
     ],
     "name:pap_x_preferred":[
         "Teksas"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u06af\u0632\u0627\u0633"
     ],
     "name:pli_x_preferred":[
         "\u091f\u0947\u0915\u094d\u0938\u093e\u0938"
@@ -460,7 +486,7 @@
     "name:roh_x_preferred":[
         "Texas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Texas"
     ],
     "name:rus_x_preferred":[
@@ -484,7 +510,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd9\u0d9a\u0dca\u0dc3\u0dcf\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Texas"
     ],
     "name:slv_x_preferred":[
@@ -506,6 +532,9 @@
         "Tejas",
         "Estado de la Estrella Solitaria",
         "Estado de Texas"
+    ],
+    "name:sqi_x_preferred":[
+        "Texas"
     ],
     "name:srd_x_preferred":[
         "Texas"
@@ -537,14 +566,17 @@
     "name:tgk_x_preferred":[
         "\u0422\u0435\u043a\u0441\u0430\u0441"
     ],
+    "name:tgk_x_variant":[
+        "\u0422\u0435\u0445\u0430\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Teksas"
     ],
+    "name:tgl_x_variant":[
+        "Texas"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e17\u0e01\u0e0b\u0e31\u0e2a"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f4b\u0f7a\u0f42\u0f0b\u0f5f\u0f0b\u0f66\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Tehas"
@@ -558,7 +590,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Texas"
     ],
     "name:urd_x_preferred":[
@@ -579,8 +611,8 @@
     "name:war_x_preferred":[
         "Texas"
     ],
-    "name:wel_x_preferred":[
-        "Texas"
+    "name:wuu_x_preferred":[
+        "\u5fb3\u514b\u8428\u65af\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u0422\u0435\u0435\u043a\u0441\u04d9\u0441"
@@ -591,17 +623,26 @@
     "name:yid_x_preferred":[
         "\u05d8\u05e2\u05e7\u05e1\u05d0\u05e1"
     ],
+    "name:yid_x_variant":[
+        "\u05d8\u05e2\u05e7\u05e1\u05e2\u05e1"
+    ],
     "name:yor_x_preferred":[
         "Texas"
     ],
     "name:yue_x_preferred":[
         "\u5fb7\u85a9\u65af\u5dde"
     ],
+    "name:yue_x_variant":[
+        "\u5fb7\u5dde"
+    ],
     "name:zea_x_preferred":[
         "Texas"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u514b\u8428\u65af\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u5f97\u514b\u8428\u65af\u5dde"
     ],
     "name:zul_x_preferred":[
         "Texas"
@@ -677,9 +718,9 @@
     "src:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"691,030",
     "statoids:area_mi":"266,808",
     "statoids:as_of_date":"2010-04-01",
@@ -725,11 +766,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1578513868,
+    "wof:lastmodified":1581720565,
     "wof:name":"Texas",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":25145561,
     "wof:population_rank":14,

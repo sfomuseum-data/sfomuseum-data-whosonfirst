@@ -1,11 +1,5 @@
 {
-  "sfomuseum:name": "Frankfurt Airport", 
-  "edtf:inception": "1936", 
+  "sfomuseum:is_sfo": 1, 
   "sfomuseum:placetype": "airport", 
-  "sfomuseum:airport_id": 40, 
-  "wof:concordances": {
-    "icao:code": "EDDF", 
-    "iata:code": "FRA"
-  }, 
-  "sfomuseum:is_sfo": 1
+  "sfomuseum:airport_id": -1
 }

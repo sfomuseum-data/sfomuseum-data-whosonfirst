@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.025277778,19.8497222222,-101.025277778,19.8497222222",
+    "geom:bbox":"-101.025278,19.849722,-101.025278,19.849722",
     "geom:latitude":19.849722,
     "geom:longitude":-101.025278,
     "iso:country":"MX",
@@ -66,7 +66,7 @@
         "wd:id":"Q2231705"
     },
     "wof:country":"MX",
-    "wof:geomhash":"8b912d4c9df6ff35c02718c2ca28cfee",
+    "wof:geomhash":"fc0a6e55ef91d7b12af7b2cdd5c92233",
     "wof:hierarchy":[
         {
             "campus_id":102536381,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102536381,
-    "wof:lastmodified":1581720468,
+    "wof:lastmodified":1606163494,
     "wof:name":"General Francisco J Mujica Airport",
     "wof:parent_id":85686595,
     "wof:placetype":"campus",
@@ -87,10 +87,10 @@
     ]
 },
   "bbox": [
-    -101.02527777778,
-    19.849722222222,
-    -101.02527777778,
-    19.849722222222
+    -101.025278,
+    19.849722,
+    -101.025278,
+    19.849722
 ],
-  "geometry": {"coordinates":[-101.02527777778,19.849722222222],"type":"Point"}
+  "geometry": {"coordinates":[-101.025278,19.849722],"type":"Point"}
 }

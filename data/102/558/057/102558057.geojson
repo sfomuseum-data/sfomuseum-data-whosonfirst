@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"145.622222222,-28.03,145.622222222,-28.03",
+    "geom:bbox":"145.622222,-28.03,145.622222,-28.03",
     "geom:latitude":-28.03,
     "geom:longitude":145.622222,
     "iso:country":"AU",
@@ -67,7 +67,7 @@
         "wd:id":"Q1655426"
     },
     "wof:country":"AU",
-    "wof:geomhash":"ed7b55f63bdf9feb818e633fcfd5ac00",
+    "wof:geomhash":"7dd32e0627a58764c3b562cab933eb36",
     "wof:hierarchy":[
         {
             "campus_id":102558057,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102558057,
-    "wof:lastmodified":1581720457,
+    "wof:lastmodified":1606163488,
     "wof:name":"Cunnamulla Aerodrome",
     "wof:parent_id":85681463,
     "wof:placetype":"campus",
@@ -88,10 +88,10 @@
     ]
 },
   "bbox": [
-    145.62222222222,
+    145.622222,
     -28.03,
-    145.62222222222,
+    145.622222,
     -28.03
 ],
-  "geometry": {"coordinates":[145.62222222221999,-28.03],"type":"Point"}
+  "geometry": {"coordinates":[145.62222199999999,-28.03],"type":"Point"}
 }

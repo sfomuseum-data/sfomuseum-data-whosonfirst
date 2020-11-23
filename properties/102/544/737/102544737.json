@@ -1,8 +1,13 @@
 {
   "edtf:cessation": "1987", 
-  "sfomuseum:name": "Airport Basel - Mulhouse", 
-  "edtf:inception": "1946", 
   "sfomuseum:placetype": "airport", 
+  "sfomuseum:name": "EuroAirport Basel Mulhouse Freiburg", 
+  "edtf:inception": "1946", 
+  "sfomuseum:count_objects_public": 0, 
   "sfomuseum:airport_id": 193, 
+  "wof:concordances": {
+    "icao:code": "LFSB, LSZM", 
+    "iata:code": "MLH, BSL, EAP"
+  }, 
   "sfomuseum:is_sfo": 1
 }

@@ -1,9 +1,11 @@
 {
-  "sfomuseum:airport_id": 253, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:name": "San Jose Municipal Airport", 
+  "sfomuseum:count_objects_public": 0, 
+  "sfomuseum:airport_id": 253, 
   "wof:concordances": {
+    "icao:code": "KSJC", 
     "iata:code": "SJC"
   }, 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

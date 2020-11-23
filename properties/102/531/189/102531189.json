@@ -1,10 +1,12 @@
 {
-  "sfomuseum:airport_id": 33, 
+  "sfomuseum:placetype": "airport", 
   "sfomuseum:name": "Denver International Airport", 
+  "edtf:inception": "1995", 
+  "sfomuseum:count_objects_public": 5, 
+  "sfomuseum:airport_id": 33, 
   "wof:concordances": {
     "icao:code": "KDEN", 
     "iata:code": "DEN"
   }, 
-  "sfomuseum:placetype": "airport", 
   "sfomuseum:is_sfo": 1
 }

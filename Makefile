@@ -1,18 +1,11 @@
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 
-# metafiles:
-# 	utils/$(OS)/wof-build-metafiles -out meta .
-
-fetch:
-	utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -mode ids $(IDS)
-
 refresh:
 	@make refresh-whosonfirst
 	@make refresh-sfomuseum
 
 refresh-whosonfirst:
-	# utils/$(OS)/wof-fetch -retries 3 -strict -belongs-to region -belongs-to country -writer 'writer=repo root=.' -reader 'reader=github repo=whosonfirst-data' -reader 'reader=github repo=whosonfirst-data-postalcode-us' -mode repo .
-	/Users/asc/whosonfirst/go-whosonfirst-fetch/bin/fetch -retries 3 -belongs-to region -belongs-to country -writer-uri stdout:// -mode repo .
+	utils/$(OS)/refresh -retries 3 -belongs-to region -belongs-to country -writer-uri fs://./data -indexer-uri repo:// .
 
 refresh-sfomuseum:
 	@make ensure-sfomuseum

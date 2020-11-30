@@ -60,6 +60,9 @@
     ],
     "oa:elevation_ft":"1428",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102528763,
-    "wof:lastmodified":1566609344,
+    "wof:lastmodified":1606756266,
     "wof:name":"Duluth International Airport",
     "wof:parent_id":85815383,
     "wof:placetype":"campus",

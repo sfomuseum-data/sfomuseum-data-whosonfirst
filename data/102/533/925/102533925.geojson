@@ -44,6 +44,9 @@
     ],
     "oa:elevation_ft":"4551",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102533925,
-    "wof:lastmodified":1566608577,
+    "wof:lastmodified":1606756264,
     "wof:name":"Los Alamitos Army Air Field",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

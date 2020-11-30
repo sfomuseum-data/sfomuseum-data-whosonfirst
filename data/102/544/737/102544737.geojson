@@ -131,6 +131,11 @@
     ],
     "oa:elevation_ft":"885",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":193,
+    "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"EuroAirport Basel Mulhouse Freiburg",
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":2000,
@@ -155,8 +160,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12523049,
-        "iata:code":"BSL",
-        "icao:code":"LFSB",
+        "iata:code":"MLH, BSL, EAP",
+        "icao:code":"LFSB, LSZM",
         "oa:id":"4226",
         "wd:id":"Q156971",
         "wk:page":"EuroAirport_Basel-Mulhouse-Freiburg"
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":102544737,
-    "wof:lastmodified":1566655928,
+    "wof:lastmodified":1606756268,
     "wof:name":"Airport Basel - Mulhouse",
     "wof:parent_id":101829567,
     "wof:placetype":"campus",

@@ -416,6 +416,7 @@
     "qs:loc":"Auckland",
     "qs:pop":0,
     "qs:source":"LUnknown",
+    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -429,11 +430,11 @@
     "wd:population":1454300,
     "wd:wordcount":9046,
     "wof:belongsto":[
+        85687243,
         102191583,
-        85633345,
-        102079403,
         1729238453,
-        85687243
+        85633345,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -467,7 +468,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603394467,
+    "wof:lastmodified":1606756585,
     "wof:name":"Auckland",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
     ],
     "oa:elevation_ft":"5016",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102536387,
-    "wof:lastmodified":1566656649,
+    "wof:lastmodified":1606756273,
     "wof:name":"Don Miguel Hidalgo International Airport",
     "wof:parent_id":85686603,
     "wof:placetype":"campus",

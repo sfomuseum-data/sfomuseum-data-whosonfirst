@@ -71,6 +71,9 @@
     ],
     "oa:elevation_ft":"23",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102536481,
-    "wof:lastmodified":1566656637,
+    "wof:lastmodified":1606756273,
     "wof:name":"Lic Gustavo Diaz Ordaz International Airport",
     "wof:parent_id":85884625,
     "wof:placetype":"campus",

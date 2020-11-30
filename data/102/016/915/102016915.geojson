@@ -890,6 +890,7 @@
     "qs:pop":0,
     "qs:source":"Lquattroshapes",
     "qs:type":"Town",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -899,8 +900,8 @@
     "wof:belongsto":[
         102191577,
         85633057,
-        102063117,
-        85682207
+        85682207,
+        102063117
     ],
     "wof:breaches":[],
     "wof:capital_of":85633057,
@@ -934,7 +935,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587428374,
+    "wof:lastmodified":1606756275,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

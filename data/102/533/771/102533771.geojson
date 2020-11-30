@@ -81,6 +81,9 @@
     "name:zho_x_preferred":[
         "\u4e09\u6708\u7a7a\u8ecd\u9810\u5099\u57fa\u5730"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102533771,
-    "wof:lastmodified":1566608576,
+    "wof:lastmodified":1606756264,
     "wof:name":"March Air Force Base",
     "wof:parent_id":85873359,
     "wof:placetype":"campus",

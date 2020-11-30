@@ -72,6 +72,9 @@
     ],
     "oa:elevation_ft":"26",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102530093,
-    "wof:lastmodified":1566609425,
+    "wof:lastmodified":1606756271,
     "wof:name":"Norfolk International Airport",
     "wof:parent_id":85879265,
     "wof:placetype":"campus",

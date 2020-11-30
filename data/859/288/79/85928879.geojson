@@ -610,6 +610,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":39.740959,
     "reversegeo:longitude":-104.985798,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -624,8 +625,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        102086135,
-        85688603
+        85688603,
+        102086135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -660,7 +661,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587428391,
+    "wof:lastmodified":1606756278,
     "wof:megacity":1,
     "wof:name":"Denver",
     "wof:parent_id":102086135,

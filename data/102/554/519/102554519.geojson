@@ -51,6 +51,9 @@
     ],
     "oa:elevation_ft":"160",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"wikidata",
     "src:geom_alt":[],
     "wd:wordcount":37,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102554519,
-    "wof:lastmodified":1566518863,
+    "wof:lastmodified":1606756274,
     "wof:name":"Goose Bay Airport",
     "wof:parent_id":85682123,
     "wof:placetype":"campus",

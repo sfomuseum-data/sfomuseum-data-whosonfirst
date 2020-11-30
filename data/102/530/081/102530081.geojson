@@ -50,6 +50,9 @@
     ],
     "oa:elevation_ft":"17",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":102530081,
-    "wof:lastmodified":1566609422,
+    "wof:lastmodified":1606756271,
     "wof:name":"North Bend Municipal Airport",
     "wof:parent_id":85818067,
     "wof:placetype":"campus",

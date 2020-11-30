@@ -43,6 +43,9 @@
     ],
     "oa:elevation_ft":"17",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":632,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102531259,
-    "wof:lastmodified":1566609432,
+    "wof:lastmodified":1606756272,
     "wof:name":"Chennault International Airport",
     "wof:parent_id":85822313,
     "wof:placetype":"campus",

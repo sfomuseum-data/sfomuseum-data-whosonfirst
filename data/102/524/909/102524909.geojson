@@ -58,6 +58,9 @@
     ],
     "oa:elevation_ft":"32",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":102524909,
-    "wof:lastmodified":1566610064,
+    "wof:lastmodified":1606756277,
     "wof:name":"Ellington Field Airport",
     "wof:parent_id":85869217,
     "wof:placetype":"campus",

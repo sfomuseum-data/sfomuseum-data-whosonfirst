@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u5967\u65af\u79d1\u9054-\u4f0d\u723e\u53f2\u5bc6\u65af\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102530895,
-    "wof:lastmodified":1566609414,
+    "wof:lastmodified":1606756270,
     "wof:name":"Wurtsmith Air Force Base",
     "wof:parent_id":404507707,
     "wof:placetype":"campus",

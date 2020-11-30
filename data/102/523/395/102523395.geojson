@@ -75,6 +75,9 @@
     ],
     "oa:elevation_ft":"1287",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102523395,
-    "wof:lastmodified":1566610064,
+    "wof:lastmodified":1606756277,
     "wof:name":"Northwest Arkansas Regional Airport",
     "wof:parent_id":85853527,
     "wof:placetype":"campus",

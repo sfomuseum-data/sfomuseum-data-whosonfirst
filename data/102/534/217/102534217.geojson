@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-110.737999,43.6073,-110.737999,43.6073",
@@ -76,6 +77,9 @@
     ],
     "oa:elevation_ft":"6451",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102534217,
-    "wof:lastmodified":1566608588,
+    "wof:lastmodified":1606756264,
     "wof:name":"Jackson Hole Airport",
     "wof:parent_id":85688475,
     "wof:placetype":"campus",

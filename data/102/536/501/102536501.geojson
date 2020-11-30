@@ -67,6 +67,9 @@
     ],
     "oa:elevation_ft":"5956",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102536501,
-    "wof:lastmodified":1566656630,
+    "wof:lastmodified":1606756273,
     "wof:name":"Silao Airport",
     "wof:parent_id":101996785,
     "wof:placetype":"campus",

@@ -76,6 +76,9 @@
     ],
     "oa:elevation_ft":"174",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102538307,
-    "wof:lastmodified":1566656524,
+    "wof:lastmodified":1606756272,
     "wof:name":"Olkhovka Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

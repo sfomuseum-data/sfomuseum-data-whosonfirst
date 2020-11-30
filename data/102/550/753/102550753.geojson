@@ -88,6 +88,9 @@
     ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102550753,
-    "wof:lastmodified":1566655287,
+    "wof:lastmodified":1606756265,
     "wof:name":"Liuting Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

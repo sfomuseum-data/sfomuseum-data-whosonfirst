@@ -673,6 +673,7 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424848,
     "qs_pg:woe_id":29193915,
+    "sfomuseum:placetype":"city",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
@@ -686,8 +687,8 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1108695773,
-        85672123
+        85672123,
+        1108695773
     ],
     "wof:breaches":[
         102029189
@@ -718,7 +719,7 @@
         }
     ],
     "wof:id":102030425,
-    "wof:lastmodified":1587427768,
+    "wof:lastmodified":1606756266,
     "wof:megacity":1,
     "wof:name":"Delhi",
     "wof:parent_id":1108695773,

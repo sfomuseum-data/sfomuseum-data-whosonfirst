@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:is_sfo":1,
     "geom:area":0.000554,
     "geom:area_square_m":4589155.509284,
     "geom:bbox":"-122.292831,47.889832,-122.258667,47.926178",
@@ -65,6 +66,9 @@
     ],
     "oa:elevation_ft":"606",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102526657,
-    "wof:lastmodified":1566609367,
+    "wof:lastmodified":1606756267,
     "wof:name":"Snohomish County Airport-Paine Field",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

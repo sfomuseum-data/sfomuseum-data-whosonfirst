@@ -805,6 +805,7 @@
     "qs:type":"urban core",
     "reversegeo:latitude":40.435,
     "reversegeo:longitude":-3.678212,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -815,8 +816,8 @@
     "wof:belongsto":[
         102191581,
         85633129,
-        404227387,
-        85682783
+        85682783,
+        404227387
     ],
     "wof:breaches":[],
     "wof:capital_of":85633129,
@@ -851,7 +852,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587429001,
+    "wof:lastmodified":1606756585,
     "wof:name":"Madrid",
     "wof:parent_id":85682783,
     "wof:placetype":"locality",

@@ -1028,6 +1028,7 @@
     "qs:type":"urban core",
     "reversegeo:latitude":48.858705,
     "reversegeo:longitude":2.342865,
+    "sfomuseum:placetype":"city",
     "src:geom":"frgov",
     "src:geom_alt":[
         "naturalearth",
@@ -1039,11 +1040,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683497,
         102191581,
-        85633147,
         1159322569,
-        404227465,
-        85683497
+        85633147,
+        404227465
     ],
     "wof:breaches":[],
     "wof:capital_of":85633147,
@@ -1085,7 +1086,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1587429085,
+    "wof:lastmodified":1606756587,
     "wof:name":"Paris",
     "wof:parent_id":1159322569,
     "wof:placetype":"locality",

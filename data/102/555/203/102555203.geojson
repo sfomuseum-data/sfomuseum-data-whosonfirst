@@ -65,6 +65,9 @@
     "name:zho_x_preferred":[
         "\u55ac\u6cbb\u7687\u5b50\u57ce\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -85,6 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12511801,
+        "iata:code":"YXS",
         "wd:id":"Q779571"
     },
     "wof:country":"",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102555203,
-    "wof:lastmodified":1566656436,
+    "wof:lastmodified":1606756271,
     "wof:name":"Prince George Airport",
     "wof:parent_id":101740817,
     "wof:placetype":"campus",

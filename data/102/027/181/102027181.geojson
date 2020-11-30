@@ -631,6 +631,7 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -642,11 +643,11 @@
     "wd:population":24152700,
     "wd:wordcount":11334,
     "wof:belongsto":[
+        85669831,
         102191569,
         85632695,
-        890514815,
         136253041,
-        85669831
+        890514815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -670,7 +671,7 @@
         }
     ],
     "wof:id":102027181,
-    "wof:lastmodified":1587428570,
+    "wof:lastmodified":1606756274,
     "wof:megacity":1,
     "wof:name":"Shanghai",
     "wof:parent_id":890514815,

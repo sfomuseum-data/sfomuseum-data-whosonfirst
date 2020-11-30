@@ -676,6 +676,7 @@
     "qs:pop":0,
     "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -689,11 +690,11 @@
     "wd:population":1343163,
     "wd:wordcount":11737,
     "wof:belongsto":[
+        85685243,
         102191581,
-        85633253,
         404468459,
-        404227497,
-        85685243
+        85633253,
+        404227497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -727,7 +728,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1587427923,
+    "wof:lastmodified":1606756576,
     "wof:megacity":1,
     "wof:name":"Milano",
     "wof:parent_id":404468459,

@@ -922,6 +922,7 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -929,11 +930,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669727,
         102191569,
         85632695,
-        1108732371,
         136253041,
-        85669727
+        1108732371
     ],
     "wof:breaches":[],
     "wof:capital_of":85632695,
@@ -968,7 +969,7 @@
         }
     ],
     "wof:id":102027745,
-    "wof:lastmodified":1587428588,
+    "wof:lastmodified":1606756275,
     "wof:megacity":1,
     "wof:name":"Beijing",
     "wof:parent_id":1108732371,

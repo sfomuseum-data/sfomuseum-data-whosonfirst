@@ -886,6 +886,7 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -895,11 +896,11 @@
     "src:population":"geonames",
     "wd:wordcount":14581,
     "wof:belongsto":[
+        85687257,
         102191581,
-        85633723,
-        1477743805,
         1125365875,
-        85687257
+        85633723,
+        1477743805
     ],
     "wof:breaches":[],
     "wof:capital_of":85633723,
@@ -938,7 +939,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1587427333,
+    "wof:lastmodified":1606756576,
     "wof:megacity":1,
     "wof:name":"Warszawa",
     "wof:parent_id":1125365875,

@@ -66,6 +66,9 @@
     ],
     "oa:elevation_ft":"3337",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"wikidata",
     "src:geom_alt":[],
     "wd:wordcount":2177,
@@ -82,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12510307,
-        "iata:code":"KDH",
+        "iata:code":"PUS",
         "icao:code":"OAKN",
         "oa:id":"5073",
         "wd:id":"Q33156"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102536665,
-    "wof:lastmodified":1566656644,
+    "wof:lastmodified":1606756273,
     "wof:name":"Kandahar International Airport",
     "wof:parent_id":85667549,
     "wof:placetype":"campus",

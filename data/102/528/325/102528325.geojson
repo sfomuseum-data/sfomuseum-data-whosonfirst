@@ -67,6 +67,9 @@
     ],
     "oa:elevation_ft":"742",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102528325,
-    "wof:lastmodified":1566609354,
+    "wof:lastmodified":1606756267,
     "wof:name":"Greater Rockford Airport",
     "wof:parent_id":85939829,
     "wof:placetype":"campus",

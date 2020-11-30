@@ -58,6 +58,9 @@
     ],
     "oa:elevation_ft":"4858",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":102532065,
-    "wof:lastmodified":1566608598,
+    "wof:lastmodified":1606756265,
     "wof:name":"Walker Field Airport",
     "wof:parent_id":85877841,
     "wof:placetype":"campus",

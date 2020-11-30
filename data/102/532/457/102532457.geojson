@@ -51,6 +51,9 @@
     ],
     "oa:elevation_ft":"4726",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102532457,
-    "wof:lastmodified":1566608608,
+    "wof:lastmodified":1606756266,
     "wof:name":"Pueblo Memorial Airport",
     "wof:parent_id":85929187,
     "wof:placetype":"campus",

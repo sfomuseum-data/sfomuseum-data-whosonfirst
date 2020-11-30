@@ -376,6 +376,7 @@
     "qs:loc":"Christchurch",
     "qs:pop":0,
     "qs:source":"LUnknown",
+    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -389,11 +390,11 @@
     "wd:population":362000,
     "wd:wordcount":8478,
     "wof:belongsto":[
+        85687179,
         102191583,
-        85633345,
-        102079401,
         1729238507,
-        85687179
+        85633345,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -430,7 +431,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603394480,
+    "wof:lastmodified":1606756585,
     "wof:megacity":0,
     "wof:name":"Christchurch",
     "wof:parent_id":1729238507,

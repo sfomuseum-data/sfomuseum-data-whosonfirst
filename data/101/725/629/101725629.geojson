@@ -636,6 +636,7 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -650,8 +651,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        102081111,
-        85688753
+        85688753,
+        102081111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -685,7 +686,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587428513,
+    "wof:lastmodified":1606756580,
     "wof:megacity":1,
     "wof:name":"Houston",
     "wof:parent_id":102081111,

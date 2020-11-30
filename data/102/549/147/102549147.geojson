@@ -104,6 +104,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u59c6\u65bd\u6cf0\u56e0\u7a7a\u519b\u57fa\u5730"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -125,6 +128,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513215,
+        "iata:code":"RMS",
+        "icao:code":"ETAR",
         "wd:id":"Q161348"
     },
     "wof:country":"",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":102549147,
-    "wof:lastmodified":1566656795,
+    "wof:lastmodified":1606756275,
     "wof:name":"Ramstein Air Base",
     "wof:parent_id":101815667,
     "wof:placetype":"campus",

@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"127.240997,26.592501,127.240997,26.592501",
@@ -70,6 +71,9 @@
     ],
     "oa:elevation_ft":"38",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -105,8 +109,8 @@
         }
     ],
     "wof:id":102541457,
-    "wof:lastmodified":1566656991,
-    "wof:name":"\u7c9f\u56fd\u7a7a\u6e2f",
+    "wof:lastmodified":1606756276,
+    "wof:name":"Aguni Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",

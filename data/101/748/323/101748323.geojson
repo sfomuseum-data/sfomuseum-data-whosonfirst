@@ -778,6 +778,7 @@
     "qs:type":"urban core",
     "reversegeo:latitude":41.403583,
     "reversegeo:longitude":2.153048,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -793,8 +794,8 @@
     "wof:belongsto":[
         102191581,
         85633129,
-        404227379,
-        85682663
+        85682663,
+        404227379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -828,7 +829,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587429000,
+    "wof:lastmodified":1606756584,
     "wof:megacity":1,
     "wof:name":"Barcelona",
     "wof:parent_id":85682663,

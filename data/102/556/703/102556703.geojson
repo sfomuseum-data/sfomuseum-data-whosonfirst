@@ -253,6 +253,11 @@
     "name:zho_x_preferred":[
         "\u4f26\u6566\u5e0c\u601d\u7f57\u673a\u573a"
     ],
+    "sfomuseum:airport_id":70,
+    "sfomuseum:count_objects_public":13,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"London Heathrow Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -295,7 +300,7 @@
         }
     ],
     "wof:id":102556703,
-    "wof:lastmodified":1566627414,
+    "wof:lastmodified":1606756263,
     "wof:name":"London Heathrow Airport",
     "wof:parent_id":85788065,
     "wof:placetype":"campus",

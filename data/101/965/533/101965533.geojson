@@ -747,6 +747,7 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Grande Metr\u00f3pole Nacional",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -759,12 +760,12 @@
     "wd:population":11967825,
     "wd:wordcount":14735,
     "wof:belongsto":[
+        85682041,
         102191577,
-        85633009,
-        102062255,
         404567359,
+        85633009,
         1511777411,
-        85682041
+        102062255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -793,7 +794,7 @@
         }
     ],
     "wof:id":101965533,
-    "wof:lastmodified":1587428100,
+    "wof:lastmodified":1606756577,
     "wof:name":"S\u00e3o Paulo",
     "wof:parent_id":404567359,
     "wof:placetype":"locality",

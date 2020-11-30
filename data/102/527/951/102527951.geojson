@@ -38,6 +38,9 @@
     ],
     "oa:elevation_ft":"346",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102527951,
-    "wof:lastmodified":1566609386,
+    "wof:lastmodified":1606756268,
     "wof:name":"Tupelo Municipal-C D Lemons Airport",
     "wof:parent_id":85969769,
     "wof:placetype":"campus",

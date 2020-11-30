@@ -750,6 +750,7 @@
     "qs:pop":0,
     "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -774,8 +775,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        1108730705,
-        85688801
+        85688801,
+        1108730705
     ],
     "wof:breaches":[],
     "wof:capital_of":85633805,
@@ -799,7 +800,7 @@
         }
     ],
     "wof:id":101752489,
-    "wof:lastmodified":1587428355,
+    "wof:lastmodified":1606756576,
     "wof:megacity":1,
     "wof:name":"Kiev City",
     "wof:parent_id":85688801,

@@ -500,6 +500,7 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Metr\u00f3pole",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -512,11 +513,11 @@
     "wd:population":1360590,
     "wd:wordcount":9288,
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059767,
         1511777409,
-        85682015
+        102059767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -547,7 +548,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1587428198,
+    "wof:lastmodified":1606756587,
     "wof:megacity":1,
     "wof:name":"Porto Alegre",
     "wof:parent_id":102059767,

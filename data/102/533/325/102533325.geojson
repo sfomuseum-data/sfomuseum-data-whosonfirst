@@ -63,6 +63,9 @@
     ],
     "oa:elevation_ft":"11",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102533325,
-    "wof:lastmodified":1566608577,
+    "wof:lastmodified":1606756264,
     "wof:name":"St. Petersburg-Clearwater International Airport",
     "wof:parent_id":85868535,
     "wof:placetype":"campus",

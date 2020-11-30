@@ -97,6 +97,9 @@
     ],
     "oa:elevation_ft":"122",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102535801,
-    "wof:lastmodified":1566655397,
+    "wof:lastmodified":1606756265,
     "wof:name":"Mais Gate International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -595,6 +595,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":32.72793,
     "reversegeo:longitude":-117.15529,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -605,8 +606,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        102083569,
-        85688637
+        85688637,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -641,7 +642,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587587485,
+    "wof:lastmodified":1606756283,
     "wof:megacity":1,
     "wof:name":"San Diego",
     "wof:parent_id":102083569,

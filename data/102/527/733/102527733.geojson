@@ -89,6 +89,9 @@
     ],
     "oa:elevation_ft":"2871",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102527733,
-    "wof:lastmodified":1566609385,
+    "wof:lastmodified":1606756268,
     "wof:name":"Boise Air Terminal",
     "wof:parent_id":85876337,
     "wof:placetype":"campus",

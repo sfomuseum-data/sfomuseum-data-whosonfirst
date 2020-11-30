@@ -107,6 +107,9 @@
     ],
     "oa:elevation_ft":"65",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":102556883,
-    "wof:lastmodified":1566655020,
+    "wof:lastmodified":1606756263,
     "wof:name":"Glasgow Prestwick International Airport",
     "wof:parent_id":404430343,
     "wof:placetype":"campus",

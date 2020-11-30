@@ -2,8 +2,10 @@
   "id": 102531189,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1995-01-01",
+    "date:inception_upper":"1995-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1995",
     "geom:area":0.011545,
     "geom:area_square_m":109586279.872249,
     "geom:bbox":"-104.790966484,39.7982543355,-104.599581004,39.9142092401",
@@ -115,6 +117,11 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":39.787357,
     "reversegeo:longitude":-105.043628,
+    "sfomuseum:airport_id":33,
+    "sfomuseum:count_objects_public":5,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Denver International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -164,7 +171,7 @@
         }
     ],
     "wof:id":102531189,
-    "wof:lastmodified":1582335191,
+    "wof:lastmodified":1606756272,
     "wof:name":"Denver International Airport",
     "wof:parent_id":1108750025,
     "wof:placetype":"campus",

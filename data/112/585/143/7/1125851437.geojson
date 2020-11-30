@@ -191,6 +191,7 @@
     "qs_pg:woe_id":782927,
     "reversegeo:latitude":47.458017,
     "reversegeo:longitude":8.585014,
+    "sfomuseum:placetype":"city",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "qs_pg"
@@ -202,11 +203,11 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102063019,
         404568627,
-        85682309
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,7 +236,7 @@
         }
     ],
     "wof:id":1125851437,
-    "wof:lastmodified":1598921806,
+    "wof:lastmodified":1606756594,
     "wof:name":"Kloten",
     "wof:parent_id":404568627,
     "wof:placetype":"locality",

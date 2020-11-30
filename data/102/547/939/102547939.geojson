@@ -152,6 +152,9 @@
     ],
     "oa:elevation_ft":"768",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":102547939,
-    "wof:lastmodified":1566656800,
+    "wof:lastmodified":1606756275,
     "wof:name":"Malpensa International Airport",
     "wof:parent_id":101830177,
     "wof:placetype":"campus",

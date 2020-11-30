@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"can-wpgppd",
     "src:geom_alt":[
         "woedb"
@@ -40,7 +43,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12511918
+        "gp:id":12511918,
+        "iata:code":"YWG"
     },
     "wof:country":"",
     "wof:geom_alt":[
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102554591,
-    "wof:lastmodified":1582332141,
+    "wof:lastmodified":1606756274,
     "wof:name":"Winnipeg International Airport",
     "wof:parent_id":1108969787,
     "wof:placetype":"campus",

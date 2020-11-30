@@ -42,6 +42,9 @@
     ],
     "oa:elevation_ft":"6033",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"wikidata",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102536381,
-    "wof:lastmodified":1566615765,
+    "wof:lastmodified":1606756273,
     "wof:name":"General Francisco J Mujica Airport",
     "wof:parent_id":85686595,
     "wof:placetype":"campus",

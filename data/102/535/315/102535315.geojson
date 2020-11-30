@@ -81,6 +81,9 @@
     ],
     "oa:elevation_ft":"264",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -91,19 +94,19 @@
         "state_id":2344847
     },
     "wof:belongsto":[
-        85681885,
         102191577,
         85633009,
         1511777407,
         101941913,
-        102050371
+        102050371,
+        85681885
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6300620,
         "gp:id":12511115,
         "iata:code":"MAO",
-        "icao:code":"KMAO",
+        "icao:code":"SBEG",
         "oa:id":"5897",
         "wd:id":"Q657271",
         "wk:page":"Eduardo_Gomes_International_Airport"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102535315,
-    "wof:lastmodified":1577826463,
+    "wof:lastmodified":1606756265,
     "wof:name":"Aeroporto Internacional Eduardo Gomes",
     "wof:parent_id":101941913,
     "wof:placetype":"campus",

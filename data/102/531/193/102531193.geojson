@@ -33,6 +33,9 @@
     ],
     "oa:elevation_ft":"1860",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "faa:code":"NZC",
         "gp:id":12519108,
-        "iata:code":"NZC",
+        "iata:code":"VQQ",
         "icao:code":"SPZA",
         "oa:id":"6242",
         "wd:id":"Q3015462",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102531193,
-    "wof:lastmodified":1566609429,
+    "wof:lastmodified":1606756272,
     "wof:name":"Cecil Field Airport",
     "wof:parent_id":85932547,
     "wof:placetype":"campus",

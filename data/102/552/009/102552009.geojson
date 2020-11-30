@@ -119,6 +119,9 @@
     "name:zho_x_preferred":[
         "\u76e7\u5e03\u723e\u96c5\u90a3\u7d04\u71b1\u00b7\u666e\u5947\u5c3c\u514b\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":102552009,
-    "wof:lastmodified":1566656487,
+    "wof:lastmodified":1606756272,
     "wof:name":"Ljubljana Airport",
     "wof:parent_id":1108959493,
     "wof:placetype":"campus",

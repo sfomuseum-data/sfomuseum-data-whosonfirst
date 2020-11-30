@@ -763,6 +763,7 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -778,8 +779,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        404227489,
-        85684881
+        85684881,
+        404227489
     ],
     "wof:breaches":[],
     "wof:capital_of":85633237,
@@ -814,7 +815,7 @@
         }
     ],
     "wof:id":101751703,
-    "wof:lastmodified":1587427689,
+    "wof:lastmodified":1606756587,
     "wof:megacity":1,
     "wof:name":"Budapest",
     "wof:parent_id":85684881,

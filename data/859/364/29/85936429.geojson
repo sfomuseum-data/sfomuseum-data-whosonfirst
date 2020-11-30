@@ -657,6 +657,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":33.769805,
     "reversegeo:longitude":-84.414581,
+    "sfomuseum:placetype":"city",
     "src:geom":"atldpcd",
     "src:geom_alt":[
         "quattroshapes",
@@ -671,8 +672,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        102083603,
-        85688535
+        85688535,
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -707,7 +708,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587428390,
+    "wof:lastmodified":1606756278,
     "wof:megacity":1,
     "wof:name":"Atlanta",
     "wof:parent_id":102083603,

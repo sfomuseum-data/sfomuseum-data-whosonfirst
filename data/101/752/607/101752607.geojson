@@ -972,6 +972,7 @@
     "qs:pop":0,
     "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -979,11 +980,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85685461,
         102191581,
-        85633253,
         404461721,
-        404227517,
-        85685461
+        85633253,
+        404227517
     ],
     "wof:breaches":[],
     "wof:capital_of":85633253,
@@ -1018,7 +1019,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1587427923,
+    "wof:lastmodified":1606756577,
     "wof:megacity":1,
     "wof:name":"Rome",
     "wof:parent_id":404461721,

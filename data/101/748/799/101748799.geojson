@@ -935,6 +935,7 @@
     "qs:type":"urban core",
     "reversegeo:latitude":52.52045,
     "reversegeo:longitude":13.40732,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -945,8 +946,8 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        102063945,
-        85682499
+        85682499,
+        102063945
     ],
     "wof:breaches":[],
     "wof:capital_of":85633111,
@@ -979,7 +980,7 @@
         }
     ],
     "wof:id":101748799,
-    "wof:lastmodified":1587428759,
+    "wof:lastmodified":1606756583,
     "wof:megacity":1,
     "wof:name":"Berlin",
     "wof:parent_id":102063945,

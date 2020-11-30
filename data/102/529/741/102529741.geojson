@@ -50,6 +50,9 @@
     ],
     "oa:elevation_ft":"133",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":357,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102529741,
-    "wof:lastmodified":1566609401,
+    "wof:lastmodified":1606756269,
     "wof:name":"Baraboo-Wisconsin Dells Airport",
     "wof:parent_id":85847727,
     "wof:placetype":"campus",

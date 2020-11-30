@@ -830,6 +830,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":41.87897,
     "reversegeo:longitude":-87.66063,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -842,11 +843,11 @@
     "wd:population":2695598,
     "wd:wordcount":18451,
     "wof:belongsto":[
+        85688697,
         102191575,
-        85633793,
-        102084317,
         404496273,
-        85688697
+        85633793,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -882,7 +883,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587587488,
+    "wof:lastmodified":1606756279,
     "wof:megacity":1,
     "wof:name":"Chicago",
     "wof:parent_id":404496273,

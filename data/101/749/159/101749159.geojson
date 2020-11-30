@@ -792,6 +792,7 @@
     "qs:pop":0,
     "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -804,8 +805,8 @@
     "wd:wordcount":15928,
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297727,
+        85633121,
         85682581
     ],
     "wof:breaches":[],
@@ -839,7 +840,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1587428785,
+    "wof:lastmodified":1606756581,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

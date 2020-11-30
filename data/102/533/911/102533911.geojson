@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-118.837997,37.6241,-118.837997,37.6241",
@@ -41,6 +42,9 @@
     ],
     "oa:elevation_ft":"7135",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":939,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102533911,
-    "wof:lastmodified":1566608584,
+    "wof:lastmodified":1606756264,
     "wof:name":"Mammoth June Lakes Airport",
     "wof:parent_id":85922113,
     "wof:placetype":"campus",

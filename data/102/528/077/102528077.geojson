@@ -57,6 +57,9 @@
     ],
     "oa:elevation_ft":"3204",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":102528077,
-    "wof:lastmodified":1566609348,
+    "wof:lastmodified":1606756266,
     "wof:name":"Rapid City Regional Airport",
     "wof:parent_id":85822361,
     "wof:placetype":"campus",

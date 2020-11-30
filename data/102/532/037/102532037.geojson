@@ -48,6 +48,9 @@
     ],
     "oa:elevation_ft":"4237",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102532037,
-    "wof:lastmodified":1566608601,
+    "wof:lastmodified":1606756266,
     "wof:name":"Wendover Airport",
     "wof:parent_id":101727967,
     "wof:placetype":"campus",

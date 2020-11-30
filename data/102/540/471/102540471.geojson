@@ -97,6 +97,9 @@
     ],
     "oa:elevation_ft":"325",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":324,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102540471,
-    "wof:lastmodified":1566656854,
+    "wof:lastmodified":1606756276,
     "wof:name":"Yakutsk Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

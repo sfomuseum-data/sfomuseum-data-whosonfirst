@@ -164,6 +164,11 @@
     "name:zho_x_preferred":[
         "\u5409\u9686\u5761\u56fd\u9645\u673a\u573a"
     ],
+    "sfomuseum:airport_id":63,
+    "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Kuala Lumpur International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":102551991,
-    "wof:lastmodified":1566654912,
+    "wof:lastmodified":1606756262,
     "wof:name":"Kuala Lumpur International Airport",
     "wof:parent_id":102023173,
     "wof:placetype":"campus",

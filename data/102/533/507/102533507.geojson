@@ -58,6 +58,9 @@
     ],
     "oa:elevation_ft":"128",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102533507,
-    "wof:lastmodified":1566608579,
+    "wof:lastmodified":1606756264,
     "wof:name":"Sonoma County Airport",
     "wof:parent_id":85848367,
     "wof:placetype":"campus",

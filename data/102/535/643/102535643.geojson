@@ -149,6 +149,9 @@
     "name:zho_x_preferred":[
         "\u91cc\u65af\u672c\u673a\u573a"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":102535643,
-    "wof:lastmodified":1579720770,
+    "wof:lastmodified":1606756265,
     "wof:name":"Lisbon Portela Airport",
     "wof:parent_id":85799047,
     "wof:placetype":"campus",

@@ -106,6 +106,9 @@
     ],
     "oa:elevation_ft":"22",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":409,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":102536219,
-    "wof:lastmodified":1566656613,
+    "wof:lastmodified":1606756273,
     "wof:name":"Nauru International Airport",
     "wof:parent_id":1108952597,
     "wof:placetype":"campus",

@@ -45,6 +45,9 @@
     ],
     "oa:elevation_ft":"4154",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102527881,
-    "wof:lastmodified":1566609380,
+    "wof:lastmodified":1606756268,
     "wof:name":"Twin Falls-Sun Valley Regional Airport",
     "wof:parent_id":85688657,
     "wof:placetype":"campus",

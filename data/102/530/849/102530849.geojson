@@ -90,6 +90,11 @@
     "name:zho_x_preferred":[
         "\u5bc6\u723e\u74e6\u57fa"
     ],
+    "sfomuseum:airport_id":83,
+    "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"General Mitchell International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":102530849,
-    "wof:lastmodified":1566609422,
+    "wof:lastmodified":1606756271,
     "wof:name":"General Mitchell International Airport",
     "wof:parent_id":85870975,
     "wof:placetype":"campus",

@@ -142,6 +142,11 @@
     "oa:type":"large_airport",
     "reversegeo:latitude":49.19333,
     "reversegeo:longitude":-123.1792,
+    "sfomuseum:airport_id":150,
+    "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Vancouver International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":102555307,
-    "wof:lastmodified":1582309536,
+    "wof:lastmodified":1606756271,
     "wof:name":"Vancouver International Airport",
     "wof:parent_id":1108952593,
     "wof:placetype":"campus",

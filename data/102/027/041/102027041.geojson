@@ -529,6 +529,7 @@
     "qs:loc_lc":"1790630",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -536,11 +537,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669769,
         102191569,
         85632695,
-        890515687,
         136253041,
-        85669769
+        890515687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -570,7 +571,7 @@
         }
     ],
     "wof:id":102027041,
-    "wof:lastmodified":1587428561,
+    "wof:lastmodified":1606756274,
     "wof:megacity":1,
     "wof:name":"Xi\u2019an",
     "wof:parent_id":890515687,

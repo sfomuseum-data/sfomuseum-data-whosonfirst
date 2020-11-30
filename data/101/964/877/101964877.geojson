@@ -746,6 +746,7 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Metr\u00f3pole Nacional",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -754,11 +755,11 @@
     "src:population":"geonames",
     "wd:wordcount":6270,
     "wof:belongsto":[
+        85681911,
         102191577,
         85633009,
-        102051815,
         1511777413,
-        85681911
+        102051815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -791,7 +792,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1587428101,
+    "wof:lastmodified":1606756579,
     "wof:megacity":1,
     "wof:name":"Brasilia",
     "wof:parent_id":102051815,

@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:is_sfo":1,
     "geom:area":0.000016,
     "geom:area_square_m":183256.877502,
     "geom:bbox":"-67.1408,18.489864,-67.135559,18.495832",
@@ -65,6 +66,9 @@
     ],
     "oa:elevation_ft":"237",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102556219,
-    "wof:lastmodified":1566600188,
+    "wof:lastmodified":1606756263,
     "wof:name":"Aeropuerto Rafael Hern\u00edndez",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

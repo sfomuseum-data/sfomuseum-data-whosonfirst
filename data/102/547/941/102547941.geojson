@@ -173,6 +173,11 @@
     "name:zho_x_preferred":[
         "\u7f85\u99ac\uff0d\u83f2\u70cf\u7c73\u5947\u8afe\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":115,
+    "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Leonardo da Vinci-Fiumicino Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":102547941,
-    "wof:lastmodified":1566656817,
+    "wof:lastmodified":1606756275,
     "wof:name":"Leonardo da Vinci-Fiumicino Airport",
     "wof:parent_id":404461785,
     "wof:placetype":"campus",

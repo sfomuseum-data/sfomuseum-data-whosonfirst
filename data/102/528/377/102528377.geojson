@@ -42,6 +42,9 @@
     ],
     "oa:elevation_ft":"36",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102528377,
-    "wof:lastmodified":1566609352,
+    "wof:lastmodified":1606756267,
     "wof:name":"Grande Valley International Airport",
     "wof:parent_id":85840341,
     "wof:placetype":"campus",

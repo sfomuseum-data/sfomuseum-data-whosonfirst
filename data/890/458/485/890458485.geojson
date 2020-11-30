@@ -528,6 +528,7 @@
     "qs:photos_sr":12,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
+    "sfomuseum:placetype":"city",
     "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -536,8 +537,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        1511799791,
-        85682091
+        85682091,
+        1511799791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -569,7 +570,7 @@
         }
     ],
     "wof:id":890458485,
-    "wof:lastmodified":1587428295,
+    "wof:lastmodified":1606756593,
     "wof:name":"Edmonton",
     "wof:parent_id":1511799791,
     "wof:placetype":"locality",

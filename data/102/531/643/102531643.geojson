@@ -38,6 +38,9 @@
     ],
     "oa:elevation_ft":"13",
     "oa:type":"closed",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"ourairports",
     "src:geom_alt":[],
@@ -60,7 +63,7 @@
         "gn:id":6326952,
         "gp:id":12522415,
         "iata:code":"GTB",
-        "icao:code":"MY-GTB",
+        "icao:code":"KLCQ",
         "oa:id":"41314",
         "wd:id":"Q4202906",
         "wk:page":"Wheeler-Sack Army Airfield"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102531643,
-    "wof:lastmodified":1566609430,
+    "wof:lastmodified":1606756272,
     "wof:name":"Wheeler-Sack Army Air Field",
     "wof:parent_id":404521927,
     "wof:placetype":"campus",

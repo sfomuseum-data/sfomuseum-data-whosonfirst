@@ -660,6 +660,7 @@
     "qs:type":"urban core",
     "reversegeo:latitude":47.381498,
     "reversegeo:longitude":8.531597,
+    "sfomuseum:placetype":"city",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -674,11 +675,11 @@
     "wd:population":400028,
     "wd:wordcount":10490,
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102063071,
         1394254167,
-        85682309
+        85633051,
+        102063071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -716,7 +717,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598918963,
+    "wof:lastmodified":1606756584,
     "wof:megacity":1,
     "wof:name":"Z\u00fcrich",
     "wof:parent_id":1394254167,

@@ -92,6 +92,9 @@
     "name:zho_x_preferred":[
         "\u6771\u5bc6\u5fb7\u862d\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -114,6 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22462097,
+        "iata:code":"EMA",
         "wd:id":"Q8977"
     },
     "wof:country":"",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102556825,
-    "wof:lastmodified":1566655025,
+    "wof:lastmodified":1606756263,
     "wof:name":"East Midlands International Airport",
     "wof:parent_id":1125828111,
     "wof:placetype":"campus",

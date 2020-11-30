@@ -1227,6 +1227,8 @@
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
     "reversegeo:geometry":"85633111-de-bkg-reversegeo.geojson",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"de-bkg",
     "src:geom_alt":[
         "naturalearth",
@@ -1308,7 +1310,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1587428752,
+    "wof:lastmodified":1606756288,
     "wof:name":"Germany",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

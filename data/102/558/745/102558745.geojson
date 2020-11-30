@@ -64,6 +64,9 @@
     ],
     "oa:elevation_ft":"1481",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":95,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102558745,
-    "wof:lastmodified":1566655101,
+    "wof:lastmodified":1606756263,
     "wof:name":"Atuona Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

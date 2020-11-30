@@ -669,6 +669,7 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"City",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes",
@@ -684,8 +685,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890457465,
-        85682057
+        85682057,
+        890457465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -719,7 +720,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587428292,
+    "wof:lastmodified":1606756587,
     "wof:megacity":1,
     "wof:name":"Toronto",
     "wof:parent_id":890457465,

@@ -84,6 +84,9 @@
     ],
     "oa:elevation_ft":"9",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102527007,
-    "wof:lastmodified":1566609381,
+    "wof:lastmodified":1606756268,
     "wof:name":"Teterboro Airport",
     "wof:parent_id":85975907,
     "wof:placetype":"campus",

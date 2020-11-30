@@ -50,6 +50,9 @@
     ],
     "oa:elevation_ft":"1930",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "wd:wordcount":941,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":102529567,
-    "wof:lastmodified":1566609394,
+    "wof:lastmodified":1606756269,
     "wof:name":"Barstow Daggett Airport",
     "wof:parent_id":85836453,
     "wof:placetype":"campus",

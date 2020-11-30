@@ -161,6 +161,9 @@
     "name:zho_x_preferred":[
         "\u502b\u6566\u76e7\u9813\u6a5f\u5834"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":102556835,
-    "wof:lastmodified":1566654995,
+    "wof:lastmodified":1606756263,
     "wof:name":"London Luton Airport",
     "wof:parent_id":1360753887,
     "wof:placetype":"campus",

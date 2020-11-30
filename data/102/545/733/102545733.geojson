@@ -174,6 +174,9 @@
     ],
     "oa:elevation_ft":"12",
     "oa:type":"large_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":102545733,
-    "wof:lastmodified":1566656121,
+    "wof:lastmodified":1606756270,
     "wof:name":"Aeropuerto de Barcelona",
     "wof:parent_id":101748323,
     "wof:placetype":"campus",

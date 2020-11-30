@@ -933,6 +933,7 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Metr\u00f3pole Nacional",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -944,11 +945,11 @@
     "wd:population":5857904,
     "wd:wordcount":16990,
     "wof:belongsto":[
+        85681991,
         102191577,
         85633009,
-        102058455,
         1511777411,
-        85681991
+        102058455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -982,7 +983,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1587428099,
+    "wof:lastmodified":1606756577,
     "wof:megacity":1,
     "wof:name":"Rio de Janeiro",
     "wof:parent_id":102058455,

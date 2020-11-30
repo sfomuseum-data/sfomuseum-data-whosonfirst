@@ -20,6 +20,11 @@
     "name:kor_x_preferred":[
         "\uc778\ucc9c\uacf5\ud56d"
     ],
+    "sfomuseum:airport_id":129,
+    "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Incheon International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":102556451,
-    "wof:lastmodified":1578518621,
+    "wof:lastmodified":1606756263,
     "wof:name":"Incheon International Airport",
     "wof:parent_id":85926685,
     "wof:placetype":"campus",

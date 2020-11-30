@@ -752,6 +752,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":42.355492,
     "reversegeo:longitude":-71.048611,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -765,11 +766,11 @@
     "wd:population":655884,
     "wd:wordcount":14546,
     "wof:belongsto":[
+        85688645,
         102191575,
-        85633793,
-        102084423,
         404476573,
-        85688645
+        85633793,
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -805,7 +806,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587587527,
+    "wof:lastmodified":1606756277,
     "wof:megacity":1,
     "wof:name":"Boston",
     "wof:parent_id":404476573,

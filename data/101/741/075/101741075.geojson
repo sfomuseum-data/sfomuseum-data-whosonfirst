@@ -598,6 +598,7 @@
     "qs:type":"MU",
     "reversegeo:latitude":49.2819,
     "reversegeo:longitude":-123.11874,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -612,8 +613,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890457467,
-        85682117
+        85682117,
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -642,7 +643,7 @@
         }
     ],
     "wof:id":101741075,
-    "wof:lastmodified":1587428290,
+    "wof:lastmodified":1606756585,
     "wof:megacity":1,
     "wof:name":"Vancouver",
     "wof:parent_id":890457467,

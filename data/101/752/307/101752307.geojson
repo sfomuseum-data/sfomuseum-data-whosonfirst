@@ -865,6 +865,7 @@
     "qs:pop":0,
     "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -877,11 +878,11 @@
     "wd:population":917297,
     "wd:wordcount":9520,
     "wof:belongsto":[
+        85688429,
         102191581,
-        85633789,
-        1159303035,
         1125362217,
-        85688429
+        85633789,
+        1159303035
     ],
     "wof:breaches":[],
     "wof:capital_of":85633789,
@@ -911,7 +912,7 @@
         }
     ],
     "wof:id":101752307,
-    "wof:lastmodified":1587427727,
+    "wof:lastmodified":1606756576,
     "wof:megacity":1,
     "wof:name":"Stockholm",
     "wof:parent_id":1125362217,

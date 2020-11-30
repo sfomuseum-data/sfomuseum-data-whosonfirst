@@ -20,6 +20,11 @@
     "name:jap_x_preferred":[
         "\u95a2\u897f\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "sfomuseum:airport_id":101,
+    "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Kansai International Airport",
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":102541661,
-    "wof:lastmodified":1578518759,
+    "wof:lastmodified":1606756276,
     "wof:name":"Kansai International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -40,6 +40,9 @@
     ],
     "oa:elevation_ft":"297",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102532987,
-    "wof:lastmodified":1566608610,
+    "wof:lastmodified":1606756266,
     "wof:name":"Key Field Airport",
     "wof:parent_id":85847207,
     "wof:placetype":"campus",

@@ -1038,6 +1038,8 @@
     "qs:level":"adm0",
     "qs:source":"Canada Census",
     "reversegeo:geometry":"85633041-alt-whosonfirst-reversegeo.geojson",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
@@ -1123,7 +1125,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1587428255,
+    "wof:lastmodified":1606756310,
     "wof:name":"Canada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

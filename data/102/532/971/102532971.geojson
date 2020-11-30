@@ -38,6 +38,9 @@
     ],
     "oa:elevation_ft":"93",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102532971,
-    "wof:lastmodified":1566608603,
+    "wof:lastmodified":1606756266,
     "wof:name":"Kinston Jetport Stallings Airport",
     "wof:parent_id":420532081,
     "wof:placetype":"campus",

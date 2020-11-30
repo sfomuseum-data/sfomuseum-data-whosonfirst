@@ -45,6 +45,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0631\u0648\u0648\u0648 \u0645\u06cc\u0648\u0646\u0633\u067e\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102532277,
-    "wof:lastmodified":1566608606,
+    "wof:lastmodified":1606756266,
     "wof:name":"Provo Municipal Airport",
     "wof:parent_id":85880099,
     "wof:placetype":"campus",

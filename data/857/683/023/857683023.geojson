@@ -761,6 +761,7 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -772,8 +773,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102073737,
-        85686515
+        85686515,
+        102073737
     ],
     "wof:breaches":[],
     "wof:capital_of":85633293,
@@ -801,7 +802,7 @@
         }
     ],
     "wof:id":857683023,
-    "wof:lastmodified":1587428918,
+    "wof:lastmodified":1606756286,
     "wof:megacity":1,
     "wof:name":"Mexico City",
     "wof:parent_id":102073737,

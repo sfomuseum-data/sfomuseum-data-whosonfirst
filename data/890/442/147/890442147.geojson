@@ -651,6 +651,7 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"12",
+    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "unknown"
@@ -660,8 +661,8 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        1108694107,
-        85680535
+        85680535,
+        1108694107
     ],
     "wof:breaches":[],
     "wof:capital_of":85632317,
@@ -691,7 +692,7 @@
         }
     ],
     "wof:id":890442147,
-    "wof:lastmodified":1587428712,
+    "wof:lastmodified":1606756593,
     "wof:name":"Caracas",
     "wof:parent_id":1108694107,
     "wof:placetype":"locality",

@@ -14,6 +14,9 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -30,7 +33,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12522419
+        "gp:id":12522419,
+        "iata:code":"NUW"
     },
     "wof:country":"",
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":102531653,
-    "wof:lastmodified":1589218929,
+    "wof:lastmodified":1606756273,
     "wof:name":"Whidbey Island Naval Air Station",
     "wof:parent_id":101730877,
     "wof:placetype":"campus",

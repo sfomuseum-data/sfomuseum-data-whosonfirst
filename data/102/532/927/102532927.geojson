@@ -50,6 +50,9 @@
     ],
     "oa:elevation_ft":"759",
     "oa:type":"medium_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102532927,
-    "wof:lastmodified":1566608610,
+    "wof:lastmodified":1606756266,
     "wof:name":"Kansas City Downtown Airport",
     "wof:parent_id":85823983,
     "wof:placetype":"campus",

@@ -23,6 +23,9 @@
         "YOW",
         "CYOW"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[
         "woedb"
@@ -46,7 +49,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12511779
+        "gp:id":12511779,
+        "icao:code":"CYOW"
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102555497,
-    "wof:lastmodified":1582309536,
+    "wof:lastmodified":1606756271,
     "wof:name":"Macdonald-Cartier International Airport",
     "wof:parent_id":1125162937,
     "wof:placetype":"campus",

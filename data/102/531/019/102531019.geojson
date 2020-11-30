@@ -55,6 +55,9 @@
     "name:zho_x_preferred":[
         "\u7c73\u62c9\u746a\u6d77\u8ecd\u9678\u6230\u968a\u822a\u7a7a\u57fa\u5730"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"mz",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102531019,
-    "wof:lastmodified":1566609441,
+    "wof:lastmodified":1606756273,
     "wof:name":"Miramar Naval Air Station",
     "wof:parent_id":85834609,
     "wof:placetype":"campus",

@@ -43,6 +43,9 @@
     ],
     "oa:elevation_ft":"778",
     "oa:type":"small_airport",
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -52,12 +55,12 @@
         "state_id":2344865
     },
     "wof:belongsto":[
-        85682003,
         102191577,
         404562751,
         85633009,
         1511777407,
-        102058895
+        102058895,
+        85682003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102535273,
-    "wof:lastmodified":1577826458,
+    "wof:lastmodified":1606756265,
     "wof:name":"Aeroporto Cacoal",
     "wof:parent_id":404562751,
     "wof:placetype":"campus",

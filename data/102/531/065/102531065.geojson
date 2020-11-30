@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Minot Air Force Base CDP"
     ],
+    "sfomuseum:airport_id":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airport",
     "src:centroid_lbl":"geonames",
     "src:geom":"unknown",
     "src:geom_alt":[],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102531065,
-    "wof:lastmodified":1589219003,
+    "wof:lastmodified":1606756272,
     "wof:name":"Minot Air Force Base",
     "wof:parent_id":85982739,
     "wof:placetype":"campus",

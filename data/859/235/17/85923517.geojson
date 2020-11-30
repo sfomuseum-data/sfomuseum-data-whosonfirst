@@ -882,6 +882,7 @@
     "qs:type":"G4110",
     "reversegeo:latitude":34.05513,
     "reversegeo:longitude":-118.25703,
+    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -896,8 +897,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        102086957,
-        85688637
+        85688637,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -932,7 +933,7 @@
         }
     ],
     "wof:id":85923517,
-    "wof:lastmodified":1587428393,
+    "wof:lastmodified":1606756279,
     "wof:megacity":1,
     "wof:name":"Los Angeles",
     "wof:parent_id":102086957,

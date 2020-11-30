@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":247949.15007,
+    "geom:area_square_m":247949.150069,
     "geom:bbox":"-97.431732,37.650707,-97.4235,37.659634",
     "geom:latitude":37.654259,
     "geom:longitude":-97.427611,
@@ -16,11 +16,12 @@
     "mps:longitude":-97.426862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5a01\u5947\u6258\u4e2d\u9678\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
         "Wichita Mid-Continent Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Wichita"
     ],
     "name:eng_x_preferred":[
         "Wichita Mid-Continent Airport"
@@ -30,11 +31,11 @@
         "KICT",
         "Wichita Dwight D. Eisenhower National Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Wichita"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0686\u06cc\u062a\u0627 \u0645\u06cc\u062f-\u06a9\u0627\u0646\u062a\u06cc\u0646\u0646\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Wichita"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Wichita"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Wichita Mid-Continent"
@@ -42,8 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a3\u30c1\u30bf\u30fb\u30df\u30c3\u30c9\u30fb\u30b3\u30f3\u30c6\u30a3\u30a8\u30f3\u30c8\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0686\u06cc\u062a\u0627 \u0645\u06cc\u062f-\u06a9\u0627\u0646\u062a\u06cc\u0646\u0646\u062a"
+    "name:nav_x_preferred":[
+        "Honeestiin\u00edd\u0119\u0301\u0119\u0301\u02bc Ch\u02bc\u00edn\u00edl\u012f\u0301\u012fdi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    ],
+    "name:nld_x_preferred":[
+        "Wichita Mid-Continent Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wichita Mid-Continent"
@@ -51,17 +55,20 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0447\u0438\u0442\u043e \u043c\u0438\u0434-\u043a\u043e\u043d\u0442\u0438\u043d\u043d\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wichita Municipal Airport"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u06cc\u06a9\u0644 \u0622\u0631\u0645\u06cc \u0627\u06cc\u0626\u0631\u0641\u06cc\u0644\u0688"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u5947\u6258\u4e2d\u9678\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1333",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12588457,
@@ -102,7 +109,7 @@
         }
     ],
     "wof:id":102531803,
-    "wof:lastmodified":1606163487,
+    "wof:lastmodified":1566609432,
     "wof:name":"Wichita Mid-Continent Airport",
     "wof:parent_id":85945871,
     "wof:placetype":"campus",

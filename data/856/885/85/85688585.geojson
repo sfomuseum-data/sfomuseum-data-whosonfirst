@@ -8,26 +8,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.005014,
-    "geom:area_square_m":181039499377.312927,
+    "geom:area_square_m":181039499377.297577,
     "geom:bbox":"-103.002455,33.615787,-94.430662,37.002312",
     "geom:latitude":35.58346,
     "geom:longitude":-97.508221,
     "iso:country":"US",
     "iso:subdivision":"US-OK",
-    "label:eng_us_x_preferred_longname":[
-        "Oklahoma"
-    ],
     "label:eng_x_preferred_longname":[
-        "Oklahoma State"
+        "Oklahoma"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OK"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Oklahoma"
+        "State of Oklahoma",
+        "Oklahoma State"
     ],
     "lbl:latitude":35.455622,
     "lbl:longitude":-97.508021,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.455622,
     "mps:longitude":-97.508021,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Oklahoma"
-    ],
-    "name:alb_x_preferred":[
         "Oklahoma"
     ],
     "name:amh_x_preferred":[
@@ -55,9 +54,6 @@
     "name:arg_x_preferred":[
         "Oklahoma"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u056f\u056c\u0561\u0570\u0578\u0574\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0643\u0644\u0627\u0647\u0648\u0645\u0627"
     ],
@@ -73,9 +69,6 @@
     "name:aze_x_preferred":[
         "Oklahoma"
     ],
-    "name:baq_x_preferred":[
-        "Oklahoma"
-    ],
     "name:bar_x_preferred":[
         "Oklahoma"
     ],
@@ -84,6 +77,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0410\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0993\u0995\u200c\u09b2\u09be\u09b9\u09cb\u09ae\u09be"
@@ -106,9 +102,6 @@
     "name:bul_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1025\u1000\u1039\u1000\u101c\u102c\u101f\u102d\u102f\u1038\u1019\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
@@ -118,11 +111,14 @@
     "name:cdo_x_preferred":[
         "Oklahoma"
     ],
+    "name:ceb_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:ces_x_preferred":[
+        "Oklahoma"
+    ],
     "name:che_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5967\u514b\u62c9\u8377\u99ac\u5dde"
     ],
     "name:chr_x_preferred":[
         "\u13a3\u13a6\u13b3\u13b0\u13b9"
@@ -133,8 +129,14 @@
     "name:chy_x_preferred":[
         "He\u00e9v\u0227hetan\u00e9no"
     ],
+    "name:chy_x_variant":[
+        "He\u00e9v\u00e2hetan\u00e9no"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u06a9\u0644\u0627\u06be\u06c6\u0645\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u06c6\u200c\u06a9\u0644\u0627\u06be\u06c6\u0645\u0627"
     ],
     "name:cor_x_preferred":[
         "Oklahoma"
@@ -142,20 +144,35 @@
     "name:cos_x_preferred":[
         "Oklahoma"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Oklahoma"
     ],
+    "name:cym_x_variant":[
+        "Oclahoma"
+    ],
     "name:dan_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:deu_x_preferred":[
         "Oklahoma"
     ],
     "name:diq_x_preferred":[
         "Oklahoma"
     ],
-    "name:dut_x_preferred":[
-        "Oklahoma"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03ba\u03bb\u03b1\u03c7\u03cc\u03bc\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Oklahoma"
     ],
     "name:eng_x_colloquial":[
         "Sooner State"
@@ -173,6 +190,9 @@
     "name:est_x_preferred":[
         "Oklahoma"
     ],
+    "name:eus_x_preferred":[
+        "Oklahoma"
+    ],
     "name:fao_x_preferred":[
         "Oklahoma"
     ],
@@ -183,9 +203,6 @@
         "Oklahoma"
     ],
     "name:fra_x_preferred":[
-        "Oklahoma"
-    ],
-    "name:fre_x_preferred":[
         "Oklahoma"
     ],
     "name:frp_x_preferred":[
@@ -200,12 +217,6 @@
     "name:gag_x_preferred":[
         "Oklahoma"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d9\u10da\u10d0\u10f0\u10dd\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Oklahoma"
-    ],
     "name:gla_x_preferred":[
         "Oklahoma"
     ],
@@ -218,8 +229,8 @@
     "name:glv_x_preferred":[
         "Oklahoma"
     ],
-    "name:gre_x_preferred":[
-        "\u039f\u03ba\u03bb\u03b1\u03c7\u03cc\u03bc\u03b1"
+    "name:got_x_preferred":[
+        "\ud800\udf49\ud800\udf3a\ud800\udf3b\ud800\udf30\ud800\udf37\ud800\udf49\ud800\udf3c\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Oklahoma"
@@ -230,8 +241,14 @@
     "name:hak_x_preferred":[
         "O-khiet-l\u00e2-h\u00f2-m\u00e2"
     ],
+    "name:hak_x_variant":[
+        "Oklahoma"
+    ],
     "name:hat_x_preferred":[
         "Oklawoma"
+    ],
+    "name:hau_x_preferred":[
+        "Oklahoma"
     ],
     "name:haw_x_preferred":[
         "\u2018Okalahoma"
@@ -257,9 +274,6 @@
     "name:ibo_x_preferred":[
         "Oklahoma"
     ],
-    "name:ice_x_preferred":[
-        "Oklahoma"
-    ],
     "name:ido_x_preferred":[
         "Oklahoma"
     ],
@@ -279,6 +293,9 @@
         "Oklahoma"
     ],
     "name:ipk_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:isl_x_preferred":[
         "Oklahoma"
     ],
     "name:ita_x_preferred":[
@@ -302,11 +319,17 @@
     "name:kaz_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Oklahomaa"
+    ],
     "name:kir_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc624\ud074\ub77c\ud638\ub9c8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud074\ub77c\ud638\ub9c8\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Oklahoma"
@@ -318,6 +341,9 @@
         "Oclahoma"
     ],
     "name:lav_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:lfn_x_preferred":[
         "Oklahoma"
     ],
     "name:lij_x_preferred":[
@@ -335,23 +361,23 @@
     "name:lrc_x_preferred":[
         "\u0626\u0648\u06a9\u0644\u0627\u06be\u0627\u0645\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u0648\u06a9\u0644\u0627\u0647\u0627\u0645\u0627"
+    ],
     "name:ltz_x_preferred":[
         "Oklahoma"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
+    "name:lzh_x_preferred":[
+        "\u4fc4\u514b\u62c9\u8377\u99ac\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0913\u0915\u094d\u0932\u093e\u0939\u094b\u092e\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d12\u0d15\u0d4d\u200c\u0d32\u0d39\u0d4b\u0d2e"
     ],
-    "name:mao_x_preferred":[
-        "Oklahoma"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0915\u094d\u0932\u093e\u0939\u094b\u092e\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Oklahoma"
     ],
     "name:mhr_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u043e"
@@ -365,8 +391,14 @@
     "name:mon_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Oklahoma"
+    ],
     "name:mrj_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Oklahoma"
     ],
     "name:mya_x_preferred":[
         "\u1025\u1000\u1039\u1000\u101c\u102c\u101f\u102d\u102f\u1038\u1019\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
@@ -395,6 +427,9 @@
     "name:new_x_preferred":[
         "\u0913\u0915\u094d\u0932\u093e\u0939\u094b\u092e\u093e"
     ],
+    "name:nld_x_preferred":[
+        "Oklahoma"
+    ],
     "name:nno_x_preferred":[
         "Oklahoma"
     ],
@@ -413,11 +448,11 @@
     "name:pan_x_preferred":[
         "\u0a13\u0a15\u0a32\u0a3e\u0a39\u0a4b\u0a2e\u0a3e"
     ],
-    "name:pdc_x_preferred":[
+    "name:pap_x_preferred":[
         "Oklahoma"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0644\u0627\u0647\u0645\u0627"
+    "name:pdc_x_preferred":[
+        "Oklahoma"
     ],
     "name:pli_x_preferred":[
         "\u0913\u0915\u094d\u0932\u093e\u0939\u094b\u092e\u093e"
@@ -431,8 +466,17 @@
     "name:pol_x_preferred":[
         "Oklahoma"
     ],
+    "name:por_br_x_preferred":[
+        "Oklahoma"
+    ],
     "name:por_x_preferred":[
         "Oclaoma"
+    ],
+    "name:por_x_variant":[
+        "Oklahoma"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u06a9\u0644\u0627\u0647\u0648\u0645\u0627"
     ],
     "name:que_x_preferred":[
         "Oklahoma suyu"
@@ -440,7 +484,7 @@
     "name:roh_x_preferred":[
         "Oklahoma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oklahoma"
     ],
     "name:rup_x_preferred":[
@@ -467,7 +511,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0d9a\u0dca\u0dbd\u0ddc\u0dc4\u0ddc\u0db8\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Oklahoma"
     ],
     "name:slv_x_preferred":[
@@ -481,6 +525,9 @@
     ],
     "name:spa_x_variant":[
         "Estado de Oklahoma"
+    ],
+    "name:sqi_x_preferred":[
+        "Oklahoma"
     ],
     "name:srd_x_preferred":[
         "Oklahoma"
@@ -542,8 +589,8 @@
     "name:war_x_preferred":[
         "Oklahoma"
     ],
-    "name:wel_x_preferred":[
-        "Oklahoma"
+    "name:wuu_x_preferred":[
+        "\u4fc4\u514b\u62c9\u8377\u9a6c\u5dde"
     ],
     "name:xal_x_preferred":[
         "\u041e\u043a\u043b\u0430\u0445\u043e\u043c"
@@ -559,6 +606,12 @@
     ],
     "name:yue_x_preferred":[
         "\u5967\u514b\u62c9\u4f55\u99ac\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "Oklahoma"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u514b\u62c9\u8377\u99ac\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u62c9\u8377\u99ac\u5dde"
@@ -629,14 +682,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"181,186",
     "statoids:area_mi":"69,956",
     "statoids:as_of_date":"2010-04-01",
@@ -656,6 +708,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":37,
         "fips:code":"US40",
         "gn:id":4544379,
         "gp:id":2347595,
@@ -665,6 +718,9 @@
         "wd:id":"Q1649"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"602dc54534df05e44e8716ebd5f3dbe4",
     "wof:hierarchy":[
         {
@@ -682,11 +738,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163118,
+    "wof:lastmodified":1587428468,
     "wof:name":"Oklahoma",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3751351,
     "wof:population_rank":12,

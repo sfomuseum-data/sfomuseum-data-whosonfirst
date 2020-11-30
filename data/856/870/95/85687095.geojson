@@ -2,10 +2,10 @@
   "id": 85687095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-01-01",
     "edtf:inception":"uuuu",
     "geom:area":0.818328,
-    "geom:area_square_m":5057969301.94656,
+    "geom:area_square_m":5057969141.556191,
     "geom:bbox":"10.328466,59.471882,11.928085,60.605148",
     "geom:latitude":60.009028,
     "geom:longitude":11.146635,
@@ -16,27 +16,31 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AK"
+    ],
     "lbl:latitude":60.096435,
     "lbl:longitude":11.225451,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.096435,
     "mps:longitude":11.225451,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:afr_x_preferred":[
         "Akershus"
     ],
-    "name:alb_x_preferred":[
-        "Akershus"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0643\u0631\u0634\u0648\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056f\u0565\u0580\u057d\u0570\u0578\u0582\u057d"
+    "name:ast_x_preferred":[
+        "Akershus"
     ],
-    "name:baq_x_preferred":[
+    "name:azb_x_preferred":[
+        "\u0622\u06a9\u0631\u0634\u0648\u0633"
+    ],
+    "name:bar_x_preferred":[
         "Akershus"
     ],
     "name:bel_x_preferred":[
@@ -60,19 +64,16 @@
     "name:cat_x_preferred":[
         "Akershus"
     ],
+    "name:ceb_x_preferred":[
+        "Akershus fylke"
+    ],
     "name:ces_x_preferred":[
         "Akershus"
     ],
     "name:che_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u4ec0\u80e1\u65af\u90e1"
-    ],
     "name:cor_x_preferred":[
-        "Akershus"
-    ],
-    "name:cze_x_preferred":[
         "Akershus"
     ],
     "name:dan_x_preferred":[
@@ -81,8 +82,8 @@
     "name:deu_x_preferred":[
         "Akershus"
     ],
-    "name:dut_x_preferred":[
-        "Akershus"
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03ad\u03c1\u03c3\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Akershus"
@@ -108,17 +109,8 @@
     "name:fra_x_variant":[
         "Akershus"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 d'Akershus"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10d4\u10e0\u10e1\u10ee\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fry_x_preferred":[
         "Akershus"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ba\u03ad\u03c1\u03c3\u03bf\u03c5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a95\u0ab0\u0acd\u0ab8\u0ab8"
@@ -135,8 +127,8 @@
     "name:hun_x_preferred":[
         "Akershus megye"
     ],
-    "name:ice_x_preferred":[
-        "Akursh\u00fas"
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0565\u0580\u057d\u0570\u0578\u0582\u057d"
     ],
     "name:ina_x_preferred":[
         "Contate Akershus"
@@ -159,11 +151,20 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d9\u10d4\u10e0\u10e1\u10f0\u10e3\u10e1\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10d9\u10d4\u10e0\u10e1\u10ee\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ucf00\ub974\uc2a4\ud6c4\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ucf00\ub974\uc2a4\ud6c4\uc2a4\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Aggerhusium"
+    ],
+    "name:lat_x_variant":[
+        "Akershus"
     ],
     "name:lav_x_preferred":[
         "\u0100ke\u0161husa"
@@ -174,17 +175,14 @@
     "name:lit_x_preferred":[
         "Akershusas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043a\u0435\u0440\u0448\u0443\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u0930\u094d\u0938\u0938"
     ],
-    "name:may_x_preferred":[
-        "Akershus"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u043a\u0435\u0440\u0448\u0443\u0441"
     ],
     "name:msa_x_preferred":[
         "Akershus"
@@ -219,9 +217,6 @@
     "name:oss_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0631\u0634\u0648\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u06a9\u0631\u0634\u0633"
     ],
@@ -232,9 +227,6 @@
         "Akershus"
     ],
     "name:ron_x_preferred":[
-        "Akershus"
-    ],
-    "name:rum_x_preferred":[
         "Akershus"
     ],
     "name:rus_x_preferred":[
@@ -250,9 +242,6 @@
         "\u0d85\u0d9a\u0dd9\u0dbb\u0dca\u0dc2\u0dd4\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Akershus"
-    ],
-    "name:slo_x_preferred":[
         "Akershus"
     ],
     "name:slv_x_preferred":[
@@ -276,6 +265,9 @@
     "name:swe_x_preferred":[
         "Akershus fylke"
     ],
+    "name:swe_x_variant":[
+        "Akershus"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0b95\u0bbf\u0bb1\u0bcd\u0bb8\u0bcd\u0bb8\u0bcd"
     ],
@@ -291,8 +283,8 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0435\u0440\u0441\u0433\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Akershus  county"
+    "name:und_x_variant":[
+        "Akershus county"
     ],
     "name:urd_x_preferred":[
         "\u0622\u06a9\u06cc\u0634\u0648\u0633"
@@ -377,12 +369,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Fylke",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-03",
+    "src:population_date":"2001-11-03",
     "statoids:area_km":"4,917",
     "statoids:area_mi":"1,898",
     "statoids:as_of_date":"2001-11-03",
@@ -430,18 +421,19 @@
         "nno",
         "sme"
     ],
-    "wof:lastmodified":1606163092,
+    "wof:lastmodified":1581020614,
     "wof:name":"Akershus",
     "wof:parent_id":85633341,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":476440,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-no",
     "wof:shortcode":"AK",
     "wof:subdivision":"NO-02",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1527947269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

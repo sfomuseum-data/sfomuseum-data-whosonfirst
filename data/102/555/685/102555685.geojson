@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":5321782.128364,
+    "geom:area_square_m":5321782.128363,
     "geom:bbox":"72.850761,19.087021,72.880531,19.116016",
     "geom:latitude":19.099948,
     "geom:longitude":72.865022,
@@ -16,23 +16,24 @@
     "mps:longitude":72.866037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0627\u062a\u0631\u0627\u0628\u0627\u062a\u064a \u0634\u064a\u0641\u0627\u062c\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Chhatrapati Shivaji"
     ],
     "name:ben_x_preferred":[
         "\u099b\u09a4\u09cd\u09b0\u09aa\u09a4\u09bf \u09b6\u09bf\u09ac\u09be\u099c\u09c0 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u8d3e\u7279\u62c9\u5e15\u8482\u00b7\u5e0c\u74e6\u5409\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010chatrapat\u00edho \u0160iv\u00e1d\u017e\u00edho"
     ],
     "name:dan_x_preferred":[
         "Chhatrapati Shivaji International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Chhatrapati Shivaji International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Mumbai"
     ],
     "name:eng_x_preferred":[
         "Chhatrapati Shivaji International Airport"
@@ -41,14 +42,20 @@
         "BOM",
         "VABB"
     ],
+    "name:est_x_preferred":[
+        "Chhatrapati Shivaji rahvusvaheline lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0627\u062a\u0631\u0627\u067e\u0627\u062a\u06cc \u0634\u06cc\u0648\u0627\u062c\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chhatrapati Shivajin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Chhatrapati-Shivaji"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Mumbai"
+    "name:glg_x_preferred":[
+        "Aeroporto Chhatrapati Shivaji"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05d5\u05de\u05d1\u05d9\u05d9 \u05e6'\u05d4\u05d8\u05e8\u05e4\u05d8\u05d9 \u05e9\u05d9\u05d5\u05d5\u05d0\u05d2'\u05d9"
@@ -77,17 +84,20 @@
     "name:mar_x_preferred":[
         "\u091b\u0924\u094d\u0930\u092a\u0924\u0940 \u0936\u093f\u0935\u093e\u091c\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Chhatrapati Shivaji"
+    ],
+    "name:nld_x_preferred":[
+        "Chhatrapati Shivaji International Airport"
     ],
     "name:nob_x_preferred":[
         "Chhatrapati Shivaji internasjonale lufthavn"
     ],
+    "name:ori_x_preferred":[
+        "\u0b1b\u0b24\u0b4d\u0b30\u0b2a\u0b24\u0b3f \u0b36\u0b3f\u0b2c\u0b3e\u0b1c\u0b40 \u0b06\u0b28\u0b4d\u0b24\u0b30\u0b4d\u0b1c\u0b3e\u0b24\u0b40\u0b5f \u0b2c\u0b3f\u0b2e\u0b3e\u0b28\u0b2c\u0b28\u0b4d\u0b26\u0b30"
+    ],
     "name:pan_x_preferred":[
         "\u0a1b\u0a24\u0a30\u0a2a\u0a24\u0a40 \u0a38\u0a3c\u0a3f\u0a35\u0a3e\u0a1c\u0a40 \u0a05\u0a70\u0a24\u0a30\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0627\u062a\u0631\u0627\u067e\u0627\u062a\u06cc \u0634\u06cc\u0648\u0627\u062c\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Chhatrapati Shivaji"
@@ -95,10 +105,13 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Chhatrapati Shivaji"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Chhatrapati Shivaji"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0427\u0430\u0442\u0440\u0430\u043f\u0430\u0442\u0438 \u0428\u0438\u0432\u0430\u0434\u0436\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medzin\u00e1rodn\u00e9 letisko \u010ch\u00e1trapati \u0160ivaj\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -122,16 +135,14 @@
     "name:xmf_x_preferred":[
         "\u10e9\u10d0\u10e2\u10e0\u10d0\u10de\u10d0\u10e2\u10d8 \u10e8\u10d8\u10d5\u10d0\u10ef\u10d8\u10e8 \u10ef\u10dd\u10ee\u10dd\u10d3\u10d5\u10d0\u10da\u10d0\u10e8 \u10dd\u10d4\u10e0\u10d4\u10e4\u10dd\u10e8\u10e5\u10d0\u10e8\u10d4 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u7279\u62c9\u5e15\u8482\u00b7\u5e0c\u74e6\u5409\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"39",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":90,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Chhatrapati Shivaji International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6172,
     "woe:hierarchy":{
         "country_id":23424848,
@@ -139,7 +150,6 @@
         "state_id":2345750
     },
     "wof:belongsto":[
-        85931483,
         102191569,
         85632469,
         102030609,
@@ -164,16 +174,16 @@
             "country_id":85632469,
             "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931483,
+            "neighbourhood_id":-1,
             "region_id":85672171
         }
     ],
     "wof:id":102555685,
-    "wof:lastmodified":1606163495,
+    "wof:lastmodified":1566656455,
     "wof:name":"Chhatrapati Shivaji International Airport",
-    "wof:parent_id":85931483,
+    "wof:parent_id":102030609,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

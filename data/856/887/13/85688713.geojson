@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.85763,
-    "geom:area_square_m":145531862013.242157,
+    "geom:area_square_m":145531862013.239746,
     "geom:bbox":"-96.639485,40.37544,-90.140061,43.501196",
     "geom:latitude":42.07465,
     "geom:longitude":-93.500081,
@@ -147,6 +147,9 @@
     "name:dan_x_preferred":[
         "Iowa"
     ],
+    "name:deu_ch_x_preferred":[
+        "Iowa"
+    ],
     "name:deu_x_preferred":[
         "Iowa"
     ],
@@ -157,6 +160,12 @@
         "\u0391\u03ca\u03cc\u03b2\u03b1"
     ],
     "name:eml_x_preferred":[
+        "Iowa"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Iowa"
+    ],
+    "name:eng_gb_x_preferred":[
         "Iowa"
     ],
     "name:eng_x_colloquial":[
@@ -451,11 +460,17 @@
     "name:pol_x_preferred":[
         "Iowa"
     ],
+    "name:por_br_x_preferred":[
+        "Iowa"
+    ],
     "name:por_x_preferred":[
         "Iova"
     ],
     "name:por_x_variant":[
         "Iowa"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u06cc\u0648\u0648\u0627"
     ],
     "name:que_x_preferred":[
         "Iowa suyu"
@@ -592,6 +607,24 @@
     "name:zea_x_preferred":[
         "Iowa"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u827e\u5965\u74e6\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u827e\u5965\u74e6\u5dde"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u827e\u5965\u74e6\u5dde"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u827e\u5965\u74e6\u5dde"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u827e\u5965\u74e6\u5dde"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u611b\u8377\u83ef\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u827e\u5965\u74e6\u5dde"
     ],
@@ -661,10 +694,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -689,6 +721,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":16,
         "fips:code":"US19",
         "gn:id":4862182,
         "gp:id":2347574,
@@ -698,6 +731,9 @@
         "wd:id":"Q1546"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"e5cd0f11f8103518aac246ae26e92351",
     "wof:hierarchy":[
         {
@@ -715,7 +751,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163352,
+    "wof:lastmodified":1587428423,
     "wof:name":"Iowa",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1925",
     "geom:area":0.000185,
-    "geom:area_square_m":1718694.99457,
+    "geom:area_square_m":1718694.994569,
     "geom:bbox":"-81.842331,41.400002,-81.826431,41.422714",
     "geom:latitude":41.40952,
     "geom:longitude":-81.835188,
@@ -18,10 +18,8 @@
     "mps:longitude":-81.835629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u592b\u862d\u970d\u666e\u91d1\u65af\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
         "Cleveland Hopkins International Airport"
     ],
     "name:eng_x_preferred":[
@@ -33,14 +31,20 @@
         "Cleveland-Hopkins International Airport",
         "Cleveland Hopkins International Airport"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Klevlando Hopkins"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0644\u06cc\u0648\u0644\u0646\u062f \u0647\u0627\u067e\u06a9\u06cc\u0646\u0632"
+    ],
     "name:fin_x_preferred":[
         "Cleveland-Hopkinsin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Cleveland-Hopkins"
     ],
-    "name:ger_x_preferred":[
-        "Cleveland Hopkins International Airport"
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u092a\u094d\u0915\u093f\u0902\u0917 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Cleveland-Hopkins"
@@ -48,20 +52,26 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30fc\u30d6\u30e9\u30f3\u30c9\u30fb\u30db\u30d7\u30ad\u30f3\u30b9\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ud074\ub9ac\ube14\ub79c\ub4dc \ud649\ud0a8\uc2a4 \uad6d\uc81c\uacf5\ud56d"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0932\u0940\u0935\u094d\u0939\u0932\u0902\u0921 \u0939\u0949\u092a\u094d\u0915\u093f\u0928\u094d\u0938 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
+    "name:nld_x_preferred":[
+        "Cleveland Hopkins International Airport"
+    ],
     "name:nob_x_preferred":[
         "Cleveland-Hopkins internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0644\u06cc\u0648\u0644\u0646\u062f \u0647\u0627\u067e\u06a9\u06cc\u0646\u0632"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Cleveland-Hopkins"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Cleveland Hopkins"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Cleveland Hopkins"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0438\u0432\u043b\u0435\u043d\u0434"
@@ -78,22 +88,23 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e04\u0e25\u0e35\u0e1f\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e2e\u0e47\u0e2d\u0e1b\u0e01\u0e34\u0e19\u0e2a\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cleveland Municipal Airport"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0644\u06cc\u0648\u0644\u06cc\u0646\u0688 \u06c1\u0627\u067e\u06a9\u0646\u0633 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Cleveland Hopkins"
     ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u592b\u862d\u970d\u666e\u91d1\u65af\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"791",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":224,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Cleveland Municipal Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589544,
@@ -136,7 +147,7 @@
         }
     ],
     "wof:id":102534019,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566608592,
     "wof:name":"Hopkins International Airport",
     "wof:parent_id":85871823,
     "wof:placetype":"campus",

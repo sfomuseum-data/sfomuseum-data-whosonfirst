@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":71.7274,
-    "geom:area_square_m":637043108392.793579,
+    "geom:area_square_m":637043108392.793823,
     "geom:bbox":"-61.797841,-21.370782,55.854503,51.089382",
     "geom:latitude":42.191695,
     "geom:longitude":-2.736467,
@@ -109,6 +109,9 @@
     ],
     "name:bam_x_variant":[
         "France"
+    ],
+    "name:ban_x_preferred":[
+        "Perancis"
     ],
     "name:bar_x_preferred":[
         "Frankreich"
@@ -221,6 +224,12 @@
     "name:dan_x_preferred":[
         "Frankrig"
     ],
+    "name:deu_at_x_preferred":[
+        "Frankreich"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Frankreich"
+    ],
     "name:deu_x_colloquial":[
         "Franzoesische Republik",
         "Franzosische Republik"
@@ -254,6 +263,12 @@
     ],
     "name:eml_x_preferred":[
         "Franza"
+    ],
+    "name:eng_ca_x_preferred":[
+        "France"
+    ],
+    "name:eng_gb_x_preferred":[
+        "France"
     ],
     "name:eng_x_preferred":[
         "France"
@@ -296,6 +311,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633\u0647"
+    ],
+    "name:fij_x_preferred":[
+        "Varanise"
     ],
     "name:fin_x_preferred":[
         "Ranska"
@@ -343,6 +361,9 @@
     "name:gan_x_preferred":[
         "\u6cd5\u570b"
     ],
+    "name:gcr_x_preferred":[
+        "Lafrans"
+    ],
     "name:gla_x_preferred":[
         "An Fhraing"
     ],
@@ -351,6 +372,9 @@
     ],
     "name:glg_x_preferred":[
         "Francia"
+    ],
+    "name:glk_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u0633\u0647"
     ],
     "name:glv_x_preferred":[
         "Yn Rank"
@@ -366,6 +390,9 @@
     ],
     "name:gsw_x_preferred":[
         "Fr\u00e0nkrich"
+    ],
+    "name:gsw_x_variant":[
+        "Frankriich"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8"
@@ -504,6 +531,9 @@
     ],
     "name:kbp_x_preferred":[
         "Frans\u0269\u0269"
+    ],
+    "name:kea_x_preferred":[
+        "Fransa"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17b6\u179a\u17b6\u17c6\u1784"
@@ -724,6 +754,9 @@
     "name:nov_x_preferred":[
         "Fransia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dd\u07ca\u07ec\u07d9\u07ca\u07f2\u07ec\u07db\u07cc\u07eb"
+    ],
     "name:nrm_x_preferred":[
         "France"
     ],
@@ -798,6 +831,9 @@
     ],
     "name:pol_x_preferred":[
         "Francja"
+    ],
+    "name:por_br_x_preferred":[
+        "Fran\u00e7a"
     ],
     "name:por_x_colloquial":[
         "Franca"
@@ -890,6 +926,9 @@
     "name:smn_x_preferred":[
         "Ranska"
     ],
+    "name:smn_x_variant":[
+        "R\u00e1nsk\u00e1"
+    ],
     "name:smo_x_preferred":[
         "Farani"
     ],
@@ -926,6 +965,12 @@
     "name:srn_x_preferred":[
         "Franskondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Francuska"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0430"
     ],
@@ -949,6 +994,9 @@
     ],
     "name:szl_x_variant":[
         "Francyjo"
+    ],
+    "name:szy_x_preferred":[
+        "France"
     ],
     "name:tah_x_preferred":[
         "Far\u0101ni"
@@ -1177,12 +1225,10 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
@@ -1216,6 +1262,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"France",
+        "digitalenvoy:country_code":250,
         "fb:id":"en.france",
         "fifa:id":"FRA",
         "fips:code":"FR",
@@ -1238,6 +1285,11 @@
     },
     "wof:country":"FR",
     "wof:country_alpha3":"FRA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"764b57b7cd75aafd5c9f9889c3a94623",
     "wof:hierarchy":[
         {
@@ -1253,7 +1305,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1606163256,
+    "wof:lastmodified":1587429078,
     "wof:name":"France",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

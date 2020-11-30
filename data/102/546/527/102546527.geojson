@@ -4,7 +4,6 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-90.527496,14.5833,-90.527496,14.5833",
@@ -13,11 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u5965\u7f57\u62c9\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "La Aurora International Airport"
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flughafen Guatemala-Stadt"
     ],
     "name:eng_x_preferred":[
         "La Aurora International Airport"
@@ -26,14 +23,17 @@
         "GUA",
         "MGGT"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international La Aurora"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627 \u0622\u0631\u0631\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Guatemala-Stadt"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international La Aurora"
     ],
     "name:glg_x_preferred":[
         "Aeroporto Internacional La Aurora"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0905\u0930\u094b\u0930\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional La Aurora"
@@ -47,20 +47,29 @@
     "name:kor_x_preferred":[
         "\ub77c\uc624\ub85c\ub77c \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u0911\u0930\u094b\u0930\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa La Aurora"
+    ],
+    "name:nld_x_preferred":[
+        "La Aurora International Airport"
     ],
     "name:nob_x_preferred":[
         "La Aurora internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627 \u0622\u0631\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Gwatemala-La Aurora"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional La Aurora"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional La Aurora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0410\u0443\u0440\u043e\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional La Aurora"
@@ -74,11 +83,11 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf La Aurora"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5965\u7f57\u62c9\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"4952",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -114,11 +123,11 @@
         }
     ],
     "wof:id":102546527,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1566657023,
     "wof:name":"La Aurora Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

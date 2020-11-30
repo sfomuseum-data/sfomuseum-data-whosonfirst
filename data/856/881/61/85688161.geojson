@@ -5,17 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.352572,
-    "geom:area_square_m":44297042212.04747,
+    "geom:area_square_m":44297042212.046448,
     "geom:bbox":"35.147912,54.249566,40.207116,56.959911",
     "geom:latitude":55.670317,
     "geom:longitude":37.658826,
     "iso:country":"RU",
-    "label:eng_x_abbreviation":"MS",
     "label:eng_x_preferred_longname":[
         "Moscow Oblast"
     ],
     "label:eng_x_preferred_placetype":[
         "oblast"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "MS"
     ],
     "label:rus_x_preferred_longname":[
         "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -25,6 +27,7 @@
     ],
     "lbl:latitude":55.313489,
     "lbl:longitude":38.463359,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Moskva",
     "meso:name_alt2":"Moskovskaja oblast'",
     "meso:name_local":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -49,9 +52,6 @@
     "name:aka_x_preferred":[
         "Moscow"
     ],
-    "name:alb_x_preferred":[
-        "Moska"
-    ],
     "name:amh_x_preferred":[
         "\u121e\u1235\u12ae"
     ],
@@ -66,9 +66,6 @@
     ],
     "name:arg_x_preferred":[
         "Mosc\u00fa"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u057d\u056f\u057e\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0633\u0643\u0648"
@@ -91,11 +88,11 @@
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0441\u043a\u04d9\u04af"
     ],
+    "name:bak_x_variant":[
+        "\u041c\u04d9\u0441\u043a\u04d9\u04af \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    ],
     "name:bam_x_preferred":[
         "Moscow"
-    ],
-    "name:baq_x_preferred":[
-        "Mosku"
     ],
     "name:bar_x_preferred":[
         "Moskau"
@@ -115,6 +112,9 @@
     "name:bis_x_preferred":[
         "Moskow"
     ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f41\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Moskva"
     ],
@@ -124,11 +124,11 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1031\u102c\u103a\u1005\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u0443\u0448\u0445\u0430\u0432\u0430\u0430"
+    ],
+    "name:bxr_x_variant":[
+        "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
     "name:cat_x_preferred":[
         "Moscou"
@@ -136,14 +136,17 @@
     "name:cdo_x_preferred":[
         "Moskva"
     ],
+    "name:ceb_x_preferred":[
+        "Moscow"
+    ],
+    "name:ces_x_preferred":[
+        "Moskva"
+    ],
     "name:cha_x_preferred":[
         "Moscow"
     ],
     "name:che_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u83ab\u65af\u79d1"
     ],
     "name:chu_x_preferred":[
         "\u041c\u043e\u0441\u043a\u044a\u0432\u0430"
@@ -166,11 +169,20 @@
     "name:csb_x_preferred":[
         "M\u00f2skwa"
     ],
-    "name:cze_x_preferred":[
-        "Moskva"
+    "name:cym_x_preferred":[
+        "Moscfa"
     ],
     "name:dan_x_preferred":[
         "Moskva"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Moskau"
+    ],
+    "name:deu_x_preferred":[
+        "Moskau"
+    ],
+    "name:din_x_preferred":[
+        "Moccow"
     ],
     "name:diq_x_preferred":[
         "Moskowa"
@@ -184,14 +196,20 @@
     "name:dty_x_preferred":[
         "\u092e\u0938\u094d\u0915\u094b"
     ],
-    "name:dut_x_preferred":[
-        "Moskou"
-    ],
     "name:dzo_x_preferred":[
         "\u0f58\u0f7c\u0f66\u0f72\u0f0b\u0f40\u0f7c"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c3\u03c7\u03b1"
+    ],
     "name:eml_x_preferred":[
         "M\u00e5ssca"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Moscow"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Moscow"
     ],
     "name:eng_x_preferred":[
         "Moscow Oblast"
@@ -209,16 +227,22 @@
     "name:est_x_preferred":[
         "Moskva"
     ],
+    "name:eus_x_preferred":[
+        "Mosku"
+    ],
     "name:ext_x_preferred":[
         "Mosc\u00fa"
     ],
     "name:fao_x_preferred":[
         "Moskva"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Moskova"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moscou"
     ],
     "name:frp_x_preferred":[
@@ -236,11 +260,8 @@
     "name:gan_x_preferred":[
         "\u83ab\u65af\u79d1"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e1\u10d9\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Moskau"
+    "name:gcr_x_preferred":[
+        "Moskou"
     ],
     "name:gla_x_preferred":[
         "Moscobha"
@@ -259,9 +280,6 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf3c\ud800\udf49\ud800\udf43\ud800\udf3a\ud800\udf45\ud800\udf30/Moskwa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03c3\u03c7\u03b1"
     ],
     "name:grn_x_preferred":[
         "Mosku"
@@ -302,8 +320,11 @@
     "name:hun_x_preferred":[
         "Moszkva"
     ],
-    "name:ice_x_preferred":[
-        "Moskva"
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u056f\u057e\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0578\u057d\u056f\u0578\u0582\u0561"
     ],
     "name:ido_x_preferred":[
         "Moskva"
@@ -322,6 +343,12 @@
     ],
     "name:ind_x_preferred":[
         "Moskwa"
+    ],
+    "name:inh_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u043e\u0430"
+    ],
+    "name:isl_x_preferred":[
+        "Moskva"
     ],
     "name:ita_x_preferred":[
         "Mosca"
@@ -353,6 +380,9 @@
     "name:kas_x_preferred":[
         "\u0645\u064e\u0633\u0643\u0624\u0622"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e1\u10d9\u10dd\u10d5\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u04d9\u0441\u043a\u0435\u0443"
     ],
@@ -361,6 +391,9 @@
     ],
     "name:kbp_x_preferred":[
         "M\u0254s\u0269k\u028a\u028a"
+    ],
+    "name:kea_x_preferred":[
+        "Muskovu"
     ],
     "name:kik_x_preferred":[
         "Moscow"
@@ -392,6 +425,9 @@
     "name:lad_x_preferred":[
         "Mosku"
     ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0ead\u0e94\u0ec2\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Moscua"
     ],
@@ -403,6 +439,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Moscva"
     ],
     "name:lij_x_preferred":[
         "Mosca"
@@ -419,6 +458,9 @@
     "name:lmo_x_preferred":[
         "Musca"
     ],
+    "name:ltg_x_preferred":[
+        "Moskova"
+    ],
     "name:ltz_x_preferred":[
         "Moskau"
     ],
@@ -428,29 +470,26 @@
     "name:lzh_x_preferred":[
         "\u83ab\u65af\u79d1"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u092e\u0938\u094d\u0915\u094b"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4b\u0d38\u0d4d\u0d15\u0d4b"
     ],
-    "name:mao_x_preferred":[
-        "Mohikau"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0949\u0938\u094d\u0915\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Moscow"
     ],
     "name:mdf_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0443"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u043e"
+    ],
+    "name:min_x_preferred":[
+        "Moskow"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
     "name:mlg_x_preferred":[
         "Moskva"
@@ -461,11 +500,20 @@
     "name:mon_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Mohikau"
+    ],
     "name:mrj_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Moscow"
+    ],
     "name:mwl_x_preferred":[
         "Moscobo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1031\u102c\u103a\u1005\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u041c\u043e\u0441\u043a\u043e\u0432 \u043e\u0448"
@@ -493,6 +541,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u0938\u094d\u0915\u094b"
+    ],
+    "name:nld_x_preferred":[
+        "Moskou"
     ],
     "name:nno_x_preferred":[
         "Moskva"
@@ -542,9 +593,6 @@
     "name:pdc_x_preferred":[
         "Moscow"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0633\u06a9\u0648"
-    ],
     "name:pih_x_preferred":[
         "Moscow"
     ],
@@ -559,6 +607,9 @@
     ],
     "name:pol_x_preferred":[
         "Moskwa"
+    ],
+    "name:por_br_x_preferred":[
+        "Moscou"
     ],
     "name:por_x_preferred":[
         "Moscovo"
@@ -575,11 +626,11 @@
     "name:roh_x_preferred":[
         "Moscau"
     ],
+    "name:ron_x_preferred":[
+        "Moscova"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Moscova"
     ],
     "name:run_x_preferred":[
         "Moscou"
@@ -588,7 +639,7 @@
         "Moscova"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "name:rus_x_variant":[
         "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -603,6 +654,9 @@
     "name:san_x_preferred":[
         "\u092e\u093e\u0938\u094d\u0915\u094b\u0928\u0917\u0930\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5a\u1c65\u1c60\u1c5a"
+    ],
     "name:scn_x_preferred":[
         "Musca"
     ],
@@ -615,7 +669,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moskva"
     ],
     "name:slv_x_preferred":[
@@ -630,6 +684,9 @@
     "name:sna_x_preferred":[
         "Moscow"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u0627\u0633\u06aa\u0648"
+    ],
     "name:som_x_preferred":[
         "Moskow"
     ],
@@ -639,8 +696,14 @@
     "name:spa_x_preferred":[
         "Mosc\u00fa"
     ],
+    "name:sqi_x_preferred":[
+        "Moska"
+    ],
     "name:srd_x_preferred":[
         "Mosca"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
@@ -687,9 +750,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e2a\u0e42\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f41\u0f7c\u0f0d"
-    ],
     "name:ton_x_preferred":[
         "Mosekou"
     ],
@@ -720,10 +780,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Moskovskaja oblast'",
-        "Moskva"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u06a9\u0648"
     ],
@@ -750,9 +806,6 @@
     ],
     "name:war_x_preferred":[
         "Moscow"
-    ],
-    "name:wel_x_preferred":[
-        "Moscfa"
     ],
     "name:wln_x_preferred":[
         "Moscou"
@@ -787,6 +840,18 @@
     "name:zha_x_preferred":[
         "Moscow"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u83ab\u65af\u79d1"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u83ab\u65af\u79d1"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u83ab\u65af\u79d1"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u79d1"
+    ],
     "name:zul_x_preferred":[
         "IMoskwa"
     ],
@@ -799,14 +864,13 @@
     "qs:source":"Unknown",
     "reversegeo:latitude":55.498792,
     "reversegeo:longitude":38.118707,
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"47,000",
     "statoids:area_mi":"18,100",
     "statoids:as_of_date":"2010-10-14",
@@ -834,6 +898,9 @@
         "wd:id":"Q649"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bb3892227adbe3b402cd7b07e78422f",
     "wof:hierarchy":[
         {
@@ -869,11 +936,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1606163161,
+    "wof:lastmodified":1587427459,
     "wof:name":"Moscow Oblast",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":7095120,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-ru",

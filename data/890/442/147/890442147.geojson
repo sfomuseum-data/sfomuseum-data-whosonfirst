@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003969,
-    "geom:area_square_m":48256611.366398,
+    "geom:area_square_m":48256611.366399,
     "geom:bbox":"-66.945359,10.474732,-66.799771,10.530785",
     "geom:latitude":10.501608,
     "geom:longitude":-66.877448,
     "gn:country":"VE",
     "gn:fcode":"PPLC",
-    "gn:pop":3000000,
+    "gn:population":3000000,
     "iso:country":"VE",
     "lbl:latitude":10.505146,
     "lbl:longitude":-66.917878,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -25,9 +27,6 @@
     "name:afr_x_preferred":[
         "Caracas"
     ],
-    "name:alb_x_preferred":[
-        "Karakas"
-    ],
     "name:amh_x_preferred":[
         "\u12ab\u122b\u12ab\u1235"
     ],
@@ -37,8 +36,8 @@
     "name:arg_x_preferred":[
         "Caracas"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u0561\u056f\u0561\u057d"
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u0627\u0643\u0627\u0633"
     ],
     "name:ast_x_preferred":[
         "Caraques"
@@ -49,7 +48,7 @@
     "name:aze_x_preferred":[
         "Karakas"
     ],
-    "name:baq_x_preferred":[
+    "name:bcl_x_preferred":[
         "Caracas"
     ],
     "name:bel_x_preferred":[
@@ -76,14 +75,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u101b\u102c\u1000\u1000\u103a\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Caracas"
     ],
     "name:cbk_zam_x_preferred":[
         "Ciudad de Caracas"
+    ],
+    "name:cdo_x_preferred":[
+        "Caracas"
     ],
     "name:ceb_x_preferred":[
         "Caracas"
@@ -94,32 +93,38 @@
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u5361\u65af"
-    ],
     "name:chy_x_preferred":[
         "Caracas"
     ],
     "name:cos_x_preferred":[
         "Caracas"
     ],
-    "name:cym_x_preferred":[
-        "Caracas"
+    "name:crh_x_preferred":[
+        "Karakas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Caracas"
     ],
     "name:dan_x_preferred":[
         "Caracas"
     ],
+    "name:deu_ch_x_preferred":[
+        "Caracas"
+    ],
     "name:deu_x_preferred":[
         "Caracas"
     ],
-    "name:dut_x_preferred":[
-        "Caracas"
+    "name:diq_x_preferred":[
+        "Karakas"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03ac\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Caracas"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Caracas"
     ],
     "name:eng_x_preferred":[
         "Caracas"
@@ -145,17 +150,8 @@
     "name:fra_x_preferred":[
         "Caracas"
     ],
-    "name:fre_x_preferred":[
-        "Caracas"
-    ],
     "name:fry_x_preferred":[
         "Karakas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10d9\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Caracas"
     ],
     "name:gla_x_preferred":[
         "Caracas"
@@ -166,16 +162,25 @@
     "name:glg_x_preferred":[
         "Caracas"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03ac\u03ba\u03b1\u03c2"
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf3a\ud800\udf30\ud800\udf43"
     ],
     "name:grn_x_preferred":[
+        "Caracas"
+    ],
+    "name:gsw_x_preferred":[
         "Caracas"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0abe\u0a95\u0abe\u0ab8"
     ],
+    "name:hak_x_preferred":[
+        "Caracas"
+    ],
     "name:hat_x_preferred":[
+        "Karakas"
+    ],
+    "name:hau_x_preferred":[
         "Karakas"
     ],
     "name:hbs_x_preferred":[
@@ -201,9 +206,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0561\u056f\u0561\u057d"
-    ],
-    "name:ice_x_preferred":[
-        "Karakas"
     ],
     "name:ido_x_preferred":[
         "Caracas"
@@ -250,6 +252,9 @@
     "name:kin_x_preferred":[
         "Caracas"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\uce74\uc2a4"
     ],
@@ -259,11 +264,17 @@
     "name:lad_x_preferred":[
         "Karakas"
     ],
+    "name:lad_x_variant":[
+        "Caracas"
+    ],
     "name:lat_x_preferred":[
         "Caracae"
     ],
     "name:lav_x_preferred":[
         "Karakasa"
+    ],
+    "name:lfn_x_preferred":[
+        "Caracas"
     ],
     "name:lij_x_preferred":[
         "Caracas"
@@ -280,17 +291,14 @@
     "name:ltz_x_preferred":[
         "Caracas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
-    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u093e\u0915\u093e\u0938"
     ],
-    "name:may_x_preferred":[
-        "Caracas"
+    "name:mar_x_variant":[
+        "\u0915\u0947\u0930\u0915\u0938"
     ],
     "name:min_x_preferred":[
         "Caracas"
@@ -319,6 +327,9 @@
     "name:nau_x_preferred":[
         "Caracas"
     ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u0930\u093e\u0915\u0938"
+    ],
     "name:nld_x_preferred":[
         "Caracas"
     ],
@@ -337,6 +348,9 @@
     "name:oci_x_preferred":[
         "Caracas"
     ],
+    "name:olo_x_preferred":[
+        "Karakas"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3e\u0b30\u0b3e\u0b15\u0b3e\u0b38"
     ],
@@ -352,9 +366,6 @@
     "name:pap_x_preferred":[
         "Caracas"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u0627\u06a9\u0627\u0633"
-    ],
     "name:pms_x_preferred":[
         "Caracas"
     ],
@@ -364,11 +375,17 @@
     "name:pol_x_preferred":[
         "Caracas"
     ],
+    "name:por_br_x_preferred":[
+        "Caracas"
+    ],
     "name:por_x_preferred":[
         "Caracas"
     ],
     "name:que_x_preferred":[
         "Karakas"
+    ],
+    "name:que_x_variant":[
+        "Caracas"
     ],
     "name:rmy_x_preferred":[
         "Caracas"
@@ -377,9 +394,6 @@
         "Caracas"
     ],
     "name:ron_x_preferred":[
-        "Caracas"
-    ],
-    "name:rum_x_preferred":[
         "Caracas"
     ],
     "name:run_x_preferred":[
@@ -406,9 +420,6 @@
     "name:slk_x_preferred":[
         "Caracas"
     ],
-    "name:slo_x_preferred":[
-        "Caracas"
-    ],
     "name:slv_x_preferred":[
         "Caracas"
     ],
@@ -424,8 +435,14 @@
     "name:sqi_x_preferred":[
         "Karakas"
     ],
+    "name:srd_x_preferred":[
+        "Caracas"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
+    ],
+    "name:stq_x_preferred":[
+        "Caracas"
     ],
     "name:swa_x_preferred":[
         "Caracas"
@@ -451,20 +468,26 @@
     "name:tet_x_preferred":[
         "Karakas"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Caracas"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e2a"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f0b\u0f62\u0f0b\u0f41\u0f0b\u0f66\u0f72"
-    ],
     "name:tuk_x_preferred":[
         "Karakas"
     ],
     "name:tur_x_preferred":[
         "Karakas"
+    ],
+    "name:tur_x_variant":[
+        "Caracas"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
     ],
     "name:uig_x_preferred":[
         "Karakas"
@@ -474,6 +497,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u0627\u06a9\u0627\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0631\u0627\u06a9\u0633"
     ],
     "name:uzb_x_preferred":[
         "Karakas"
@@ -493,11 +519,11 @@
     "name:war_x_preferred":[
         "Caracas"
     ],
-    "name:wel_x_preferred":[
-        "Caracas"
-    ],
     "name:wol_x_preferred":[
         "Caracas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u62c9\u52a0\u65af"
     ],
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e8\u05d0\u05e7\u05d0\u05e1"
@@ -511,11 +537,20 @@
     "name:zha_x_preferred":[
         "Caracas"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u5361\u62c9\u5361\u65af"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Caracas"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u52a0\u62c9\u52a0\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u5361\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u62c9\u52a0\u65af"
     ],
     "name:zho_yue_x_preferred":[
         "\u5361\u62c9\u5361\u65af"
@@ -616,7 +651,6 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"12",
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "unknown"
@@ -626,23 +660,26 @@
     "wof:belongsto":[
         102191577,
         85632317,
-        85680535,
-        1108694107
+        1108694107,
+        85680535
     ],
     "wof:breaches":[],
     "wof:capital_of":85632317,
     "wof:concordances":{
         "gn:id":3646738,
         "gp:id":395269,
-        "qs:id":274476,
+        "qs_pg:id":274476,
         "wd:id":"Q1533",
         "wk:page":"Caracas"
     },
     "wof:concordances_alt":{
-        "qs:id":1075894
+        "qs_pg:id":1075894
     },
     "wof:country":"VE",
     "wof:created":1469052351,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"48c2fb26ede77232bab624bfbdfbcec0",
     "wof:hierarchy":[
         {
@@ -654,7 +691,7 @@
         }
     ],
     "wof:id":890442147,
-    "wof:lastmodified":1606163454,
+    "wof:lastmodified":1587428712,
     "wof:name":"Caracas",
     "wof:parent_id":1108694107,
     "wof:placetype":"locality",

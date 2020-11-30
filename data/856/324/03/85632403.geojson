@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.213881,
-    "geom:area_square_m":36370077329.220139,
+    "geom:area_square_m":36370077329.214577,
     "geom:bbox":"116.702026,20.705389,122.102943,26.39625",
     "geom:latitude":23.754764,
     "geom:longitude":120.952016,
@@ -14,8 +14,13 @@
     "itu:country_code":[
         "886"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TW"
+    ],
     "lbl:latitude":23.798532,
     "lbl:longitude":120.955426,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":23.798532,
     "mps:longitude":120.955426,
     "mz:hierarchy_label":1,
@@ -76,6 +81,9 @@
     "name:bar_x_preferred":[
         "Republik Kina"
     ],
+    "name:bar_x_variant":[
+        "Republik China"
+    ],
     "name:bcl_x_preferred":[
         "Taiwan"
     ],
@@ -89,6 +97,12 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u0993\u09af\u09bc\u09be\u09a8"
     ],
+    "name:bgn_x_preferred":[
+        "\u062a\u0627\u06cc\u0648\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u091a\u0940\u0928"
+    ],
     "name:bih_x_preferred":[
         "\u0924\u093e\u0907\u0935\u093e\u0928"
     ],
@@ -97,6 +111,9 @@
     ],
     "name:bos_x_preferred":[
         "Tajvan"
+    ],
+    "name:bos_x_variant":[
+        "Republika Kina"
     ],
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u0987\u09f1\u09be\u09a8"
@@ -107,6 +124,9 @@
     "name:bre_x_variant":[
         "Taiwan",
         "Enez Taiwan"
+    ],
+    "name:brh_x_preferred":[
+        "T\u00e1\u00edv\u00e1n"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u0442\u0430\u0439"
@@ -133,7 +153,8 @@
         "\u010c\u00ednsk\u00e1 republika"
     ],
     "name:ces_x_variant":[
-        "Tajwan"
+        "Tajwan",
+        "Tchaj-wan"
     ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
@@ -147,8 +168,14 @@
     "name:ckb_x_preferred":[
         "\u062a\u0627\u06cc\u0648\u0627\u0646"
     ],
+    "name:ckb_x_variant":[
+        "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0686\u06cc\u0646"
+    ],
     "name:cor_x_preferred":[
         "Taywan"
+    ],
+    "name:cos_x_preferred":[
+        "Taiwan"
     ],
     "name:crh_x_preferred":[
         "\u00c7in Cumhuriyeti"
@@ -159,9 +186,6 @@
     "name:cym_x_preferred":[
         "Taiwan"
     ],
-    "name:cze_x_preferred":[
-        "Tchaj-wan"
-    ],
     "name:cze_x_variant":[
         "Tajwan"
     ],
@@ -170,6 +194,12 @@
     ],
     "name:dan_x_variant":[
         "Republikken Kina"
+    ],
+    "name:deu_at_x_preferred":[
+        "Republik China"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Republik China"
     ],
     "name:deu_x_preferred":[
         "Republik China (Taiwan)"
@@ -191,6 +221,9 @@
     "name:dsb_x_preferred":[
         "Republika Chinskeje"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u093e\u0907\u0935\u093e\u0928"
+    ],
     "name:dzo_x_preferred":[
         "\u0f4f\u0f60\u0f72\u0f0b\u0f5d\u0f71\u0f53\u0f0b"
     ],
@@ -202,6 +235,12 @@
     ],
     "name:ell_x_variant":[
         "\u03a4\u03b1\u03ca\u03b2\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Taiwan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Taiwan"
     ],
     "name:eng_x_preferred":[
         "Taiwan"
@@ -270,6 +309,9 @@
     "name:frr_x_preferred":[
         "Taiwan (republiik)"
     ],
+    "name:frr_x_variant":[
+        "Taiwan"
+    ],
     "name:fry_x_preferred":[
         "Taiwan"
     ],
@@ -285,8 +327,14 @@
     "name:gan_x_preferred":[
         "\u4e2d\u83ef\u6c11\u570b"
     ],
+    "name:gcr_x_preferred":[
+        "Taywan"
+    ],
     "name:gla_x_preferred":[
         "Poblachd na S\u00ecne"
+    ],
+    "name:gla_x_variant":[
+        "Taidh-Bh\u00e0n"
     ],
     "name:gle_x_preferred":[
         "An T\u00e9av\u00e1in"
@@ -303,6 +351,15 @@
     "name:gom_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf44\ud800\udf30\ud800\udf39\u0308\ud800\udf45\ud800\udf30"
+    ],
+    "name:grn_x_preferred":[
+        "Taiu\u00e3"
+    ],
+    "name:gsw_x_preferred":[
+        "Republik China"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac0\u0aa8\u0ac0 \u0a97\u0aa3\u0aa4\u0a82\u0aa4\u0acd\u0ab0"
     ],
@@ -312,11 +369,17 @@
     "name:hak_x_preferred":[
         "Ch\u00fbng-f\u00e0 M\u00ecn-koet"
     ],
+    "name:hat_x_preferred":[
+        "Taywann"
+    ],
     "name:hau_x_preferred":[
         "Taiwan"
     ],
     "name:hau_x_variant":[
         "Jamhuriyar Sin"
+    ],
+    "name:haw_x_preferred":[
+        "Taiuana"
     ],
     "name:hbs_x_preferred":[
         "Republika Kina"
@@ -391,6 +454,9 @@
     "name:jam_x_preferred":[
         "Ripoblik a Chaina"
     ],
+    "name:jam_x_variant":[
+        "Taiwan"
+    ],
     "name:jav_x_preferred":[
         "R\u00e9publik Cina"
     ],
@@ -421,6 +487,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0425\u044a\u0443\u0442\u0435\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Tay\u0269wan\u0269"
     ],
     "name:khm_x_preferred":[
         "\u178f\u17c3\u179c\u17c9\u17b6\u1793\u17cb"
@@ -455,6 +524,9 @@
     "name:lao_x_preferred":[
         "\u0ec4\u0e95\u0ec9\u0eab\u0ea7\u0eb1\u0e99"
     ],
+    "name:lao_x_variant":[
+        "T\u00e2i-o\u00e2n"
+    ],
     "name:lat_x_preferred":[
         "Res publica Sinarum"
     ],
@@ -466,6 +538,9 @@
     ],
     "name:lav_x_variant":[
         "Taiv\u0101na"
+    ],
+    "name:lfn_x_preferred":[
+        "Taiuan"
     ],
     "name:lij_x_preferred":[
         "Taiwan"
@@ -491,11 +566,15 @@
     "name:lrc_x_preferred":[
         "\u062a\u0627\u06cc\u06a4\u0627\u0646"
     ],
+    "name:lrc_x_variant":[
+        "\u062a\u0627\u06cc\u0648\u0627\u0646"
+    ],
     "name:ltz_x_preferred":[
         "Republik China (Taiwan)"
     ],
     "name:ltz_x_variant":[
-        "Republik China"
+        "Republik China",
+        "Taiwan"
     ],
     "name:lub_x_preferred":[
         "Taiwani"
@@ -505,6 +584,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u4e2d\u83ef\u6c11\u570b"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u093e\u0907\u0935\u093e\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d24\u0d3e\u0d2f\u0d4d\u200c\u0d35\u0d3e\u0d7b"
@@ -520,6 +602,12 @@
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
+    ],
+    "name:mhr_x_variant":[
+        "\u0422\u0430\u0439\u0432\u0430\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Taiwan"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043d\u0430"
@@ -555,6 +643,9 @@
     "name:mya_x_variant":[
         "\u1011\u102d\u102f\u1004\u103a\u101d\u1019\u103a"
     ],
+    "name:myv_x_preferred":[
+        "\u041a\u0438\u0442\u0430\u0439\u0435\u043d\u044c \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044c"
+    ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u06cc\u0648\u0627\u0646"
     ],
@@ -563,6 +654,9 @@
     ],
     "name:nan_x_preferred":[
         "T\u00e2i-o\u00e2n"
+    ],
+    "name:nan_x_variant":[
+        "Tiong-ho\u00e2 B\u00een-kok"
     ],
     "name:nau_x_preferred":[
         "Republik Tsiene"
@@ -590,6 +684,9 @@
     ],
     "name:nob_x_preferred":[
         "Taiwan"
+    ],
+    "name:nob_x_variant":[
+        "Republikken Kina"
     ],
     "name:nor_x_preferred":[
         "Taiwan",
@@ -619,11 +716,17 @@
     "name:pan_x_preferred":[
         "\u0a24\u0a3e\u0a07\u0a35\u0a3e\u0a28"
     ],
+    "name:pan_x_variant":[
+        "\u0a1a\u0a40\u0a28 \u0a17\u0a23\u0a30\u0a3e\u0a1c"
+    ],
     "name:pap_x_preferred":[
         "Republika di China"
     ],
     "name:pcd_x_preferred":[
         "Ta\u00efwan"
+    ],
+    "name:pfl_x_preferred":[
+        "Taiwon"
     ],
     "name:pli_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928"
@@ -639,8 +742,10 @@
         "Republika Chi\u0144ska"
     ],
     "name:pol_x_variant":[
-        "Formoza",
-        "Republika Chi\u0144ska"
+        "Formoza"
+    ],
+    "name:por_br_x_preferred":[
+        "Taiwan"
     ],
     "name:por_x_preferred":[
         "Ilha de Formosa",
@@ -653,6 +758,9 @@
     "name:pus_x_preferred":[
         "\u062f \u0686\u064a\u0646 \u062c\u0645\u0647\u0648\u0631\u064a\u062a"
     ],
+    "name:pus_x_variant":[
+        "\u062a\u0627\u06cc\u0648\u0627\u0646"
+    ],
     "name:que_x_preferred":[
         "Chunwa Republika"
     ],
@@ -662,8 +770,8 @@
     "name:ron_x_preferred":[
         "Taiwan"
     ],
-    "name:rum_x_preferred":[
-        "Taiwan"
+    "name:rue_x_preferred":[
+        "\u0422\u0430\u0439\u0432\u0430\u043d"
     ],
     "name:run_x_preferred":[
         "Tayiwani"
@@ -680,14 +788,23 @@
     "name:sah_x_preferred":[
         "\u041a\u044b\u0442\u0430\u0439 \u04e8\u0440\u04e9\u0441\u043f\u04af\u04af\u0431\u04af\u043b\u04af\u043a\u044d\u0442\u044d"
     ],
+    "name:sah_x_variant":[
+        "\u041a\u044b\u0442\u0430\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430"
+    ],
     "name:san_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c6d\u1c63\u1c5f\u1c71"
     ],
     "name:scn_x_preferred":[
         "Taiwan"
     ],
     "name:sco_x_preferred":[
         "Republic o Cheenae"
+    ],
+    "name:sgs_x_preferred":[
+        "Taivans"
     ],
     "name:sin_x_preferred":[
         "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba"
@@ -733,6 +850,9 @@
     ],
     "name:sqi_x_variant":[
         "Tajvan"
+    ],
+    "name:srd_x_preferred":[
+        "Taiwan"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043d\u0430"
@@ -790,7 +910,8 @@
         "Republika ng Tsina"
     ],
     "name:tgl_x_variant":[
-        "Heograpiya ng Taiwan"
+        "Heograpiya ng Taiwan",
+        "Taiwan"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e15\u0e49\u0e2b\u0e27\u0e31\u0e19"
@@ -825,13 +946,8 @@
     "name:und_x_colloquial":[
         "Taivan"
     ],
-    "name:und_x_preferred":[
-        "Daeman",
-        "Tajvan",
-        "Ta\u00edvan"
-    ],
-    "name:unk_x_variant":[
-        "Republic of China"
+    "name:und_x_variant":[
+        "Daeman"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
@@ -851,6 +967,9 @@
     "name:vep_x_preferred":[
         "Taivan"
     ],
+    "name:vep_x_variant":[
+        "Taivan'"
+    ],
     "name:vie_x_preferred":[
         "Trung Hoa D\u00e2n Qu\u1ed1c"
     ],
@@ -862,6 +981,9 @@
     ],
     "name:vol_x_preferred":[
         "Tayv\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Hiina Vabariik"
     ],
     "name:war_x_preferred":[
         "Republika han Tsina"
@@ -899,8 +1021,26 @@
     "name:zha_x_preferred":[
         "Cunghvaz Minzgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tiong-ho\u00e2 B\u00een-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
     ],
     "name:zho_x_preferred":[
         "\u53f0\u6e7e"
@@ -988,14 +1128,12 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"886",
     "statoids:ds":"RC",
@@ -1023,6 +1161,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Taiwan",
+        "digitalenvoy:country_code":158,
         "fb:id":"en.taiwan",
         "fifa:id":"TPE",
         "fips:code":"TW",
@@ -1038,13 +1177,18 @@
         "mzb:id":"republic-of-china",
         "ne:adm0_a3":"TWN",
         "nyt:id":"59436138160498769921",
-        "qs:id":1030890,
+        "qs_pg:id":1030890,
         "uncrt:id":"RC",
         "wd:id":"Q865",
         "wk:page":"Taiwan"
     },
     "wof:country":"TW",
     "wof:country_alpha3":"TWN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"8d008d1b3f457b3a66f0e969e947fa09",
     "wof:hierarchy":[
         {
@@ -1059,7 +1203,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1606163133,
+    "wof:lastmodified":1587428316,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

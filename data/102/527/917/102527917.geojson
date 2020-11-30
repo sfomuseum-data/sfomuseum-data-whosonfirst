@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1500438.487626,
+    "geom:area_square_m":1500438.487624,
     "geom:bbox":"-118.499046,34.2015,-118.482841,34.221943",
     "geom:latitude":34.211807,
     "geom:longitude":-118.490782,
@@ -69,9 +69,6 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Van Nuys"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -117,7 +114,7 @@
         }
     ],
     "wof:id":102527917,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566609392,
     "wof:name":"Van Nuys Airport",
     "wof:parent_id":85869395,
     "wof:placetype":"campus",

@@ -5,20 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.979428,
-    "geom:area_square_m":130016895589.489258,
+    "geom:area_square_m":130016895134.814743,
     "geom:bbox":"24.34662,-30.69408,29.78513,-26.66874",
     "geom:latitude":-28.614403,
     "geom:longitude":26.867264,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"FS",
     "label:eng_x_preferred_longname":[
         "Free State Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FS"
+    ],
     "lbl:latitude":-28.59211,
     "lbl:longitude":26.682325,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Free State",
     "mps:latitude":-28.5992,
     "mps:longitude":26.683766,
@@ -42,7 +45,7 @@
     "name:swe_x_preferred":[
         "Fristaten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of the Orange Free State"
     ],
     "ne:abbrev":"",
@@ -110,14 +113,13 @@
     "qs:adm0_a3":"ZAF",
     "qs:level":"adm1",
     "qs:source":"GlobalMap",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"76,495",
     "statoids:area_mi":"29,535",
     "statoids:as_of_date":"2001-10-10",
@@ -137,6 +139,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":11497,
         "fips:code":"SF07",
         "gn:id":967573,
         "gp:id":2346980,
@@ -145,6 +148,9 @@
         "unlc:id":"ZA-FS"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a352d06cec83404e0d8e4ba64068eee2",
     "wof:hierarchy":[
         {
@@ -170,11 +176,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1606163153,
+    "wof:lastmodified":1583882938,
     "wof:name":"Free State",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":4039939,
     "wof:population_rank":12,

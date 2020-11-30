@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009325,
-    "geom:area_square_m":85531466.030767,
+    "geom:area_square_m":85531466.030768,
     "geom:bbox":"-72.622132,42.063736,-72.471164,42.162219",
     "geom:latitude":42.115498,
     "geom:longitude":-72.539525,
@@ -16,6 +16,8 @@
     "iso:country":"US",
     "lbl:latitude":42.118202,
     "lbl:longitude":-72.539522,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":42.118202,
     "mps:longitude":-72.539522,
     "mz:hierarchy_label":1,
@@ -30,8 +32,8 @@
     "name:azb_x_preferred":[
         "\u0627\u0633\u067e\u0631\u06cc\u0646\u0642\u0641\u06cc\u0644\u062f\u060c \u0645\u0627\u0633\u0627\u0686\u0648\u0633\u062a"
     ],
-    "name:baq_x_preferred":[
-        "Springfield"
+    "name:azb_x_variant":[
+        "\u0627\u0633\u067e\u0631\u06cc\u0646\u0642\u0641\u06cc\u0644\u062f"
     ],
     "name:bel_x_preferred":[
         "\u0421\u043f\u0440\u044b\u043d\u0433\u0444\u0456\u043b\u0434"
@@ -48,19 +50,16 @@
     "name:cat_x_preferred":[
         "Springfield"
     ],
-    "name:ces_x_preferred":[
+    "name:ceb_x_preferred":[
         "Springfield"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u666e\u6797\u83f2\u5c14\u5fb7"
+    "name:ces_x_preferred":[
+        "Springfield"
     ],
     "name:cor_x_preferred":[
         "Springfield"
     ],
     "name:cym_x_preferred":[
-        "Springfield"
-    ],
-    "name:cze_x_preferred":[
         "Springfield"
     ],
     "name:dan_x_preferred":[
@@ -69,8 +68,8 @@
     "name:deu_x_preferred":[
         "Springfield"
     ],
-    "name:dut_x_preferred":[
-        "Springfield"
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03c1\u03af\u03bd\u03b3\u03ba\u03c6\u03b9\u03bb\u03bd\u03c4"
     ],
     "name:eng_x_colloquial":[
         "City of Homes",
@@ -93,16 +92,13 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0641\u06cc\u0644\u062f\u060c \u0645\u0627\u0633\u0627\u0686\u0648\u0633\u062a"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0641\u06cc\u0644\u062f"
+    ],
     "name:fin_x_preferred":[
         "Springfield"
     ],
     "name:fra_x_preferred":[
-        "Springfield"
-    ],
-    "name:fre_x_preferred":[
-        "Springfield"
-    ],
-    "name:ger_x_preferred":[
         "Springfield"
     ],
     "name:gla_x_preferred":[
@@ -110,9 +106,6 @@
     ],
     "name:gle_x_preferred":[
         "Springfield"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c0\u03c1\u03af\u03bd\u03b3\u03ba\u03c6\u03b9\u03bb\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aaa\u0acd\u0ab0\u0abf\u0a82\u0a97\u0aab\u0ac0\u0ab2\u0acd\u0aa1"
@@ -132,6 +125,9 @@
     "name:hun_x_preferred":[
         "Springfield"
     ],
+    "name:ido_x_preferred":[
+        "Springfield"
+    ],
     "name:ind_x_preferred":[
         "Springfield"
     ],
@@ -143,6 +139,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caa\u0ccd\u0cb0\u0cbf\u0c82\u0c97\u0ccd\u0cab\u0cc0\u0cb2\u0ccd\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10de\u10e0\u10d8\u10dc\u10d2\u10e4\u10d8\u10da\u10d3\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043d\u0433\u0444\u0438\u043b\u0434"
@@ -168,11 +167,11 @@
     "name:lrc_x_preferred":[
         "\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0641\u06cc\u0644\u062f\u060c \u0645\u0627\u0633\u0627\u0686\u0648\u0633\u062a"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0641\u06cc\u0644\u062f"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092a\u094d\u0930\u093f\u0902\u0917\u092b\u0940\u0932\u094d\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Springfield"
     ],
     "name:mlg_x_preferred":[
         "Springfield"
@@ -201,9 +200,6 @@
     "name:oci_x_preferred":[
         "Springfield"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0641\u06cc\u0644\u062f\u060c \u0645\u0627\u0633\u0627\u0686\u0648\u0633\u062a"
-    ],
     "name:pms_x_preferred":[
         "Springfield"
     ],
@@ -216,9 +212,6 @@
     "name:ron_x_preferred":[
         "Springfield"
     ],
-    "name:rum_x_preferred":[
-        "Springfield"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043d\u0433\u0444\u0438\u043b\u0434"
     ],
@@ -229,9 +222,6 @@
         "\u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc6\u0dd3\u0dbd\u0dca\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Springfield"
-    ],
-    "name:slo_x_preferred":[
         "Springfield"
     ],
     "name:slv_x_preferred":[
@@ -258,6 +248,9 @@
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0baa\u0bcd\u0bb0\u0bbf\u0b99\u0bcd\u0baa\u0bc0\u0bb2\u0bcd\u0b9f\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u043f\u0440\u0438\u04a3\u0444\u0438\u043b\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c4d\u0c30\u0c3f\u0c02\u0c17\u0c4d\u0c2b\u0c40\u0c32\u0c4d\u0c21\u0c4d"
     ],
@@ -273,11 +266,14 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043d\u0433\u0444\u0456\u043b\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agawome"
     ],
     "name:urd_x_preferred":[
         "\u0633\u067e\u0631\u0646\u06af\u0641\u06cc\u0644\u0688\u060c \u0645\u06cc\u0633\u0627\u0686\u0648\u0633\u0679\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u067e\u0631\u0646\u06af\u0641\u06cc\u0644\u0688"
     ],
     "name:vie_x_preferred":[
         "Springfield"
@@ -288,9 +284,6 @@
     "name:war_x_preferred":[
         "Springfield"
     ],
-    "name:wel_x_preferred":[
-        "Springfield"
-    ],
     "name:yue_x_preferred":[
         "\u6625\u7530"
     ],
@@ -299,6 +292,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u666e\u6797\u83f2\u5c14\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u6625\u7530"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"United States of America",
@@ -406,12 +402,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":21.0,
     "wd:latitude":42.112411,
@@ -435,12 +430,14 @@
         "gp:id":2498304,
         "loc:id":"n79065976",
         "nyt:id":"N84041842965785756821",
-        "qs:id":155991,
         "qs_pg:id":155991,
         "wd:id":"Q49158",
         "wk:page":"Springfield, Massachusetts"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73b8bae68de4bd45de959b7225dfa253",
     "wof:hierarchy":[
         {
@@ -456,7 +453,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163481,
+    "wof:lastmodified":1582335533,
     "wof:megacity":0,
     "wof:name":"Springfield",
     "wof:parent_id":404476369,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154237,
-    "geom:area_square_m":1249133597.402472,
+    "geom:area_square_m":1249133597.40247,
     "geom:bbox":"1.608798,48.90868,2.59447,49.241062",
     "geom:latitude":49.082711,
     "geom:longitude":2.130958,
@@ -16,6 +16,18 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VO"
+    ],
+    "label:fra_x_preferred_longname":[
+        "D\u00e9partement de Val-d'Oise"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "d\u00e9partement"
+    ],
+    "label:fra_x_variant_longname":[
+        "d\u00e9partement de Val-d'Oise"
+    ],
     "lbl:latitude":49.102394,
     "lbl:longitude":2.056498,
     "mps:latitude":49.102394,
@@ -24,17 +36,27 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:afr_x_preferred":[
+        "Val-d'Oise"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644 \u062f\u0648\u0627\u0632"
     ],
     "name:arg_x_preferred":[
         "Val de l'Oise"
     ],
+    "name:aze_x_preferred":[
+        "Val-d\u2019Uaz"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u044c-\u0434'\u0423\u0430\u0437"
     ],
     "name:bel_x_variant":[
-        "\u0412\u0430\u043b\u044c-\u0434\u2019\u040e\u0430\u0437"
+        "\u0412\u0430\u043b\u044c-\u0434\u2019\u040e\u0430\u0437",
+        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0412\u0430\u043b\u044c-\u0434\u2019\u0423\u0430\u0437"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b2-\u09a1\u09bf'\u0985\u0987\u09b8"
     ],
     "name:bre_x_preferred":[
         "Val-d'Oise"
@@ -66,17 +88,24 @@
     "name:deu_x_variant":[
         "Val d'Oise"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb-\u03bd\u03c4'\u039f\u03c5\u03ac\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Val-d'Oise"
     ],
     "name:eng_x_variant":[
-        "Val d'Oise"
+        "Val d'Oise",
+        "Val-d\u2019Oise"
     ],
     "name:epo_x_preferred":[
         "Val-d'Oise"
     ],
     "name:est_x_preferred":[
         "Val-d'Oise'i departemang"
+    ],
+    "name:est_x_variant":[
+        "Val-d'Oise"
     ],
     "name:eus_x_preferred":[
         "Val-d'Oise"
@@ -87,11 +116,15 @@
     "name:fin_x_preferred":[
         "Val-d\u2019Oise"
     ],
+    "name:fin_x_variant":[
+        "Val-d'Oise"
+    ],
     "name:fra_x_preferred":[
         "Val-d'Oise"
     ],
     "name:fra_x_variant":[
-        "D\u00e9partement du Val-d'Oise"
+        "D\u00e9partement du Val-d'Oise",
+        "Val-d\u2019Oise"
     ],
     "name:frp_x_preferred":[
         "V\u00e2l-d\u2019Ou\u00e8se"
@@ -102,17 +135,29 @@
     "name:glg_x_preferred":[
         "Val do Oise"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0ab2-\u0aa1\u0ac0'\u0a93\u0a87\u0ab8"
+    ],
     "name:hak_x_preferred":[
         "Val-d'Oise"
     ],
     "name:hbs_x_preferred":[
         "Val-d'Oise"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05de\u05e7 \u05d4\u05d0\u05d5\u05d0\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0932-\u0921\u0940'\u0913\u0907\u0938"
+    ],
     "name:hun_x_preferred":[
         "Val-d\u2019Oise"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u056c \u0564\u0568 \u0548\u0582\u0561\u0566"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u056c-\u0564\u0568-\u0548\u0582\u0561\u0566"
     ],
     "name:ina_x_preferred":[
         "Departimento Val-d'Oise"
@@ -126,8 +171,14 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30eb\uff1d\u30c9\u30ef\u30fc\u30ba\u770c"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0ccd\u0caf\u0cbe\u0cb2\u0ccd-\u0ca1\u0cc8\u0cb8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10da-\u10d3\u2019\u10e3\u10d0\u10d6\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10da-\u10d3'\u10e3\u10d0\u10d6\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0430\u043b\u044c-\u0434\u2019\u0423\u0430\u0437"
@@ -137,6 +188,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ub450\uc544\uc988 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc1c\ub450\uc544\uc988\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Val d'Oise"
@@ -168,6 +222,9 @@
     "name:msa_x_preferred":[
         "Val-d'Oise"
     ],
+    "name:nan_x_preferred":[
+        "Val-d'Oise"
+    ],
     "name:nds_x_preferred":[
         "Val-d'Oise"
     ],
@@ -175,6 +232,9 @@
         "Val-d'Oise"
     ],
     "name:nno_x_preferred":[
+        "Val-d'Oise"
+    ],
+    "name:nob_x_preferred":[
         "Val-d'Oise"
     ],
     "name:nor_x_preferred":[
@@ -194,6 +254,9 @@
     ],
     "name:pol_x_preferred":[
         "Dolina Oise"
+    ],
+    "name:pol_x_variant":[
+        "Val-d'Oise"
     ],
     "name:por_x_preferred":[
         "Val-d'Oise"
@@ -222,6 +285,9 @@
     "name:spa_x_variant":[
         "Valle de Oise"
     ],
+    "name:sqi_x_preferred":[
+        "Val-d'Oise"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u0430 \u041e\u0430\u0437\u0435"
     ],
@@ -230,6 +296,12 @@
     ],
     "name:swe_x_preferred":[
         "Val-d'Oise"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0bb2\u0bcd -\u0b9f\u0bbf'\u0b92\u0baf\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c32\u0c4d-\u0c26\u0c3f\u0c13\u0c2f\u0c3f\u0c38\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0438 \u0412\u0430\u043b \u0434'\u0423\u0430\u0437"
@@ -257,6 +329,9 @@
     ],
     "name:war_x_preferred":[
         "Val-d'Oise"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ef\u8332\u6cb3\u8c37"
     ],
     "name:zho_min_nan_x_preferred":[
         "Val-d'Oise"
@@ -335,7 +410,6 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"D\u00e9partement",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -360,6 +434,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":250095,
         "fips:code":"FRA8",
         "gn:id":2971071,
         "gp:id":12597124,
@@ -384,7 +459,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1606163321,
+    "wof:lastmodified":1588976239,
     "wof:name":"Val-d'Oise",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

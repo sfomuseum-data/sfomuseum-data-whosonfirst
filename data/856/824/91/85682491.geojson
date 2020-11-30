@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.485621,
-    "geom:area_square_m":19791067601.945854,
+    "geom:area_square_m":19791067873.128254,
     "geom:bbox":"6.112355,48.966571,8.508357,50.942335",
     "geom:latitude":49.913687,
     "geom:longitude":7.44912,
@@ -540,7 +540,6 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Bundesland",
-    "sfomuseum:placetype":"region",
     "src:geom":"de-bkg",
     "src:geom_alt":[
         "quattroshapes"
@@ -567,6 +566,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":276003,
+        "digitalenvoy:region_code":10591,
         "fips:code":"GM08",
         "gn:id":2847618,
         "gp:id":2345488,
@@ -576,6 +577,9 @@
         "wd:id":"Q1200"
     },
     "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"103ce6a99e676e1bb3bf04fdb47ed8d5",
     "wof:hierarchy":[
         {
@@ -591,7 +595,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1606163367,
+    "wof:lastmodified":1583790912,
     "wof:name":"Rhineland-Palatinate",
     "wof:parent_id":85633111,
     "wof:placetype":"region",

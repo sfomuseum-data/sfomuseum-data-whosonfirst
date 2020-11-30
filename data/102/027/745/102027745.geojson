@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154979,
-    "geom:area_square_m":1468410171.367735,
+    "geom:area_square_m":1468410171.367541,
     "geom:bbox":"115.613909,39.592447,117.450111,40.342992",
     "geom:latitude":39.981072,
     "geom:longitude":116.403659,
@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":39.937967,
     "lbl:longitude":116.417592,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":39.937967,
     "mps:longitude":116.417592,
     "mz:hierarchy_label":1,
@@ -26,9 +28,6 @@
     ],
     "name:afr_x_preferred":[
         "Beijing"
-    ],
-    "name:alb_x_preferred":[
-        "Pekini"
     ],
     "name:als_x_preferred":[
         "Peking"
@@ -47,9 +46,6 @@
     ],
     "name:arg_x_preferred":[
         "Pequ\u00edn"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u056f\u056b\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0643\u064a\u0646"
@@ -81,14 +77,14 @@
     "name:bam_x_preferred":[
         "Beijing"
     ],
-    "name:baq_x_preferred":[
-        "Pekin"
-    ],
     "name:bar_x_preferred":[
         "Peking"
     ],
     "name:bcl_x_preferred":[
         "Pekin"
+    ],
+    "name:bcl_x_variant":[
+        "Beijing"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u043a\u0456\u043d"
@@ -124,11 +120,11 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u1031\u1000\u103b\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u044d\u044d\u0436\u044d\u043d"
+    ],
+    "name:bxr_x_variant":[
+        "\u0411\u044d\u044d\u0436\u0438\u043d"
     ],
     "name:cat_x_preferred":[
         "Pequ\u00edn"
@@ -142,14 +138,17 @@
     "name:ceb_x_preferred":[
         "Pekin"
     ],
+    "name:ceb_x_variant":[
+        "Beijing"
+    ],
     "name:ces_x_preferred":[
         "Peking"
     ],
+    "name:cha_x_preferred":[
+        "Beijing"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u5317\u4eac\u5e02"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
@@ -163,17 +162,20 @@
     "name:cor_x_preferred":[
         "Beijing"
     ],
+    "name:cos_x_preferred":[
+        "Pechinu"
+    ],
     "name:crh_x_preferred":[
         "Pekin"
     ],
     "name:cym_x_preferred":[
         "Beijing"
     ],
-    "name:cze_x_preferred":[
-        "Peking"
-    ],
     "name:dan_x_preferred":[
         "Beijing"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Peking"
     ],
     "name:deu_x_preferred":[
         "Peking"
@@ -190,11 +192,14 @@
     "name:dty_x_preferred":[
         "\u092c\u0947\u0907\u091c\u093f\u0919"
     ],
-    "name:dut_x_preferred":[
-        "Peking"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03ba\u03af\u03bd\u03bf"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Beijing"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Beijing"
     ],
     "name:eng_x_colloquial":[
         "The Forgotten City"
@@ -212,6 +217,9 @@
         "Pekin"
     ],
     "name:eus_x_variant":[
+        "Beijing"
+    ],
+    "name:ewe_x_preferred":[
         "Beijing"
     ],
     "name:ext_x_preferred":[
@@ -232,9 +240,6 @@
     "name:fra_x_preferred":[
         "P\u00e9kin"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e9kin"
-    ],
     "name:frp_x_preferred":[
         "P\u00e8quin"
     ],
@@ -247,11 +252,8 @@
     "name:gan_x_preferred":[
         "\u5317\u4eac"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10d9\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Peking"
+    "name:gcr_x_preferred":[
+        "P\u00e9ken"
     ],
     "name:gla_x_preferred":[
         "Beijing"
@@ -264,9 +266,6 @@
     ],
     "name:glv_x_preferred":[
         "Beijing"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03ba\u03af\u03bd\u03bf"
     ],
     "name:grn_x_preferred":[
         "Pek\u0129"
@@ -313,9 +312,6 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u056f\u056b\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Beijing"
-    ],
     "name:ido_x_preferred":[
         "Beijing"
     ],
@@ -330,6 +326,9 @@
     ],
     "name:ind_x_preferred":[
         "Beijing"
+    ],
+    "name:inh_x_preferred":[
+        "\u041f\u0435\u043a\u0438\u043d"
     ],
     "name:isl_x_preferred":[
         "Beijing"
@@ -393,7 +392,8 @@
     ],
     "name:kor_x_variant":[
         "\ubca0\uc774\uc9d5",
-        "\ubd81\uacbd"
+        "\ubd81\uacbd",
+        "\ubca0\uc774\uc9d5\uc2dc"
     ],
     "name:kur_x_preferred":[
         "Beijing"
@@ -437,14 +437,14 @@
     "name:lrc_x_preferred":[
         "\u067e\u0626\u06a9\u0623\u0646"
     ],
+    "name:lrc_x_variant":[
+        "\u067e\u06a9\u0646"
+    ],
     "name:ltz_x_preferred":[
         "Peking"
     ],
     "name:lzh_x_preferred":[
         "\u5317\u4eac\u5e02"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u0435\u043a\u0438\u043d\u0433"
     ],
     "name:mai_x_preferred":[
         "\u092c\u0947\u0907\u091c\u093f\u0919"
@@ -452,17 +452,11 @@
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d2f\u0d4d\u200c\u0d1c\u0d3f\u0d19\u0d4d\u0d19\u0d4d\u200c"
     ],
-    "name:mao_x_preferred":[
-        "Beijing"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0915\u093f\u0902\u0917"
     ],
     "name:mar_x_variant":[
         "\u092c\u0940\u091c\u093f\u0902\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Beijing"
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
@@ -481,6 +475,9 @@
     ],
     "name:mri_x_preferred":[
         "Beijing"
+    ],
+    "name:mri_x_variant":[
+        "Peihinga"
     ],
     "name:msa_x_preferred":[
         "Beijing"
@@ -505,6 +502,9 @@
     ],
     "name:nau_x_preferred":[
         "Beijing"
+    ],
+    "name:nds_x_preferred":[
+        "Peking"
     ],
     "name:nep_x_preferred":[
         "\u092c\u0947\u0907\u091c\u093f\u0919"
@@ -536,8 +536,14 @@
     "name:oci_x_preferred":[
         "Pequin"
     ],
+    "name:olo_x_preferred":[
+        "Pekin"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b47\u0b1c\u0b3f\u0b02"
+    ],
+    "name:orm_x_preferred":[
+        "Beejiingi"
     ],
     "name:oss_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
@@ -557,9 +563,6 @@
     "name:pdc_x_preferred":[
         "Beijing"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06a9\u0646"
-    ],
     "name:pih_x_preferred":[
         "Beijing"
     ],
@@ -571,6 +574,9 @@
     ],
     "name:pol_x_preferred":[
         "Pekin"
+    ],
+    "name:por_br_x_preferred":[
+        "Pequim"
     ],
     "name:por_x_preferred":[
         "Pequim"
@@ -585,14 +591,14 @@
     "name:que_x_preferred":[
         "Pikkin"
     ],
+    "name:rmy_x_preferred":[
+        "Pekenk"
+    ],
     "name:ron_x_preferred":[
         "Beijing"
     ],
     "name:rue_x_preferred":[
         "\u041f\u0435\u043a\u0456\u043d\u0491"
-    ],
-    "name:rum_x_preferred":[
-        "Beijing"
     ],
     "name:rup_x_preferred":[
         "Beijing"
@@ -605,6 +611,9 @@
     ],
     "name:san_x_preferred":[
         "\u092c\u0940\u091c\u093f\u0919\u094d\u0917\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c6e\u1c61\u1c64\u1c5d"
     ],
     "name:scn_x_preferred":[
         "Pechinu"
@@ -619,9 +628,6 @@
         "\u0db6\u0dd9\u0dba\u0dd2\u0da2\u0dd2\u0d82"
     ],
     "name:slk_x_preferred":[
-        "Peking"
-    ],
-    "name:slo_x_preferred":[
         "Peking"
     ],
     "name:slv_x_preferred":[
@@ -647,6 +653,9 @@
     ],
     "name:srn_x_preferred":[
         "Beijing"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041f\u0435\u043a\u0438\u043d\u0433"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d\u0433"
@@ -687,9 +696,6 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e31\u0e01\u0e01\u0e34\u0e48\u0e07"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f7a\u0f0b\u0f45\u0f72\u0f44\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
-    ],
     "name:ton_x_preferred":[
         "Beijing"
     ],
@@ -699,8 +705,14 @@
     "name:tsn_x_preferred":[
         "Beijing"
     ],
+    "name:tso_x_preferred":[
+        "Beyijingi"
+    ],
     "name:tuk_x_preferred":[
         "Pekin"
+    ],
+    "name:tum_x_preferred":[
+        "Beijing"
     ],
     "name:tur_x_preferred":[
         "Pekin"
@@ -717,7 +729,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043a\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peping"
     ],
     "name:urd_x_preferred":[
@@ -728,6 +740,9 @@
     ],
     "name:vec_x_preferred":[
         "Pechin"
+    ],
+    "name:vec_x_variant":[
+        "Pechino"
     ],
     "name:vep_x_preferred":[
         "Pekin"
@@ -742,9 +757,6 @@
         "Peking"
     ],
     "name:war_x_preferred":[
-        "Beijing"
-    ],
-    "name:wel_x_preferred":[
         "Beijing"
     ],
     "name:wln_x_preferred":[
@@ -777,14 +789,25 @@
     "name:zha_x_preferred":[
         "Baekging"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u4eac\u5e02"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Pak-kia\u207f-chh\u012b"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5317\u4eac\u5e02"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5317\u4eac\u5e02"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5317\u4eac\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u5317\u4eac\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5317\u4eac\u5e02",
         "\u5317\u4eac"
     ],
     "name:zho_yue_x_preferred":[
@@ -899,19 +922,18 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85669727,
         102191569,
         85632695,
+        1108732371,
         136253041,
-        1108732371
+        85669727
     ],
     "wof:breaches":[],
     "wof:capital_of":85632695,
@@ -922,7 +944,6 @@
         "gp:id":2151330,
         "loc:id":"n79076155",
         "nyt:id":"49823253852479839961",
-        "qs:id":274069,
         "qs_pg:id":274069,
         "wd:id":"Q956",
         "wk:page":"Beijing"
@@ -932,6 +953,9 @@
         1108732371
     ],
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98837bea976a4cba373ce057563df5b2",
     "wof:hierarchy":[
         {
@@ -944,7 +968,7 @@
         }
     ],
     "wof:id":102027745,
-    "wof:lastmodified":1606163491,
+    "wof:lastmodified":1587428588,
     "wof:megacity":1,
     "wof:name":"Beijing",
     "wof:parent_id":1108732371,

@@ -8,26 +8,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.550062,
-    "geom:area_square_m":14338266849.043304,
+    "geom:area_square_m":14338266849.044157,
     "geom:bbox":"-73.727775,40.950943,-71.787239,42.050587",
     "geom:latitude":41.575151,
     "geom:longitude":-72.738269,
     "iso:country":"US",
     "iso:subdivision":"US-CT",
-    "label:eng_us_x_preferred_longname":[
-        "Connecticut"
-    ],
     "label:eng_x_preferred_longname":[
-        "Connecticut State"
+        "Connecticut"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CT"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Connecticut"
+        "State of Connecticut",
+        "Connecticut State"
     ],
     "lbl:latitude":41.580163,
     "lbl:longitude":-72.756629,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.580163,
     "mps:longitude":-72.756629,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Connecticut"
-    ],
-    "name:alb_x_preferred":[
         "Connecticut"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Connecticut"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u0565\u056f\u057f\u056b\u056f\u0578\u0582\u057f"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u0646\u064a\u062a\u064a\u0643\u062a"
@@ -75,9 +71,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
-    ],
-    "name:baq_x_preferred":[
-        "Connecticut"
     ],
     "name:bar_x_preferred":[
         "Connecticut"
@@ -113,9 +106,6 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u043d\u0435\u043a\u0442\u0438\u043a\u044a\u0442"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103d\u1014\u103a\u200b\u1014\u1000\u103a\u200b\u1010\u102e\u200b\u1000\u1010\u103a\u200b\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
     ],
@@ -125,14 +115,14 @@
     "name:cdo_x_preferred":[
         "Connecticut"
     ],
+    "name:ceb_x_preferred":[
+        "Connecticut"
+    ],
     "name:ces_x_preferred":[
         "Connecticut"
     ],
     "name:che_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u4e43\u72c4\u514b\u5dde"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
@@ -149,9 +139,6 @@
     "name:cym_x_preferred":[
         "Connecticut"
     ],
-    "name:cze_x_preferred":[
-        "Connecticut"
-    ],
     "name:dan_x_preferred":[
         "Connecticut"
     ],
@@ -161,13 +148,16 @@
     "name:diq_x_preferred":[
         "Connecticut"
     ],
-    "name:dut_x_preferred":[
-        "Connecticut"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bd\u03ad\u03ba\u03c4\u03b9\u03ba\u03b1\u03c4"
     ],
     "name:eml_x_preferred":[
+        "Connecticut"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Connecticut"
+    ],
+    "name:eng_gb_x_preferred":[
         "Connecticut"
     ],
     "name:eng_x_colloquial":[
@@ -198,13 +188,13 @@
     "name:fas_x_preferred":[
         "\u06a9\u0646\u062a\u06cc\u06a9\u062a"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0646\u062a\u06cc\u06a9\u062a"
+    ],
     "name:fin_x_preferred":[
         "Connecticut"
     ],
     "name:fra_x_preferred":[
-        "Connecticut"
-    ],
-    "name:fre_x_preferred":[
         "Connecticut"
     ],
     "name:frp_x_preferred":[
@@ -219,12 +209,6 @@
     "name:gag_x_preferred":[
         "Connecticut"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d4\u10e5\u10e2\u10d8\u10d9\u10e3\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Connecticut"
-    ],
     "name:gla_x_preferred":[
         "Connecticut"
     ],
@@ -237,8 +221,8 @@
     "name:glv_x_preferred":[
         "Connecticut"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bd\u03ad\u03ba\u03c4\u03b9\u03ba\u03b1\u03c4"
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf3f\ud800\udf3d\ud800\udf30\ud800\udf39\ud800\udf44\ud800\udf34\ud800\udf39\ud800\udf3a\ud800\udf30\ud800\udf44"
     ],
     "name:grn_x_preferred":[
         "Connecticut"
@@ -255,6 +239,9 @@
     ],
     "name:hat_x_preferred":[
         "Kon\u00e8ktik\u00f2t"
+    ],
+    "name:hau_x_preferred":[
+        "Connecticut"
     ],
     "name:haw_x_preferred":[
         "Konekikuka"
@@ -285,9 +272,6 @@
     ],
     "name:ibo_x_preferred":[
         "K\u00f3n\u00e9t\u00edk\u00f9t"
-    ],
-    "name:ice_x_preferred":[
-        "Connecticut"
     ],
     "name:ido_x_preferred":[
         "Connecticut"
@@ -331,8 +315,17 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
     ],
+    "name:kbp_x_preferred":[
+        "K\u0254n\u025bt\u0269kuti"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17bb\u1793\u178e\u17c1\u1780\u1791\u17b8\u1781\u17b6\u178f\u17cb"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ub124\ud2f0\ucef7 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ub124\ud2f0\ucef7\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Connecticut"
@@ -345,6 +338,9 @@
     ],
     "name:lav_x_preferred":[
         "Konektikuta"
+    ],
+    "name:lfn_x_preferred":[
+        "Connecticut"
     ],
     "name:lij_x_preferred":[
         "Connecticut"
@@ -361,23 +357,26 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0627\u0646\u062a\u06cc\u06a9\u0626\u062a"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0627\u0646\u062a\u06cc\u06a9\u062a"
+    ],
     "name:ltz_x_preferred":[
         "Connecticut"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043d\u0435\u043a\u0442\u0438\u043a\u0430\u0442"
+    "name:lzh_x_preferred":[
+        "\u5eb7\u4e43\u72c4\u514b\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0928\u0947\u0915\u094d\u091f\u093f\u0915\u091f"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d23\u0d46\u0d15\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d15\u0d4d\u0d15\u0d1f\u0d4d\u0d1f\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Connecticut"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0928\u0947\u0915\u094d\u091f\u093f\u0915\u091f"
     ],
-    "name:may_x_preferred":[
-        "Connecticut"
+    "name:mar_x_variant":[
+        "\u0915\u0928\u0947\u091f\u093f\u0915\u091f"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
@@ -406,6 +405,9 @@
     "name:mya_x_preferred":[
         "\u1000\u103d\u1014\u103a\u1014\u1000\u103a\u1010\u102e\u1000\u1010\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
     ],
+    "name:mya_x_variant":[
+        "\u1000\u103d\u1014\u103a\u200b\u1014\u1000\u103a\u200b\u1010\u102e\u200b\u1000\u1010\u103a\u200b\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u06a9\u0646\u062a\u06cc\u06a9\u062a"
     ],
@@ -433,6 +435,9 @@
     "name:new_x_preferred":[
         "\u0915\u0928\u0947\u0915\u094d\u0924\u093f\u0915\u0924"
     ],
+    "name:new_x_variant":[
+        "\u0915\u0928\u0947\u0915\u094d\u091f\u093f\u0915\u091f"
+    ],
     "name:nld_x_preferred":[
         "Connecticut"
     ],
@@ -457,8 +462,8 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a28\u0a48\u0a1f\u0a40\u0a15\u0a1f"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0646\u062a\u06cc\u06a9\u062a"
+    "name:pdc_x_preferred":[
+        "Connecticut"
     ],
     "name:pli_x_preferred":[
         "\u0915\u0928\u0947\u0915\u094d\u091f\u093f\u0915\u091f"
@@ -470,6 +475,9 @@
         "\u06a9\u0646\u06a9\u0679\u06cc\u06a9\u0679"
     ],
     "name:pol_x_preferred":[
+        "Connecticut"
+    ],
+    "name:por_br_x_preferred":[
         "Connecticut"
     ],
     "name:por_x_preferred":[
@@ -485,9 +493,6 @@
         "Connecticut"
     ],
     "name:ron_x_preferred":[
-        "Connecticut"
-    ],
-    "name:rum_x_preferred":[
         "Connecticut"
     ],
     "name:rus_x_preferred":[
@@ -514,20 +519,23 @@
     "name:slk_x_preferred":[
         "Connecticut"
     ],
-    "name:slo_x_preferred":[
-        "Connecticut"
-    ],
     "name:slv_x_preferred":[
         "Connecticut"
     ],
     "name:sme_x_preferred":[
         "Connecticut"
     ],
+    "name:snd_x_preferred":[
+        "\u06aa\u0648\u0646\u064a\u06aa\u067d\u064a\u06aa\u067d"
+    ],
     "name:spa_x_preferred":[
         "Connecticut"
     ],
     "name:sqi_x_preferred":[
         "Konektikati"
+    ],
+    "name:sqi_x_variant":[
+        "Connecticut"
     ],
     "name:srd_x_preferred":[
         "Connecticut"
@@ -555,6 +563,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c28\u0c46\u0c15\u0c4d\u0c1f\u0c3f\u0c15\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442"
     ],
     "name:tgl_x_preferred":[
         "Connecticut"
@@ -589,14 +600,14 @@
     "name:war_x_preferred":[
         "Connecticut"
     ],
-    "name:wel_x_preferred":[
-        "Connecticut"
-    ],
     "name:wuu_x_preferred":[
         "\u5eb7\u6d85\u72c4\u683c"
     ],
     "name:xal_x_preferred":[
         "\u041a\u0430\u043d\u0435\u0442\u0438\u043a\u0443\u0434"
+    ],
+    "name:xho_x_preferred":[
+        "IKhonethikhati"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10dc\u10d4\u10e5\u10e2\u10d8\u10d9\u10e3\u10e2\u10d8"
@@ -610,8 +621,20 @@
     "name:yue_x_preferred":[
         "\u5eb7\u6e7c\u72c4\u683c\u5dde"
     ],
+    "name:zea_x_preferred":[
+        "Connecticut"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5eb7\u6d85\u72c4\u683c\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5eb7\u6d85\u72c4\u683c\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Connecticut"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eb7\u4e43\u72c4\u514b\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5eb7\u4e43\u72c4\u514b\u5dde"
@@ -688,14 +711,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"12,997",
     "statoids:area_mi":"5,018",
     "statoids:as_of_date":"2010-04-01",
@@ -716,6 +738,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":7,
         "fips:code":"US09",
         "gn:id":4831725,
         "gp:id":2347565,
@@ -725,6 +748,9 @@
         "wd:id":"Q779"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"f7e00c708e86e80c628f83927733dc5b",
     "wof:hierarchy":[
         {
@@ -742,11 +768,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163166,
+    "wof:lastmodified":1587428431,
     "wof:name":"Connecticut",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3574097,
     "wof:population_rank":12,

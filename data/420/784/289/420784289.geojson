@@ -12,6 +12,7 @@
     "iso:country":"DE",
     "lbl:latitude":52.539408,
     "lbl:longitude":13.299906,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.539408,
     "mps:longitude":13.299906,
     "mz:hierarchy_label":1,
@@ -23,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u044d\u043d\u0431\u0443\u0440\u0433-\u041d\u043e\u0440\u0434"
+    ],
     "name:ceb_x_preferred":[
         "Charlottenburg-Nord"
     ],
@@ -32,19 +36,37 @@
     "name:deu_x_variant":[
         "Charlottenburg-Nord"
     ],
+    "name:eng_x_preferred":[
+        "Charlottenburg-Nord"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0648\u0631\u06af-\u0646\u0648\u0631\u062f"
+    ],
     "name:fra_x_preferred":[
         "Berlin-Charlottenburg-Nord"
+    ],
+    "name:fra_x_variant":[
+        "Charlottenburg-Nord"
     ],
     "name:ita_x_preferred":[
         "Charlottenburg-Nord"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ea\u30f3\uff1d\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6\u30f3\u30d6\u30eb\u30af\uff1d\u30ce\u30eb\u30c8"
+    ],
     "name:nld_x_preferred":[
         "Berlin-Charlottenburg-Nord"
+    ],
+    "name:nob_x_preferred":[
+        "Charlottenburg-Nord"
     ],
     "name:nor_x_preferred":[
         "Charlottenburg-Nord"
     ],
     "name:pol_x_preferred":[
+        "Charlottenburg-Nord"
+    ],
+    "name:por_x_preferred":[
         "Charlottenburg-Nord"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +77,9 @@
     ],
     "name:tur_x_preferred":[
         "Charlottenburg-Nord"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u6d1b\u6ed5\u5821\u5317"
     ],
     "reversegeo:latitude":52.539408,
     "reversegeo:longitude":13.299906,
@@ -69,10 +94,10 @@
     "wd:wordcount":457,
     "wof:belongsto":[
         102191581,
+        1377694153,
         85633111,
-        101748799,
+        101909779,
         1108815535,
-        102063945,
         85682499
     ],
     "wof:breaches":[],
@@ -84,20 +109,24 @@
     },
     "wof:country":"DE",
     "wof:created":1458871921,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"7d150e0850b4fdd4fea7412e03ce4543",
     "wof:hierarchy":[
         {
             "borough_id":1108815535,
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063945,
-            "locality_id":101748799,
+            "localadmin_id":1377694153,
+            "locality_id":101909779,
             "neighbourhood_id":420784289,
             "region_id":85682499
         }
     ],
     "wof:id":420784289,
-    "wof:lastmodified":1578514212,
+    "wof:lastmodified":1582342841,
     "wof:name":"Charlottenburg-Nord",
     "wof:parent_id":1108815535,
     "wof:placetype":"neighbourhood",

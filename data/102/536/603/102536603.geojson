@@ -29,10 +29,7 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Quer\u00e9taro"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424900,
@@ -48,8 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12514944,
-        "iata:code":"QRO"
+        "gp:id":12514944
     },
     "wof:country":"",
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
@@ -63,7 +59,7 @@
         }
     ],
     "wof:id":102536603,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1589218932,
     "wof:name":"Queretaro Airport",
     "wof:parent_id":85882477,
     "wof:placetype":"campus",

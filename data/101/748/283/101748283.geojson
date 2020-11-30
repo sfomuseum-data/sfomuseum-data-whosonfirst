@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064219,
-    "geom:area_square_m":604135374.016899,
+    "geom:area_square_m":604135374.016886,
     "geom:bbox":"-3.888962,40.312064,-3.518051,40.643271",
     "geom:latitude":40.465427,
     "geom:longitude":-3.696462,
@@ -13,18 +13,30 @@
     "iso:country":"ES",
     "lbl:latitude":40.429913,
     "lbl:longitude":-3.669245,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":40.435,
     "mps:longitude":-3.678212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u041ca\u0434\u0440\u0438\u0434"
+    ],
+    "name:ace_x_preferred":[
+        "Madrid"
+    ],
+    "name:ady_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
     "name:afr_x_preferred":[
         "Madrid"
     ],
     "name:amh_x_preferred":[
         "\u121b\u12f5\u122a\u12f5"
+    ],
+    "name:ang_x_preferred":[
+        "Madrid"
     ],
     "name:ara_x_preferred":[
         "\u0645\u062f\u0631\u064a\u062f"
@@ -41,14 +53,41 @@
     "name:ast_x_preferred":[
         "Madrid"
     ],
+    "name:ava_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:aym_x_preferred":[
+        "Madrid"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u062f\u0631\u06cc\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Madrid"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:bam_x_preferred":[
+        "Madrid"
+    ],
+    "name:bar_x_preferred":[
+        "Madrid"
+    ],
+    "name:bcl_x_preferred":[
+        "Madrid"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0434\u0440\u044b\u0434"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0434\u0440\u044b\u0434"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a6\u09cd\u09b0\u09bf\u09a6"
+    ],
+    "name:bis_x_preferred":[
+        "Madrid"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f51\u0f0b\u0f62\u0f72\u0f51\u0f0d"
@@ -71,7 +110,13 @@
     "name:cdo_x_preferred":[
         "M\u0101-d\u00e1ik-l\u012b"
     ],
+    "name:ceb_x_preferred":[
+        "Madrid"
+    ],
     "name:ces_x_preferred":[
+        "Madrid"
+    ],
+    "name:cha_x_preferred":[
         "Madrid"
     ],
     "name:che_x_preferred":[
@@ -80,11 +125,20 @@
     "name:chv_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
+    "name:chy_x_preferred":[
+        "Madrid"
+    ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u062f\u0631\u06cc\u062f"
     ],
+    "name:cor_x_preferred":[
+        "Madrid"
+    ],
     "name:cos_x_preferred":[
         "Madridi"
+    ],
+    "name:crh_x_preferred":[
+        "Madrid"
     ],
     "name:csb_x_preferred":[
         "Madrit"
@@ -98,8 +152,23 @@
     "name:deu_x_preferred":[
         "Madrid"
     ],
+    "name:diq_x_preferred":[
+        "Madrid"
+    ],
+    "name:dsb_x_preferred":[
+        "Madrid"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7"
+    ],
+    "name:eml_x_preferred":[
+        "Madrid"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Madrid"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Madrid"
     ],
     "name:eng_x_preferred":[
         "Madrid"
@@ -116,11 +185,20 @@
     "name:eus_x_preferred":[
         "Madril"
     ],
+    "name:ewe_x_preferred":[
+        "Madrid"
+    ],
     "name:ext_x_preferred":[
         "Mairil"
     ],
+    "name:fao_x_preferred":[
+        "Madrid"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u062f\u0631\u06cc\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Madrid"
     ],
     "name:fin_x_variant":[
         "Madridiin",
@@ -134,6 +212,18 @@
     "name:frp_x_preferred":[
         "Madrid"
     ],
+    "name:frr_x_preferred":[
+        "Madrid"
+    ],
+    "name:fry_x_preferred":[
+        "Madrid"
+    ],
+    "name:fur_x_preferred":[
+        "Madrid"
+    ],
+    "name:gag_x_preferred":[
+        "Madrid"
+    ],
     "name:gla_x_preferred":[
         "Madrid"
     ],
@@ -143,8 +233,35 @@
     "name:glg_x_preferred":[
         "Madrid"
     ],
+    "name:glk_x_preferred":[
+        "\u0645\u0627\u062f\u0631\u064a\u062f"
+    ],
+    "name:glv_x_preferred":[
+        "Madrid"
+    ],
+    "name:gom_x_preferred":[
+        "\u092e\u093e\u0926\u094d\u0930\u093f\u0926"
+    ],
+    "name:grn_x_preferred":[
+        "Madrid"
+    ],
+    "name:gsw_x_preferred":[
+        "Madrid"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0aa1\u0acd\u0ab0\u0abf\u0aa1"
+    ],
     "name:hak_x_preferred":[
         "M\u00e2-tet-l\u00ee"
+    ],
+    "name:hak_x_variant":[
+        "Madrid"
+    ],
+    "name:hat_x_preferred":[
+        "Madrid"
+    ],
+    "name:hau_x_preferred":[
+        "Madrid"
     ],
     "name:haw_x_preferred":[
         "Makelika"
@@ -152,10 +269,16 @@
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05e8\u05d9\u05d3"
     ],
+    "name:hif_x_preferred":[
+        "Madrid"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0926\u094d\u0930\u093f\u0926"
     ],
     "name:hrv_x_preferred":[
+        "Madrid"
+    ],
+    "name:hsb_x_preferred":[
         "Madrid"
     ],
     "name:hun_x_preferred":[
@@ -164,7 +287,16 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u0564\u0580\u056b\u0564"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u057f\u0580\u056b\u057f"
+    ],
     "name:ido_x_preferred":[
+        "Madrid"
+    ],
+    "name:ile_x_preferred":[
+        "Madrid"
+    ],
+    "name:ilo_x_preferred":[
         "Madrid"
     ],
     "name:ina_x_preferred":[
@@ -172,6 +304,9 @@
     ],
     "name:ind_x_preferred":[
         "Madrid"
+    ],
+    "name:inh_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
     "name:isl_x_preferred":[
         "Madrid"
@@ -182,12 +317,27 @@
     "name:ita_x_preferred":[
         "Madrid"
     ],
+    "name:jam_x_preferred":[
+        "Madrid"
+    ],
+    "name:jav_x_preferred":[
+        "Madrid"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30c9\u30ea\u30fc\u30c9"
     ],
     "name:jpn_x_variant":[
         "\u30de\u30c9\u30ea\u30c3\u30c9",
         "\u30de\u30c9\u30ea\u30fc\u30c9\u5e02"
+    ],
+    "name:kaa_x_preferred":[
+        "Madrid"
+    ],
+    "name:kab_x_preferred":[
+        "Madrid"
+    ],
+    "name:kal_x_preferred":[
+        "Madrid"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ca1\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd"
@@ -200,6 +350,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:kbp_x_preferred":[
+        "Maadiriidi"
+    ],
+    "name:kin_x_preferred":[
+        "Madrid"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
@@ -228,14 +384,32 @@
     "name:lez_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
+    "name:lfn_x_preferred":[
+        "Madrid"
+    ],
+    "name:lij_x_preferred":[
+        "Madrid"
+    ],
     "name:lim_x_preferred":[
+        "Madrid"
+    ],
+    "name:lin_x_preferred":[
         "Madrid"
     ],
     "name:lit_x_preferred":[
         "Madridas"
     ],
+    "name:lmo_x_preferred":[
+        "Madrid"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0645\u0627\u062f\u0631\u06cc\u062f"
+    ],
     "name:ltz_x_preferred":[
         "Madrid"
+    ],
+    "name:lzh_x_preferred":[
+        "\u99ac\u5fb7\u91cc"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d3e\u0d21\u0d4d\u0d30\u0d3f\u0d21\u0d4d"
@@ -249,11 +423,26 @@
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
+    "name:mlg_x_preferred":[
+        "Madrid"
+    ],
+    "name:mlt_x_preferred":[
+        "Madrid"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
+    "name:mri_x_preferred":[
+        "Madrid"
+    ],
     "name:mrj_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Madrid"
+    ],
+    "name:mwl_x_preferred":[
+        "Madrid"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1012\u101b\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
@@ -263,6 +452,15 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062f\u0631\u06cc\u062f"
+    ],
+    "name:nah_x_preferred":[
+        "Madrid"
+    ],
+    "name:nan_x_preferred":[
+        "Madrid"
+    ],
+    "name:nau_x_preferred":[
+        "Madrid"
     ],
     "name:nds_x_preferred":[
         "Madrid"
@@ -279,11 +477,29 @@
     "name:nno_x_preferred":[
         "Madrid"
     ],
+    "name:nob_x_preferred":[
+        "Madrid"
+    ],
     "name:nor_x_preferred":[
+        "Madrid"
+    ],
+    "name:nov_x_preferred":[
+        "Madrid"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ec\u07d8\u07d9\u07cc\u07d8"
+    ],
+    "name:nrm_x_preferred":[
+        "Madri"
+    ],
+    "name:nya_x_preferred":[
         "Madrid"
     ],
     "name:oci_x_preferred":[
         "Madrid"
+    ],
+    "name:olo_x_preferred":[
+        "Madridu"
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b21\u0b4d\u0b30\u0b3f\u0b26"
@@ -291,14 +507,41 @@
     "name:oss_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
+    "name:pam_x_preferred":[
+        "Madrid"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a26\u0a30\u0a40\u0a26"
+    ],
+    "name:pan_x_variant":[
+        "\u0a2e\u0a3e\u0a26\u0a30\u0a3f\u0a26"
+    ],
+    "name:pap_x_preferred":[
+        "Madrid"
+    ],
+    "name:pcd_x_preferred":[
+        "Madrid"
+    ],
+    "name:pdc_x_preferred":[
+        "Madrid"
+    ],
+    "name:pih_x_preferred":[
+        "Madrid"
+    ],
+    "name:pms_x_preferred":[
+        "Madrid"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u062f\u0631\u06cc\u062f"
     ],
+    "name:pnb_x_variant":[
+        "\u0645\u06cc\u0688\u0631\u0688"
+    ],
     "name:pol_x_preferred":[
         "Madryt"
+    ],
+    "name:por_br_x_preferred":[
+        "Madri"
     ],
     "name:por_x_preferred":[
         "Madri"
@@ -306,7 +549,16 @@
     "name:por_x_variant":[
         "Madrid"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u062f\u0631\u064a\u062f"
+    ],
     "name:que_x_preferred":[
+        "Madrid"
+    ],
+    "name:rmy_x_preferred":[
+        "Madrid"
+    ],
+    "name:roh_x_preferred":[
         "Madrid"
     ],
     "name:ron_x_preferred":[
@@ -314,6 +566,12 @@
     ],
     "name:rue_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0456\u0434"
+    ],
+    "name:run_x_preferred":[
+        "Madrid"
+    ],
+    "name:rup_x_preferred":[
+        "Madrid"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
@@ -324,16 +582,43 @@
     "name:san_x_preferred":[
         "\u092e\u0926\u094d\u0930\u093f\u0926\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c70\u1c68\u1c64\u1c70"
+    ],
+    "name:sat_x_variant":[
+        "\u1c62\u1c5f\u1c6b\u1c68\u1c64\u1c6b"
+    ],
     "name:scn_x_preferred":[
+        "Madrid"
+    ],
+    "name:sco_x_preferred":[
         "Madrid"
     ],
     "name:sgs_x_preferred":[
         "Madrids"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd0\u0da9\u0dca\u200d\u0dbb\u0dd2\u0da9\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Madrid"
     ],
     "name:slv_x_preferred":[
+        "Madrid"
+    ],
+    "name:sme_x_preferred":[
+        "Madrid"
+    ],
+    "name:smo_x_preferred":[
+        "Madrid"
+    ],
+    "name:sna_x_preferred":[
+        "Madrid"
+    ],
+    "name:som_x_preferred":[
+        "Madrid"
+    ],
+    "name:sot_x_preferred":[
         "Madrid"
     ],
     "name:spa_x_colloquial":[
@@ -359,8 +644,20 @@
     "name:srd_x_preferred":[
         "Madrid"
     ],
+    "name:srn_x_preferred":[
+        "Madrid"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:stq_x_preferred":[
+        "Madrid"
+    ],
+    "name:sun_x_preferred":[
+        "Madrid"
+    ],
+    "name:swa_x_preferred":[
+        "Madrid"
     ],
     "name:swe_x_preferred":[
         "Madrid"
@@ -373,6 +670,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bcd\u0bb0\u0bbf\u0ba4\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c26\u0c4d\u0c30\u0c3f\u0c21\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Madr\u00edd"
@@ -389,7 +692,25 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e14\u0e23\u0e34\u0e14"
     ],
+    "name:tir_x_preferred":[
+        "\u121b\u12f5\u122a\u12f5"
+    ],
+    "name:ton_x_preferred":[
+        "Madrid"
+    ],
+    "name:tpi_x_preferred":[
+        "Madrid"
+    ],
+    "name:tsn_x_preferred":[
+        "Madrid"
+    ],
+    "name:tuk_x_preferred":[
+        "Madrid"
+    ],
     "name:tur_x_preferred":[
+        "Madrid"
+    ],
+    "name:twi_x_preferred":[
         "Madrid"
     ],
     "name:udm_x_preferred":[
@@ -398,16 +719,28 @@
     "name:uig_x_preferred":[
         "\u0645\u0627\u062f\u0631\u0649\u062f"
     ],
+    "name:uig_x_variant":[
+        "Madrid"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magerit"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062f\u0631\u062f"
     ],
+    "name:uzb_x_preferred":[
+        "Madrid"
+    ],
     "name:vec_x_preferred":[
+        "Madrid"
+    ],
+    "name:ven_x_preferred":[
+        "Madrid"
+    ],
+    "name:vep_x_preferred":[
         "Madrid"
     ],
     "name:vie_x_preferred":[
@@ -416,13 +749,40 @@
     "name:vol_x_preferred":[
         "Madrid"
     ],
+    "name:vro_x_preferred":[
+        "Madrid"
+    ],
+    "name:war_x_preferred":[
+        "Madrid"
+    ],
+    "name:wol_x_preferred":[
+        "Madrid"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5fb7\u91cc\u5e02"
+    ],
+    "name:xho_x_preferred":[
+        "Madrid"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d3\u10e0\u10d8\u10d3\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05d3\u05e8\u05d9\u05d3"
     ],
+    "name:yor_x_preferred":[
+        "Madrid"
+    ],
     "name:yue_x_preferred":[
+        "\u99ac\u5fb7\u91cc"
+    ],
+    "name:zha_x_preferred":[
+        "Madrid"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u5fb7\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u99ac\u5fb7\u91cc"
     ],
     "name:zho_x_preferred":[
@@ -445,19 +805,18 @@
     "qs:type":"urban core",
     "reversegeo:latitude":40.435,
     "reversegeo:longitude":-3.678212,
-    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633129,
-        85682783,
-        404227387
+        404227387,
+        85682783
     ],
     "wof:breaches":[],
     "wof:capital_of":85633129,
@@ -469,12 +828,15 @@
         "gp:id":766273,
         "loc:id":"n78089046",
         "nyt:id":"51083708004460018461",
-        "qs:id":799363,
         "qs_pg:id":799363,
         "wd:id":"Q2807",
         "wk:page":"Madrid"
     },
     "wof:country":"ES",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1041cd7c7b3bf256c2e5052508e58458",
     "wof:hierarchy":[
         {
@@ -489,7 +851,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1606163467,
+    "wof:lastmodified":1587429001,
     "wof:name":"Madrid",
     "wof:parent_id":85682783,
     "wof:placetype":"locality",

@@ -4,7 +4,6 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"127.240997,26.592501,127.240997,26.592501",
@@ -13,8 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7c9f\u570b\u6a5f\u5834"
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Aguni Island"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Aguni"
     ],
     "name:eng_x_preferred":[
         "Aguni Airport"
@@ -23,8 +26,14 @@
         "AGJ",
         "RORA"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Aguni"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0648\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport d'Aguni"
+    ],
+    "name:frc_x_preferred":[
+        "a\u00e9roport d'Aguni"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Aguni"
@@ -35,17 +44,17 @@
     "name:kor_x_preferred":[
         "\uc544\uad6c\ub2c8 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Aguni"
     ],
     "name:nob_x_preferred":[
         "Aguni lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0648\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Aguni"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Aguni"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0433\u0443\u043d\u0438"
@@ -56,11 +65,11 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Aguni"
     ],
+    "name:zho_x_preferred":[
+        "\u7c9f\u570b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"38",
     "oa:type":"small_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -96,11 +105,11 @@
         }
     ],
     "wof:id":102541457,
-    "wof:lastmodified":1606163487,
-    "wof:name":"Aguni Airport",
+    "wof:lastmodified":1566656991,
+    "wof:name":"\u7c9f\u56fd\u7a7a\u6e2f",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":6397279.447659,
+    "geom:area_square_m":6397279.447663,
     "geom:bbox":"-82.551132,27.960051,-82.512497,27.988735",
     "geom:latitude":27.972154,
     "geom:longitude":-82.531114,
@@ -17,11 +17,9 @@
     "mps:longitude":-82.530928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0627\u0645\u0628\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5766\u5e15\u570b\u969b\u6a5f\u5834"
     ],
     "name:dan_x_preferred":[
         "Tampa International Airport"
@@ -29,7 +27,7 @@
     "name:deu_x_preferred":[
         "Flughafen Tampa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Tampa International Airport"
     ],
     "name:eng_x_preferred":[
@@ -45,20 +43,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport international de Tampa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Tampa"
-    ],
-    "name:ger_x_preferred":[
-        "Tampa International Airport"
     ],
     "name:glg_x_preferred":[
         "Aeroporto Internacional de Tampa"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d8\u05de\u05e4\u05d4"
-    ],
-    "name:ice_x_preferred":[
-        "Tampaflugv\u00f6llur"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Tampa"
@@ -75,20 +67,23 @@
     "name:kor_x_preferred":[
         "\ud0ec\ud30c \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:nld_x_preferred":[
+        "Tampa International Airport"
+    ],
     "name:nob_x_preferred":[
         "Tampa internasjonale lufthavn"
     ],
     "name:nor_x_preferred":[
         "Tampa internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062a\u0645\u067e\u0627"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Tampa"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Tampa"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Tampa"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Tampa"
@@ -99,19 +94,20 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e41\u0e17\u0e21\u0e1b\u0e32"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0645\u067e\u0627 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Tampa"
     ],
+    "name:zho_x_preferred":[
+        "\u5766\u5e15\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"26",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":140,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Tampa International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5987,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -153,7 +149,7 @@
         }
     ],
     "wof:id":102533243,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566608572,
     "wof:name":"Tampa International Airport",
     "wof:parent_id":85873207,
     "wof:placetype":"campus",

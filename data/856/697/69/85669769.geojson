@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.354232,
-    "geom:area_square_m":205562371555.493378,
+    "geom:area_square_m":205562371555.462036,
     "geom:bbox":"105.488779,31.706075,111.235421,39.583141",
     "geom:latitude":35.19212,
     "geom:longitude":108.868859,
     "gn:id":"",
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"SA",
     "label:eng_x_preferred_longname":[
         "Shaanxi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":34.040526,
     "lbl:longitude":108.630496,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u965d\u897f|\u9655\u897f",
     "meso:name_loc":"\u9655\u897f\u7701",
     "mps:latitude":34.057356,
@@ -82,11 +85,20 @@
     "name:dan_x_preferred":[
         "Shaanxi"
     ],
+    "name:deu_ch_x_preferred":[
+        "Shaanxi"
+    ],
     "name:deu_x_preferred":[
         "Shaanxi"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ac\u03bd\u03be\u03b9"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Shaanxi"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Shaanxi"
     ],
     "name:eng_x_preferred":[
         "Shaanxi"
@@ -258,6 +270,9 @@
     "name:pol_x_preferred":[
         "Shaanxi"
     ],
+    "name:por_br_x_preferred":[
+        "Shaanxi"
+    ],
     "name:por_x_preferred":[
         "Shaanxi"
     ],
@@ -300,6 +315,9 @@
     "name:tel_x_preferred":[
         "\u0c37\u0c3e\u0c02\u0c15\u0c4d\u0c38\u0c3f"
     ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u0430\u043d\u0441\u0438"
+    ],
     "name:tgl_x_preferred":[
         "Shaanxi"
     ],
@@ -317,9 +335,6 @@
     ],
     "name:und_x_variant":[
         "\u965d\u897f|\u9655\u897f",
-        "\u9655\u897f\u7701"
-    ],
-    "name:unk_x_variant":[
         "Shaan-hsi Sheng"
     ],
     "name:urd_x_preferred":[
@@ -349,8 +364,23 @@
     "name:zha_x_preferred":[
         "Sanjsih"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9655\u897f\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u965d\u897f\u7701"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Si\u00e1m-sai-s\u00e9ng"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u9655\u897f\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u9655\u897f\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u965d\u897f\u7701"
     ],
     "name:zho_x_colloquial":[
         "\u9655\u897f\u7701"
@@ -436,14 +466,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"204,846",
     "statoids:area_mi":"79,091",
     "statoids:as_of_date":"2010-11-01",
@@ -470,11 +499,14 @@
         "gp:id":12578015,
         "hasc:id":"CN.SA",
         "iso:id":"CN-SN",
-        "qs:id":851891,
+        "qs_pg:id":851891,
         "unlc:id":"CN-61",
         "wd:id":"Q47974"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f6c72f668fc8cda3283d64284f1c713",
     "wof:hierarchy":[
         {
@@ -496,11 +528,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163291,
+    "wof:lastmodified":1587428597,
     "wof:name":"Shaanxi",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":37327378,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

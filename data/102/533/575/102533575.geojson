@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1543308.539865,
+    "geom:area_square_m":1543308.539863,
     "geom:bbox":"-117.60685,34.053833,-117.577484,34.069534",
     "geom:latitude":34.061953,
     "geom:longitude":-117.591642,
@@ -17,20 +17,15 @@
     "mps:longitude":-117.587749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
-        "Leti\u0161t\u011b Ontario"
-    ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5927\u7565\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
         "Leti\u0161t\u011b Ontario"
     ],
     "name:deu_x_preferred":[
         "Flughafen Los Angeles-Ontario"
     ],
-    "name:dut_x_preferred":[
-        "LA/Ontario International Airport"
+    "name:deu_x_variant":[
+        "Ontario International Airport"
     ],
     "name:eng_x_preferred":[
         "Ontario International Airport"
@@ -40,14 +35,14 @@
         "KONT",
         "LA/Ontario International Airport"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Los-An\u011deleso-Ontario"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international d'Ontario"
-    ],
-    "name:ger_x_preferred":[
-        "Ontario International Airport"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Ontario"
@@ -55,17 +50,20 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30f3\u30bf\u30ea\u30aa\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "name:nld_x_preferred":[
+        "LA/Ontario International Airport"
+    ],
     "name:nob_x_preferred":[
         "LA/Ontario internasjonale lufthavn"
     ],
     "name:nor_x_preferred":[
         "LA/Ontario internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Ontario"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional LA/Ontario"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional LA/Ontario"
@@ -76,8 +74,14 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0430\u0439\u043d\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041e\u043d\u0442\u0430\u0440\u0438\u043e"
     ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u043d\u0442\u043e\u0440\u044e"
+    ],
     "name:tur_x_preferred":[
         "LA/Ontario Uluslararas\u0131 Havaalan\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0646\u0679\u0627\u0631\u06cc\u0648 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf LA/Ontario"
@@ -87,14 +91,9 @@
     ],
     "oa:elevation_ft":"944",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":98,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Ontario International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2684,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -135,7 +134,7 @@
         }
     ],
     "wof:id":102533575,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566608576,
     "wof:name":"Ontario International Airport",
     "wof:parent_id":85837891,
     "wof:placetype":"campus",

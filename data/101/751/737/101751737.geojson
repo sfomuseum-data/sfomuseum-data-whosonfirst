@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042792,
-    "geom:area_square_m":315952173.671623,
+    "geom:area_square_m":315952173.671629,
     "geom:bbox":"-6.505767,53.227494,-6.050072,53.441457",
     "geom:latitude":53.336022,
     "geom:longitude":-6.27918,
@@ -13,11 +13,19 @@
     "iso:country":"IE",
     "lbl:latitude":53.33928,
     "lbl:longitude":-6.281314,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":53.33928,
     "mps:longitude":-6.281314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:ace_x_preferred":[
+        "Dublin"
+    ],
+    "name:ady_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
     "name:afr_x_preferred":[
         "Dublin"
     ],
@@ -42,8 +50,32 @@
     "name:ast_x_preferred":[
         "Ciud\u00e1 de Dubl\u00edn"
     ],
+    "name:ava_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:aym_x_preferred":[
+        "Dublin"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0628\u0644\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Dublin"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:bar_x_preferred":[
+        "Dublin"
+    ],
+    "name:bcl_x_preferred":[
+        "Dublin"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0431\u043b\u0456\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u0431\u043b\u0456\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09ac\u09b2\u09bf\u09a8"
@@ -63,8 +95,17 @@
     "name:cat_x_preferred":[
         "Dubl\u00edn"
     ],
+    "name:cdo_x_preferred":[
+        "Dublin"
+    ],
+    "name:ceb_x_preferred":[
+        "Dublin"
+    ],
     "name:ces_x_preferred":[
         "Dublin"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
     "name:chv_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
@@ -75,17 +116,32 @@
     "name:cor_x_preferred":[
         "Dulyn"
     ],
+    "name:cos_x_preferred":[
+        "Dublinu"
+    ],
     "name:cym_x_preferred":[
         "Dulyn"
     ],
     "name:dan_x_preferred":[
         "Dublin"
     ],
+    "name:deu_at_x_preferred":[
+        "Dublin"
+    ],
     "name:deu_x_preferred":[
+        "Dublin"
+    ],
+    "name:diq_x_preferred":[
+        "Dublin"
+    ],
+    "name:dsb_x_preferred":[
         "Dublin"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03c5\u03b2\u03bb\u03af\u03bd\u03bf"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Dublin"
     ],
     "name:eng_x_colloquial":[
         "The Fair City",
@@ -109,8 +165,14 @@
     "name:eus_x_preferred":[
         "Dublin"
     ],
+    "name:ewe_x_preferred":[
+        "Dublin"
+    ],
     "name:ext_x_preferred":[
         "Dubl\u00edn"
+    ],
+    "name:fao_x_preferred":[
+        "Dublin"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0628\u0644\u06cc\u0646"
@@ -122,6 +184,15 @@
         "Dublin"
     ],
     "name:frp_x_preferred":[
+        "Dublin"
+    ],
+    "name:frr_x_preferred":[
+        "Dublin"
+    ],
+    "name:fry_x_preferred":[
+        "Dublin"
+    ],
+    "name:gag_x_preferred":[
         "Dublin"
     ],
     "name:gla_x_preferred":[
@@ -136,6 +207,15 @@
     "name:glv_x_preferred":[
         "Divlyn"
     ],
+    "name:gsw_x_preferred":[
+        "Dublin"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0aac\u0ab2\u0abf\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Dublin"
+    ],
     "name:hat_x_preferred":[
         "Diblin"
     ],
@@ -145,7 +225,16 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d1\u05dc\u05d9\u05df"
     ],
+    "name:hif_x_preferred":[
+        "Dublin"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u092c\u0932\u093f\u0928"
+    ],
     "name:hrv_x_preferred":[
+        "Dublin"
+    ],
+    "name:hsb_x_preferred":[
         "Dublin"
     ],
     "name:hun_x_preferred":[
@@ -155,6 +244,15 @@
         "\u0534\u0578\u0582\u0562\u056c\u056b\u0576"
     ],
     "name:ido_x_preferred":[
+        "Dublin"
+    ],
+    "name:ile_x_preferred":[
+        "Dublin"
+    ],
+    "name:ilo_x_preferred":[
+        "Dublin"
+    ],
+    "name:ina_x_preferred":[
         "Dublin"
     ],
     "name:ind_x_preferred":[
@@ -169,8 +267,14 @@
     "name:ita_x_preferred":[
         "Dublino"
     ],
+    "name:jav_x_preferred":[
+        "Dublin"
+    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30d6\u30ea\u30f3"
+    ],
+    "name:kab_x_preferred":[
+        "Dublin"
     ],
     "name:kan_x_preferred":[
         "\u0ca1\u0cac\u0ccd\u0cb2\u0cbf\u0ca8\u0ccd"
@@ -179,6 +283,12 @@
         "\u10d3\u10e3\u10d1\u10da\u10d8\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Tuubl\u025b\u025b"
+    ],
+    "name:kir_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
     "name:kor_x_preferred":[
@@ -190,6 +300,9 @@
     "name:kur_x_preferred":[
         "Dubl\u00een"
     ],
+    "name:lad_x_preferred":[
+        "Dublin"
+    ],
     "name:lat_x_preferred":[
         "Eblana"
     ],
@@ -199,11 +312,23 @@
     "name:lij_x_preferred":[
         "Dublin"
     ],
+    "name:lim_x_preferred":[
+        "Dublin"
+    ],
+    "name:lin_x_preferred":[
+        "Dublin"
+    ],
     "name:lit_x_preferred":[
         "Dublinas"
     ],
     "name:lmo_x_preferred":[
         "D\u00fcblin"
+    ],
+    "name:lrc_x_preferred":[
+        "\u062f\u0648\u0628\u0644\u06cc\u0646"
+    ],
+    "name:ltz_x_preferred":[
+        "Dublin"
     ],
     "name:mal_x_preferred":[
         "\u0d21\u0d2c\u0d4d\u0d32\u0d3f\u0d7b"
@@ -214,14 +339,38 @@
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0431\u043b\u0438\u043d"
     ],
+    "name:mlt_x_preferred":[
+        "Dublin"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Dublin"
+    ],
+    "name:mri_x_variant":[
+        "Tapurini"
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Dublin"
+    ],
     "name:mya_x_preferred":[
         "\u1012\u1015\u103a\u1017\u101c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d \u043e\u0448"
+    ],
+    "name:nah_x_preferred":[
+        "Dublin"
+    ],
+    "name:nan_x_preferred":[
+        "Dublin"
+    ],
+    "name:nau_x_preferred":[
+        "Dublin"
     ],
     "name:new_x_preferred":[
         "\u0926\u092c\u094d\u0932\u093f\u0928"
@@ -232,7 +381,13 @@
     "name:nno_x_preferred":[
         "Dublin"
     ],
+    "name:nob_x_preferred":[
+        "Dublin"
+    ],
     "name:nor_x_preferred":[
+        "Dublin"
+    ],
+    "name:nov_x_preferred":[
         "Dublin"
     ],
     "name:nrm_x_preferred":[
@@ -241,16 +396,37 @@
     "name:oci_x_preferred":[
         "Dublin"
     ],
+    "name:olo_x_preferred":[
+        "Dublinu"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b21\u0b2c\u0b32\u0b3f\u0b28"
+    ],
+    "name:orm_x_preferred":[
+        "Dubliin"
+    ],
     "name:oss_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
     "name:pan_x_preferred":[
         "\u0a21\u0a2c\u0a32\u0a3f\u0a28"
     ],
+    "name:pap_x_preferred":[
+        "Dublin"
+    ],
+    "name:pih_x_preferred":[
+        "Dublin"
+    ],
+    "name:pms_x_preferred":[
+        "Dublin"
+    ],
     "name:pnb_x_preferred":[
         "\u0688\u0628\u0644\u0646"
     ],
     "name:pol_x_preferred":[
+        "Dublin"
+    ],
+    "name:por_br_x_preferred":[
         "Dublin"
     ],
     "name:por_x_preferred":[
@@ -265,7 +441,13 @@
     "name:que_x_preferred":[
         "Baile \u00c1tha Cliath"
     ],
+    "name:roh_x_preferred":[
+        "Dublin"
+    ],
     "name:ron_x_preferred":[
+        "Dublin"
+    ],
+    "name:rup_x_preferred":[
         "Dublin"
     ],
     "name:rus_x_preferred":[
@@ -280,10 +462,28 @@
     "name:scn_x_variant":[
         "Dublinu"
     ],
+    "name:sco_x_preferred":[
+        "Dublin"
+    ],
+    "name:sgs_x_preferred":[
+        "Dobl\u0117ns"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0db6\u0dca\u0dbd\u0dd2\u0db1\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Dublin"
     ],
     "name:slv_x_preferred":[
+        "Dublin"
+    ],
+    "name:sme_x_preferred":[
+        "Dublin"
+    ],
+    "name:sna_x_preferred":[
+        "Dublin"
+    ],
+    "name:som_x_preferred":[
         "Dublin"
     ],
     "name:spa_x_preferred":[
@@ -298,7 +498,16 @@
     "name:srp_x_preferred":[
         "\u0414\u0430\u0431\u043b\u0438\u043d"
     ],
+    "name:stq_x_preferred":[
+        "Dublin"
+    ],
+    "name:swa_x_preferred":[
+        "Dublin"
+    ],
     "name:swe_x_preferred":[
+        "Dublin"
+    ],
+    "name:szl_x_preferred":[
         "Dublin"
     ],
     "name:tam_x_preferred":[
@@ -307,13 +516,22 @@
     "name:tat_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c2c\u0c4d\u0c32\u0c3f\u0c28\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Dublin"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e31\u0e1a\u0e25\u0e34\u0e19"
     ],
     "name:tpi_x_preferred":[
+        "Dublin"
+    ],
+    "name:tuk_x_preferred":[
         "Dublin"
     ],
     "name:tur_x_preferred":[
@@ -331,14 +549,35 @@
     "name:und_x_colloquial":[
         "Baile Atha Cliath"
     ],
-    "name:und_x_preferred":[
-        "Baile \u00c1tha Cliath"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0628\u0644\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Dublin"
+    ],
+    "name:vec_x_preferred":[
+        "Dublin"
+    ],
+    "name:vep_x_preferred":[
+        "Dublin"
+    ],
+    "name:vie_x_preferred":[
+        "Dublin"
+    ],
     "name:vol_x_preferred":[
         "Baile \u00c1tha Cliath"
+    ],
+    "name:vro_x_preferred":[
+        "Dublin"
+    ],
+    "name:war_x_preferred":[
+        "Dublin"
+    ],
+    "name:wln_x_preferred":[
+        "Dublin"
+    ],
+    "name:wol_x_preferred":[
+        "Dublin"
     ],
     "name:wuu_x_preferred":[
         "\u90fd\u67cf\u6797"
@@ -348,6 +587,18 @@
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05d5\u05d1\u05dc\u05d9\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "Dublin"
+    ],
+    "name:yue_x_preferred":[
+        "\u90fd\u67cf\u6797"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u90fd\u67cf\u6797"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u90fd\u67cf\u6797"
     ],
     "name:zho_x_preferred":[
         "\u90fd\u67cf\u6797"
@@ -456,12 +707,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -477,7 +727,6 @@
         "gn:id":2964574,
         "gp:id":560743,
         "nyt:id":"49033714685838749971",
-        "qs:id":780305,
         "qs_pg:id":780305,
         "wd:id":"Q1761",
         "wk:page":"Dublin"
@@ -486,6 +735,9 @@
         85685015
     ],
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd5384bf1e4c55cccefe2d1042bb4940",
     "wof:hierarchy":[
         {
@@ -499,7 +751,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163461,
+    "wof:lastmodified":1587427739,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":85685015,

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.004756,
-    "geom:area_square_m":212963368550.652496,
+    "geom:area_square_m":212963368550.653564,
     "geom:bbox":"-102.051769,36.993016,-94.588387,40.003166",
     "geom:latitude":38.484725,
     "geom:longitude":-98.380161,
@@ -150,6 +150,9 @@
     "name:dan_x_preferred":[
         "Kansas"
     ],
+    "name:deu_ch_x_preferred":[
+        "Kansas"
+    ],
     "name:deu_x_preferred":[
         "Kansas"
     ],
@@ -161,6 +164,12 @@
     ],
     "name:eml_x_preferred":[
         "K\u00e0nsas"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Kansas"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Kansas"
     ],
     "name:eng_x_colloquial":[
         "Sunflower State"
@@ -216,6 +225,9 @@
     ],
     "name:glv_x_preferred":[
         "Kansas"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf3d\ud800\udf36\ud800\udf30\ud800\udf43"
     ],
     "name:grn_x_preferred":[
         "Kansas"
@@ -463,6 +475,9 @@
     "name:pol_x_preferred":[
         "Kansas"
     ],
+    "name:por_br_x_preferred":[
+        "Kansas"
+    ],
     "name:por_x_preferred":[
         "Kansas"
     ],
@@ -616,6 +631,9 @@
     "name:zho_min_nan_x_preferred":[
         "Kansas"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u582a\u85a9\u65af\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u582a\u85a9\u65af\u5dde"
     ],
@@ -688,10 +706,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -716,6 +733,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":17,
         "fips:code":"US20",
         "gn:id":4273857,
         "gp:id":2347575,
@@ -725,6 +743,9 @@
         "wd:id":"Q1558"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"54da6ae2dba2888a0d01aa549e52cb29",
     "wof:hierarchy":[
         {
@@ -742,7 +763,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163121,
+    "wof:lastmodified":1587428464,
     "wof:name":"Kansas",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

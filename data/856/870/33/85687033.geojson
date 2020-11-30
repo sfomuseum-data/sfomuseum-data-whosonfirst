@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284305,
-    "geom:area_square_m":2202352142.713249,
+    "geom:area_square_m":2202352493.305915,
     "geom:bbox":"5.565522,50.750667,6.226517,51.778476",
     "geom:latitude":51.209191,
     "geom:longitude":5.933954,
@@ -19,8 +19,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LB"
+    ],
     "lbl:latitude":51.234821,
     "lbl:longitude":5.938683,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.234821,
     "mps:longitude":5.938683,
     "mz:hierarchy_label":1,
@@ -33,8 +37,23 @@
     "name:arg_x_preferred":[
         "Limburg"
     ],
+    "name:ast_x_preferred":[
+        "Limburg"
+    ],
+    "name:aze_x_preferred":[
+        "Limburg"
+    ],
+    "name:bar_x_preferred":[
+        "Limburg"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:bos_x_preferred":[
+        "Limburg"
+    ],
+    "name:bre_x_preferred":[
+        "Limburg"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043c\u0431\u0443\u0440\u0433"
@@ -43,6 +62,12 @@
         "Limburg"
     ],
     "name:ceb_x_preferred":[
+        "Limburg"
+    ],
+    "name:ces_x_preferred":[
+        "Limburg"
+    ],
+    "name:cos_x_preferred":[
         "Limburg"
     ],
     "name:cym_x_preferred":[
@@ -59,6 +84,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bc\u03b2\u03bf\u03c5\u03c1\u03b3\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Limburg"
     ],
     "name:eng_x_preferred":[
         "Limburg"
@@ -87,10 +115,46 @@
     "name:fra_x_variant":[
         "Limbourg"
     ],
+    "name:frp_x_preferred":[
+        "Limburg"
+    ],
+    "name:frr_x_preferred":[
+        "Limburg"
+    ],
     "name:fry_x_preferred":[
         "Limburch"
     ],
+    "name:fry_x_variant":[
+        "Limburg"
+    ],
+    "name:fur_x_preferred":[
+        "Limburg"
+    ],
+    "name:gla_x_preferred":[
+        "Limburg"
+    ],
+    "name:gle_x_preferred":[
+        "Limburg"
+    ],
+    "name:glg_x_preferred":[
+        "Limburg"
+    ],
+    "name:glv_x_preferred":[
+        "Limburg"
+    ],
+    "name:gsw_x_preferred":[
+        "Limburg"
+    ],
+    "name:hak_x_preferred":[
+        "Limburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05de\u05d1\u05d5\u05e8\u05d2"
+    ],
     "name:hrv_x_preferred":[
+        "Limburg"
+    ],
+    "name:hsb_x_preferred":[
         "Limburg"
     ],
     "name:hun_x_preferred":[
@@ -99,16 +163,55 @@
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0562\u0578\u0582\u0580\u056d"
     ],
+    "name:ido_x_preferred":[
+        "Limburg"
+    ],
+    "name:ile_x_preferred":[
+        "Limburg"
+    ],
     "name:ina_x_preferred":[
+        "Limburg"
+    ],
+    "name:ind_x_preferred":[
+        "Limburg"
+    ],
+    "name:isl_x_preferred":[
         "Limburg"
     ],
     "name:ita_x_preferred":[
         "Limburgo"
     ],
+    "name:ita_x_variant":[
+        "Limburg"
+    ],
+    "name:jav_x_preferred":[
+        "Limburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30d6\u30eb\u30d5"
+    ],
+    "name:kon_x_preferred":[
+        "Limburg"
+    ],
     "name:kor_x_preferred":[
         "\ub9bc\ubdd4\ub974\ud750 \uc8fc"
     ],
+    "name:ksh_x_preferred":[
+        "Limburg"
+    ],
+    "name:lat_x_preferred":[
+        "Limburg"
+    ],
+    "name:lav_x_preferred":[
+        "Limburg"
+    ],
+    "name:lij_x_preferred":[
+        "Limburg"
+    ],
     "name:lim_x_preferred":[
+        "Limburg"
+    ],
+    "name:lit_x_preferred":[
         "Limburg"
     ],
     "name:ltz_x_preferred":[
@@ -117,7 +220,28 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u092c\u0930\u094d\u0917"
     ],
+    "name:min_x_preferred":[
+        "Limburg"
+    ],
+    "name:mlg_x_preferred":[
+        "Limburg"
+    ],
+    "name:msa_x_preferred":[
+        "Limburg"
+    ],
+    "name:nah_x_preferred":[
+        "Limburg"
+    ],
+    "name:nan_x_preferred":[
+        "Limburg"
+    ],
+    "name:nap_x_preferred":[
+        "Limburg"
+    ],
     "name:nds_nld_x_preferred":[
+        "Limburg"
+    ],
+    "name:nds_x_preferred":[
         "Limburg"
     ],
     "name:nld_x_preferred":[
@@ -126,11 +250,29 @@
     "name:nld_x_variant":[
         "Zuid-Limburg"
     ],
+    "name:nno_x_preferred":[
+        "Limburg"
+    ],
+    "name:nob_x_preferred":[
+        "Limburg"
+    ],
     "name:nor_x_preferred":[
+        "Limburg"
+    ],
+    "name:nrm_x_preferred":[
+        "Limburg"
+    ],
+    "name:oci_x_preferred":[
         "Limburg"
     ],
     "name:oss_x_preferred":[
         "\u041b\u0438\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:pcd_x_preferred":[
+        "Limburg"
+    ],
+    "name:pms_x_preferred":[
+        "Limburg"
     ],
     "name:pol_x_preferred":[
         "Limburg"
@@ -138,17 +280,38 @@
     "name:por_x_preferred":[
         "Limburgo"
     ],
+    "name:por_x_variant":[
+        "Limburg"
+    ],
+    "name:roh_x_preferred":[
+        "Limburg"
+    ],
     "name:ron_x_preferred":[
         "Limburg"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0431\u0443\u0440\u0433"
     ],
+    "name:scn_x_preferred":[
+        "Limburg"
+    ],
     "name:sco_x_preferred":[
+        "Limburg"
+    ],
+    "name:slk_x_preferred":[
+        "Limburg"
+    ],
+    "name:slv_x_preferred":[
         "Limburg"
     ],
     "name:spa_x_preferred":[
         "Limburgo"
+    ],
+    "name:spa_x_variant":[
+        "Limburg"
+    ],
+    "name:srd_x_preferred":[
+        "Limburg"
     ],
     "name:srn_x_preferred":[
         "Limburg"
@@ -162,16 +325,25 @@
     "name:swe_x_preferred":[
         "Limburg"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0bae\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Limburg"
+    ],
     "name:tur_x_preferred":[
         "Limburg"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043c\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincie Limburg"
     ],
     "name:uzb_x_preferred":[
+        "Limburg"
+    ],
+    "name:vec_x_preferred":[
         "Limburg"
     ],
     "name:vie_x_preferred":[
@@ -183,6 +355,18 @@
     "name:vol_x_preferred":[
         "Limburg"
     ],
+    "name:wln_x_preferred":[
+        "Limburg"
+    ],
+    "name:wol_x_preferred":[
+        "Limburg"
+    ],
+    "name:yue_x_preferred":[
+        "\u6797\u5821"
+    ],
+    "name:zea_x_preferred":[
+        "Limburg"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Limburg"
     ],
@@ -191,6 +375,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u6797\u5821"
+    ],
+    "name:zul_x_preferred":[
+        "Limburg"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NLD",
@@ -260,12 +447,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Provincie",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-01-01",
+    "src:population_date":"2012-01-01",
     "statoids:area_km":"2,169",
     "statoids:area_mi":"838",
     "statoids:as_of_date":"2012-01-01",
@@ -282,10 +468,12 @@
     "wd:wordcount":254,
     "wof:belongsto":[
         102191581,
-        85633337
+        85633337,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":10973,
         "fips:code":"NL05",
         "gn:id":2751596,
         "gp:id":2346377,
@@ -300,6 +488,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "region_id":85687033
         }
     ],
@@ -311,11 +500,10 @@
         "nld",
         "fry"
     ],
-    "wof:lastmodified":1606163092,
+    "wof:lastmodified":1583882905,
     "wof:name":"Limburg",
     "wof:parent_id":85633337,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1123075,
     "wof:population_rank":12,

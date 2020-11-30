@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":3727179.739888,
+    "geom:area_square_m":3727179.739886,
     "geom:bbox":"-112.015099,41.111198,-111.969566,41.139236",
     "geom:latitude":41.124358,
     "geom:longitude":-111.986928,
@@ -57,9 +57,6 @@
     "name:zho_x_preferred":[
         "\u5e0c\u723e\u7a7a\u8ecd\u57fa\u5730"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -109,7 +106,7 @@
         }
     ],
     "wof:id":102532619,
-    "wof:lastmodified":1606163489,
+    "wof:lastmodified":1566608597,
     "wof:name":"Hill Air Force Base",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

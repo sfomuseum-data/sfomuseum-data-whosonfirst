@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.09516,
-    "geom:area_square_m":22097947086.215973,
+    "geom:area_square_m":22097947086.216896,
     "geom:bbox":"34.267257,29.490655,35.895392,33.333882",
     "geom:latitude":31.450573,
     "geom:longitude":35.010249,
@@ -14,8 +14,13 @@
     "itu:country_code":[
         "972"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":30.895128,
     "lbl:longitude":34.874702,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":30.895128,
     "mps:longitude":34.874702,
     "mz:hierarchy_label":1,
@@ -24,6 +29,9 @@
     "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Isra\u00e8l"
+    ],
+    "name:ace_x_variant":[
+        "Israel"
     ],
     "name:ady_x_preferred":[
         "\u0418\u0441\u0440\u0430\u0438\u043b"
@@ -56,14 +64,26 @@
     "name:arg_x_preferred":[
         "Israel"
     ],
+    "name:ary_x_preferred":[
+        "\u0625\u0633\u0631\u0627\u0626\u064a\u0644"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0631\u0627\u0626\u064a\u0644"
+    ],
+    "name:asm_x_preferred":[
+        "\u0987\u099c\u09f0\u09be\u0987\u09b2"
     ],
     "name:ast_x_preferred":[
         "Israel"
     ],
     "name:ava_x_preferred":[
         "\u0413\u0406\u0438\u0437\u0440\u0430\u0438\u043b\u044c"
+    ],
+    "name:ava_x_variant":[
+        "\u0413l\u0438\u0437\u0440\u0430\u0438\u043b"
+    ],
+    "name:aym_x_preferred":[
+        "Israel"
     ],
     "name:azb_x_preferred":[
         "\u0627\u064a\u0633\u0631\u0627\u0626\u064a\u0644"
@@ -92,14 +112,17 @@
     "name:bel_x_preferred":[
         "\u0406\u0437\u0440\u0430\u0456\u043b\u044c"
     ],
-    "name:bel_x_variant":[
-        "\u0406\u0437\u0440\u0430\u0456\u043b\u044c"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09b0\u09be\u09af\u09bc\u09c7\u09b2"
     ],
     "name:ben_x_variant":[
         "\u0987\u09b8\u09cd\u09b0\u09be\u09df\u09c7\u09b2"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:bho_x_preferred":[
+        "\u0907\u091c\u0930\u093e\u0907\u0932"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f62\u0f0b\u0f68\u0f7a\u0f63\u0f0d"
@@ -115,6 +138,9 @@
     ],
     "name:bre_x_preferred":[
         "Israel"
+    ],
+    "name:brh_x_preferred":[
+        "Isr\u00e1\u00edl"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0435\u043b"
@@ -136,6 +162,9 @@
     ],
     "name:che_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a2\u13cf\u13b5\u13f1"
     ],
     "name:chu_x_preferred":[
         "\u0407\ua641\u0434\u0440\u0430\u0438\u043b\u0484\u044c"
@@ -164,10 +193,13 @@
     "name:cym_x_preferred":[
         "Israel"
     ],
-    "name:cze_x_preferred":[
-        "Izrael"
-    ],
     "name:dan_x_preferred":[
+        "Israel"
+    ],
+    "name:deu_at_x_preferred":[
+        "Israel"
+    ],
+    "name:deu_ch_x_preferred":[
         "Israel"
     ],
     "name:deu_x_preferred":[
@@ -182,6 +214,9 @@
     "name:dsb_x_preferred":[
         "Israel"
     ],
+    "name:dty_x_preferred":[
+        "\u0907\u091c\u0930\u093e\u092f\u0932"
+    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f72\u0f5b\u0f0b\u0f62\u0f71\u0f7a\u0f63\u0f0b"
     ],
@@ -190,6 +225,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03c1\u03b1\u03ae\u03bb"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Israel"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Israel"
     ],
     "name:eng_x_preferred":[
         "Israel"
@@ -238,6 +279,9 @@
     "name:frp_x_preferred":[
         "Isra\u00e8l"
     ],
+    "name:frp_x_variant":[
+        "Isray\u00e8l"
+    ],
     "name:frr_x_preferred":[
         "Israel"
     ],
@@ -252,6 +296,9 @@
     ],
     "name:gan_x_preferred":[
         "\u4ee5\u8272\u5217"
+    ],
+    "name:gcr_x_preferred":[
+        "Isray\u00e8l"
     ],
     "name:ger_x_variant":[
         "Staat Israel"
@@ -282,6 +329,12 @@
     ],
     "name:grn_x_preferred":[
         "Irrael"
+    ],
+    "name:grn_x_variant":[
+        "Israel"
+    ],
+    "name:gsw_x_preferred":[
+        "Israel"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a9d\u0ab0\u0abe\u0aaf\u0ab2"
@@ -340,6 +393,9 @@
     "name:hye_x_variant":[
         "\u053b\u0566\u0580\u0561\u0565\u056c"
     ],
+    "name:hyw_x_preferred":[
+        "\u053b\u057d\u0580\u0561\u0575\u0567\u056c"
+    ],
     "name:ibo_x_preferred":[
         "Israel"
     ],
@@ -358,6 +414,9 @@
     "name:ind_x_preferred":[
         "Israel"
     ],
+    "name:inh_x_preferred":[
+        "\u0416\u0443\u0433\u0442\u0435\u0447\u0435"
+    ],
     "name:isl_x_preferred":[
         "\u00cdsrael"
     ],
@@ -366,6 +425,9 @@
     ],
     "name:jam_x_preferred":[
         "Izrel"
+    ],
+    "name:jam_x_variant":[
+        "Izriel"
     ],
     "name:jav_x_preferred":[
         "Isra\u00e8l"
@@ -385,6 +447,9 @@
     "name:kab_x_preferred":[
         "Israyil"
     ],
+    "name:kab_x_variant":[
+        "Israyel"
+    ],
     "name:kal_x_preferred":[
         "Israel"
     ],
@@ -399,6 +464,15 @@
     ],
     "name:kbd_x_preferred":[
         "\u0418\u0441\u0440\u0430\u0435\u043b"
+    ],
+    "name:kbd_x_variant":[
+        "\u0418\u0441\u0440\u0430\u044d\u043b"
+    ],
+    "name:kbp_x_preferred":[
+        "Izr\u025b\u025bl\u0269"
+    ],
+    "name:kea_x_preferred":[
+        "Israel"
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17ca\u17b8\u179f\u17d2\u179a\u17b6\u17a2\u17c2\u179b"
@@ -435,7 +509,8 @@
     ],
     "name:kur_x_variant":[
         "\u00cesra\u00eel",
-        "\u0626\u06cc\u0633\u0631\u0627\u0626\u06cc\u0644"
+        "\u0626\u06cc\u0633\u0631\u0627\u0626\u06cc\u0644",
+        "\u00cesrael"
     ],
     "name:lad_x_preferred":[
         "Medinat Yisrael"
@@ -455,6 +530,9 @@
     "name:lez_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
     ],
+    "name:lfn_x_preferred":[
+        "Israel"
+    ],
     "name:lij_x_preferred":[
         "Isr\u00e6"
     ],
@@ -470,11 +548,17 @@
     "name:lit_x_preferred":[
         "Izraelis"
     ],
+    "name:liv_x_preferred":[
+        "Izrael"
+    ],
     "name:lmo_x_preferred":[
         "Israel"
     ],
     "name:lrc_x_preferred":[
         "\u0626\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:lrc_x_variant":[
+        "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
     ],
     "name:ltz_x_preferred":[
         "Israel"
@@ -484,6 +568,12 @@
     ],
     "name:lug_x_preferred":[
         "Yisirayeri"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
+    "name:mai_x_preferred":[
+        "\u0907\u091c\u0930\u093e\u092f\u0932"
     ],
     "name:mal_x_preferred":[
         "\u0d07\u0d38\u0d4d\u0d30\u0d2f\u0d47\u0d7d"
@@ -515,6 +605,9 @@
     "name:mon_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
     ],
+    "name:mon_x_variant":[
+        "\u0418\u0437\u0440\u0430\u0439\u043b\u044c"
+    ],
     "name:mri_x_preferred":[
         "Iharaira"
     ],
@@ -530,8 +623,17 @@
     "name:mya_x_variant":[
         "\u1021\u1005\u1039\u1005\u101b\u1031\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0418\u0437\u0440\u0430\u0438\u043b\u044c \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:nah_x_preferred":[
+        "Israel"
+    ],
+    "name:nan_x_preferred":[
+        "\u00cd-sek-lia\u030dt-kok"
     ],
     "name:nap_x_preferred":[
         "Israele"
@@ -578,8 +680,17 @@
     "name:nov_x_preferred":[
         "Israel"
     ],
+    "name:nqo_x_preferred":[
+        "\u07cc\u07db\u07d1\u07d9\u07ca\u07cc\u07df"
+    ],
+    "name:nso_x_preferred":[
+        "Israel"
+    ],
     "name:oci_x_preferred":[
         "Isra\u00e8l"
+    ],
+    "name:olo_x_preferred":[
+        "Izrail"
     ],
     "name:ori_x_preferred":[
         "\u0b07\u0b38\u0b4d\u0b30\u0b3e\u0b0f\u0b32"
@@ -599,14 +710,23 @@
     "name:pan_x_preferred":[
         "\u0a07\u0a1c\u0a3c\u0a30\u0a3e\u0a07\u0a32"
     ],
+    "name:pan_x_variant":[
+        "\u0a07\u0a1c\u0a3c\u0a30\u0a3e\u0a08\u0a32"
+    ],
     "name:pap_x_preferred":[
         "Israel"
+    ],
+    "name:pcd_x_preferred":[
+        "Isra\u00ebl"
     ],
     "name:pfl_x_preferred":[
         "Israel"
     ],
     "name:pih_x_preferred":[
         "Esrail"
+    ],
+    "name:pli_x_preferred":[
+        "\u0907\u0938\u094d\u0930\u0948\u0932"
     ],
     "name:pms_x_preferred":[
         "Israel"
@@ -620,6 +740,9 @@
     "name:pol_x_preferred":[
         "Izrael"
     ],
+    "name:por_br_x_preferred":[
+        "Israel"
+    ],
     "name:por_x_preferred":[
         "Israel"
     ],
@@ -627,7 +750,8 @@
         "\u0627\u0633\u0631\u0627\u0626\u064a\u0644"
     ],
     "name:pus_x_variant":[
-        "\u0627\u0633\u0631\u0627\u064a\u0644"
+        "\u0627\u0633\u0631\u0627\u064a\u0644",
+        "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
     ],
     "name:que_x_preferred":[
         "Israyil"
@@ -650,6 +774,9 @@
     "name:run_x_preferred":[
         "Isiraheli"
     ],
+    "name:rup_x_preferred":[
+        "Israel"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
     ],
@@ -662,11 +789,20 @@
     "name:san_x_preferred":[
         "\u0907\u091c\u0930\u093e\u0907\u0932"
     ],
+    "name:san_x_variant":[
+        "\u0907\u0938\u094d\u0930\u0947\u0932"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c61\u1c7d\u1c68\u1c5f\u1c6d\u1c6e\u1c5e"
+    ],
     "name:scn_x_preferred":[
         "Israeli"
     ],
     "name:sco_x_preferred":[
         "Israel"
+    ],
+    "name:sgs_x_preferred":[
+        "Izraelis"
     ],
     "name:sin_x_preferred":[
         "\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba"
@@ -680,8 +816,14 @@
     "name:sme_x_preferred":[
         "Israel"
     ],
+    "name:smn_x_preferred":[
+        "Israel"
+    ],
     "name:smo_x_preferred":[
         "Isalaeru"
+    ],
+    "name:smo_x_variant":[
+        "Israel"
     ],
     "name:sna_x_preferred":[
         "Israel"
@@ -713,6 +855,12 @@
     "name:srn_x_preferred":[
         "Israel"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0418\u0437\u0440\u0430\u0435\u043b"
+    ],
+    "name:srp_el_x_preferred":[
+        "Izrael"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0437\u0440\u0430\u0435\u043b"
     ],
@@ -737,6 +885,9 @@
     "name:szl_x_preferred":[
         "Izrael"
     ],
+    "name:szy_x_preferred":[
+        "Israel"
+    ],
     "name:tam_x_preferred":[
         "\u0b87\u0b9a\u0bc1\u0bb0\u0bc7\u0bb2\u0bcd"
     ],
@@ -745,6 +896,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0418\u0441\u0440\u0430\u0438\u043b"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c87\u0cb8\u0ccd\u0cb0\u0cc7\u0cb2\u0ccd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c1c\u0c4d\u0c30\u0c3e\u0c2f\u0c3f\u0c32\u0c4d"
@@ -794,15 +948,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0440\u0430\u0457\u043b\u044c"
     ],
-    "name:und_x_preferred":[
-        "Izrael",
-        "\u00cdsrael"
-    ],
     "name:und_x_variant":[
         "Yisra'el",
-        "Yisrael"
-    ],
-    "name:unk_x_variant":[
+        "Yisrael",
         "Dawlat Isr\u0101\u2019\u012bl"
     ],
     "name:urd_x_preferred":[
@@ -830,11 +978,17 @@
     "name:vol_x_preferred":[
         "Yisrael\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Iisrael"
+    ],
     "name:war_x_preferred":[
         "Israel"
     ],
     "name:wln_x_preferred":[
         "Israyel (estat)"
+    ],
+    "name:wln_x_variant":[
+        "Israyel"
     ],
     "name:wol_x_preferred":[
         "Israayil"
@@ -861,19 +1015,37 @@
         "Israel",
         "Or\u00edl\u1eb9\u0301\u00e8de Iser\u1eb9li"
     ],
+    "name:yue_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
     "name:zea_x_preferred":[
         "Isra\u00ebl"
     ],
     "name:zha_x_preferred":[
         "Israel"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
     "name:zho_min_nan_x_preferred":[
         "\u00cd-sek-lia\u030dt-kok"
     ],
-    "name:zho_x_preferred":[
+    "name:zho_mo_x_preferred":[
         "\u4ee5\u8272\u5217"
     ],
-    "name:zho_x_variant":[
+    "name:zho_my_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4ee5\u8272\u5217"
+    ],
+    "name:zho_x_preferred":[
         "\u4ee5\u8272\u5217"
     ],
     "name:zho_yue_x_preferred":[
@@ -957,15 +1129,12 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
         "meso",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"972",
@@ -999,6 +1168,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Israel",
+        "digitalenvoy:country_code":376,
         "fb:id":"en.israel",
         "fifa:id":"ISR",
         "fips:code":"IS",
@@ -1015,13 +1185,19 @@
         "mzb:id":"israel",
         "ne:adm0_a3":"ISR",
         "nyt:id":"58448762103776010241",
-        "qs:id":203723,
+        "qs_pg:id":203723,
         "uncrt:id":"IL",
         "wd:id":"Q801",
         "wmo:id":"IS"
     },
     "wof:country":"IL",
     "wof:country_alpha3":"ISR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"4b34ad2b05e017bd2e043a57e55a468a",
     "wof:hierarchy":[
         {
@@ -1039,7 +1215,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1606163104,
+    "wof:lastmodified":1587427747,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

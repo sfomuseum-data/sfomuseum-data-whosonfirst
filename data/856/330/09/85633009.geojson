@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":707.646205,
-    "geom:area_square_m":8512392079029.616211,
+    "geom:area_square_m":8512392079029.818359,
     "geom:bbox":"-73.982817,-33.750991,-28.841486,5.271602",
     "geom:latitude":-10.768273,
     "geom:longitude":-53.085014,
@@ -60,6 +60,9 @@
     "name:arg_x_preferred":[
         "Brasil"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0631\u0627\u0632\u064a\u0644"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0627\u0632\u064a\u0644"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:bam_x_variant":[
         "Berezili"
+    ],
+    "name:ban_x_preferred":[
+        "Brazil"
     ],
     "name:bar_x_preferred":[
         "Brasilien"
@@ -193,6 +199,9 @@
     "name:dan_x_preferred":[
         "Brasilien"
     ],
+    "name:deu_ch_x_preferred":[
+        "Brasilien"
+    ],
     "name:deu_x_colloquial":[
         "Foderative Republik Brasilien",
         "Foederative Republik Brasilien"
@@ -226,6 +235,12 @@
     ],
     "name:eml_x_preferred":[
         "Brasil"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Brazil"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Brazil"
     ],
     "name:eng_x_preferred":[
         "Brazil"
@@ -306,6 +321,9 @@
     ],
     "name:gan_x_preferred":[
         "\u5df4\u897f"
+    ],
+    "name:gcr_x_preferred":[
+        "Br\u00e9zil"
     ],
     "name:gla_x_preferred":[
         "Braisil"
@@ -471,6 +489,9 @@
     ],
     "name:kbp_x_preferred":[
         "Biresiili"
+    ],
+    "name:kea_x_preferred":[
+        "Brazil"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u17c1\u179f\u17ca\u17b8\u179b"
@@ -761,6 +782,9 @@
     "name:pol_x_preferred":[
         "Brazylia"
     ],
+    "name:por_br_x_preferred":[
+        "Brasil"
+    ],
     "name:por_x_preferred":[
         "Brasil"
     ],
@@ -842,6 +866,9 @@
     "name:sme_x_variant":[
         "Brasil"
     ],
+    "name:smn_x_preferred":[
+        "Brasilia"
+    ],
     "name:smo_x_preferred":[
         "Pasila"
     ],
@@ -873,6 +900,12 @@
     "name:srn_x_preferred":[
         "Brasilkondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0440\u0430\u0437\u0438\u043b"
+    ],
+    "name:srp_el_x_preferred":[
+        "Brazil"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b"
     ],
@@ -896,6 +929,9 @@
     ],
     "name:szl_x_preferred":[
         "Brazylijo"
+    ],
+    "name:szy_x_preferred":[
+        "Brazil"
     ],
     "name:tah_x_preferred":[
         "Par\u012bihi"
@@ -1143,8 +1179,6 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -1178,6 +1212,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Brazil",
+        "digitalenvoy:country_code":76,
         "fb:id":"en.brazil",
         "fifa:id":"BRA",
         "fips:code":"BR",
@@ -1202,6 +1237,10 @@
     },
     "wof:country":"BR",
     "wof:country_alpha3":"BRA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"10db70dd10e4ab1b786fa595c0502d06",
     "wof:hierarchy":[
         {
@@ -1216,7 +1255,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1606163413,
+    "wof:lastmodified":1587428057,
     "wof:name":"Brazil",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008693,
-    "geom:area_square_m":83597930.66407,
+    "geom:area_square_m":83597930.664072,
     "geom:bbox":"-77.519501,38.89827,-77.411667,39.005096",
     "geom:latitude":38.94725,
     "geom:longitude":-77.465501,
@@ -17,8 +17,18 @@
     "mps:longitude":-77.453702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0648\u0627\u0634\u0646\u0637\u0646 \u062f\u0627\u0644\u0627\u0633 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0637\u0627\u0631 \u0648\u0627\u0634\u0646\u0637\u0646 \u062f\u0648\u0644\u0633 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Dulles"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982\u099f\u09a8 \u09a1\u09be\u09b2\u09bf\u09b8 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0449\u0435 \u201e\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d-\u0414\u044a\u043b\u0435\u0441\u201c"
@@ -26,10 +36,7 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de Washington-Dulles"
     ],
-    "name:chi_x_preferred":[
-        "\u534e\u76db\u987f\u675c\u52d2\u65af\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Washington Dulles International Airport"
     ],
     "name:dan_x_preferred":[
@@ -38,8 +45,8 @@
     "name:deu_x_preferred":[
         "Flughafen Washington-Dulles-International"
     ],
-    "name:dut_x_preferred":[
-        "Washington Dulles International Airport"
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039d\u03c4\u03ac\u03bb\u03b5\u03c2 \u03c4\u03b7\u03c2 \u039f\u03c5\u03ac\u03c3\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dulles International Airport"
@@ -48,6 +55,12 @@
         "IAD",
         "KIAD",
         "Washington Dulles International Airport"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Va\u015dingtono-Dulles"
+    ],
+    "name:est_x_preferred":[
+        "Washington Dullesi rahvusvaheline lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0627\u0644\u0633 \u0648\u0627\u0634\u06cc\u0646\u06af\u062a\u0646"
@@ -58,20 +71,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport international de Washington-Dulles"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Washington-Dulles"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Washington-Dulles-International"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d5\u05e9\u05d9\u05e0\u05d2\u05d8\u05d5\u05df \u05d3\u05d0\u05dc\u05e1"
     ],
     "name:hun_x_preferred":[
         "Washington Dulles nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
-    ],
-    "name:ice_x_preferred":[
-        "Washington Dulles flugv\u00f6llur"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Washington Dulles"
@@ -100,20 +107,23 @@
     "name:nor_x_preferred":[
         "Washington Dulles internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0627\u0644\u0633 \u0648\u0627\u0634\u06cc\u0646\u06af\u062a\u0646"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Waszyngton-Dulles"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Washington Dulles"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Washington Dulles"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0414\u0430\u043b\u043b\u0435\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Washington-Dulles"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Internacional Dulles"
     ],
     "name:swe_x_preferred":[
         "Dulles International Airport"
@@ -124,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u0430\u043b\u043b\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chantilly Airport"
     ],
     "name:vie_x_preferred":[
@@ -135,14 +145,9 @@
     ],
     "oa:elevation_ft":"312",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":153,
-    "sfomuseum:count_objects_public":7,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Dulles International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12590376,
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":102528817,
-    "wof:lastmodified":1606163487,
+    "wof:lastmodified":1566609348,
     "wof:name":"Dulles International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

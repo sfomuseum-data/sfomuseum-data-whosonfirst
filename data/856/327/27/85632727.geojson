@@ -12,14 +12,23 @@
     "geom:longitude":-67.689731,
     "gp:id":0,
     "iso:country":"AN",
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":12.194274,
     "lbl:longitude":-68.249092,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":12.194274,
     "mps:longitude":-68.249092,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":0.0,
     "name:ace_x_preferred":[
         "Blanda"
+    ],
+    "name:ace_x_variant":[
+        "Beulanda"
     ],
     "name:afr_x_preferred":[
         "Nederland"
@@ -63,6 +72,9 @@
     "name:bak_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
     ],
+    "name:bak_x_variant":[
+        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
+    ],
     "name:bar_x_preferred":[
         "Holland"
     ],
@@ -77,6 +89,12 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0647\u0627\u0644\u0646\u0688"
+    ],
+    "name:bho_x_preferred":[
+        "\u0928\u0940\u0926\u0930\u0932\u0948\u0902\u0921"
     ],
     "name:bis_x_preferred":[
         "Netherlands"
@@ -114,14 +132,23 @@
     "name:ceb_x_preferred":[
         "Olanda"
     ],
+    "name:ceb_x_variant":[
+        "Netherlands"
+    ],
     "name:ces_x_preferred":[
         "Nizozemsko"
+    ],
+    "name:cha_x_preferred":[
+        "Netherlands"
     ],
     "name:che_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0448"
     ],
     "name:chr_x_preferred":[
         "\u13be\u13cd\u13a9 \u13c1\u13db\u13b3\u13c2"
+    ],
+    "name:chr_x_variant":[
+        "\u13db\u13e5\u13f1"
     ],
     "name:chu_x_preferred":[
         "\u041d\u0438\u0434\u0454\u0440\u043b\u0430\u043d\u0434\ua651"
@@ -165,11 +192,17 @@
     "name:dsb_x_preferred":[
         "Ni\u017eozemska"
     ],
+    "name:dty_x_preferred":[
+        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
+    ],
     "name:dzo_x_preferred":[
         "\u0f53\u0f7a\u0f0b\u0f51\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f66\u0f72\u0f0b"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Ul\u00e0nda"
     ],
     "name:eng_x_preferred":[
         "Netherlands"
@@ -194,6 +227,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u0644\u0646\u062f"
+    ],
+    "name:fij_x_preferred":[
+        "Holland"
     ],
     "name:fin_x_preferred":[
         "Alankomaat"
@@ -237,11 +273,23 @@
     "name:gom_x_preferred":[
         "\u0928\u0947\u0926\u0930\u0932\u0901\u0921\u094d\u0938"
     ],
+    "name:gor_x_preferred":[
+        "Walanta"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
+    "name:got_x_variant":[
+        "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf34\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
     "name:grn_x_preferred":[
         "Tet\u00e3ngu\u00e9ra Yv\u00fdi"
+    ],
+    "name:grn_x_variant":[
+        "Holanda"
+    ],
+    "name:gsw_x_preferred":[
+        "Niderland"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0a82\u0aa1"
@@ -251,6 +299,9 @@
     ],
     "name:hat_x_preferred":[
         "Peyiba"
+    ],
+    "name:hau_x_preferred":[
+        "Holand"
     ],
     "name:haw_x_preferred":[
         "H\u014dlani"
@@ -279,6 +330,9 @@
     "name:hye_x_preferred":[
         "\u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0576\u0565\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0578\u056c\u0561\u0576\u057f\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Netherlands"
     ],
@@ -294,8 +348,14 @@
     "name:ina_x_preferred":[
         "Pais Basse"
     ],
+    "name:ina_x_variant":[
+        "Nederlandia"
+    ],
     "name:ind_x_preferred":[
         "Belanda"
+    ],
+    "name:inh_x_preferred":[
+        "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438"
     ],
     "name:isl_x_preferred":[
         "Holland"
@@ -311,6 +371,9 @@
     ],
     "name:jbo_x_preferred":[
         "nederland"
+    ],
+    "name:jbo_x_variant":[
+        "la nederland"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30e9\u30f3\u30c0"
@@ -336,17 +399,26 @@
     "name:kbd_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u044d\u043d\u0434\u0445\u044d\u0440"
     ],
+    "name:kbp_x_preferred":[
+        "Peyibaa"
+    ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17bc\u17a1\u1784\u17cb"
     ],
     "name:kik_x_preferred":[
         "Netharandi"
     ],
+    "name:kik_x_variant":[
+        "Netherlands"
+    ],
     "name:kin_x_preferred":[
         "Ubuholandi"
     ],
     "name:kir_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:kir_x_variant":[
+        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
     ],
     "name:koi_x_preferred":[
         "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
@@ -369,6 +441,9 @@
     "name:kur_x_preferred":[
         "Holenda"
     ],
+    "name:kur_x_variant":[
+        "Holand"
+    ],
     "name:lad_x_preferred":[
         "Payises Bashos"
     ],
@@ -387,6 +462,9 @@
     "name:lez_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0440"
     ],
+    "name:lfn_x_preferred":[
+        "Nederland"
+    ],
     "name:lij_x_preferred":[
         "Paixi Basci"
     ],
@@ -399,17 +477,26 @@
     "name:lit_x_preferred":[
         "Nyderlandai"
     ],
+    "name:liv_x_preferred":[
+        "Mad\u0101lm\u014dd"
+    ],
     "name:lmo_x_preferred":[
         "Paes Bass"
     ],
     "name:lrc_x_preferred":[
         "\u06be\u0648\u0644\u0623\u0646\u062f"
     ],
+    "name:lrc_x_variant":[
+        "\u0647\u0644\u0646\u062f"
+    ],
     "name:ltg_x_preferred":[
         "N\u012bderlandeja"
     ],
     "name:ltz_x_preferred":[
         "Holland"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8377\u862d"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d46\u0d24\u0d7c\u0d32\u0d28\u0d4d\u0d31\u0d4d\u0d38\u0d4d"
@@ -450,14 +537,26 @@
     "name:myv_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
+    "name:myv_x_variant":[
+        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    ],
     "name:mzn_x_preferred":[
         "\u0647\u0644\u0646\u062f"
+    ],
+    "name:nah_x_preferred":[
+        "Tlanitl\u0101lpan"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00f4-l\u00e2n"
     ],
     "name:nap_x_preferred":[
         "Ulanna"
     ],
     "name:nau_x_preferred":[
         "Niterand"
+    ],
+    "name:nau_x_variant":[
+        "Eben Eyong"
     ],
     "name:nav_x_preferred":[
         "Tsin Bikee\u02bc Dine\u02bc\u00e9 Bik\u00e9yah"
@@ -468,8 +567,14 @@
     "name:nds_x_preferred":[
         "Nedderlannen (Europa)"
     ],
+    "name:nds_x_variant":[
+        "Nedderlannen"
+    ],
     "name:nep_x_preferred":[
         "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921\u094d\u0938"
+    ],
+    "name:nep_x_variant":[
+        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921\u094d\u0938"
     ],
     "name:new_x_preferred":[
         "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0926\u094d\u0938\u094d"
@@ -478,6 +583,9 @@
         "Nederland"
     ],
     "name:nno_x_preferred":[
+        "Nederland"
+    ],
+    "name:nob_x_preferred":[
         "Nederland"
     ],
     "name:nor_x_preferred":[
@@ -489,8 +597,20 @@
     "name:nrm_x_preferred":[
         "Pays Bas"
     ],
+    "name:nso_x_preferred":[
+        "Netherlands"
+    ],
+    "name:nya_x_preferred":[
+        "Netherlands"
+    ],
     "name:oci_x_preferred":[
         "Pa\u00efses Basses"
+    ],
+    "name:olo_x_preferred":[
+        "Hollandii"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b28\u0b47\u0b26\u0b30\u0b32\u0b3e\u0b23\u0b4d\u0b21"
     ],
     "name:orm_x_preferred":[
         "Neezerlaandi"
@@ -516,11 +636,17 @@
     "name:pdc_x_preferred":[
         "Holland"
     ],
+    "name:pdt_x_preferred":[
+        "Nadalaunt"
+    ],
     "name:pfl_x_preferred":[
         "Niederlande"
     ],
     "name:pih_x_preferred":[
         "Dem Nethiland"
+    ],
+    "name:pli_x_preferred":[
+        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
     ],
     "name:pms_x_preferred":[
         "Pais Bass"
@@ -555,6 +681,9 @@
     "name:rue_x_preferred":[
         "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
     ],
+    "name:rup_x_preferred":[
+        "Olanda"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
     ],
@@ -564,11 +693,20 @@
     "name:san_x_preferred":[
         "\u0928\u0947\u0926\u0930\u094d\u0932\u0947\u0923\u094d\u0921\u094d\u0926\u0947\u0936\u0903"
     ],
+    "name:san_x_variant":[
+        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c6e\u1c6b\u1c5f\u1c68\u1c5e\u1c6e\u1c71\u1c70\u1c65"
+    ],
     "name:scn_x_preferred":[
         "Paisi Vasci"
     ],
     "name:sco_x_preferred":[
         "Netherlands"
+    ],
+    "name:sgs_x_preferred":[
+        "N\u012bderland\u0101"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
@@ -579,6 +717,9 @@
     "name:slv_x_preferred":[
         "Nizozemska"
     ],
+    "name:sma_x_preferred":[
+        "Vuelielaanteh"
+    ],
     "name:sme_x_preferred":[
         "Vuolleeatnamat"
     ],
@@ -587,6 +728,9 @@
     ],
     "name:sna_x_preferred":[
         "Netherlands"
+    ],
+    "name:snd_x_preferred":[
+        "\u0646\u064a\u062f\u0631\u0644\u064a\u0646\u068a\u0632"
     ],
     "name:som_x_preferred":[
         "Holland"
@@ -627,14 +771,23 @@
     "name:szl_x_preferred":[
         "\u0143iderlandy"
     ],
+    "name:tah_x_preferred":[
+        "H\u014drane"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
     "name:tat_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u043b\u0430\u0440"
     ],
+    "name:tat_x_variant":[
+        "\u041d\u0438\u0434\u0438\u0440\u043b\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Olanda"
@@ -654,6 +807,12 @@
     "name:tpi_x_preferred":[
         "Netherlands"
     ],
+    "name:tpi_x_variant":[
+        "Ol Nitelan"
+    ],
+    "name:tso_x_preferred":[
+        "Netherlands"
+    ],
     "name:tuk_x_preferred":[
         "Niderlandlar"
     ],
@@ -662,6 +821,9 @@
     ],
     "name:tur_x_preferred":[
         "Hollanda"
+    ],
+    "name:twi_x_preferred":[
+        "Netherlands"
     ],
     "name:udm_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
@@ -693,6 +855,9 @@
     "name:vol_x_preferred":[
         "Ned\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Holland"
+    ],
     "name:war_x_preferred":[
         "Nederlandes"
     ],
@@ -719,6 +884,9 @@
     ],
     "name:yor_x_preferred":[
         "N\u1eb9\u0301d\u00e1l\u00e1nd\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u8377\u862d"
     ],
     "name:zea_x_preferred":[
         "Nederland"
@@ -751,13 +919,13 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19987,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"AN",
+        "icao:code":"PJ",
         "wd:id":"Q55"
     },
     "wof:country":"AN",
@@ -770,7 +938,7 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1578514128,
+    "wof:lastmodified":1566585624,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",

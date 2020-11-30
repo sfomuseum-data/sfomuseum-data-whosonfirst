@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"192x",
     "geom:area":0.000253,
-    "geom:area_square_m":2356406.79597,
+    "geom:area_square_m":2356406.795972,
     "geom:bbox":"-104.835274,41.147991,-104.79277,41.162666",
     "geom:latitude":41.155613,
     "geom:longitude":-104.813418,
@@ -19,8 +19,9 @@
     "mps:longitude":-104.807783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u590f\u5ef6\u652f\u7dda\u6a5f\u5834"
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Cheyenne Airport"
     ],
     "name:eng_x_preferred":[
         "Cheyenne Airport"
@@ -39,28 +40,32 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30a4\u30a2\u30f3\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0634\u0627\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Cheyenne"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Regional Cheyenne"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u0448\u043e\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cheyenne Municipal Airport"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u0679\u0646 \u0645\u06cc\u0648\u0646\u0633\u067e\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0634\u0627\u06cc\u0646 \u0631\u06cc\u062c\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u5ef6\u652f\u7dda\u6a5f\u5834"
     ],
     "oa:elevation_ft":"6159",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":217,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Cheyenne Regional Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1156,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":102531225,
-    "wof:lastmodified":1606163486,
+    "wof:lastmodified":1566609440,
     "wof:name":"Cheyenne Airport",
     "wof:parent_id":101734121,
     "wof:placetype":"campus",

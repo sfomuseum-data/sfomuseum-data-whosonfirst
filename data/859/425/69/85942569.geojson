@@ -5,22 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100209,
-    "geom:area_square_m":952296132.837966,
+    "geom:area_square_m":952296132.838119,
     "geom:bbox":"-86.328121,39.632177,-85.937379,39.927392",
     "geom:latitude":39.777124,
     "geom:longitude":-86.145783,
     "iso:country":"US",
     "lbl:latitude":39.785871,
     "lbl:longitude":-86.143415,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":39.785871,
     "mps:longitude":-86.143415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
     "name:afr_x_preferred":[
-        "Indianapolis"
-    ],
-    "name:alb_x_preferred":[
         "Indianapolis"
     ],
     "name:amh_x_preferred":[
@@ -32,9 +31,6 @@
     "name:arg_x_preferred":[
         "Indianapolis"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0576\u0564\u056b\u0561\u0576\u0561\u057a\u0578\u056c\u056b\u057d"
-    ],
     "name:ast_x_preferred":[
         "Indian\u00e1polis"
     ],
@@ -44,11 +40,14 @@
     "name:aze_x_preferred":[
         "\u0130ndianapolis"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Indianapolis"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043d\u0434\u044b\u044f\u043d\u0430\u043f\u0430\u043b\u0456\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0406\u043d\u0434\u044b\u044f\u043d\u0430\u043f\u0430\u043b\u0456\u0441"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be\u09a8\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -68,11 +67,14 @@
     "name:cat_x_preferred":[
         "Indian\u00e0polis"
     ],
+    "name:ceb_x_preferred":[
+        "Indianapolis"
+    ],
+    "name:ces_x_preferred":[
+        "Indianapolis"
+    ],
     "name:che_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0430\u043d\u0430\u043f\u043e\u043b\u0438\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u5229\u65af"
     ],
     "name:cor_x_preferred":[
         "Indianapolis"
@@ -80,17 +82,20 @@
     "name:cos_x_preferred":[
         "Indianapolis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Indianapolis"
     ],
     "name:dan_x_preferred":[
         "Indianapolis"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Indianapolis"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bd\u03b4\u03b9\u03b1\u03bd\u03ac\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03bd\u03c4\u03b9\u03b1\u03bd\u03ac\u03c0\u03bf\u03bb\u03b9\u03c2"
     ],
     "name:eml_x_preferred":[
         "Indian\u00e0pulis"
@@ -102,6 +107,9 @@
         "Indianapolis"
     ],
     "name:est_x_preferred":[
+        "Indianapolis"
+    ],
+    "name:eus_x_preferred":[
         "Indianapolis"
     ],
     "name:ext_x_preferred":[
@@ -119,7 +127,7 @@
     "name:fit_x_preferred":[
         "Indianapolis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Indianapolis"
     ],
     "name:fry_x_preferred":[
@@ -127,12 +135,6 @@
     ],
     "name:gan_x_preferred":[
         "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u5229\u65af"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10d3\u10d8\u10d0\u10dc\u10d0\u10de\u10dd\u10da\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Indianapolis"
     ],
     "name:gla_x_preferred":[
         "Indianapolis"
@@ -142,9 +144,6 @@
     ],
     "name:glg_x_preferred":[
         "Indianapolis"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bd\u03c4\u03b9\u03b1\u03bd\u03ac\u03c0\u03bf\u03bb\u03b9\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aa8\u0acd\u0aa1\u0abf\u0aaf\u0abe\u0aa8\u0abe\u0aaa\u0acb\u0ab2\u0abf\u0ab8"
@@ -167,9 +166,6 @@
     "name:hye_x_preferred":[
         "\u053b\u0576\u0564\u056b\u0561\u0576\u0561\u057a\u0578\u056c\u056b\u057d"
     ],
-    "name:ice_x_preferred":[
-        "Indianapolis"
-    ],
     "name:ido_x_preferred":[
         "Indianapolis"
     ],
@@ -186,6 +182,9 @@
         "Indianapolis"
     ],
     "name:ind_x_preferred":[
+        "Indianapolis"
+    ],
+    "name:isl_x_preferred":[
         "Indianapolis"
     ],
     "name:ita_x_preferred":[
@@ -233,14 +232,11 @@
     "name:ltz_x_preferred":[
         "Indianapolis"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u043d\u0434\u0438\u0458\u0430\u043d\u0430\u043f\u043e\u043b\u0438\u0441"
+    "name:mal_x_preferred":[
+        "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d28\u0d3e\u0d2a\u0d4b\u0d33\u0d3f\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0902\u0921\u093f\u092f\u093e\u0928\u093e\u092a\u094b\u0932\u093f\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Indianapolis"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0458\u0430\u043d\u0430\u043f\u043e\u043b\u0438\u0441"
@@ -254,6 +250,9 @@
     "name:mrj_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0430\u043d\u0430\u043f\u043e\u043b\u0438\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Indianapolis"
+    ],
     "name:nan_x_preferred":[
         "Indianapolis"
     ],
@@ -262,6 +261,9 @@
     ],
     "name:new_x_preferred":[
         "\u0907\u0928\u094d\u0926\u093f\u092f\u093e\u0928\u093e\u092a\u094b\u0932\u093f\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Indianapolis"
     ],
     "name:nno_x_preferred":[
         "Indianapolis"
@@ -284,8 +286,8 @@
     "name:pan_x_preferred":[
         "\u0a07\u0a70\u0a21\u0a40\u0a06\u0a28\u0a3e\u0a2a\u0a4b\u0a32\u0a3f\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0646\u062f\u06cc\u0627\u0646\u0627\u067e\u0648\u0644\u06cc\u0633"
+    "name:pdc_x_preferred":[
+        "Indianapolis"
     ],
     "name:pli_x_preferred":[
         "\u0907\u0928\u094d\u0921\u093f\u092f\u093e\u0928\u093e\u092a\u094b\u0932\u093f\u0938"
@@ -305,7 +307,7 @@
     "name:que_x_preferred":[
         "Indianapolis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Indianapolis"
     ],
     "name:rus_x_preferred":[
@@ -329,7 +331,7 @@
     "name:sin_x_preferred":[
         "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dcf\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Indianapolis"
     ],
     "name:slv_x_preferred":[
@@ -337,6 +339,9 @@
     ],
     "name:spa_x_preferred":[
         "Indian\u00e1polis"
+    ],
+    "name:sqi_x_preferred":[
+        "Indianapolis"
     ],
     "name:srd_x_preferred":[
         "Indian\u00e0polis"
@@ -362,11 +367,20 @@
     "name:tam_x_preferred":[
         "\u0b87\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0ba9\u0bbe\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b87\u0ba9\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bbe\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u043d\u0434\u0438\u0430\u043d\u0430\u043f\u043e\u043b\u0438\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e\u0c28\u0c3e\u0c2a\u0c4b\u0c32\u0c3f\u0c38\u0c4d"
     ],
     "name:tgl_x_preferred":[
         "Indiyanapolis"
+    ],
+    "name:tgl_x_variant":[
+        "Indianapolis"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e19\u0e40\u0e14\u0e35\u0e22\u0e41\u0e19\u0e42\u0e1e\u0e25\u0e34\u0e2a"
@@ -386,6 +400,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0646\u0688\u06cc\u0627\u0646\u0627\u067e\u0648\u0644\u0633\u060c \u0627\u0646\u0688\u06cc\u0627\u0646\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0646\u0688\u06cc\u0627\u0646\u0627\u067e\u0648\u0644\u0633"
+    ],
     "name:uzb_x_preferred":[
         "Indianapolis"
     ],
@@ -399,9 +416,6 @@
         "Indianapolis"
     ],
     "name:war_x_preferred":[
-        "Indianapolis"
-    ],
-    "name:wel_x_preferred":[
         "Indianapolis"
     ],
     "name:xmf_x_preferred":[
@@ -525,12 +539,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":218.0,
     "wd:latitude":39.767778,
@@ -553,12 +566,14 @@
         "gp:id":2427032,
         "loc:id":"n79055094",
         "nyt:id":"N50579464827525804891",
-        "qs:id":821837,
         "qs_pg:id":821837,
         "wd:id":"Q6346",
         "wk:page":"Indianapolis"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd2bd764bc34b17e50d5a9ef3e59487a",
     "wof:hierarchy":[
         {
@@ -571,7 +586,7 @@
         }
     ],
     "wof:id":85942569,
-    "wof:lastmodified":1606163480,
+    "wof:lastmodified":1582335608,
     "wof:name":"Indianapolis",
     "wof:parent_id":404502029,
     "wof:placetype":"locality",

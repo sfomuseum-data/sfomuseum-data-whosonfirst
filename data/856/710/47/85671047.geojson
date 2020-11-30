@@ -5,20 +5,36 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.20584,
-    "geom:area_square_m":34720525571.628983,
+    "geom:area_square_m":34720525326.562546,
     "geom:bbox":"27.41771,27.644231,31.335292,30.342287",
     "geom:latitude":28.842013,
     "geom:longitude":29.409065,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Al Jizah Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u064a\u0632\u0629"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Al Jizah Governorate"
     ],
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JZ"
+    ],
     "lbl:latitude":28.628515,
     "lbl:longitude":29.276935,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Giza",
     "mps:latitude":28.628515,
     "mps:longitude":29.276935,
@@ -29,11 +45,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0632\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u064a\u0632\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0632\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Gizako gobernaketa"
+    "name:azb_x_preferred":[
+        "\u062c\u06cc\u0632\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c-\u0413\u0456\u0437\u0430"
@@ -50,17 +69,20 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Gizeh"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u85a9\u7701"
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al J\u012bzah"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "G\u00edza"
     ],
     "name:dan_x_preferred":[
         "Al Jizah"
     ],
-    "name:dut_x_preferred":[
-        "Gizeh"
+    "name:deu_x_preferred":[
+        "al-Dschiza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0393\u03ba\u03af\u03b6\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Giza"
@@ -75,20 +97,23 @@
     "name:est_x_preferred":[
         "Giza kubernerkond"
     ],
+    "name:eus_x_preferred":[
+        "Gizako gobernaketa"
+    ],
+    "name:eus_x_variant":[
+        "Gizako gobernadore-herria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u06cc\u0632\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al-Gizan kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Gizeh"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d8\u10d6\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Dschiza"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0393\u03ba\u03af\u03b6\u03b1\u03c2"
+    "name:fra_x_variant":[
+        "Gizeh"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abf\u0a9d\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -98,6 +123,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u0940\u091c\u093c\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u0533\u056b\u0566\u0561"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al Jizah"
@@ -111,8 +139,14 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cc0\u0c9c\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10d6\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uae30\uc790 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uae30\uc790\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Al-Dschiza"
@@ -126,14 +160,14 @@
     "name:mar_x_preferred":[
         "\u0917\u093f\u091d\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Giza Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Gizeh"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Al Jizah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u06cc\u0632\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u063a\u0632\u0627"
@@ -144,7 +178,7 @@
     "name:por_x_preferred":[
         "Guiz\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Jizah"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +203,7 @@
         "Guvernementet Giza"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0b9a\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b95\u0bbf\u0b9a\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c40\u0c1c\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -180,6 +214,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e08\u0e34\u0e0b\u0e32\u0e2b\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e01\u0e35\u0e0b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Gize"
     ],
@@ -187,9 +224,6 @@
         "\u0413\u0456\u0437\u0430"
     ],
     "name:und_x_variant":[
-        "Giza"
-    ],
-    "name:unk_x_variant":[
         "Mohafazat El Giza"
     ],
     "name:urd_x_preferred":[
@@ -200,6 +234,9 @@
     ],
     "name:war_x_preferred":[
         "Giza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u85a9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -269,15 +306,15 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Governorate",
-    "sfomuseum:placetype":"region",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"85,105",
     "statoids:area_mi":"32,859",
     "statoids:as_of_date":"2006-11-11",
@@ -296,15 +333,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25295,
         "fips:code":"EG08",
         "gn:id":360997,
         "gp:id":2345230,
         "hasc:id":"EG.JZ",
         "iso:id":"EG-GZ",
-        "qs:id":1312303,
+        "qs_pg:id":1312303,
         "wd:id":"Q30832"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9ec1ce77cfb603eaea3ebcbe8ff99aa",
     "wof:hierarchy":[
         {
@@ -314,20 +356,16 @@
         }
     ],
     "wof:id":85671047,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1606163264,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Jizah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":6272571,
     "wof:population_rank":13,

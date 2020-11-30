@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.320069,
-    "geom:area_square_m":115971755888.015976,
+    "geom:area_square_m":115971755888.015656,
     "geom:bbox":"-84.820305,38.403423,-80.518454,42.327132",
     "geom:latitude":40.415487,
     "geom:longitude":-82.709378,
@@ -150,6 +150,9 @@
     "name:dan_x_preferred":[
         "Ohio"
     ],
+    "name:deu_ch_x_preferred":[
+        "Ohio"
+    ],
     "name:deu_x_preferred":[
         "Ohio"
     ],
@@ -160,6 +163,12 @@
         "\u039f\u03c7\u03ac\u03b9\u03bf"
     ],
     "name:eml_x_preferred":[
+        "Ohio"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Ohio"
+    ],
+    "name:eng_gb_x_preferred":[
         "Ohio"
     ],
     "name:eng_x_colloquial":[
@@ -219,6 +228,9 @@
     ],
     "name:glv_x_preferred":[
         "Ohio"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf49\ud800\udf37\ud800\udf30\ud800\udf3e\ud800\udf49"
     ],
     "name:grn_x_preferred":[
         "Ohio"
@@ -469,6 +481,9 @@
     "name:pol_x_preferred":[
         "Ohio"
     ],
+    "name:por_br_x_preferred":[
+        "Ohio"
+    ],
     "name:por_x_preferred":[
         "Ohio"
     ],
@@ -595,6 +610,9 @@
     "name:war_x_preferred":[
         "Ohio"
     ],
+    "name:wuu_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
     "name:xal_x_preferred":[
         "\u04e8\u0445\u04d9\u0439"
     ],
@@ -612,6 +630,24 @@
     ],
     "name:zea_x_preferred":[
         "Ohio"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4fc4\u4ea5\u4fc4\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u4fc4\u4ea5\u4fc4\u5dde"
@@ -682,10 +718,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -710,6 +745,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":36,
         "fips:code":"US39",
         "gn:id":5165418,
         "gp:id":2347594,
@@ -719,6 +755,9 @@
         "wd:id":"Q1397"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"9139a680a1380f8e709b1de7d58816db",
     "wof:hierarchy":[
         {
@@ -736,7 +775,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163075,
+    "wof:lastmodified":1587428449,
     "wof:name":"Ohio",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

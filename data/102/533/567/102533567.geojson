@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000459,
-    "geom:area_square_m":5070725.803604,
-    "geom:bbox":"-80.10966,26.677147,-80.074332,26.693958",
+    "geom:area_square_m":5070499.798596,
+    "geom:bbox":"-80.1096598281,26.677147387,-80.0743324134,26.6939575252",
     "geom:latitude":26.684441,
     "geom:longitude":-80.093424,
     "gn:elevation":5,
@@ -17,17 +17,15 @@
     "mps:longitude":-80.092553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0627\u0644\u0645 \u0628\u064a\u062a\u0634 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
     "name:bos_x_preferred":[
         "Me\u0111unarodni aerodrom Palm Beach"
     ],
-    "name:chi_x_preferred":[
-        "\u68d5\u6ada\u7058\uff08\u897f\uff09"
-    ],
-    "name:dut_x_preferred":[
-        "Palm Beach International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Palm Beach"
     ],
     "name:eng_x_preferred":[
         "Palm Beach International Airport"
@@ -36,14 +34,14 @@
         "PBI",
         "KPBI"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u0644\u0645 \u0628\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport international de Palm Beach"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Palm Beach"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Palm Beach"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Palm Beach"
@@ -51,8 +49,11 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30e0\u30d3\u30fc\u30c1\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u0644\u0645 \u0628\u06cc\u0686"
+    "name:nld_x_preferred":[
+        "Palm Beach International Airport"
+    ],
+    "name:nob_x_preferred":[
+        "Palm Beach internasjonale lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Palm Beach"
@@ -60,25 +61,29 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Palm Beach"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Palm Beach"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Palm Beach"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u043e\u043b\u043c \u0431\u0438\u0447"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0645 \u0628\u06cc\u0686 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Palm Beach"
     ],
+    "name:zho_x_preferred":[
+        "\u68d5\u6ada\u7058\uff08\u897f\uff09"
+    ],
     "oa:elevation_ft":"19",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":184,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Palm Beach International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2351,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -107,7 +112,7 @@
         "wk:page":"Palm_Beach_International_Airport"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ebe07acfbf96d83cc6ff506d144309b",
+    "wof:geomhash":"96eedb484e5b9b6473e87b54bffee354",
     "wof:hierarchy":[
         {
             "campus_id":102533567,
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":102533567,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566608569,
     "wof:name":"Palm Beach International Airport",
     "wof:parent_id":85811465,
     "wof:placetype":"campus",
@@ -132,10 +137,10 @@
     ]
 },
   "bbox": [
-    -80.10966,
-    26.677147,
-    -80.074332,
-    26.693958
+    -80.1096598280962,
+    26.67714738704449,
+    -80.07433241342694,
+    26.69395752522654
 ],
-  "geometry": {"coordinates":[[[[-80.078537,26.690608],[-80.078514,26.685927],[-80.074332,26.685306],[-80.074579,26.681152],[-80.07653999999999,26.678595],[-80.0857,26.677147],[-80.104322,26.677654],[-80.10966000000001,26.67847],[-80.109565,26.691493],[-80.10475099999999,26.693958],[-80.10056299999999,26.691205],[-80.091787,26.691233],[-80.078537,26.690608]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-80.07853654468028,26.69060840755714],[-80.07851423104572,26.68592675641103],[-80.07433241342694,26.68530619130121],[-80.07457891798926,26.68115195641112],[-80.07654037235771,26.67859486554471],[-80.08570019769527,26.67714738704449],[-80.10432157849024,26.67765440760379],[-80.1096598280962,26.67847029375528],[-80.10956459495726,26.69149296372244],[-80.10475067367022,26.69395752522654],[-80.1005628875146,26.69120463796636],[-80.09178667614395,26.69123273163333],[-80.07853654468028,26.69060840755714]]]],"type":"MultiPolygon"}
 }

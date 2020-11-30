@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003174,
-    "geom:area_square_m":32563261.634341,
+    "geom:area_square_m":32563261.634315,
     "geom:bbox":"-118.170424,33.902455,-118.090378,33.97299",
     "geom:latitude":33.937867,
     "geom:longitude":-118.13115,
@@ -16,18 +16,21 @@
     "iso:country":"US",
     "lbl:latitude":33.93656,
     "lbl:longitude":-118.13387,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":33.93656,
     "mps:longitude":-118.13387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u0646\u064a"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u06cc\u060c \u06a9\u0627\u0644\u06cc\u0641\u0648\u0631\u0646\u06cc\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Downey "
+    "name:azb_x_variant":[
+        "\u062f\u0648\u0646\u06cc"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u0989\u09a8\u09bf"
@@ -41,10 +44,10 @@
     "name:cat_x_preferred":[
         "Downey"
     ],
-    "name:chi_x_preferred":[
-        "\u5510\u5c3c"
+    "name:ceb_x_preferred":[
+        "Downey"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Downey"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +56,8 @@
     "name:deu_x_preferred":[
         "Downey"
     ],
-    "name:dut_x_preferred":[
-        "Downey"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03bf\u03c5\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Downey"
@@ -68,20 +71,17 @@
     "name:fas_x_preferred":[
         "\u062f\u0648\u0646\u06cc\u060c \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Downey"
     ],
     "name:fra_x_preferred":[
         "Downey"
     ],
-    "name:fre_x_preferred":[
+    "name:gle_x_preferred":[
         "Downey"
-    ],
-    "name:ger_x_preferred":[
-        "Downey"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03bf\u03c5\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac9\u0ab5\u0aa8\u0ac0"
@@ -125,13 +125,19 @@
     "name:lmo_x_preferred":[
         "Downey"
     ],
+    "name:ltz_x_preferred":[
+        "Downey"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d4c\u0d28\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u0921\u0949\u0935\u0928\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Downey"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Downey"
     ],
     "name:new_x_preferred":[
@@ -146,9 +152,6 @@
     "name:nor_x_preferred":[
         "Downey"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u06cc\u060c \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0688\u0627\u0624\u0646\u06cc"
     ],
@@ -159,9 +162,6 @@
         "Downey"
     ],
     "name:ron_x_preferred":[
-        "Downey"
-    ],
-    "name:rum_x_preferred":[
         "Downey"
     ],
     "name:rus_x_preferred":[
@@ -191,6 +191,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bcc\u0ba9\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u0443\u043d\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4c\u0c28\u0c40"
     ],
@@ -208,6 +211,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0688\u0627\u0648\u0646\u06cc\u060c \u06a9\u06cc\u0644\u06cc\u0641\u0648\u0631\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0688\u0627\u0648\u0646\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Downey"
@@ -238,12 +244,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":36.0,
     "wd:latitude":33.938056,
@@ -262,12 +267,14 @@
         "fips:code":"0619766",
         "gn:id":5343858,
         "gp:id":2393444,
-        "qs:id":158671,
         "qs_pg:id":158671,
         "wd:id":"Q488946",
         "wk:page":"Downey, California"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82edf91d4a96683adf1d9f441f480851",
     "wof:hierarchy":[
         {
@@ -282,7 +289,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163478,
+    "wof:lastmodified":1582336145,
     "wof:name":"Downey",
     "wof:parent_id":102086957,
     "wof:placetype":"locality",

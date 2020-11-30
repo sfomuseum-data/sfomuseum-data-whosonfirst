@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.067232,
-    "geom:area_square_m":135852498781.448654,
+    "geom:area_square_m":135852498781.446732,
     "geom:bbox":"-88.473227,30.144425,-84.888246,35.008028",
     "geom:latitude":32.75688,
     "geom:longitude":-86.844521,
@@ -161,6 +161,12 @@
     ],
     "name:eml_x_preferred":[
         "Alab\u00e0ma"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Alabama"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Alabama"
     ],
     "name:eng_x_colloquial":[
         "Heart of Dixie"
@@ -492,6 +498,9 @@
     "name:pol_x_preferred":[
         "Alabama"
     ],
+    "name:por_br_x_preferred":[
+        "Alabama"
+    ],
     "name:por_x_preferred":[
         "Alabama"
     ],
@@ -518,6 +527,9 @@
     ],
     "name:san_x_preferred":[
         "\u0905\u0932\u093e\u092c\u093e\u092e\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c5e\u1c5f\u1c75\u1c5f\u1c62\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Alabama"
@@ -642,8 +654,14 @@
     "name:zea_x_preferred":[
         "Alabama"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e9a\u62c9\u5df4\u9a6c\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Alabama"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62c9\u5df4\u99ac\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u4e9a\u62c9\u5df4\u9a6c\u5dde"
@@ -717,10 +735,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -745,6 +762,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":1,
         "fips:code":"US01",
         "gn:id":4829764,
         "gp:id":2347559,
@@ -754,6 +772,9 @@
         "wd:id":"Q173"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"a0132f298418a2bb13466fba211e87f9",
     "wof:hierarchy":[
         {
@@ -771,7 +792,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163164,
+    "wof:lastmodified":1587428435,
     "wof:name":"Alabama",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

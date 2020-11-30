@@ -16,17 +16,15 @@
     "mps:longitude":-90.367632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633 \u0627\u0644\u062f\u0648\u0644\u064a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5170\u4f2f\u7279\uff0d\u5723\u8def\u6613\u65af\u56fd\u9645\u673a\u573a"
     ],
     "name:deu_x_preferred":[
         "Lambert-Saint Louis International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Lambert\u2013St. Louis International Airport"
+    "name:deu_x_variant":[
+        "Flughafen St. Louis"
     ],
     "name:eng_x_preferred":[
         "Lambert St Louis International Airport"
@@ -45,11 +43,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport international de Lambert-Saint-Louis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Lambert-Saint-Louis"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen St. Louis"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05dc\u05de\u05d1\u05e8\u05d8-\u05e1\u05e0\u05d8 \u05dc\u05d5\u05d0\u05d9\u05e1"
@@ -60,17 +55,26 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30d0\u30fc\u30c8\u30fb\u30bb\u30f3\u30c8\u30eb\u30a4\u30b9\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "name:mar_x_preferred":[
+        "\u0932\u0901\u092c\u0930\u094d\u091f \u0938\u0947\u0902\u091f \u0932\u0941\u0908\u0938 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:nav_x_preferred":[
+        "B\u00e9\u00e9sh N\u00e1zhahdi t\u00f3 w\u00f3naan\u00edd\u0119\u0301\u0119\u0301\u02bc chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    ],
+    "name:nld_x_preferred":[
+        "Lambert\u2013St. Louis International Airport"
+    ],
     "name:nob_x_preferred":[
         "Lambert-St. Louis internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627\u0645\u0628\u0631\u062a-\u0633\u062a \u0644\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Saint Louis-Lambert"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Lambert\u2013St. Louis"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Lambert\u2013St. Louis"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0421\u0435\u043d\u0442-\u041b\u0443\u0438\u0441 \u041b\u0430\u043c\u0431\u0435\u0440\u0442"
@@ -84,8 +88,11 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043b\u043e\u043c\u0431\u0440\u0442-\u0441\u0438\u0442 \u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lambert Field"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0626\u0633 \u0644\u06cc\u0645\u0628\u0631\u0679 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Lambert-St. Louis"
@@ -93,16 +100,14 @@
     "name:zho_x_preferred":[
         "\u5170\u4f2f\u7279-\u5723\u8def\u6613\u65af\u56fd\u9645\u673a\u573a"
     ],
+    "name:zho_x_variant":[
+        "\u5170\u4f2f\u7279\uff0d\u5723\u8def\u6613\u65af\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"618",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":136,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Lambert St. Louis International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589066,
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":102525961,
-    "wof:lastmodified":1606163489,
+    "wof:lastmodified":1566610052,
     "wof:name":"Lambert St Louis International Airport",
     "wof:parent_id":85832777,
     "wof:placetype":"campus",

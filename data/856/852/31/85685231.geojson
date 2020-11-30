@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138781,
-    "geom:area_square_m":1196260909.675212,
+    "geom:area_square_m":1196260739.896889,
     "geom:bbox":"8.552317,45.5583,9.066096,46.122136",
     "geom:latitude":45.804869,
     "geom:longitude":8.77605,
@@ -19,31 +19,44 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Var\u00e8se"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:ita_x_preferred_longname":[
+        "Provincia di Varese"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":45.830536,
     "lbl:longitude":8.750857,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.830536,
     "mps:longitude":8.750857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Provinca e Varezes"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0627\u0631\u064a\u0632\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0580\u0565\u0566\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Vareseko probintzia"
+    "name:aze_x_preferred":[
+        "Vareze \u0259yal\u0259ti"
     ],
     "name:bar_x_preferred":[
         "Provinz Varese"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0412\u0430\u0440\u044d\u0437\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0412\u0430\u0440\u044d\u0437\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b0\u09c7\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -57,20 +70,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Varese"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u96f7\u6fa4\u7701"
+    "name:ces_x_preferred":[
+        "Provincie Varese"
     ],
     "name:cos_x_preferred":[
         "Pruvincia di Varese"
     ],
-    "name:cze_x_preferred":[
-        "Provincie Varese"
-    ],
     "name:dan_x_preferred":[
         "Varese"
     ],
-    "name:dut_x_preferred":[
-        "Varese"
+    "name:dan_x_variant":[
+        "Provinsen Varese"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Varese"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u0392\u03b1\u03c1\u03ad\u03b6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Varese"
@@ -81,26 +97,26 @@
     "name:est_x_preferred":[
         "Varese provints"
     ],
+    "name:eus_x_preferred":[
+        "Vareseko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0632\u0647"
+    ],
     "name:fin_x_preferred":[
         "Varesen maakunta"
     ],
     "name:fra_x_preferred":[
         "Var\u00e8se"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Province de Var\u00e8se"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10e0\u10d4\u10d6\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Varese"
     ],
     "name:glg_x_preferred":[
         "Provincia de Varese"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u0392\u03b1\u03c1\u03ad\u03b6\u03b5"
+    "name:gsw_x_preferred":[
+        "Provinz Varese"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ab0\u0ac7\u0ab8\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -114,8 +130,14 @@
     "name:hin_x_preferred":[
         "\u0935\u0930\u094d\u0938\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "okrug Vareze"
+    ],
     "name:hun_x_preferred":[
         "Varese megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0565\u0566\u0565"
     ],
     "name:ina_x_preferred":[
         "provincia Varese"
@@ -139,8 +161,14 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cb0\u0cc7\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d4\u10d6\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\ub808\uc138 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ub808\uc138\ud604"
     ],
     "name:lad_x_preferred":[
         "Provinsia de Varese"
@@ -160,7 +188,7 @@
     "name:mar_x_preferred":[
         "\u0935\u093e\u0930\u0947\u0938\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Varese"
     ],
     "name:nan_x_preferred":[
@@ -169,17 +197,23 @@
     "name:nap_x_preferred":[
         "Pruvincia 'e Varese"
     ],
+    "name:nld_x_preferred":[
+        "Varese"
+    ],
+    "name:nld_x_variant":[
+        "provincie Varese"
+    ],
     "name:nno_x_preferred":[
         "Provinsen Varese"
     ],
     "name:nob_x_preferred":[
         "Provinsen Varese"
     ],
+    "name:nob_x_variant":[
+        "Varese"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Varese"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0632\u0647"
     ],
     "name:pms_x_preferred":[
         "Provincia \u00ebd Var\u00e8is"
@@ -190,10 +224,13 @@
     "name:pol_x_preferred":[
         "Prowincja Varese"
     ],
+    "name:pol_x_variant":[
+        "prowincja Varese"
+    ],
     "name:por_x_preferred":[
         "Varese"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Varese"
     ],
     "name:rus_x_preferred":[
@@ -208,20 +245,35 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dbb\u0dd9\u0dc3\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Varese"
+    ],
+    "name:slk_x_variant":[
+        "provincia Varese"
     ],
     "name:slv_x_preferred":[
         "Varese"
     ],
+    "name:slv_x_variant":[
+        "pokrajina Varese"
+    ],
     "name:spa_x_preferred":[
         "Varese"
+    ],
+    "name:sqi_x_preferred":[
+        "Provinca e Varezes"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0440\u0435\u0437\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043a\u0440\u0443\u0433 \u0412\u0430\u0440\u0435\u0437\u0435"
+    ],
     "name:swe_x_preferred":[
         "Varese"
+    ],
+    "name:swe_x_variant":[
+        "Provinsen Varese"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0bb0\u0bc7\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
@@ -241,9 +293,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0412\u0430\u0440\u0435\u0437\u0435"
     ],
-    "name:unk_x_variant":[
-        "Provincia di Varese"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0648\u0627\u0631\u06cc\u0632\u06d2"
     ],
@@ -258,6 +307,9 @@
     ],
     "name:war_x_preferred":[
         "Varese"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u96f7\u6fa4\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ITA",
@@ -326,12 +378,11 @@
     "qs:adm0_a3":"ITA",
     "qs:level":"adm1",
     "qs:source":"Italy IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2017",
     "statoids:area_km":"1199",
     "statoids:as_of_date":"2011-10-09",
     "statoids:capital":"Varese",
@@ -350,10 +401,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":10935,
         "fips:code":"IT09",
         "gn:id":3164697,
         "gp:id":12591884,
         "hasc:id":"IT.LM.VA",
+        "iso:id":"IT-VA",
         "unlc:id":"IT-VA",
         "wd:id":"Q16299"
     },
@@ -375,12 +428,12 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1606163257,
+    "wof:lastmodified":1585681627,
     "wof:name":"Varese",
     "wof:parent_id":404227497,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":871886,
+    "wof:population":883285,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:shortcode":"VA",

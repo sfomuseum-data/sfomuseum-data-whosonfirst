@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.151055,
-    "geom:area_square_m":373263526066.325562,
+    "geom:area_square_m":373263526066.430298,
     "geom:bbox":"122.934586,20.42289,153.987061,45.522888",
     "geom:latitude":37.529345,
     "geom:longitude":137.94476,
@@ -73,6 +73,9 @@
     "name:ary_x_preferred":[
         "\u0627\u0644\u062c\u0627\u067e\u0648\u0646"
     ],
+    "name:ary_x_variant":[
+        "\u0686\u0627\u067e\u0648\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u064a\u0627\u0628\u0627\u0646"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:ast_x_preferred":[
         "Xap\u00f3n"
+    ],
+    "name:atj_x_preferred":[
+        "Japan"
     ],
     "name:ava_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
@@ -102,6 +108,9 @@
     ],
     "name:bam_x_variant":[
         "Japan"
+    ],
+    "name:ban_x_preferred":[
+        "Jepang"
     ],
     "name:bar_x_preferred":[
         "Japan"
@@ -212,6 +221,9 @@
     "name:cos_x_preferred":[
         "Giapponu"
     ],
+    "name:cre_x_preferred":[
+        "\u152d\u140a\u1438\u140a\u1423"
+    ],
     "name:crh_x_preferred":[
         "Yaponiya"
     ],
@@ -225,6 +237,12 @@
         "Siapan"
     ],
     "name:dan_x_preferred":[
+        "Japan"
+    ],
+    "name:deu_at_x_preferred":[
+        "Japan"
+    ],
+    "name:deu_ch_x_preferred":[
         "Japan"
     ],
     "name:deu_x_preferred":[
@@ -256,6 +274,12 @@
     ],
     "name:eml_x_preferred":[
         "Giap\u00f2\u1e45"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Japan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Japan"
     ],
     "name:eng_x_preferred":[
         "Japan"
@@ -334,6 +358,9 @@
     ],
     "name:gan_x_preferred":[
         "\u65e5\u672c"
+    ],
+    "name:gcr_x_preferred":[
+        "Japon"
     ],
     "name:gla_x_preferred":[
         "An Iapan"
@@ -493,6 +520,9 @@
     "name:kas_x_preferred":[
         "\u091c\u093e\u092a\u093e\u0928"
     ],
+    "name:kas_x_variant":[
+        "\u062c\u0627\u067e\u0648\u0646"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d0"
     ],
@@ -504,6 +534,9 @@
     ],
     "name:kbp_x_preferred":[
         "Jap\u0254\u014b"
+    ],
+    "name:kea_x_preferred":[
+        "Japon"
     ],
     "name:khm_x_preferred":[
         "\u1787\u1794\u17c9\u17bb\u1793"
@@ -565,6 +598,9 @@
     ],
     "name:lbe_x_preferred":[
         "Japan"
+    ],
+    "name:lbe_x_variant":[
+        "\u042f\u043f\u043e\u043d\u0438\u044f"
     ],
     "name:lez_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0438\u044f"
@@ -647,6 +683,9 @@
     "name:mlt_x_preferred":[
         "\u0120appun"
     ],
+    "name:mnw_x_preferred":[
+        "\u1002\u103b\u1015\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:mon_x_preferred":[
         "\u042f\u043f\u043e\u043d"
     ],
@@ -728,6 +767,9 @@
     "name:nov_x_preferred":[
         "Japan"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d7\u07ed\u07ca\u07d4\u07d0\u07f2\u07eb"
+    ],
     "name:nrm_x_preferred":[
         "Japon"
     ],
@@ -799,6 +841,9 @@
     ],
     "name:pol_x_preferred":[
         "Japonia"
+    ],
+    "name:por_br_x_preferred":[
+        "Jap\u00e3o"
     ],
     "name:por_x_preferred":[
         "Jap\u00e3o"
@@ -914,6 +959,12 @@
     "name:srn_x_preferred":[
         "Japan"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0408\u0430\u043f\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Japan"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043f\u0430\u043d"
     ],
@@ -937,6 +988,9 @@
     ],
     "name:szl_x_preferred":[
         "Jap\u016f\u0144ijo"
+    ],
+    "name:szy_x_preferred":[
+        "Zipun"
     ],
     "name:tah_x_preferred":[
         "T\u0101p\u014dn\u0113"
@@ -1048,6 +1102,9 @@
     ],
     "name:war_x_preferred":[
         "Hapon"
+    ],
+    "name:wln_x_preferred":[
+        "Djapon"
     ],
     "name:wol_x_preferred":[
         "Sapo\u014b"
@@ -1176,8 +1233,6 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -1212,6 +1267,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Japan",
+        "digitalenvoy:country_code":392,
         "fb:id":"en.japan",
         "fifa:id":"JPN",
         "fips:code":"JA",
@@ -1235,6 +1291,11 @@
     },
     "wof:country":"JP",
     "wof:country_alpha3":"JPN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"b03b2b60e1cc7a3e70f667247c31222a",
     "wof:hierarchy":[
         {
@@ -1249,7 +1310,7 @@
     "wof:lang_x_spoken":[
         "jpn"
     ],
-    "wof:lastmodified":1606163128,
+    "wof:lastmodified":1587427995,
     "wof:name":"Japan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

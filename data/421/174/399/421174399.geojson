@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026148,
-    "geom:area_square_m":279779314.00217,
+    "geom:area_square_m":279779314.002138,
     "geom:bbox":"31.214834,29.946828,31.465639,30.192982",
     "geom:latitude":30.079694,
     "geom:longitude":31.323437,
     "iso:country":"EG",
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -27,9 +29,6 @@
     "name:aka_x_preferred":[
         "Cairo"
     ],
-    "name:alb_x_preferred":[
-        "Kajro"
-    ],
     "name:als_x_preferred":[
         "Kairo"
     ],
@@ -41,9 +40,6 @@
     ],
     "name:arg_x_preferred":[
         "O Caire"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0570\u056b\u0580\u0565"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0647\u0631\u0647"
@@ -62,9 +58,6 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u04d9\u04bb\u0438\u0440"
-    ],
-    "name:baq_x_preferred":[
-        "Kairo"
     ],
     "name:bcl_x_preferred":[
         "Cairo"
@@ -90,14 +83,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u0440\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
     "name:cat_x_preferred":[
         "El Caire"
+    ],
+    "name:cat_x_variant":[
+        "el Caire"
     ],
     "name:cdo_x_preferred":[
         "Cairo"
@@ -105,14 +98,14 @@
     "name:ceb_x_preferred":[
         "Caire"
     ],
+    "name:ceb_x_variant":[
+        "Cairo"
+    ],
     "name:ces_x_preferred":[
         "K\u00e1hira"
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0430\u0445\u04c0\u0438\u0440\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u958b\u7f85"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u0438\u0440"
@@ -123,13 +116,19 @@
     "name:cor_x_preferred":[
         "Cairo"
     ],
+    "name:crh_x_preferred":[
+        "Qaire"
+    ],
     "name:csb_x_preferred":[
         "Kairo"
     ],
-    "name:cze_x_preferred":[
-        "K\u00e1hira"
+    "name:cym_x_preferred":[
+        "Cairo"
     ],
     "name:dan_x_preferred":[
+        "Kairo"
+    ],
+    "name:deu_ch_x_preferred":[
         "Kairo"
     ],
     "name:deu_x_preferred":[
@@ -144,11 +143,14 @@
     "name:dty_x_preferred":[
         "\u0915\u093e\u0907\u0930\u094b"
     ],
-    "name:dut_x_preferred":[
-        "Ca\u00efro"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03b9\u03c1\u03bf"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Cairo"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Cairo"
     ],
     "name:eng_x_preferred":[
         "Cairo"
@@ -177,9 +179,6 @@
     "name:fra_x_preferred":[
         "Le Caire"
     ],
-    "name:fre_x_preferred":[
-        "Le Caire"
-    ],
     "name:frp_x_preferred":[
         "Lo Cayiro"
     ],
@@ -189,11 +188,8 @@
     "name:fry_x_preferred":[
         "Kairo"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Kairo"
+    "name:gcr_x_preferred":[
+        "K\u00e8ro"
     ],
     "name:gla_x_preferred":[
         "Cairo"
@@ -204,11 +200,11 @@
     "name:glg_x_preferred":[
         "Cairo - \u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
+    "name:glg_x_variant":[
+        "O Cairo"
+    ],
     "name:glv_x_preferred":[
         "Cairo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b9\u03c1\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Kairo"
@@ -246,8 +242,11 @@
     "name:hun_x_preferred":[
         "Kair\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "Ka\u00edr\u00f3"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0570\u056b\u0580\u0565"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0533\u0561\u0570\u056b\u0580\u0567"
     ],
     "name:ido_x_preferred":[
         "Kairo"
@@ -263,6 +262,9 @@
     ],
     "name:ind_x_preferred":[
         "Kairo"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0430\u0438\u0440"
     ],
     "name:isl_x_preferred":[
         "Ka\u00edr\u00f3"
@@ -290,6 +292,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10d8\u10e0\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10d8\u10e0\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u043b-\u049a\u0430\u04bb\u0438\u0440\u0430"
@@ -327,6 +332,9 @@
     "name:lez_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
+    "name:lfn_x_preferred":[
+        "Qahira"
+    ],
     "name:lij_x_preferred":[
         "O Cairo"
     ],
@@ -348,9 +356,6 @@
     "name:ltz_x_preferred":[
         "Kairo"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0438\u0440\u043e"
-    ],
     "name:mai_x_preferred":[
         "\u0915\u093e\u0907\u0930\u094b"
     ],
@@ -359,9 +364,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u0948\u0930\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Kaherah"
     ],
     "name:mdf_x_preferred":[
         "\u041a\u0430\u0438\u0440"
@@ -381,6 +383,9 @@
     "name:mon_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
+    "name:mri_x_preferred":[
+        "Kairo"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
@@ -389,6 +394,12 @@
     ],
     "name:mwl_x_preferred":[
         "Cairo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0430\u0438\u0440 \u043e\u0448"
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0627\u0647\u0631\u0647"
@@ -404,6 +415,9 @@
     ],
     "name:nau_x_preferred":[
         "Cairo"
+    ],
+    "name:nds_x_preferred":[
+        "Kairo"
     ],
     "name:nep_x_preferred":[
         "\u0915\u093e\u092f\u0930\u094b"
@@ -447,9 +461,6 @@
     "name:pap_x_preferred":[
         "Kairo"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0647\u0631\u0647"
-    ],
     "name:pih_x_preferred":[
         "Cairo"
     ],
@@ -467,6 +478,9 @@
     ],
     "name:pol_x_preferred":[
         "Kair"
+    ],
+    "name:por_br_x_preferred":[
+        "Cairo"
     ],
     "name:por_x_preferred":[
         "Cairo"
@@ -486,9 +500,6 @@
     "name:rue_x_preferred":[
         "\u041a\u0430\u0433\u0456\u0440\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Cairo"
-    ],
     "name:rup_x_preferred":[
         "Cairo"
     ],
@@ -497,6 +508,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041a\u0430\u0438\u0440"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5f\u1c6d\u1c68\u1c5a"
     ],
     "name:scn_x_preferred":[
         "Cairu"
@@ -513,9 +527,6 @@
     "name:slk_x_preferred":[
         "K\u00e1hira"
     ],
-    "name:slo_x_preferred":[
-        "K\u00e1hira"
-    ],
     "name:slv_x_preferred":[
         "Kairo"
     ],
@@ -525,6 +536,9 @@
     "name:sna_x_preferred":[
         "Cairo"
     ],
+    "name:snd_x_preferred":[
+        "\u0642\u0627\u06be\u0631\u06c1"
+    ],
     "name:som_x_preferred":[
         "Qaahiro"
     ],
@@ -533,6 +547,9 @@
     ],
     "name:spa_x_variant":[
         "Cairo"
+    ],
+    "name:sqi_x_preferred":[
+        "Kajro"
     ],
     "name:srd_x_preferred":[
         "Cairo"
@@ -555,6 +572,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0b95\u0bbf\u0bb1\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u04bb\u0438\u0440\u04d9"
     ],
@@ -572,9 +592,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e04\u0e42\u0e23"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f0b\u0f61\u0f72\u0f0b\u0f62\u0f7c"
     ],
     "name:tpi_x_preferred":[
         "Kairo"
@@ -601,7 +618,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0457\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Q\u0101hirah"
     ],
     "name:urd_x_preferred":[
@@ -631,9 +648,6 @@
     "name:war_x_preferred":[
         "Cairo"
     ],
-    "name:wel_x_preferred":[
-        "Cairo"
-    ],
     "name:wln_x_preferred":[
         "El Caire"
     ],
@@ -660,6 +674,9 @@
     ],
     "name:zea_x_preferred":[
         "Ca\u00efro"
+    ],
+    "name:zho_x_preferred":[
+        "\u958b\u7f85"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Egypt",
@@ -771,7 +788,6 @@
     "qs:qs_id":809700,
     "qs:woe_adm0":23424802,
     "qs:woe_id":1521894,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -781,8 +797,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85670999,
-        1092016929
+        1092016929,
+        85670999
     ],
     "wof:breaches":[],
     "wof:capital_of":85632581,
@@ -790,12 +806,15 @@
         "gn:id":360630,
         "gp:id":1521894,
         "loc:id":"n79055723",
-        "qs:id":809700,
+        "qs_pg:id":809700,
         "wd:id":"Q85",
         "wk:page":"Cairo"
     },
     "wof:country":"EG",
     "wof:created":1459009031,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85613af109c0729bc70c0fe82a7c47f8",
     "wof:hierarchy":[
         {
@@ -807,7 +826,7 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1587428985,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,
     "wof:placetype":"locality",

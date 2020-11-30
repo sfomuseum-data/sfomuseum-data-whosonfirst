@@ -14,10 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424781,
@@ -32,8 +29,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12512069,
-        "iata:code":"HRB"
+        "gp:id":12512069
     },
     "wof:country":"",
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
@@ -45,7 +41,7 @@
         }
     ],
     "wof:id":102550939,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1589218838,
     "wof:name":"Harbin Yangjiagang Airport",
     "wof:parent_id":85669849,
     "wof:placetype":"campus",

@@ -8,26 +8,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432105,
-    "geom:area_square_m":3995843768.130662,
+    "geom:area_square_m":3995843768.13122,
     "geom:bbox":"-71.907258,41.095834,-71.088571,42.0188",
     "geom:latitude":41.594629,
     "geom:longitude":-71.524742,
     "iso:country":"US",
     "iso:subdivision":"US-RI",
-    "label:eng_us_x_preferred_longname":[
-        "Rhode Island"
-    ],
     "label:eng_x_preferred_longname":[
-        "Rhode Island State"
+        "Rhode Island"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Rhode Island"
+        "State of Rhode Island",
+        "Rhode Island State"
     ],
     "lbl:latitude":41.587536,
     "lbl:longitude":-71.514739,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.587536,
     "mps:longitude":-71.514739,
     "mz:hierarchy_label":1,
@@ -37,14 +39,14 @@
     "name:afr_x_preferred":[
         "Rhode Island"
     ],
-    "name:alb_x_preferred":[
-        "Rhode Island"
-    ],
     "name:amh_x_preferred":[
         "\u122e\u12f5 \u12a0\u12ed\u120b\u1295\u12f5"
     ],
     "name:ang_x_preferred":[
         "Rhode \u012aeg"
+    ],
+    "name:ang_x_variant":[
+        "Rhode \u012ae\u021d"
     ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f \u0622\u064a\u0644\u0627\u0646\u062f"
@@ -54,9 +56,6 @@
     ],
     "name:arg_x_preferred":[
         "Rhode Island"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0564 \u0531\u0575\u056c\u0565\u0576\u0564"
     ],
     "name:arz_x_preferred":[
         "\u0631\u0648\u062f \u0627\u064a\u0644\u0627\u0646\u062f"
@@ -78,9 +77,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Rhode Island"
     ],
     "name:bar_x_preferred":[
         "Rhode Island"
@@ -113,9 +109,6 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0434 \u0410\u0439\u043b\u044a\u043d\u0434"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u102f\u1012\u103a\u1021\u102d\u102f\u1004\u103a\u1038\u101c\u1014\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
     ],
@@ -125,20 +118,23 @@
     "name:cdo_x_preferred":[
         "Rhode Island"
     ],
+    "name:ceb_x_preferred":[
+        "Rhode Island"
+    ],
     "name:ces_x_preferred":[
         "Rhode Island"
     ],
     "name:che_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u5fb7\u5cf6\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0420\u043e\u0434 \u0410\u0439\u043b\u0435\u043d\u0434"
     ],
     "name:ckb_x_preferred":[
         "\u0695\u06c6\u062f \u0626\u0627\u06cc\u0644\u06d5\u0646\u062f"
+    ],
+    "name:ckb_x_variant":[
+        "\u0631\u06be\u06c6\u062f \u0626\u06cc\u0633\u0644\u06d5\u0646\u062f"
     ],
     "name:cor_x_preferred":[
         "Ynys Rhode"
@@ -149,10 +145,10 @@
     "name:cym_x_preferred":[
         "Rhode Island"
     ],
-    "name:cze_x_preferred":[
+    "name:dan_x_preferred":[
         "Rhode Island"
     ],
-    "name:dan_x_preferred":[
+    "name:deu_ch_x_preferred":[
         "Rhode Island"
     ],
     "name:deu_x_preferred":[
@@ -161,11 +157,17 @@
     "name:diq_x_preferred":[
         "Rhode Island"
     ],
-    "name:dut_x_preferred":[
-        "Rhode Island"
-    ],
     "name:ell_x_preferred":[
         "\u03a1\u03cc\u03bf\u03c5\u03bd\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:eml_x_preferred":[
+        "Rhode Island"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Rhode Island"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Rhode Island"
     ],
     "name:eng_x_colloquial":[
         "Little Rhody"
@@ -198,9 +200,6 @@
     "name:fra_x_preferred":[
         "Rhode Island"
     ],
-    "name:fre_x_preferred":[
-        "Rhode Island"
-    ],
     "name:frr_x_preferred":[
         "Rhode Island"
     ],
@@ -208,12 +207,6 @@
         "Rhode Island"
     ],
     "name:gag_x_preferred":[
-        "Rhode Island"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d3-\u10d0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Rhode Island"
     ],
     "name:gla_x_preferred":[
@@ -228,8 +221,8 @@
     "name:glv_x_preferred":[
         "Ellan Rhode"
     ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03cc\u03bf\u03c5\u03bd\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    "name:got_x_preferred":[
+        "\ud800\udf42\ud800\udf37\ud800\udf49\ud800\udf33 \ud800\udf30\ud800\udf3e\ud800\udf3b\ud800\udf30\ud800\udf39\ud800\udf3d\ud800\udf33"
     ],
     "name:grn_x_preferred":[
         "Rhode Island"
@@ -240,8 +233,14 @@
     "name:hak_x_preferred":[
         "L\u00f2-tet-t\u00f3"
     ],
+    "name:hak_x_variant":[
+        "Rhode Island"
+    ],
     "name:hat_x_preferred":[
         "Rod Aylann"
+    ],
+    "name:hau_x_preferred":[
+        "Rhode Island"
     ],
     "name:haw_x_preferred":[
         "Loke \u2018Ailana"
@@ -258,6 +257,9 @@
     "name:hin_x_preferred":[
         "\u0930\u094b\u0921 \u0906\u0907\u0932\u0948\u0923\u094d\u0921"
     ],
+    "name:hin_x_variant":[
+        "\u0930\u094b\u0921 \u0906\u0907\u0932\u0948\u0902\u0921"
+    ],
     "name:hrv_x_preferred":[
         "Rhode Island"
     ],
@@ -269,9 +271,6 @@
     ],
     "name:ibo_x_preferred":[
         "\u00c0l\u00e1 mm\u00edr\u00ed Rhode"
-    ],
-    "name:ice_x_preferred":[
-        "Rhode Island"
     ],
     "name:ido_x_preferred":[
         "Rhode Island"
@@ -315,8 +314,14 @@
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
     ],
+    "name:kbp_x_preferred":[
+        "Rood Ayilandi"
+    ],
     "name:kor_x_preferred":[
         "\ub85c\ub4dc\uc544\uc77c\ub79c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\ub4dc\uc544\uc77c\ub79c\ub4dc\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Rhode Island"
@@ -329,6 +334,9 @@
     ],
     "name:lav_x_preferred":[
         "Rodailenda"
+    ],
+    "name:lfn_x_preferred":[
+        "Rhode Island"
     ],
     "name:lij_x_preferred":[
         "Isoa de Rhode"
@@ -345,26 +353,23 @@
     "name:lrc_x_preferred":[
         "\u0631\u0648\u062f\u0622\u06cc\u0644\u0623\u0646\u062f"
     ],
+    "name:lrc_x_variant":[
+        "\u0631\u0648\u062f\u0622\u06cc\u0644\u0646\u062f"
+    ],
     "name:ltz_x_preferred":[
         "Rhode Island"
     ],
     "name:lzh_x_preferred":[
         "\u7f85\u5fb7\u5cf6\u5dde"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u043e\u0434 \u0410\u0458\u043b\u0435\u043d\u0434"
+    "name:mai_x_preferred":[
+        "\u0930\u094b\u0921 \u0906\u0907\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
     "name:mal_x_preferred":[
         "\u0d31\u0d4b\u0d21\u0d4d \u0d10\u0d32\u0d7b\u0d21\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Rhode Island"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u094d\u200d\u0939\u094b\u0921 \u0906\u092f\u0932\u0902\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Rhode Island"
     ],
     "name:mhr_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
@@ -417,6 +422,12 @@
     "name:nep_x_preferred":[
         "\u0930\u094b\u0921 \u0906\u0907\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
+    "name:nep_x_variant":[
+        "\u0930\u094b\u0921 \u0906\u0907\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u094b\u0921 \u091f\u093e\u092a\u0942"
+    ],
     "name:nld_x_preferred":[
         "Rhode Island"
     ],
@@ -441,9 +452,6 @@
     "name:pan_x_preferred":[
         "\u0a30\u0a4b\u0a21 \u0a1f\u0a3e\u0a2a\u0a42"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u062f \u0622\u06cc\u0644\u0646\u062f"
-    ],
     "name:pli_x_preferred":[
         "\u0930\u094b\u0921 \u091f\u093e\u092a\u0942"
     ],
@@ -456,11 +464,17 @@
     "name:pol_x_preferred":[
         "Rhode Island"
     ],
+    "name:por_br_x_preferred":[
+        "Rhode Island"
+    ],
     "name:por_x_preferred":[
         "Rhode Island"
     ],
     "name:por_x_variant":[
         "Ilha de Rodes"
+    ],
+    "name:pus_x_preferred":[
+        "\u0631\u0648\u0689 \u0627\u06cc\u0633\u0644\u0646\u0689"
     ],
     "name:que_x_preferred":[
         "Rhode Island suyu"
@@ -469,9 +483,6 @@
         "Rhode Island"
     ],
     "name:ron_x_preferred":[
-        "Rhode Island"
-    ],
-    "name:rum_x_preferred":[
         "Rhode Island"
     ],
     "name:rus_x_preferred":[
@@ -496,9 +507,6 @@
         "\u0dbb\u0ddd\u0db0\u0dda \u0daf\u0dd6\u0db4\u0dad"
     ],
     "name:slk_x_preferred":[
-        "Rhode Island"
-    ],
-    "name:slo_x_preferred":[
         "Rhode Island"
     ],
     "name:slv_x_preferred":[
@@ -540,6 +548,9 @@
     "name:tel_x_preferred":[
         "\u0c30\u0c4b\u0c21\u0c4d \u0c10\u0c32\u0c02\u0c21\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
     "name:tgl_x_preferred":[
         "Rhode Island"
     ],
@@ -555,11 +566,14 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roodt Eylandt"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u06c1\u0648\u0688 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:uzb_x_preferred":[
         "Rod-Aylend"
@@ -574,9 +588,6 @@
         "Rhode Island"
     ],
     "name:war_x_preferred":[
-        "Rhode Island"
-    ],
-    "name:wel_x_preferred":[
         "Rhode Island"
     ],
     "name:wuu_x_preferred":[
@@ -597,8 +608,20 @@
     "name:yue_x_preferred":[
         "\u7f85\u5fb7\u5cf6\u5dde"
     ],
+    "name:zea_x_preferred":[
+        "Rhode Island"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u5f97\u5c9b\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7f85\u5fb7\u5cf6\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Rhode Island"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u5fb7\u5cf6\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u5fb7\u5cf6\u5dde"
@@ -672,14 +695,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"3,139",
     "statoids:area_mi":"1,212",
     "statoids:as_of_date":"2010-04-01",
@@ -700,6 +722,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":40,
         "fips:code":"US44",
         "gn:id":5224323,
         "gp:id":2347598,
@@ -709,6 +732,9 @@
         "wd:id":"Q1387"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"6eff68d051e2f712145bfa7b58aa3fcb",
     "wof:hierarchy":[
         {
@@ -726,11 +752,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163118,
+    "wof:lastmodified":1587428460,
     "wof:name":"Rhode Island",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1052567,
     "wof:population_rank":12,

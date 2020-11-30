@@ -5,46 +5,40 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1438743.777871,
-    "geom:bbox":"2.881419,39.48416,2.90015,39.497118",
+    "geom:area_square_m":1438741.956605,
+    "geom:bbox":"2.88141884242,39.4841599122,2.90014977736,39.4971177496",
     "geom:latitude":39.490181,
     "geom:longitude":2.890562,
     "gn:population":36078,
     "iso:country":"ES",
     "lbl:latitude":39.490416,
     "lbl:longitude":2.889804,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.490416,
     "mps:longitude":2.889804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Llucmajor"
-    ],
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u062a\u0634\u0645\u0627\u064a\u0648\u0631"
     ],
     "name:arg_x_preferred":[
         "Llucmajor"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0578\u0582\u056f\u0574\u0561\u0575\u0578\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Llucmajor"
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u06a9\u0645\u0627\u062e\u0631"
     ],
     "name:cat_x_preferred":[
         "Llucmajor"
     ],
-    "name:chi_x_preferred":[
-        "\u67f3\u514b\u9a6c\u970d\u5c14"
+    "name:ceb_x_preferred":[
+        "Llucmajor"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Llucmajor"
     ],
     "name:deu_x_preferred":[
-        "Llucmajor"
-    ],
-    "name:dut_x_preferred":[
         "Llucmajor"
     ],
     "name:eng_x_preferred":[
@@ -53,10 +47,13 @@
     "name:epo_x_preferred":[
         "Llucmajor"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Llucmajor"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u06a9\u0645\u0627\u062e\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Llucmajor"
     ],
     "name:glg_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:hun_x_preferred":[
         "Llucmajor"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0582\u056f\u0574\u0561\u0575\u0578\u0580"
     ],
     "name:ita_x_preferred":[
         "Llucmajor"
@@ -74,7 +74,10 @@
     "name:lit_x_preferred":[
         "Ljusmachoras"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
+        "Llucmajor"
+    ],
+    "name:msa_x_preferred":[
         "Llucmajor"
     ],
     "name:nld_x_preferred":[
@@ -85,9 +88,6 @@
     ],
     "name:pam_x_preferred":[
         "Llucmajor"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u06a9\u0645\u0627\u062e\u0631"
     ],
     "name:pol_x_preferred":[
         "Llucmajor"
@@ -100,6 +100,15 @@
     ],
     "name:spa_x_preferred":[
         "Llucmajor"
+    ],
+    "name:sqi_x_preferred":[
+        "Llucmajor"
+    ],
+    "name:srd_x_preferred":[
+        "Llucmajor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u043a\u043c\u0430\u0458\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Llucmajor"
@@ -116,6 +125,9 @@
     "name:war_x_preferred":[
         "Llucmajor"
     ],
+    "name:zho_x_preferred":[
+        "\u67f3\u514b\u9a6c\u970d\u5c14"
+    ],
     "qs:a0":"Espa\u00f1a",
     "qs:a1":"*Illes balears",
     "qs:a1r":"0Illes Balears",
@@ -128,12 +140,11 @@
     "qs:pop":0,
     "qs:source":"PCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":438,
     "wof:belongsto":[
@@ -147,12 +158,17 @@
     "wof:concordances":{
         "gn:id":2514984,
         "gp:id":765398,
-        "qs:id":1079850,
         "qs_pg:id":1036242,
         "wd:id":"Q927498"
     },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079850
+    },
     "wof:country":"ES",
-    "wof:geomhash":"01ded428943530ee5141ce92132e0421",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"fb669a48386f8fc93afcae70dfe7f083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +180,7 @@
         }
     ],
     "wof:id":101777747,
-    "wof:lastmodified":1606163471,
+    "wof:lastmodified":1582361328,
     "wof:name":"Llucmajor",
     "wof:parent_id":404330797,
     "wof:placetype":"locality",
@@ -176,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.881419,
-    39.48416,
-    2.90015,
-    39.497118
+    2.8814188424239,
+    39.48415991221373,
+    2.90014977735893,
+    39.49711774962515
 ],
-  "geometry": {"coordinates":[[[2.894461,39.497118],[2.894755,39.494413],[2.895908,39.494498],[2.896006,39.493596],[2.897158,39.493681],[2.897355,39.491878],[2.898507,39.491962],[2.898703,39.49016],[2.899856,39.490244],[2.90015,39.48754],[2.895541,39.487202],[2.895639,39.486301],[2.894487,39.486216],[2.894683,39.484413],[2.891226,39.48416],[2.891128,39.485061],[2.889976,39.484977],[2.889878,39.485878],[2.886421,39.485625],[2.886519,39.484723],[2.885367,39.484639],[2.885269,39.48554],[2.884117,39.485456],[2.884018,39.486357],[2.881714,39.486188],[2.881419,39.488892],[2.882571,39.488977],[2.882473,39.489878],[2.883625,39.489963],[2.88333,39.492667],[2.882178,39.492582],[2.882079,39.493484],[2.884384,39.493653],[2.884286,39.494554],[2.8912,39.495062],[2.891004,39.496864],[2.894461,39.497118]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[2.89446088774054,39.49711774962515],[2.89475543725365,39.49441347299245],[2.89590781888927,39.49449790327532],[2.89600597884197,39.49359647425604],[2.89715834741412,39.49368088952872],[2.89735462465922,39.49187802560124],[2.89850696449309,39.49196242451114],[2.89870319531258,39.49015955363433],[2.89985550640944,39.49024393618242],[2.90014977735893,39.48753961785332],[2.8955407367111,39.48720202196733],[2.89563888217867,39.48630058581512],[2.89448664421639,39.48621615406034],[2.89468295518407,39.48441328127967],[2.89122635098988,39.48415991221373],[2.8911281503826,39.48506134507272],[2.88997593854111,39.48497686005533],[2.8898777184923,39.4858782904987],[2.88642105164212,39.48562474945828],[2.88651931869919,39.48472332307955],[2.88536711731439,39.48463878344648],[2.88526883458826,39.48554020847001],[2.88411662014977,39.48545565382778],[2.88401831797944,39.48635707643422],[2.88171386561129,39.48618792347611],[2.8814188424239,39.48889217679016],[2.88257111431142,39.48897676416459],[2.88247278136663,39.48987818116876],[2.88362507154244,39.48996275624421],[2.8833300970656,39.49266700495735],[2.88217775987084,39.49258242581368],[2.88207941181776,39.49348383857267],[2.88438412017297,39.49365298591681],[2.88428579969195,39.49455440032699],[2.89120008159932,39.49506152274785],[2.89100361742373,39.49686436464918],[2.89446088774054,39.49711774962515]]],"type":"Polygon"}
 }

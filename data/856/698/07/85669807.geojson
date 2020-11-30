@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.697653,
-    "geom:area_square_m":145812900287.675781,
+    "geom:area_square_m":145812900287.690704,
     "geom:bbox":"118.843031,38.719555,125.779662,43.485486",
     "geom:latitude":41.296827,
     "geom:longitude":122.607865,
     "gn:population":43150000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"LN",
     "label:eng_x_preferred_longname":[
         "Liaoning Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LN"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":41.397647,
     "lbl:longitude":123.525354,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u907c\u5be7|\u8fbd\u5b81",
     "meso:name_loc":"\u8fbd\u5b81\u7701",
     "mps:latitude":41.409121,
@@ -40,10 +43,7 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0648\u0646\u064a\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0561\u0578\u0576\u056b\u0576"
-    ],
-    "name:baq_x_preferred":[
+    "name:ast_x_preferred":[
         "Liaoning"
     ],
     "name:bel_x_preferred":[
@@ -61,14 +61,14 @@
     "name:bul_x_preferred":[
         "\u041b\u044f\u043e\u043d\u0438\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101c\u103b\u1031\u102c\u1004\u103a\u1038\u1014\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:cat_x_preferred":[
         "Liaoning"
     ],
     "name:cdo_x_preferred":[
         "Li\u00e8u-n\u00ecng"
+    ],
+    "name:ceb_x_preferred":[
+        "Liaoning Sheng"
     ],
     "name:ces_x_preferred":[
         "Liao-ning"
@@ -76,22 +76,28 @@
     "name:che_x_preferred":[
         "\u041b\u044f\u043e\u043d\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbd\u5b81\u7701"
-    ],
     "name:cym_x_preferred":[
         "Liaoning"
     ],
-    "name:cze_x_preferred":[
-        "Liao-ning"
-    ],
     "name:dan_x_preferred":[
+        "Liaoning"
+    ],
+    "name:deu_ch_x_preferred":[
         "Liaoning"
     ],
     "name:deu_x_preferred":[
         "Liaoning"
     ],
-    "name:dut_x_preferred":[
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b1\u03cc\u03bd\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b1\u03b1\u03bd\u03af\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Liaoning"
+    ],
+    "name:eng_gb_x_preferred":[
         "Liaoning"
     ],
     "name:eng_x_preferred":[
@@ -121,17 +127,11 @@
     "name:fra_x_variant":[
         "Province de Liaoning"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Liaoning"
     ],
     "name:gan_x_preferred":[
         "\u907c\u5be7\u7701"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d0\u10dd\u10dc\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Liaoning"
     ],
     "name:gle_x_preferred":[
         "Liaoning"
@@ -142,14 +142,14 @@
     "name:glv_x_preferred":[
         "Liaoning"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03b1\u03cc\u03bd\u03b9\u03bd\u03b3\u03ba"
-    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaf\u0acb\u0aa8\u0abf\u0a82\u0a97"
     ],
     "name:hak_x_preferred":[
         "Li\u00e0u-n\u00e8n"
+    ],
+    "name:hak_x_variant":[
+        "Li\u00e2u-n\u00e8n"
     ],
     "name:hbs_x_preferred":[
         "Liaoning"
@@ -165,6 +165,9 @@
     ],
     "name:hun_x_preferred":[
         "Liaoning"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0561\u0578\u0576\u056b\u0576"
     ],
     "name:ina_x_preferred":[
         "Liaoning"
@@ -192,6 +195,9 @@
         "\ub7b4\uc624\ub2dd",
         "\ub7b4\uc624\ub2dd \uc131"
     ],
+    "name:kor_x_variant":[
+        "\ub7b4\uc624\ub2dd\uc131"
+    ],
     "name:lat_x_preferred":[
         "Liaoning"
     ],
@@ -207,14 +213,11 @@
     "name:lzh_x_preferred":[
         "\u907c\u5be7\u7701"
     ],
-    "name:mac_x_preferred":[
-        "\u0409\u0430\u043e\u043d\u0438\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u094d\u092f\u093e\u0913\u0928\u093f\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Liaoning"
+    "name:mkd_x_preferred":[
+        "\u0409\u0430\u043e\u043d\u0438\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Liaoning"
@@ -246,19 +249,22 @@
     "name:oci_x_preferred":[
         "Liaoning"
     ],
+    "name:oss_x_preferred":[
+        "\u041b\u044f\u043e\u043d\u0438\u043d"
+    ],
     "name:pam_x_preferred":[
         "Liaoning"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a40\u0a06\u0a13\u0a28\u0a3f\u0a70\u0a17"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0627\u0626\u0648\u0646\u06cc\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0627\u0648\u0646\u0646\u06af"
     ],
     "name:pol_x_preferred":[
+        "Liaoning"
+    ],
+    "name:por_br_x_preferred":[
         "Liaoning"
     ],
     "name:por_x_preferred":[
@@ -268,9 +274,6 @@
         "Liaoning pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Liaoning"
-    ],
-    "name:rum_x_preferred":[
         "Liaoning"
     ],
     "name:rus_x_preferred":[
@@ -306,14 +309,14 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c2f\u0c4b\u0c35\u0c3e\u0c28\u0c3f\u0c02\u0c17\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0438\u0430\u043e\u043d\u0438\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Liaoning"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e27\u0e2b\u0e19\u0e34\u0e07"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f60\u0f74\u0f0b\u0f49\u0f72\u0f44\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Liaoning"
@@ -325,11 +328,7 @@
         "\u041b\u044f\u043e\u043d\u0456\u043d"
     ],
     "name:und_x_variant":[
-        "\u907c\u5be7|\u8fbd\u5b81",
-        "\u8fbd\u5b81\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Liaoning Sheng"
+        "\u907c\u5be7|\u8fbd\u5b81"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0627\u0624\u0646\u0646\u06af"
@@ -346,14 +345,17 @@
     "name:war_x_preferred":[
         "Liaoning"
     ],
-    "name:wel_x_preferred":[
-        "Liaoning"
-    ],
     "name:wln_x_preferred":[
         "Liaoning"
     ],
     "name:wuu_x_preferred":[
         "\u907c\u5be7\u7701"
+    ],
+    "name:wuu_x_variant":[
+        "\u8fbd\u5b81\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d8\u10d0\u10dd\u10dc\u10d8\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u907c\u5be7"
@@ -361,8 +363,23 @@
     "name:zha_x_preferred":[
         "Laeuzningz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8fbd\u5b81\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u907c\u5be7\u7701"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Li\u00e2u-l\u00eang-s\u00e9ng"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u8fbd\u5b81\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u8fbd\u5b81\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u907c\u5be7\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8fbd\u5b81"
@@ -445,14 +462,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"147,451",
     "statoids:area_mi":"56,931",
     "statoids:as_of_date":"2010-11-01",
@@ -480,12 +496,15 @@
         "hasc:id":"CN.LN",
         "iso:id":"CN-LN",
         "loc:id":"n80138224",
-        "qs:id":895655,
+        "qs_pg:id":895655,
         "unlc:id":"CN-21",
         "wd:id":"Q43934",
         "wk:page":"Liaoning"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbad82c8a0e4c6d6d24e8ff300094682",
     "wof:hierarchy":[
         {
@@ -507,11 +526,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163349,
+    "wof:lastmodified":1587428620,
     "wof:name":"Liaoning",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":43746323,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JO"
+    ],
     "lbl:latitude":17.108788,
     "lbl:longitude":-61.824679,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.108788,
     "mps:longitude":-61.824679,
     "mz:hierarchy_label":1,
@@ -27,6 +31,9 @@
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Parish of Saint John"
+    ],
+    "name:deu_x_preferred":[
+        "Saint John"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
@@ -37,7 +44,8 @@
     "name:eng_x_variant":[
         "St John",
         "St. John",
-        "Stjohn"
+        "Stjohn",
+        "Saint John Parish"
     ],
     "name:fra_x_preferred":[
         "Saint-John"
@@ -50,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "Saint John"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u6559\u533a"
     ],
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc874 \uad50\uad6c"
@@ -65,6 +76,9 @@
     ],
     "name:nld_x_preferred":[
         "Saint John"
+    ],
+    "name:nob_x_preferred":[
+        "Saint John prestegjeld"
     ],
     "name:nor_x_preferred":[
         "Saint John prestegjeld"
@@ -94,11 +108,14 @@
     "name:tgl_x_preferred":[
         "Parokya ng Saint John"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St. John\u00b4s"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0646 \u067e\u06cc\u0631\u0634\u060c \u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0646 \u067e\u06cc\u0631\u0634"
     ],
     "name:zho_x_preferred":[
         "\u5723\u7ea6\u7ff0\u533a"
@@ -173,9 +190,9 @@
     "qs:type":"Parish",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-28",
+    "src:population_date":"2011-05-28",
     "statoids:area_km":"74",
     "statoids:area_mi":"29",
     "statoids:as_of_date":"2011-05-28",
@@ -201,7 +218,7 @@
         "gp:id":2344543,
         "hasc:id":"AG.JO",
         "iso:id":"AG-04",
-        "qs:id":1310680,
+        "qs_pg:id":1310680,
         "unlc:id":"AG-04",
         "wd:id":"Q548816",
         "wk:page":"Saint John Parish, Antigua and Barbuda"
@@ -216,20 +233,16 @@
         }
     ],
     "wof:id":85668191,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1578513841,
+    "wof:lastmodified":1566584569,
     "wof:name":"Saint John",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":49225,
     "wof:population_rank":7,

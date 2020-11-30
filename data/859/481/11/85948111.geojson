@@ -5,22 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050259,
-    "geom:area_square_m":538020695.131596,
+    "geom:area_square_m":538020695.132183,
     "geom:bbox":"-90.140031,29.865605,-89.627781,30.174805",
     "geom:latitude":30.033314,
     "geom:longitude":-89.907308,
     "iso:country":"US",
     "lbl:latitude":30.056708,
     "lbl:longitude":-89.889852,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":30.088251,
     "mps:longitude":-89.932067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
-        "New Orleans"
-    ],
-    "name:alb_x_preferred":[
         "New Orleans"
     ],
     "name:amh_x_preferred":[
@@ -32,8 +31,8 @@
     "name:arg_x_preferred":[
         "Nueva Orleans"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u057c\u056c\u0565\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0648 \u0627\u0648\u0631\u0644\u064a\u0646\u0632"
     ],
     "name:ast_x_preferred":[
         "Nueva Orleans"
@@ -44,14 +43,14 @@
     "name:aze_x_preferred":[
         "Nyu-Orlean"
     ],
-    "name:baq_x_preferred":[
-        "New Orleans"
-    ],
     "name:bar_x_preferred":[
         "New Orleans"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u0432\u044b \u0410\u0440\u043b\u0435\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u043e\u0432\u044b \u0410\u0440\u043b\u0435\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u0985\u09b0\u09b2\u09bf\u09a8\u09cd\u09b8"
@@ -71,14 +70,14 @@
     "name:cat_x_preferred":[
         "Nova Orleans"
     ],
+    "name:ceb_x_preferred":[
+        "New Orleans"
+    ],
     "name:ces_x_preferred":[
         "New Orleans"
     ],
     "name:che_x_preferred":[
         "\u041d\u044c\u044e-\u041e\u0440\u043b\u0435\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u65b0\u5965\u5c14\u826f"
     ],
     "name:chv_x_preferred":[
         "\u00c7\u0115\u043d\u0115 \u041e\u0440\u043b\u0435\u0430\u043d"
@@ -89,22 +88,28 @@
     "name:cos_x_preferred":[
         "New Orleans"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "New Orleans"
     ],
     "name:dan_x_preferred":[
         "New Orleans"
     ],
-    "name:deu_x_preferred":[
+    "name:deu_ch_x_preferred":[
         "New Orleans"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "New Orleans"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u039f\u03c1\u03bb\u03b5\u03ac\u03bd\u03b7"
     ],
     "name:eml_x_preferred":[
+        "New Orleans"
+    ],
+    "name:eng_ca_x_preferred":[
+        "New Orleans"
+    ],
+    "name:eng_gb_x_preferred":[
         "New Orleans"
     ],
     "name:eng_x_colloquial":[
@@ -153,6 +158,9 @@
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0648\u0627\u0648\u0631\u0644\u0626\u0627\u0646\u060c \u0644\u0648\u0626\u06cc\u0632\u06cc\u0627\u0646\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0648\u0627\u0648\u0631\u0644\u0626\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "New Orleans"
     ],
@@ -168,16 +176,13 @@
     "name:fra_x_variant":[
         "La Nouvelle-Orl\u00e9ans"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "La Nouvelle-Orl\u00e9ans"
     ],
-    "name:fry_x_preferred":[
+    "name:frr_x_preferred":[
         "New Orleans"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ee\u10d0\u10da\u10d8 \u10dd\u10e0\u10da\u10d4\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fry_x_preferred":[
         "New Orleans"
     ],
     "name:gle_x_preferred":[
@@ -185,9 +190,6 @@
     ],
     "name:glg_x_preferred":[
         "Nova Orle\u00e1ns"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ad\u03b1 \u039f\u03c1\u03bb\u03b5\u03ac\u03bd\u03b7"
     ],
     "name:grn_x_preferred":[
         "New Orleans"
@@ -219,8 +221,8 @@
     "name:hye_x_preferred":[
         "\u0546\u0578\u0580 \u0555\u057c\u056c\u0565\u0561\u0576"
     ],
-    "name:ice_x_preferred":[
-        "New Orleans"
+    "name:hye_x_variant":[
+        "\u0555\u057c\u056c\u0565\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Nov-Orleans"
@@ -235,6 +237,9 @@
         "New Orleans"
     ],
     "name:ind_x_preferred":[
+        "New Orleans"
+    ],
+    "name:isl_x_preferred":[
         "New Orleans"
     ],
     "name:ita_x_preferred":[
@@ -264,20 +269,20 @@
     "name:lav_x_preferred":[
         "\u0145\u016borle\u0101na"
     ],
+    "name:lfn_x_preferred":[
+        "Orleans Nova"
+    ],
     "name:lit_x_preferred":[
         "Naujasis Orleanas"
     ],
     "name:ltz_x_preferred":[
         "New Orleans"
     ],
-    "name:mac_x_preferred":[
-        "\u040a\u0443 \u041e\u0440\u043b\u0435\u0430\u043d\u0441"
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4d\u0d2f\u0d42 \u0d13\u0d7c\u0d32\u0d3f\u0d2f\u0d7b\u0d38\u0d4d \u0d28\u0d17\u0d30\u0d35\u0d41\u0d02 \u0d2a\u0d3e\u0d30\u0d3f\u0d37\u0d41\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0911\u0930\u094d\u0932\u093f\u0928\u094d\u0938"
-    ],
-    "name:may_x_preferred":[
-        "New Orleans"
     ],
     "name:mkd_x_preferred":[
         "\u040a\u0443 \u041e\u0440\u043b\u0435\u0430\u043d\u0441"
@@ -291,11 +296,17 @@
     "name:mrj_x_preferred":[
         "\u0423 \u041e\u0440\u043b\u0435\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "New Orleans"
+    ],
     "name:mwl_x_preferred":[
         "Nuoba Orleanes"
     ],
     "name:nah_x_preferred":[
         "Yancuic Orleans"
+    ],
+    "name:nah_x_variant":[
+        "Yancu\u012bc Orleans"
     ],
     "name:nan_x_preferred":[
         "New Orleans"
@@ -327,14 +338,20 @@
     "name:oci_x_preferred":[
         "N\u00f2va Orleans"
     ],
+    "name:oci_x_variant":[
+        "New Orleans"
+    ],
     "name:oss_x_preferred":[
         "\u041d\u043e\u0433 \u041e\u0440\u043b\u0435\u0430\u043d"
     ],
     "name:pam_x_preferred":[
         "New Orleans"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0648\u0627\u0648\u0631\u0644\u0626\u0627\u0646"
+    "name:pap_x_preferred":[
+        "New Orleans"
+    ],
+    "name:pcd_x_preferred":[
+        "La Nov\u00e8le-Orl\u00e9ans"
     ],
     "name:pms_x_preferred":[
         "New Orleans"
@@ -345,6 +362,9 @@
     "name:pol_x_preferred":[
         "Nowy Orlean"
     ],
+    "name:por_br_x_preferred":[
+        "Nova Orle\u00e3es"
+    ],
     "name:por_x_preferred":[
         "Nova Orle\u00e3es"
     ],
@@ -352,9 +372,6 @@
         "New Orleans"
     ],
     "name:ron_x_preferred":[
-        "New Orleans"
-    ],
-    "name:rum_x_preferred":[
         "New Orleans"
     ],
     "name:rus_x_preferred":[
@@ -373,9 +390,6 @@
         "\u0db1\u0dd2\u0dc0\u0dca \u0d94\u0dbb\u0dca\u0dbd\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "New Orleans"
-    ],
-    "name:slo_x_preferred":[
         "New Orleans"
     ],
     "name:slv_x_preferred":[
@@ -405,6 +419,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0baf\u0bc2 \u0b93\u0bb0\u0bcd\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u041e\u0440\u043b\u0435\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c13\u0c30\u0c4d\u0c32\u0c40\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -413,6 +430,9 @@
     ],
     "name:tgl_x_preferred":[
         "Bagong Orleans"
+    ],
+    "name:tgl_x_variant":[
+        "New Orleans"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e34\u0e27\u0e2d\u0e2d\u0e23\u0e4c\u0e25\u0e35\u0e19\u0e2a\u0e4c"
@@ -429,9 +449,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u041e\u0440\u043b\u0435\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "The Big Easy"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648 \u0627\u0648\u0631\u0644\u06cc\u0646\u0632"
     ],
@@ -444,6 +461,9 @@
     "name:vep_x_preferred":[
         "Uz Orlean"
     ],
+    "name:vep_x_variant":[
+        "Uz' Orlean"
+    ],
     "name:vie_x_preferred":[
         "New Orleans"
     ],
@@ -451,9 +471,6 @@
         "New Orleans"
     ],
     "name:war_x_preferred":[
-        "New Orleans"
-    ],
-    "name:wel_x_preferred":[
         "New Orleans"
     ],
     "name:wuu_x_preferred":[
@@ -579,13 +596,12 @@
     "qs:type":"G4110",
     "reversegeo:latitude":30.056708,
     "reversegeo:longitude":-89.889852,
-    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":29.966667,
     "wd:longitude":-90.05,
@@ -594,8 +610,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -607,12 +623,15 @@
         "gp:id":2458833,
         "loc:id":"n79007238",
         "nyt:id":"33181370976510004701",
-        "qs:id":826013,
         "qs_pg:id":826013,
         "wd:id":"Q34404",
         "wk:page":"New Orleans"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"140c25d0934e64e4455370ad1332eaa5",
     "wof:hierarchy":[
         {
@@ -627,7 +646,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163476,
+    "wof:lastmodified":1587428397,
     "wof:megacity":1,
     "wof:name":"New Orleans",
     "wof:parent_id":102086693,

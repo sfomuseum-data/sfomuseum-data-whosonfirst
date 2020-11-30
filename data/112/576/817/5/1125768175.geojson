@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.11341,48.74926,2.11341,48.74926",
-    "geom:latitude":48.74926,
-    "geom:longitude":2.11341,
+    "geom:area":0.000493,
+    "geom:area_square_m":4018869.238364,
+    "geom:bbox":"2.09848477223,48.7371392761,2.1397780733,48.7579971514",
+    "geom:latitude":48.746984,
+    "geom:longitude":2.1178,
     "gn:gn_country":"FR",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":747,
@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:baq_x_preferred":[
-        "Toussus-le-Noble"
-    ],
     "name:bar_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -46,17 +43,26 @@
     "name:cat_x_preferred":[
         "Toussus-le-Noble"
     ],
+    "name:ceb_x_preferred":[
+        "Toussus-le-Noble"
+    ],
+    "name:ces_x_preferred":[
+        "Toussus-le-Noble"
+    ],
     "name:cos_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:dan_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Toussus-le-Noble"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bb\u03bf\u03cd\u03b6 \u03bb\u03b5 \u039d\u03bf\u03bc\u03c0\u03bb"
     ],
     "name:eng_x_preferred":[
         "Toussus-le-Noble"
@@ -65,6 +71,9 @@
         "Toussus-le-Noble"
     ],
     "name:est_x_preferred":[
+        "Toussus-le-Noble"
+    ],
+    "name:eus_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:fao_x_preferred":[
@@ -76,19 +85,16 @@
     "name:fin_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:frp_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:fur_x_preferred":[
-        "Toussus-le-Noble"
-    ],
-    "name:ger_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +106,6 @@
     "name:glg_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03bb\u03bf\u03cd\u03b6 \u03bb\u03b5 \u039d\u03bf\u03bc\u03c0\u03bb"
-    ],
     "name:gsw_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -110,9 +113,6 @@
         "Toussus-le-Noble"
     ],
     "name:hun_x_preferred":[
-        "Toussus-le-Noble"
-    ],
-    "name:ice_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:ido_x_preferred":[
@@ -125,6 +125,9 @@
         "Toussus-le-Noble"
     ],
     "name:ind_x_preferred":[
+        "Toussus-le-Noble"
+    ],
+    "name:isl_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:ita_x_preferred":[
@@ -163,12 +166,6 @@
     "name:ltz_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0443\u0441\u0438 \u043b\u0435 \u041d\u043e\u0431\u043b"
-    ],
-    "name:may_x_preferred":[
-        "Toussus-le-Noble"
-    ],
     "name:min_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -178,6 +175,9 @@
     "name:mlg_x_preferred":[
         "Toussus-le-Noble"
     ],
+    "name:msa_x_preferred":[
+        "Toussus-le-Noble"
+    ],
     "name:nan_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -185,6 +185,9 @@
         "Toussus-le-Noble"
     ],
     "name:nds_x_preferred":[
+        "Toussus-le-Noble"
+    ],
+    "name:nld_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:nno_x_preferred":[
@@ -205,9 +208,6 @@
     "name:pcd_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0633\u0648-\u0644\u0648-\u0646\u0648\u0628\u0644"
-    ],
     "name:pms_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -226,7 +226,7 @@
     "name:roh_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:scn_x_preferred":[
@@ -235,7 +235,7 @@
     "name:sco_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Toussus-le-Noble"
     ],
     "name:spa_x_preferred":[
@@ -277,9 +277,6 @@
     "name:war_x_preferred":[
         "Toussus-le-Noble"
     ],
-    "name:wel_x_preferred":[
-        "Toussus-le-Noble"
-    ],
     "name:wln_x_preferred":[
         "Toussus-le-Noble"
     ],
@@ -307,8 +304,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424819,
     "qs_pg:woe_id":629011,
-    "sfomuseum:placetype":"city",
-    "src:geom":"qs_pg",
+    "src:geom":"frgov",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424819,
@@ -331,9 +330,15 @@
         "qs_pg:id":893605,
         "wd:id":"Q1119799"
     },
+    "wof:coterminous":[
+        404413665
+    ],
     "wof:country":"FR",
     "wof:created":1497289970,
-    "wof:geomhash":"01e7b4d184e61395cee27355ac836212",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"f82d9c640ab202cb0c0e89d963310375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,7 +352,7 @@
         }
     ],
     "wof:id":1125768175,
-    "wof:lastmodified":1606163453,
+    "wof:lastmodified":1582326117,
     "wof:name":"Toussus-le-Noble",
     "wof:parent_id":404413665,
     "wof:placetype":"locality",
@@ -359,10 +364,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.11341,
-    48.74926,
-    2.11341,
-    48.74926
+    2.09848477222882,
+    48.73713927605368,
+    2.13977807330338,
+    48.75799715135119
 ],
-  "geometry": {"coordinates":[2.11341,48.74926],"type":"Point"}
+  "geometry": {"coordinates":[[[2.1046545779338,48.73796805954768],[2.10515265579612,48.73985169071987],[2.10570593166253,48.74169075648827],[2.10548805568835,48.74170711359723],[2.10591071952862,48.74243885000914],[2.1035369162851,48.74287078346551],[2.10176267070677,48.74165215805563],[2.10117267118405,48.74274507083666],[2.10122009879952,48.74315018911695],[2.10156297996256,48.74377340348812],[2.10257405988101,48.74429370484516],[2.10188453674262,48.74484619006157],[2.10285561636877,48.74532121410265],[2.09855509604583,48.74547770975295],[2.09848477222882,48.7456120989279],[2.09882918900428,48.7461453848252],[2.10119183271737,48.74795313200227],[2.10187396607901,48.74862386920024],[2.10362731271674,48.75186611846279],[2.10417413757032,48.75249984536966],[2.10463384634114,48.75424824724792],[2.10497206165546,48.75515024244193],[2.10582607629093,48.7561190612697],[2.10644427065704,48.7573559459383],[2.10731726399577,48.75721856162311],[2.11040565770306,48.75799715135119],[2.11214995794183,48.75782124625908],[2.11413588065319,48.75783599412902],[2.11694700195347,48.75651662380008],[2.12333579141213,48.75518752664775],[2.12328212154803,48.75352313595402],[2.12341208134969,48.75307436080294],[2.12463553727072,48.75230980125259],[2.12477606796263,48.75204099361553],[2.12430909288296,48.75149789421305],[2.12429775487195,48.75136289209104],[2.12504578505936,48.75136837560689],[2.12654957891482,48.75173017432768],[2.12817588559142,48.75290236103985],[2.12843964763734,48.75339898835866],[2.12864531497083,48.75330154894171],[2.1291862564685,48.75267587440108],[2.13076011689707,48.75128418619898],[2.13089986480048,48.75106033863275],[2.13069885227471,48.75087898352144],[2.12953956058633,48.75024991073042],[2.12961056031339,48.75007053626948],[2.13228054001799,48.74819210718366],[2.1305837994217,48.74553534431188],[2.13072278412791,48.7453564635751],[2.13889281080044,48.74312203624316],[2.13909826989032,48.74303357153241],[2.13977807330338,48.74221995873938],[2.13937664889654,48.741821300925],[2.1383624845667,48.74064467988479],[2.1378864137314,48.74065023756324],[2.13740506379074,48.7401520538151],[2.13645955784654,48.73893993172746],[2.13517863809344,48.73745553033646],[2.13497989743543,48.73713927605368],[2.13463923077539,48.73718178046345],[2.13144067626878,48.73735643408056],[2.12613156363023,48.73769546470574],[2.12598415511738,48.73837798274901],[2.12557557706659,48.74003900860299],[2.12509423702262,48.7403592906081],[2.12257926939594,48.74111437550573],[2.12033316053634,48.7420512823519],[2.11948552832996,48.74231487400728],[2.11859897753333,48.74166071518029],[2.11663639439767,48.74110652831178],[2.11612256779073,48.74093182608067],[2.11619841958298,48.73966413563274],[2.11375300974129,48.73952008060314],[2.11355210117847,48.73933869482064],[2.11341612722572,48.739337685065],[2.1126644504238,48.73955696790228],[2.11110059087132,48.73955432830522],[2.11103489994973,48.73941891852999],[2.11035487623396,48.73942284743605],[2.10940689176133,48.73919091121945],[2.10512970321727,48.73801659580625],[2.1046545779338,48.73796805954768]]],"type":"Polygon"}
 }

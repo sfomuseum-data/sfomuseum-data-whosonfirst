@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":92.836084,
-    "geom:area_square_m":1133677221687.786865,
+    "geom:area_square_m":1133677221687.785889,
     "geom:bbox":"32.997734,3.404137,48.001056,14.894214",
     "geom:latitude":8.633117,
     "geom:longitude":39.632616,
@@ -15,8 +15,13 @@
     "itu:country_code":[
         "251"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ET"
+    ],
     "lbl:latitude":7.996115,
     "lbl:longitude":38.896778,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.996115,
     "mps:longitude":38.896778,
     "mz:hierarchy_label":1,
@@ -64,6 +69,9 @@
     "name:arg_x_preferred":[
         "Etiopia"
     ],
+    "name:ary_x_preferred":[
+        "\u0625\u062a\u064a\u0648\u067e\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u062b\u064a\u0648\u0628\u064a\u0627"
     ],
@@ -72,6 +80,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0448\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:aym_x_preferred":[
+        "Itiwpiya"
     ],
     "name:azb_x_preferred":[
         "\u0627\u062a\u06cc\u0648\u067e\u06cc"
@@ -87,6 +98,9 @@
     ],
     "name:bam_x_variant":[
         "Etiopi"
+    ],
+    "name:ban_x_preferred":[
+        "\u00c9thiopia"
     ],
     "name:bar_x_preferred":[
         "Ethiopien"
@@ -105,6 +119,9 @@
     ],
     "name:ben_x_variant":[
         "\u0987\u09ab\u09bf\u0993\u09aa\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0907\u0925\u093f\u092f\u094b\u092a\u093f\u092f\u093e"
     ],
     "name:bjn_x_preferred":[
         "Ethiopia"
@@ -130,6 +147,9 @@
     "name:bxr_x_preferred":[
         "\u042d\u0442\u0438\u043e\u043f\u0438"
     ],
+    "name:bxr_x_variant":[
+        "\u042d\u0442\u0438\u043e\u043f"
+    ],
     "name:cat_x_preferred":[
         "Eti\u00f2pia"
     ],
@@ -145,6 +165,9 @@
     "name:che_x_preferred":[
         "\u042d\u0444\u0438\u043e\u043f\u0438"
     ],
+    "name:chr_x_preferred":[
+        "\u13a2\u13d7\u13a3\u13c8\u13a0"
+    ],
     "name:chu_x_preferred":[
         "\u0404\u0473\u0457\u043e\u043f\u0457\ua657"
     ],
@@ -154,20 +177,32 @@
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u062a\u06cc\u06c6\u067e\u06cc\u0627"
     ],
+    "name:ckb_x_variant":[
+        "\u0626\u06d5\u062a\u06cc\u06c6\u067e\u06cc\u0627"
+    ],
     "name:cor_x_preferred":[
         "Ethiopi"
+    ],
+    "name:cos_x_preferred":[
+        "Ettiopia"
     ],
     "name:crh_x_preferred":[
         "Abe\u015fistan"
     ],
+    "name:csb_x_preferred":[
+        "Etiopi\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Ethiopia"
     ],
-    "name:cze_x_preferred":[
-        "Etiopie"
-    ],
     "name:dan_x_preferred":[
         "Etiopien"
+    ],
+    "name:deu_at_x_preferred":[
+        "\u00c4thiopien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "\u00c4thiopien"
     ],
     "name:deu_x_colloquial":[
         "Aethiopien",
@@ -181,6 +216,9 @@
     "name:deu_x_variant":[
         "Demokratische Bundesrepublik \u00c4thiopien"
     ],
+    "name:din_x_preferred":[
+        "Ethiopia"
+    ],
     "name:diq_x_preferred":[
         "Etyopya"
     ],
@@ -190,8 +228,17 @@
     "name:dsb_x_preferred":[
         "Etiopiska"
     ],
+    "name:dty_x_preferred":[
+        "\u0907\u0925\u093f\u092f\u094b\u092a\u093f\u092f\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b9\u03b8\u03b9\u03bf\u03c0\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Ethiopia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Ethiopia"
     ],
     "name:eng_x_preferred":[
         "Ethiopia"
@@ -236,7 +283,6 @@
         "Etiopia"
     ],
     "name:fin_x_variant":[
-        "Etiopia",
         "Etiopian",
         "Etiopiassa",
         "Etiopiasta"
@@ -262,8 +308,14 @@
     "name:gan_x_preferred":[
         "\u57c3\u585e\u4fc4\u6bd4\u4e9e"
     ],
+    "name:gcr_x_preferred":[
+        "L\u00e9tchopi"
+    ],
     "name:gla_x_preferred":[
         "An Aeti\u00f2p"
+    ],
+    "name:gla_x_variant":[
+        "An Itiop"
     ],
     "name:gle_x_preferred":[
         "An Aet\u00f3ip"
@@ -282,6 +334,12 @@
     ],
     "name:grn_x_preferred":[
         "Etiop\u00eda"
+    ],
+    "name:grn_x_variant":[
+        "Etiopia"
+    ],
+    "name:gsw_x_preferred":[
+        "Ethiopie"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aa5\u0abf\u0aaf\u0acb\u0aaa\u0abf\u0aaf\u0abe"
@@ -328,6 +386,9 @@
     "name:hye_x_preferred":[
         "\u0535\u0569\u0578\u057e\u057a\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0569\u0578\u057e\u057a\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Ethiopia"
     ],
@@ -351,6 +412,9 @@
     ],
     "name:ind_x_variant":[
         "Ethiopia"
+    ],
+    "name:inh_x_preferred":[
+        "\u042d\u0444\u0438\u043e\u043f\u0438"
     ],
     "name:isl_x_preferred":[
         "E\u00fe\u00ed\u00f3p\u00eda"
@@ -393,6 +457,12 @@
     ],
     "name:kaz_x_preferred":[
         "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0444\u0438\u043e\u043f\u0438\u044f"
+    ],
+    "name:kbp_x_preferred":[
+        "Etiyoopii"
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u178f\u17d2\u1799\u17bc\u1796\u17b8"
@@ -446,6 +516,9 @@
     "name:lez_x_preferred":[
         "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Itiopia"
+    ],
     "name:lij_x_preferred":[
         "Eti\u00f2pia"
     ],
@@ -467,6 +540,9 @@
     "name:lrc_x_preferred":[
         "\u0626\u062a\u06cc\u0648\u0659\u067e\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u062a\u06cc\u0648\u067e\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "Ethiopien"
     ],
@@ -478,6 +554,12 @@
     ],
     "name:lug_x_variant":[
         "Esyopya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8863\u7d22\u6bd4\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0907\u0925\u093f\u092f\u094b\u092a\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d0e\u0d24\u0d4d\u0d2f\u0d4b\u0d2a\u0d4d\u0d2f"
@@ -512,6 +594,9 @@
     "name:mon_x_preferred":[
         "\u042d\u0442\u0438\u043e\u043f"
     ],
+    "name:mri_x_preferred":[
+        "Etiopia"
+    ],
     "name:mrj_x_preferred":[
         "\u042d\u0444\u0438\u043e\u043f\u0438"
     ],
@@ -527,8 +612,17 @@
     "name:mya_x_variant":[
         "\u1021\u102e\u101e\u102e\u101a\u102d\u102f\u1038\u1015\u102e\u1038\u101a\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u042d\u0444\u0438\u043e\u043f\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u062a\u06cc\u0648\u067e\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Etiopia"
+    ],
+    "name:nan_x_preferred":[
+        "Ethiopia"
     ],
     "name:nau_x_preferred":[
         "Itiyopiya"
@@ -575,6 +669,9 @@
     "name:oci_x_preferred":[
         "Etiopia"
     ],
+    "name:olo_x_preferred":[
+        "Efiopii"
+    ],
     "name:ori_x_preferred":[
         "\u0b07\u0b25\u0b3f\u0b13\u0b2a\u0b3f\u0b06"
     ],
@@ -593,6 +690,9 @@
     "name:pap_x_preferred":[
         "Ethiopia"
     ],
+    "name:pih_x_preferred":[
+        "Ethiopia"
+    ],
     "name:pli_x_preferred":[
         "\u0908\u0925\u094d\u092f\u094b\u092a\u093f\u092f\u093e"
     ],
@@ -604,6 +704,9 @@
     ],
     "name:pol_x_preferred":[
         "Etiopia"
+    ],
+    "name:por_br_x_preferred":[
+        "Eti\u00f3pia"
     ],
     "name:por_x_preferred":[
         "Eti\u00f3pia"
@@ -626,11 +729,11 @@
     "name:rue_x_preferred":[
         "\u0415\u0442\u0456\u043e\u043f\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Etiopia"
-    ],
     "name:run_x_preferred":[
         "Etiyopiya"
+    ],
+    "name:rup_x_preferred":[
+        "Ethiopia"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
@@ -644,11 +747,17 @@
     "name:san_x_preferred":[
         "\u0908\u0925\u094d\u092f\u094b\u092a\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c5b\u1c77\u1c64\u1c6d\u1c73\u1c6f\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Etiopia"
     ],
     "name:sco_x_preferred":[
         "Ethiopie"
+    ],
+    "name:sgs_x_preferred":[
+        "Etiuop\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0d89\u0dad\u0dd2\u0dba\u0ddd\u0db4\u0dd2\u0dba\u0dcf\u0dc0"
@@ -665,11 +774,17 @@
     "name:smo_x_preferred":[
         "Aitiope"
     ],
+    "name:smo_x_variant":[
+        "Ethiopia"
+    ],
     "name:sna_x_preferred":[
         "Ethiopia"
     ],
     "name:sna_x_variant":[
         "Etiopia"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u064a\u067f\u0648\u067e\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Itoobiya"
@@ -695,6 +810,12 @@
     "name:srn_x_preferred":[
         "Ethiopikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0415\u0442\u0438\u043e\u043f\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Etiopija"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u0442\u0438\u043e\u043f\u0438\u0458\u0430"
     ],
@@ -718,6 +839,12 @@
     ],
     "name:szl_x_preferred":[
         "Etjopijo"
+    ],
+    "name:szy_x_preferred":[
+        "Ethiopia"
+    ],
+    "name:tah_x_preferred":[
+        "Etiopi"
     ],
     "name:tam_x_preferred":[
         "\u0b8e\u0ba4\u0bbf\u0baf\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
@@ -755,21 +882,17 @@
     "name:tur_x_preferred":[
         "Etiyopya"
     ],
+    "name:udm_x_preferred":[
+        "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0626\u06d0\u0641\u0649\u0626\u0648\u067e\u0649\u064a\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0444\u0456\u043e\u043f\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Etiopija",
-        "E\u00fe\u00ed\u00f3p\u00eda"
-    ],
     "name:und_x_variant":[
-        "Federal Democratic Republic of Ethiopia",
-        "Ityopiya"
-    ],
-    "name:unk_x_variant":[
+        "Ityopiya",
         "Socialist Ethiopia"
     ],
     "name:urd_x_preferred":[
@@ -793,6 +916,9 @@
     ],
     "name:vol_x_preferred":[
         "L\u00e4tiop\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Etioopia"
     ],
     "name:war_x_preferred":[
         "Etiyopya"
@@ -824,6 +950,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Etopia"
     ],
+    "name:yue_x_preferred":[
+        "\u57c3\u585e\u4fc4\u6bd4\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Ethiopi\u00eb"
     ],
@@ -833,11 +962,13 @@
     "name:zho_min_nan_x_preferred":[
         "Ityop'iya"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u8863\u7d22\u6bd4\u4e9e"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u585e\u4fc4\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u57c3\u585e\u4fc4\u6bd4\u4e9a",
         "\u8863\u7d22\u6bd4\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -921,14 +1052,12 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"251",
     "statoids:ds":"ETH",
@@ -957,6 +1086,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Ethiopia",
+        "digitalenvoy:country_code":231,
         "fb:id":"en.ethiopia",
         "fifa:id":"ETH",
         "fips:code":"ET",
@@ -973,7 +1103,7 @@
         "mzb:id":"ethiopia",
         "ne:adm0_a3":"ETH",
         "nyt:id":"19383612942544915631",
-        "qs:id":1263204,
+        "qs_pg:id":1263204,
         "uncrt:id":"ETH",
         "wd:id":"Q115",
         "wk:page":"Ethiopia",
@@ -981,6 +1111,11 @@
     },
     "wof:country":"ET",
     "wof:country_alpha3":"ETH",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"034df6b04b3f191fb2b2b25accd1e524",
     "wof:hierarchy":[
         {
@@ -989,16 +1124,13 @@
         }
     ],
     "wof:id":85632257,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1606163221,
+    "wof:lastmodified":1587429039,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -10,6 +10,9 @@
     "geom:latitude":43.25654,
     "geom:longitude":76.92848,
     "iso:country":"KZ",
+    "lbl:bbox":"76.90848,43.23654,76.94848,43.27654",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -17,8 +20,8 @@
     "name:afr_x_preferred":[
         "Almati"
     ],
-    "name:alb_x_preferred":[
-        "Almati"
+    "name:afr_x_variant":[
+        "Almaty"
     ],
     "name:amh_x_preferred":[
         "\u12a0\u120d\u121b\u1272"
@@ -28,9 +31,6 @@
     ],
     "name:arg_x_preferred":[
         "Almaty"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0574\u0561\u0569\u056b"
     ],
     "name:ast_x_preferred":[
         "Almaty"
@@ -43,9 +43,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Almaty"
     ],
     "name:bar_x_preferred":[
         "Almaty"
@@ -67,23 +64,29 @@
     "name:bos_x_preferred":[
         "Almati"
     ],
+    "name:bos_x_variant":[
+        "Almaty"
+    ],
     "name:bre_x_preferred":[
         "Almaty"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438"
     ],
+    "name:bxr_x_preferred":[
+        "\u0410\u043b\u0438\u043c\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Almati"
+    ],
+    "name:ceb_x_preferred":[
+        "Almaty"
     ],
     "name:ces_x_preferred":[
         "Almaty"
     ],
     "name:che_x_preferred":[
         "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u6728\u5716"
     ],
     "name:chv_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b"
@@ -94,7 +97,7 @@
     "name:crh_x_preferred":[
         "Almat\u0131"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Almaty"
     ],
     "name:dan_x_preferred":[
@@ -102,9 +105,6 @@
     ],
     "name:deu_x_preferred":[
         "Almaty"
-    ],
-    "name:dut_x_preferred":[
-        "Alma-Ata"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03bc\u03ac\u03c4\u03b9"
@@ -133,9 +133,6 @@
     "name:fra_x_preferred":[
         "Almaty"
     ],
-    "name:fre_x_preferred":[
-        "Almaty"
-    ],
     "name:frp_x_preferred":[
         "Almaty"
     ],
@@ -145,12 +142,6 @@
     "name:gag_x_preferred":[
         "Almat\u0131"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10db\u10d0\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Almaty"
-    ],
     "name:gla_x_preferred":[
         "Almaty"
     ],
@@ -159,9 +150,6 @@
     ],
     "name:glg_x_preferred":[
         "Almati"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03bc\u03ac\u03c4\u03b9"
     ],
     "name:gsw_x_preferred":[
         "Almaty"
@@ -181,6 +169,9 @@
     "name:hrv_x_preferred":[
         "Almati"
     ],
+    "name:hsb_x_preferred":[
+        "Almaty"
+    ],
     "name:hun_x_preferred":[
         "Almati"
     ],
@@ -189,9 +180,6 @@
     ],
     "name:hye_x_variant":[
         "\u0531\u056c\u0574\u0561\u0569\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Almaty"
     ],
     "name:ido_x_preferred":[
         "Almaty"
@@ -235,14 +223,23 @@
     "name:kir_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0430"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
     "name:kon_x_preferred":[
         "Almaty"
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub9c8\ud2f0"
     ],
+    "name:lad_x_preferred":[
+        "Almaty"
+    ],
     "name:lat_x_preferred":[
         "Almaty"
+    ],
+    "name:lat_x_variant":[
+        "Almata"
     ],
     "name:lav_x_preferred":[
         "Almati"
@@ -265,17 +262,11 @@
     "name:ltz_x_preferred":[
         "Almaty"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u043c\u0430\u0442\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7d\u0d2e\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u094d\u092e\u093e\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Almaty"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b"
@@ -293,6 +284,9 @@
         "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:msa_x_preferred":[
+        "Almaty"
+    ],
+    "name:nan_x_preferred":[
         "Almaty"
     ],
     "name:nap_x_preferred":[
@@ -331,9 +325,6 @@
     "name:pcd_x_preferred":[
         "Almaty"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0645\u0627\u0622\u062a\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Almaty"
     ],
@@ -352,8 +343,8 @@
     "name:ron_x_preferred":[
         "Almat\u00ee"
     ],
-    "name:rum_x_preferred":[
-        "Almat\u00ee"
+    "name:ron_x_variant":[
+        "Almaty"
     ],
     "name:rup_x_preferred":[
         "Almaty"
@@ -386,14 +377,14 @@
     "name:slk_x_preferred":[
         "Alma-Ata"
     ],
-    "name:slo_x_preferred":[
-        "Alma-Ata"
-    ],
     "name:slv_x_preferred":[
         "Almati"
     ],
     "name:spa_x_preferred":[
         "Almat\u00fd"
+    ],
+    "name:sqi_x_preferred":[
+        "Almati"
     ],
     "name:srd_x_preferred":[
         "Almaty"
@@ -428,14 +419,17 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e15\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f71\u0f63\u0f0b\u0f58\u0f0b\u0f4a\u0f72\u0f0d"
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e40\u0e15\u0e2d"
     ],
     "name:tuk_x_preferred":[
         "Almaty"
     ],
     "name:tur_x_preferred":[
         "Almat\u0131"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:udm_x_preferred":[
         "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
@@ -445,9 +439,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Alma-Ata"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u0627\u062a\u06cc"
@@ -477,9 +468,6 @@
         "Almaty"
     ],
     "name:war_x_preferred":[
-        "Almaty"
-    ],
-    "name:wel_x_preferred":[
         "Almaty"
     ],
     "name:wln_x_preferred":[
@@ -619,7 +607,6 @@
     "qs:qs_id":493451,
     "qs:woe_adm0":23424871,
     "qs:woe_id":2255777,
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:population":"quattroshapes",
     "wd:latitude":43.25,
@@ -634,7 +621,7 @@
     "wof:concordances":{
         "gn:id":1526384,
         "gp:id":2255777,
-        "qs:id":493451,
+        "qs_pg:id":493451,
         "wd:id":"Q35493",
         "wk:page":"Almaty"
     },
@@ -650,7 +637,7 @@
         }
     ],
     "wof:id":421176003,
-    "wof:lastmodified":1606163056,
+    "wof:lastmodified":1566591998,
     "wof:name":"Almaty",
     "wof:parent_id":85672937,
     "wof:placetype":"locality",

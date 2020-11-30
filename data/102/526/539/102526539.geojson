@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001353,
-    "geom:area_square_m":15579790.300073,
+    "geom:area_square_m":15579790.300089,
     "geom:bbox":"-157.965759,21.308086,-157.900162,21.356537",
     "geom:latitude":21.333767,
     "geom:longitude":-157.93811,
@@ -23,9 +23,6 @@
     "name:swe_x_preferred":[
         "Ruth Keelikolani"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -46,9 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12523119,
-        "iata:code":"HIK",
-        "icao:code":"PHIK"
+        "gp:id":12523119
     },
     "wof:country":"",
     "wof:geomhash":"8370bb75eec02679e82cfa540d852d16",
@@ -64,7 +59,7 @@
         }
     ],
     "wof:id":102526539,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1566655838,
     "wof:name":"Honolulu Hickam Air Force Base",
     "wof:parent_id":85824753,
     "wof:placetype":"campus",

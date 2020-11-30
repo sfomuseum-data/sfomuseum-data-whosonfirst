@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.677727,
-    "geom:area_square_m":92182702477.40831,
+    "geom:area_square_m":92182702477.408325,
     "geom:bbox":"-31.268219,30.136984,-6.189352,42.154419",
     "geom:latitude":39.5927,
     "geom:longitude":-8.521417,
@@ -16,12 +16,17 @@
     ],
     "lbl:latitude":39.225448,
     "lbl:longitude":-8.266333,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":39.225448,
     "mps:longitude":-8.266333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Portug\u00e9h"
     ],
@@ -55,11 +60,17 @@
     "name:arg_x_preferred":[
         "Portugal"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0631\u0637\u0642\u064a\u0632"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644"
     ],
     "name:ast_x_preferred":[
         "Portugal"
+    ],
+    "name:ava_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
     ],
     "name:aym_x_preferred":[
         "Purtuwal"
@@ -79,6 +90,9 @@
     "name:bam_x_preferred":[
         "P\u0254ritigali"
     ],
+    "name:ban_x_preferred":[
+        "Portugis"
+    ],
     "name:bar_x_preferred":[
         "Portugal"
     ],
@@ -88,11 +102,11 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0443\u0433\u0430\u043b\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u041f\u0430\u0440\u0442\u0443\u0433\u0430\u043b\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09b0\u09cd\u09a4\u09c1\u0997\u09be\u09b2"
+    ],
+    "name:bho_x_preferred":[
+        "\u092a\u0941\u0930\u094d\u0924\u0917\u093e\u0932"
     ],
     "name:bis_x_preferred":[
         "Portugal"
@@ -130,17 +144,26 @@
     "name:cdo_x_preferred":[
         "Pu\u00f2-d\u00f2\u0324-ng\u00e0"
     ],
+    "name:cdo_x_variant":[
+        "Bu\u00f2-d\u00f2\u0324-ng\u00e0"
+    ],
     "name:ceb_x_preferred":[
         "Portugal"
     ],
     "name:ces_x_preferred":[
         "Portugalsko"
     ],
+    "name:cha_x_preferred":[
+        "Portugal"
+    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438"
     ],
     "name:chr_x_preferred":[
         "\u13c9\u13e5\u13a6\u13b3"
+    ],
+    "name:chr_x_variant":[
+        "\u13c9\u13e7\u13a6\u13b5"
     ],
     "name:chu_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043e\u0433\u0430\u043b\u0457\ua657"
@@ -166,10 +189,13 @@
     "name:cym_x_preferred":[
         "Portiwgal"
     ],
-    "name:cze_x_preferred":[
-        "Portugalsko"
-    ],
     "name:dan_x_preferred":[
+        "Portugal"
+    ],
+    "name:deu_at_x_preferred":[
+        "Portugal"
+    ],
+    "name:deu_ch_x_preferred":[
         "Portugal"
     ],
     "name:deu_x_preferred":[
@@ -184,6 +210,9 @@
     "name:dsb_x_preferred":[
         "Portugalska"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091a\u0941\u0917\u0932"
+    ],
     "name:dzo_x_preferred":[
         "\u0f54\u0f7c\u0f62\u0f0b\u0f45\u0f74\u0f0b\u0f42\u0f63\u0f0b"
     ],
@@ -192,6 +221,15 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03b1\u03bb\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Purtug\u00e0l"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Portugal"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Portugal"
     ],
     "name:eng_x_preferred":[
         "Portugal"
@@ -232,6 +270,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0631\u062a\u063a\u0627\u0644"
     ],
+    "name:fij_x_preferred":[
+        "Potukali"
+    ],
     "name:fin_x_preferred":[
         "Portugali"
     ],
@@ -259,6 +300,9 @@
     "name:gag_x_preferred":[
         "Portugaliya"
     ],
+    "name:gcr_x_preferred":[
+        "Potidjal"
+    ],
     "name:ger_x_variant":[
         "Portugiesische Republik"
     ],
@@ -277,11 +321,17 @@
     "name:gom_x_preferred":[
         "\u092a\u094b\u0930\u094d\u0924\u0941\u0917\u093e\u0932"
     ],
+    "name:gom_x_variant":[
+        "Portugal"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf40\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf44\ud800\udf3f\ud800\udf32\ud800\udf30\ud800\udf3b\ud800\udf3e\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Poytuga"
+    ],
+    "name:gsw_x_preferred":[
+        "Portugal"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0ac1\u0a97\u0ab2"
@@ -322,6 +372,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0578\u0580\u057f\u0578\u0582\u0563\u0561\u056c\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0578\u0580\u0569\u0578\u0582\u056f\u0561\u056c"
+    ],
     "name:ibo_x_preferred":[
         "Portugal"
     ],
@@ -342,6 +395,9 @@
     ],
     "name:ind_x_variant":[
         "Portugis"
+    ],
+    "name:inh_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438"
     ],
     "name:isl_x_preferred":[
         "Port\u00fagal"
@@ -394,11 +450,21 @@
     "name:kbd_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b"
+    ],
+    "name:kbp_x_preferred":[
+        "P\u0254ritigaal\u0269"
+    ],
+    "name:kea_x_preferred":[
+        "Purtugal"
+    ],
     "name:khm_x_preferred":[
         "\u1796\u17d0\u179a\u1791\u17bb\u1799\u17a0\u17d2\u1782\u17b6\u179b\u17cb"
     ],
     "name:khm_x_variant":[
-        "\u1796\u17d0\u179a\u1791\u17bb\u1799\u17a0\u17d2\u1780\u17b6\u179b\u17cb"
+        "\u1796\u17d0\u179a\u1791\u17bb\u1799\u17a0\u17d2\u1780\u17b6\u179b\u17cb",
+        "\u1794\u17d2\u179a\u1791\u17c1\u179f \u1796\u17d0\u179a\u1791\u17bb\u1799\u17a0\u17d2\u1782\u17b6\u179b\u17cb"
     ],
     "name:kik_x_preferred":[
         "Ureno"
@@ -455,6 +521,9 @@
     "name:lez_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Portugal"
+    ],
     "name:lij_x_preferred":[
         "P\u00f2rtogallo"
     ],
@@ -470,11 +539,20 @@
     "name:lit_x_preferred":[
         "Portugalija"
     ],
+    "name:liv_x_preferred":[
+        "Portug\u0101l"
+    ],
     "name:lmo_x_preferred":[
         "Portug\u00e0l (Stat)"
     ],
+    "name:lmo_x_variant":[
+        "Portug\u00e0l"
+    ],
     "name:lrc_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0626\u063a\u0627\u0644"
+    ],
+    "name:lrc_x_variant":[
+        "\u067e\u0631\u062a\u063a\u0627\u0644"
     ],
     "name:ltg_x_preferred":[
         "Portugaleja"
@@ -487,6 +565,12 @@
     ],
     "name:lug_x_preferred":[
         "Potugaali"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091a\u0941\u0917\u0932"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4b\u0d7c\u0d1a\u0d4d\u0d1a\u0d41\u0d17\u0d7d"
@@ -521,6 +605,9 @@
     "name:mon_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b \u0443\u043b\u0441"
     ],
+    "name:mon_x_variant":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b"
+    ],
     "name:mri_x_preferred":[
         "Potukara"
     ],
@@ -544,6 +631,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u067e\u0631\u062a\u063a\u0627\u0644"
+    ],
+    "name:nah_x_preferred":[
+        "Portugal"
+    ],
+    "name:nan_x_preferred":[
+        "Ph\u00fb-t\u00f4-g\u00e2"
     ],
     "name:nap_x_preferred":[
         "Purtuallo"
@@ -593,6 +686,9 @@
     "name:oci_x_preferred":[
         "Portugal"
     ],
+    "name:olo_x_preferred":[
+        "Portugalii"
+    ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b30\u0b4d\u0b24\u0b4d\u0b24\u0b41\u0b17\u0b3e\u0b32"
     ],
@@ -641,6 +737,9 @@
     "name:pol_x_preferred":[
         "Portugalia"
     ],
+    "name:por_br_x_preferred":[
+        "Portugal"
+    ],
     "name:por_x_preferred":[
         "Portugal"
     ],
@@ -651,7 +750,8 @@
         "\u067e\u0631\u062a\u06af\u0627\u0644"
     ],
     "name:pus_x_variant":[
-        "\u067e\u0648\u0631\u062a\u06ab\u0627\u0644"
+        "\u067e\u0648\u0631\u062a\u06ab\u0627\u0644",
+        "\u067e\u0631\u062a\u06ab\u0627\u0644"
     ],
     "name:que_x_preferred":[
         "Purtugal"
@@ -668,14 +768,14 @@
     "name:rue_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0491\u0430\u043b\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Portugalia"
-    ],
     "name:run_x_preferred":[
         "Portugal"
     ],
     "name:run_x_variant":[
         "Porutugali"
+    ],
+    "name:rup_x_preferred":[
+        "Portogallia"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
@@ -689,11 +789,17 @@
     "name:san_x_preferred":[
         "\u092a\u0941\u0930\u094d\u0924\u0917\u093e\u0932"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c73\u1c68\u1c5b\u1c69\u1c5c\u1c5f\u1c5e"
+    ],
     "name:scn_x_preferred":[
         "Portugallu"
     ],
     "name:sco_x_preferred":[
         "Portugal"
+    ],
+    "name:sgs_x_preferred":[
+        "Puortogal\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd8\u0dad\u0dd4\u0d9c\u0dcf\u0dbd\u0dba"
@@ -704,6 +810,9 @@
     "name:slv_x_preferred":[
         "Portugalska"
     ],
+    "name:sma_x_preferred":[
+        "P\u00e5rtugaal"
+    ],
     "name:sme_x_preferred":[
         "Portugal"
     ],
@@ -712,6 +821,9 @@
     ],
     "name:smo_x_preferred":[
         "Potukale"
+    ],
+    "name:smo_x_variant":[
+        "Portugal"
     ],
     "name:sna_x_preferred":[
         "Portugal"
@@ -740,8 +852,17 @@
     "name:srd_x_preferred":[
         "Portogallo"
     ],
+    "name:srd_x_variant":[
+        "Portugallu"
+    ],
     "name:srn_x_preferred":[
         "Portugesokondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Portugalija"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0458\u0430"
@@ -766,6 +887,9 @@
     ],
     "name:szl_x_preferred":[
         "Portugalijo"
+    ],
+    "name:szy_x_preferred":[
+        "Portugal"
     ],
     "name:tah_x_preferred":[
         "P\u014dt\u012bt\u012b"
@@ -828,6 +952,9 @@
     "name:uig_x_preferred":[
         "\u067e\u0648\u0631\u062a\u06c7\u06af\u0627\u0644\u0649\u064a\u06d5"
     ],
+    "name:uig_x_variant":[
+        "Portugaliye"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0456\u044f"
     ],
@@ -837,18 +964,11 @@
     "name:und_x_colloquial":[
         "Portogalia"
     ],
-    "name:und_x_preferred":[
-        "Port\u00fagal",
-        "Republica Portuguesa"
-    ],
     "name:und_x_variant":[
+        "Republica Portuguesa",
         "Portogal\u00eda",
         "Portugale",
-        "Portugalija",
-        "Portugalsko",
-        "Portuhalija"
-    ],
-    "name:unk_x_variant":[
+        "Portuhalija",
         "Lusitania"
     ],
     "name:urd_x_preferred":[
@@ -859,6 +979,9 @@
     ],
     "name:vec_x_preferred":[
         "Portoga\u0142o"
+    ],
+    "name:ven_x_preferred":[
+        "Portugal"
     ],
     "name:vep_x_preferred":[
         "Portugalii"
@@ -871,6 +994,9 @@
     ],
     "name:vol_x_preferred":[
         "Portug\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Portugal"
     ],
     "name:war_x_preferred":[
         "Portugal"
@@ -902,16 +1028,37 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de P\u1ecdtugi"
     ],
+    "name:yue_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
     "name:zea_x_preferred":[
         "Portuhal"
+    ],
+    "name:zha_x_preferred":[
+        "Buzdauzyaz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8461\u8404\u7259"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ph\u00fb-t\u00f4-g\u00e2"
     ],
-    "name:zho_x_preferred":[
+    "name:zho_mo_x_preferred":[
         "\u8461\u8404\u7259"
     ],
-    "name:zho_x_variant":[
+    "name:zho_my_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8461\u8404\u7259"
+    ],
+    "name:zho_x_preferred":[
         "\u8461\u8404\u7259"
     ],
     "name:zho_yue_x_preferred":[
@@ -996,13 +1143,11 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"351",
     "statoids:ds":"P",
@@ -1031,6 +1176,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Portugal",
+        "digitalenvoy:country_code":620,
         "fb:id":"en.portugal",
         "fifa:id":"POR",
         "fips:code":"PO",
@@ -1046,7 +1192,7 @@
         "mzb:id":"portugal",
         "ne:adm0_a3":"PRT",
         "nyt:id":"58445269955092285191",
-        "qs:id":1032180,
+        "qs_pg:id":1032180,
         "uncrt:id":"P",
         "wd:id":"Q45",
         "wk:page":"Portugal",
@@ -1054,6 +1200,10 @@
     },
     "wof:country":"PT",
     "wof:country_alpha3":"PRT",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"b07b255c729b4bbc6f877ea65324bd4c",
     "wof:hierarchy":[
         {
@@ -1062,16 +1212,13 @@
         }
     ],
     "wof:id":85633735,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1606163323,
+    "wof:lastmodified":1587427345,
     "wof:name":"Portugal",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

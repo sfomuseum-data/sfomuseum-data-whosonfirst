@@ -5,20 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130732,
-    "geom:area_square_m":1611930057.557994,
+    "geom:area_square_m":1611930057.560014,
     "geom:bbox":"-74.451763,3.729768,-73.996315,4.835606",
     "geom:latitude":4.312371,
     "geom:longitude":-74.181741,
     "gn:country":"CO",
     "gn:fcode":"PPLC",
-    "gn:pop":7102602,
+    "gn:population":7102602,
     "iso:country":"CO",
     "lbl:latitude":4.635456,
     "lbl:longitude":-74.08768,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
     "name:ace_x_preferred":[
         "Bogota"
     ],
@@ -26,9 +32,6 @@
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:afr_x_preferred":[
-        "Bogot\u00e1"
-    ],
-    "name:alb_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:amh_x_preferred":[
@@ -40,11 +43,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u0648\u062a\u0627"
     ],
+    "name:arc_x_preferred":[
+        "\u0712\u0718\u0713\u0718\u071b\u0710"
+    ],
     "name:arg_x_preferred":[
         "Bogot\u00e1"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0563\u0578\u057f\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u062c\u0648\u062a\u0627"
@@ -67,7 +70,7 @@
     "name:bam_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:bcl_x_preferred":[
@@ -78,6 +81,15 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u0997\u09cb\u09a4\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u094b\u0917\u094b\u091f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Bogota"
+    ],
+    "name:bjn_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f7c\u0f0b\u0f42\u0f7c\u0f0b\u0f4f"
@@ -91,14 +103,17 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u102d\u102f\u1002\u102d\u102f\u1010\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Bogot\u00e0"
+    ],
+    "name:cdo_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:ces_x_preferred":[
         "Bogot\u00e1"
@@ -106,8 +121,8 @@
     "name:che_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u54e5\u5927"
+    "name:chr_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06c6\u06af\u06c6\u062a\u0627"
@@ -118,13 +133,16 @@
     "name:cos_x_preferred":[
         "Bogot\u00e0"
     ],
+    "name:crh_x_preferred":[
+        "Bogota"
+    ],
     "name:cym_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:cze_x_preferred":[
+    "name:dan_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:dan_x_preferred":[
+    "name:deu_ch_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:deu_x_preferred":[
@@ -136,14 +154,20 @@
     "name:dsb_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Bogota"
+    "name:dty_x_preferred":[
+        "\u092c\u094b\u0917\u094b\u091f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03b3\u03ba\u03bf\u03c4\u03ac"
     ],
     "name:eml_x_preferred":[
         "Bugut\u00e0"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:eng_x_preferred":[
         "Bogot\u00e1"
@@ -157,6 +181,12 @@
     "name:eus_x_preferred":[
         "Bogota"
     ],
+    "name:eus_x_variant":[
+        "Bogot\u00e1"
+    ],
+    "name:ewe_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:ext_x_preferred":[
         "Bogot\u00e1"
     ],
@@ -166,23 +196,29 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u06af\u0648\u062a\u0627"
     ],
+    "name:fij_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:fin_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:fra_x_preferred":[
         "Bogota"
     ],
-    "name:fre_x_preferred":[
-        "Bogota"
+    "name:fra_x_variant":[
+        "Bogot\u00e1"
+    ],
+    "name:frp_x_preferred":[
+        "Bogot\u00e2"
+    ],
+    "name:frr_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:fry_x_preferred":[
         "Bogota"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d2\u10dd\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bogot\u00e1"
+    "name:fur_x_preferred":[
+        "Bogot\u00e0"
     ],
     "name:gla_x_preferred":[
         "Bogot\u00e1"
@@ -193,9 +229,6 @@
     "name:glg_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03b3\u03ba\u03bf\u03c4\u03ac"
-    ],
     "name:grn_x_preferred":[
         "Bogot\u00e1"
     ],
@@ -205,7 +238,16 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a97\u0acb\u0a9f\u0abe"
     ],
+    "name:hak_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:hat_x_preferred":[
+        "Bogota"
+    ],
+    "name:hau_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:haw_x_preferred":[
         "Bogota"
     ],
     "name:hbs_x_preferred":[
@@ -232,8 +274,11 @@
     "name:hye_x_preferred":[
         "\u0532\u0578\u0563\u0578\u057f\u0561"
     ],
-    "name:ice_x_preferred":[
-        "B\u00f3g\u00f3ta"
+    "name:hyw_x_preferred":[
+        "\u054a\u0578\u056f\u0578\u0569\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:ido_x_preferred":[
         "Bogota"
@@ -250,11 +295,23 @@
     "name:ind_x_preferred":[
         "Bogot\u00e1"
     ],
+    "name:inh_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:ipk_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:isl_x_preferred":[
         "B\u00f3g\u00f3ta"
     ],
     "name:ita_x_preferred":[
         "Bogot\u00e1"
+    ],
+    "name:ita_x_variant":[
+        "Bogot\u00e0"
+    ],
+    "name:jam_x_preferred":[
+        "Bogota"
     ],
     "name:jav_x_preferred":[
         "Bogot\u00e1"
@@ -263,6 +320,9 @@
         "\u30dc\u30b4\u30bf"
     ],
     "name:kaa_x_preferred":[
+        "Bogota"
+    ],
+    "name:kab_x_preferred":[
         "Bogota"
     ],
     "name:kal_x_preferred":[
@@ -277,11 +337,20 @@
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Pogotaa"
+    ],
     "name:khm_x_preferred":[
         "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u1794\u17bc\u1780\u17bc\u178f\u17b6"
     ],
+    "name:kik_x_preferred":[
+        "Bogota"
+    ],
     "name:kin_x_preferred":[
         "Bogota"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:kon_x_preferred":[
         "Bogota"
@@ -304,6 +373,9 @@
     "name:lez_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
+    "name:lfn_x_preferred":[
+        "Bogota"
+    ],
     "name:lij_x_preferred":[
         "Bogot\u00e1"
     ],
@@ -322,11 +394,14 @@
     "name:lrc_x_preferred":[
         "\u0628\u0648\u06af\u0648\u062a\u0627"
     ],
+    "name:ltg_x_preferred":[
+        "Bogota"
+    ],
     "name:ltz_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0433\u043e\u0442\u0430"
+    "name:lzh_x_preferred":[
+        "\u6ce2\u54e5\u5927"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4a\u0d17\u0d4b\u0d1f\u0d4d\u0d1f"
@@ -334,11 +409,11 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0917\u094b\u0924\u093e"
     ],
-    "name:may_x_preferred":[
-        "Bogot\u00e1"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:min_x_preferred":[
+        "Bogota"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
@@ -348,6 +423,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:mwl_x_preferred":[
         "Bogot\u00e1"
@@ -382,17 +460,32 @@
     "name:nov_x_preferred":[
         "Bogota"
     ],
+    "name:nrm_x_preferred":[
+        "Bogota"
+    ],
+    "name:nso_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:nya_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:oci_x_preferred":[
         "Bogot\u00e0"
     ],
+    "name:olo_x_preferred":[
+        "Bogota"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b4b\u0b17\u0b4b\u0b1f\u0b3e"
     ],
+    "name:orm_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:pag_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a4b\u0a17\u0a4b\u0a24\u0a3e"
@@ -400,8 +493,14 @@
     "name:pap_x_preferred":[
         "Bogota"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06af\u0648\u062a\u0627"
+    "name:pcd_x_preferred":[
+        "Bogota"
+    ],
+    "name:pdc_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:pih_x_preferred":[
+        "Bogota"
     ],
     "name:pms_x_preferred":[
         "Bogot\u00e0"
@@ -411,6 +510,9 @@
     ],
     "name:pol_x_preferred":[
         "Bogota"
+    ],
+    "name:por_br_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:por_x_preferred":[
         "Bogot\u00e1"
@@ -430,16 +532,13 @@
     "name:rue_x_preferred":[
         "\u0411\u043e\u0491\u043e\u0442\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:run_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:rup_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0433\u043e\u0442\u0430"
-    ],
-    "name:rus_x_variant":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:sah_x_preferred":[
@@ -460,17 +559,26 @@
     "name:slk_x_preferred":[
         "Bogota"
     ],
-    "name:slo_x_preferred":[
+    "name:slv_x_preferred":[
         "Bogota"
     ],
-    "name:slv_x_preferred":[
+    "name:sme_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:smo_x_preferred":[
         "Bogota"
     ],
     "name:sna_x_preferred":[
         "Bogot\u00e1"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u06af\u0648\u067d\u0627"
+    ],
     "name:som_x_preferred":[
         "Bogota"
+    ],
+    "name:sot_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:spa_x_historical":[
         "Santaf\u00e9 de Bogot\u00e1",
@@ -483,11 +591,26 @@
         "Santaf\u00e9 de Bogot\u00e1",
         "Santafe de Bogot\u00e1"
     ],
+    "name:sqi_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:srd_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:srn_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:stq_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:sun_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:swa_x_preferred":[
         "Bogota"
@@ -513,20 +636,32 @@
     "name:tet_x_preferred":[
         "Bogot\u00e1"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Bogota"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e42\u0e01\u0e15\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f7c\u0f0b\u0f42\u0f7c\u0f0b\u0f4f"
+    "name:ton_x_preferred":[
+        "Pokot\u0101"
+    ],
+    "name:tpi_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:tsn_x_preferred":[
+        "Bogot\u00e1"
     ],
     "name:tuk_x_preferred":[
         "Bogota"
     ],
     "name:tur_x_preferred":[
         "Bogot\u00e1"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:uig_x_preferred":[
         "Bogota"
@@ -543,10 +678,16 @@
     "name:vec_x_preferred":[
         "Bogot\u00e0"
     ],
+    "name:ven_x_preferred":[
+        "Bogot\u00e1"
+    ],
     "name:vep_x_preferred":[
         "Bogot"
     ],
     "name:vie_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:vls_x_preferred":[
         "Bogot\u00e1"
     ],
     "name:vol_x_preferred":[
@@ -558,8 +699,11 @@
     "name:war_x_preferred":[
         "Bogot\u00e1"
     ],
-    "name:wel_x_preferred":[
-        "Bogot\u00e1"
+    "name:wln_x_preferred":[
+        "Bogota"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ce2\u54e5\u5927"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10dd\u10d2\u10dd\u10e2\u10d0"
@@ -576,8 +720,17 @@
     "name:zha_x_preferred":[
         "Bogot\u00e1"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u6ce2\u54e5\u5927"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6ce2\u54e5\u5927"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u54e5\u5927"
+    ],
+    "name:zul_x_preferred":[
+        "IBogotaa"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -597,7 +750,6 @@
     "qs:qs_id":1075499,
     "qs:woe_adm0":23424787,
     "qs:woe_id":368148,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -606,24 +758,27 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670165,
-        1108700089
+        1108700089,
+        85670165
     ],
     "wof:breaches":[],
     "wof:capital_of":85632519,
     "wof:concordances":{
         "gn:id":3688689,
         "gp:id":368148,
-        "qs:id":1075499,
+        "qs_pg:id":1075499,
         "wd:id":"Q2841",
         "wk:page":"Bogot\u00e1"
     },
     "wof:concordances_alt":{
         "gp:id":56125958,
-        "qs:id":1046404
+        "qs_pg:id":1046404
     },
     "wof:country":"CO",
     "wof:created":1459009488,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2a5628e6d02e7f76d8d5e103e2b61a2",
     "wof:hierarchy":[
         {
@@ -635,7 +790,7 @@
         }
     ],
     "wof:id":421186687,
-    "wof:lastmodified":1606163054,
+    "wof:lastmodified":1587428694,
     "wof:name":"Bogot\u00e1",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

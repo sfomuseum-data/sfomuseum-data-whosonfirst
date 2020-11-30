@@ -5,20 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.494678,
-    "geom:area_square_m":129536175974.10939,
+    "geom:area_square_m":129536175974.101624,
     "geom:bbox":"17.75735,-34.83417,24.22241,-30.43026",
     "geom:latitude":-33.014548,
     "geom:longitude":20.616038,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"WC",
     "label:eng_x_preferred_longname":[
         "Western Cape Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WC"
+    ],
     "lbl:latitude":-33.582933,
     "lbl:longitude":19.760643,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Western Cape",
     "mps:latitude":-33.305112,
     "mps:longitude":21.746786,
@@ -32,14 +35,11 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0587\u0565\u056c\u0575\u0561\u0576 \u0554\u0565\u0575\u0583"
+    "name:ast_x_preferred":[
+        "Provincia Cabo Occidental"
     ],
     "name:aze_x_preferred":[
         "Q\u0259rbi Kaap vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Lurmutur Mendebaldea"
     ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0445\u043e\u0434\u043d\u0435-\u041a\u0430\u043f\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
@@ -59,20 +59,17 @@
     "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed Kapsko"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u958b\u666e\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Z\u00e1padn\u00ed Kapsko"
-    ],
     "name:dan_x_preferred":[
         "Vest-Kapprovinsen"
     ],
     "name:deu_x_preferred":[
         "Westkap"
     ],
-    "name:dut_x_preferred":[
-        "West-Kaap"
+    "name:ell_x_preferred":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03cc \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03bf \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Western Cape"
@@ -82,6 +79,9 @@
     ],
     "name:est_x_preferred":[
         "L\u00e4\u00e4ne-Kapimaa provints"
+    ],
+    "name:est_x_variant":[
+        "L\u00e4\u00e4ne-Kapimaa"
     ],
     "name:eus_x_preferred":[
         "Lurmutur Mendebaldea"
@@ -95,23 +95,20 @@
     "name:fin_x_preferred":[
         "L\u00e4nsi-Kap"
     ],
+    "name:fin_x_variant":[
+        "Western Cape"
+    ],
     "name:fra_x_preferred":[
         "Cap occidental"
     ],
-    "name:fre_x_preferred":[
-        "Cap occidental"
+    "name:fra_x_variant":[
+        "Cap-Occidental"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10d9\u10d0\u10de\u10da\u10d0\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Westkap"
+    "name:frr_x_preferred":[
+        "Waastkap"
     ],
     "name:glg_x_preferred":[
         "Cabo Occidental"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03c5\u03c4\u03b9\u03ba\u03cc \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0a95\u0ac7\u0aaa"
@@ -131,6 +128,9 @@
     "name:hrv_x_preferred":[
         "Western Cape"
     ],
+    "name:hun_x_preferred":[
+        "Nyugat-Fokf\u00f6ld"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0587\u0565\u056c\u0575\u0561\u0576 \u0554\u0565\u0575\u0583"
     ],
@@ -140,17 +140,29 @@
     "name:ita_x_preferred":[
         "Provincia del Capo Occidentale"
     ],
+    "name:ita_x_variant":[
+        "provincia del Capo Occidentale"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u30b1\u30fc\u30d7\u5dde"
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0cb0\u0ccd\u0ca8\u0ccd \u0c95\u0cc7\u0caa\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10d9\u10d0\u10de\u10da\u10d0\u10dc\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6e8\uc2a4\ud134\ucf00\uc774\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc6e8\uc2a4\ud134\ucf00\uc774\ud504\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Caput occidentale"
+    ],
+    "name:lat_x_variant":[
+        "Promontorium Occidentale"
     ],
     "name:lav_x_preferred":[
         "Rietumk\u0101pa"
@@ -158,20 +170,23 @@
     "name:lit_x_preferred":[
         "Vakar\u0173 Kapas"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u043f\u0430\u0434\u0435\u043d \u041a\u0435\u0458\u043f"
+    "name:ltz_x_preferred":[
+        "Westkap"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d1f\u0d3f\u0d1e\u0d4d\u0d1e\u0d3e\u0d31\u0d7b \u0d15\u0d47\u0d2a\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0938\u094d\u091f\u0930\u094d\u0928 \u0915\u0947\u092a"
-    ],
-    "name:may_x_preferred":[
-        "Cape Barat"
     ],
     "name:mkd_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u0435\u043d \u041a\u0435\u0458\u043f"
     ],
     "name:msa_x_preferred":[
         "Cape Barat"
+    ],
+    "name:nan_x_preferred":[
+        "Sai Cape S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "West-Kaap"
@@ -181,6 +196,9 @@
     ],
     "name:nob_x_preferred":[
         "Western Cape"
+    ],
+    "name:nob_x_variant":[
+        "Wes-Kaap"
     ],
     "name:nor_x_preferred":[
         "Western Cape"
@@ -194,22 +212,19 @@
     "name:nya_x_preferred":[
         "Western Cape"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u067e \u063a\u0631\u0628\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0691\u06be\u062f\u0627 \u06a9\u06cc\u067e"
     ],
     "name:pol_x_preferred":[
         "Prowincja Przyl\u0105dkowa Zachodnia"
     ],
+    "name:por_br_x_preferred":[
+        "Cabo Ocidental"
+    ],
     "name:por_x_preferred":[
         "Cabo Ocidental"
     ],
     "name:ron_x_preferred":[
-        "Provincia Western Cape"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Western Cape"
     ],
     "name:rus_x_preferred":[
@@ -221,6 +236,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d9a\u0dda\u0db4\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Z\u00e1padn\u00e9 Kapsko"
+    ],
     "name:som_x_preferred":[
         "Western Cape Province"
     ],
@@ -229,6 +247,12 @@
     ],
     "name:spa_x_preferred":[
         "Provincia Occidental del Cabo"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0438 \u041a\u0435\u0458\u043f"
+    ],
+    "name:srp_el_x_preferred":[
+        "Zapadni Kejp"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0438 \u041a\u0435\u0458\u043f"
@@ -254,13 +278,16 @@
     "name:tsn_x_preferred":[
         "Kapa Bophirima"
     ],
+    "name:tsn_x_variant":[
+        "Western Cape"
+    ],
     "name:tur_x_preferred":[
         "Bat\u0131 Kap"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u041a\u0430\u043f\u0441\u044c\u043a\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of the Western Cape"
     ],
     "name:urd_x_preferred":[
@@ -275,6 +302,9 @@
     "name:vol_x_preferred":[
         "Ves\u00fcdakepi\u00e4n"
     ],
+    "name:wuu_x_preferred":[
+        "\u897f\u5f00\u666e\u7701"
+    ],
     "name:xho_x_preferred":[
         "IPhondo yaNtshona-Koloni"
     ],
@@ -284,11 +314,29 @@
     "name:yor_x_preferred":[
         "Western Cape"
     ],
+    "name:yue_x_preferred":[
+        "\u897f\u958b\u666e"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u897f\u5f00\u666e\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u897f\u958b\u666e\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u897f\u5f00\u666e\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u958b\u666e\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u958b\u666e\u7701"
     ],
     "name:zul_x_preferred":[
         "IKipi laseNtshonalanga"
+    ],
+    "name:zul_x_variant":[
+        "INtshonalanga Kapa"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZAF",
@@ -355,14 +403,13 @@
     "qs:adm0_a3":"ZAF",
     "qs:level":"adm1",
     "qs:source":"GlobalMap",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"129,462",
     "statoids:area_mi":"49,986",
     "statoids:as_of_date":"2001-10-10",
@@ -383,6 +430,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":4103,
         "fips:code":"SF11",
         "gn:id":1085599,
         "gp:id":2346987,
@@ -392,6 +440,9 @@
         "wd:id":"Q127167"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42e342b86224b5d0083b31e2030f697d",
     "wof:hierarchy":[
         {
@@ -417,11 +468,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1606163156,
+    "wof:lastmodified":1587428956,
     "wof:name":"Western Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":5822734,
     "wof:population_rank":13,

@@ -8,26 +8,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.798403,
-    "geom:area_square_m":24858033108.652077,
+    "geom:area_square_m":24858033108.655914,
     "geom:bbox":"-73.437905,42.72685,-71.465039,45.016659",
     "geom:latitude":44.075289,
     "geom:longitude":-72.662533,
     "iso:country":"US",
     "iso:subdivision":"US-VT",
-    "label:eng_us_x_preferred_longname":[
-        "Vermont"
-    ],
     "label:eng_x_preferred_longname":[
-        "Vermont State"
+        "Vermont"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VT"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Vermont"
+        "State of Vermont",
+        "Vermont State"
     ],
     "lbl:latitude":44.211857,
     "lbl:longitude":-72.681238,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.211857,
     "mps:longitude":-72.681238,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Vermont"
-    ],
-    "name:alb_x_preferred":[
         "Vermont"
     ],
     "name:amh_x_preferred":[
@@ -54,9 +53,6 @@
     ],
     "name:arg_x_preferred":[
         "Vermont"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u0574\u0578\u0576\u057f"
     ],
     "name:arz_x_preferred":[
         "\u0641\u064a\u0631\u0645\u0648\u0646\u062a"
@@ -76,9 +72,6 @@
     "name:bak_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
-    "name:baq_x_preferred":[
-        "Vermont"
-    ],
     "name:bar_x_preferred":[
         "Vermont"
     ],
@@ -89,7 +82,8 @@
         "\u0428\u0442\u0430\u0442 \u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
     "name:bel_x_variant":[
-        "\u0412\u044d\u0440\u043c\u043e\u043d\u0442"
+        "\u0412\u044d\u0440\u043c\u043e\u043d\u0442",
+        "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u09ae\u09a8\u09cd\u099f"
@@ -112,9 +106,6 @@
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u043c\u043e\u043d\u0442"
     ],
-    "name:bur_x_preferred":[
-        "\u1017\u102c\u1038\u1019\u1031\u102c\u1004\u1037\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
@@ -133,14 +124,14 @@
     "name:che_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4f5b\u8499\u7279\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
     "name:ckb_x_preferred":[
         "\u06a4\u06ce\u0631\u0645\u06c6\u0646\u062a"
+    ],
+    "name:ckb_x_variant":[
+        "\u0648\u06ce\u0631\u0645\u06c6\u0646\u062a"
     ],
     "name:cor_x_preferred":[
         "Vermont"
@@ -151,9 +142,6 @@
     "name:cym_x_preferred":[
         "Vermont"
     ],
-    "name:cze_x_preferred":[
-        "Vermont"
-    ],
     "name:dan_x_preferred":[
         "Vermont"
     ],
@@ -161,9 +149,6 @@
         "Vermont"
     ],
     "name:diq_x_preferred":[
-        "Vermont"
-    ],
-    "name:dut_x_preferred":[
         "Vermont"
     ],
     "name:ell_x_preferred":[
@@ -203,9 +188,6 @@
     "name:fra_x_preferred":[
         "Vermont"
     ],
-    "name:fre_x_preferred":[
-        "Vermont"
-    ],
     "name:frp_x_preferred":[
         "V\u00e8rmont"
     ],
@@ -216,12 +198,6 @@
         "Fermont"
     ],
     "name:gag_x_preferred":[
-        "Vermont"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e0\u10db\u10dd\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Vermont"
     ],
     "name:gla_x_preferred":[
@@ -236,8 +212,8 @@
     "name:glv_x_preferred":[
         "Vermont"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03c1\u03bc\u03cc\u03bd\u03c4"
+    "name:got_x_preferred":[
+        "\ud800\udf31\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf3c\ud800\udf30\ud800\udf3f\ud800\udf3d\ud800\udf44"
     ],
     "name:grn_x_preferred":[
         "Vermont"
@@ -248,8 +224,14 @@
     "name:hak_x_preferred":[
         "Fu-m\u00f9ng-thi\u030dt"
     ],
+    "name:hak_x_variant":[
+        "Vermont"
+    ],
     "name:hat_x_preferred":[
         "V\u00e8mont"
+    ],
+    "name:hau_x_preferred":[
+        "Vermont"
     ],
     "name:haw_x_preferred":[
         "Welemoneka"
@@ -266,6 +248,9 @@
     "name:hin_x_preferred":[
         "\u0935\u0930\u092e\u0949\u0923\u094d\u091f"
     ],
+    "name:hin_x_variant":[
+        "\u0935\u0930\u094d\u092e\u093e\u0902\u091f"
+    ],
     "name:hrv_x_preferred":[
         "Vermont"
     ],
@@ -276,9 +261,6 @@
         "\u054e\u0565\u0580\u0574\u0578\u0576\u057f"
     ],
     "name:ibo_x_preferred":[
-        "Vermont"
-    ],
-    "name:ice_x_preferred":[
         "Vermont"
     ],
     "name:ido_x_preferred":[
@@ -292,6 +274,9 @@
     ],
     "name:ina_x_preferred":[
         "Stato Vermont"
+    ],
+    "name:ina_x_variant":[
+        "Vermont"
     ],
     "name:ind_x_preferred":[
         "Vermont"
@@ -323,8 +308,14 @@
     "name:kaz_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
+    "name:kbp_x_preferred":[
+        "F\u025brm\u0254\u0254n"
+    ],
     "name:kor_x_preferred":[
         "\ubc84\ubaac\ud2b8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc84\ubaac\ud2b8\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Vermont"
@@ -337,6 +328,9 @@
     ],
     "name:lav_x_preferred":[
         "V\u0113rmonta"
+    ],
+    "name:lfn_x_preferred":[
+        "Vermont"
     ],
     "name:lij_x_preferred":[
         "Vermont"
@@ -353,23 +347,23 @@
     "name:lrc_x_preferred":[
         "\u06a4\u0626\u0631\u0645\u0648\u0646\u062a"
     ],
+    "name:lrc_x_variant":[
+        "\u0648\u0631\u0645\u0648\u0646\u062a"
+    ],
     "name:ltz_x_preferred":[
         "Vermont"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
+    "name:lzh_x_preferred":[
+        "\u4f5b\u8499\u7279\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0930\u094d\u092e\u093e\u0902\u091f"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d46\u0d7c\u0d2e\u0d4b\u0d23\u0d4d\u0d1f\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Vermont"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u0930\u092e\u093e\u0901\u091f"
-    ],
-    "name:may_x_preferred":[
-        "Vermont"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
@@ -443,11 +437,11 @@
     "name:pan_x_preferred":[
         "\u0a35\u0a30\u0a2e\u0a3e\u0a02\u0a1f"
     ],
-    "name:pdc_x_preferred":[
+    "name:pap_x_preferred":[
         "Vermont"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0645\u0648\u0646\u062a"
+    "name:pdc_x_preferred":[
+        "Vermont"
     ],
     "name:pli_x_preferred":[
         "\u092d\u0930\u094d\u092e\u094b\u0928\u094d\u091f"
@@ -459,6 +453,9 @@
         "\u0648\u0631\u0645\u0648\u0646\u0679"
     ],
     "name:pol_x_preferred":[
+        "Vermont"
+    ],
+    "name:por_br_x_preferred":[
         "Vermont"
     ],
     "name:por_x_preferred":[
@@ -474,9 +471,6 @@
         "Vermont"
     ],
     "name:ron_x_preferred":[
-        "Vermont"
-    ],
-    "name:rum_x_preferred":[
         "Vermont"
     ],
     "name:rus_x_preferred":[
@@ -501,9 +495,6 @@
         "\u0dc0\u0dbb\u0dca\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Vermont"
-    ],
-    "name:slo_x_preferred":[
         "Vermont"
     ],
     "name:slv_x_preferred":[
@@ -545,6 +536,9 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c30\u0c4d\u0c2e\u0c3e\u0c02\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0435\u0440\u043c\u043e\u043d\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Vermont"
     ],
@@ -581,9 +575,6 @@
     "name:war_x_preferred":[
         "Vermont"
     ],
-    "name:wel_x_preferred":[
-        "Vermont"
-    ],
     "name:wuu_x_preferred":[
         "\u4f5b\u8499\u7279"
     ],
@@ -602,8 +593,20 @@
     "name:yue_x_preferred":[
         "\u4f5b\u8499\u7279\u5dde"
     ],
+    "name:zea_x_preferred":[
+        "Vermont"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f5b\u8499\u7279\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4f5b\u8499\u7279\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Vermont"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f5b\u8499\u7279\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u4f5b\u8499\u7279\u5dde"
@@ -680,14 +683,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"24,900",
     "statoids:area_mi":"9,614",
     "statoids:as_of_date":"2010-04-01",
@@ -708,6 +710,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":46,
         "fips:code":"US50",
         "gn:id":5242283,
         "gp:id":2347604,
@@ -717,6 +720,9 @@
         "wd:id":"Q16551"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"7c7020c34c211047c6a263d52e733a2c",
     "wof:hierarchy":[
         {
@@ -734,11 +740,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163361,
+    "wof:lastmodified":1587428420,
     "wof:name":"Vermont",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":625741,
     "wof:population_rank":11,

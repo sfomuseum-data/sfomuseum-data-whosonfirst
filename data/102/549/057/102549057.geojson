@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1936",
     "geom:area":0.000075,
-    "geom:area_square_m":600095.764142,
+    "geom:area_square_m":600095.764141,
     "geom:bbox":"7.261447,49.940285,7.272949,49.951218",
     "geom:latitude":49.946174,
     "geom:longitude":7.267174,
@@ -124,9 +124,6 @@
     "name:zho_x_preferred":[
         "\u6cd5\u5170\u514b\u798f-\u54c8\u6069\u673a\u573a"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -148,8 +145,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22991139,
-        "iata:code":"HHN",
-        "icao:code":"EDFH",
+        "iata:code":"FRA",
+        "icao:code":"EDDF",
         "wd:id":"Q158211"
     },
     "wof:country":"",
@@ -165,7 +162,7 @@
         }
     ],
     "wof:id":102549057,
-    "wof:lastmodified":1606163492,
+    "wof:lastmodified":1566656788,
     "wof:name":"Frankfurt-Hahn Airport",
     "wof:parent_id":101907073,
     "wof:placetype":"campus",

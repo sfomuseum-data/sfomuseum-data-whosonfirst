@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":268758.402676,
+    "geom:area_square_m":268758.402677,
     "geom:bbox":"-43.167686,-22.916071,-43.15863,-22.908653",
     "geom:latitude":-22.912696,
     "geom:longitude":-43.163386,
@@ -16,17 +16,18 @@
     "mps:longitude":-43.163832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport Santos Dumont"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u675c\u8499\u7279\u673a\u573a"
+    "name:ceb_x_preferred":[
+        "Santos Dumont Airport"
     ],
     "name:dan_x_preferred":[
         "Aeroporto Santos Dumont"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Santos-Dumont"
+    "name:deu_x_preferred":[
+        "Flughafen Rio de Janeiro-Santos Dumont"
     ],
     "name:eng_x_preferred":[
         "Santos Dumont Airport"
@@ -35,14 +36,14 @@
         "SDU",
         "SBRJ"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0648\u0633 \u062f\u0648\u0645\u0646\u062a"
+    ],
     "name:fin_x_preferred":[
         "Santos Dumontin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport Santos Dumont"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Rio de Janeiro-Santos Dumont"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Santos Dumont"
@@ -56,8 +57,11 @@
     "name:lit_x_preferred":[
         "Santos Dumont oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Santos Dumont"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Santos-Dumont"
     ],
     "name:nno_x_preferred":[
         "Aeroporto Santos Dumont"
@@ -65,14 +69,14 @@
     "name:nob_x_preferred":[
         "Santos Dumont flyplass"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0648\u0633 \u062f\u0648\u0645\u0646\u062a"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Rio de Janeiro-Santos Dumont"
     ],
     "name:por_x_preferred":[
         "Aeroporto Santos Dumont"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Santos Dumont"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u043e\u0441-\u0414\u044e\u043c\u043e\u043d"
@@ -89,16 +93,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Santos Dumont"
     ],
+    "name:zho_x_preferred":[
+        "\u5723\u675c\u8499\u7279\u673a\u573a"
+    ],
     "oa:elevation_ft":"11",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":165,
-    "sfomuseum:count_objects_public":6,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Santos Dumont Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2914,
     "woe:hierarchy":{
         "country_id":23424768,
@@ -137,11 +139,11 @@
         }
     ],
     "wof:id":102534549,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566655199,
     "wof:name":"Santos Dumont Airport",
     "wof:parent_id":85766075,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

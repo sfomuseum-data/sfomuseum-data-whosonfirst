@@ -14,10 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -34,8 +31,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12521068,
-        "iata:code":"EKA"
+        "gp:id":12521068
     },
     "wof:country":"",
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
@@ -50,7 +46,7 @@
         }
     ],
     "wof:id":102525279,
-    "wof:lastmodified":1606163489,
+    "wof:lastmodified":1589218965,
     "wof:name":"Murray Field Airport",
     "wof:parent_id":85807043,
     "wof:placetype":"campus",

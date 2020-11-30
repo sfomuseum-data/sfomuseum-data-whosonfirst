@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.889545,
-    "geom:area_square_m":109148176825.387146,
+    "geom:area_square_m":109148176825.389587,
     "geom:bbox":"-90.310298,34.982924,-81.6469,36.678255",
     "geom:latitude":35.842982,
     "geom:longitude":-86.343405,
@@ -142,6 +142,9 @@
     "name:dan_x_preferred":[
         "Tennessee"
     ],
+    "name:deu_ch_x_preferred":[
+        "Tennessee"
+    ],
     "name:deu_x_preferred":[
         "Tennessee"
     ],
@@ -152,6 +155,12 @@
         "\u03a4\u03b5\u03bd\u03b5\u03c3\u03af"
     ],
     "name:eml_x_preferred":[
+        "Tennessee"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Tennessee"
+    ],
+    "name:eng_gb_x_preferred":[
         "Tennessee"
     ],
     "name:eng_x_colloquial":[
@@ -211,6 +220,9 @@
     ],
     "name:glv_x_preferred":[
         "Tennessee"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf44\ud800\udf30\ud800\udf39\ud800\udf3d\ud800\udf30\ud800\udf39\ud800\udf43\ud800\udf34\ud800\udf39"
     ],
     "name:grn_x_preferred":[
         "Tenesi"
@@ -455,11 +467,17 @@
     "name:pol_x_preferred":[
         "Tennessee"
     ],
+    "name:por_br_x_preferred":[
+        "Tennessee"
+    ],
     "name:por_x_preferred":[
         "Tennessee"
     ],
     "name:por_x_variant":[
         "Tenessi"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u06cc\u0646\u0633\u064a"
     ],
     "name:que_x_preferred":[
         "Tennessee suyu"
@@ -581,6 +599,9 @@
     "name:war_x_preferred":[
         "Tennessee"
     ],
+    "name:wuu_x_preferred":[
+        "\u7530\u7eb3\u897f\u5dde"
+    ],
     "name:xal_x_preferred":[
         "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438"
     ],
@@ -599,8 +620,26 @@
     "name:zea_x_preferred":[
         "Tennessee"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7530\u7eb3\u897f\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7530\u7d0d\u897f\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tennessee"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u7530\u7d0d\u897f\u5dde"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u7530\u7eb3\u897f\u5dde"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u7530\u7eb3\u897f\u5dde"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7530\u7d0d\u897f\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7530\u7eb3\u897f\u5dde"
@@ -674,10 +713,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -702,6 +740,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":43,
         "fips:code":"US47",
         "gn:id":4662168,
         "gp:id":2347601,
@@ -711,6 +750,9 @@
         "wd:id":"Q1509"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"edeacd5e05fcc9050243f17b0b65ddab",
     "wof:hierarchy":[
         {
@@ -728,7 +770,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163351,
+    "wof:lastmodified":1587428418,
     "wof:name":"Tennessee",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

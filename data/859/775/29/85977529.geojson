@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001101,
-    "geom:area_square_m":10094046.639833,
+    "geom:area_square_m":10094046.639835,
     "geom:bbox":"-76.853559,42.144321,-76.796257,42.19035",
     "geom:latitude":42.168877,
     "geom:longitude":-76.829801,
@@ -16,12 +16,21 @@
     "iso:country":"US",
     "lbl:latitude":42.165676,
     "lbl:longitude":-76.831755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.165676,
     "mps:longitude":-76.831755,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0633\u0647\u064a\u062f\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Horseheads"
+    ],
+    "name:deu_x_preferred":[
+        "Horseheads"
     ],
     "name:eng_x_preferred":[
         "Horseheads"
@@ -29,22 +38,43 @@
     "name:eng_x_variant":[
         "Horseheads, Town of"
     ],
+    "name:eus_x_preferred":[
+        "Horseheads"
+    ],
+    "name:fra_x_preferred":[
+        "Horseheads"
+    ],
     "name:hat_x_preferred":[
         "Horseheads"
     ],
     "name:hbs_x_preferred":[
         "Horseheads"
     ],
+    "name:hun_x_preferred":[
+        "Horseheads"
+    ],
+    "name:ita_x_preferred":[
+        "Horseheads"
+    ],
     "name:nau_x_preferred":[
+        "Horseheads"
+    ],
+    "name:pol_x_preferred":[
         "Horseheads"
     ],
     "name:spa_x_preferred":[
         "Horseheads"
     ],
+    "name:sqi_x_preferred":[
+        "Horseheads"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u0441\u0445\u0435\u0434\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:ukr_x_preferred":[
+        "Horseheads"
+    ],
+    "name:und_x_variant":[
         "Fairport"
     ],
     "name:uzb_x_preferred":[
@@ -67,12 +97,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1078,
     "wof:belongsto":[
@@ -88,12 +117,14 @@
         "fips:code":"3635694",
         "gn:id":5121309,
         "gp:id":2424524,
-        "qs:id":1051670,
         "qs_pg:id":1051670,
         "wd:id":"Q10751434",
         "wk:page":"Horseheads, New York"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8d0ca8f17138690cbb3c5f8124f8774",
     "wof:hierarchy":[
         {
@@ -109,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163476,
+    "wof:lastmodified":1582336246,
     "wof:name":"Horseheads",
     "wof:parent_id":404522117,
     "wof:placetype":"locality",

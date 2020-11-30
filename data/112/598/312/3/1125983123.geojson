@@ -4,25 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-77.34306,25.05823,-77.34306,25.05823",
-    "geom:latitude":25.05823,
-    "geom:longitude":-77.34306,
-    "gn:gn_country":"BS",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":227940,
+    "geom:area":0.017276,
+    "geom:area_square_m":193550542.980693,
+    "geom:bbox":"-77.5618790357,24.9870059274,-77.2638240226,25.0840518251",
+    "geom:latitude":25.039366,
+    "geom:longitude":-77.421614,
+    "gn:country":"BS",
+    "gn:fcode":"PPLC",
     "gn:population":227940,
     "iso:country":"BS",
     "lbl:latitude":25.05823,
     "lbl:longitude":-77.34306,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
-        "Nassau"
-    ],
-    "name:alb_x_preferred":[
         "Nassau"
     ],
     "name:amh_x_preferred":[
@@ -34,9 +34,6 @@
     "name:arg_x_preferred":[
         "Nassau"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u057d\u0561\u0578\u0582"
-    ],
     "name:ast_x_preferred":[
         "Nas\u00e1u"
     ],
@@ -44,9 +41,6 @@
         "Nassau"
     ],
     "name:aze_x_preferred":[
-        "Nassau"
-    ],
-    "name:baq_x_preferred":[
         "Nassau"
     ],
     "name:bcl_x_preferred":[
@@ -76,22 +70,22 @@
     "name:cdo_x_preferred":[
         "Nassau"
     ],
+    "name:ceb_x_preferred":[
+        "Nassau"
+    ],
+    "name:ces_x_preferred":[
+        "Nassau"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0430\u0441\u0441\u0430\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u62ff\u9a9a"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Nassau"
     ],
     "name:dan_x_preferred":[
         "Nassau"
     ],
     "name:deu_x_preferred":[
-        "Nassau"
-    ],
-    "name:dut_x_preferred":[
         "Nassau"
     ],
     "name:ell_x_preferred":[
@@ -106,6 +100,9 @@
     "name:est_x_preferred":[
         "Nassau"
     ],
+    "name:eus_x_preferred":[
+        "Nassau"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0633\u0627\u0626\u0648"
     ],
@@ -115,19 +112,10 @@
     "name:fra_x_preferred":[
         "Nassau"
     ],
-    "name:fre_x_preferred":[
-        "Nassau"
-    ],
     "name:frp_x_preferred":[
         "Nassau"
     ],
     "name:fry_x_preferred":[
-        "Nassau"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e1\u10d0\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "Nassau"
     ],
     "name:gla_x_preferred":[
@@ -138,9 +126,6 @@
     ],
     "name:glg_x_preferred":[
         "Nassau"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03c3\u03c3\u03ac\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0ab8\u0abe\u0a89"
@@ -163,6 +148,9 @@
     "name:hrv_x_preferred":[
         "Nassau"
     ],
+    "name:hsb_x_preferred":[
+        "Nassau"
+    ],
     "name:hun_x_preferred":[
         "Nassau"
     ],
@@ -174,6 +162,9 @@
     ],
     "name:ind_x_preferred":[
         "Nassau"
+    ],
+    "name:isl_x_preferred":[
+        "Nass\u00e1"
     ],
     "name:ita_x_preferred":[
         "Nassau"
@@ -205,14 +196,14 @@
     "name:lav_x_preferred":[
         "Naso"
     ],
+    "name:lij_x_preferred":[
+        "Nassau"
+    ],
     "name:lit_x_preferred":[
         "Nasau"
     ],
     "name:lmo_x_preferred":[
         "Nassau"
-    ],
-    "name:mac_x_preferred":[
-        "\u041d\u0430\u0441\u0430\u0443"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d3e\u0d38\u0d4b"
@@ -220,13 +211,13 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0938\u093e\u0909"
     ],
-    "name:may_x_preferred":[
-        "Nassau"
-    ],
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0441\u0430\u0443"
     ],
     "name:mlg_x_preferred":[
+        "Nassau"
+    ],
+    "name:msa_x_preferred":[
         "Nassau"
     ],
     "name:nah_x_preferred":[
@@ -262,9 +253,6 @@
     "name:pap_x_preferred":[
         "Nassau"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0633\u0627\u0626\u0648"
-    ],
     "name:pih_x_preferred":[
         "Nasau"
     ],
@@ -286,9 +274,6 @@
     "name:ron_x_preferred":[
         "Nassau"
     ],
-    "name:rum_x_preferred":[
-        "Nassau"
-    ],
     "name:rup_x_preferred":[
         "Nassau"
     ],
@@ -307,9 +292,6 @@
     "name:slk_x_preferred":[
         "Nassau"
     ],
-    "name:slo_x_preferred":[
-        "Nassau"
-    ],
     "name:slv_x_preferred":[
         "Nassau"
     ],
@@ -318,6 +300,9 @@
     ],
     "name:spa_x_preferred":[
         "Nas\u00e1u"
+    ],
+    "name:sqi_x_preferred":[
+        "Nassau"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0441\u0430\u0443"
@@ -334,6 +319,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bc7\u0b9a\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb5\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c38\u0c3e\u0c35\u0c4d"
     ],
@@ -343,16 +331,13 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e19\u0e2a\u0e0b\u0e2d"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f0b\u0f66\u0f60\u0f7c\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Nassau"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0441\u0441\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "City of Nassau"
     ],
     "name:urd_x_preferred":[
@@ -368,9 +353,6 @@
         "Nassau"
     ],
     "name:war_x_preferred":[
-        "Nassau"
-    ],
-    "name:wel_x_preferred":[
         "Nassau"
     ],
     "name:wuu_x_preferred":[
@@ -498,9 +480,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424758,
     "qs_pg:woe_id":57024,
-    "sfomuseum:placetype":"city",
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424758,
     "woe:name_adm0":"The Bahamas",
@@ -520,7 +504,10 @@
     },
     "wof:country":"BS",
     "wof:created":1497298655,
-    "wof:geomhash":"77ed8145dce3d96bfcbea32de7140f05",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"feada09b3a132e2d6a026251722708cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -530,7 +517,7 @@
         }
     ],
     "wof:id":1125983123,
-    "wof:lastmodified":1606163453,
+    "wof:lastmodified":1582319601,
     "wof:name":"Nassau",
     "wof:parent_id":85669063,
     "wof:placetype":"locality",
@@ -545,10 +532,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.34306,
-    25.05823,
-    -77.34306,
-    25.05823
+    -77.56187903568889,
+    24.98700592738169,
+    -77.26382402256053,
+    25.08405182513167
 ],
-  "geometry": {"coordinates":[-77.34305999999999,25.05823],"type":"Point"}
+  "geometry": {"coordinates":[[[-77.47996985572422,24.9913597684386],[-77.49510657530817,24.99933502828895],[-77.51447506377315,25.00116608304836],[-77.53294837067074,25.00071849226464],[-77.5454809243052,25.00189850531183],[-77.56187903568889,25.01886627785649],[-77.55101477750992,25.03803131719161],[-77.52717037671147,25.05438873964869],[-77.5045059889602,25.063299872691],[-77.48985755088523,25.06561920806007],[-77.45604407527384,25.0769717468487],[-77.4408259760379,25.07851797102757],[-77.39806067575955,25.0769717468487],[-77.35562089768626,25.08405182513167],[-77.33999589749266,25.08380768437718],[-77.32607988168115,25.07933177294302],[-77.30207271978014,25.06610748956905],[-77.26382402256053,25.05809153899338],[-77.27472896966617,25.04608795849254],[-77.37950598920997,25.00153229418009],[-77.40367591131422,25.002142645167],[-77.43561764234028,25.01487864793131],[-77.44139563719887,25.00653717694922],[-77.45287024546542,24.99461497610031],[-77.46678626217624,24.98700592738169],[-77.47996985572422,24.9913597684386]]],"type":"Polygon"}
 }

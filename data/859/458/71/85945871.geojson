@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043447,
-    "geom:area_square_m":425119079.88157,
+    "geom:area_square_m":425119079.881347,
     "geom:bbox":"-97.734265,37.489132,-97.152912,37.8402",
     "geom:latitude":37.690628,
     "geom:longitude":-97.342582,
@@ -453,7 +453,6 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -484,6 +483,9 @@
         "wk:page":"Wichita, Kansas"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bbb067f061b1889add7fb7509f28a25",
     "wof:hierarchy":[
         {
@@ -499,7 +501,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163476,
+    "wof:lastmodified":1582336126,
     "wof:megacity":0,
     "wof:name":"Wichita",
     "wof:parent_id":404504929,

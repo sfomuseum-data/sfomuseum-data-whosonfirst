@@ -8,36 +8,49 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181409,
-    "geom:area_square_m":1573324810.446982,
+    "geom:area_square_m":1573324813.052202,
     "geom:bbox":"8.706139,45.161455,9.55161,45.642663",
     "geom:latitude":45.461523,
     "geom:longitude":9.122654,
     "iso:country":"IT",
     "label:eng_x_preferred_longname":[
-        "Milano Metropolitan City"
+        "Metropolitan City of Milan"
     ],
     "label:eng_x_preferred_placetype":[
         "metropolitan city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
+    "label:eng_x_variant_longname":[
+        "Milano Metropolitan City"
+    ],
+    "label:fra_x_preferred_longname":[
+        "La Ville M\u00e9tropolitaine de Milan"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "ville m\u00e9tropolitaine"
+    ],
+    "label:ita_x_preferred_longname":[
+        "Citt\u00e0 Metropolitana di Milano"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "citt\u00e0 metropolitana"
+    ],
     "lbl:latitude":45.447319,
     "lbl:longitude":9.118788,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.447319,
     "mps:longitude":9.118788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Provinca e Milanos"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0644\u0627\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u056c\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Milango probintzia"
+    "name:aze_x_preferred":[
+        "Milan \u0259yal\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0456\u043b\u0430\u043d"
@@ -54,10 +67,7 @@
     "name:cat_x_preferred":[
         "prov\u00edncia de Mil\u00e0"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u862d\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Provincie Milano"
     ],
     "name:dan_x_preferred":[
@@ -66,8 +76,11 @@
     "name:deu_x_preferred":[
         "Mailand"
     ],
-    "name:dut_x_preferred":[
-        "Milaan"
+    "name:deu_x_variant":[
+        "Provinz Mailand"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u039c\u03b9\u03bb\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Milano"
@@ -83,26 +96,23 @@
     "name:est_x_preferred":[
         "Milano provints"
     ],
+    "name:eus_x_preferred":[
+        "Milango probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0644\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Milanon maakunta"
     ],
     "name:fra_x_preferred":[
         "Milan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Milan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10da\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Mailand"
     ],
     "name:glg_x_preferred":[
         "Provincia de Mil\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u039c\u03b9\u03bb\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab2\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -115,6 +125,9 @@
     ],
     "name:hun_x_preferred":[
         "Mil\u00e1n\u00f3 megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056c\u0561\u0576"
     ],
     "name:ina_x_preferred":[
         "provincia Milano"
@@ -138,8 +151,14 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0cb2\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubc00\ub77c\ub178 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ubc00\ub77c\ub178\ud604"
     ],
     "name:lad_x_preferred":[
         "Provinsia de Milano"
@@ -156,23 +175,26 @@
     "name:lmo_x_preferred":[
         "Provincia de Milan"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0438\u043b\u0430\u043d\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0932\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Milan"
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0438\u043b\u0430\u043d \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Milan"
     ],
     "name:nan_x_preferred":[
         "Milano S\u00e9ng"
     ],
     "name:nap_x_preferred":[
         "Pruvincia 'e Milano"
+    ],
+    "name:nld_x_preferred":[
+        "Milaan"
     ],
     "name:nno_x_preferred":[
         "Provinsen Milano"
@@ -182,9 +204,6 @@
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Milan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0644\u0627\u0646"
     ],
     "name:pms_x_preferred":[
         "Provincia \u00ebd Milan"
@@ -198,7 +217,7 @@
     "name:por_x_preferred":[
         "Mil\u00e3o"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Milano"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +232,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0dbd\u0dcf\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mil\u00e1no"
     ],
     "name:slv_x_preferred":[
@@ -221,6 +240,9 @@
     ],
     "name:spa_x_preferred":[
         "Mil\u00e1n"
+    ],
+    "name:sqi_x_preferred":[
+        "Provinca e Milanos"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u043b\u0430\u043d\u043e"
@@ -246,6 +268,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0456\u043b\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0456\u043b\u0430\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u06cc\u0644\u0627\u0646"
     ],
@@ -261,7 +286,13 @@
     "name:war_x_preferred":[
         "Milan"
     ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u5170\u7701"
+    ],
     "name:yue_x_preferred":[
+        "\u7c73\u862d\u7701"
+    ],
+    "name:zho_x_preferred":[
         "\u7c73\u862d\u7701"
     ],
     "ne:abbrev":"",
@@ -331,12 +362,11 @@
     "qs:adm0_a3":"ITA",
     "qs:level":"adm1",
     "qs:source":"Italy IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2017",
     "statoids:area_km":"1593",
     "statoids:as_of_date":"2011-10-09",
     "statoids:capital":"Milan",
@@ -355,10 +385,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":3996,
         "fips:code":"IT09",
         "gn:id":3173434,
         "gp:id":12591813,
         "hasc:id":"IT.LM.MA",
+        "iso:id":"IT-MI",
         "unlc:id":"IT-MI",
         "wd:id":"Q15121"
     },
@@ -380,12 +412,12 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1606163257,
+    "wof:lastmodified":1585681613,
     "wof:name":"Milano",
     "wof:parent_id":404227497,
     "wof:placetype":"region",
     "wof:placetype_local":"metropolitan city",
-    "wof:population":3038420,
+    "wof:population":3156694,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:shortcode":"MI",

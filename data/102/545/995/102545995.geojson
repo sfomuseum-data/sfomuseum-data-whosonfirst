@@ -18,20 +18,18 @@
     "mps:longitude":-74.144206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Aeroporti nderkombuar El Dorado"
-    ],
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0625\u0644\u062f\u0648\u0631\u0627\u062f\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional El Dorado"
     ],
     "name:cat_x_preferred":[
         "Aeroport Internacional El Dorado"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u591a\u62c9\u591a\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven El Dorado"
+    "name:deu_x_preferred":[
+        "Flughafen Bogot\u00e1"
     ],
     "name:eng_x_preferred":[
         "El Dorado International Airport"
@@ -40,20 +38,29 @@
         "BOG",
         "SKBO"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno El Dorado"
+    ],
+    "name:est_x_preferred":[
+        "El Dorado rahvusvaheline lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "El Doradon kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international El Dorado"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bogot\u00e1"
     ],
     "name:glg_x_preferred":[
         "Aeroporto El Dorado"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05dc \u05d3\u05d5\u05e8\u05d0\u05d3\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932\u0921\u094b\u0930\u093e\u0921\u094b \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional El Dorado"
@@ -67,14 +74,17 @@
     "name:kor_x_preferred":[
         "\uc5d8\ub3c4\ub77c\ub3c4 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u0921\u094b\u0930\u093e\u0921\u094b \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang El Dorado"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven El Dorado"
     ],
     "name:nob_x_preferred":[
         "El Dorado internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bogot\u00e1-El Dorado"
@@ -82,11 +92,17 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional El Dorado"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional El Dorado"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional El Dorado"
+    ],
+    "name:sqi_x_preferred":[
+        "Aeroporti nderkombuar El Dorado"
     ],
     "name:swe_x_preferred":[
         "El Dorado International Airport"
@@ -103,16 +119,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf El Dorado"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u591a\u62c9\u591a\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"8361",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":202,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Bogota El Dorado International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424787,
         "county_id":26796754,
@@ -146,11 +160,11 @@
         }
     ],
     "wof:id":102545995,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1566656120,
     "wof:name":"Eldorado International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

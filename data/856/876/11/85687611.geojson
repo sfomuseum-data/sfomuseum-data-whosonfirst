@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176728,
-    "geom:area_square_m":1558067397.988925,
+    "geom:area_square_m":1558067397.988884,
     "geom:bbox":"25.823759,44.2156,26.463456,44.768923",
     "geom:latitude":44.521464,
     "geom:longitude":26.147147,
@@ -18,6 +18,12 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "IF"
+    ],
+    "label:ron_x_preferred_longname":[
+        "Jude\u021bul Ilfov"
+    ],
+    "label:ron_x_preferred_placetype":[
+        "jude\u021bul"
     ],
     "lbl:latitude":44.607618,
     "lbl:longitude":26.213713,
@@ -101,6 +107,9 @@
         "Okr\u0119g Ilfov"
     ],
     "name:ron_x_preferred":[
+        "Ilfov"
+    ],
+    "name:ron_x_variant":[
         "Jude\u021bul Ilfov"
     ],
     "name:rus_x_preferred":[
@@ -201,7 +210,6 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Jude\u0163",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -226,6 +234,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":28168,
         "fips:code":"RO43",
         "gn:id":865518,
         "gp:id":29281934,
@@ -249,7 +258,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1606163075,
+    "wof:lastmodified":1589226431,
     "wof:name":"Ilfov",
     "wof:parent_id":85633745,
     "wof:placetype":"region",

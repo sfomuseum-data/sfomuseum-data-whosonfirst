@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":15.749026,
     "lbl:longitude":33.043137,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.779783,
     "mps:longitude":32.649689,
     "mz:hierarchy_label":1,
@@ -47,8 +51,17 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
     ],
+    "name:arz_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "\u1e24artum"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:azb_x_variant":[
+        "\u062e\u0627\u0631\u0637\u0648\u0645"
     ],
     "name:aze_x_preferred":[
         "Xartum"
@@ -80,14 +93,14 @@
     "name:cat_x_preferred":[
         "Khartum"
     ],
+    "name:ceb_x_preferred":[
+        "Khartoum"
+    ],
     "name:ces_x_preferred":[
         "Chart\u00fam"
     ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5580\u571f\u7a46\u7701"
     ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
@@ -108,10 +121,8 @@
         "Khartum"
     ],
     "name:deu_x_variant":[
-        "Al Chartum"
-    ],
-    "name:dut_x_preferred":[
-        "Khartoem"
+        "Al Chartum",
+        "Al-Chartum"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
@@ -120,7 +131,6 @@
         "Al Khartum"
     ],
     "name:eng_x_variant":[
-        "Al Khartum",
         "Khartoum",
         "Khartoum State"
     ],
@@ -139,23 +149,20 @@
     "name:fas_x_preferred":[
         "\u062e\u0627\u0631\u0637\u0648\u0645"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0627\u0631\u0637\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Khartum"
+    ],
+    "name:fin_x_variant":[
+        "Khartoum"
     ],
     "name:fra_x_preferred":[
         "Khartoum"
     ],
-    "name:fre_x_preferred":[
-        "Khartoum"
-    ],
     "name:fry_x_preferred":[
         "Kart\u00fbm"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Al-Chartum"
     ],
     "name:gla_x_preferred":[
         "Khartoum"
@@ -165,9 +172,6 @@
     ],
     "name:glg_x_preferred":[
         "Khart\u00fan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0abe\u0ab0\u0acd\u0a9f\u0ac2\u0aae"
@@ -180,6 +184,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05e8\u05d8\u05d5\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7'\u05e8\u05d8\u05d5\u05dd"
     ],
     "name:hif_x_preferred":[
         "Khartoum"
@@ -205,6 +212,9 @@
     "name:ind_x_preferred":[
         "Khartoum"
     ],
+    "name:ind_x_variant":[
+        "Khartum"
+    ],
     "name:isl_x_preferred":[
         "Kart\u00fam"
     ],
@@ -217,6 +227,9 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30eb\u30c4\u30fc\u30e0"
     ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30eb\u30c4\u30fc\u30e0\u5dde"
+    ],
     "name:kab_x_preferred":[
         "Xer\u1e6dum"
     ],
@@ -225,6 +238,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
@@ -235,6 +251,9 @@
     "name:kor_x_preferred":[
         "\uc54c \uce74\ub974\ud23c",
         "\ud558\ub974\ud23c"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\ub974\ud23c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Khartum"
@@ -256,9 +275,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0916\u093e\u0930\u094d\u091f\u0942\u092e"
-    ],
-    "name:may_x_preferred":[
-        "Khartoum"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043c"
@@ -299,14 +315,14 @@
     "name:pan_x_preferred":[
         "\u0a16\u0a3c\u0a30\u0a24\u0a42\u0a2e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0627\u0631\u0637\u0648\u0645"
-    ],
     "name:pms_x_preferred":[
         "Khartoum"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:pnb_x_variant":[
+        "\u062e\u0631\u062a\u0648\u0645"
     ],
     "name:pol_x_preferred":[
         "Chartum"
@@ -317,7 +333,7 @@
     "name:ron_x_preferred":[
         "Khartoum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Statul Khartoum"
     ],
     "name:rus_x_preferred":[
@@ -357,6 +373,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc2\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc2\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
@@ -375,6 +394,9 @@
     "name:tur_x_preferred":[
         "Hartum"
     ],
+    "name:tur_x_variant":[
+        "Hartum Eyaleti"
+    ],
     "name:udm_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
@@ -384,7 +406,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Khur\u0163\u016bm"
     ],
     "name:urd_x_preferred":[
@@ -411,6 +433,9 @@
     "name:wuu_x_preferred":[
         "Al-Khartoum"
     ],
+    "name:wuu_x_variant":[
+        "\u5580\u571f\u7a46\u5dde"
+    ],
     "name:yor_x_preferred":[
         "Khartoum"
     ],
@@ -421,7 +446,8 @@
         "\u5580\u571f\u7a46"
     ],
     "name:zho_x_variant":[
-        "\u5580\u58eb\u7a46"
+        "\u5580\u58eb\u7a46",
+        "\u5580\u571f\u7a46\u7701"
     ],
     "name:zho_yue_x_preferred":[
         "\u5580\u571f\u7a46"
@@ -500,9 +526,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"22,142",
     "statoids:area_mi":"8,549",
     "statoids:as_of_date":"2008-04-22",
@@ -531,11 +557,14 @@
         "gp:id":20069819,
         "hasc:id":"SD.KH",
         "iso:id":"SD-KH",
-        "qs:id":902981,
+        "qs_pg:id":902981,
         "unlc:id":"SD-KH",
         "wd:id":"Q310385"
     },
     "wof:country":"SD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36d420aa838da981ac37d54e5ebe5d92",
     "wof:hierarchy":[
         {
@@ -545,9 +574,6 @@
         }
     ],
     "wof:id":85676889,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "eng"
@@ -556,11 +582,10 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1578514032,
+    "wof:lastmodified":1582318330,
     "wof:name":"Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6527500,
     "wof:population_rank":13,

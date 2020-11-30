@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071023,
-    "geom:area_square_m":745657125.635357,
-    "geom:bbox":"35.661731,31.744708,36.076959,32.045848",
+    "geom:area_square_m":745657210.986462,
+    "geom:bbox":"35.661730584,31.7447075537,36.0769591968,32.0458478876",
     "geom:latitude":31.88933,
     "geom:longitude":35.885051,
     "iso:country":"JO",
     "lbl:latitude":31.95522,
     "lbl:longitude":35.94503,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -26,9 +28,6 @@
     "name:afr_x_preferred":[
         "Amman"
     ],
-    "name:alb_x_preferred":[
-        "Amman"
-    ],
     "name:amh_x_preferred":[
         "\u12a0\u121b\u1295"
     ],
@@ -38,14 +37,17 @@
     "name:ara_x_preferred":[
         "\u0639\u0645\u0651\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u0645\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u0725\u0721\u0710\u0722"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0574\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0639\u0645\u0651\u0627\u0646"
+    ],
+    "name:arz_x_variant":[
+        "\u0639\u0645\u0627\u0646"
     ],
     "name:ast_x_preferred":[
         "Am\u00e1n"
@@ -59,11 +61,14 @@
     "name:bak_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
-    "name:baq_x_preferred":[
+    "name:bcl_x_preferred":[
         "Amman"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043c\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043c\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cd\u09ae\u09be\u09a8"
@@ -95,14 +100,14 @@
     "name:cdo_x_preferred":[
         "Amman"
     ],
+    "name:ceb_x_preferred":[
+        "Amman"
+    ],
     "name:ces_x_preferred":[
         "Amm\u00e1n"
     ],
     "name:che_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u5b89\u66fc"
     ],
     "name:chv_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
@@ -110,8 +115,8 @@
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u0645\u0645\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Amm\u00e1n"
+    "name:cym_x_preferred":[
+        "Amman"
     ],
     "name:dan_x_preferred":[
         "Amman"
@@ -120,9 +125,6 @@
         "Amman"
     ],
     "name:diq_x_preferred":[
-        "Amman"
-    ],
-    "name:dut_x_preferred":[
         "Amman"
     ],
     "name:ell_x_preferred":[
@@ -137,6 +139,15 @@
     "name:est_x_preferred":[
         "\u2018Amm\u0101n"
     ],
+    "name:est_x_variant":[
+        "Amman"
+    ],
+    "name:eus_x_preferred":[
+        "Amman"
+    ],
+    "name:fao_x_preferred":[
+        "Amman"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u064e\u0645\u0651\u0627\u0646"
     ],
@@ -149,19 +160,10 @@
     "name:fra_x_preferred":[
         "Amman"
     ],
-    "name:fre_x_preferred":[
-        "Amman"
-    ],
     "name:frp_x_preferred":[
         "Amman"
     ],
     "name:fry_x_preferred":[
-        "Amman"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Amman"
     ],
     "name:gla_x_preferred":[
@@ -172,9 +174,6 @@
     ],
     "name:glg_x_preferred":[
         "Am\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03bc\u03ac\u03bd"
     ],
     "name:grn_x_preferred":[
         "Am\u00e3"
@@ -215,9 +214,6 @@
     "name:hye_x_preferred":[
         "\u0531\u0574\u0574\u0561\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Amman"
-    ],
     "name:ido_x_preferred":[
         "Amman"
     ],
@@ -225,6 +221,9 @@
         "Amman"
     ],
     "name:ilo_x_preferred":[
+        "Amman"
+    ],
+    "name:ina_x_preferred":[
         "Amman"
     ],
     "name:ind_x_preferred":[
@@ -281,6 +280,9 @@
     "name:lat_x_preferred":[
         "Philadelphia"
     ],
+    "name:lat_x_variant":[
+        "Philadelphia Iordaniae"
+    ],
     "name:lav_x_preferred":[
         "Amm\u0101na"
     ],
@@ -299,9 +301,6 @@
     "name:ltz_x_preferred":[
         "Amman"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043c\u0430\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u0905\u092e\u094d\u092e\u093e\u0928"
     ],
@@ -311,9 +310,6 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u094d\u092e\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Amman"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043c\u0430\u043d"
     ],
@@ -322,6 +318,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Amman"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0645\u0627\u0646"
@@ -359,6 +358,9 @@
     "name:oci_x_preferred":[
         "Amman"
     ],
+    "name:olo_x_preferred":[
+        "Amman"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
@@ -367,9 +369,6 @@
     ],
     "name:pap_x_preferred":[
         "Aman"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0627\u0646"
     ],
     "name:pms_x_preferred":[
         "Amman"
@@ -383,13 +382,13 @@
     "name:por_x_preferred":[
         "Am\u00e3"
     ],
+    "name:pus_x_preferred":[
+        "\u0622\u0645\u0627\u0646"
+    ],
     "name:que_x_preferred":[
         "Amman"
     ],
     "name:ron_x_preferred":[
-        "Amman"
-    ],
-    "name:rum_x_preferred":[
         "Amman"
     ],
     "name:rup_x_preferred":[
@@ -413,9 +412,6 @@
     "name:slk_x_preferred":[
         "Amm\u00e1n"
     ],
-    "name:slo_x_preferred":[
-        "Amm\u00e1n"
-    ],
     "name:slv_x_preferred":[
         "Aman"
     ],
@@ -430,6 +426,9 @@
     ],
     "name:sqi_x_preferred":[
         "Amani"
+    ],
+    "name:sqi_x_variant":[
+        "Amman"
     ],
     "name:srp_x_preferred":[
         "\u0410\u043c\u0430\u043d"
@@ -458,11 +457,11 @@
     "name:tgl_x_preferred":[
         "Aman"
     ],
+    "name:tgl_x_variant":[
+        "Amman"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e21\u0e21\u0e32\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f58\u0f0b\u0f58\u0f53\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Amman"
@@ -476,7 +475,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rabbah"
     ],
     "name:urd_x_preferred":[
@@ -498,9 +497,6 @@
         "Amman"
     ],
     "name:war_x_preferred":[
-        "Amman"
-    ],
-    "name:wel_x_preferred":[
         "Amman"
     ],
     "name:wol_x_preferred":[
@@ -634,7 +630,6 @@
     "qs:qs_id":1304303,
     "qs:woe_adm0":23424860,
     "qs:woe_id":1968902,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -650,13 +645,16 @@
     "wof:concordances":{
         "gn:id":250441,
         "gp:id":1968902,
-        "qs:id":1304303,
+        "qs_pg:id":1304303,
         "wd:id":"Q3805",
         "wk:page":"Amman"
     },
     "wof:country":"JO",
     "wof:created":1459010022,
-    "wof:geomhash":"32f88ed2230ea142239086f3d9220d1e",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"86b4f3c1aa6d3d6cbc944dd8319dc6a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -666,7 +664,7 @@
         }
     ],
     "wof:id":421200421,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1582317878,
     "wof:name":"Amman",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",
@@ -678,10 +676,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.661731,
-    31.744708,
-    36.076959,
-    32.045848
+    35.66173058399932,
+    31.74470755372256,
+    36.07695919681597,
+    32.04584788757001
 ],
-  "geometry": {"coordinates":[[[36.061518,31.954426],[36.076959,31.902899],[36.06634,31.906238],[36.069486,31.862488],[36.073419,31.85113],[36.05808,31.836763],[36.05454,31.831082],[36.028188,31.834089],[36.015995,31.81738],[36.014816,31.795654],[35.98099,31.80869],[35.947952,31.798997],[35.942052,31.799665],[35.924747,31.790305],[35.933399,31.772919],[35.895641,31.777935],[35.886988,31.770579],[35.875189,31.75854],[35.863389,31.751517],[35.848837,31.745831],[35.839421,31.744708],[35.838154,31.784184],[35.831023,31.78992],[35.824356,31.790825],[35.811799,31.786406],[35.796399,31.783125],[35.74586,31.78297],[35.708291,31.77465],[35.710151,31.79253],[35.712477,31.803072],[35.725189,31.833716],[35.723484,31.842191],[35.717748,31.847565],[35.694804,31.850795],[35.681574,31.854128],[35.670877,31.858779],[35.663901,31.86573],[35.661731,31.874928],[35.668707,31.885935],[35.683745,31.897433],[35.741932,31.922832],[35.766944,31.938335],[35.811954,31.983707],[35.826837,31.994197],[35.864871,32.004093],[35.880529,32.011586],[35.911741,32.037631],[35.941197,32.045848],[35.964141,32.020165],[35.988222,32.001277],[36.021915,31.966318],[36.041294,31.954484],[36.054471,31.950996],[36.061518,31.954426]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.06151751587989,31.9544256166179],[36.07695919681597,31.90289905312595],[36.0663397089967,31.90623801498037],[36.06948622390611,31.86248801624929],[36.07341936754288,31.85112965866718],[36.0580801073595,31.83676267346619],[36.05454027808641,31.83108208546169],[36.0281882157201,31.83408949913823],[36.01599547044614,31.81738040536745],[36.0148155273551,31.79565406288103],[35.98099049207894,31.80869048151012],[35.94795208553013,31.79899690966061],[35.94205237007499,31.7996654645067],[35.92474653807322,31.79030525654362],[35.93339945407411,31.77291949860366],[35.89564127516118,31.777934956523],[35.8869883591603,31.77057885850914],[35.87518892825001,31.75854034549575],[35.86338949733972,31.75151715636951],[35.8488368658837,31.74583132730967],[35.83942146078092,31.74470755372256],[35.83815392356479,31.78418427198659],[35.83102257673056,31.78992035573987],[35.82435631699047,31.79082469330501],[35.81179894386622,31.78640635826685],[35.79639936683736,31.78312490479055],[35.74585981597778,31.78296987605898],[35.70829105029179,31.77464996992023],[35.71015140226547,31.79253001654706],[35.71247684133323,31.80307200806675],[35.72518924318905,31.83371613249358],[35.72348392084632,31.8421910673639],[35.71774783709304,31.84756541591128],[35.69480350118067,31.85079519344345],[35.68157433358869,31.85412832286386],[35.67087731333737,31.8587792018987],[35.66390099523477,31.8657296824789],[35.66173058399932,31.87492808686176],[35.66870690300124,31.88593516727423],[35.68374474482414,31.89743317320244],[35.7419324073548,31.92283214029112],[35.7669438008158,31.93833506920811],[35.81195397259779,31.98370697709538],[35.82683678568918,31.99419729357027],[35.8648706402679,32.00409332904394],[35.88052859881583,32.01158641198339],[35.91174116402357,32.03763133421876],[35.94119673004514,32.04584788757001],[35.96414106595751,32.02016470054053],[35.98822228433102,32.00127696446037],[36.0219153182374,31.96631785688362],[36.04129397983337,31.95448395417122],[36.05447146968265,31.95099579511992],[36.06151751587989,31.9544256166179]]],"type":"Polygon"}
 }

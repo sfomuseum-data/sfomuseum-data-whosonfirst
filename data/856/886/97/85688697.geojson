@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.852602,
-    "geom:area_square_m":149843313572.174347,
+    "geom:area_square_m":149843313572.164398,
     "geom:bbox":"-91.513079,36.970298,-87.019935,42.508338",
     "geom:latitude":40.124199,
     "geom:longitude":-89.148632,
@@ -155,6 +155,12 @@
     ],
     "name:eml_x_preferred":[
         "Illin\u00f2is"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Illinois"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Illinois"
     ],
     "name:eng_x_colloquial":[
         "Prairie State"
@@ -469,6 +475,9 @@
     "name:pol_x_preferred":[
         "Illinois"
     ],
+    "name:por_br_x_preferred":[
+        "Illinois"
+    ],
     "name:por_x_preferred":[
         "Ilin\u00f3is"
     ],
@@ -706,10 +715,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -734,6 +742,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":14,
         "fips:code":"US17",
         "gn:id":4896861,
         "gp:id":2347572,
@@ -743,6 +752,9 @@
         "wd:id":"Q1204"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"e0d92cc8e1da32b58b951f8789597772",
     "wof:hierarchy":[
         {
@@ -760,7 +772,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163163,
+    "wof:lastmodified":1587428438,
     "wof:name":"Illinois",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

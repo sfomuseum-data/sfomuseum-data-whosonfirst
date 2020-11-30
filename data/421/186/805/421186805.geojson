@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223743,
-    "geom:area_square_m":2705973231.283716,
+    "geom:area_square_m":2705973231.283401,
     "geom:bbox":"-77.198996,-12.519679,-76.621551,-11.57301",
     "geom:latitude":-12.017922,
     "geom:longitude":-76.904206,
     "gn:country":"PE",
     "gn:fcode":"PPLC",
-    "gn:pop":7737002,
+    "gn:population":7737002,
     "iso:country":"PE",
     "lbl:latitude":-12.049141,
     "lbl:longitude":-77.021217,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u041b\u0438\u043c\u0430"
@@ -31,9 +34,6 @@
     "name:aka_x_preferred":[
         "Lima"
     ],
-    "name:alb_x_preferred":[
-        "Lima"
-    ],
     "name:amh_x_preferred":[
         "\u120a\u121b"
     ],
@@ -42,9 +42,6 @@
     ],
     "name:arg_x_preferred":[
         "Lima"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0644\u064a\u0645\u0627"
@@ -55,13 +52,16 @@
     "name:aym_x_preferred":[
         "Lima"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Lima"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "Lima"
     ],
-    "name:bar_x_preferred":[
+    "name:bcl_x_preferred":[
         "Lima"
     ],
     "name:bel_x_preferred":[
@@ -94,22 +94,28 @@
     "name:cdo_x_preferred":[
         "Lima"
     ],
+    "name:ceb_x_preferred":[
+        "Lima"
+    ],
     "name:ces_x_preferred":[
         "Lima"
     ],
     "name:che_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u99ac"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
-    "name:cze_x_preferred":[
+    "name:crh_x_preferred":[
+        "Lima"
+    ],
+    "name:cym_x_preferred":[
         "Lima"
     ],
     "name:dan_x_preferred":[
+        "Lima"
+    ],
+    "name:deu_ch_x_preferred":[
         "Lima"
     ],
     "name:deu_x_preferred":[
@@ -121,11 +127,14 @@
     "name:dty_x_preferred":[
         "\u0932\u093f\u092e\u093e"
     ],
-    "name:dut_x_preferred":[
-        "Lima"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bc\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Lima"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Lima"
     ],
     "name:eng_x_preferred":[
         "Lima"
@@ -157,9 +166,6 @@
     "name:fra_x_preferred":[
         "Lima"
     ],
-    "name:fre_x_preferred":[
-        "Lima"
-    ],
     "name:frp_x_preferred":[
         "Lima"
     ],
@@ -167,12 +173,6 @@
         "Lima"
     ],
     "name:gag_x_preferred":[
-        "Lima"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Lima"
     ],
     "name:gla_x_preferred":[
@@ -184,10 +184,10 @@
     "name:glg_x_preferred":[
         "Lima"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03b1"
-    ],
     "name:grn_x_preferred":[
+        "Lima"
+    ],
+    "name:gsw_x_preferred":[
         "Lima"
     ],
     "name:guj_x_preferred":[
@@ -226,8 +226,8 @@
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0561"
     ],
-    "name:ice_x_preferred":[
-        "L\u00edma"
+    "name:hyw_x_preferred":[
+        "\u053c\u056b\u0574\u0561"
     ],
     "name:ido_x_preferred":[
         "Lima"
@@ -254,6 +254,9 @@
         "\u30ea\u30de"
     ],
     "name:kaa_x_preferred":[
+        "Lima"
+    ],
+    "name:kab_x_preferred":[
         "Lima"
     ],
     "name:kal_x_preferred":[
@@ -295,6 +298,9 @@
     "name:lav_x_preferred":[
         "Lima"
     ],
+    "name:lfn_x_preferred":[
+        "Lima"
+    ],
     "name:lij_x_preferred":[
         "Lima"
     ],
@@ -310,20 +316,11 @@
     "name:ltz_x_preferred":[
         "Lima"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d2e"
     ],
-    "name:mao_x_preferred":[
-        "Lima"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Lima"
     ],
     "name:mhr_x_preferred":[
         "\u041b\u0438\u043c\u0430"
@@ -336,6 +333,12 @@
     ],
     "name:mon_x_preferred":[
         "\u041b\u0438\u043c\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Lima"
+    ],
+    "name:msa_x_preferred":[
+        "Lima"
     ],
     "name:mwl_x_preferred":[
         "Lima"
@@ -370,6 +373,9 @@
     "name:oci_x_preferred":[
         "Lima"
     ],
+    "name:olo_x_preferred":[
+        "Lima"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3f\u0b2e\u0b3e"
     ],
@@ -382,9 +388,6 @@
     "name:pap_x_preferred":[
         "Lima"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0645\u0627"
-    ],
     "name:pms_x_preferred":[
         "Lima"
     ],
@@ -394,10 +397,16 @@
     "name:pol_x_preferred":[
         "Lima"
     ],
+    "name:por_br_x_preferred":[
+        "Lima"
+    ],
     "name:por_x_preferred":[
         "Lima"
     ],
     "name:que_x_preferred":[
+        "Lima"
+    ],
+    "name:qug_x_preferred":[
         "Lima"
     ],
     "name:rmy_x_preferred":[
@@ -407,9 +416,6 @@
         "Lima"
     ],
     "name:ron_x_preferred":[
-        "Lima"
-    ],
-    "name:rum_x_preferred":[
         "Lima"
     ],
     "name:rus_x_preferred":[
@@ -430,9 +436,6 @@
     "name:slk_x_preferred":[
         "Lima"
     ],
-    "name:slo_x_preferred":[
-        "Lima"
-    ],
     "name:slv_x_preferred":[
         "Lima"
     ],
@@ -443,6 +446,9 @@
         "Lima"
     ],
     "name:spa_x_preferred":[
+        "Lima"
+    ],
+    "name:sqi_x_preferred":[
         "Lima"
     ],
     "name:srd_x_preferred":[
@@ -478,20 +484,23 @@
     "name:tet_x_preferred":[
         "Lima"
     ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Lungsod ng Lima"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e21\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f72\u0f0b\u0f58\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Lima"
     ],
     "name:tur_x_preferred":[
         "Lima"
+    ],
+    "name:udm_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0644\u0649\u0645\u0627"
@@ -523,8 +532,8 @@
     "name:war_x_preferred":[
         "Lima"
     ],
-    "name:wel_x_preferred":[
-        "Lima"
+    "name:wuu_x_preferred":[
+        "\u5229\u9a6c"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d8\u10db\u10d0"
@@ -559,7 +568,6 @@
     "qs:qs_id":1075997,
     "qs:woe_adm0":23424919,
     "qs:woe_id":418440,
-    "sfomuseum:placetype":"city",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
@@ -568,23 +576,26 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        421202549
+        421202549,
+        1175613121
     ],
     "wof:breaches":[],
     "wof:capital_of":85632521,
     "wof:concordances":{
         "gn:id":3936456,
         "gp:id":418440,
-        "qs:id":1075997,
+        "qs_pg:id":1075997,
         "wd:id":"Q2868",
         "wk:page":"Lima"
     },
     "wof:concordances_alt":{
-        "qs:id":274557
+        "qs_pg:id":274557
     },
     "wof:country":"PE",
     "wof:created":1459009492,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed5012f49e92aaa93a60cfcfaca548bf",
     "wof:hierarchy":[
         {
@@ -592,11 +603,11 @@
             "country_id":85632521,
             "county_id":421202549,
             "locality_id":421186805,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":421186805,
-    "wof:lastmodified":1606163052,
+    "wof:lastmodified":1587427299,
     "wof:name":"Lima",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096202,
-    "geom:area_square_m":999967998.329201,
+    "geom:area_square_m":999967998.326564,
     "geom:bbox":"-97.000482,32.613216,-96.463738,33.023792",
     "geom:latitude":32.79398,
     "geom:longitude":-96.765692,
@@ -14,6 +14,8 @@
     "iso:country":"US",
     "lbl:latitude":32.736212,
     "lbl:longitude":-96.784359,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":32.70992,
     "mps:longitude":-96.751354,
     "mz:hierarchy_label":1,
@@ -22,20 +24,17 @@
     "name:afr_x_preferred":[
         "Dallas"
     ],
-    "name:alb_x_preferred":[
-        "Dallas"
-    ],
     "name:amh_x_preferred":[
         "\u12f3\u120b\u1235"
     ],
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0644\u0627\u0633\u060c \u062a\u0643\u0633\u0627\u0633"
+    ],
     "name:arg_x_preferred":[
         "Dallas"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u056c\u0561\u057d"
     ],
     "name:arz_x_preferred":[
         "\u062f\u0627\u0644\u0627\u0633"
@@ -49,11 +48,14 @@
     "name:aze_x_preferred":[
         "Dallas"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Dallas"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043b\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0430\u043b\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09b2\u09be\u09b8"
@@ -67,10 +69,10 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0430\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u1012\u102b\u1038\u101c\u1010\u103a\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
+        "Dallas"
+    ],
+    "name:ceb_x_preferred":[
         "Dallas"
     ],
     "name:ces_x_preferred":[
@@ -78,9 +80,6 @@
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u043b\u043b\u0430\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u9054\u62c9\u65af"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u0627\u06b5\u0627\u0633"
@@ -91,10 +90,13 @@
     "name:cos_x_preferred":[
         "Dallas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Dallas"
     ],
     "name:dan_x_preferred":[
+        "Dallas"
+    ],
+    "name:deu_ch_x_preferred":[
         "Dallas"
     ],
     "name:deu_x_preferred":[
@@ -103,13 +105,16 @@
     "name:dty_x_preferred":[
         "\u0921\u0947\u0932\u0938"
     ],
-    "name:dut_x_preferred":[
-        "Dallas"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:eml_x_preferred":[
+        "Dallas"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Dallas"
+    ],
+    "name:eng_gb_x_preferred":[
         "Dallas"
     ],
     "name:eng_x_colloquial":[
@@ -146,20 +151,11 @@
     "name:fra_x_preferred":[
         "Dallas"
     ],
-    "name:fre_x_preferred":[
-        "Dallas"
-    ],
     "name:fry_x_preferred":[
         "Dallas"
     ],
     "name:gan_x_preferred":[
         "\u9054\u62c9\u65af"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10da\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dallas"
     ],
     "name:gla_x_preferred":[
         "Dallas"
@@ -170,8 +166,11 @@
     "name:glg_x_preferred":[
         "Dallas"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03bb\u03b1\u03c2"
+    "name:got_x_preferred":[
+        "\ud800\udf33\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf30\ud800\udf43"
+    ],
+    "name:gsw_x_preferred":[
+        "Dallas"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ab2\u0acd\u0ab2\u0abe\u0ab8"
@@ -197,10 +196,10 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u056c\u0561\u057d"
     ],
-    "name:ice_x_preferred":[
+    "name:ido_x_preferred":[
         "Dallas"
     ],
-    "name:ido_x_preferred":[
+    "name:ile_x_preferred":[
         "Dallas"
     ],
     "name:ina_x_preferred":[
@@ -257,6 +256,9 @@
     "name:lav_x_preferred":[
         "Dalasa"
     ],
+    "name:lim_x_preferred":[
+        "Dallas"
+    ],
     "name:lin_x_preferred":[
         "Dallas"
     ],
@@ -269,17 +271,11 @@
     "name:ltz_x_preferred":[
         "Dallas"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0430\u043b\u0430\u0441"
-    ],
     "name:mal_x_preferred":[
         "\u0d21\u0d3e\u0d33\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0921\u0945\u0932\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Dallas"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043b\u0430\u0441"
@@ -292,6 +288,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0430\u043b\u043b\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Dallas"
     ],
     "name:mya_x_preferred":[
         "\u1012\u102b\u1038\u101c\u1010\u103a\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
@@ -329,9 +328,6 @@
     "name:pan_x_preferred":[
         "\u0a21\u0a3e\u0a32\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0644\u0627\u0633"
-    ],
     "name:pms_x_preferred":[
         "Dallas"
     ],
@@ -341,6 +337,9 @@
     "name:pol_x_preferred":[
         "Dallas"
     ],
+    "name:por_br_x_preferred":[
+        "Dallas"
+    ],
     "name:por_x_preferred":[
         "Dallas"
     ],
@@ -348,9 +347,6 @@
         "Dallas"
     ],
     "name:ron_x_preferred":[
-        "Dallas"
-    ],
-    "name:rum_x_preferred":[
         "Dallas"
     ],
     "name:rus_x_preferred":[
@@ -369,9 +365,6 @@
         "\u0da9\u0dbd\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Dallas"
-    ],
-    "name:slo_x_preferred":[
         "Dallas"
     ],
     "name:slv_x_preferred":[
@@ -413,6 +406,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bb2\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u04d9\u043b\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c32\u0c4d\u0c32\u0c3e\u0c38\u0c4d"
     ],
@@ -436,6 +432,9 @@
     ],
     "name:uig_x_preferred":[
         "\u062f\u0627\u0644\u0644\u0627\u0633"
+    ],
+    "name:uig_x_variant":[
+        "Dallas"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u043b\u0430\u0441"
@@ -461,8 +460,8 @@
     "name:war_x_preferred":[
         "Dallas"
     ],
-    "name:wel_x_preferred":[
-        "Dallas"
+    "name:wuu_x_preferred":[
+        "\u8fbe\u62c9\u65af"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d0\u10da\u10d0\u10e1\u10d8"
@@ -471,6 +470,12 @@
         "Dallas"
     ],
     "name:yue_x_preferred":[
+        "\u9054\u62c9\u65af"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u9054\u62c9\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u9054\u62c9\u65af"
     ],
     "name:zho_x_preferred":[
@@ -585,12 +590,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":131.0,
     "wd:latitude":32.7825,
@@ -600,8 +604,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080647
+        102080647,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -613,12 +617,14 @@
         "gp:id":2388929,
         "loc:id":"n79023321",
         "nyt:id":"N50557194570297334931",
-        "qs:id":1147209,
         "qs_pg:id":1147209,
         "wd:id":"Q16557",
         "wk:page":"Dallas"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a12601a44092065890ac6dc5f935f09d",
     "wof:hierarchy":[
         {
@@ -633,7 +639,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163470,
+    "wof:lastmodified":1587428514,
     "wof:megacity":1,
     "wof:name":"Dallas",
     "wof:parent_id":102080647,

@@ -5,23 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.269111,
-    "geom:area_square_m":123854724174.591766,
+    "geom:area_square_m":123854724174.580643,
     "geom:bbox":"50.775828,50.494961,61.690746,54.365816",
     "geom:latitude":51.994849,
     "geom:longitude":55.625204,
     "iso:country":"RU",
-    "label:eng_x_abbreviation":"OB",
     "label:eng_x_preferred_longname":[
         "Orenburg Oblast"
     ],
     "label:eng_x_preferred_placetype":[
         "oblast"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OB"
+    ],
+    "label:rus_x_preferred_longname":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "label:rus_x_preferred_placetype":[
         "\u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "lbl:latitude":52.136612,
     "lbl:longitude":54.356193,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Orenburg",
     "meso:name_alt2":"Orenburgskaja oblast'",
     "meso:name_local":"\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -31,6 +37,66 @@
     "mz:is_current":1,
     "mz:max_zoom":10.2,
     "mz:min_zoom":4.7,
+    "name:afr_x_preferred":[
+        "Orenburg"
+    ],
+    "name:aka_x_preferred":[
+        "Orenburg"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u064a\u0646\u0628\u0648\u0631\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Oremburgu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u0628\u0648\u0631\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Orenburq"
+    ],
+    "name:bak_x_preferred":[
+        "\u042b\u0440\u044b\u043c\u0431\u0443\u0440"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u044d\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:bre_x_preferred":[
+        "Orenbourg"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Orenburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Orenburg"
+    ],
+    "name:ces_x_preferred":[
+        "Orenburg"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:chv_x_preferred":[
+        "\u0102\u0440\u0435\u043d\u043f\u0443\u0440"
+    ],
+    "name:cym_x_preferred":[
+        "Orenburg"
+    ],
+    "name:dan_x_preferred":[
+        "Orenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Orenburg"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03b5\u03bd\u03bc\u03c0\u03bf\u03cd\u03c1\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Orenburg"
     ],
@@ -40,8 +106,107 @@
         "Orenburg Oblast",
         "Orenburg Oblast\u02b9"
     ],
+    "name:epo_x_preferred":[
+        "Orenburgo"
+    ],
+    "name:est_x_preferred":[
+        "Orenburg"
+    ],
+    "name:eus_x_preferred":[
+        "Orenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Orenburg"
+    ],
     "name:fra_x_preferred":[
         "Oblast d'Orenbourg"
+    ],
+    "name:fra_x_variant":[
+        "Orenbourg"
+    ],
+    "name:gle_x_preferred":[
+        "Orenburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "Orenburg"
+    ],
+    "name:hsb_x_preferred":[
+        "Orenburg"
+    ],
+    "name:hun_x_preferred":[
+        "Orenburg"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0565\u0576\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Orenburg"
+    ],
+    "name:isl_x_preferred":[
+        "Orenburg"
+    ],
+    "name:ita_x_preferred":[
+        "Orenburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ec\u30f3\u30d6\u30eb\u30af"
+    ],
+    "name:kaa_x_preferred":[
+        "Orenburg"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d4\u10dc\u10d1\u10e3\u10e0\u10d2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u044b\u043d\u0431\u043e\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:kom_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub80c\ubd80\ub974\ud06c"
+    ],
+    "name:lat_x_preferred":[
+        "Orenburgum"
+    ],
+    "name:lav_x_preferred":[
+        "Orenburga"
+    ],
+    "name:lit_x_preferred":[
+        "Orenburgas"
+    ],
+    "name:lmo_x_preferred":[
+        "Orenburg"
+    ],
+    "name:mar_x_preferred":[
+        "\u0913\u0930\u0947\u0928\u092c\u0930\u094d\u0917"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:mon_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Orenburg"
+    ],
+    "name:myv_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Orenburg"
     ],
     "name:nno_x_preferred":[
         "Orenburg"
@@ -52,22 +217,103 @@
     "name:nor_x_preferred":[
         "Orenburgskaja oblast"
     ],
+    "name:nor_x_variant":[
+        "Orenburg"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u0628\u0631\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Orenburg"
+    ],
+    "name:por_x_preferred":[
+        "Oremburgo"
+    ],
+    "name:ron_x_preferred":[
+        "Orenburg"
+    ],
     "name:rus_x_preferred":[
-        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f"
     ],
     "name:rus_x_variant":[
         "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Orenburg"
+    ],
+    "name:slk_x_preferred":[
+        "Orenburg"
+    ],
+    "name:spa_x_preferred":[
+        "Oremburgo"
+    ],
+    "name:sqi_x_preferred":[
+        "Orenburg"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Orenburg"
     ],
     "name:swe_x_preferred":[
         "Orenburg"
     ],
-    "name:und_x_variant":[
-        "Orenburgskaja oblast'",
+    "name:tam_x_preferred":[
+        "\u0b93\u0bb0\u0ba9\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u042b\u0440\u044b\u043d\u0431\u0443\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:tgl_x_preferred":[
         "Orenburg"
     ],
-    "name:unk_x_variant":[
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e40\u0e23\u0e19\u0e1a\u0e38\u0e23\u0e4c\u0e01"
+    ],
+    "name:tum_x_preferred":[
+        "Orenburg"
+    ],
+    "name:tur_x_preferred":[
+        "Orenburg"
+    ],
+    "name:udm_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:und_x_variant":[
         "Chkalov Oblast"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u0628\u0631\u06af"
+    ],
+    "name:uzb_x_preferred":[
+        "Orenburg"
+    ],
+    "name:vep_x_preferred":[
+        "Orenburg"
+    ],
+    "name:vie_x_preferred":[
+        "Orenburg"
+    ],
+    "name:war_x_preferred":[
+        "Orenburg"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u4f26\u5821"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u4f26\u5821"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"RUS",
@@ -134,14 +380,13 @@
     "qs:adm0_a3":"RUS",
     "qs:level":"adm1",
     "qs:source":"Unknown",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"124,000",
     "statoids:area_mi":"47,900",
     "statoids:as_of_date":"2010-10-14",
@@ -168,6 +413,9 @@
         "iso:id":"RU-ORE"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f170a8ee243123514c8f717f405d371",
     "wof:hierarchy":[
         {
@@ -203,11 +451,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1606163337,
+    "wof:lastmodified":1587427446,
     "wof:name":"Orenburg",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2033072,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

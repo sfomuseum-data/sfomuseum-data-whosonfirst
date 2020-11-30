@@ -12,23 +12,18 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0648\u0646\u063a\u062a\u0634\u064a\u0646\u063a \u062c\u064a\u0627\u0646\u063a\u0628\u0649 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Chongqing Jiangbei nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u91cd\u5e86\u6c5f\u5317\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010cchung-\u010dching \u0164iang-pej"
     ],
     "name:dan_x_preferred":[
         "Chongqing Jiangbei International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Internationale luchthaven Chongqing Jiangbei"
+    "name:deu_x_preferred":[
+        "Flughafen Chongqing"
     ],
     "name:eng_x_preferred":[
         "Chongqing Jiangbei International Airport"
@@ -37,14 +32,17 @@
         "CKG",
         "ZUCK"
     ],
+    "name:eus_x_preferred":[
+        "Chongqing Jiangbei nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0646\u06af\u0686\u06cc\u0646\u06af \u06cc\u06cc\u0627\u0646\u06af\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chongqing Jiangbein kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Chongqing"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Chongqing"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Jiangbei Chongqing"
@@ -58,20 +56,23 @@
     "name:kor_x_preferred":[
         "\ucda9\uce6d \uc7a5\ubca0\uc774 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Jiangbei"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale luchthaven Chongqing Jiangbei"
     ],
     "name:nob_x_preferred":[
         "Chongqing Jiangbei internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0646\u06af\u0686\u06cc\u0646\u06af \u06cc\u06cc\u0627\u0646\u06af\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Chongqing-Jiangbei"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Chongqing Jiangbei"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Chongqing Jiangbei"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d \u0426\u0437\u044f\u043d\u0431\u044d\u0439"
@@ -88,14 +89,17 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e09\u0e07\u0e0a\u0e34\u0e48\u0e07\u0e40\u0e08\u0e35\u0e22\u0e07\u0e40\u0e1b\u0e48\u0e22\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "\u00c7ong\u00e7ing Jiangbei Uluslararas\u0131 Havaliman\u0131"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Giang B\u1eafc Tr\u00f9ng Kh\u00e1nh"
     ],
+    "name:zho_x_preferred":[
+        "\u91cd\u5e86\u6c5f\u5317\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"1365",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -134,11 +138,11 @@
         }
     ],
     "wof:id":102551109,
-    "wof:lastmodified":1606163487,
+    "wof:lastmodified":1566654946,
     "wof:name":"Chongqing Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

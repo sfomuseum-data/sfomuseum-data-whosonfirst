@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":-34.822559,
     "lbl:longitude":-56.15736,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-34.822559,
     "mps:longitude":-56.15736,
     "mz:hierarchy_label":1,
@@ -31,14 +35,11 @@
     "name:ast_x_preferred":[
         "Departamentu de Montevid\u00e9u"
     ],
-    "name:baq_x_preferred":[
-        "Montevideo departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043d\u0442\u044d\u0432\u0456\u0434\u044d\u0430"
     ],
     "name:ben_x_preferred":[
-        "\u09ae\u09a8\u09cd\u099f\u09c7\u09ad\u09bf\u09a1\u09bf\u0993  \u09ac\u09bf\u09ad\u09be\u0997"
+        "\u09ae\u09a8\u09cd\u099f\u09c7\u09ad\u09bf\u09a1\u09bf\u0993 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
@@ -46,38 +47,44 @@
     "name:cat_x_preferred":[
         "Departament de Montevideo"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u5f97\u7dad\u7684\u4e9e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Montevideo"
     ],
-    "name:dut_x_preferred":[
-        "Montevideo"
+    "name:deu_x_preferred":[
+        "Departamento Montevideo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03b5\u03b2\u03b9\u03b4\u03ad\u03bf"
     ],
     "name:eng_x_preferred":[
         "Montevideo"
     ],
+    "name:eng_x_variant":[
+        "Montevideo Department"
+    ],
     "name:epo_x_preferred":[
         "Montevideo"
+    ],
+    "name:epo_x_variant":[
+        "Departemento Montevideo"
+    ],
+    "name:eus_x_preferred":[
+        "Montevideo departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0648\u0646\u062a\u0647\u200c\u0648\u06cc\u062f\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Montevideo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Montevideo"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10d5\u10d8\u10d3\u10d4\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Montevideo"
+    "name:frr_x_preferred":[
+        "Montevideo"
     ],
     "name:glg_x_preferred":[
         "Departamento de Montevideo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03b5\u03b2\u03b9\u03b4\u03ad\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0ab5\u0abf\u0aa1\u0ac0\u0aaf\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -100,14 +107,26 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa"
     ],
+    "name:jpn_x_variant":[
+        "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb5\u0cbf\u0ca1\u0cbf\u0caf\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4\u10d5\u10d8\u10d3\u10d4\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud14c\ube44\ub370\uc624"
     ],
+    "name:kor_x_variant":[
+        "\ubaac\ud14c\ube44\ub370\uc624\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Montevideo departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
     "name:lit_x_preferred":[
         "Montevid\u0117jo departamentas"
@@ -115,14 +134,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0902\u091f\u0935\u093f\u0921\u0940\u0913 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Montevideo Department"
+    ],
+    "name:nld_x_preferred":[
+        "Montevideo"
     ],
     "name:nob_x_preferred":[
         "Montevideo"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0648\u0646\u062a\u0647\u200c\u0648\u06cc\u062f\u0626\u0648"
     ],
     "name:pol_x_preferred":[
         "Montevideo"
@@ -142,6 +161,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd9\u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Montevideo"
+    ],
     "name:sme_x_preferred":[
         "Montevideo"
     ],
@@ -152,7 +174,7 @@
         "Montevideo"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c02\u0c1f\u0c3f\u0c35\u0c40\u0c21\u0c3f\u0c2f\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -160,14 +182,14 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Montevideo Departman\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0456\u0434\u0435\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Departamento Montevideo"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0628\u06cc\u062f\u06cc\u0648 \u0645\u062d\u06a9\u0645\u06c1"
@@ -180,6 +202,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u5f97\u7ef4\u7684\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u5f97\u7dad\u7684\u4e9e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -251,9 +276,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"530",
     "statoids:area_mi":"205",
     "statoids:as_of_date":"2011-09-01",
@@ -278,7 +303,7 @@
         "gp:id":2347649,
         "hasc:id":"UY.MO",
         "iso:id":"UY-MO",
-        "qs:id":222853,
+        "qs_pg:id":222853,
         "unlc:id":"UY-MO",
         "wd:id":"Q16594",
         "wk:page":"Montevideo Department"
@@ -296,20 +321,16 @@
         }
     ],
     "wof:id":85680339,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1578513909,
+    "wof:lastmodified":1566643032,
     "wof:name":"Montevideo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1319108,
     "wof:population_rank":12,

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1929",
     "geom:area":0.000102,
-    "geom:area_square_m":957382.105787,
+    "geom:area_square_m":957382.105788,
     "geom:bbox":"-75.442818,40.64246,-75.419647,40.659626",
     "geom:latitude":40.651356,
     "geom:longitude":-75.430752,
@@ -19,8 +19,9 @@
     "mps:longitude":-75.432837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5229\u54c8\u4f0a\u8c37"
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "internationaler Flughafen Lehigh Valley"
     ],
     "name:eng_x_preferred":[
         "Lehigh Valley International Airport"
@@ -30,11 +31,11 @@
         "KABE",
         "Allentown-Bethlehem-Easton International Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport d'Allentown-Bethlehem-Easton"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u06cc \u0648\u0627\u0644\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "internationaler Flughafen Lehigh Valley"
+    "name:fra_x_preferred":[
+        "a\u00e9roport d'Allentown-Bethlehem-Easton"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30cf\u30a4\u30fb\u30d0\u30ec\u30fc\u56fd\u969b\u7a7a\u6e2f"
@@ -42,11 +43,11 @@
     "name:nob_x_preferred":[
         "Lehigh Valley internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u06cc \u0648\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Lehigh Valley"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Lehigh Valley"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Lehigh Valley"
@@ -54,22 +55,23 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043b\u04e3 \u0432\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Allentown-Bethlehem-Easton Airport"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06c1\u0627\u0626\u06cc \u0648\u06cc\u0644\u06cc \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Lehigh Valley"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u54c8\u4f0a\u8c37"
+    ],
     "oa:elevation_ft":"393",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":188,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Allentown - Bethlehem - Easton International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1318,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":102529131,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1566609401,
     "wof:name":"Lehigh Valley International Airport",
     "wof:parent_id":85838547,
     "wof:placetype":"campus",

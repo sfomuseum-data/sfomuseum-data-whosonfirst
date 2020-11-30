@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05298,
-    "geom:area_square_m":633899807.839066,
+    "geom:area_square_m":633899807.838685,
     "geom:bbox":"120.896248,14.351386,121.136038,14.788443",
     "geom:latitude":14.617045,
     "geom:longitude":121.029377,
@@ -15,15 +15,32 @@
     ],
     "lbl:latitude":14.627224,
     "lbl:longitude":121.031157,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.627224,
     "mps:longitude":121.031157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Gran Manila"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
+    ],
+    "name:bcl_x_preferred":[
+        "Rehiyon Nasyunal na Kapitolyo"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043b\u0456\u0447\u043d\u044b \u0420\u044d\u0433\u0456\u0451\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09ae\u09be\u09a8\u09bf\u09b2\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09ae\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be"
     ],
     "name:bre_x_preferred":[
         "Metro Manila"
@@ -31,8 +48,11 @@
     "name:cat_x_preferred":[
         "Metro Manila"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
+    "name:ceb_x_preferred":[
+        "Metro Manila"
+    ],
+    "name:ces_x_preferred":[
+        "Metro Manila"
     ],
     "name:deu_x_preferred":[
         "Metro Manila"
@@ -46,17 +66,23 @@
     "name:epo_x_preferred":[
         "Manila Metropolo"
     ],
+    "name:eus_x_preferred":[
+        "Manila Handia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Metro Manila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand Manille"
-    ],
-    "name:ger_x_preferred":[
-        "Metro Manila"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0928\u093f\u0932\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0928\u0940\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
         "Metro Manila"
@@ -70,11 +96,20 @@
     "name:ind_x_preferred":[
         "Metro Manila"
     ],
+    "name:ita_x_preferred":[
+        "Regione Capitale Nazionale"
+    ],
     "name:jpn_x_preferred":[
         "\u9996\u90fd\u570f"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30cb\u30e9\u9996\u90fd\u570f"
+    ],
     "name:kor_x_preferred":[
         "\uba54\ud2b8\ub85c\ub9c8\ub2d0\ub77c"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ud2b8\ub85c \ub9c8\ub2d0\ub77c"
     ],
     "name:lat_x_preferred":[
         "Metro Manila"
@@ -82,19 +117,31 @@
     "name:lit_x_preferred":[
         "Manilos metropolija"
     ],
-    "name:mac_x_preferred":[
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d46\u0d1f\u0d4d\u0d30\u0d4b \u0d2e\u0d28\u0d3f\u0d32"
+    ],
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u0442\u0440\u043e \u041c\u0430\u043d\u0438\u043b\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Metro Manila"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u103a\u1011\u101b\u102d\u102f \u1019\u1014\u102e\u101c\u102c"
     ],
     "name:nan_x_preferred":[
         "Kok-ka Si\u00fa-to\u0358 To\u0101-khu"
+    ],
+    "name:nld_x_preferred":[
+        "National Capital Region"
     ],
     "name:nno_x_preferred":[
         "Metro Manila"
     ],
     "name:nob_x_preferred":[
+        "Metro Manila"
+    ],
+    "name:nor_x_preferred":[
         "Metro Manila"
     ],
     "name:oci_x_preferred":[
@@ -106,14 +153,17 @@
     "name:pam_x_preferred":[
         "Keragulang Menila"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
+    "name:pol_x_preferred":[
+        "Region Sto\u0142eczny"
     ],
     "name:por_x_preferred":[
         "Grande Manila"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0420\u0435\u0433\u0438\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
     ],
     "name:sco_x_preferred":[
         "Metro Manila"
@@ -143,7 +193,10 @@
         "Metro Manila"
     ],
     "name:ukr_x_preferred":[
-        "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d "
+        "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0679\u0631\u0648 \u0645\u0646\u06cc\u0644\u0627"
@@ -157,12 +210,17 @@
     "name:war_x_preferred":[
         "Metro Manila"
     ],
+    "name:war_x_variant":[
+        "Metropolitano nga Manila"
+    ],
     "name:zho_x_preferred":[
         "\u56fd\u5bb6\u9996\u90fd\u533a"
     ],
-    "sfomuseum:placetype":"region",
+    "name:zho_x_variant":[
+        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
+    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2010-05-01",
     "statoids:area_km":"636",
@@ -198,7 +256,22 @@
         }
     ],
     "wof:id":1159397243,
-    "wof:lastmodified":1606163486,
+    "wof:lang_x_official":[
+        "eng",
+        "fil"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fil",
+        "ceb",
+        "ilo",
+        "hil",
+        "war",
+        "pag",
+        "mdh",
+        "tsg"
+    ],
+    "wof:lastmodified":1587163114,
     "wof:name":"National Capital District",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

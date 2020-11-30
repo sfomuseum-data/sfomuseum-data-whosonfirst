@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014443,
-    "geom:area_square_m":172052761.308172,
+    "geom:area_square_m":172052761.308203,
     "geom:bbox":"32.479054,15.479931,32.679791,15.635769",
     "geom:latitude":15.555134,
     "geom:longitude":32.558943,
     "gn:country":"SD",
     "gn:fcode":"PPLC",
-    "gn:pop":1974647,
+    "gn:population":1974647,
     "iso:country":"SD",
     "lbl:latitude":15.55177,
     "lbl:longitude":32.53241,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -28,17 +30,14 @@
     "name:aka_x_preferred":[
         "Khartoum"
     ],
-    "name:alb_x_preferred":[
-        "Kartum"
-    ],
     "name:amh_x_preferred":[
         "\u12ab\u122d\u1271\u121d"
     ],
     "name:ara_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0637\u0648\u0645"
@@ -46,14 +45,14 @@
     "name:ast_x_preferred":[
         "Khartum"
     ],
+    "name:ast_x_variant":[
+        "\u1e24artum"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0637\u0648\u0645"
     ],
     "name:aze_x_preferred":[
         "Xartum"
-    ],
-    "name:baq_x_preferred":[
-        "Khartum"
     ],
     "name:bcl_x_preferred":[
         "Khartoum"
@@ -61,11 +60,17 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0440\u0442\u0443\u043c"
     ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09be\u09b0\u09cd\u09a4\u09c1\u09ae"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58"
+    ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kartum"
@@ -76,13 +81,13 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
-    "name:bur_x_preferred":[
-        "\u1001\u102b\u1010\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Khartum"
     ],
     "name:cdo_x_preferred":[
+        "Khartoum"
+    ],
+    "name:ceb_x_preferred":[
         "Khartoum"
     ],
     "name:ces_x_preferred":[
@@ -90,9 +95,6 @@
     ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5580\u571f\u7a46"
     ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
@@ -106,20 +108,29 @@
     "name:cym_x_preferred":[
         "Khartoum"
     ],
-    "name:cze_x_preferred":[
-        "Chart\u00fam"
-    ],
     "name:dan_x_preferred":[
         "Khartoum"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Khartum"
     ],
     "name:deu_x_preferred":[
         "Khartum"
     ],
-    "name:dut_x_preferred":[
-        "Khartoem"
+    "name:din_x_preferred":[
+        "Kaartu\u0254\u0308m"
+    ],
+    "name:diq_x_preferred":[
+        "Xartum"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Khartoum"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Khartoum"
     ],
     "name:eng_x_preferred":[
         "Khartoum"
@@ -129,6 +140,9 @@
     ],
     "name:est_x_preferred":[
         "Hartum"
+    ],
+    "name:eus_x_preferred":[
+        "Khartum"
     ],
     "name:fao_x_preferred":[
         "Khartoum"
@@ -142,17 +156,11 @@
     "name:fra_x_preferred":[
         "Khartoum"
     ],
-    "name:fre_x_preferred":[
-        "Khartoum"
+    "name:frr_x_preferred":[
+        "Chartuum"
     ],
     "name:fry_x_preferred":[
         "Kart\u00fbm"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Khartum"
     ],
     "name:gla_x_preferred":[
         "Khartoum"
@@ -163,8 +171,8 @@
     "name:glg_x_preferred":[
         "Khart\u00fan - \u0627\u0644\u062e\u0631\u0637\u0648\u0645"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03c4\u03bf\u03cd\u03bc"
+    "name:glg_x_variant":[
+        "Khart\u00fan"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0abe\u0ab0\u0acd\u0aa4\u0ac2\u0aae"
@@ -181,6 +189,9 @@
     "name:heb_x_preferred":[
         "\u05d7\u05e8\u05d8\u05d5\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05d7'\u05e8\u05d8\u05d5\u05dd"
+    ],
     "name:hif_x_preferred":[
         "Khartoum"
     ],
@@ -193,8 +204,11 @@
     "name:hun_x_preferred":[
         "Kart\u00fam"
     ],
-    "name:ice_x_preferred":[
-        "Kart\u00fam"
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053d\u0561\u0580\u0569\u0578\u0582\u0574"
     ],
     "name:ido_x_preferred":[
         "Khartoum"
@@ -223,6 +237,9 @@
     "name:kan_x_preferred":[
         "\u200d\u0c96\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0caf\u0cc2\u0cae\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10e2\u10e3\u10db\u10d8"
+    ],
     "name:kbp_x_preferred":[
         "Kaartum"
     ],
@@ -241,6 +258,9 @@
     "name:lav_x_preferred":[
         "Hart\u016bma"
     ],
+    "name:lfn_x_preferred":[
+        "Khartoum"
+    ],
     "name:lij_x_preferred":[
         "Khartum"
     ],
@@ -253,17 +273,14 @@
     "name:ltz_x_preferred":[
         "Khartum"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0442\u0443\u043c"
-    ],
     "name:mal_x_preferred":[
         "\u0d16\u0d3e\u0d7c\u0d24\u0d4d\u0d24\u0d42\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0916\u093e\u0930\u094d\u091f\u0942\u092e"
     ],
-    "name:may_x_preferred":[
-        "Khartoum"
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0443\u043c"
     ],
     "name:mlg_x_preferred":[
         "Khartoum"
@@ -274,11 +291,20 @@
     "name:mrj_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
+    "name:msa_x_preferred":[
+        "Khartoum"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u102b\u1010\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nah_x_preferred":[
         "Cartun"
     ],
     "name:nan_x_preferred":[
         "Khartoum"
+    ],
+    "name:nds_x_preferred":[
+        "Khartum"
     ],
     "name:nld_x_preferred":[
         "Khartoem"
@@ -310,9 +336,6 @@
     "name:pap_x_preferred":[
         "Kartum"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0627\u0631\u0637\u0648\u0645"
-    ],
     "name:pms_x_preferred":[
         "Khartoum"
     ],
@@ -322,10 +345,16 @@
     "name:pol_x_preferred":[
         "Chartum"
     ],
+    "name:por_br_x_preferred":[
+        "Cartum"
+    ],
     "name:por_x_preferred":[
         "Cartum"
     ],
-    "name:rum_x_preferred":[
+    "name:pus_x_preferred":[
+        "\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:ron_x_preferred":[
         "Khartoum"
     ],
     "name:rup_x_preferred":[
@@ -337,13 +366,13 @@
     "name:sco_x_preferred":[
         "Khartoum"
     ],
+    "name:sgs_x_preferred":[
+        "Chartums"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0da7\u0dd4\u0db8\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Chart\u00fam"
-    ],
-    "name:slo_x_preferred":[
         "Chart\u00fam"
     ],
     "name:slv_x_preferred":[
@@ -358,6 +387,9 @@
     "name:spa_x_preferred":[
         "Jartum"
     ],
+    "name:sqi_x_preferred":[
+        "Kartum"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043c"
     ],
@@ -367,8 +399,14 @@
     "name:swe_x_preferred":[
         "Khartoum"
     ],
+    "name:szl_x_preferred":[
+        "Chart\u016fm"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bcc\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc2\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
@@ -385,9 +423,6 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e17\u0e39\u0e21"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f62\u0f0b\u0f4f\u0f74\u0f58\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Hartum"
     ],
@@ -403,7 +438,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Khar\u0163\u016bm"
     ],
     "name:urd_x_preferred":[
@@ -424,9 +459,6 @@
     "name:war_x_preferred":[
         "Khartoum"
     ],
-    "name:wel_x_preferred":[
-        "Khartoum"
-    ],
     "name:wol_x_preferred":[
         "Xartum"
     ],
@@ -441,6 +473,12 @@
     ],
     "name:yue_x_preferred":[
         "\u5580\u571f\u7a46"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5580\u571f\u7a46"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5580\u571f\u6728"
     ],
     "name:zho_x_preferred":[
         "\u5580\u571f\u7a46"
@@ -541,7 +579,6 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"12",
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "unknown"
@@ -554,19 +591,22 @@
     "wof:belongsto":[
         102191573,
         85632751,
-        85676889,
-        1091707383
+        1091707383,
+        85676889
     ],
     "wof:breaches":[],
     "wof:capital_of":85632751,
     "wof:concordances":{
         "gn:id":379252,
-        "qs:id":124519,
+        "qs_pg:id":124519,
         "wd:id":"Q1963",
         "wk:page":"Khartoum"
     },
     "wof:country":"SD",
     "wof:created":1469052333,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"5852191548dab8eddd8080f2c2823aa1",
     "wof:hierarchy":[
         {
@@ -578,7 +618,7 @@
         }
     ],
     "wof:id":890441687,
-    "wof:lastmodified":1606163454,
+    "wof:lastmodified":1587427696,
     "wof:name":"Khartoum",
     "wof:parent_id":1091707383,
     "wof:placetype":"locality",

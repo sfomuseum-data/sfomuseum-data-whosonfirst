@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.613277,
-    "geom:area_square_m":237828806376.232269,
+    "geom:area_square_m":237828806376.232178,
     "geom:bbox":"20.261951,43.619026,29.715247,48.265152",
     "geom:latitude":45.839272,
     "geom:longitude":24.984657,
@@ -60,6 +60,9 @@
     "name:arg_x_preferred":[
         "Ruman\u00eda"
     ],
+    "name:ary_x_preferred":[
+        "\u0631\u0648\u0645\u0627\u0646\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0631\u0648\u0645\u0627\u0646\u064a\u0627"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:bam_x_preferred":[
         "Rumani"
+    ],
+    "name:ban_x_preferred":[
+        "Romania"
     ],
     "name:bar_x_preferred":[
         "Rum\u00e4nien"
@@ -193,6 +199,12 @@
     "name:dan_x_preferred":[
         "Rum\u00e6nien"
     ],
+    "name:deu_at_x_preferred":[
+        "Rum\u00e4nien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Rum\u00e4nien"
+    ],
     "name:deu_x_colloquial":[
         "Rumaenien",
         "Rumanien"
@@ -217,6 +229,12 @@
     ],
     "name:eml_x_preferred":[
         "Ruman\u00ee"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Romania"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Romania"
     ],
     "name:eng_x_preferred":[
         "Romania"
@@ -281,6 +299,9 @@
     ],
     "name:gag_x_preferred":[
         "Rom\u0131niya"
+    ],
+    "name:gcr_x_preferred":[
+        "Roumani"
     ],
     "name:gla_x_preferred":[
         "Rom\u00e0inia"
@@ -350,6 +371,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0582\u0574\u056b\u0576\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0578\u0582\u0574\u0561\u0576\u056b\u0561"
     ],
     "name:ibo_x_preferred":[
         "Romania"
@@ -422,6 +446,9 @@
     ],
     "name:kbp_x_preferred":[
         "Rumaanii"
+    ],
+    "name:kea_x_preferred":[
+        "Rom\u00e1nia"
     ],
     "name:khm_x_preferred":[
         "\u179a\u17bc\u1798\u17c9\u17b6\u1793\u17b8"
@@ -515,6 +542,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u7f85\u99ac\u5c3c\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u094b\u092e\u093e\u0928\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d31\u0d4a\u0d2e\u0d3e\u0d28\u0d3f\u0d2f"
@@ -675,6 +705,9 @@
     "name:pol_x_preferred":[
         "Rumunia"
     ],
+    "name:por_br_x_preferred":[
+        "Rom\u00eania"
+    ],
     "name:por_x_colloquial":[
         "Romenia"
     ],
@@ -725,6 +758,9 @@
     ],
     "name:san_x_preferred":[
         "\u0930\u094b\u092e\u093e\u0928\u093f\u092f\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c73\u1c62\u1c5f\u1c71\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Ruman\u00eca"
@@ -789,6 +825,12 @@
     "name:srn_x_preferred":[
         "Romenikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0420\u0443\u043c\u0443\u043d\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Rumunija"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0443\u043c\u0443\u043d\u0438\u0458\u0430"
     ],
@@ -809,6 +851,9 @@
     ],
     "name:szl_x_preferred":[
         "R\u016fm\u016f\u0144ijo"
+    ],
+    "name:szy_x_preferred":[
+        "Romania"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bc1\u0bae\u0bc7\u0ba9\u0bbf\u0baf\u0bbe"
@@ -958,6 +1003,9 @@
     "name:zho_min_nan_x_preferred":[
         "Rom\u00e2nia"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u99ac\u5c3c\u4e9e"
+    ],
     "name:zho_x_preferred":[
         "\u7f85\u99ac\u5c3c\u4e9e"
     ],
@@ -1043,8 +1091,6 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -1078,6 +1124,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Romania",
+        "digitalenvoy:country_code":642,
         "fb:id":"en.romania",
         "fifa:id":"ROU",
         "fips:code":"RO",
@@ -1102,6 +1149,10 @@
     },
     "wof:country":"RO",
     "wof:country_alpha3":"ROU",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"540a1c05815ba7e7145671570226e8e9",
     "wof:hierarchy":[
         {
@@ -1116,7 +1167,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1606163325,
+    "wof:lastmodified":1595444204,
     "wof:name":"Romania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

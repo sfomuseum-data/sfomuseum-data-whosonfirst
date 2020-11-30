@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053184,
-    "geom:area_square_m":539863567.285261,
+    "geom:area_square_m":539863567.285232,
     "geom:bbox":"-56.420766,-34.941188,-56.035876,-34.713436",
     "geom:latitude":-34.82215,
     "geom:longitude":-56.218756,
     "gn:country":"UY",
     "gn:fcode":"PPLC",
-    "gn:pop":1270737,
+    "gn:population":1270737,
     "iso:country":"UY",
     "lbl:latitude":-34.83346,
     "lbl:longitude":-56.16735,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
@@ -30,9 +33,6 @@
     "name:aka_x_preferred":[
         "Montevideo"
     ],
-    "name:alb_x_preferred":[
-        "Montevideo"
-    ],
     "name:amh_x_preferred":[
         "\u121e\u1295\u1274\u126a\u12f4\u12ce"
     ],
@@ -42,8 +42,8 @@
     "name:arg_x_preferred":[
         "Montevideo"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u057f\u0565\u057e\u056b\u0564\u0565\u0578"
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u064a\u06a4\u064a\u062f\u064a\u064a\u0648"
     ],
     "name:ast_x_preferred":[
         "Montevid\u00e9u"
@@ -57,8 +57,8 @@
     "name:aze_x_preferred":[
         "Montevideo"
     ],
-    "name:baq_x_preferred":[
-        "Montevideo"
+    "name:bak_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
     "name:bar_x_preferred":[
         "Montevideo"
@@ -68,6 +68,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0442\u044d\u0432\u0456\u0434\u044d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0442\u044d\u0432\u0456\u0434\u044d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u09a4\u09c7\u09ac\u09bf\u09a6\u09c7\u0993"
@@ -84,13 +87,13 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103d\u1014\u103a\u1010\u102e\u1017\u1005\u103a\u1012\u102e\u1021\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Montevideo"
     ],
     "name:cdo_x_preferred":[
+        "Montevideo"
+    ],
+    "name:ceb_x_preferred":[
         "Montevideo"
     ],
     "name:ces_x_preferred":[
@@ -99,13 +102,10 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u5f97\u7ef4\u7684\u4e9a"
-    ],
     "name:cos_x_preferred":[
         "Montevideo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Montevideo"
     ],
     "name:dan_x_preferred":[
@@ -117,11 +117,14 @@
     "name:diq_x_preferred":[
         "Montevideo"
     ],
-    "name:dut_x_preferred":[
-        "Montevideo"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bd\u03c4\u03b5\u03b2\u03b9\u03b4\u03ad\u03bf"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Montevideo"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Montevideo"
     ],
     "name:eng_x_preferred":[
         "Montevideo"
@@ -150,19 +153,13 @@
     "name:fra_x_preferred":[
         "Montevideo"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Montevideo"
     ],
     "name:fry_x_preferred":[
         "Montevideo"
     ],
     "name:gag_x_preferred":[
-        "Montevideo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10d5\u10d8\u10d3\u10d4\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Montevideo"
     ],
     "name:gla_x_preferred":[
@@ -174,10 +171,10 @@
     "name:glg_x_preferred":[
         "Montevideo"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03b5\u03b2\u03b9\u03b4\u03ad\u03bf"
-    ],
     "name:grn_x_preferred":[
+        "Montevideo"
+    ],
+    "name:gsw_x_preferred":[
         "Montevideo"
     ],
     "name:guj_x_preferred":[
@@ -216,8 +213,11 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u057f\u0587\u056b\u0564\u0565\u0578"
     ],
-    "name:ice_x_preferred":[
-        "Montev\u00edde\u00f3"
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0576\u057f\u0565\u057e\u056b\u0564\u0565\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0578\u0576\u0564\u0565\u057e\u056b\u057f\u0567\u0585"
     ],
     "name:ido_x_preferred":[
         "Montevideo"
@@ -297,17 +297,11 @@
     "name:ltz_x_preferred":[
         "Montevideo"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d4d\u0d1f\u0d47\u0d35\u0d40\u0d21\u0d3f\u0d2f\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u094d\u0924\u0947\u0935\u093f\u0926\u0947\u0913"
-    ],
-    "name:may_x_preferred":[
-        "Montevideo"
     ],
     "name:min_x_preferred":[
         "Montevideo"
@@ -315,11 +309,17 @@
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
+    "name:mlg_x_preferred":[
+        "Montevideo"
+    ],
     "name:mlt_x_preferred":[
         "Montevideo"
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Montevideo"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1010\u102e\u1017\u1005\u103a\u1012\u102e\u1021\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
@@ -354,6 +354,9 @@
     "name:oci_x_preferred":[
         "Montevideo"
     ],
+    "name:olo_x_preferred":[
+        "Montevideo"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b23\u0b4d\u0b1f\u0b3f\u0b2d\u0b3f\u0b21\u0b3c\u0b3f\u0b13"
     ],
@@ -372,19 +375,22 @@
     "name:pdc_x_preferred":[
         "Montevideo"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0647\u200c\u0648\u06cc\u062f\u0626\u0648"
-    ],
     "name:pms_x_preferred":[
         "Montevideo"
     ],
     "name:pol_x_preferred":[
         "Montevideo"
     ],
+    "name:por_br_x_preferred":[
+        "Montevid\u00e9u"
+    ],
     "name:por_x_preferred":[
         "Montevid\u00e9u"
     ],
     "name:que_x_preferred":[
+        "Montevideo"
+    ],
+    "name:rmy_x_preferred":[
         "Montevideo"
     ],
     "name:roh_x_preferred":[
@@ -393,8 +399,8 @@
     "name:ron_x_preferred":[
         "Montevideo"
     ],
-    "name:rum_x_preferred":[
-        "Montevideo"
+    "name:rue_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
     "name:run_x_preferred":[
         "Montevideo"
@@ -420,9 +426,6 @@
     "name:slk_x_preferred":[
         "Montevideo"
     ],
-    "name:slo_x_preferred":[
-        "Montevideo"
-    ],
     "name:slv_x_preferred":[
         "Montevideo"
     ],
@@ -433,6 +436,9 @@
         "Montevideo"
     ],
     "name:spa_x_preferred":[
+        "Montevideo"
+    ],
+    "name:sqi_x_preferred":[
         "Montevideo"
     ],
     "name:srd_x_preferred":[
@@ -465,14 +471,14 @@
     "name:tet_x_preferred":[
         "Montevideu"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
+    ],
     "name:tgl_x_preferred":[
         "Montevideo"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f71\u0f7c\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f5d\u0f72\u0f0b\u0f4c\u0f7c\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Montowideo"
@@ -480,17 +486,23 @@
     "name:tur_x_preferred":[
         "Montevideo"
     ],
+    "name:udm_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06d0\u06cb\u0649\u062f\u06d0\u0626\u0648"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0456\u0434\u0435\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Montevideo"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0628\u06cc\u062f\u06cc\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0646\u0679\u06cc\u0648\u06cc\u0688\u06cc\u0648"
     ],
     "name:uzb_x_preferred":[
         "Montevideo"
@@ -510,8 +522,8 @@
     "name:war_x_preferred":[
         "Montevideo"
     ],
-    "name:wel_x_preferred":[
-        "Montevideo"
+    "name:wuu_x_preferred":[
+        "\u8499\u5f97\u7ef4\u7684\u4e9a"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10d5\u10d8\u10d3\u10d4\u10dd"
@@ -528,17 +540,117 @@
     "name:zha_x_preferred":[
         "Montevideo"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8499\u5f97\u7ef4\u7684\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8499\u7279\u7dad\u591a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8499\u7279\u7dad\u591a"
+    ],
     "name:zho_x_preferred":[
         "\u8499\u7279\u7dad\u591a"
     ],
     "name:zho_x_variant":[
         "\u8499\u5f97\u7ef4\u7684\u4e9a"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Uruguay",
+    "ne:ADM0_A3":"URY",
+    "ne:ADM1NAME":"Montevideo",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":284.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":5038018,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Montevideo",
+    "ne:GN_POP":5324,
+    "ne:GTOPO30":305.0,
+    "ne:ISO_A2":"UY",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-34.858042,
+    "ne:LONGITUDE":-56.171052,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Montevideo",
+    "ne:MAX_AREAKM":347.0,
+    "ne:MAX_AREAMI":134.0,
+    "ne:MAX_BBXMAX":-55.8,
+    "ne:MAX_BBXMIN":-56.291667,
+    "ne:MAX_BBYMAX":-34.65,
+    "ne:MAX_BBYMIN":-34.933333,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":266.0,
+    "ne:MAX_PERMI":165.0,
+    "ne:MAX_POP10":1381747,
+    "ne:MAX_POP20":1381747,
+    "ne:MAX_POP300":1381747,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1381747,
+    "ne:MEAN_BBXC":-56.12273,
+    "ne:MEAN_BBYC":-34.828337,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Montevideo",
+    "ne:MIN_AREAKM":347.0,
+    "ne:MIN_AREAMI":134.0,
+    "ne:MIN_BBXMAX":-55.8,
+    "ne:MIN_BBXMIN":-56.291667,
+    "ne:MIN_BBYMAX":-34.65,
+    "ne:MIN_BBYMIN":-34.933333,
+    "ne:MIN_PERKM":266.0,
+    "ne:MIN_PERMI":165.0,
+    "ne:NAME":"Montevideo",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Montevideo",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":1212,
+    "ne:POP1955":1248,
+    "ne:POP1960":1285,
+    "ne:POP1965":1323,
+    "ne:POP1970":1362,
+    "ne:POP1975":1403,
+    "ne:POP1980":1454,
+    "ne:POP1985":1508,
+    "ne:POP1990":1546,
+    "ne:POP1995":1584,
+    "ne:POP2000":1561,
+    "ne:POP2005":1525,
+    "ne:POP2010":1513,
+    "ne:POP2015":1504,
+    "ne:POP2020":1506,
+    "ne:POP2025":1515,
+    "ne:POP2050":1520,
+    "ne:POP_MAX":1513000,
+    "ne:POP_MIN":5324,
+    "ne:POP_OTHER":1276128,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Uruguay",
+    "ne:SOV_A3":"URY",
+    "ne:TIMEZONE":"America/Chicago",
+    "ne:UN_ADM0":"Uruguay",
+    "ne:UN_FID":579,
+    "ne:UN_LAT":-34.92,
+    "ne:UN_LONG":-56.16,
+    "ne:WORLDCITY":0,
     "qs:name":"Montevideo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"12",
-    "sfomuseum:placetype":"city",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -549,24 +661,30 @@
     "wof:belongsto":[
         102191577,
         85632511,
-        85680339,
-        1092076411
+        1092076411,
+        85680339
     ],
     "wof:breaches":[],
     "wof:capital_of":85632511,
     "wof:concordances":{
         "gn:id":3441575,
         "gp:id":468052,
-        "qs:id":95579,
-        "qs_pg:id":1059187,
+        "qs_pg:id":95579,
         "wd:id":"Q1335",
         "wk:page":"Montevideo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059187
     },
     "wof:coterminous":[
         85680339
     ],
     "wof:country":"UY",
     "wof:created":1469052161,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d062b7874406ed549a20ab7f6f8fc9e",
     "wof:hierarchy":[
         {
@@ -578,13 +696,15 @@
         }
     ],
     "wof:id":890437681,
-    "wof:lastmodified":1606163454,
+    "wof:lastmodified":1587428687,
+    "wof:megacity":1,
     "wof:name":"Montevideo",
     "wof:parent_id":1092076411,
     "wof:placetype":"locality",
     "wof:population":1270737,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:scale":3,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

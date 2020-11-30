@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.005378,
-    "geom:area_square_m":8164146891.341496,
+    "geom:area_square_m":8164146891.341548,
     "geom:bbox":"3.396018,48.515171,5.039685,49.407718",
     "geom:latitude":48.949445,
     "geom:longitude":4.23885,
@@ -16,6 +16,18 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MR"
+    ],
+    "label:fra_x_preferred_longname":[
+        "D\u00e9partement de la Marne"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "d\u00e9partement"
+    ],
+    "label:fra_x_variant_longname":[
+        "d\u00e9partement de la Marne"
+    ],
     "lbl:latitude":49.048494,
     "lbl:longitude":4.140958,
     "mps:latitude":49.048494,
@@ -24,7 +36,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
+    "name:afr_x_preferred":[
         "Marne"
     ],
     "name:ara_x_preferred":[
@@ -33,11 +45,14 @@
     "name:arg_x_preferred":[
         "Marne"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0580\u0576"
-    ],
-    "name:baq_x_preferred":[
+    "name:ast_x_preferred":[
         "Marne"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Marna"
     ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041c\u0430\u0440\u043d\u0430"
@@ -64,16 +79,10 @@
     "name:ces_x_preferred":[
         "Marne"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u6069\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0430"
     ],
     "name:cym_x_preferred":[
-        "Marne"
-    ],
-    "name:cze_x_preferred":[
         "Marne"
     ],
     "name:dan_x_preferred":[
@@ -85,8 +94,8 @@
     "name:deu_x_variant":[
         "Marne"
     ],
-    "name:dut_x_preferred":[
-        "Marne"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Marne"
@@ -109,26 +118,14 @@
     "name:fra_x_preferred":[
         "Marne"
     ],
-    "name:fre_x_preferred":[
-        "Marne"
-    ],
     "name:frp_x_preferred":[
         "Marne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "D\u00e9partement Marne"
     ],
     "name:gla_x_preferred":[
         "Marne"
     ],
     "name:glg_x_preferred":[
         "Marne"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0acd\u0aa8\u0ac7"
@@ -138,6 +135,9 @@
     ],
     "name:hbs_x_preferred":[
         "Marne"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0928\u0947"
@@ -178,6 +178,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub978 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub978\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Marne"
     ],
@@ -201,9 +204,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Marne"
     ],
     "name:mlg_x_preferred":[
         "Marne"
@@ -235,9 +235,6 @@
     "name:pam_x_preferred":[
         "Marne"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0646"
-    ],
     "name:pms_x_preferred":[
         "Dipartiment \u00ebd la Marna"
     ],
@@ -253,9 +250,6 @@
     "name:ron_x_preferred":[
         "Marne"
     ],
-    "name:rum_x_preferred":[
-        "Marne"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0430"
     ],
@@ -268,13 +262,13 @@
     "name:slk_x_preferred":[
         "Marne"
     ],
-    "name:slo_x_preferred":[
-        "Marne"
-    ],
     "name:slv_x_preferred":[
         "Marne"
     ],
     "name:spa_x_preferred":[
+        "Marne"
+    ],
+    "name:sqi_x_preferred":[
         "Marne"
     ],
     "name:srp_x_preferred":[
@@ -310,6 +304,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0646\u060c \u0641\u0631\u0627\u0646\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u0646"
+    ],
     "name:vie_x_preferred":[
         "Marne"
     ],
@@ -319,8 +316,11 @@
     "name:war_x_preferred":[
         "Marne"
     ],
-    "name:wel_x_preferred":[
-        "Marne"
+    "name:wuu_x_preferred":[
+        "\u9a6c\u6069\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u6069"
     ],
     "name:zho_min_nan_x_preferred":[
         "Marne"
@@ -399,7 +399,6 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"D\u00e9partement",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -424,6 +423,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":250051,
         "fips:code":"FRA4",
         "gn:id":2995603,
         "gp:id":12597123,
@@ -448,7 +448,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1606163321,
+    "wof:lastmodified":1588976239,
     "wof:name":"Marne",
     "wof:parent_id":1108826391,
     "wof:placetype":"region",

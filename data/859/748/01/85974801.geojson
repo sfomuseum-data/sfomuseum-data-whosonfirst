@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035275,
-    "geom:area_square_m":351856644.806542,
+    "geom:area_square_m":351856644.807133,
     "geom:bbox":"-115.414628,36.129554,-115.062066,36.380491",
     "geom:latitude":36.22742,
     "geom:longitude":-115.262652,
@@ -14,17 +14,17 @@
     "gn:longitude":-115.13722,
     "gn:population":583756,
     "iso:country":"US",
+    "label:bbox":"-115.414628,36.0546096164485,-115.062066,36.380491",
     "lbl:latitude":36.190364,
     "lbl:longitude":-115.279104,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":36.190364,
     "mps:longitude":-115.279104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
-        "Las Vegas"
-    ],
-    "name:alb_x_preferred":[
         "Las Vegas"
     ],
     "name:amh_x_preferred":[
@@ -36,8 +36,8 @@
     "name:arg_x_preferred":[
         "Las Vegas"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u057d \u054e\u0565\u0563\u0561\u057d"
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0633 \u0641\u064a\u062c\u0627\u0633"
     ],
     "name:ast_x_preferred":[
         "Las Vegas"
@@ -48,14 +48,15 @@
     "name:aze_x_preferred":[
         "Las-Veqas"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Las Vegas"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0441-\u0412\u0435\u0433\u0430\u0441"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0430\u0441-\u0412\u044d\u0433\u0430\u0441"
+        "\u041b\u0430\u0441-\u0412\u044d\u0433\u0430\u0441",
+        "\u041b\u0430\u0441-\u0412\u0435\u0433\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b8 \u09ad\u09c7\u0997\u09be\u09b8"
@@ -68,9 +69,6 @@
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u0412\u0435\u0433\u0430\u0441"
-    ],
-    "name:bur_x_preferred":[
-        "\u101c\u1015\u103a\u1017\u102e\u1038\u1002\u1015\u103a\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Las Vegas"
@@ -87,9 +85,6 @@
     "name:che_x_preferred":[
         "\u041b\u0430\u0441-\u0412\u0435\u0433\u0430\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u7ef4\u52a0\u65af"
-    ],
     "name:cor_x_preferred":[
         "Las Vegas"
     ],
@@ -99,16 +94,10 @@
     "name:cym_x_preferred":[
         "Las Vegas"
     ],
-    "name:cze_x_preferred":[
-        "Las Vegas"
-    ],
     "name:dan_x_preferred":[
         "Las Vegas"
     ],
     "name:deu_x_preferred":[
-        "Las Vegas"
-    ],
-    "name:dut_x_preferred":[
         "Las Vegas"
     ],
     "name:ell_x_preferred":[
@@ -145,6 +134,9 @@
     "name:fas_x_preferred":[
         "\u0644\u0627\u0633 \u0648\u06af\u0627\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0633\u200c\u0648\u06af\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Las Vegas"
     ],
@@ -154,20 +146,11 @@
     "name:fra_x_preferred":[
         "Las Vegas"
     ],
-    "name:fre_x_preferred":[
-        "Las Vegas"
-    ],
     "name:fry_x_preferred":[
         "Las Vegas"
     ],
     "name:gan_x_preferred":[
         "\u62c9\u65af\u7dad\u52a0\u65af"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10e1-\u10d5\u10d4\u10d2\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Las Vegas"
     ],
     "name:gla_x_preferred":[
         "Las Vegas"
@@ -177,9 +160,6 @@
     ],
     "name:glg_x_preferred":[
         "Las Vegas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03c2 \u0392\u03ad\u03b3\u03ba\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0ab8 \u0ab5\u0ac7\u0a97\u0abe\u0ab8"
@@ -204,9 +184,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u057d \u054e\u0565\u0563\u0561\u057d"
-    ],
-    "name:ice_x_preferred":[
-        "Las Vegas"
     ],
     "name:ido_x_preferred":[
         "Las Vegas"
@@ -295,9 +272,6 @@
     "name:lzh_x_preferred":[
         "\u62c9\u65af\u7dad\u52a0\u65af"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0441 \u0412\u0435\u0433\u0430\u0441"
-    ],
     "name:mai_x_preferred":[
         "\u0932\u0938 \u092d\u0947\u0917\u093e\u0938"
     ],
@@ -306,9 +280,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0938 \u0935\u094d\u0939\u0947\u0917\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Las Vegas"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0441 \u0412\u0435\u0433\u0430\u0441"
@@ -336,6 +307,9 @@
     ],
     "name:nav_x_preferred":[
         "Na\u02bcazh\u01eb\u01ebsh H\u00e1tsoh"
+    ],
+    "name:nav_x_variant":[
+        "Na\u02bcazh\u01eb\u01ebsh Hatsoh"
     ],
     "name:nep_x_preferred":[
         "\u0932\u0938 \u092d\u0947\u0917\u0938"
@@ -367,9 +341,6 @@
     "name:pap_x_preferred":[
         "Las Vegas"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0633\u200c\u0648\u06af\u0627\u0633"
-    ],
     "name:pms_x_preferred":[
         "Las Vegas"
     ],
@@ -379,13 +350,13 @@
     "name:por_x_preferred":[
         "Las Vegas"
     ],
+    "name:pus_x_preferred":[
+        "\u0644\u0627\u0633 \u0648\u06cc\u06ab\u0627\u0633"
+    ],
     "name:rmy_x_preferred":[
         "Las Vegas"
     ],
     "name:ron_x_preferred":[
-        "Las Vegas"
-    ],
-    "name:rum_x_preferred":[
         "Las Vegas"
     ],
     "name:run_x_preferred":[
@@ -403,6 +374,9 @@
     "name:sah_x_preferred":[
         "\u041b\u0430\u0441 \u0412\u0435\u0433\u0430\u0441"
     ],
+    "name:scn_x_preferred":[
+        "Las Vegas"
+    ],
     "name:sco_x_preferred":[
         "Las Vegas"
     ],
@@ -410,9 +384,6 @@
         "\u0dbd\u0dcf\u0dc3\u0dca \u0dc0\u0dda\u0d9c\u0dcf\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Las Vegas"
-    ],
-    "name:slo_x_preferred":[
         "Las Vegas"
     ],
     "name:slv_x_preferred":[
@@ -454,6 +425,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0bb8\u0bcd \u0bb5\u0bc7\u0b95\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0441-\u0412\u0435\u0433\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c38\u0c4d \u0c35\u0c46\u0c17\u0c3e\u0c38\u0c4d"
     ],
@@ -481,11 +455,14 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u0412\u0435\u0433\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ragtown"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0648\u06cc\u06af\u0627\u0633\u060c \u0646\u06cc\u0648\u0627\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u0648\u06cc\u06af\u0627\u0633"
     ],
     "name:uzb_x_preferred":[
         "Las Vegas"
@@ -500,9 +477,6 @@
         "Las Vegas"
     ],
     "name:war_x_preferred":[
-        "Las Vegas"
-    ],
-    "name:wel_x_preferred":[
         "Las Vegas"
     ],
     "name:xmf_x_preferred":[
@@ -635,12 +609,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -657,12 +630,14 @@
         "gp:id":2436704,
         "loc:id":"n79041932",
         "nyt:id":"N57505176129465402971",
-        "qs:id":823019,
         "qs_pg:id":823019,
         "wd:id":"Q23768",
         "wk:page":"Las Vegas"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4e26e304b13feca72b060fd84ea1030",
     "wof:hierarchy":[
         {
@@ -674,7 +649,7 @@
         }
     ],
     "wof:id":85974801,
-    "wof:lastmodified":1606163479,
+    "wof:lastmodified":1582335873,
     "wof:megacity":1,
     "wof:name":"Las Vegas",
     "wof:parent_id":102081553,

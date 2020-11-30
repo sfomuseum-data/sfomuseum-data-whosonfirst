@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002477,
-    "geom:area_square_m":25730586.74753,
+    "geom:area_square_m":25730586.747523,
     "geom:bbox":"-97.212388,32.804219,-97.137258,32.889239",
     "geom:latitude":32.835079,
     "geom:longitude":-97.180777,
@@ -14,41 +14,44 @@
     "iso:country":"US",
     "lbl:latitude":32.822258,
     "lbl:longitude":-97.181349,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":32.822258,
     "mps:longitude":-97.181349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0633\u062a"
     ],
     "name:azb_x_preferred":[
         "\u0647\u0631\u0633\u062a\u060c \u062a\u06a9\u0632\u0627\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Hurst"
+    "name:azb_x_variant":[
+        "\u0647\u0631\u0633\u062a"
     ],
     "name:cat_x_preferred":[
+        "Hurst"
+    ],
+    "name:ceb_x_preferred":[
         "Hurst"
     ],
     "name:deu_x_preferred":[
         "Hurst"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Hurst"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Hurst"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0631\u0633\u062a\u060c \u062a\u06af\u0632\u0627\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0647\u0631\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
-        "Hurst"
-    ],
-    "name:fre_x_preferred":[
-        "Hurst"
-    ],
-    "name:ger_x_preferred":[
         "Hurst"
     ],
     "name:hat_x_preferred":[
@@ -78,9 +81,6 @@
     "name:oci_x_preferred":[
         "Hurst"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0631\u0633\u062a\u060c \u062a\u06af\u0632\u0627\u0633"
-    ],
     "name:pol_x_preferred":[
         "Hurst"
     ],
@@ -95,6 +95,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0435\u0440\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Hurst"
     ],
     "name:tur_x_preferred":[
         "Hurst"
@@ -122,12 +125,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.8356,
     "wd:longitude":-97.1803,
@@ -144,12 +146,14 @@
         "fips:code":"4835576",
         "gn:id":4699575,
         "gp:id":2426140,
-        "qs:id":221815,
         "qs_pg:id":221815,
         "wd:id":"Q26497",
         "wk:page":"Hurst, Texas"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97213acf8ff05ecbb74bcd1af82b0e58",
     "wof:hierarchy":[
         {
@@ -164,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163461,
+    "wof:lastmodified":1582338094,
     "wof:name":"Hurst",
     "wof:parent_id":102083201,
     "wof:placetype":"locality",

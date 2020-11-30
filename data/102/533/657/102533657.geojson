@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001024,
-    "geom:area_square_m":11131132.056875,
+    "geom:area_square_m":11131132.056877,
     "geom:bbox":"-81.334724,28.413597,-81.279999,28.456703",
     "geom:latitude":28.434513,
     "geom:longitude":-81.310231,
@@ -17,14 +17,12 @@
     "mps:longitude":-81.307537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0623\u0648\u0631\u0644\u0627\u0646\u062f\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Orlandoko nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u5965\u5170\u591a\u56fd\u9645\u673a\u573a"
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional d'Orlando"
     ],
     "name:dan_x_preferred":[
         "Orlando International Airport"
@@ -32,7 +30,7 @@
     "name:deu_x_preferred":[
         "Flughafen Orlando"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Orlando International Airport"
     ],
     "name:eng_x_preferred":[
@@ -41,6 +39,9 @@
     "name:eng_x_variant":[
         "MCO",
         "KMCO"
+    ],
+    "name:est_x_preferred":[
+        "Orlando rahvusvaheline lennujaam"
     ],
     "name:eus_x_preferred":[
         "Orlandoko nazioarteko aireportua"
@@ -54,11 +55,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport international dOrlando"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international d'Orlando"
-    ],
-    "name:ger_x_preferred":[
-        "Orlando International Airport"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05dc\u05e0\u05d3\u05d5"
@@ -75,20 +73,26 @@
     "name:kor_x_preferred":[
         "\uc62c\ub79c\ub3c4 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:mar_x_preferred":[
+        "\u0913\u0930\u0932\u0901\u0921\u094b \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:nld_x_preferred":[
+        "Orlando International Airport"
+    ],
     "name:nob_x_preferred":[
         "Orlando internasjonale lufthavn"
     ],
     "name:nor_x_preferred":[
         "Orlando internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u0631\u0644\u0627\u0646\u062f\u0648"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Orlando"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Orlando"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Orlando"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u043b\u0430\u043d\u0434\u043e"
@@ -102,6 +106,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e2d\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e42\u0e14"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u06cc\u0646\u0688\u0648 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Orlando"
     ],
@@ -110,14 +117,9 @@
     ],
     "oa:elevation_ft":"96",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":100,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Orlando International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5272,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":102533657,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566608575,
     "wof:name":"Orlando International Airport",
     "wof:parent_id":85879479,
     "wof:placetype":"campus",

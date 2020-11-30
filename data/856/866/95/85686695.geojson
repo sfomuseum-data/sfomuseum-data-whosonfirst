@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.138182,
-    "geom:area_square_m":80432513219.277313,
+    "geom:area_square_m":80432513785.394531,
     "geom:bbox":"-100.14495,22.206966,-97.144224,27.679126",
     "geom:latitude":24.291012,
     "geom:longitude":-98.640894,
@@ -19,8 +19,15 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:spa_x_preferred_longname":[
+        "Estado de Tamaulipas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "estado"
+    ],
     "lbl:latitude":24.127808,
     "lbl:longitude":-98.618727,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.127808,
     "mps:longitude":-98.618727,
     "mz:hierarchy_label":1,
@@ -33,13 +40,10 @@
     "name:arg_x_preferred":[
         "Tamaulipas"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0574\u0561\u0578\u0582\u056c\u056b\u057a\u0561\u057d"
-    ],
     "name:aym_x_preferred":[
         "Tamaulipas Istadu"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "Tamaulipas"
     ],
     "name:bel_x_preferred":[
@@ -57,8 +61,8 @@
     "name:cat_x_preferred":[
         "Tamaulipas"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u6bdb\u5229\u5e15\u65af\u5dde"
+    "name:ces_x_preferred":[
+        "Tamaulipas"
     ],
     "name:chy_x_preferred":[
         "Tamaulipas"
@@ -66,7 +70,7 @@
     "name:cor_x_preferred":[
         "Tamaulipas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tamaulipas"
     ],
     "name:dan_x_preferred":[
@@ -75,8 +79,8 @@
     "name:deu_x_preferred":[
         "Tamaulipas"
     ],
-    "name:dut_x_preferred":[
-        "Tamaulipas"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03b1\u03bf\u03c5\u03bb\u03af\u03c0\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tamaulipas"
@@ -90,22 +94,19 @@
     "name:eus_x_preferred":[
         "Tamaulipas"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0627\u0626\u0648\u0644\u06cc\u067e\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Tamaulipas"
     ],
     "name:fra_x_preferred":[
         "Tamaulipas"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Tamaulipas"
     ],
     "name:fry_x_preferred":[
-        "Tamaulipas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10db\u10d0\u10e3\u10da\u10d8\u10de\u10d0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tamaulipas"
     ],
     "name:gle_x_preferred":[
@@ -113,9 +114,6 @@
     ],
     "name:glg_x_preferred":[
         "Tamaulipas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bc\u03b1\u03bf\u03c5\u03bb\u03af\u03c0\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0aae\u0abe\u0a89\u0ab2\u0abf\u0aaa\u0abe\u0ab8"
@@ -131,6 +129,9 @@
     ],
     "name:hun_x_preferred":[
         "Tamaulipas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0574\u0561\u0578\u0582\u056c\u056b\u057a\u0561\u057d"
     ],
     "name:ilo_x_preferred":[
         "Tamaulipas"
@@ -150,8 +151,14 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cae\u0ccc\u0cb2\u0cbf\u0caa\u0cbe\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10db\u10d0\u10e3\u10da\u10d8\u10de\u10d0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ub9c8\uc6b8\ub9ac\ud30c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ub9c8\uc6b8\ub9ac\ud30c\uc2a4\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Tamaulipas"
@@ -168,10 +175,10 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u092e\u094c\u0932\u093f\u092a\u093e\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Tamaulipas"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Tamaulipas"
     ],
     "name:mzn_x_preferred":[
@@ -201,9 +208,6 @@
     "name:pam_x_preferred":[
         "Tamaulipas"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0645\u0627\u0626\u0648\u0644\u06cc\u067e\u0627\u0633"
-    ],
     "name:pms_x_preferred":[
         "Tamaulipas"
     ],
@@ -222,7 +226,7 @@
     "name:roh_x_preferred":[
         "Tamaulipas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tamaulipas"
     ],
     "name:rus_x_preferred":[
@@ -234,7 +238,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0db8\u0dde\u0dbd\u0dd2\u0db4\u0dcf\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tamaulipas"
     ],
     "name:slv_x_preferred":[
@@ -276,9 +280,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0443\u043b\u0456\u043f\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Estado de Tamaulipas"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0645\u0627\u0648\u0644\u06cc\u067e\u0627\u0633"
     ],
@@ -291,8 +292,8 @@
     "name:war_x_preferred":[
         "Tamaulipas"
     ],
-    "name:wel_x_preferred":[
-        "Tamaulipas"
+    "name:yue_x_preferred":[
+        "\u5854\u6bdb\u5229\u5e15\u65af\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5854\u6bdb\u5229\u5e15\u65af\u5dde"
@@ -362,12 +363,11 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"79,384",
     "statoids:area_mi":"30,650",
     "statoids:as_of_date":"2010-05-31",
@@ -387,6 +387,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":9776,
         "fips:code":"MX28",
         "gn:id":3516391,
         "gp:id":2346291,
@@ -411,11 +412,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1606163317,
+    "wof:lastmodified":1583882900,
     "wof:name":"Tamaulipas",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3268554,
     "wof:population_rank":12,

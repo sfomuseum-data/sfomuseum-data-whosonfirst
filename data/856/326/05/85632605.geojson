@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048891,
-    "geom:area_square_m":604374154.672027,
+    "geom:area_square_m":604374154.671876,
     "geom:bbox":"103.635837,1.153965,104.406784,1.47031",
     "geom:latitude":1.360758,
     "geom:longitude":103.816575,
@@ -15,8 +15,13 @@
     "itu:country_code":[
         "65"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SG"
+    ],
     "lbl:latitude":1.357685,
     "lbl:longitude":103.80938,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":1.357685,
     "mps:longitude":103.80938,
     "mz:hierarchy_label":1,
@@ -50,6 +55,9 @@
     "name:arg_x_preferred":[
         "Singapur"
     ],
+    "name:ary_x_preferred":[
+        "\u0635\u0646\u063a\u0627\u0641\u0648\u0631\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u064a\u0646\u062c\u0627\u0628\u0648\u0631\u0647"
     ],
@@ -71,11 +79,17 @@
     "name:bam_x_preferred":[
         "S\u025bngapuri"
     ],
+    "name:ban_x_preferred":[
+        "Singapura"
+    ],
     "name:bar_x_preferred":[
         "Singapur"
     ],
     "name:bcl_x_preferred":[
         "Singapore (isla)"
+    ],
+    "name:bcl_x_variant":[
+        "Singapore"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u0433\u0430\u043f\u0443\u0440"
@@ -85,6 +99,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0999\u09cd\u0997\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u093f\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:bis_x_preferred":[
         "Singapore"
@@ -109,6 +126,9 @@
     ],
     "name:bre_x_preferred":[
         "Singapour"
+    ],
+    "name:brh_x_preferred":[
+        "Sing\u00e1p\u00far"
     ],
     "name:bug_x_preferred":[
         "Singapura"
@@ -146,6 +166,9 @@
     "name:cor_x_preferred":[
         "Singapour"
     ],
+    "name:cos_x_preferred":[
+        "Singaporia"
+    ],
     "name:crh_x_preferred":[
         "Singapur"
     ],
@@ -158,11 +181,14 @@
     "name:cym_x_variant":[
         "Singapore"
     ],
-    "name:cze_x_preferred":[
-        "Singapur"
-    ],
     "name:dan_x_preferred":[
         "Singapore"
+    ],
+    "name:deu_at_x_preferred":[
+        "Singapur"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Singapur"
     ],
     "name:deu_x_preferred":[
         "Singapur"
@@ -179,8 +205,17 @@
     "name:dsb_x_preferred":[
         "Singapur"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u093f\u0902\u0917\u093e\u092a\u0941\u0930"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03b3\u03ba\u03b1\u03c0\u03bf\u03cd\u03c1\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Singapore"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Singapore"
     ],
     "name:eng_x_preferred":[
         "Singapore"
@@ -205,6 +240,9 @@
     ],
     "name:ewe_x_preferred":[
         "Singap\u0254r nutome"
+    ],
+    "name:ewe_x_variant":[
+        "Singapore"
     ],
     "name:ext_x_preferred":[
         "Singapul"
@@ -242,6 +280,9 @@
     "name:gan_x_preferred":[
         "\u65b0\u52a0\u5761"
     ],
+    "name:gcr_x_preferred":[
+        "Singapour"
+    ],
     "name:gla_x_preferred":[
         "Singeap\u00f2r"
     ],
@@ -266,6 +307,9 @@
     "name:grn_x_preferred":[
         "Singapur"
     ],
+    "name:gsw_x_preferred":[
+        "Singap\u00f9\u00f9r"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a82\u0a97\u0abe\u0aaa\u0ac1\u0ab0"
     ],
@@ -275,11 +319,15 @@
     "name:hat_x_preferred":[
         "Sengapou (peyi)"
     ],
+    "name:hat_x_variant":[
+        "Sengapou"
+    ],
     "name:hau_x_preferred":[
         "Singafora"
     ],
     "name:hau_x_variant":[
-        "Singapur"
+        "Singapur",
+        "Singapore"
     ],
     "name:haw_x_preferred":[
         "Sinapoa"
@@ -311,6 +359,9 @@
     "name:hye_x_preferred":[
         "\u054d\u056b\u0576\u0563\u0561\u057a\u0578\u0582\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056b\u0576\u056f\u0561\u0583\u0578\u0582\u0580"
+    ],
     "name:ido_x_preferred":[
         "Singapur"
     ],
@@ -328,6 +379,12 @@
     ],
     "name:ind_x_preferred":[
         "Singapura"
+    ],
+    "name:inh_x_preferred":[
+        "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
+    "name:ipk_x_preferred":[
+        "Singapore"
     ],
     "name:isl_x_preferred":[
         "Singap\u00far"
@@ -363,13 +420,17 @@
         "\u0cb8\u0cbf\u0c82\u0c97\u0cbe\u0caa\u0cc1\u0cb0"
     ],
     "name:kan_x_variant":[
-        "\u0cb8\u0cbf\u0c82\u0c97\u0caa\u0cc1\u0cb0"
+        "\u0cb8\u0cbf\u0c82\u0c97\u0caa\u0cc1\u0cb0",
+        "\u0cb8\u0cbf\u0c82\u0c97\u0cbe\u0caa\u0cc1\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10dc\u10d2\u10d0\u10de\u10e3\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "S\u025b\u014bgapuuri \u025bja\u0256\u025b"
     ],
     "name:khm_x_preferred":[
         "\u179f\u17b7\u1784\u17d2\u17a0\u1794\u17bb\u179a\u17b8"
@@ -386,8 +447,14 @@
     "name:kir_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:kir_x_variant":[
+        "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
     "name:kom_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
+    "name:kon_x_preferred":[
+        "Singapore"
     ],
     "name:kor_x_preferred":[
         "\uc2f1\uac00\ud3ec\ub974"
@@ -400,6 +467,9 @@
     ],
     "name:kur_x_variant":[
         "\u0633\u06cc\u0646\u06af\u0627\u067e\u0648\u0631"
+    ],
+    "name:lad_x_preferred":[
+        "Singapur"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0eaa\u0eb4\u0e87\u0e81\u0eb0\u0ec2\u0e9b"
@@ -415,6 +485,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
+    "name:lfn_x_preferred":[
+        "Singapor"
     ],
     "name:lij_x_preferred":[
         "Scingap\u00f4"
@@ -437,6 +510,9 @@
     "name:lrc_x_preferred":[
         "\u0633\u0623\u0646\u06af\u0627\u067e\u0648\u0659\u0631"
     ],
+    "name:lrc_x_variant":[
+        "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+    ],
     "name:ltz_x_preferred":[
         "Singapur (Republik)"
     ],
@@ -448,6 +524,12 @@
     ],
     "name:lug_x_preferred":[
         "Singapowa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u52a0\u5761"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d02\u0d17\u0d2a\u0d4d\u0d2a\u0d42\u0d7c"
@@ -490,14 +572,26 @@
     "name:msa_x_preferred":[
         "Singapura"
     ],
+    "name:mwl_x_preferred":[
+        "Singapura"
+    ],
     "name:mya_x_preferred":[
         "\u1005\u1004\u103a\u1000\u102c\u1015\u1030\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:mya_x_variant":[
         "\u1005\u1004\u103a\u1039\u1000\u102c\u1015\u1030"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Singapur"
+    ],
+    "name:nan_x_preferred":[
+        "Sin-ka-pho"
     ],
     "name:nau_x_preferred":[
         "Tsingapoar"
@@ -513,6 +607,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u093f\u0919\u094d\u0917\u093e\u092a\u0941\u0930"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u093f\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:new_x_preferred":[
         "\u0938\u093f\u0902\u0917\u093e\u092a\u094b\u0930"
@@ -535,6 +632,9 @@
     "name:oci_x_preferred":[
         "Singapor"
     ],
+    "name:olo_x_preferred":[
+        "Singapore"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b3f\u0b19\u0b4d\u0b17\u0b3e\u0b2a\u0b41\u0b30"
     ],
@@ -556,6 +656,15 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3f\u0a70\u0a17\u0a3e\u0a2a\u0a41\u0a30"
     ],
+    "name:pan_x_variant":[
+        "\u0a38\u0a3f\u0a70\u0a18\u0a3e\u0a2a\u0a41\u0a30"
+    ],
+    "name:pap_x_preferred":[
+        "Singapura"
+    ],
+    "name:pcd_x_preferred":[
+        "Singapour"
+    ],
     "name:pih_x_preferred":[
         "Singapur"
     ],
@@ -571,6 +680,9 @@
     "name:pol_x_preferred":[
         "Singapur"
     ],
+    "name:por_br_x_preferred":[
+        "Singapura"
+    ],
     "name:por_x_preferred":[
         "Singapura"
     ],
@@ -579,6 +691,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0633\u064a\u0646\u06af\u0627\u067e\u0648\u0631"
+    ],
+    "name:pus_x_variant":[
+        "\u0633\u064a\u0646\u06ab\u0627\u067e\u0648\u0631"
     ],
     "name:que_x_preferred":[
         "Singapur"
@@ -595,6 +710,9 @@
     "name:run_x_preferred":[
         "Singapuru"
     ],
+    "name:rup_x_preferred":[
+        "Singapore"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
     ],
@@ -607,11 +725,20 @@
     "name:san_x_preferred":[
         "\u0938\u093f\u0919\u094d\u0917\u093e\u092a\u0941\u0930\u092e\u094d"
     ],
+    "name:san_x_variant":[
+        "\u0938\u093f\u0919\u094d\u0917\u093e\u092a\u0941\u0930"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c64\u1c5d\u1c5c\u1c5f\u1c6f\u1c69\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Singapura"
     ],
     "name:sco_x_preferred":[
         "Singapore"
+    ],
+    "name:sgs_x_preferred":[
+        "Singap\u016brs"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0"
@@ -655,6 +782,9 @@
     "name:sqi_x_variant":[
         "Singapor"
     ],
+    "name:srd_x_preferred":[
+        "Singapore"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
     ],
@@ -676,11 +806,17 @@
     "name:szl_x_preferred":[
         "Singapur"
     ],
+    "name:szy_x_preferred":[
+        "Singapore"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0cb8\u0cbf\u0c82\u0c97\u0cbe\u0caa\u0cc1\u0cb0"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c02\u0c17\u0c2a\u0c42\u0c30\u0c41"
@@ -709,6 +845,12 @@
     "name:ton_x_preferred":[
         "Singapoa"
     ],
+    "name:tpi_x_preferred":[
+        "Singapore"
+    ],
+    "name:tso_x_preferred":[
+        "Singapore"
+    ],
     "name:tuk_x_preferred":[
         "Singapur"
     ],
@@ -731,15 +873,9 @@
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
         "\u0421\u0456\u043d\u0491\u0430\u043f\u0443\u0440"
     ],
-    "name:und_x_preferred":[
-        "Sing-gap'ol",
-        "Singap\u00far"
-    ],
     "name:und_x_variant":[
+        "Sing-gap'ol",
         "Republika Singapur"
-    ],
-    "name:unk_x_variant":[
-        "Republic of Singapore"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
@@ -765,6 +901,9 @@
     "name:vol_x_preferred":[
         "Singapur\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Singapur"
+    ],
     "name:war_x_preferred":[
         "Singgapura"
     ],
@@ -789,16 +928,37 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Singapo"
     ],
+    "name:yue_x_preferred":[
+        "\u661f\u52a0\u5761"
+    ],
     "name:zea_x_preferred":[
         "Singapoor"
+    ],
+    "name:zha_x_preferred":[
+        "Saengyabo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u65b0\u52a0\u5761"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u65b0\u52a0\u5761"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sin-ka-pho"
     ],
-    "name:zho_x_preferred":[
+    "name:zho_mo_x_preferred":[
         "\u65b0\u52a0\u5761"
     ],
-    "name:zho_x_variant":[
+    "name:zho_my_x_preferred":[
+        "\u65b0\u52a0\u5761"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u65b0\u52a0\u5761"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65b0\u52a0\u5761"
+    ],
+    "name:zho_x_preferred":[
         "\u65b0\u52a0\u5761"
     ],
     "name:zho_yue_x_preferred":[
@@ -879,15 +1039,13 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2010-06-30",
+    "src:population_date":"2010-06-30",
     "statoids:area_km":"723",
     "statoids:area_mi":"279",
     "statoids:as_of_date":"2010-06-30",
@@ -925,6 +1083,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"",
+        "digitalenvoy:country_code":702,
         "fb:id":"en.singapore",
         "fifa:id":"SIN",
         "fips:code":"SN",
@@ -942,7 +1101,7 @@
         "mzb:id":"singapore",
         "ne:adm0_a3":"SGP",
         "nyt:id":"39578766218120566941",
-        "qs:id":976544,
+        "qs_pg:id":976544,
         "uncrt:id":"SGP",
         "wd:id":"Q334",
         "wk:page":"Singapore",
@@ -950,6 +1109,10 @@
     },
     "wof:country":"SG",
     "wof:country_alpha3":"SGP",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"83bb045df29a1c88cb75296f5fb8bb6e",
     "wof:hierarchy":[
         {
@@ -958,9 +1121,6 @@
         }
     ],
     "wof:id":85632605,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -973,7 +1133,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1606163383,
+    "wof:lastmodified":1587427742,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

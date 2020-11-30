@@ -5,25 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.937483,
-    "geom:area_square_m":121451373117.422791,
+    "geom:area_square_m":121451373117.407013,
     "geom:bbox":"115.850175,23.562916,120.441254,28.316411",
     "geom:latitude":26.082669,
     "geom:longitude":117.983606,
     "gn:id":"",
     "gn:population":36040000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"FJ",
     "label:eng_x_preferred_longname":[
         "Fujian Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FJ"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":26.216565,
     "lbl:longitude":117.974465,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u798f\u5efa",
     "meso:name_loc":"\u798f\u5efa\u7701",
     "mps:latitude":25.953632,
@@ -86,11 +89,20 @@
     "name:dan_x_preferred":[
         "Fujian"
     ],
+    "name:deu_ch_x_preferred":[
+        "Fujian"
+    ],
     "name:deu_x_preferred":[
         "Fujian"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03c5\u03c4\u03c3\u03b9\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Fujian"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Fujian"
     ],
     "name:eng_x_preferred":[
         "Fujian"
@@ -250,6 +262,9 @@
     "name:pol_x_preferred":[
         "Fujian"
     ],
+    "name:por_br_x_preferred":[
+        "Fujian"
+    ],
     "name:por_x_preferred":[
         "Fuqui\u00e9m"
     ],
@@ -286,6 +301,9 @@
     "name:tat_x_preferred":[
         "\u0424\u0443\u0497\u0438\u044f\u043d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u04b7\u0438\u0430\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Fujian"
     ],
@@ -300,13 +318,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0446\u0437\u044f\u043d\u044c"
-    ],
-    "name:und_x_variant":[
-        "\u798f\u5efa",
-        "\u798f\u5efa\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Fujian Sheng"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u062c\u06cc\u0627\u0646"
@@ -329,11 +340,29 @@
     "name:wuu_x_preferred":[
         "\u798f\u5efa\u7701"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10e3\u10eb\u10d8\u10d0\u10dc\u10d8"
+    ],
     "name:yue_x_preferred":[
         "\u798f\u5efa"
     ],
     "name:zha_x_preferred":[
         "Fuzgen"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u798f\u5efa\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u798f\u5efa\u7701"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u798f\u5efa\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u798f\u5efa\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u798f\u5efa\u7701"
     ],
     "name:zho_x_colloquial":[
         "\u95fd"
@@ -416,14 +445,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"122,919",
     "statoids:area_mi":"47,459",
     "statoids:as_of_date":"2010-11-01",
@@ -452,12 +480,15 @@
         "hasc:id":"CN.FJ",
         "iso:id":"CN-FJ",
         "loc:id":"n80113116",
-        "qs:id":1156105,
+        "qs_pg:id":1156105,
         "unlc:id":"CN-35",
         "wd:id":"Q41705",
         "wk:page":"Fujian"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f020aafb087a66f199f4a982f5897e21",
     "wof:hierarchy":[
         {
@@ -479,11 +510,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163290,
+    "wof:lastmodified":1587428596,
     "wof:name":"Fujian",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":36894216,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

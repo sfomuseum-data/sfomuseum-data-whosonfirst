@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017322,
-    "geom:area_square_m":127829790.054486,
+    "geom:area_square_m":127829862.135111,
     "geom:bbox":"-6.387058,53.298882,-6.113095,53.410992",
     "geom:latitude":53.35813,
     "geom:longitude":-6.251625,
@@ -13,8 +13,21 @@
     "label:eng_x_preferred_longname":[
         "Dublin City County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "DN"
+    ],
+    "label:gle_x_preferred_longname":[
+        "Baile \u00c1tha Cliath"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "baile"
+    ],
     "lbl:latitude":53.355217,
     "lbl:longitude":-6.278252,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.355217,
     "mps:longitude":-6.278252,
     "mz:hierarchy_label":1,
@@ -95,12 +108,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"County",
-    "sfomuseum:placetype":"region",
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -108,6 +120,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":19982,
         "fips:code":"EI33",
         "gn:id":7778677,
         "gp:id":2345254,
@@ -117,6 +130,9 @@
         101751737
     ],
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca8fe330facbc4e632cdd4f200a1914e",
     "wof:hierarchy":[
         {
@@ -126,7 +142,15 @@
         }
     ],
     "wof:id":85685015,
-    "wof:lastmodified":1606163174,
+    "wof:lang_x_official":[
+        "eng",
+        "gle"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "gle"
+    ],
+    "wof:lastmodified":1583882790,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

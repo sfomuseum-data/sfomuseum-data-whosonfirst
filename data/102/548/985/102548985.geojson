@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1906",
     "geom:area":0.001926,
-    "geom:area_square_m":14480285.568008,
+    "geom:area_square_m":14480285.568007,
     "geom:bbox":"13.251228,52.52359,13.326673,52.569962",
     "geom:latitude":52.549499,
     "geom:longitude":13.289972,
@@ -18,11 +18,9 @@
     "mps:longitude":13.295688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0631\u0644\u064a\u0646 \u062a\u064a\u062c\u064a\u0644 \u0627\u0644\u062f\u0648\u0644\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Berlin-Tegel aireportua"
     ],
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0411\u0435\u0440\u043b\u0456\u043d-\u0422\u044d\u0433\u0435\u043b\u044c"
@@ -30,13 +28,16 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u0997\u09c7\u09b2 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0411\u0435\u0440\u043b\u0438\u043d \u0422\u0435\u0433\u0435\u043b"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Berl\u00edn-Tegel"
     ],
-    "name:chi_x_preferred":[
-        "\u67cf\u6797-\u6cf0\u683c\u5c14\u5965\u6258\u00b7\u5229\u6797\u5854\u5c14\u673a\u573a"
+    "name:ceb_x_preferred":[
+        "Berlin Tegel Airport"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Berl\u00edn-Tegel"
     ],
     "name:dan_x_preferred":[
@@ -44,9 +45,6 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Berlin-Tegel"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Berlin-Tegel"
     ],
     "name:eng_x_preferred":[
         "Berlin Tegel Airport"
@@ -61,17 +59,23 @@
     "name:est_x_preferred":[
         "Berliini Tegeli lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Berlin-Tegel aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0644\u06cc\u0646 \u062a\u06af\u0644"
+    ],
     "name:fin_x_preferred":[
         "Tegelin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Berlin-Tegel"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Berlin-Tegel"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05e8\u05dc\u05d9\u05df \u05d8\u05d2\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u0917\u0947\u0932 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Berlin Tegel"
@@ -97,20 +101,23 @@
     "name:lav_x_preferred":[
         "T\u0113geles lidosta"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0435\u0440\u043b\u0438\u043d \u0422\u0435\u0433\u0435\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0930\u094d\u0932\u093f\u0928 \u091f\u0947\u0917\u0932 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0435\u0440\u043b\u0438\u043d \u0422\u0435\u0433\u0435\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Tegel"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Berlin-Tegel"
+    ],
+    "name:nno_x_preferred":[
+        "Berlin\u2013Tegel internasjonale lufthamn"
     ],
     "name:nob_x_preferred":[
         "Tegel internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0644\u06cc\u0646 \u062a\u06af\u0644"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Berlin-Tegel"
@@ -118,14 +125,20 @@
     "name:por_x_preferred":[
         "Aeroporto de Berlin-Tegel"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Berlin Tegel"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438\u043d-\u0422\u0435\u0433\u0435\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Berl\u00edn-Tegel"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Berl\u00edn-Tegel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041e\u0442\u043e \u041b\u0438\u043b\u0438\u0458\u0435\u043d\u0442\u0430\u043b \u0411\u0435\u0440\u043b\u0438\u043d-\u0422\u0435\u0433\u0435\u043b"
     ],
     "name:swe_x_preferred":[
         "Berlin-Tegels flygplats"
@@ -148,16 +161,14 @@
     "name:xmf_x_preferred":[
         "\u10d1\u10d4\u10e0\u10da\u10d8\u10dc-\u10e2\u10d4\u10d2\u10d4\u10da\u10d8\u10e8 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
+    "name:zho_x_preferred":[
+        "\u67cf\u6797-\u6cf0\u683c\u5c14\u5965\u6258\u00b7\u5229\u6797\u5854\u5c14\u673a\u573a"
+    ],
     "oa:elevation_ft":"122",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":196,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Berlin Tegel Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596838,
@@ -197,11 +208,11 @@
         }
     ],
     "wof:id":102548985,
-    "wof:lastmodified":1606163490,
+    "wof:lastmodified":1566657071,
     "wof:name":"Berlin Tegel Airport",
     "wof:parent_id":420784289,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

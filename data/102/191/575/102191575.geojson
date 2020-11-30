@@ -12,20 +12,24 @@
     "iso:country":"",
     "lbl:latitude":38.309137,
     "lbl:longitude":-101.328273,
+    "lbl:max_zoom":5.0,
     "mps:latitude":38.309137,
     "mps:longitude":-101.328273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":4.0,
     "mz:min_zoom":0.0,
+    "name:abk_x_preferred":[
+        "\u0410\u04a9\u0430\u0434\u0430\u0442\u04d9\u0438 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
+    ],
     "name:ace_x_preferred":[
         "Amirika Utara"
     ],
+    "name:ady_x_preferred":[
+        "\u0418\u0448\u044a\u0445\u044a\u044d\u0440\u044d \u0410\u043c\u0435\u0440\u0438\u043a\u044d"
+    ],
     "name:afr_x_preferred":[
         "Noord-Amerika"
-    ],
-    "name:alb_x_preferred":[
-        "Amerika Veriore"
     ],
     "name:als_x_preferred":[
         "Nordamerika"
@@ -45,9 +49,6 @@
     "name:arg_x_preferred":[
         "America d'o Norte"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0531\u0574\u0565\u0580\u056b\u056f\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
     ],
@@ -60,6 +61,9 @@
     "name:azb_x_preferred":[
         "\u0634\u0648\u0645\u0627\u0644\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
     ],
+    "name:azb_x_variant":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
+    ],
     "name:aze_x_preferred":[
         "\u015eimali Amerika"
     ],
@@ -68,9 +72,6 @@
     ],
     "name:bam_x_preferred":[
         "Saheli Amerika"
-    ],
-    "name:baq_x_preferred":[
-        "Ipar Amerika"
     ],
     "name:bar_x_preferred":[
         "Noadamerika"
@@ -90,6 +91,9 @@
     "name:bho_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e"
     ],
+    "name:bis_x_preferred":[
+        "Not Amerika"
+    ],
     "name:bjn_x_preferred":[
         "Amirika Utara"
     ],
@@ -105,11 +109,11 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1031\u102c\u1000\u103a\u1021\u1019\u1031\u101b\u102d\u1000"
-    ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u0439\u0442\u043e \u0410\u043c\u0435\u0440\u0438\u043a\u044d"
+    ],
+    "name:bxr_x_variant":[
+        "\u0425\u043e\u0439\u0442\u043e \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:cat_x_preferred":[
         "Am\u00e8rica del Nord"
@@ -125,9 +129,6 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5317\u7f8e\u6d32"
     ],
     "name:chr_x_preferred":[
         "\u13e7\u13f4\u13e2 \u13a0\u13b9\u13f0\u13df"
@@ -156,10 +157,10 @@
     "name:cym_x_preferred":[
         "Gogledd America"
     ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Amerika"
-    ],
     "name:dan_x_preferred":[
+        "Nordamerika"
+    ],
+    "name:deu_ch_x_preferred":[
         "Nordamerika"
     ],
     "name:deu_x_preferred":[
@@ -168,14 +169,23 @@
     "name:diq_x_preferred":[
         "Amerikay Z\u0131mey"
     ],
+    "name:diq_x_variant":[
+        "Amerika Z\u0131mey"
+    ],
     "name:dsb_x_preferred":[
         "P\u00f3dpo\u0142nocna Amerika"
     ],
-    "name:dut_x_preferred":[
-        "Noord-Amerika"
+    "name:dty_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "North America"
+    ],
+    "name:eng_gb_x_preferred":[
+        "North America"
     ],
     "name:eng_x_preferred":[
         "North America"
@@ -207,9 +217,6 @@
     "name:fra_x_preferred":[
         "Am\u00e9rique du Nord"
     ],
-    "name:fre_x_preferred":[
-        "Am\u00e9rique du Nord"
-    ],
     "name:frp_x_preferred":[
         "Am\u00e8rica du Nord"
     ],
@@ -227,12 +234,6 @@
     ],
     "name:gan_x_preferred":[
         "\u5317\u7f8e\u6d32"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d0\u10db\u10d4\u10e0\u10d8\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nordamerika"
     ],
     "name:gla_x_preferred":[
         "Aimearaga a Tuath"
@@ -252,8 +253,8 @@
     "name:got_x_preferred":[
         "\ud800\udf3d\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf38\ud800\udf30 \ud800\udf30\ud800\udf3c\ud800\udf34\ud800\udf42\ud800\udf39\ud800\udf3a\ud800\udf30"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    "name:got_x_variant":[
+        "\ud800\udf3d\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf38\ud800\udf30 \ud800\udf45\ud800\udf34\ud800\udf39\ud800\udf3d\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
     "name:grn_x_preferred":[
         "Yvateam\u00e9rika"
@@ -303,9 +304,6 @@
     "name:ibo_x_preferred":[
         "Olile anyanwu Amerika"
     ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ur-Amer\u00edka"
-    ],
     "name:iku_x_preferred":[
         "\u140a\u14a5\u140a\u1546\u1472 \u1450\u14c4\u1555\u140a\u1585"
     ],
@@ -320,6 +318,9 @@
     ],
     "name:ind_x_preferred":[
         "Amerika Utara"
+    ],
+    "name:inh_x_preferred":[
+        "\u0413I\u0438\u043d\u0431\u0443\u0445\u0435\u0440\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:isl_x_preferred":[
         "Nor\u00f0ur-Amer\u00edka"
@@ -360,8 +361,17 @@
     "name:kbd_x_preferred":[
         "\u0418\u0448\u0445\u044a\u044d\u0440\u044d \u0410\u043c\u0435\u0440\u0438\u043a\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0418\u0448\u044a\u0445\u044a\u044d\u0440\u044d \u0410\u043c\u0435\u0440\u0438\u043a\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u1798\u17c1\u179a\u17b7\u1780\u200b\u1781\u17b6\u1784\u200b\u1787\u17be\u1784"
+    ],
     "name:kin_x_preferred":[
         "Amerika ya Ruguru"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u04af\u043d\u0434\u04af\u043a \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:koi_x_preferred":[
         "\u041e\u0439\u0432\u044b\u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
@@ -387,6 +397,9 @@
     "name:lao_x_preferred":[
         "\u0e97\u0eb0\u0ea7\u0eb5\u0e9a\u0ead\u0eb2\u0ec0\u0ea1\u0ea5\u0eb4\u0e81\u0eb2\u0ec0\u0edc\u0eb7\u0ead"
     ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb0\u0ec0\u0ea1\u0ea5\u0eb4\u0e81\u0eb2\u0ec0\u0edc\u0eb7\u0ead"
+    ],
     "name:lat_x_preferred":[
         "America Septentrionalis"
     ],
@@ -395,6 +408,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041a\u0435\u0444\u0435\u0440\u043f\u0430\u0442\u0430\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "America Norde"
     ],
     "name:lij_x_preferred":[
         "America do N\u00f2rd"
@@ -414,29 +430,23 @@
     "name:lug_x_preferred":[
         "North America"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d1f\u0d15\u0d4d\u0d15\u0d47 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15"
     ],
-    "name:mao_x_preferred":[
-        "N\u014dta Amerika"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Amerika Utara"
     ],
     "name:mdf_x_preferred":[
         "\u041a\u0435\u043b\u044c\u043c\u0435\u0448\u0438\u0440\u0435\u043d\u044c \u0410\u043c\u0435\u0440\u0438\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u0419\u04f1\u0434\u0432\u0435\u043b \u0410\u043c\u0435\u0440\u0438\u043a\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0419\u04f1\u0434\u0432\u0435\u043b \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:min_x_preferred":[
         "Amerika Utara"
@@ -453,11 +463,20 @@
     "name:mri_x_preferred":[
         "Amerika-ki-te-Raki"
     ],
+    "name:mri_x_variant":[
+        "N\u014dta Amerika"
+    ],
+    "name:msa_x_preferred":[
+        "Amerika Utara"
+    ],
     "name:mwl_x_preferred":[
         "Am\u00e9rica de l Norte"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u1031\u102c\u1000\u103a\u1021\u1019\u1031\u101b\u102d\u1000"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u0432\u0435\u0451\u043d\u043a\u0441\u043e\u043d\u044c \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:mzn_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0627\u0645\u0631\u06cc\u06a9\u0627"
@@ -467,6 +486,9 @@
     ],
     "name:nan_x_preferred":[
         "Pak B\u00ed-chiu"
+    ],
+    "name:nap_x_preferred":[
+        "Nordam\u00e8reca"
     ],
     "name:nds_nld_x_preferred":[
         "Noord-Amerika"
@@ -495,6 +517,9 @@
     "name:nov_x_preferred":[
         "Nordi Amerika"
     ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07e1\u07cb\u07d9\u07cc\u07de\u07cc\u07ec \u07de\u07d0\u07ec\u07d8\u07ce\u07ee"
+    ],
     "name:nrm_x_preferred":[
         "Am\u00e9thique du Nord"
     ],
@@ -516,6 +541,9 @@
     "name:orm_x_preferred":[
         "Ameerikaa Kaabaa"
     ],
+    "name:orm_x_variant":[
+        "North America"
+    ],
     "name:oss_x_preferred":[
         "\u0426\u00e6\u0433\u0430\u0442 \u0410\u043c\u0435\u0440\u0438\u043a\u00e6"
     ],
@@ -527,9 +555,6 @@
     ],
     "name:pdc_x_preferred":[
         "Natt Amerikaa"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pih_x_preferred":[
         "North Merika"
@@ -564,9 +589,6 @@
     "name:rue_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
-    "name:rum_x_preferred":[
-        "America de Nord"
-    ],
     "name:rup_x_preferred":[
         "America di Aratsile"
     ],
@@ -578,6 +600,9 @@
     ],
     "name:san_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930-\u0905\u092e\u0947\u0930\u093f\u0915\u093e\u0916\u0923\u094d\u0921\u0903"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c5b\u1c5a\u1c62 \u1c5f\u1c62\u1c6e\u1c68\u1c64\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Am\u00e8rica d\u00fb Nord"
@@ -594,9 +619,6 @@
     "name:slk_x_preferred":[
         "Severn\u00e1 Amerika"
     ],
-    "name:slo_x_preferred":[
-        "Severn\u00e1 Amerika"
-    ],
     "name:slv_x_preferred":[
         "Severna Amerika"
     ],
@@ -611,6 +633,9 @@
     ],
     "name:som_x_preferred":[
         "Woqooyiga Ameerika"
+    ],
+    "name:sot_x_preferred":[
+        "Amerika Leboya"
     ],
     "name:spa_x_preferred":[
         "Am\u00e9rica del Norte"
@@ -654,6 +679,9 @@
     "name:tgk_x_preferred":[
         "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
     ],
+    "name:tgk_x_variant":[
+        "\u0410\u043c\u0440\u0438\u043a\u043e\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
+    ],
     "name:tgl_x_preferred":[
         "Hilagang Amerika"
     ],
@@ -663,11 +691,20 @@
     "name:tpi_x_preferred":[
         "Not Amerika"
     ],
+    "name:tso_x_preferred":[
+        "Amerikha ya le N'walungu"
+    ],
     "name:tuk_x_preferred":[
         "Demirgazyk Amerika"
     ],
     "name:tur_x_preferred":[
         "Kuzey Amerika"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0421\u043e\u04a3\u0433\u0443 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
+    ],
+    "name:udm_x_preferred":[
+        "\u0423\u0439\u043f\u0430\u043b \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0626\u0627\u0645\u06d0\u0631\u0649\u0643\u0627"
@@ -684,6 +721,9 @@
     "name:vec_x_preferred":[
         "M\u00e8rica del Nord"
     ],
+    "name:vec_x_variant":[
+        "Merica setentrional"
+    ],
     "name:vep_x_preferred":[
         "Pohjoi\u017eamerik"
     ],
@@ -693,14 +733,14 @@
     "name:vls_x_preferred":[
         "N\u00f4ord-Amerika"
     ],
+    "name:vol_x_preferred":[
+        "Nol\u00fcda-Merop"
+    ],
     "name:vro_x_preferred":[
         "P\u00f5h'a-Ameeriga"
     ],
     "name:war_x_preferred":[
         "Amihanan nga Amerika"
-    ],
-    "name:wel_x_preferred":[
-        "Gogledd America"
     ],
     "name:wln_x_preferred":[
         "Amerike bijhrece"
@@ -729,11 +769,32 @@
     "name:zea_x_preferred":[
         "No\u00f4rd-Amerika"
     ],
+    "name:zea_x_variant":[
+        "Noord-Amerika"
+    ],
     "name:zha_x_preferred":[
         "Baekmeijcouh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Pak B\u00ed-chiu"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u7f8e\u6d32"
     ],
     "name:zho_x_preferred":[
         "\u5317\u7f8e\u6d32"
@@ -754,58 +815,63 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":9285,
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:children":[
-        85632491,
+        85632169,
+        85632179,
+        85632185,
         85632199,
-        85632731,
+        85632205,
         85632215,
+        85632271,
+        85632283,
+        85632295,
+        85632323,
+        85632335,
         85632339,
-        85632571,
+        85632369,
+        85632371,
         85632385,
         85632423,
-        85632335,
-        85632545,
-        85633217,
         85632433,
-        85632323,
-        85633729,
-        85632629,
-        85632179,
-        85632371,
-        85632737,
-        85632531,
-        85632677,
-        85633293,
-        85632295,
-        85632599,
-        85633041,
-        85632487,
         85632441,
-        85632649,
-        85632185,
-        85632551,
-        85632611,
-        85632713,
+        85632487,
+        85632491,
         85632503,
-        85633793,
-        85632537,
-        85632369,
-        85632271,
-        85632205,
-        85632569,
         85632529,
-        85632283,
-        85632169
+        85632531,
+        85632537,
+        85632545,
+        85632551,
+        85632569,
+        85632571,
+        85632599,
+        85632611,
+        85632629,
+        85632649,
+        85632677,
+        85632713,
+        85632731,
+        85632737,
+        85633041,
+        85633217,
+        85633293,
+        85633729,
+        85633793
     ],
     "wof:concordances":{
         "wd:id":"Q49",
         "wk:page":"North_America"
     },
     "wof:country":"",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2613e4eb6a8264590baf3b694e4c9cce",
     "wof:hierarchy":[
         {
@@ -813,11 +879,13 @@
         }
     ],
     "wof:id":102191575,
-    "wof:lastmodified":1578513774,
+    "wof:lastmodified":1595021796,
     "wof:name":"North America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:population":579024000,
+    "wof:population_rank":17,
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

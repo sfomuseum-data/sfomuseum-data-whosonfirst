@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":45.728196,
-    "geom:area_square_m":486325106901.106079,
+    "geom:area_square_m":486325106901.100037,
     "geom:bbox":"97.352887,26.053019,108.529557,34.314127",
     "geom:latitude":30.627642,
     "geom:longitude":102.695705,
     "gn:population":87250000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"SC",
     "label:eng_x_preferred_longname":[
         "Sichuan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":30.738864,
     "lbl:longitude":102.695767,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u56db\u5ddd",
     "meso:name_loc":"\u56db\u5ddd\u7701",
     "mps:latitude":30.73746,
@@ -37,16 +40,19 @@
     "name:afr_x_preferred":[
         "Sichuan"
     ],
+    "name:afr_x_variant":[
+        "Sitsjuan"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0634\u0648\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0579\u0578\u0582\u0561\u0576"
+    "name:ast_x_preferred":[
+        "Sichuan"
     ],
     "name:aze_x_preferred":[
         "S\u0131\u00e7uan"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "Sichuan"
     ],
     "name:bel_x_preferred":[
@@ -64,6 +70,9 @@
     "name:bos_x_preferred":[
         "Sichuan"
     ],
+    "name:bos_x_variant":[
+        "Se\u010duan"
+    ],
     "name:bre_x_preferred":[
         "Sichuan"
     ],
@@ -76,32 +85,44 @@
     "name:cdo_x_preferred":[
         "S\u00e9-chi\u014fng"
     ],
+    "name:cdo_x_variant":[
+        "S\u00e9\u0324\u1e73-chi\u014fng"
+    ],
+    "name:ceb_x_preferred":[
+        "Sichuan Sheng"
+    ],
     "name:ces_x_preferred":[
         "S\u2019-\u010dchuan"
+    ],
+    "name:ces_x_variant":[
+        "S'-\u010dchuan"
     ],
     "name:che_x_preferred":[
         "\u0421\u044b\u0447\u0443\u0430\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u56db\u5ddd\u7701"
-    ],
     "name:cym_x_preferred":[
         "Sichuan"
     ],
-    "name:cze_x_preferred":[
-        "S'-\u010dchuan"
-    ],
     "name:dan_x_preferred":[
+        "Sichuan"
+    ],
+    "name:deu_ch_x_preferred":[
         "Sichuan"
     ],
     "name:deu_x_preferred":[
         "Sichuan"
     ],
-    "name:dut_x_preferred":[
-        "Sichuan"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Sichuan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Sichuan"
     ],
     "name:eng_x_preferred":[
         "Sichuan"
@@ -130,17 +151,11 @@
     "name:fra_x_variant":[
         "Province de Sichuan"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Sichuan"
     ],
     "name:gan_x_preferred":[
         "\u56db\u5ddd"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10e9\u10e3\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sichuan"
     ],
     "name:gle_x_preferred":[
         "Sichuan"
@@ -151,14 +166,14 @@
     "name:glv_x_preferred":[
         "Sichuan"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a9a\u0ac1\u0a86\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Si-chh\u00f4n-s\u00e9n"
+    ],
+    "name:hak_x_variant":[
+        "Si-chh\u00f4n"
     ],
     "name:hbs_x_preferred":[
         "Sichuan"
@@ -175,8 +190,8 @@
     "name:hun_x_preferred":[
         "Szecsuan"
     ],
-    "name:ice_x_preferred":[
-        "Ses\u00faan"
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0579\u0578\u0582\u0561\u0576"
     ],
     "name:ina_x_preferred":[
         "Sichuan"
@@ -203,6 +218,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10e9\u10e3\u10d0\u10dc\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u044b\u0447\u0443\u0430\u043d\u044c"
+    ],
     "name:kon_x_preferred":[
         "Sichuan"
     ],
@@ -211,7 +229,8 @@
         "\uc4f0\ucd28 \uc131"
     ],
     "name:kor_x_variant":[
-        "\uc0ac\ucc9c\uc131"
+        "\uc0ac\ucc9c\uc131",
+        "\uc4f0\ucd28\uc131"
     ],
     "name:lat_x_preferred":[
         "Sichuan"
@@ -225,14 +244,14 @@
     "name:lzh_x_preferred":[
         "\u56db\u5ddd"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0447\u0443\u0430\u043d"
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d37\u0d4d\u0d35\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0938-\u091a\u094d\u0935\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Sichuan"
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0447\u0443\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
         "Sichuan"
@@ -261,17 +280,23 @@
     "name:oci_x_preferred":[
         "Sichuan"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u044b\u0447\u0443\u0430\u043d\u044c"
+    ],
     "name:pam_x_preferred":[
         "Sichuan"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0686\u0648\u0622\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0686\u0648\u0622\u0646"
     ],
+    "name:pnb_x_variant":[
+        "\u0633\u0648\u062c\u0648\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Syczuan"
+    ],
+    "name:por_br_x_preferred":[
+        "Sichuan"
     ],
     "name:por_x_preferred":[
         "Sichuan"
@@ -283,9 +308,6 @@
         "Sichuan pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Sichuan"
-    ],
-    "name:rum_x_preferred":[
         "Sichuan"
     ],
     "name:rus_x_preferred":[
@@ -304,9 +326,6 @@
         "\u0dc3\u0dd2\u0da0\u0dd4\u0dc0\u0dcf\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "S\u2019-\u010dchuan"
-    ],
-    "name:slo_x_preferred":[
         "S\u2019-\u010dchuan"
     ],
     "name:slv_x_preferred":[
@@ -333,14 +352,14 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c1a\u0c41\u0c35\u0c3e\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u0447\u0443\u0430\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Sichuan"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e40\u0e2a\u0e09\u0e27\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f72\u0f0b\u0f41\u0fb2\u0f7c\u0f53\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Si\u00e7uan"
@@ -352,10 +371,6 @@
         "\u0421\u0438\u0447\u0443\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "\u56db\u5ddd",
-        "\u56db\u5ddd\u7701"
-    ],
-    "name:unk_x_variant":[
         "S\u00fcchwan"
     ],
     "name:urd_x_preferred":[
@@ -373,14 +388,14 @@
     "name:war_x_preferred":[
         "Sichuan"
     ],
-    "name:wel_x_preferred":[
-        "Sichuan"
-    ],
     "name:wln_x_preferred":[
         "Sichouan"
     ],
     "name:wuu_x_preferred":[
         "\u56db\u5ddd\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d8\u10e9\u10e3\u10d0\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u56db\u5ddd"
@@ -388,8 +403,23 @@
     "name:zha_x_preferred":[
         "Swconh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u56db\u5ddd\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u56db\u5ddd\u7701"
+    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00f9-chhoan-s\u00e9ng"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u56db\u5ddd\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u56db\u5ddd\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u56db\u5ddd\u7701"
     ],
     "name:zho_x_preferred":[
         "\u56db\u5ddd"
@@ -470,14 +500,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"491,146",
     "statoids:area_mi":"189,633",
     "statoids:as_of_date":"2010-11-01",
@@ -508,12 +537,15 @@
         "iso:id":"CN-SC",
         "loc:id":"n81020323",
         "nyt:id":"N2943438798431491821",
-        "qs:id":189445,
+        "qs_pg:id":189445,
         "unlc:id":"CN-51",
         "wd:id":"Q19770",
         "wk:page":"Sichuan"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62e705cf85fafcfec1a8b0f2caaa209c",
     "wof:hierarchy":[
         {
@@ -535,11 +567,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163291,
+    "wof:lastmodified":1587428601,
     "wof:name":"Sichuan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":80418200,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

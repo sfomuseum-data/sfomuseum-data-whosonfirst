@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.76796,
-    "geom:area_square_m":9435654651.204323,
+    "geom:area_square_m":9435654651.205137,
     "geom:bbox":"105.104652,-7.01775,106.7799,-5.80648",
     "geom:latitude":-6.456187,
     "geom:longitude":106.106201,
@@ -17,6 +17,9 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "BT"
     ],
     "lbl:latitude":-6.477403,
     "lbl:longitude":106.108113,
@@ -30,10 +33,22 @@
     "name:ace_x_preferred":[
         "Banten"
     ],
+    "name:afr_x_preferred":[
+        "Banten"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0646"
     ],
-    "name:baq_x_preferred":[
+    "name:ara_x_variant":[
+        "\u0628\u0646\u062a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0646\u062a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Banten"
+    ],
+    "name:ban_x_preferred":[
         "Banten"
     ],
     "name:bel_x_preferred":[
@@ -41,6 +56,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a8\u09cd\u09a4\u09c7\u09a8"
     ],
     "name:bjn_x_preferred":[
         "Bantan"
@@ -60,29 +78,38 @@
     "name:ces_x_preferred":[
         "Banten"
     ],
-    "name:chi_x_preferred":[
-        "\u4e07\u4e39\u7701"
-    ],
     "name:cym_x_preferred":[
-        "Banten"
-    ],
-    "name:cze_x_preferred":[
         "Banten"
     ],
     "name:dan_x_preferred":[
         "Banten"
     ],
+    "name:deu_ch_x_preferred":[
+        "Banten"
+    ],
     "name:deu_x_preferred":[
         "Banten"
     ],
-    "name:dut_x_preferred":[
-        "Bantam"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bd\u03c4\u03b5\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Banten"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Banten"
     ],
     "name:eng_x_preferred":[
         "Banten"
     ],
     "name:epo_x_preferred":[
         "Provinco Banteno"
+    ],
+    "name:epo_x_variant":[
+        "Banteno"
+    ],
+    "name:eus_x_preferred":[
+        "Banten"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0646"
@@ -93,17 +120,8 @@
     "name:fra_x_preferred":[
         "Banten"
     ],
-    "name:fre_x_preferred":[
+    "name:gor_x_preferred":[
         "Banten"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10e2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Banten"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bd\u03c4\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac5\u0aa8\u0acd\u0a9f\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -111,11 +129,20 @@
     "name:hak_x_preferred":[
         "Van-tan-s\u00e9n"
     ],
+    "name:hak_x_variant":[
+        "Banten"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e0\u05d8\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0902\u0924\u0947\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u057f\u0565\u0576"
+    ],
+    "name:ilo_x_preferred":[
+        "Banten"
     ],
     "name:ind_x_preferred":[
         "Banten"
@@ -143,6 +170,9 @@
         "\ubc18\ud150",
         "\ubc18\ud150 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc18\ud150\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Bantena"
     ],
@@ -152,11 +182,11 @@
     "name:lrc_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0646"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3e\u0d7b\u0d31\u0d7b"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0902\u0924\u0947\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Banten"
     ],
     "name:min_x_preferred":[
         "Banten"
@@ -185,13 +215,13 @@
     "name:pam_x_preferred":[
         "Banten"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u062a\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0627\u0646\u0679\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
+        "Banten"
+    ],
+    "name:por_br_x_preferred":[
         "Banten"
     ],
     "name:por_x_preferred":[
@@ -208,6 +238,9 @@
     ],
     "name:spa_x_preferred":[
         "Bant\u00e9n"
+    ],
+    "name:sqi_x_preferred":[
+        "Banten"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043d\u0442\u0435\u043d"
@@ -251,8 +284,8 @@
     "name:war_x_preferred":[
         "Banten"
     ],
-    "name:wel_x_preferred":[
-        "Banten"
+    "name:wuu_x_preferred":[
+        "\u4e07\u4e39\u7701"
     ],
     "name:yue_x_preferred":[
         "\u842c\u4e39"
@@ -337,7 +370,6 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
@@ -377,6 +409,9 @@
         "wk:page":"Banten"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ac9e84f02de2f564ee08a4ca6ef3ab9",
     "wof:hierarchy":[
         {
@@ -386,16 +421,13 @@
         }
     ],
     "wof:id":85671995,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "ind"
     ],
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1606163366,
+    "wof:lastmodified":1587427703,
     "wof:name":"Banten",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

@@ -5,25 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.562599,
-    "geom:area_square_m":186170638803.272369,
+    "geom:area_square_m":186170638803.266541,
     "geom:bbox":"108.36682,29.03129,116.132935,33.273456",
     "geom:latitude":30.975322,
     "geom:longitude":112.270957,
     "gn:id":"",
     "gn:population":57110000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"HU",
     "label:eng_x_preferred_longname":[
         "Hubei Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HU"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":30.996329,
     "lbl:longitude":112.534671,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u6e56\u5317",
     "meso:name_loc":"\u6e56\u5317\u7701",
     "mps:latitude":31.004267,
@@ -41,8 +44,14 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0628\u064a"
     ],
-    "name:baq_x_preferred":[
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0628\u064a\u0649"
+    ],
+    "name:ast_x_preferred":[
         "Hubei"
+    ],
+    "name:aze_x_preferred":[
+        "Hubey \u0259yal\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0443\u0431\u044d\u0439"
@@ -65,32 +74,38 @@
     "name:cdo_x_preferred":[
         "H\u00f9-b\u00e1e\u0324k"
     ],
+    "name:ceb_x_preferred":[
+        "Hubei Sheng"
+    ],
     "name:ces_x_preferred":[
         "Chu-pej"
     ],
     "name:che_x_preferred":[
         "\u0425\u0443\u0431\u044d\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u6e56\u5317\u7701"
-    ],
     "name:cym_x_preferred":[
         "Hubei"
     ],
-    "name:cze_x_preferred":[
-        "Chu-pej"
-    ],
     "name:dan_x_preferred":[
+        "Hubei"
+    ],
+    "name:deu_ch_x_preferred":[
         "Hubei"
     ],
     "name:deu_x_preferred":[
         "Hubei"
     ],
-    "name:dut_x_preferred":[
-        "Hubei"
-    ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03c5\u03bc\u03c0\u03ad\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c5\u03c0\u03ad\u03b9"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Hubei"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Hubei"
     ],
     "name:eng_x_preferred":[
         "Hubei"
@@ -119,26 +134,20 @@
     "name:fra_x_variant":[
         "Province de Hubei"
     ],
-    "name:fre_x_preferred":[
+    "name:frp_x_preferred":[
+        "Hubei"
+    ],
+    "name:frr_x_preferred":[
         "Hubei"
     ],
     "name:gan_x_preferred":[
         "\u6e56\u5317"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10d1\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Hubei"
     ],
     "name:gle_x_preferred":[
         "Hubei"
     ],
     "name:glv_x_preferred":[
         "Hubei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aac\u0ac7\u0a87"
@@ -163,9 +172,6 @@
     ],
     "name:hun_x_preferred":[
         "Hupej"
-    ],
-    "name:ice_x_preferred":[
-        "Hubei"
     ],
     "name:ina_x_preferred":[
         "Hubei"
@@ -202,6 +208,9 @@
         "\ud6c4\ubca0\uc774",
         "\ud6c4\ubca0\uc774 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\ubca0\uc774\uc131"
+    ],
     "name:lat_x_preferred":[
         "Hubei"
     ],
@@ -214,23 +223,29 @@
     "name:lzh_x_preferred":[
         "\u6e56\u5317"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0443\u0431\u0435\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0942\u092a\u0948"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Hubei"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0443\u0431\u0435\u0458"
     ],
     "name:mlg_x_preferred":[
         "Hubei"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u04af\u0431\u044d\u0439"
     ],
     "name:msa_x_preferred":[
         "Hubei"
     ],
     "name:nan_x_preferred":[
         "\u00d4\u0358-pak-s\u00e9ng"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u0941\u092c\u0947\u0908"
     ],
     "name:nld_x_preferred":[
         "Hubei"
@@ -247,19 +262,22 @@
     "name:oci_x_preferred":[
         "Hubei"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0443\u0431\u044d\u0439"
+    ],
     "name:pam_x_preferred":[
         "Hubei"
     ],
     "name:pan_x_preferred":[
         "\u0a39\u0a42\u0a2c\u0a47\u0a08"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0628\u0626\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u06c1\u0648\u0628\u06d2"
     ],
     "name:pol_x_preferred":[
+        "Hubei"
+    ],
+    "name:por_br_x_preferred":[
         "Hubei"
     ],
     "name:por_x_preferred":[
@@ -269,9 +287,6 @@
         "Hubei pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Hubei"
-    ],
-    "name:rum_x_preferred":[
         "Hubei"
     ],
     "name:rus_x_preferred":[
@@ -307,14 +322,14 @@
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c2c\u0c47"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b2\u0443\u0431\u0435\u0439"
+    ],
     "name:tgl_x_preferred":[
         "Hubei"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e2b\u0e39\u0e40\u0e1b\u0e48\u0e22\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0f74\u0f60\u0f74\u0f0b\u0f54\u0f7a\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Hubei"
@@ -326,10 +341,6 @@
         "\u0425\u0443\u0431\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "\u6e56\u5317",
-        "\u6e56\u5317\u7701"
-    ],
-    "name:unk_x_variant":[
         "Hu-pei Sheng"
     ],
     "name:urd_x_preferred":[
@@ -347,14 +358,14 @@
     "name:war_x_preferred":[
         "Hubei"
     ],
-    "name:wel_x_preferred":[
-        "Hubei"
-    ],
     "name:wln_x_preferred":[
         "Hubei"
     ],
     "name:wuu_x_preferred":[
         "\u6e56\u5317\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10e3\u10d1\u10d4\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6e56\u5317"
@@ -362,8 +373,23 @@
     "name:zha_x_preferred":[
         "Huzbaek"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6e56\u5317\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6e56\u5317\u7701"
+    ],
     "name:zho_min_nan_x_preferred":[
         "\u00d4\u0358-pak-s\u00e9ng"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6e56\u5317\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6e56\u5317\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6e56\u5317\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6e56\u5317"
@@ -444,14 +470,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"185,673",
     "statoids:area_mi":"71,689",
     "statoids:as_of_date":"2010-11-01",
@@ -480,12 +505,15 @@
         "hasc:id":"CN.HU",
         "iso:id":"CN-HB",
         "loc:id":"n81018205",
-        "qs:id":372232,
+        "qs_pg:id":372232,
         "unlc:id":"CN-42",
         "wd:id":"Q46862",
         "wk:page":"Hubei"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"558c4f3be2d4dd72b98de78c12f644fe",
     "wof:hierarchy":[
         {
@@ -507,11 +535,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163293,
+    "wof:lastmodified":1587428612,
     "wof:name":"Hubei",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":57237740,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

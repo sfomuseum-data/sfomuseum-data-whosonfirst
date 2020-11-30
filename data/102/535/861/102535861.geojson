@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":537875.492513,
+    "geom:area_square_m":537875.492512,
     "geom:bbox":"32.983166,40.11285,33.001427,40.128227",
     "geom:latitude":40.121114,
     "geom:longitude":32.993245,
@@ -122,9 +122,6 @@
     "name:zho_x_preferred":[
         "\u57c3\u68ee\u535a\u963f\u56fd\u9645\u673a\u573a"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -143,7 +140,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517889,
-        "iata:code":"ESB",
         "wd:id":"Q430490"
     },
     "wof:country":"",
@@ -158,7 +154,7 @@
         }
     ],
     "wof:id":102535861,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566655360,
     "wof:name":"Esenboga Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

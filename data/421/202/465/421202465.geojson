@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004921,
-    "geom:area_square_m":53044332.536892,
+    "geom:area_square_m":53044332.536897,
     "geom:bbox":"47.858488,29.309968,48.00839,29.393761",
     "geom:latitude":29.347615,
     "geom:longitude":47.943404,
     "iso:country":"KW",
     "lbl:latitude":29.36972,
     "lbl:longitude":47.97833,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -26,9 +28,6 @@
     "name:afr_x_preferred":[
         "Koeweit"
     ],
-    "name:alb_x_preferred":[
-        "Kuvajti"
-    ],
     "name:amh_x_preferred":[
         "\u12a9\u12cc\u1275 \u12a8\u1270\u121b"
     ],
@@ -40,9 +39,6 @@
     ],
     "name:arc_x_preferred":[
         "\u071f\u0718\u0718\u071d\u072c"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u0554\u0578\u0582\u057e\u0565\u0575\u0569"
     ],
     "name:arz_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0647 \u0627\u0644\u0643\u0648\u064a\u062a"
@@ -59,14 +55,17 @@
     "name:bak_x_preferred":[
         "\u04d8\u043b-\u041a\u04af\u0432\u04d9\u0439\u0442"
     ],
-    "name:baq_x_preferred":[
-        "Kuwait"
+    "name:bcl_x_preferred":[
+        "Syudad nin Kuwait"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u09a4 \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f41\u0f74\u0f0b\u0f5d\u0f72\u0f0b\u0f50\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kuvajt"
@@ -86,20 +85,26 @@
     "name:cdo_x_preferred":[
         "Kuwait Ch\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Kuwait City"
+    ],
+    "name:ces_x_preferred":[
+        "Kuvajt"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5a01\u7279\u5e02"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u0648\u0648\u06d5\u06cc\u062a"
     ],
-    "name:cze_x_preferred":[
-        "Kuvajt"
+    "name:cym_x_preferred":[
+        "Dinas Kuwait"
     ],
     "name:dan_x_preferred":[
         "Kuwait"
+    ],
+    "name:dan_x_variant":[
+        "Kuwait City"
     ],
     "name:deu_x_preferred":[
         "Kuwait-Stadt"
@@ -107,11 +112,11 @@
     "name:dty_x_preferred":[
         "\u0915\u0941\u0935\u0947\u0924 \u0938\u093f\u091f\u0940"
     ],
-    "name:dut_x_preferred":[
-        "Koeweit"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03c4"
     ],
     "name:eng_x_preferred":[
         "Kuwait City"
@@ -128,13 +133,16 @@
     "name:est_x_preferred":[
         "Al-Kuwayt"
     ],
+    "name:eus_x_preferred":[
+        "Kuwait"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
         "Kuwait"
     ],
     "name:fra_x_preferred":[
-        "Kowe\u00eft"
-    ],
-    "name:fre_x_preferred":[
         "Kowe\u00eft"
     ],
     "name:frp_x_preferred":[
@@ -142,12 +150,6 @@
     ],
     "name:fry_x_preferred":[
         "Koeweit"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10e5\u10e3\u10d5\u10d4\u10d8\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kuwait-Stadt"
     ],
     "name:gla_x_preferred":[
         "Cubhait"
@@ -158,8 +160,8 @@
     "name:glg_x_preferred":[
         "Kuwait"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03c4"
+    "name:grn_x_preferred":[
+        "T\u00e1va Ku\u00e1ite"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab5\u0ac8\u0aa4"
@@ -185,8 +187,11 @@
     "name:hun_x_preferred":[
         "Kuvaitv\u00e1ros"
     ],
-    "name:ice_x_preferred":[
-        "K\u00faveitborg"
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0554\u0578\u0582\u057e\u0565\u0575\u0569"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0575\u0580\u0561\u0584\u0561\u0572\u0561\u0584 \u0554\u0578\u0582\u0567\u0575\u0569"
     ],
     "name:ido_x_preferred":[
         "Kuwait-Urbo"
@@ -200,11 +205,15 @@
     "name:ind_x_variant":[
         "Kota Kuwait"
     ],
+    "name:isl_x_preferred":[
+        "K\u00faveitborg"
+    ],
     "name:ita_x_preferred":[
         "Al-Kuwait"
     ],
     "name:ita_x_variant":[
-        "Madinat al-Kuwait"
+        "Madinat al-Kuwait",
+        "Al Kuwait"
     ],
     "name:jav_x_preferred":[
         "Kuwait City"
@@ -223,6 +232,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb5\u0cc8\u0ca4\u0ccd \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e5\u10e3\u10d5\u10d4\u10d8\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u041a\u0443\u0432\u0435\u0439\u0442"
@@ -246,6 +258,9 @@
     "name:lav_x_preferred":[
         "Kuveita"
     ],
+    "name:lfn_x_preferred":[
+        "Cuait"
+    ],
     "name:lit_x_preferred":[
         "Kuveitas"
     ],
@@ -258,9 +273,6 @@
     "name:ltz_x_preferred":[
         "Kuwait City"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0432\u0430\u0458\u0442"
-    ],
     "name:mai_x_preferred":[
         "\u0915\u0941\u0935\u0948\u0924 \u0938\u093f\u091f\u0940"
     ],
@@ -270,17 +282,20 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0935\u0947\u0924 \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
-        "Bandar Kuwait"
-    ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0432\u0430\u0458\u0442"
     ],
     "name:mlg_x_preferred":[
         "Kuwait City"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442 \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Bandar Kuwait"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u06a9\u0648\u06cc\u062a"
@@ -309,6 +324,9 @@
     "name:oci_x_preferred":[
         "Kowait"
     ],
+    "name:olo_x_preferred":[
+        "El-Kuveit"
+    ],
     "name:oss_x_preferred":[
         "\u042d\u043b\u044c-\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
@@ -317,9 +335,6 @@
     ],
     "name:pap_x_preferred":[
         "Kuwait City"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u062a"
     ],
     "name:pms_x_preferred":[
         "Sit\u00e0 d\u00ebl Kuwait"
@@ -334,9 +349,6 @@
         "Kuwait"
     ],
     "name:ron_x_preferred":[
-        "Kuweit"
-    ],
-    "name:rum_x_preferred":[
         "Kuweit"
     ],
     "name:rus_x_preferred":[
@@ -354,20 +366,32 @@
     "name:slk_x_preferred":[
         "Kuvajt"
     ],
-    "name:slo_x_preferred":[
-        "Kuvajt"
-    ],
     "name:slv_x_preferred":[
         "Kuvajt"
     ],
     "name:sna_x_preferred":[
         "Kuwait City"
     ],
+    "name:som_x_preferred":[
+        "Magaalada Kuwayt"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de Kuwait"
     ],
     "name:spa_x_variant":[
         "Kuwait"
+    ],
+    "name:sqi_x_preferred":[
+        "Kuvajti"
+    ],
+    "name:srd_x_preferred":[
+        "Al Kuwait"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u0443\u0432\u0430\u0458\u0442"
+    ],
+    "name:srp_el_x_preferred":[
+        "Kuvajt"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0432\u0430\u0458\u0442"
@@ -397,9 +421,6 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e39\u0e40\u0e27\u0e15\u0e0b\u0e34\u0e15\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f74\u0f0b\u0f5d\u0f72\u0f0b\u0f50\u0f72\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "El Kuwe\u00fdt"
     ],
@@ -412,7 +433,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Kuwayt"
     ],
     "name:urd_x_preferred":[
@@ -436,8 +457,8 @@
     "name:war_x_preferred":[
         "Syudad han Kuwait"
     ],
-    "name:wel_x_preferred":[
-        "Dinas Kuwait"
+    "name:wuu_x_preferred":[
+        "\u79d1\u5a01\u7279\u57ce"
     ],
     "name:xmf_x_preferred":[
         "\u10d4\u10da-\u10e5\u10e3\u10d5\u10d4\u10d8\u10d7\u10d8"
@@ -447,6 +468,12 @@
     ],
     "name:yue_x_preferred":[
         "\u79d1\u5a01\u7279\u57ce"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u79d1\u5a01\u7279\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u79d1\u5a01\u7279\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5a01\u7279\u5e02"
@@ -561,7 +588,6 @@
     "qs:qs_id":222707,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940631,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -578,12 +604,15 @@
         "gn:id":285787,
         "gp:id":1940631,
         "loc:id":"n81102869",
-        "qs:id":222707,
+        "qs_pg:id":222707,
         "wd:id":"Q35178",
         "wk:page":"Kuwait City"
     },
     "wof:country":"KW",
     "wof:created":1459010119,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c9d65d0f6b97fe6f054af03337fc615",
     "wof:hierarchy":[
         {
@@ -594,7 +623,7 @@
         }
     ],
     "wof:id":421202465,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1587428054,
     "wof:name":"Kuwait City",
     "wof:parent_id":85673383,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "lbl:latitude":40.753453,
     "lbl:longitude":-73.9364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.759878,
     "mps:longitude":-73.92058,
     "mz:hierarchy_label":1,
@@ -29,10 +30,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u063a \u0627\u0633\u0644\u0627\u0646\u062f \u0633\u064a\u062a\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u9577\u5cf6\u5e02"
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0646\u0642 \u0622\u06cc\u0644\u0646\u062f \u0633\u06cc\u062a\u06cc"
     ],
-    "name:dut_x_preferred":[
+    "name:ceb_x_preferred":[
+        "Long Island City"
+    ],
+    "name:dan_x_preferred":[
+        "Long Island City"
+    ],
+    "name:deu_x_preferred":[
         "Long Island City"
     ],
     "name:eng_x_preferred":[
@@ -42,14 +49,23 @@
         "Longislandcity",
         "Long Island"
     ],
-    "name:fre_x_preferred":[
+    "name:epo_x_preferred":[
+        "Longinsulurbo"
+    ],
+    "name:est_x_preferred":[
         "Long Island City"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "long island city"
+    ],
+    "name:fra_x_preferred":[
         "Long Island City"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d5\u05d9\u05e0\u05e1/\u05dc\u05d5\u05e0\u05d2 \u05d0\u05d9\u05d9\u05dc\u05e0\u05d3 \u05e1\u05d9\u05d8\u05d9 \u05d5\u05d0\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4"
+    ],
+    "name:ina_x_preferred":[
+        "Long Island City"
     ],
     "name:ita_x_preferred":[
         "Long Island City"
@@ -57,11 +73,17 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30f3\u30b0\u30a2\u30a4\u30e9\u30f3\u30c9\u30b7\u30c6\u30a3"
     ],
+    "name:jpn_x_variant":[
+        "\u30ed\u30f3\u30b0\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9\u30fb\u30b7\u30c6\u30a3\u5730\u533a"
+    ],
     "name:kor_x_preferred":[
         "\ub871\uc544\uc77c\ub79c\ub4dc\uc2dc\ud2f0"
     ],
-    "name:per_x_preferred":[
-        "long island city"
+    "name:nld_x_preferred":[
+        "Long Island City"
+    ],
+    "name:nob_x_preferred":[
+        "Long Island City"
     ],
     "name:por_x_preferred":[
         "Long Island City"
@@ -75,9 +97,8 @@
     "name:tur_x_preferred":[
         "Long Island City"
     ],
-    "name:unk_x_variant":[
-        "Middletown",
-        "Long Island City"
+    "name:und_x_variant":[
+        "Middletown"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06af \u0622\u0626\u0644\u06cc\u0646\u0688 \u0633\u0679\u06cc"
@@ -126,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":40.750422,
     "wd:longitude":-73.948136,
@@ -146,11 +167,14 @@
         "gn:id":5125125,
         "gp:id":2441564,
         "nyt:id":"N36054542201977475791",
-        "qs:id":479417,
         "qs_pg:id":479417,
         "wd:id":"Q1190597"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f21f33be3b82a121038e882a7972b66",
     "wof:hierarchy":[
         {
@@ -167,7 +191,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1578514173,
+    "wof:lastmodified":1582336959,
     "wof:name":"Long Island City",
     "wof:parent_id":421205767,
     "wof:placetype":"neighbourhood",

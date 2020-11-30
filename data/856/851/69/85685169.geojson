@@ -5,19 +5,38 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.781401,
-    "geom:area_square_m":6814875270.638474,
+    "geom:area_square_m":6814875452.125856,
     "geom:bbox":"6.62665,44.713736,8.151905,45.602309",
     "geom:latitude":45.144666,
     "geom:longitude":7.439093,
     "iso:country":"IT",
     "label:eng_x_preferred_longname":[
-        "Torino Metropolitan City"
+        "Metropolitan City of Turin"
     ],
     "label:eng_x_preferred_placetype":[
         "metropolitan city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
+    "label:eng_x_variant_longname":[
+        "Metropolitan City of Turin"
+    ],
+    "label:fra_x_preferred_longname":[
+        "La Ville M\u00e9tropolitaine de Turin"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "ville m\u00e9tropolitaine"
+    ],
+    "label:ita_x_preferred_longname":[
+        "Citt\u00e0 Metropolitana di Torino"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "citt\u00e0 metropolitana"
+    ],
     "lbl:latitude":45.174173,
     "lbl:longitude":7.490482,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.174173,
     "mps:longitude":7.490482,
     "mz:hierarchy_label":1,
@@ -27,9 +46,6 @@
     "name:afr_x_preferred":[
         "Turyn"
     ],
-    "name:alb_x_preferred":[
-        "Torino"
-    ],
     "name:amh_x_preferred":[
         "\u1276\u122a\u1296"
     ],
@@ -38,9 +54,6 @@
     ],
     "name:arg_x_preferred":[
         "Tur\u00edn"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0578\u0582\u0580\u056b\u0576"
     ],
     "name:ast_x_preferred":[
         "Tur\u00edn"
@@ -54,14 +67,17 @@
     "name:aze_x_preferred":[
         "Turin"
     ],
-    "name:baq_x_preferred":[
-        "Turin"
+    "name:bak_x_preferred":[
+        "\u0422\u0443\u0440\u0438\u043d"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u044b\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b0\u09bf\u09a8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f4a\u0f74\u0f0b\u0f62\u0f72\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Torino"
@@ -72,17 +88,17 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0438\u043d\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1010\u103b\u1030\u1038\u101b\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Tor\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Turin"
+    ],
+    "name:ces_x_preferred":[
+        "Tur\u00edn"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u90fd\u7075"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d"
@@ -93,8 +109,11 @@
     "name:cos_x_preferred":[
         "Torinu"
     ],
-    "name:cze_x_preferred":[
-        "Tur\u00edn"
+    "name:cos_x_variant":[
+        "Turinu"
+    ],
+    "name:cym_x_preferred":[
+        "Torino"
     ],
     "name:dan_x_preferred":[
         "Torino"
@@ -102,17 +121,22 @@
     "name:deu_x_preferred":[
         "Turin"
     ],
-    "name:dut_x_preferred":[
-        "Turijn"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c1\u03af\u03bd\u03bf"
     ],
     "name:eml_x_preferred":[
         "Tur\u00e9n"
     ],
+    "name:eng_x_colloquial":[
+        "Capital of the Alps",
+        "The First Capital of Italy",
+        "The Regal City"
+    ],
     "name:eng_x_preferred":[
-        "Torino"
+        "Turin"
     ],
     "name:eng_x_variant":[
-        "Turin"
+        "Torino"
     ],
     "name:epo_x_preferred":[
         "Torino"
@@ -120,19 +144,22 @@
     "name:est_x_preferred":[
         "Torino"
     ],
+    "name:eus_x_preferred":[
+        "Turin"
+    ],
     "name:ext_x_preferred":[
         "Tur\u00edn"
     ],
     "name:fao_x_preferred":[
         "Torino"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Torino"
     ],
     "name:fra_x_preferred":[
-        "Turin"
-    ],
-    "name:fre_x_preferred":[
         "Turin"
     ],
     "name:frp_x_preferred":[
@@ -144,12 +171,6 @@
     "name:fur_x_preferred":[
         "Turin"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10e0\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Turin"
-    ],
     "name:gla_x_preferred":[
         "Torino"
     ],
@@ -159,14 +180,14 @@
     "name:glg_x_preferred":[
         "Tur\u00edn"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c1\u03af\u03bd\u03bf"
-    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0aaf\u0ac2\u0ab0\u0abf\u0aa8"
     ],
     "name:hak_x_preferred":[
         "T\u00fb-l\u00ecn"
+    ],
+    "name:hak_x_variant":[
+        "Torino"
     ],
     "name:hau_x_preferred":[
         "Torino"
@@ -183,8 +204,11 @@
     "name:hun_x_preferred":[
         "Torino"
     ],
-    "name:ice_x_preferred":[
-        "T\u00f3r\u00edn\u00f3"
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0582\u0580\u056b\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0578\u0580\u056b\u0576\u0585"
     ],
     "name:ido_x_preferred":[
         "Torino"
@@ -195,12 +219,18 @@
     "name:ind_x_preferred":[
         "Torino"
     ],
+    "name:isl_x_preferred":[
+        "T\u00f3r\u00edn\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Torino"
     ],
     "name:ita_x_variant":[
+        "Comune di Torino",
         "Augusta Taurinorum",
-        "Taurasia"
+        "Taurasia",
+        "Turino",
+        "Turin"
     ],
     "name:jav_x_preferred":[
         "Torino"
@@ -208,11 +238,17 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30ea\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30c8\u30ea\u30ce"
+    ],
     "name:kaa_x_preferred":[
         "Turin"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc1\u0cb0\u0cbf\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10e0\u10d8\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d"
@@ -250,23 +286,26 @@
     "name:ltz_x_preferred":[
         "Turin"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u043e\u0440\u0438\u043d\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d42\u0d31\u0d3f\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0930\u093f\u0928\u094b"
     ],
-    "name:may_x_preferred":[
-        "Turin"
-    ],
     "name:mhr_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u043d\u043e"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Turin"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u103b\u1030\u1038\u101b\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u0631\u06cc\u0646\u0648"
@@ -295,6 +334,9 @@
     "name:nob_x_preferred":[
         "Torino"
     ],
+    "name:nor_x_preferred":[
+        "Torino"
+    ],
     "name:oci_x_preferred":[
         "Turin"
     ],
@@ -306,9 +348,6 @@
     ],
     "name:pcd_x_preferred":[
         "Turin"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u06cc\u0646"
     ],
     "name:pms_x_preferred":[
         "Turin"
@@ -322,7 +361,7 @@
     "name:que_x_preferred":[
         "Torino"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Torino"
     ],
     "name:rup_x_preferred":[
@@ -343,7 +382,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dba\u0dd4\u0dbb\u0dd2\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tur\u00edn"
     ],
     "name:slv_x_preferred":[
@@ -354,6 +393,9 @@
     ],
     "name:spa_x_preferred":[
         "Tur\u00edn"
+    ],
+    "name:sqi_x_preferred":[
+        "Torino"
     ],
     "name:srd_x_preferred":[
         "Torinu"
@@ -388,9 +430,6 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e39\u0e23\u0e34\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f4a\u0f74\u0f0b\u0f62\u0f72\u0f53\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Turin"
     ],
@@ -412,6 +451,9 @@
     "name:urd_x_preferred":[
         "\u0679\u06cc\u0648\u0631\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u0631\u06cc\u0646\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Turin"
     ],
@@ -430,14 +472,14 @@
     "name:war_x_preferred":[
         "Turin"
     ],
-    "name:wel_x_preferred":[
-        "Torino"
-    ],
     "name:yid_x_preferred":[
         "\u05d8\u05d5\u05e8\u05d9\u05df"
     ],
     "name:yue_x_preferred":[
         "\u62d6\u9023\u5974"
+    ],
+    "name:zea_x_preferred":[
+        "Turien"
     ],
     "name:zho_x_preferred":[
         "\u90fd\u7075"
@@ -451,12 +493,11 @@
     "qs:adm0_a3":"ITA",
     "qs:level":"adm1",
     "qs:source":"Italy IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2011-10-09",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2017",
     "statoids:area_km":"6833",
     "statoids:as_of_date":"2011-10-09",
     "statoids:capital":"Turin",
@@ -475,7 +516,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":10840,
         "hasc:id":"IT.PM.TO",
+        "iso:id":"IT-TO",
         "unlc:id":"IT-TO"
     },
     "wof:country":"IT",
@@ -496,12 +539,12 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1606163177,
-    "wof:name":"Torino",
+    "wof:lastmodified":1585681627,
+    "wof:name":"Turin",
     "wof:parent_id":404227493,
     "wof:placetype":"region",
     "wof:placetype_local":"metropolitan city",
-    "wof:population":2247780,
+    "wof:population":2302353,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:shortcode":"TO",

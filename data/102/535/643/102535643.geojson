@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00089,
-    "geom:area_square_m":8578238.882292,
+    "geom:area_square_m":8578238.882291,
     "geom:bbox":"-9.147191,38.760124,-9.089711,38.800018",
     "geom:latitude":38.780787,
     "geom:longitude":-9.123625,
@@ -16,14 +16,12 @@
     "mps:longitude":-9.135591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0634\u0628\u0648\u0646\u0629"
     ],
     "name:arg_x_preferred":[
         "Aeropuerto de Lisbona-Portela"
-    ],
-    "name:baq_x_preferred":[
-        "Lisboa-Portela aireportua"
     ],
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u041f\u0430\u0440\u0442\u044d\u043b\u0430"
@@ -31,17 +29,17 @@
     "name:cat_x_preferred":[
         "Aeroport de Lisboa Humberto Delgado"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u65af\u672c\u673a\u573a"
+    "name:ceb_x_preferred":[
+        "Lisboa / Portela"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Lisabon-Portela"
     ],
     "name:dan_x_preferred":[
         "Lissabon-Portela Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Portela"
+    "name:deu_x_preferred":[
+        "Flughafen Lissabon-Humberto Delgado"
     ],
     "name:eng_x_preferred":[
         "Lisbon Airport"
@@ -50,17 +48,26 @@
         "LIS",
         "LPPT"
     ],
+    "name:epo_x_preferred":[
+        "Flughaveno Lisbono \u201cHumberto Delgado\u201d"
+    ],
     "name:est_x_preferred":[
         "Lissaboni Portela lennujaam"
+    ],
+    "name:eus_x_preferred":[
+        "Lisboa-Portela aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0633\u0628\u0648\u0646 \u067e\u0648\u0631\u062a\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Portelan lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport Lisbonne-Humberto Delgado"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Lissabon-Humberto Delgado"
+    "name:fra_x_variant":[
+        "a\u00e9roport Lisbonne-Humberto Delgado"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Lisboa"
@@ -89,14 +96,14 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0938\u094d\u092c\u0928 \u092a\u094b\u0930\u094d\u0924\u0947\u0932\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Lisbon"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Portela"
     ],
     "name:nob_x_preferred":[
         "Portela lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0633\u0628\u0648\u0646 \u067e\u0648\u0631\u062a\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Lizbona-Portela"
@@ -109,7 +116,7 @@
         "Aeroporto da Portela de Sacav\u00e9m",
         "Aeroporto de Lisboa Humberto Delgado"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Lisabona-Humberto Delgado"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +125,7 @@
     "name:sco_x_preferred":[
         "Lisbon Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medzin\u00e1rodn\u00e9 letisko Lisabon-Portela"
     ],
     "name:spa_x_preferred":[
@@ -139,12 +146,12 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Lisboa Portela"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
+    "name:zho_x_preferred":[
+        "\u91cc\u65af\u672c\u673a\u573a"
+    ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3098,
     "woe:hierarchy":{
         "country_id":23424925,
@@ -154,9 +161,11 @@
         "suburb_id":744690
     },
     "wof:belongsto":[
-        102191581,
-        85633735,
         85799047,
+        102191581,
+        1511679077,
+        85633735,
+        101752087,
         85687367
     ],
     "wof:breaches":[],
@@ -173,16 +182,18 @@
             "campus_id":102535643,
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679077,
+            "locality_id":101752087,
             "neighbourhood_id":85799047,
             "region_id":85687367
         }
     ],
     "wof:id":102535643,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1579720770,
     "wof:name":"Lisbon Portela Airport",
     "wof:parent_id":85799047,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

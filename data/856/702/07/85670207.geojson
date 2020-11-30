@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":10.663115,
     "lbl:longitude":-74.983775,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Atl\u00e1ntico",
     "mps:latitude":10.668138,
     "mps:longitude":-74.990649,
@@ -26,11 +30,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Atl\u00e1ntico"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u062a\u0644\u0627\u0646\u062a\u064a\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Atlantikoko departamendua"
+    "name:ast_x_preferred":[
+        "Atl\u00e1ntico"
+    ],
+    "name:aze_x_preferred":[
+        "Atlantiko"
     ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0410\u0442\u043b\u0430\u043d\u0442\u044b\u043a\u0430"
@@ -53,41 +63,44 @@
     "name:ces_x_preferred":[
         "Atl\u00e1ntico"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u897f\u6d0b\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Atl\u00e1ntico"
-    ],
     "name:dan_x_preferred":[
         "Atl\u00e1ntico Department"
     ],
     "name:deu_x_preferred":[
         "Departamento del Atl\u00e1ntico"
     ],
-    "name:dut_x_preferred":[
-        "Atl\u00e1ntico"
-    ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0391\u03c4\u03bb\u03ac\u03bd\u03c4\u03b9\u03ba\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0391\u03c4\u03bb\u03b1\u03bd\u03c4\u03b9\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Atl\u00e1ntico"
     ],
+    "name:eng_x_variant":[
+        "Atl\u00e1ntico Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Atlantiko"
+    ],
+    "name:epo_x_variant":[
+        "Atlantiko"
+    ],
+    "name:eus_x_preferred":[
+        "Atlantikoko departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Atl\u00e1ntico"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atl\u00e1ntico"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10da\u10d0\u10dc\u10e2\u10d8\u10d9\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento del Atl\u00e1ntico"
+    "name:frr_x_preferred":[
+        "Atl\u00e1ntico"
     ],
     "name:gla_x_preferred":[
         "Atl\u00e1ntico"
@@ -97,9 +110,6 @@
     ],
     "name:glg_x_preferred":[
         "Atl\u00e1ntico"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0391\u03c4\u03bb\u03b1\u03bd\u03c4\u03b9\u03ba\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0ab2\u0abe\u0aa8\u0acd\u0a9f\u0abf\u0a95\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -131,8 +141,17 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c9f\u0ccd\u0cb2\u0cbe\u0c82\u0c9f\u0cbf\u0c95\u0cca \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10da\u10d0\u10dc\u10e2\u10d8\u10d9\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ud2c0\ub780\ud2f0\ucf54 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud2c0\ub780\ud2f0\ucf54\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Atlantiko"
     ],
     "name:lav_x_preferred":[
         "Atlantiko departaments"
@@ -143,10 +162,13 @@
     "name:mar_x_preferred":[
         "\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0915\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Atl\u00e1ntico"
     ],
     "name:nan_x_preferred":[
+        "Atl\u00e1ntico"
+    ],
+    "name:nld_x_preferred":[
         "Atl\u00e1ntico"
     ],
     "name:nno_x_preferred":[
@@ -157,9 +179,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a\u043e"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0679\u0644\u0627\u0646\u0679\u06cc\u06a9\u0648 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -173,7 +192,7 @@
     "name:que_x_preferred":[
         "Atl\u00e1ntico suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Atl\u00e1ntico"
     ],
     "name:rus_x_preferred":[
@@ -188,7 +207,7 @@
     "name:sin_x_preferred":[
         "\u0d87\u0da7\u0dca\u0dbd\u0db1\u0dca\u0da7\u0dd2\u0d9a\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Atl\u00e1ntico"
     ],
     "name:spa_x_preferred":[
@@ -199,7 +218,7 @@
         "Atl\u00e1ntico"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b9f\u0bcd\u0bb2\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf\u0b95\u0bcb  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b85\u0b9f\u0bcd\u0bb2\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf\u0b95\u0bcb \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c1f\u0c4d\u0c32\u0c3e\u0c02\u0c1f\u0c3f\u0c15\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -207,17 +226,20 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Atl\u00e1ntico"
     ],
+    "name:tgl_x_variant":[
+        "Atl\u00e1ntico"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e15\u0e41\u0e25\u0e19\u0e15\u0e34\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e15\u0e25\u0e31\u0e19\u0e15\u0e34\u0e42\u0e01"
     ],
     "name:tur_x_preferred":[
         "Atl\u00e1ntico"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043b\u0430\u043d\u0442\u0456\u043a\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Departamento del Atl\u00e1ntico"
     ],
     "name:urd_x_preferred":[
         "\u0627\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9\u0648 \u0645\u062d\u06a9\u0645\u06c1"
@@ -230,6 +252,9 @@
     ],
     "name:yor_x_preferred":[
         "Atl\u00e1ntico Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u897f\u6d0b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -303,9 +328,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"3,388",
     "statoids:area_mi":"1,308",
     "statoids:as_of_date":"2005-05-22",
@@ -330,12 +355,15 @@
         "gp:id":2345050,
         "hasc:id":"CO.AT",
         "iso:id":"CO-ATL",
-        "qs:id":890036,
+        "qs_pg:id":890036,
         "unlc:id":"CO-ATL",
         "wd:id":"Q230882",
         "wk:page":"Atl\u00e1ntico Department"
     },
     "wof:country":"CO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e96bef7e77b488e185ba947a3f02088d",
     "wof:hierarchy":[
         {
@@ -345,20 +373,16 @@
         }
     ],
     "wof:id":85670207,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1578514004,
+    "wof:lastmodified":1582393590,
     "wof:name":"Atl\u00e1ntico",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":2112001,
     "wof:population_rank":12,

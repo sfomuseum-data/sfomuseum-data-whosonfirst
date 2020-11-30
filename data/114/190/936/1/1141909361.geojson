@@ -4,24 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.083546,-22.570006,17.083546,-22.570006",
-    "geom:latitude":-22.570006,
-    "geom:longitude":17.083546,
+    "geom:area":0.01305,
+    "geom:area_square_m":149020221.444653,
+    "geom:bbox":"16.9982615622,-22.6407398432,17.1304356077,-22.45716479",
+    "geom:latitude":-22.554844,
+    "geom:longitude":17.066512,
     "iso:country":"NA",
     "lbl:latitude":-22.570006,
     "lbl:longitude":17.083546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
     ],
     "name:afr_x_preferred":[
         "Windhoek"
-    ],
-    "name:alb_x_preferred":[
-        "Uindhuk"
     ],
     "name:amh_x_preferred":[
         "\u12ca\u1295\u12f5\u1201\u12ad"
@@ -29,17 +30,14 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u062f\u0647\u0648\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0576\u0564\u0570\u0578\u0582\u056f"
+    "name:ast_x_preferred":[
+        "Wind\u1e25oek"
     ],
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0646\u062f\u0647\u0648\u06a9"
     ],
     "name:aze_x_preferred":[
         "Vindhuk"
-    ],
-    "name:baq_x_preferred":[
-        "Windhoek"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043d\u0434\u0445\u0443\u043a"
@@ -68,22 +66,22 @@
     "name:cat_x_preferred":[
         "Windhoek"
     ],
+    "name:cdo_x_preferred":[
+        "Windhoek"
+    ],
+    "name:ceb_x_preferred":[
+        "Windhoek"
+    ],
     "name:ces_x_preferred":[
         "Windhoek"
     ],
     "name:che_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6e29\u5f97\u548c\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0648\u06cc\u0646\u062f\u06be\u06c6\u06a9"
     ],
     "name:cym_x_preferred":[
-        "Windhoek"
-    ],
-    "name:cze_x_preferred":[
         "Windhoek"
     ],
     "name:dan_x_preferred":[
@@ -98,7 +96,7 @@
     "name:deu_x_variant":[
         "Windhuk"
     ],
-    "name:dut_x_preferred":[
+    "name:dsb_x_preferred":[
         "Windhoek"
     ],
     "name:ell_x_preferred":[
@@ -131,17 +129,11 @@
     "name:fra_x_preferred":[
         "Windhoek"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Windhoek"
     ],
     "name:fry_x_preferred":[
         "Wynhoeke"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10dc\u10d3\u10f0\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Windhoek"
     ],
     "name:gla_x_preferred":[
         "Windhoek"
@@ -152,14 +144,20 @@
     "name:glg_x_preferred":[
         "Windhoek"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bd\u03c4\u03c7\u03bf\u03c5\u03ba"
+    "name:grn_x_preferred":[
+        "Vind\u00fake"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aa8\u0acd\u0aa1\u0ab9\u0acb\u0a95"
     ],
+    "name:hak_x_preferred":[
+        "Windhoek"
+    ],
     "name:hat_x_preferred":[
         "Windo\u00e8k"
+    ],
+    "name:hau_x_preferred":[
+        "Windhoek"
     ],
     "name:hbs_x_preferred":[
         "Windhoek"
@@ -182,13 +180,13 @@
     "name:hye_x_preferred":[
         "\u054e\u056b\u0576\u0564\u0570\u0578\u0582\u056f"
     ],
-    "name:ice_x_preferred":[
-        "Windhoek"
-    ],
     "name:ido_x_preferred":[
         "Windhoek"
     ],
     "name:ile_x_preferred":[
+        "Windhoek"
+    ],
+    "name:ina_x_preferred":[
         "Windhoek"
     ],
     "name:ind_x_preferred":[
@@ -215,6 +213,12 @@
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10dc\u10d3\u10f0\u10e3\u10d9\u10d8"
     ],
+    "name:kbd_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
+    ],
+    "name:kbp_x_preferred":[
+        "Find\u0254k\u0269"
+    ],
     "name:kir_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
     ],
@@ -230,7 +234,13 @@
     "name:lav_x_preferred":[
         "Vindhuka"
     ],
+    "name:lij_x_preferred":[
+        "Windhoek"
+    ],
     "name:lim_x_preferred":[
+        "Windhoek"
+    ],
+    "name:lin_x_preferred":[
         "Windhoek"
     ],
     "name:lit_x_preferred":[
@@ -242,14 +252,11 @@
     "name:ltz_x_preferred":[
         "Windhoek"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
+    "name:mal_x_preferred":[
+        "\u0d35\u0d3f\u0d7b\u0d21\u0d4d\u0d39\u0d4b\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0935\u093f\u0902\u0921\u0939\u094b\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Windhoek"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
@@ -262,6 +269,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Windhoek"
     ],
     "name:nah_x_preferred":[
         "Windhoek"
@@ -305,9 +315,6 @@
     "name:pdc_x_preferred":[
         "Windhoek"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u062f\u0647\u0648\u06a9"
-    ],
     "name:pms_x_preferred":[
         "Windhoek"
     ],
@@ -323,10 +330,10 @@
     "name:por_x_variant":[
         "Vinduque"
     ],
-    "name:ron_x_preferred":[
-        "Windhoek"
+    "name:pus_x_preferred":[
+        "\u0648\u06cc\u0646\u062f\u0647\u0648\u06a9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Windhoek"
     ],
     "name:rus_x_preferred":[
@@ -339,9 +346,6 @@
         "\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca\u0dc4\u0ddd\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Windhoek"
-    ],
-    "name:slo_x_preferred":[
         "Windhoek"
     ],
     "name:slv_x_preferred":[
@@ -374,6 +378,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0bcb\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u04bb\u0443\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c02\u0c22\u0c4b\u0c15\u0c4d"
     ],
@@ -386,9 +393,6 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e19\u0e14\u0e4c\u0e2e\u0e38\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f5d\u0f72\u0f53\u0f0b\u0f4c\u0f72\u0f0b\u0f67\u0f7c\u0f61\u0f72\u0f40\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Windhoek"
     ],
@@ -397,9 +401,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u0434\u0433\u0443\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Windhuk"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0646\u0688\u06c1\u0648\u06a9"
@@ -423,9 +424,6 @@
         "Windhoek"
     ],
     "name:war_x_preferred":[
-        "Windhoek"
-    ],
-    "name:wel_x_preferred":[
         "Windhoek"
     ],
     "name:wuu_x_preferred":[
@@ -544,8 +542,10 @@
     "ne:min_zoom":5.0,
     "reversegeo:latitude":-22.570006,
     "reversegeo:longitude":17.083546,
-    "sfomuseum:placetype":"city",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
     "wof:belongsto":[
         102191573,
         85632535,
@@ -556,13 +556,18 @@
     "wof:concordances":{
         "gn:id":3352136,
         "gp:id":1466719,
-        "qs:id":1295775,
         "qs_pg:id":95392,
         "wd:id":"Q3935"
     },
+    "wof:concordances_alt":{
+        "qs_pg:id":1295775
+    },
     "wof:country":"NA",
     "wof:created":1499131068,
-    "wof:geomhash":"2118e57960da07430af3dd61514f5f8b",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"91345436fba9595964034ae96009cb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -572,7 +577,7 @@
         }
     ],
     "wof:id":1141909361,
-    "wof:lastmodified":1606163428,
+    "wof:lastmodified":1582351981,
     "wof:name":"Windhoek",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",
@@ -584,10 +589,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.083546,
-    -22.570006,
-    17.083546,
-    -22.570006
+    16.99826156222907,
+    -22.64073984324049,
+    17.13043560766198,
+    -22.45716478997883
 ],
-  "geometry": {"coordinates":[17.083546,-22.570006],"type":"Point"}
+  "geometry": {"coordinates":[[[17.07641074076266,-22.45716478997883],[17.0815074263192,-22.46061887917242],[17.08286654246761,-22.46313088997294],[17.08490521669023,-22.46815477496484],[17.08490521669023,-22.47757406828836],[17.08762344898705,-22.48699272095157],[17.08898256513546,-22.4954689604096],[17.09204057646938,-22.50425858619709],[17.09136101839518,-22.51398930600844],[17.09034168128387,-22.52623020638676],[17.09951571528564,-22.52968257196191],[17.10427262180508,-22.53721470641089],[17.10834997025031,-22.54945354851978],[17.11582510906656,-22.55510187881282],[17.12364002691992,-22.56294639833557],[17.12907649151357,-22.56702537214544],[17.13043560766198,-22.57737914826157],[17.13043560766198,-22.5823988809261],[17.12805715440226,-22.58930071469374],[17.11786378328918,-22.60341702456637],[17.11650466714077,-22.60686745790724],[17.11684444617787,-22.61125879338688],[17.11956267847469,-22.61659094087867],[17.11956267847469,-22.62223651878618],[17.11514555099236,-22.62600010861552],[17.1069908541019,-22.63007721465676],[17.09985549432274,-22.63164530016251],[17.08728366994994,-22.63352697915225],[17.08558477476443,-22.63760386190359],[17.08524499572733,-22.64042624832819],[17.07878919402238,-22.64073984324049],[17.07335272942874,-22.64011265270001],[17.06893560194641,-22.63823106389776],[17.06655714868669,-22.63415419975652],[17.06655714868669,-22.63133168449267],[17.06723670676089,-22.62756824063521],[17.06621736964959,-22.62631373645056],[17.06281957927856,-22.62631373645056],[17.05908200987043,-22.62411832657955],[17.0539853243139,-22.62004104380839],[17.04990797586866,-22.6150226836618],[17.04651018549763,-22.61282709351757],[17.04379195320082,-22.60906314316725],[17.04277261608951,-22.60529908984115],[17.04277261608951,-22.60153493355268],[17.04277261608951,-22.59871174877538],[17.04345217416371,-22.59463371298562],[17.04447151127502,-22.59275150187922],[17.04447151127502,-22.58930071469374],[17.04345217416371,-22.58490867867327],[17.03903504668138,-22.58365378551553],[17.03189968690222,-22.58177142434466],[17.03223946593933,-22.57863409857273],[17.03223946593933,-22.57486921335218],[17.03189968690222,-22.57079047162943],[17.02952123364251,-22.56326016983573],[17.02680300134569,-22.56388771069413],[17.02442454808597,-22.56388771069413],[17.02102675771494,-22.56388771069413],[17.01830852541812,-22.56357394062193],[17.0152505140842,-22.56451524869655],[17.01219250275028,-22.56545655034514],[17.00981404949056,-22.56514278384295],[17.00641625911953,-22.56357394062193],[17.00267868971141,-22.56263262612145],[17.00471736393402,-22.55949486471377],[17.00641625911953,-22.55384671428725],[17.00641625911953,-22.54757072037174],[17.00471736393402,-22.54223590111873],[17.00030023645169,-22.53752853643041],[16.99826156222907,-22.52999641909914],[17.0016593526001,-22.52246389099449],[17.00403780585982,-22.51650034832841],[17.00845493334215,-22.51022265699969],[17.00913449141635,-22.50049167210756],[17.00981404949056,-22.4954689604096],[17.01083338660187,-22.49138787288687],[17.01694940926971,-22.48762060834493],[17.02408476904887,-22.48793455097347],[17.02510410616017,-22.49232967299864],[17.02544388519727,-22.49735249866675],[17.02986101267961,-22.49860817659155],[17.03597703534745,-22.49798033905386],[17.03665659342166,-22.49138787288687],[17.04277261608951,-22.48793455097347],[17.04990797586866,-22.48887637458641],[17.05194665009128,-22.48510904168188],[17.05670355661071,-22.48071369037098],[17.06485825350117,-22.48071369037098],[17.07063449713192,-22.47726010216481],[17.07267317135453,-22.47506231936903],[17.06995493905772,-22.45842083237212],[17.07641074076266,-22.45716478997883]]],"type":"Polygon"}
 }

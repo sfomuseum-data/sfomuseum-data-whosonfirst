@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.06694,
     "lbl:longitude":14.460249,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":50.06694,
     "mps:longitude":14.460249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ady_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
@@ -25,9 +28,6 @@
     ],
     "name:aka_x_preferred":[
         "Prague"
-    ],
-    "name:alb_x_preferred":[
-        "Praga"
     ],
     "name:amh_x_preferred":[
         "\u1355\u122b\u130d"
@@ -41,11 +41,11 @@
     "name:arc_x_preferred":[
         "\u0726\u072a\u0713"
     ],
+    "name:arc_x_variant":[
+        "\u0726\u072a\u0710\u0713"
+    ],
     "name:arg_x_preferred":[
         "Praga"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0561\u0570\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0627\u062c"
@@ -53,14 +53,17 @@
     "name:ast_x_preferred":[
         "Praga"
     ],
+    "name:ava_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0631\u0627\u0642\u0627"
     ],
     "name:aze_x_preferred":[
         "Praqa"
     ],
-    "name:baq_x_preferred":[
-        "Praga"
+    "name:bak_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:bar_x_preferred":[
         "Prag"
@@ -80,6 +83,9 @@
     "name:bod_x_preferred":[
         "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a"
     ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Prag"
     ],
@@ -89,23 +95,20 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u101b\u1000\u103a\u1002\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Praga"
     ],
     "name:cdo_x_preferred":[
         "Prague"
     ],
+    "name:ceb_x_preferred":[
+        "Praga"
+    ],
     "name:ces_x_preferred":[
         "Praha"
     ],
     "name:che_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u683c"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
@@ -131,10 +134,10 @@
     "name:cym_x_variant":[
         "Prag"
     ],
-    "name:cze_x_preferred":[
-        "Praha"
-    ],
     "name:dan_x_preferred":[
+        "Prag"
+    ],
+    "name:deu_ch_x_preferred":[
         "Prag"
     ],
     "name:deu_x_preferred":[
@@ -146,11 +149,14 @@
     "name:dsb_x_preferred":[
         "Praha"
     ],
-    "name:dut_x_preferred":[
-        "Praag"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03ac\u03b3\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Prague"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Prague"
     ],
     "name:eng_x_colloquial":[
         "City of a Hundred Spires"
@@ -185,9 +191,6 @@
     "name:fra_x_preferred":[
         "Prague"
     ],
-    "name:fre_x_preferred":[
-        "Prague"
-    ],
     "name:frr_x_preferred":[
         "Prag"
     ],
@@ -200,12 +203,6 @@
     "name:gag_x_preferred":[
         "Praga"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d0\u10e6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Prag"
-    ],
     "name:gla_x_preferred":[
         "Pr\u00e0g"
     ],
@@ -215,11 +212,11 @@
     "name:glg_x_preferred":[
         "Praga"
     ],
+    "name:glk_x_preferred":[
+        "\u067e\u0631\u0627\u06af"
+    ],
     "name:glv_x_preferred":[
         "Praag"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03ac\u03b3\u03b1"
     ],
     "name:grn_x_preferred":[
         "Praga"
@@ -260,11 +257,11 @@
     "name:hun_x_preferred":[
         "Pr\u00e1ga"
     ],
-    "name:hun_x_variant":[
-        "Pr\u00e1ga"
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0561\u0570\u0561"
     ],
-    "name:ice_x_preferred":[
-        "Prag"
+    "name:hyw_x_preferred":[
+        "\u0553\u0580\u0561\u056f\u0561"
     ],
     "name:ido_x_preferred":[
         "Praha"
@@ -311,6 +308,9 @@
     "name:kaz_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Praag\u0269"
+    ],
     "name:khm_x_preferred":[
         "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u1794\u17d2\u179a\u17b6\u1780"
     ],
@@ -334,6 +334,9 @@
     ],
     "name:lad_x_preferred":[
         "Praga"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9b\u0ea3\u0eb2\u0e81"
     ],
     "name:lat_x_preferred":[
         "Praga"
@@ -362,31 +365,28 @@
     "name:lrc_x_preferred":[
         "\u067e\u0631\u0627\u06af"
     ],
+    "name:ltg_x_preferred":[
+        "Praga"
+    ],
     "name:ltz_x_preferred":[
         "Prag"
     ],
     "name:lzh_x_preferred":[
         "\u5e03\u62c9\u683c"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0430\u0433\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4d\u0d30\u0d3e\u0d17\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Prague"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u093e\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Praha"
     ],
     "name:mdf_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:mhr_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430"
+    ],
+    "name:mkd_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:mlg_x_preferred":[
@@ -397,6 +397,15 @@
     ],
     "name:mon_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Prague"
+    ],
+    "name:msa_x_preferred":[
+        "Praha"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u101b\u1000\u103a\u1002\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430 \u043e\u0448"
@@ -470,9 +479,6 @@
     "name:pdc_x_preferred":[
         "Prag"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0627\u06af"
-    ],
     "name:pms_x_preferred":[
         "Praga"
     ],
@@ -480,6 +486,9 @@
         "\u067e\u0631\u0627\u06af"
     ],
     "name:pol_x_preferred":[
+        "Praga"
+    ],
+    "name:por_br_x_preferred":[
         "Praga"
     ],
     "name:por_x_preferred":[
@@ -503,9 +512,6 @@
     "name:rue_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Praga"
-    ],
     "name:rup_x_preferred":[
         "Praga"
     ],
@@ -514,6 +520,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c68\u1c5f\u1c5c\u1c69\u1c63\u1c6e \u1c6b\u1c64\u1c65\u1c5a\u1c62"
     ],
     "name:scn_x_preferred":[
         "Praga"
@@ -528,9 +537,6 @@
         "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Praha"
-    ],
-    "name:slo_x_preferred":[
         "Praha"
     ],
     "name:slv_x_preferred":[
@@ -584,11 +590,11 @@
     "name:tgl_x_preferred":[
         "Prague"
     ],
+    "name:tgl_x_variant":[
+        "Praga"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e32\u0e01"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Praga"
@@ -629,9 +635,6 @@
     "name:war_x_preferred":[
         "Praga"
     ],
-    "name:wel_x_preferred":[
-        "Prag"
-    ],
     "name:wol_x_preferred":[
         "Prag"
     ],
@@ -650,12 +653,110 @@
     "name:yue_x_preferred":[
         "\u5e03\u62c9\u683c"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u5e03\u62c9\u683c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u62c9\u683c"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u683c"
     ],
     "name:zul_x_preferred":[
         "IPraha"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Czech Republic",
+    "ne:ADM0_A3":"CZE",
+    "ne:ADM1NAME":"Prague",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":"Prague",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":308.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":4548393,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Prague",
+    "ne:GN_POP":2087,
+    "ne:GTOPO30":306.0,
+    "ne:ISO_A2":"CZ",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":50.083337,
+    "ne:LONGITUDE":14.46598,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Prague",
+    "ne:MAX_AREAKM":317.0,
+    "ne:MAX_AREAMI":122.0,
+    "ne:MAX_BBXMAX":14.616667,
+    "ne:MAX_BBXMIN":14.266667,
+    "ne:MAX_BBYMAX":50.183333,
+    "ne:MAX_BBYMIN":49.95,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":249.0,
+    "ne:MAX_PERMI":155.0,
+    "ne:MAX_POP10":1115771,
+    "ne:MAX_POP20":1115771,
+    "ne:MAX_POP300":1115771,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1115771,
+    "ne:MEAN_BBXC":14.445557,
+    "ne:MEAN_BBYC":50.073451,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Praha",
+    "ne:MIN_AREAKM":317.0,
+    "ne:MIN_AREAMI":122.0,
+    "ne:MIN_BBXMAX":14.616667,
+    "ne:MIN_BBXMIN":14.266667,
+    "ne:MIN_BBYMAX":50.183333,
+    "ne:MIN_BBYMIN":49.95,
+    "ne:MIN_PERKM":249.0,
+    "ne:MIN_PERMI":155.0,
+    "ne:NAME":"Prague",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Prague",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"Praha",
+    "ne:NATSCALE":200,
+    "ne:NOTE":null,
+    "ne:POP1950":935,
+    "ne:POP1955":967,
+    "ne:POP1960":1001,
+    "ne:POP1965":1038,
+    "ne:POP1970":1076,
+    "ne:POP1975":1126,
+    "ne:POP1980":1179,
+    "ne:POP1985":1197,
+    "ne:POP1990":1212,
+    "ne:POP1995":1194,
+    "ne:POP2000":1172,
+    "ne:POP2005":1164,
+    "ne:POP2010":1162,
+    "ne:POP2015":1160,
+    "ne:POP2020":1159,
+    "ne:POP2025":1159,
+    "ne:POP2050":1159,
+    "ne:POP_MAX":1162000,
+    "ne:POP_MIN":2087,
+    "ne:POP_OTHER":1088042,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":2,
+    "ne:SOV0NAME":"Czech Republic",
+    "ne:SOV_A3":"CZE",
+    "ne:TIMEZONE":"America/Chicago",
+    "ne:UN_ADM0":"Czech Republic",
+    "ne:UN_FID":173,
+    "ne:UN_LAT":50.1,
+    "ne:UN_LONG":14.45,
+    "ne:WORLDCITY":1,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -668,12 +769,11 @@
     "qs:pop":0,
     "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -689,11 +789,13 @@
         "gn:id":3067696,
         "gp:id":796597,
         "nyt:id":"N32788936541921050931",
-        "qs:id":1145175,
         "qs_pg:id":1145175,
         "wd:id":"Q1085"
     },
     "wof:country":"CZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00c7bea3c9ed78dee89d257d50d60d86",
     "wof:hierarchy":[
         {
@@ -707,13 +809,15 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1606163468,
+    "wof:lastmodified":1587428741,
+    "wof:megacity":1,
     "wof:name":"Praha",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",
     "wof:population":1165581,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:scale":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

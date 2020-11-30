@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.853146,
-    "geom:area_square_m":8022264620.094707,
+    "geom:area_square_m":8022264358.759026,
     "geom:bbox":"-4.579076,39.88472,-3.052983,41.165845",
     "geom:latitude":40.49507,
     "geom:longitude":-3.717014,
@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Madrid"
     ],
@@ -24,15 +27,13 @@
     ],
     "lbl:latitude":40.508857,
     "lbl:longitude":-3.767864,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.508857,
     "mps:longitude":-3.767864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:alb_x_preferred":[
-        "Komuniteti i Madridit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0645\u062f\u0631\u064a\u062f"
     ],
@@ -42,17 +43,14 @@
     "name:arg_x_preferred":[
         "Madrid"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0564\u0580\u056b\u0564"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0642\u0644\u064a\u0645 \u0645\u062f\u0631\u064a\u062f"
     ],
     "name:ast_x_preferred":[
         "Madrid"
     ],
-    "name:baq_x_preferred":[
-        "Madrilgo Erkidegoa"
+    "name:aze_x_preferred":[
+        "Madrid c\u0259miyy\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u0430\u045e\u0442\u0430\u043d\u043e\u043c\u043d\u0430\u044f \u0441\u0443\u043f\u043e\u043b\u044c\u043d\u0430\u0441\u0446\u044c \u041c\u0430\u0434\u0440\u044b\u0434"
@@ -73,14 +71,17 @@
         "Prov\u00edncia de Madrid",
         "Comunitat de Madrid"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u5fb7\u91cc\u81ea\u6cbb\u533a"
+    "name:ces_x_preferred":[
+        "Madridsk\u00e9 autonomn\u00ed spole\u010denstv\u00ed"
     ],
     "name:cor_x_preferred":[
         "Madrid"
     ],
-    "name:cze_x_preferred":[
-        "Madridsk\u00e9 autonomn\u00ed spole\u010denstv\u00ed"
+    "name:crh_x_preferred":[
+        "Madrid"
+    ],
+    "name:cym_x_preferred":[
+        "Madrid"
     ],
     "name:dan_x_preferred":[
         "Madrid"
@@ -88,8 +89,14 @@
     "name:deu_x_preferred":[
         "Provinz Madrid"
     ],
-    "name:dut_x_preferred":[
-        "Madrid"
+    "name:deu_x_variant":[
+        "Autonome Gemeinschaft Madrid"
+    ],
+    "name:diq_x_preferred":[
+        "Madrid metropolitan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Madrid"
@@ -107,8 +114,14 @@
     "name:eus_x_preferred":[
         "Madril"
     ],
+    "name:eus_x_variant":[
+        "Madrilgo Erkidegoa"
+    ],
     "name:ext_x_preferred":[
         "Comunid\u00e1 de Mairil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062f\u0631\u06cc\u062f"
     ],
     "name:fin_x_preferred":[
         "Madrid"
@@ -116,7 +129,7 @@
     "name:fra_x_preferred":[
         "Province de Madrid"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "communaut\u00e9 de Madrid"
     ],
     "name:frp_x_preferred":[
@@ -128,20 +141,11 @@
     "name:fry_x_preferred":[
         "Madrid"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d3\u10e0\u10d8\u10d3\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Autonome Gemeinschaft Madrid"
-    ],
     "name:gle_x_preferred":[
         "Comhphobal Mhaidrid"
     ],
     "name:glg_x_preferred":[
         "Madrid"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05e8\u05d9\u05d3"
@@ -152,14 +156,20 @@
     "name:hun_x_preferred":[
         "Madrid tartom\u00e1ny"
     ],
-    "name:ice_x_preferred":[
-        "Madr\u00edd"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0564\u0580\u056b\u0564"
     ],
     "name:ina_x_preferred":[
         "Communitate Autonome Madrid"
     ],
     "name:ind_x_preferred":[
         "Madrid"
+    ],
+    "name:isl_x_preferred":[
+        "Madr\u00edd"
+    ],
+    "name:isl_x_variant":[
+        "Sj\u00e1lfstj\u00f3rnarh\u00e9ra\u00f0i\u00f0 Madr\u00edd"
     ],
     "name:ita_x_preferred":[
         "comunit\u00e0 di Madrid"
@@ -170,6 +180,9 @@
     "name:jpn_x_variant":[
         "\u30de\u30c9\u30ea\u30c3\u30c9",
         "\u30de\u30c9\u30ea\u30fc\u30c9\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d3\u10e0\u10d8\u10d3\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
@@ -186,6 +199,9 @@
     "name:lav_x_preferred":[
         "Madride"
     ],
+    "name:lfn_x_preferred":[
+        "Comunia Madrid"
+    ],
     "name:lim_x_preferred":[
         "Madrid"
     ],
@@ -195,17 +211,20 @@
     "name:ltz_x_preferred":[
         "Autonom Gemeinschaft Madrid"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0434\u0440\u0438\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0926\u094d\u0930\u093f\u0926"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0438\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Madrid"
     ],
     "name:nah_x_preferred":[
         "Cem\u0101xc\u0101y\u014dtl Madrid"
+    ],
+    "name:nld_x_preferred":[
+        "Madrid"
     ],
     "name:nno_x_preferred":[
         "Regionen Madrid"
@@ -225,9 +244,6 @@
     "name:pam_x_preferred":[
         "Madrid"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u062f\u0631\u06cc\u062f"
-    ],
     "name:pms_x_preferred":[
         "Comunit\u00e0 \u00ebd Madrid"
     ],
@@ -240,7 +256,7 @@
     "name:que_x_preferred":[
         "Madrid suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Madrid"
     ],
     "name:rus_x_preferred":[
@@ -252,7 +268,7 @@
     "name:sco_x_preferred":[
         "Commonty o Madrid"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Madridsk\u00e9 spolo\u010denstvo"
     ],
     "name:slv_x_preferred":[
@@ -267,6 +283,9 @@
     "name:spa_x_variant":[
         "Comunidad de Madrid",
         "Provincia de Madrid"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuniteti i Madridit"
     ],
     "name:srd_x_preferred":[
         "Comunidade de Madrid"
@@ -292,8 +311,11 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0438\u0434"
     ],
-    "name:unk_x_variant":[
-        "Community of Madrid"
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062f\u0631\u062f \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Madrid"
     ],
     "name:vie_x_preferred":[
         "C\u1ed9ng \u0111\u1ed3ng Madrid"
@@ -301,11 +323,14 @@
     "name:war_x_preferred":[
         "Comunidad de Madrid"
     ],
-    "name:wel_x_preferred":[
-        "Madrid"
-    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d3\u10e0\u10d8\u10d3\u10d8\u10e8 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10d0\u10d9\u10dd\u10d0\u10e0\u10d7\u10d0\u10e4\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u5fb7\u91cc\u81ea\u6cbb\u5340"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5fb7\u91cc\u81ea\u6cbb\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ESP",
@@ -372,12 +397,11 @@
     "qs:adm0_a3":"ESP",
     "qs:level":"adm1",
     "qs:source":"Spain IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-11-01",
+    "src:population_date":"2011-11-01",
     "statoids:area_km":"7,995",
     "statoids:area_mi":"3,087",
     "statoids:as_of_date":"2011-11-01",
@@ -399,6 +423,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":11413,
         "fips:code":"SP29",
         "gn:id":6355233,
         "gp:id":12578024,
@@ -428,11 +453,10 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1606163348,
+    "wof:lastmodified":1583882756,
     "wof:name":"Madrid",
     "wof:parent_id":404227387,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous community",
     "wof:population":6421874,
     "wof:population_rank":13,

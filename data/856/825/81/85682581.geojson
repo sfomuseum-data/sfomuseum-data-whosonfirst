@@ -5,19 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37172,
-    "geom:area_square_m":2590792428.030847,
+    "geom:area_square_m":2590792632.937321,
     "geom:bbox":"11.839983,54.988136,15.153891,56.130417",
     "geom:latitude":55.690155,
     "geom:longitude":12.895162,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Region Hovedstaden"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
     "label:eng_x_preferred_longname":[
-        "Hovedstaden Region"
+        "Capital Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HS"
+    ],
     "lbl:latitude":55.921416,
     "lbl:longitude":12.31882,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.921416,
     "mps:longitude":12.31882,
     "mz:hierarchy_label":1,
@@ -27,14 +37,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0647\u0648\u0641\u062f\u0633\u062a\u0627\u062f\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0575\u0580\u0561\u0584\u0561\u0572\u0561\u0584\u0561\u0575\u056b\u0576 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:ast_x_preferred":[
         "Rex\u00f3n Capital"
-    ],
-    "name:baq_x_preferred":[
-        "Hovedstaden"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043b\u0456\u0447\u043d\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -51,33 +55,36 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Hovedstaden"
     ],
+    "name:ceb_x_preferred":[
+        "Region Hovedstaden"
+    ],
+    "name:ces_x_preferred":[
+        "Hovedstaden"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u044c\u0440\u0442\u0430 \u0433\u04c0\u0430\u043b\u0438\u043d \u0440\u0435\u0433\u0438\u043e\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u9996\u90fd\u5927\u533a"
     ],
     "name:cor_x_preferred":[
         "Region Hovedstaden"
     ],
-    "name:cze_x_preferred":[
-        "Hovedstaden"
-    ],
     "name:dan_x_preferred":[
-        "Region Hovedstaden"
+        "Hovedstaden"
     ],
     "name:dan_x_variant":[
-        "Hovedstaden"
+        "Region Hovedstaden"
     ],
-    "name:dut_x_preferred":[
-        "Hoofdstad"
+    "name:deu_x_preferred":[
+        "Region Hovedstaden"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0394\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Hovedstaden"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital Region",
-        "Capital",
+        "Hovedstaden",
         "Capital Region of Denmark"
     ],
     "name:epo_x_preferred":[
@@ -86,16 +93,19 @@
     "name:est_x_preferred":[
         "Pealinna piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Hovedstaden"
+    ],
     "name:fao_x_preferred":[
         "Regi\u00f3n H\u00f8vu\u00f0ssta\u00f0urin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0648\u062f\u0633\u062a\u0627\u062f\u0646"
     ],
     "name:fin_x_preferred":[
         "P\u00e4\u00e4kaupunkialue"
     ],
     "name:fra_x_preferred":[
-        "Hovedstaden"
-    ],
-    "name:fre_x_preferred":[
         "Hovedstaden"
     ],
     "name:frr_x_preferred":[
@@ -104,17 +114,8 @@
     "name:fry_x_preferred":[
         "Hovedstaden"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Region Hovedstaden"
-    ],
     "name:glv_x_preferred":[
         "Ard Preeu-valjagh ny Danvarg"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0394\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0aae\u0abe\u0ab0\u0acd\u0a95\u0aa8\u0acb \u0a95\u0ac7\u0aaa\u0abf\u0a9f\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -128,11 +129,14 @@
     "name:hun_x_preferred":[
         "Hovedstaden r\u00e9gi\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i Danmerkur"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0575\u0580\u0561\u0584\u0561\u0572\u0561\u0584\u0561\u0575\u056b\u0576 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Region Hovedstaden"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i Danmerkur"
     ],
     "name:ita_x_preferred":[
         "Hovedstaden"
@@ -142,6 +146,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca1\u0cc6\u0ca8\u0ccd\u0cae\u0cbe\u0cb0\u0ccd\u0c95\u0ccd\u0ca8 \u0cb0\u0cbe\u0c9c\u0ca7\u0cbe\u0ca8\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u043e\u0431\u043b\u044b\u0441"
@@ -158,17 +165,20 @@
     "name:lit_x_preferred":[
         "Sostin\u0117s regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u043b\u0435\u043c \u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0928\u094d\u092e\u093e\u0930\u094d\u0915\u091a\u093e \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c \u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Region Hovedstaden"
     ],
     "name:nds_x_preferred":[
         "H\u00f6\u00f6ftstadt-Region"
+    ],
+    "name:nld_x_preferred":[
+        "Hoofdstad"
     ],
     "name:nno_x_preferred":[
         "Region Hovedstaden"
@@ -182,20 +192,20 @@
     "name:oss_x_preferred":[
         "\u0421\u00e6\u0439\u0440\u0430\u0433 \u0441\u0430\u0445\u0430\u0440\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0648\u062f\u0633\u062a\u0627\u062f\u0646"
-    ],
     "name:pol_x_preferred":[
         "Region Sto\u0142eczny"
     ],
     "name:por_x_preferred":[
         "Regi\u00e3o da Capital"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Hovedstaden"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0432\u0435\u0434\u0441\u0442\u0430\u0434\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:sco_x_preferred":[
         "Caipital Region o Denmark"
@@ -203,7 +213,7 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dca \u0d85\u0d9c \u0db1\u0d9c\u0dbb\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hovedstaden"
     ],
     "name:sme_x_preferred":[
@@ -221,8 +231,11 @@
     "name:swe_x_preferred":[
         "Huvudstadsregionen"
     ],
+    "name:swe_x_variant":[
+        "Region Hovedstaden"
+    ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
+        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d \u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -241,6 +254,12 @@
     ],
     "name:vie_x_preferred":[
         "V\u00f9ng th\u1ee7 \u0111\u00f4 \u0110an M\u1ea1ch"
+    ],
+    "name:vls_x_preferred":[
+        "Hovedstaden"
+    ],
+    "name:zho_x_preferred":[
+        "\u9996\u90fd\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DNK",
@@ -310,12 +329,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Region",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-01-01",
+    "src:population_date":"2005-01-01",
     "statoids:area_km":"2,561",
     "statoids:area_mi":"989",
     "statoids:as_of_date":"2005-01-01",
@@ -337,6 +355,7 @@
         85688377
     ],
     "wof:concordances":{
+        "digitalenvoy:region_code":25023,
         "fips:code":"DA17",
         "gn:id":6418538,
         "gp:id":28362583,
@@ -363,11 +382,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1606163370,
-    "wof:name":"Hovedstaden",
+    "wof:lastmodified":1583882730,
+    "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1631635,
     "wof:population_rank":12,

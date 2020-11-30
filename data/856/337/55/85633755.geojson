@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2006-05~/2006-06~",
     "geom:area":8.732641,
-    "geom:area_square_m":77363038790.826599,
+    "geom:area_square_m":77363038790.826492,
     "geom:bbox":"18.847686,42.232174,23.005835,46.190048",
     "geom:latitude":44.23001,
     "geom:longitude":20.793595,
@@ -16,14 +16,22 @@
     "itu:country_code":[
         "381"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":44.251791,
     "lbl:longitude":20.589197,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":44.251791,
     "mps:longitude":20.589197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "S\u00e8rbia"
     ],
@@ -32,6 +40,9 @@
     ],
     "name:afr_x_preferred":[
         "Serwi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Serbia"
     ],
     "name:als_x_preferred":[
         "Serbien"
@@ -57,11 +68,17 @@
     "name:arg_x_preferred":[
         "Serbia"
     ],
+    "name:ary_x_preferred":[
+        "\u0635\u0631\u0628\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0635\u064a\u0631\u0628\u064a\u0627"
     ],
     "name:ast_x_preferred":[
         "Serbia"
+    ],
+    "name:ava_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0438\u044f"
     ],
     "name:aym_x_preferred":[
         "Sirwiya"
@@ -74,6 +91,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0438\u044f"
+    ],
+    "name:ban_x_preferred":[
+        "S\u00e9rbia"
     ],
     "name:bar_x_preferred":[
         "Serbien"
@@ -92,6 +112,12 @@
     ],
     "name:ben_x_variant":[
         "\u09b8\u09be\u09b0\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0633\u0631\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u0930\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Serbia"
@@ -132,6 +158,9 @@
     "name:ces_x_preferred":[
         "Srbsko"
     ],
+    "name:cha_x_preferred":[
+        "Serbia"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0438"
     ],
@@ -165,14 +194,17 @@
     "name:cym_x_preferred":[
         "Serbia"
     ],
-    "name:cze_x_preferred":[
-        "Srbsko"
-    ],
     "name:dan_x_preferred":[
         "Serbien"
     ],
     "name:dan_x_variant":[
         "Serbia"
+    ],
+    "name:deu_at_x_preferred":[
+        "Serbien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Serbien"
     ],
     "name:deu_x_preferred":[
         "Serbien"
@@ -186,8 +218,20 @@
     "name:dsb_x_preferred":[
         "Serbiska"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u0930\u094d\u092c\u093f\u092f\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03c1\u03b2\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "S\u00e8rbia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Serbia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Serbia"
     ],
     "name:eng_x_preferred":[
         "Serbia"
@@ -237,8 +281,14 @@
     "name:ful_x_preferred":[
         "Serbiya"
     ],
+    "name:fur_x_preferred":[
+        "Serbie"
+    ],
     "name:gag_x_preferred":[
         "Serbiya"
+    ],
+    "name:gcr_x_preferred":[
+        "S\u00e8rbi"
     ],
     "name:gla_x_preferred":[
         "An t-S\u00e8irb"
@@ -258,8 +308,14 @@
     "name:gom_x_preferred":[
         "\u0938\u0930\u094d\u092c\u093f\u092f\u093e"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf31\ud800\udf3e\ud800\udf30"
+    ],
     "name:grn_x_preferred":[
         "Sevia"
+    ],
+    "name:gsw_x_preferred":[
+        "Serbie"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab0\u0acd\u0aac\u0abf\u0aaf\u0abe"
@@ -300,8 +356,14 @@
     "name:hye_x_preferred":[
         "\u054d\u0565\u0580\u0562\u056b\u0561"
     ],
+    "name:ibo_x_preferred":[
+        "Serbia"
+    ],
     "name:ido_x_preferred":[
         "Serbia"
+    ],
+    "name:iku_x_preferred":[
+        "\u14f0\u1550\u1431\u140a"
     ],
     "name:ile_x_preferred":[
         "Serbia"
@@ -348,6 +410,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0cb0\u0ccd\u0cac\u0cbf\u0caf\u0cbe"
     ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0cc6\u0cb0\u0ccd\u0cac\u0cbf\u0caf"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e0\u10d1\u10d4\u10d7\u10d8"
     ],
@@ -359,6 +424,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0438\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "S\u025b\u025bribii"
     ],
     "name:kin_x_preferred":[
         "Seribiya"
@@ -405,6 +473,9 @@
     "name:lez_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Serbia"
+    ],
     "name:lij_x_preferred":[
         "Serbia"
     ],
@@ -416,6 +487,9 @@
     ],
     "name:lit_x_preferred":[
         "Serbija"
+    ],
+    "name:liv_x_preferred":[
+        "Serbij"
     ],
     "name:lmo_x_preferred":[
         "Serbia"
@@ -434,6 +508,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u585e\u723e\u7dad\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0930\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d7c\u0d2c\u0d3f\u0d2f"
@@ -468,6 +545,9 @@
     "name:msa_x_preferred":[
         "Serbia"
     ],
+    "name:mwl_x_preferred":[
+        "S\u00e9rbia"
+    ],
     "name:mya_x_preferred":[
         "\u1006\u102c\u1038\u1018\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
@@ -480,8 +560,14 @@
     "name:mzn_x_preferred":[
         "\u0635\u0631\u0628\u0633\u062a\u0648\u0646"
     ],
+    "name:nah_x_preferred":[
+        "Serbia"
+    ],
     "name:nan_x_preferred":[
         "Srbija"
+    ],
+    "name:nan_x_variant":[
+        "Serbia"
     ],
     "name:nap_x_preferred":[
         "Serbia"
@@ -564,6 +650,9 @@
     "name:pol_x_preferred":[
         "Serbia"
     ],
+    "name:por_br_x_preferred":[
+        "S\u00e9rvia"
+    ],
     "name:por_x_colloquial":[
         "Servia"
     ],
@@ -585,6 +674,9 @@
     "name:rue_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0456\u044f"
     ],
+    "name:rup_x_preferred":[
+        "S\u00e3rghia"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0438\u044f"
     ],
@@ -593,6 +685,9 @@
     ],
     "name:san_x_preferred":[
         "\u0938\u0930\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5a\u1c68\u1c75\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Serbia"
@@ -605,6 +700,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dbb\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0dc3\u0dd9\u0dbb\u0dd3\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Srbsko"
@@ -624,6 +722,9 @@
     "name:som_x_preferred":[
         "Seerbiya"
     ],
+    "name:som_x_variant":[
+        "Serbia"
+    ],
     "name:sot_x_preferred":[
         "Serbia"
     ],
@@ -638,6 +739,12 @@
     ],
     "name:srn_x_preferred":[
         "Srbiyakondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Srbija"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0440\u0431\u0438\u0458\u0430"
@@ -660,6 +767,9 @@
     "name:szl_x_preferred":[
         "Syrbijo"
     ],
+    "name:szy_x_preferred":[
+        "Serbia"
+    ],
     "name:tah_x_preferred":[
         "Terepia"
     ],
@@ -681,6 +791,9 @@
     "name:tgl_x_preferred":[
         "Serbiya"
     ],
+    "name:tgl_x_variant":[
+        "Serbia"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e40\u0e1a\u0e35\u0e22"
     ],
@@ -692,6 +805,9 @@
     ],
     "name:tpi_x_preferred":[
         "Sebia"
+    ],
+    "name:tso_x_preferred":[
+        "Serbia"
     ],
     "name:tuk_x_preferred":[
         "Serbi\u00fda"
@@ -705,14 +821,14 @@
     "name:twi_x_preferred":[
         "Serbia"
     ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0633\u06d0\u0631\u0628\u0649\u064a\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0431\u0456\u044f"
-    ],
-    "name:und_x_preferred":[
-        "Srbija"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0628\u06cc\u0627"
@@ -738,8 +854,14 @@
     "name:vol_x_preferred":[
         "S\u00e4rb\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Serbi\u00e4"
+    ],
     "name:war_x_preferred":[
         "Serbia"
+    ],
+    "name:wln_x_preferred":[
+        "Serbeye"
     ],
     "name:wol_x_preferred":[
         "Seerbi"
@@ -765,15 +887,26 @@
     "name:zea_x_preferred":[
         "Servi\u00eb"
     ],
+    "name:zha_x_preferred":[
+        "Serbia"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u585e\u5c14\u7ef4\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u585e\u723e\u7dad\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Srbija"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u585e\u723e\u7dad\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u585e\u5c14\u7ef4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u585e\u723e\u7dad\u4e9e",
-        "\u585e\u5c14\u7ef4\u4e9a"
+        "\u585e\u723e\u7dad\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u585e\u723e\u7dad\u4e9e"
@@ -857,14 +990,12 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"381",
     "statoids:ds":"SRB",
@@ -892,6 +1023,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Serbia",
+        "digitalenvoy:country_code":688,
         "fb:id":"en.serbia",
         "fifa:id":"SRB",
         "fips:code":"RI",
@@ -908,7 +1040,7 @@
         "mzb:id":"serbia",
         "ne:adm0_a3":"SRB",
         "nyt:id":"66220958978684887041",
-        "qs:id":617161,
+        "qs_pg:id":617161,
         "uncrt:id":"SRB",
         "wd:id":"Q403",
         "wk:page":"Serbia",
@@ -916,6 +1048,11 @@
     },
     "wof:country":"RS",
     "wof:country_alpha3":"SRB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"a9463a591347ca4def6955a030499a03",
     "wof:hierarchy":[
         {
@@ -924,9 +1061,6 @@
         }
     ],
     "wof:id":85633755,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
@@ -938,7 +1072,7 @@
         "slk",
         "ukr"
     ],
-    "wof:lastmodified":1606163326,
+    "wof:lastmodified":1587427386,
     "wof:name":"Serbia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

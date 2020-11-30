@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.212404,
-    "geom:area_square_m":301023856224.573303,
+    "geom:area_square_m":301023856224.574585,
     "geom:bbox":"6.627119,35.492485,18.52052,47.092426",
     "geom:latitude":42.794534,
     "geom:longitude":12.076598,
@@ -14,8 +14,13 @@
     "itu:country_code":[
         "39"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IT"
+    ],
     "lbl:latitude":45.003229,
     "lbl:longitude":11.083693,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":45.003229,
     "mps:longitude":11.083693,
     "mz:hierarchy_label":1,
@@ -70,6 +75,9 @@
     "name:arg_x_preferred":[
         "Italia"
     ],
+    "name:ary_x_preferred":[
+        "\u0637\u0627\u0644\u064a\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u064a\u0637\u0627\u0644\u064a\u0627"
     ],
@@ -81,6 +89,9 @@
     ],
     "name:ast_x_preferred":[
         "Italia"
+    ],
+    "name:ava_x_preferred":[
+        "\u0418\u0442\u0430\u043b\u0438\u044f"
     ],
     "name:aym_x_preferred":[
         "Italiya"
@@ -97,6 +108,9 @@
     "name:bam_x_preferred":[
         "Itali"
     ],
+    "name:ban_x_preferred":[
+        "Italia"
+    ],
     "name:bar_x_preferred":[
         "Italien"
     ],
@@ -106,17 +120,23 @@
     "name:bel_x_preferred":[
         "\u0406\u0442\u0430\u043b\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u0406\u0442\u0430\u043b\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09a4\u09be\u09b2\u09bf"
     ],
     "name:ben_x_variant":[
         "\u0987\u09a4\u09be\u09b2\u09c0"
     ],
+    "name:bgn_x_preferred":[
+        "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u0907\u091f\u0932\u0940"
+    ],
     "name:bis_x_preferred":[
         "Itali"
+    ],
+    "name:bis_x_variant":[
+        "Italy"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f4f\u0f0b\u0f63\u0f72\u0f0d"
@@ -143,6 +163,9 @@
     "name:bxr_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438"
     ],
+    "name:bxr_x_variant":[
+        "\u0418\u0442\u0430\u0430\u043b\u0438"
+    ],
     "name:cat_x_preferred":[
         "It\u00e0lia"
     ],
@@ -166,6 +189,9 @@
     ],
     "name:chr_x_preferred":[
         "\u13a2\u13d4\u13b5"
+    ],
+    "name:chr_x_variant":[
+        "\u13a2\u13d4\u13b5\u13f1"
     ],
     "name:chu_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0457\ua657"
@@ -200,10 +226,13 @@
     "name:cym_x_preferred":[
         "Yr Eidal"
     ],
-    "name:cze_x_preferred":[
-        "It\u00e1lie"
-    ],
     "name:dan_x_preferred":[
+        "Italien"
+    ],
+    "name:deu_at_x_preferred":[
+        "Italien"
+    ],
+    "name:deu_ch_x_preferred":[
         "Italien"
     ],
     "name:deu_x_preferred":[
@@ -221,6 +250,9 @@
     "name:dsb_x_preferred":[
         "Italska"
     ],
+    "name:dty_x_preferred":[
+        "\u0907\u091f\u093e\u0932\u0940"
+    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f80\u0f4a\u0f0b\u0f63\u0f72\u0f0b"
     ],
@@ -229,6 +261,15 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "It\u00e2glia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Italy"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Italy"
     ],
     "name:eng_x_preferred":[
         "Italy"
@@ -264,11 +305,17 @@
     "name:ext_x_preferred":[
         "Italia"
     ],
+    "name:ext_x_variant":[
+        "It\u00e1lia"
+    ],
     "name:fao_x_preferred":[
         "Italia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+    ],
+    "name:fij_x_preferred":[
+        "Italia"
     ],
     "name:fin_x_preferred":[
         "Italia"
@@ -309,6 +356,9 @@
     "name:gan_x_preferred":[
         "\u610f\u5927\u5229"
     ],
+    "name:gcr_x_preferred":[
+        "Itali"
+    ],
     "name:gla_x_preferred":[
         "An Eadailt"
     ],
@@ -329,6 +379,9 @@
     ],
     "name:grn_x_preferred":[
         "It\u00e1lia"
+    ],
+    "name:gsw_x_preferred":[
+        "Italie"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a9f\u0ab2\u0ac0"
@@ -378,6 +431,12 @@
     "name:hye_x_preferred":[
         "\u053b\u057f\u0561\u056c\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u053b\u057f\u0561\u056c\u056b\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Italy"
+    ],
     "name:ido_x_preferred":[
         "Italia"
     ],
@@ -401,6 +460,9 @@
     ],
     "name:ind_x_variant":[
         "Itali"
+    ],
+    "name:inh_x_preferred":[
+        "\u0418\u0442\u0430\u043b\u0438"
     ],
     "name:isl_x_preferred":[
         "\u00cdtal\u00eda"
@@ -452,8 +514,20 @@
     "name:kbd_x_preferred":[
         "\u0418\u0442\u0430\u043b\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0423\u0440\u044b\u043c"
+    ],
+    "name:kbp_x_preferred":[
+        "Itaalii"
+    ],
+    "name:kea_x_preferred":[
+        "It\u00e1lia"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17ca\u17b8\u178f\u17b6\u179b\u17b8"
+    ],
+    "name:khm_x_variant":[
+        "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a2\u17ca\u17b8\u178f\u17b6\u179b\u17b8"
     ],
     "name:kik_x_preferred":[
         "Itari"
@@ -478,9 +552,6 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\ud0dc\ub9ac",
-        "\uc774\ud0c8\ub9ac\uc544"
-    ],
-    "name:kor_x_variant":[
         "\uc774\ud0c8\ub9ac\uc544"
     ],
     "name:krc_x_preferred":[
@@ -513,6 +584,9 @@
     "name:lez_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Italia"
+    ],
     "name:lij_x_preferred":[
         "Italia"
     ],
@@ -528,11 +602,17 @@
     "name:lit_x_preferred":[
         "Italija"
     ],
+    "name:liv_x_preferred":[
+        "It\u0101\u013cm\u014d"
+    ],
     "name:lmo_x_preferred":[
         "It\u00e0lia"
     ],
     "name:lrc_x_preferred":[
         "\u0626\u06cc\u062a\u0627\u0644\u06cc\u0627"
+    ],
+    "name:lrc_x_variant":[
+        "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
     ],
     "name:ltg_x_preferred":[
         "Italeja"
@@ -545,6 +625,9 @@
     ],
     "name:lug_x_preferred":[
         "Yitale"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7fa9\u5927\u5229"
     ],
     "name:mai_x_preferred":[
         "\u0907\u091f\u0932\u0940"
@@ -597,6 +680,12 @@
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Italia"
+    ],
+    "name:nan_x_preferred":[
+        "\u00cd-t\u0101i-l\u012b"
+    ],
     "name:nap_x_preferred":[
         "Italia"
     ],
@@ -639,6 +728,9 @@
     "name:nov_x_preferred":[
         "Italia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07cc\u07d5\u07ca\u07df\u07cc\u07eb"
+    ],
     "name:nrm_x_preferred":[
         "Italie"
     ],
@@ -673,7 +765,8 @@
         "Italya"
     ],
     "name:pam_x_variant":[
-        "Italy"
+        "Italy",
+        "Italia"
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a1f\u0a32\u0a40"
@@ -689,6 +782,9 @@
     ],
     "name:pfl_x_preferred":[
         "Italien"
+    ],
+    "name:pfl_x_variant":[
+        "Idalje"
     ],
     "name:pih_x_preferred":[
         "Italii"
@@ -707,6 +803,9 @@
     ],
     "name:pol_x_preferred":[
         "W\u0142ochy"
+    ],
+    "name:por_br_x_preferred":[
+        "It\u00e1lia"
     ],
     "name:por_x_preferred":[
         "It\u00e1lia"
@@ -740,7 +839,11 @@
         "Ubutariyano"
     ],
     "name:run_x_variant":[
-        "Ubutaliyani"
+        "Ubutaliyani",
+        "Italya"
+    ],
+    "name:rup_x_preferred":[
+        "Italia"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f"
@@ -754,20 +857,32 @@
     "name:san_x_preferred":[
         "\u0907\u091f\u0932\u0940"
     ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c74\u1c5f\u1c5e\u1c64"
+    ],
     "name:scn_x_preferred":[
         "Italia"
     ],
     "name:sco_x_preferred":[
         "Italy"
     ],
+    "name:sgs_x_preferred":[
+        "Ital\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
     ],
     "name:slk_x_preferred":[
         "Taliansko"
     ],
     "name:slv_x_preferred":[
         "Italija"
+    ],
+    "name:sma_x_preferred":[
+        "Itaalia"
     ],
     "name:sme_x_preferred":[
         "It\u00e1lia"
@@ -808,6 +923,12 @@
     "name:srn_x_preferred":[
         "Italiyanikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0418\u0442\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Italija"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u0458\u0430"
     ],
@@ -832,6 +953,9 @@
     "name:szl_x_preferred":[
         "Italijo"
     ],
+    "name:szy_x_preferred":[
+        "Italy"
+    ],
     "name:tah_x_preferred":[
         "\u2019It\u0101ria"
     ],
@@ -840,6 +964,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c87\u0c9f\u0cb2\u0cbf"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c1f\u0c32\u0c40"
@@ -865,6 +992,10 @@
     "name:tir_x_preferred":[
         "\u1323\u120a\u12eb\u1295"
     ],
+    "name:tir_x_variant":[
+        "\u1323\u120d\u12eb\u1295",
+        "\u12a2\u1323\u120d\u12eb"
+    ],
     "name:ton_x_preferred":[
         "\u02bb\u012atali"
     ],
@@ -876,6 +1007,9 @@
     ],
     "name:tsn_x_preferred":[
         "Italia"
+    ],
+    "name:tso_x_preferred":[
+        "Ithali"
     ],
     "name:tuk_x_preferred":[
         "Itali\u00fda"
@@ -901,16 +1035,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0430\u043b\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Itaalia",
-        "It\u00e0lia",
-        "\u00cdtal\u00eda"
-    ],
     "name:und_x_variant":[
-        "Italija",
         "Italijanska republika",
-        "Ital\u00eda",
-        "Taliansko"
+        "Ital\u00eda"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0637\u0627\u0644\u06cc\u06c1"
@@ -945,6 +1072,9 @@
     "name:vol_x_preferred":[
         "Litaliy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Itaalia"
+    ],
     "name:war_x_preferred":[
         "Italya"
     ],
@@ -960,6 +1090,9 @@
     "name:xal_x_preferred":[
         "\u0418\u0442\u0430\u043b\u043c\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
     ],
+    "name:xho_x_preferred":[
+        "IItaly"
+    ],
     "name:xmf_x_preferred":[
         "\u10d8\u10e2\u10d0\u10da\u10d8\u10d0"
     ],
@@ -972,17 +1105,40 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Italiyi"
     ],
+    "name:yue_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
     "name:zea_x_preferred":[
         "It\u00e2li\u00eb"
     ],
+    "name:zha_x_preferred":[
+        "Eiqdaihleih"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
     "name:zho_min_nan_x_preferred":[
         "\u00cd-t\u0101i-l\u012b"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u610f\u5927\u5229"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7fa9\u5927\u5229"
     ],
     "name:zho_x_preferred":[
         "\u610f\u5927\u5229"
     ],
     "name:zho_x_variant":[
-        "\u610f\u5927\u5229",
         "\u7fa9\u5927\u5229"
     ],
     "name:zho_yue_x_preferred":[
@@ -1067,14 +1223,12 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"39",
     "statoids:ds":"I",
@@ -1104,6 +1258,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Italy",
+        "digitalenvoy:country_code":380,
         "fb:id":"en.italy",
         "fifa:id":"ITA",
         "fips:code":"IT",
@@ -1120,7 +1275,7 @@
         "mzb:id":"italy",
         "ne:adm0_a3":"ITA",
         "nyt:id":"55757685640197570561",
-        "qs:id":1031456,
+        "qs_pg:id":1031456,
         "uncrt:id":"I",
         "wd:id":"Q38",
         "wk:page":"Italy",
@@ -1128,6 +1283,11 @@
     },
     "wof:country":"IT",
     "wof:country_alpha3":"ITA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"1e1413b5a1b6388d5767da70e299ee8c",
     "wof:hierarchy":[
         {
@@ -1136,9 +1296,6 @@
         }
     ],
     "wof:id":85633253,
-    "wof:lang":[
-        "ita"
-    ],
     "wof:lang_x_official":[
         "ita"
     ],
@@ -1146,7 +1303,7 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1606163080,
+    "wof:lastmodified":1587427917,
     "wof:name":"Italy",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

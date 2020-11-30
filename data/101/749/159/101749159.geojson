@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049824,
-    "geom:area_square_m":347198677.394701,
+    "geom:area_square_m":347198677.394727,
     "geom:bbox":"12.31565,55.58452,12.682822,55.85101",
     "geom:latitude":55.697507,
     "geom:longitude":12.490749,
@@ -13,6 +13,8 @@
     "iso:country":"DK",
     "lbl:latitude":55.704438,
     "lbl:longitude":12.502119,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":55.704438,
     "mps:longitude":12.502119,
     "mz:hierarchy_label":1,
@@ -22,9 +24,6 @@
         "Kopenhagen"
     ],
     "name:afr_x_preferred":[
-        "Kopenhagen"
-    ],
-    "name:alb_x_preferred":[
         "Kopenhagen"
     ],
     "name:amh_x_preferred":[
@@ -42,11 +41,11 @@
     "name:arc_x_preferred":[
         "\u071f\u0718\u0726\u0722\u0717\u0713\u0722"
     ],
+    "name:arc_x_variant":[
+        "\u0729\u0718\u0726\u0722\u0717\u0710\u0713\u0722"
+    ],
     "name:arg_x_preferred":[
         "Copenaguen"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u057a\u0565\u0576\u0570\u0561\u0563\u0565\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u0628\u064a\u0646\u0647\u0627\u062c\u064a\u0646"
@@ -54,17 +53,26 @@
     "name:ast_x_preferred":[
         "Copenhague"
     ],
+    "name:ast_x_variant":[
+        "Copen\u1e25ague"
+    ],
+    "name:ava_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    ],
+    "name:aym_x_preferred":[
+        "Kobenhavn"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u067e\u06cc\u0646\u0647\u0627\u06af"
     ],
     "name:aze_x_preferred":[
         "Kopenhagen"
     ],
-    "name:baq_x_preferred":[
-        "Kopenhage"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u044d\u043d\u0433\u0430\u0433\u0435\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09aa\u09c7\u09a8\u09b9\u09be\u0997\u09c7\u09a8"
@@ -75,6 +83,9 @@
     "name:bod_x_preferred":[
         "\u0f40\u0f60\u0f7c\u0f0b\u0f54\u0f7a\u0f53\u0f0b\u0f67\u0f0b\u0f40\u0f7a\u0f53"
     ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f7c\u0f0b\u0f55\u0f7a\u0f53\u0f0b\u0f67\u0f0b\u0f40\u0f7a\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Kopenhagen"
     ],
@@ -84,8 +95,8 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u102d\u102f\u1015\u1004\u103a\u101f\u1031\u1002\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    "name:bxr_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043d\u04bb\u0430\u0433\u0435\u043d"
     ],
     "name:cat_x_preferred":[
         "Copenhaguen"
@@ -93,14 +104,14 @@
     "name:cdo_x_preferred":[
         "Copenhagen"
     ],
+    "name:ceb_x_preferred":[
+        "Copenhagen"
+    ],
     "name:ces_x_preferred":[
         "Koda\u0148"
     ],
     "name:che_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
     ],
     "name:chu_x_preferred":[
         "\u041a\u043e\u0431\u0454\u043d\u0445\u0430\u0432\u043d\u044a"
@@ -120,11 +131,11 @@
     "name:csb_x_preferred":[
         "K\u00f2penhaga"
     ],
+    "name:cym_x_preferred":[
+        "Copenhagen"
+    ],
     "name:cze_x_colloquial":[
         "Kodan"
-    ],
-    "name:cze_x_preferred":[
-        "Koda\u0148"
     ],
     "name:dan_x_colloquial":[
         "Kobenhavn",
@@ -145,14 +156,17 @@
     "name:dty_x_preferred":[
         "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
     ],
-    "name:dut_x_preferred":[
-        "Kopenhagen"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c0\u03b5\u03b3\u03c7\u03ac\u03b3\u03b7"
     ],
     "name:eml_x_preferred":[
         "Cupen\u00e0ghen"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Copenhagen"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Copenhagen"
     ],
     "name:eng_x_colloquial":[
         "Kj\u00f8ben",
@@ -185,6 +199,9 @@
     "name:fao_x_preferred":[
         "Keypmannahavn"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u067e\u0646\u0647\u0627\u06af"
+    ],
     "name:fin_x_colloquial":[
         "Koopenhaminan"
     ],
@@ -198,9 +215,6 @@
     "name:fra_x_preferred":[
         "Copenhague"
     ],
-    "name:fre_x_preferred":[
-        "Copenhague"
-    ],
     "name:frr_x_preferred":[
         "Kopenhuuwen"
     ],
@@ -208,12 +222,6 @@
         "Kopenhagen"
     ],
     "name:gag_x_preferred":[
-        "Kopenhagen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10de\u10d4\u10dc\u10f0\u10d0\u10d2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kopenhagen"
     ],
     "name:gla_x_preferred":[
@@ -225,11 +233,11 @@
     "name:glg_x_preferred":[
         "Copenhaguen - K\u00f8benhavn"
     ],
+    "name:glg_x_variant":[
+        "Copenhague"
+    ],
     "name:glv_x_preferred":[
         "K\u00f8benhavn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c0\u03b5\u03b3\u03c7\u03ac\u03b3\u03b7"
     ],
     "name:grn_x_preferred":[
         "Kopenihage"
@@ -245,6 +253,9 @@
     ],
     "name:hat_x_preferred":[
         "Kop\u00e8nag"
+    ],
+    "name:hau_x_preferred":[
+        "Kwapanhagan"
     ],
     "name:hbs_x_preferred":[
         "Kopenhagen"
@@ -276,8 +287,8 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u057a\u0565\u0576\u0570\u0561\u0563\u0565\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Kaupmannah\u00f6fn"
+    "name:hyw_x_preferred":[
+        "\u0554\u0578\u0583\u0568\u0576\u0570\u0561\u056f\u0568\u0576"
     ],
     "name:ido_x_preferred":[
         "K\u00f8benhavn"
@@ -345,6 +356,9 @@
     "name:lav_x_preferred":[
         "Kopenh\u0101gena"
     ],
+    "name:lfn_x_preferred":[
+        "Kobenhavn"
+    ],
     "name:lij_x_preferred":[
         "Copenaghen"
     ],
@@ -366,20 +380,14 @@
     "name:ltz_x_preferred":[
         "Kopenhagen"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4b\u0d2a\u0d4d\u0d2a\u0d7b\u0d39\u0d47\u0d17\u0d7b"
-    ],
-    "name:mao_x_preferred":[
-        "Copenhagen"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
     ],
-    "name:may_x_preferred":[
-        "Kopenhagen"
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
     ],
     "name:mlg_x_preferred":[
         "Kaopenagy"
@@ -389,6 +397,15 @@
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Copenhagen"
+    ],
+    "name:msa_x_preferred":[
+        "Kopenhagen"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u102d\u102f\u1015\u1004\u103a\u101f\u1031\u1002\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d \u043e\u0448"
@@ -459,9 +476,6 @@
     "name:pap_x_preferred":[
         "Kopenhagen"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u067e\u0646\u0647\u0627\u06af"
-    ],
     "name:pih_x_preferred":[
         "Copenhagen"
     ],
@@ -473,6 +487,9 @@
     ],
     "name:pol_x_preferred":[
         "Kopenhaga"
+    ],
+    "name:por_br_x_preferred":[
+        "Copenhague"
     ],
     "name:por_x_preferred":[
         "Copenhaga"
@@ -488,9 +505,6 @@
     ],
     "name:rue_x_preferred":[
         "\u041a\u043e\u0434\u0430\u043d\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Copenhaga"
     ],
     "name:rup_x_preferred":[
         "Copenhagen"
@@ -519,9 +533,6 @@
     "name:slk_x_preferred":[
         "Koda\u0148"
     ],
-    "name:slo_x_preferred":[
-        "Koda\u0148"
-    ],
     "name:slv_x_preferred":[
         "Kobenhaven"
     ],
@@ -531,6 +542,9 @@
     ],
     "name:sme_x_preferred":[
         "K\u00f8benh\u00e1mman"
+    ],
+    "name:sme_x_variant":[
+        "K\u00f8benh\u00e1pman"
     ],
     "name:sna_x_preferred":[
         "Copenhagen"
@@ -543,6 +557,9 @@
     ],
     "name:spa_x_preferred":[
         "Copenhague"
+    ],
+    "name:sqi_x_preferred":[
+        "Kopenhagen"
     ],
     "name:srd_x_preferred":[
         "Copenaghen"
@@ -584,9 +601,6 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e40\u0e1b\u0e19\u0e40\u0e2e\u0e40\u0e01\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f7c\u0f0b\u0f55\u0f7a\u0f53\u0f0b\u0f67\u0f0b\u0f40\u0f7a\u0f53\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Kopengagen"
     ],
@@ -602,10 +616,13 @@
     "name:uig_x_preferred":[
         "\u0643\u0648\u067e\u06d0\u0646\u06be\u0627\u06af\u06d0\u0646"
     ],
+    "name:uig_x_variant":[
+        "Kop\u00e9nhag\u00e9n"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kjobenhavn"
     ],
     "name:urd_x_preferred":[
@@ -638,14 +655,14 @@
     "name:war_x_preferred":[
         "Copenhagen"
     ],
-    "name:wel_x_preferred":[
-        "Copenhagen"
-    ],
     "name:wln_x_preferred":[
         "Copenh\u00e5gue"
     ],
     "name:wol_x_preferred":[
         "Kopenagen"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54e5\u672c\u54c8\u6839"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10de\u10d4\u10dc\u10f0\u10d0\u10d2\u10d4\u10dc\u10d8"
@@ -661,6 +678,12 @@
     ],
     "name:zea_x_preferred":[
         "Kopenagen"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u54e5\u672c\u54c8\u6839"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u54e5\u672c\u54c8\u6839"
     ],
     "name:zho_x_preferred":[
         "\u54e5\u672c\u54c8\u6839"
@@ -769,12 +792,11 @@
     "qs:pop":0,
     "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.676111,
     "wd:longitude":12.568889,
@@ -782,8 +804,8 @@
     "wd:wordcount":15928,
     "wof:belongsto":[
         102191581,
-        1159297727,
         85633121,
+        1159297727,
         85682581
     ],
     "wof:breaches":[],
@@ -795,12 +817,14 @@
         "gn:id":2618425,
         "gp:id":554890,
         "nyt:id":"N76963119569157704581",
-        "qs:id":779939,
         "qs_pg:id":779939,
         "wd:id":"Q1748",
         "wk:page":"Copenhagen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b588ba44c8999dc480023aa2c06c7654",
     "wof:hierarchy":[
         {
@@ -815,7 +839,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1606163456,
+    "wof:lastmodified":1587428785,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1971-12-02",
     "geom:area":5.349687,
-    "geom:area_square_m":60581876606.696815,
+    "geom:area_square_m":60581876318.814117,
     "geom:bbox":"51.497112,22.631514,56.018126,25.251249",
     "geom:latitude":23.671457,
     "geom:longitude":54.043919,
@@ -403,7 +403,6 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Emirate",
-    "sfomuseum:placetype":"region",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -430,6 +429,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25152,
         "fips:code":"AE01",
         "gn:id":292969,
         "gp:id":2347109,
@@ -441,6 +441,9 @@
         "wk:page":"Emirate of Abu Dhabi"
     },
     "wof:country":"AE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe08d7860e14aff28960d3bdec56d406",
     "wof:hierarchy":[
         {
@@ -456,7 +459,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1606163288,
+    "wof:lastmodified":1583882639,
     "wof:name":"Abu Dhabi",
     "wof:parent_id":85632573,
     "wof:placetype":"region",

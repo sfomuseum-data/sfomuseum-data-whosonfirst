@@ -6,18 +6,19 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-157.859944,21.308822,-157.859944,21.308822",
+    "geom:bbox":"-157.859943745,21.3088223021,-157.859943745,21.3088223021",
     "geom:latitude":21.308822,
     "geom:longitude":-157.859944,
     "iso:country":"US",
+    "lbl:bbox":"-157.879943745,21.2888223021,-157.839943745,21.3288223021",
     "lbl:latitude":21.308822,
     "lbl:longitude":-157.859944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
-        "Honolulu"
-    ],
-    "name:alb_x_preferred":[
         "Honolulu"
     ],
     "name:amh_x_preferred":[
@@ -29,22 +30,25 @@
     "name:arg_x_preferred":[
         "Honolulu"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0576\u0578\u056c\u0578\u0582\u056c\u0578\u0582"
-    ],
     "name:arz_x_preferred":[
         "\u0647\u0648\u0646\u0648\u0644\u0648\u0644\u0648"
     ],
     "name:ast_x_preferred":[
         "Honolulu"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0646\u0648\u0644\u0648\u0644\u0648"
+    ],
     "name:aze_x_preferred":[
         "Honolulu"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Honolulu"
     ],
     "name:bar_x_preferred":[
+        "Honolulu"
+    ],
+    "name:bcl_x_preferred":[
         "Honolulu"
     ],
     "name:bel_x_preferred":[
@@ -56,6 +60,9 @@
     "name:bis_x_preferred":[
         "Honolulu"
     ],
+    "name:bod_x_preferred":[
+        "\u0f67\u0f7c\u0f0b\u0f53\u0f7c\u0f0b\u0f63\u0f74\u0f0b\u0f63\u0f74\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Honolulu"
     ],
@@ -65,29 +72,35 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u043d\u043e\u043b\u0443\u043b\u0443"
     ],
-    "name:bur_x_preferred":[
-        "\u101f\u102d\u102f\u1014\u102d\u102f\u101c\u1030\u101c\u1030\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
+        "Honolulu"
+    ],
+    "name:ceb_x_preferred":[
+        "Honolulu"
+    ],
+    "name:ces_x_preferred":[
         "Honolulu"
     ],
     "name:cha_x_preferred":[
         "Honolulu"
     ],
-    "name:chi_x_preferred":[
-        "\u6a80\u9999\u5c71"
+    "name:cor_x_preferred":[
+        "Honolulu"
     ],
     "name:cos_x_preferred":[
         "Honolulu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Honolulu"
     ],
     "name:dan_x_preferred":[
         "Honolulu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Honolulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bd\u03bf\u03bb\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:eml_x_preferred":[
         "Honolulu"
@@ -98,7 +111,13 @@
     "name:epo_x_preferred":[
         "Honolulu"
     ],
+    "name:epo_x_variant":[
+        "Honoluluo"
+    ],
     "name:est_x_preferred":[
+        "Honolulu"
+    ],
+    "name:eus_x_preferred":[
         "Honolulu"
     ],
     "name:ext_x_preferred":[
@@ -107,22 +126,19 @@
     "name:fao_x_preferred":[
         "Honolulu"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0646\u0648\u0644\u0648\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Honolulu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Honolulu"
     ],
     "name:fry_x_preferred":[
         "Honolulu"
     ],
     "name:fur_x_preferred":[
-        "Honolulu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10dc\u10dd\u10da\u10e3\u10da\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "Honolulu"
     ],
     "name:gla_x_preferred":[
@@ -134,14 +150,14 @@
     "name:glg_x_preferred":[
         "Honolulu"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03bd\u03bf\u03bb\u03bf\u03c5\u03bb\u03bf\u03cd"
-    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aa8\u0acb\u0ab2\u0ac1\u0ab2\u0ac1"
     ],
     "name:hak_x_preferred":[
         "Th\u00e0n-hi\u00f4ng-s\u00e2n"
+    ],
+    "name:hau_x_preferred":[
+        "Honolulu"
     ],
     "name:haw_x_preferred":[
         "Honolulu"
@@ -158,8 +174,8 @@
     "name:hun_x_preferred":[
         "Honolulu"
     ],
-    "name:ice_x_preferred":[
-        "Honolulu"
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0576\u0578\u056c\u0578\u0582\u056c\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Honolulu"
@@ -176,6 +192,9 @@
     "name:ind_x_preferred":[
         "Honolulu"
     ],
+    "name:isl_x_preferred":[
+        "Honolulu"
+    ],
     "name:ita_x_preferred":[
         "Honolulu"
     ],
@@ -188,6 +207,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cca\u0ca8\u0cca\u0cb2\u0cc1\u0cb2\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10dc\u10dd\u10da\u10e3\u10da\u10e3"
+    ],
     "name:kik_x_preferred":[
         "Honolulu"
     ],
@@ -198,6 +220,9 @@
         "\ud638\ub180\ub8f0\ub8e8"
     ],
     "name:kur_x_preferred":[
+        "Honolulu"
+    ],
+    "name:lad_x_preferred":[
         "Honolulu"
     ],
     "name:lat_x_preferred":[
@@ -224,17 +249,14 @@
     "name:lzh_x_preferred":[
         "\u6a80\u9999\u5c71"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043d\u043e\u043b\u0443\u043b\u0443"
-    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d4b\u0d23\u0d4b\u0d32\u0d41\u0d32\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u0939\u094b\u0928\u094b\u0932\u0941\u0932\u0941"
     ],
-    "name:may_x_preferred":[
-        "Honolulu"
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u043d\u043e\u043b\u0443\u043b\u0443"
     ],
     "name:mlg_x_preferred":[
         "Honolulu"
@@ -245,8 +267,14 @@
     "name:mrj_x_preferred":[
         "\u0413\u043e\u043d\u043e\u043b\u0443\u043b\u0443"
     ],
+    "name:msa_x_preferred":[
+        "Honolulu"
+    ],
     "name:mwl_x_preferred":[
         "Honolulu"
+    ],
+    "name:mya_x_preferred":[
+        "\u101f\u102d\u102f\u1014\u102d\u102f\u101c\u1030\u101c\u1030\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Honolulu"
@@ -265,6 +293,9 @@
     ],
     "name:new_x_preferred":[
         "\u0939\u094b\u0928\u094b\u0932\u0941\u0932\u0941"
+    ],
+    "name:nld_x_preferred":[
+        "Honolulu"
     ],
     "name:nno_x_preferred":[
         "Honolulu"
@@ -299,8 +330,8 @@
     "name:pdc_x_preferred":[
         "Honolulu"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0646\u0648\u0644\u0648\u0644\u0648"
+    "name:pih_x_preferred":[
+        "Honolulu"
     ],
     "name:pli_x_preferred":[
         "\u0939\u094b\u0928\u093e\u0932\u0941\u0932\u0941"
@@ -320,7 +351,7 @@
     "name:roh_x_preferred":[
         "Honolulu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Honolulu"
     ],
     "name:rup_x_preferred":[
@@ -347,7 +378,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0db1\u0dbd\u0dd4\u0dbd\u0dd4"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Honolulu"
     ],
     "name:slv_x_preferred":[
@@ -360,6 +391,12 @@
         "Honolulu"
     ],
     "name:spa_x_preferred":[
+        "Honolulu"
+    ],
+    "name:sqi_x_preferred":[
+        "Honolulu"
+    ],
+    "name:srd_x_preferred":[
         "Honolulu"
     ],
     "name:srn_x_preferred":[
@@ -380,6 +417,9 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bca\u0ba9\u0bb2\u0bc1\u0bb2\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u043d\u043e\u043b\u0443\u043b\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c28\u0c4b\u0c32\u0c42\u0c32\u0c41"
     ],
@@ -388,9 +428,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e2e\u0e42\u0e19\u0e25\u0e39\u0e25\u0e39"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0f7c\u0f0b\u0f53\u0f7c\u0f0b\u0f63\u0f74\u0f0b\u0f63\u0f74\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Honolulu"
@@ -425,9 +462,6 @@
     "name:war_x_preferred":[
         "Honolulu"
     ],
-    "name:wel_x_preferred":[
-        "Honolulu"
-    ],
     "name:wuu_x_preferred":[
         "\u6a80\u9999\u5c71"
     ],
@@ -441,6 +475,9 @@
         "Honolulu"
     ],
     "name:yue_x_preferred":[
+        "\u6a80\u9999\u5c71"
+    ],
+    "name:zho_x_preferred":[
         "\u6a80\u9999\u5c71"
     ],
     "ne:ADM0CAP":0.0,
@@ -538,7 +575,6 @@
     "ne:min_zoom":4.0,
     "reversegeo:latitude":21.308822,
     "reversegeo:longitude":-157.859944,
-    "sfomuseum:placetype":"city",
     "src:geom":"naturalearth",
     "wof:belongsto":[
         102191575,
@@ -552,7 +588,7 @@
     },
     "wof:country":"US",
     "wof:created":1499131076,
-    "wof:geomhash":"4594beeca1968bb87e37c6b504f8e84c",
+    "wof:geomhash":"c4d2ca61c5049361dfa0858dd815b558",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -563,7 +599,7 @@
         }
     ],
     "wof:id":1141909415,
-    "wof:lastmodified":1606163428,
+    "wof:lastmodified":1566642996,
     "wof:name":"Honolulu",
     "wof:parent_id":102085417,
     "wof:placetype":"locality",
@@ -573,10 +609,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -157.859944,
-    21.308822,
-    -157.859944,
-    21.308822
+    -157.8599437447736,
+    21.30882230207396,
+    -157.8599437447736,
+    21.30882230207396
 ],
-  "geometry": {"coordinates":[-157.85994400000001,21.308822],"type":"Point"}
+  "geometry": {"coordinates":[-157.8599437447736,21.30882230207396],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063239,
-    "geom:area_square_m":664237242.230343,
+    "geom:area_square_m":664237242.230271,
     "geom:bbox":"-106.635922,31.621356,-106.213113,32.001481",
     "geom:latitude":31.8481,
     "geom:longitude":-106.432022,
@@ -454,7 +454,6 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -487,6 +486,9 @@
         "wk:page":"El Paso, Texas"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1353fa27326b6aa94682beeedf34dc0",
     "wof:hierarchy":[
         {
@@ -501,7 +503,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163470,
+    "wof:lastmodified":1582338085,
     "wof:megacity":1,
     "wof:name":"El Paso",
     "wof:parent_id":102085989,

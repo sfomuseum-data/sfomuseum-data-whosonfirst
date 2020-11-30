@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010314,
-    "geom:area_square_m":111112131.600597,
+    "geom:area_square_m":111111258.805636,
     "geom:bbox":"47.858488,29.309968,48.399464,29.473131",
     "geom:latitude":29.393852,
     "geom:longitude":48.147743,
@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KU"
+    ],
     "lbl:latitude":29.343205,
     "lbl:longitude":47.923531,
+    "lbl:min_zoom":8.0,
     "mps:latitude":29.343205,
     "mps:longitude":47.923531,
     "mz:hierarchy_label":1,
@@ -30,19 +34,23 @@
     ],
     "name:ara_x_variant":[
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u064e\u0644\u0652\u0639\u064e\u0627\u0635\u0650\u0645\u064e\u0629",
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c \u0531\u057d\u056b\u0574\u0561"
+    "name:ast_x_preferred":[
+        "Al Asimah"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0627\u0635\u0645\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b-\u0410\u0441\u0438\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5a01\u7279\u7701"
+    "name:ceb_x_preferred":[
+        "Al Asimah Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Al-Asimah"
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Al `Asimah"
@@ -51,9 +59,13 @@
         "Kuwait City",
         "Al Asimah",
         "Al Kuwayt",
-        "Al Asimah Governorate"
+        "Al Asimah Governorate",
+        "Capital Governorate"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u0627\u0635\u0645\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Al Asimah"
     ],
     "name:hrv_x_preferred":[
@@ -62,26 +74,44 @@
     "name:hun_x_preferred":[
         "F\u0151v\u00e1ros korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c \u0531\u057d\u056b\u0574\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Al-Asimah"
     ],
     "name:ita_x_preferred":[
         "Al-'asima"
     ],
+    "name:ita_x_variant":[
+        "Governatorato della Capitale"
+    ],
     "name:jpn_x_preferred":[
         "\u9996\u90fd\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30fc\u30b9\u30a3\u30de\u770c"
     ],
     "name:kor_x_preferred":[
         "\uc54c\uc544\uc2dc\ub9c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc218\ub3c4\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Al Asimos muchafaza"
     ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u0905\u0938\u093f\u092e\u093e\u0939 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Asimah"
+    ],
+    "name:nno_x_preferred":[
+        "Al Asimah guvernement"
+    ],
     "name:nob_x_preferred":[
         "Al Asimah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0639\u0627\u0635\u0645\u0647"
     ],
     "name:pol_x_preferred":[
         "Al-Asima"
@@ -98,17 +128,23 @@
     "name:spa_x_preferred":[
         "Capital"
     ],
+    "name:spa_x_variant":[
+        "Gobernaci\u00f3n Capital"
+    ],
     "name:swe_x_preferred":[
         "Al Asimahguvernementet"
     ],
     "name:tur_x_preferred":[
         "El Asime Valili\u011fi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Governorate of Metropolis"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0644\u0639\u0627\u0635\u0645\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5a01\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KWT",
@@ -178,12 +214,11 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-20",
+    "src:population_date":"2005-04-20",
     "statoids:area_km":"175",
     "statoids:area_mi":"68",
     "statoids:as_of_date":"2005-04-20",
@@ -197,19 +232,19 @@
     "statoids:timezone":"+3",
     "statoids:type":"governorate",
     "wd:wordcount":49,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632401
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25680,
         "fips:code":"KU02",
         "gn:id":285788,
         "gp:id":20070169,
         "hasc:id":"KW.KU",
         "iso:id":"KW-KU",
-        "qs:id":891476,
+        "qs_pg:id":891476,
         "wd:id":"Q1046645"
     },
     "wof:country":"KW",
@@ -222,20 +257,16 @@
         }
     ],
     "wof:id":85673383,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1606163349,
+    "wof:lastmodified":1583882880,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":254503,
     "wof:population_rank":10,

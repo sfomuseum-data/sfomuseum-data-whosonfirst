@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042119,
-    "geom:area_square_m":400348629.002486,
+    "geom:area_square_m":400348629.002552,
     "geom:bbox":"-105.109967,39.614311,-104.599581,39.914209",
     "geom:latitude":39.761978,
     "geom:longitude":-104.875779,
@@ -16,6 +16,8 @@
     "iso:country":"US",
     "lbl:latitude":39.740959,
     "lbl:longitude":-104.985798,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":39.741111,
     "mps:longitude":-104.986967,
     "mz:hierarchy_label":1,
@@ -24,17 +26,14 @@
     "name:afr_x_preferred":[
         "Denver"
     ],
-    "name:alb_x_preferred":[
-        "Denver"
-    ],
     "name:amh_x_preferred":[
         "\u12f0\u1295\u1268\u122d"
     ],
     "name:ara_x_preferred":[
         "\u062f\u0646\u0641\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0576\u057e\u0565\u0580"
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0646\u0641\u0631"
     ],
     "name:ast_x_preferred":[
         "Denver"
@@ -45,7 +44,7 @@
     "name:aze_x_preferred":[
         "Denver"
     ],
-    "name:baq_x_preferred":[
+    "name:bam_x_preferred":[
         "Denver"
     ],
     "name:bar_x_preferred":[
@@ -53,6 +52,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u044d\u043d\u0432\u0435\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u044d\u043d\u0432\u0435\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09ad\u09be\u09b0"
@@ -78,11 +80,14 @@
     "name:cdo_x_preferred":[
         "Denver"
     ],
+    "name:ceb_x_preferred":[
+        "Denver"
+    ],
+    "name:ces_x_preferred":[
+        "Denver"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0435\u043d\u0432\u0435\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e39\u4f5b"
     ],
     "name:chy_x_preferred":[
         "Denver"
@@ -93,7 +98,7 @@
     "name:cos_x_preferred":[
         "Denver"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Denver"
     ],
     "name:dan_x_preferred":[
@@ -102,13 +107,19 @@
     "name:deu_x_preferred":[
         "Denver"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Denver"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ad\u03bd\u03b2\u03b5\u03c1"
     ],
     "name:eml_x_preferred":[
+        "Denver"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Denver"
+    ],
+    "name:eng_gb_x_preferred":[
         "Denver"
     ],
     "name:eng_x_colloquial":[
@@ -146,13 +157,13 @@
     "name:fas_x_preferred":[
         "\u062f\u0646\u0648\u0631\u060c \u06a9\u0644\u0631\u0627\u062f\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u062f\u0646\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Denver"
     ],
     "name:fra_x_preferred":[
-        "Denver"
-    ],
-    "name:fre_x_preferred":[
         "Denver"
     ],
     "name:fry_x_preferred":[
@@ -160,12 +171,6 @@
     ],
     "name:gan_x_preferred":[
         "\u4e39\u4f5b"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10dc\u10d5\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Denver"
     ],
     "name:gla_x_preferred":[
         "Denver"
@@ -176,13 +181,16 @@
     "name:glg_x_preferred":[
         "Denver"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ad\u03bd\u03b2\u03b5\u03c1"
+    "name:got_x_preferred":[
+        "\ud800\udf33\ud800\udf30\ud800\udf39\ud800\udf3d\ud800\udf31\ud800\udf30\ud800\udf39\ud800\udf42"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0ab5\u0ab0"
     ],
     "name:hat_x_preferred":[
+        "Denver"
+    ],
+    "name:hau_x_preferred":[
         "Denver"
     ],
     "name:heb_x_preferred":[
@@ -200,9 +208,6 @@
     "name:hye_x_preferred":[
         "\u0534\u0565\u0576\u057e\u0565\u0580"
     ],
-    "name:ice_x_preferred":[
-        "Denver"
-    ],
     "name:ido_x_preferred":[
         "Denver"
     ],
@@ -219,6 +224,9 @@
         "Denver"
     ],
     "name:ind_x_preferred":[
+        "Denver"
+    ],
+    "name:isl_x_preferred":[
         "Denver"
     ],
     "name:ita_x_preferred":[
@@ -272,17 +280,11 @@
     "name:ltz_x_preferred":[
         "Denver"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0435\u043d\u0432\u0435\u0440"
-    ],
     "name:mal_x_preferred":[
         "\u0d21\u0d46\u0d7b\u0d35\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0928\u094d\u0935\u094d\u0939\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Denver"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0435\u043d\u0432\u0435\u0440"
@@ -295,6 +297,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0435\u043d\u0432\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Denver"
     ],
     "name:mwl_x_preferred":[
         "Denver"
@@ -313,6 +318,9 @@
     ],
     "name:new_x_preferred":[
         "\u0926\u0947\u0928\u094d\u092d\u0930"
+    ],
+    "name:new_x_variant":[
+        "\u0921\u0947\u0928\u094d\u092d\u0930"
     ],
     "name:nld_x_preferred":[
         "Denver"
@@ -341,9 +349,6 @@
     "name:pan_x_preferred":[
         "\u0a21\u0a48\u0a28\u0a35\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0646\u0648\u0631"
-    ],
     "name:pli_x_preferred":[
         "\u0921\u0947\u0928\u094d\u092d\u0930"
     ],
@@ -359,13 +364,13 @@
     "name:por_x_preferred":[
         "Denver"
     ],
+    "name:pus_x_preferred":[
+        "\u0689\u0646\u0648\u0631"
+    ],
     "name:que_x_preferred":[
         "Denver"
     ],
     "name:ron_x_preferred":[
-        "Denver"
-    ],
-    "name:rum_x_preferred":[
         "Denver"
     ],
     "name:rup_x_preferred":[
@@ -392,7 +397,7 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd9\u0db1\u0dca\u0dc0\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Denver"
     ],
     "name:slv_x_preferred":[
@@ -402,6 +407,9 @@
         "Denver"
     ],
     "name:spa_x_preferred":[
+        "Denver"
+    ],
+    "name:sqi_x_preferred":[
         "Denver"
     ],
     "name:srd_x_preferred":[
@@ -425,11 +433,17 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0ba9\u0bcd\u0bb5\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u043d\u0432\u0435\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c28\u0c4d\u0c35\u0c30\u0c4d"
     ],
     "name:tgl_x_preferred":[
         "Denber"
+    ],
+    "name:tgl_x_variant":[
+        "Denver"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c"
@@ -449,7 +463,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0432\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "The Spanish Diggings"
     ],
     "name:urd_x_preferred":[
@@ -471,9 +485,6 @@
         "Denver"
     ],
     "name:war_x_preferred":[
-        "Denver"
-    ],
-    "name:wel_x_preferred":[
         "Denver"
     ],
     "name:xmf_x_preferred":[
@@ -599,13 +610,12 @@
     "qs:type":"G4110",
     "reversegeo:latitude":39.740959,
     "reversegeo:longitude":-104.985798,
-    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":39.739167,
     "wd:longitude":-104.984722,
@@ -614,8 +624,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102086135
+        102086135,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -627,12 +637,15 @@
         "gp:id":2391279,
         "loc:id":"n79055157",
         "nyt:id":"21416322881006935701",
-        "qs:id":817425,
         "qs_pg:id":817425,
         "wd:id":"Q16554",
         "wk:page":"Denver"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1809b428eb2892bfd94269dbb6194d8",
     "wof:hierarchy":[
         {
@@ -647,7 +660,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163485,
+    "wof:lastmodified":1587428391,
     "wof:megacity":1,
     "wof:name":"Denver",
     "wof:parent_id":102086135,

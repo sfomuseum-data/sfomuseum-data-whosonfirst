@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1936",
     "geom:area":0.000232,
-    "geom:area_square_m":2202559.816546,
+    "geom:area_square_m":2202559.816549,
     "geom:bbox":"-84.232002,39.893002,-84.203606,39.909172",
     "geom:latitude":39.90197,
     "geom:longitude":-84.21876,
@@ -19,10 +19,8 @@
     "mps:longitude":-84.217362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4ee3\u9813\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
         "Dayton International Airport"
     ],
     "name:eng_x_preferred":[
@@ -33,14 +31,14 @@
         "KDAY",
         "Dayton International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u06cc\u062a\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Daytonin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Dayton"
-    ],
-    "name:ger_x_preferred":[
-        "Dayton International Airport"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Dayton"
@@ -48,8 +46,8 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30a4\u30c8\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u06cc\u062a\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Dayton International Airport"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Dayton"
@@ -60,16 +58,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Dayton"
     ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u9813\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"1009",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":234,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Dayton International Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589583,
@@ -111,7 +107,7 @@
         }
     ],
     "wof:id":102534301,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566608587,
     "wof:name":"James M Cox Dayton International Airport",
     "wof:parent_id":85833935,
     "wof:placetype":"campus",

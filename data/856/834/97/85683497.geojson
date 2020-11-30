@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012891,
-    "geom:area_square_m":104879575.912146,
+    "geom:area_square_m":104879575.91214,
     "geom:bbox":"2.224219,48.815754,2.469753,48.901973",
     "geom:latitude":48.856598,
     "geom:longitude":2.342778,
@@ -15,6 +15,18 @@
     ],
     "label:eng_x_preferred_placetype":[
         "department"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "VP"
+    ],
+    "label:fra_x_preferred_longname":[
+        "D\u00e9partement de Paris"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "d\u00e9partement"
+    ],
+    "label:fra_x_variant_longname":[
+        "d\u00e9partement de Paris"
     ],
     "lbl:latitude":48.85885,
     "lbl:longitude":2.340396,
@@ -36,9 +48,6 @@
     "name:aka_x_preferred":[
         "Paris"
     ],
-    "name:alb_x_preferred":[
-        "Parisi"
-    ],
     "name:als_x_preferred":[
         "Paris"
     ],
@@ -51,17 +60,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0633"
     ],
-    "name:ara_x_variant":[
-        "\u0628\u0627\u0631\u064a\u0633"
-    ],
     "name:arc_x_preferred":[
         "\u0726\u0710\u072a\u071d\u0723"
     ],
     "name:arg_x_preferred":[
         "Par\u00eds"
-    ],
-    "name:arm_x_preferred":[
-        "\u0553\u0561\u0580\u056b\u0566"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0633"
@@ -85,9 +88,6 @@
         "\u041f\u0430\u0440\u0438\u0436"
     ],
     "name:bam_x_preferred":[
-        "Paris"
-    ],
-    "name:baq_x_preferred":[
         "Paris"
     ],
     "name:bar_x_preferred":[
@@ -123,9 +123,6 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u102b\u101b\u102e\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0441"
     ],
@@ -144,14 +141,14 @@
     "name:ces_x_preferred":[
         "Pa\u0159\u00ed\u017e"
     ],
+    "name:ces_x_variant":[
+        "Par\u00ed\u017e"
+    ],
     "name:cha_x_preferred":[
         "Paris"
     ],
     "name:che_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u9ece"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436\u044c"
@@ -183,9 +180,6 @@
     "name:cze_x_colloquial":[
         "Pariz"
     ],
-    "name:cze_x_preferred":[
-        "Par\u00ed\u017e"
-    ],
     "name:cze_x_variant":[
         "Pa\u0159\u00ed\u017e"
     ],
@@ -203,9 +197,6 @@
     ],
     "name:dty_x_preferred":[
         "\u092a\u0947\u0930\u093f\u0938"
-    ],
-    "name:dut_x_preferred":[
-        "Parijs"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c1\u03af\u03c3\u03b9"
@@ -253,6 +244,9 @@
         "Pariisista",
         "Pariisiin"
     ],
+    "name:fit_x_preferred":[
+        "Pariisi"
+    ],
     "name:fra_x_colloquial":[
         "Pantruche",
         "Ville-Lumi\u00e8re",
@@ -271,9 +265,6 @@
         "Lut\u00e8ce"
     ],
     "name:frc_x_preferred":[
-        "Paris"
-    ],
-    "name:fre_x_preferred":[
         "Paris"
     ],
     "name:frp_x_preferred":[
@@ -297,12 +288,6 @@
     "name:gan_x_preferred":[
         "\u5df4\u9ece"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10d8\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Paris"
-    ],
     "name:gla_x_preferred":[
         "Paris"
     ],
@@ -324,9 +309,6 @@
     "name:got_x_preferred":[
         "\ud800\udf40\ud800\udf30\ud800\udf42\ud800\udf39\ud800\udf43"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03af\u03c3\u03b9"
-    ],
     "name:grn_x_preferred":[
         "Par\u0129"
     ],
@@ -344,6 +326,9 @@
     ],
     "name:hau_x_preferred":[
         "Pariis"
+    ],
+    "name:hau_x_variant":[
+        "Faris"
     ],
     "name:haw_x_preferred":[
         "Palika"
@@ -378,8 +363,8 @@
     "name:hye_x_preferred":[
         "\u0553\u0561\u0580\u056b\u0566"
     ],
-    "name:ice_x_preferred":[
-        "Par\u00eds"
+    "name:hyw_x_preferred":[
+        "\u0553\u0561\u0580\u056b\u0566"
     ],
     "name:ido_x_preferred":[
         "Paris"
@@ -395,6 +380,9 @@
     ],
     "name:ind_x_preferred":[
         "Paris"
+    ],
+    "name:inh_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u0436"
     ],
     "name:isl_x_preferred":[
         "Par\u00eds"
@@ -419,6 +407,9 @@
     ],
     "name:kaa_x_preferred":[
         "Parij"
+    ],
+    "name:kaa_x_variant":[
+        "Paris"
     ],
     "name:kab_x_preferred":[
         "Paris"
@@ -492,6 +483,9 @@
     "name:lez_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
     ],
+    "name:lfn_x_preferred":[
+        "Paris"
+    ],
     "name:lij_x_preferred":[
         "Pariggi"
     ],
@@ -510,6 +504,9 @@
     "name:lrc_x_preferred":[
         "\u0634\u0623\u0631 \u067e\u0627\u0631\u06cc\u0633"
     ],
+    "name:lrc_x_variant":[
+        "\u0634\u0647\u0631 \u067e\u0627\u0631\u06cc\u0633"
+    ],
     "name:ltz_x_preferred":[
         "Par\u00e4is"
     ],
@@ -519,23 +516,14 @@
     "name:lzh_x_preferred":[
         "\u5df4\u9ece"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0440\u0438\u0437"
-    ],
     "name:mai_x_preferred":[
         "\u092a\u0947\u0930\u093f\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3e\u0d30\u0d3f\u0d38\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Par\u012b"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0930\u093f\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Paris"
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
@@ -651,9 +639,6 @@
     "name:pdc_x_preferred":[
         "Paris"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0631\u06cc\u0633"
-    ],
     "name:pih_x_preferred":[
         "Paris"
     ],
@@ -699,9 +684,6 @@
     "name:rue_x_preferred":[
         "\u041f\u0430\u0440\u0456\u0436"
     ],
-    "name:rum_x_preferred":[
-        "Paris"
-    ],
     "name:run_x_preferred":[
         "Paris"
     ],
@@ -711,8 +693,14 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
     ],
+    "name:sag_x_preferred":[
+        "Paris"
+    ],
     "name:sah_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0436"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c6e\u1c68\u1c64\u1c65"
     ],
     "name:scn_x_preferred":[
         "Pariggi"
@@ -729,20 +717,23 @@
     "name:slk_x_preferred":[
         "Par\u00ed\u017e"
     ],
-    "name:slo_x_preferred":[
-        "Par\u00ed\u017e"
-    ],
     "name:slv_x_preferred":[
         "Pariz"
     ],
     "name:sme_x_preferred":[
         "Paris"
     ],
+    "name:sme_x_variant":[
+        "Paris-hei"
+    ],
     "name:smo_x_preferred":[
         "Pale"
     ],
     "name:sna_x_preferred":[
         "Paris"
+    ],
+    "name:snd_x_preferred":[
+        "\u067e\u064a\u0631\u0633"
     ],
     "name:som_x_preferred":[
         "Baariis"
@@ -809,9 +800,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e23\u0e35\u0e2a"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f55\u0f0b\u0f62\u0f72\u0f0d"
     ],
     "name:tpi_x_preferred":[
         "Paris"
@@ -882,9 +870,6 @@
     "name:war_x_preferred":[
         "Paris"
     ],
-    "name:wel_x_preferred":[
-        "Paris"
-    ],
     "name:wln_x_preferred":[
         "Paris"
     ],
@@ -916,9 +901,6 @@
         "Pa-l\u00ed"
     ],
     "name:zho_x_preferred":[
-        "\u5df4\u9ece"
-    ],
-    "name:zho_x_variant":[
         "\u5df4\u9ece"
     ],
     "name:zho_yue_x_preferred":[
@@ -998,7 +980,6 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"D\u00e9partement",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -1023,6 +1004,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:metro_code":250075,
         "fips:code":"FRA8",
         "gn:id":2968815,
         "gp:id":12597155,
@@ -1050,7 +1032,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1606163321,
+    "wof:lastmodified":1588976240,
     "wof:name":"Paris",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

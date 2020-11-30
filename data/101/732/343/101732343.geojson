@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005049,
-    "geom:area_square_m":45858005.859245,
+    "geom:area_square_m":45858005.859251,
     "geom:bbox":"-88.30806,42.711981,-88.189037,42.756592",
     "geom:latitude":42.73375,
     "geom:longitude":-88.248764,
@@ -14,17 +14,23 @@
     "iso:country":"US",
     "lbl:latitude":42.734123,
     "lbl:longitude":-88.248762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.734123,
     "mps:longitude":-88.248762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062a\u0634\u0633\u062a\u0631"
     ],
     "name:cat_x_preferred":[
         "Rochester"
     ],
-    "name:dut_x_preferred":[
+    "name:ceb_x_preferred":[
+        "Rochester"
+    ],
+    "name:deu_x_preferred":[
         "Rochester"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +39,13 @@
     "name:eng_x_variant":[
         "Rochester, Town of"
     ],
-    "name:ger_x_preferred":[
-        "Rochester"
-    ],
     "name:hat_x_preferred":[
         "Rochester"
     ],
     "name:hbs_x_preferred":[
+        "Rochester"
+    ],
+    "name:ita_x_preferred":[
         "Rochester"
     ],
     "name:mlg_x_preferred":[
@@ -49,6 +55,9 @@
         "Rochester"
     ],
     "name:nld_x_preferred":[
+        "Rochester"
+    ],
+    "name:pol_x_preferred":[
         "Rochester"
     ],
     "name:por_x_preferred":[
@@ -63,11 +72,14 @@
     "name:srp_x_preferred":[
         "\u0420\u043e\u0447\u0435\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waukeeshah"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0686\u06cc\u0633\u0679\u0631\u060c \u0648\u0633\u06a9\u0648\u0646\u0633\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u0648\u0686\u06cc\u0633\u0679\u0631"
     ],
     "name:vie_x_preferred":[
         "Rochester"
@@ -89,12 +101,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1126,
     "wof:belongsto":[
@@ -110,12 +121,14 @@
         "fips:code":"5568550",
         "gn:id":5269196,
         "gp:id":2482948,
-        "qs:id":934191,
         "qs_pg:id":934191,
         "wd:id":"Q428882",
         "wk:page":"Rochester, Wisconsin"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6dfca43e13e396046a92440ae02c47b",
     "wof:hierarchy":[
         {
@@ -131,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163472,
+    "wof:lastmodified":1582338163,
     "wof:name":"Rochester",
     "wof:parent_id":404494989,
     "wof:placetype":"locality",

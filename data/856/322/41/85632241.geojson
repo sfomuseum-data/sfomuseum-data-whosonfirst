@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.691497,
-    "geom:area_square_m":230759070533.48761,
+    "geom:area_square_m":230759070533.675842,
     "geom:bbox":"100.083872,13.90972,107.69483,22.502872",
     "geom:latitude":18.495567,
     "geom:longitude":103.770039,
@@ -15,8 +15,13 @@
     "itu:country_code":[
         "856"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":19.43535,
     "lbl:longitude":102.560667,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":19.43535,
     "mps:longitude":102.560667,
     "mz:hierarchy_label":1,
@@ -53,6 +58,9 @@
     "name:arg_x_preferred":[
         "Laos"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0627\u0648\u0633"
+    ],
     "name:arz_x_preferred":[
         "\u0644\u0627\u0648\u0633"
     ],
@@ -74,6 +82,9 @@
     "name:bam_x_preferred":[
         "Layosi"
     ],
+    "name:ban_x_preferred":[
+        "Laos"
+    ],
     "name:bar_x_preferred":[
         "Laos"
     ],
@@ -84,11 +95,13 @@
         "\u041b\u0430\u043e\u0441"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0430\u043e\u0441",
         "\u041b\u0430\u043e\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u0430-\u0414\u044d\u043c\u0430\u043a\u0440\u0430\u0442\u044b\u0447\u043d\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0993\u09b8"
+    ],
+    "name:bho_x_preferred":[
+        "\u0932\u093e\u0913\u0938"
     ],
     "name:bis_x_preferred":[
         "Laos"
@@ -107,6 +120,9 @@
     ],
     "name:bre_x_preferred":[
         "Laos"
+    ],
+    "name:brh_x_preferred":[
+        "L\u00e1os"
     ],
     "name:bug_x_preferred":[
         "Laos"
@@ -159,6 +175,12 @@
     "name:dan_x_preferred":[
         "Laos"
     ],
+    "name:deu_at_x_preferred":[
+        "Laos"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Laos"
+    ],
     "name:deu_x_preferred":[
         "Laos"
     ],
@@ -171,6 +193,9 @@
     "name:dsb_x_preferred":[
         "Laos"
     ],
+    "name:dty_x_preferred":[
+        "\u0932\u093e\u0913\u0938"
+    ],
     "name:dzo_x_preferred":[
         "\u0f63\u0f0b\u0f60\u0f7c\u0f66\u0f74"
     ],
@@ -179,6 +204,12 @@
     ],
     "name:ell_x_variant":[
         "\u039b\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Laos"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Laos"
     ],
     "name:eng_x_colloquial":[
         "Lao",
@@ -214,6 +245,9 @@
     "name:ewe_x_preferred":[
         "Laos nutome"
     ],
+    "name:ewe_x_variant":[
+        "Laos"
+    ],
     "name:ext_x_preferred":[
         "Laos"
     ],
@@ -222,6 +256,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0626\u0648\u0633"
+    ],
+    "name:fij_x_preferred":[
+        "Laos"
     ],
     "name:fin_x_preferred":[
         "Laos"
@@ -232,17 +269,26 @@
     "name:frp_x_preferred":[
         "Laos"
     ],
+    "name:frr_x_preferred":[
+        "Laos"
+    ],
     "name:fry_x_preferred":[
         "Laos"
     ],
     "name:ful_x_preferred":[
         "Lawoos"
     ],
+    "name:ful_x_variant":[
+        "Laos"
+    ],
     "name:gag_x_preferred":[
         "Laos"
     ],
     "name:gan_x_preferred":[
         "\u8001\u64be"
+    ],
+    "name:gcr_x_preferred":[
+        "Laos"
     ],
     "name:ger_x_variant":[
         "Demokratische Volksrepublik Lao",
@@ -266,6 +312,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0932\u093e\u0913\u0938"
+    ],
+    "name:grn_x_preferred":[
+        "L\u00e1o"
+    ],
+    "name:gsw_x_preferred":[
+        "Laos"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a93\u0ab8"
@@ -324,7 +376,13 @@
     "name:ilo_x_preferred":[
         "Laos"
     ],
+    "name:ina_x_preferred":[
+        "Laos"
+    ],
     "name:ind_x_preferred":[
+        "Laos"
+    ],
+    "name:ipk_x_preferred":[
         "Laos"
     ],
     "name:isl_x_preferred":[
@@ -370,6 +428,9 @@
     "name:kbd_x_preferred":[
         "\u041b\u0430\u043e\u0441"
     ],
+    "name:kbp_x_preferred":[
+        "Law\u0254s\u0269"
+    ],
     "name:khm_x_preferred":[
         "\u17a1\u17b6\u179c"
     ],
@@ -387,6 +448,9 @@
     ],
     "name:kom_x_preferred":[
         "\u041b\u0430\u043e\u0441"
+    ],
+    "name:kon_x_preferred":[
+        "Laos"
     ],
     "name:kor_x_preferred":[
         "\ub77c\uc624\uc2a4"
@@ -409,6 +473,9 @@
     ],
     "name:lav_x_preferred":[
         "Laosa"
+    ],
+    "name:lfn_x_preferred":[
+        "Lau"
     ],
     "name:lij_x_preferred":[
         "La\u00f2s"
@@ -436,6 +503,12 @@
     ],
     "name:lug_x_preferred":[
         "Lawosi"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8001\u64be"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u093e\u0913\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d35\u0d4b\u0d38\u0d4d"
@@ -467,7 +540,13 @@
     "name:mon_x_preferred":[
         "\u041b\u0430\u043e\u0441"
     ],
+    "name:mri_x_preferred":[
+        "R\u0101oho"
+    ],
     "name:msa_x_preferred":[
+        "Laos"
+    ],
+    "name:mwl_x_preferred":[
         "Laos"
     ],
     "name:mya_x_preferred":[
@@ -478,6 +557,15 @@
     ],
     "name:mzn_x_preferred":[
         "\u0644\u0627\u0626\u0648\u0633"
+    ],
+    "name:nah_x_preferred":[
+        "Lao"
+    ],
+    "name:nan_x_preferred":[
+        "Lao-kok"
+    ],
+    "name:nan_x_variant":[
+        "Li\u00e2u-kok"
     ],
     "name:nap_x_preferred":[
         "Laos"
@@ -521,11 +609,17 @@
     "name:nov_x_preferred":[
         "Laos"
     ],
+    "name:nya_x_preferred":[
+        "Laos"
+    ],
     "name:oci_x_preferred":[
         "Laos"
     ],
     "name:oci_x_variant":[
         "La\u00f2s"
+    ],
+    "name:olo_x_preferred":[
+        "Laos"
     ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3e\u0b13\u0b38"
@@ -539,13 +633,22 @@
     "name:oss_x_preferred":[
         "\u041b\u0430\u043e\u0441"
     ],
+    "name:pag_x_preferred":[
+        "Laos"
+    ],
     "name:pam_x_preferred":[
         "Laos"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a3e\u0a09\u0a38"
     ],
+    "name:pan_x_variant":[
+        "\u0a32\u0a3e\u0a13\u0a38"
+    ],
     "name:pap_x_preferred":[
+        "Laos"
+    ],
+    "name:pcd_x_preferred":[
         "Laos"
     ],
     "name:pih_x_preferred":[
@@ -565,6 +668,9 @@
     ],
     "name:pol_x_variant":[
         "Laos (Demokratyczna Republika Ludowa)"
+    ],
+    "name:por_br_x_preferred":[
+        "Laos"
     ],
     "name:por_x_preferred":[
         "Laos"
@@ -590,6 +696,9 @@
     "name:ron_x_variant":[
         "Lao, Republica Democratic\u0103 Popular\u0103"
     ],
+    "name:rue_x_preferred":[
+        "\u041b\u0430\u043e\u0441"
+    ],
     "name:run_x_preferred":[
         "Layosi"
     ],
@@ -605,11 +714,20 @@
     "name:san_x_preferred":[
         "\u0932\u093e\u0913\u0938"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c5f\u1c63\u1c5a\u1c65"
+    ],
     "name:scn_x_preferred":[
         "Laos"
     ],
     "name:sco_x_preferred":[
         "Laos"
+    ],
+    "name:sgs_x_preferred":[
+        "Lauosos"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101c\u1062\u101d\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dcf\u0d95\u0dc3\u0dba"
@@ -635,6 +753,9 @@
     "name:sna_x_preferred":[
         "Laos"
     ],
+    "name:snd_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u0633"
+    ],
     "name:som_x_preferred":[
         "Laos"
     ],
@@ -646,6 +767,15 @@
     ],
     "name:sqi_x_preferred":[
         "Laosi"
+    ],
+    "name:srd_x_preferred":[
+        "Laos"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0430\u043e\u0441"
+    ],
+    "name:srp_el_x_preferred":[
+        "Laos"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u043e\u0441"
@@ -666,6 +796,9 @@
         "Laos"
     ],
     "name:szl_x_preferred":[
+        "Laos"
+    ],
+    "name:szy_x_preferred":[
         "Laos"
     ],
     "name:tam_x_preferred":[
@@ -700,6 +833,12 @@
     "name:ton_x_preferred":[
         "Lau"
     ],
+    "name:tpi_x_preferred":[
+        "Laos"
+    ],
+    "name:tso_x_preferred":[
+        "Laos"
+    ],
     "name:tuk_x_preferred":[
         "Laos"
     ],
@@ -707,6 +846,9 @@
         "Laos"
     ],
     "name:tur_x_preferred":[
+        "Laos"
+    ],
+    "name:twi_x_preferred":[
         "Laos"
     ],
     "name:udm_x_preferred":[
@@ -721,10 +863,8 @@
     "name:ukr_x_variant":[
         "\u041b\u0430\u043e\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Sathalanalat Paxathipatai Paxaxon Lao"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sathalanalat Paxathipatai Paxaxon Lao",
         "Phrarassa Anachak Lao"
     ],
     "name:urd_x_preferred":[
@@ -744,6 +884,9 @@
     ],
     "name:vol_x_preferred":[
         "Laos\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Laos"
     ],
     "name:war_x_preferred":[
         "Laos"
@@ -769,11 +912,17 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Laosi"
     ],
+    "name:yue_x_preferred":[
+        "\u8001\u64be"
+    ],
     "name:zea_x_preferred":[
         "Laos"
     ],
     "name:zha_x_preferred":[
         "Laujvoh"
+    ],
+    "name:zha_x_variant":[
+        "Lao"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lao-kok"
@@ -783,7 +932,6 @@
     ],
     "name:zho_x_variant":[
         "\u5bee\u570b",
-        "\u8001\u631d",
         "\u8001\u64be",
         "\u8001\u631d\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
     ],
@@ -865,15 +1013,12 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:hashtags":[
-        "laos"
-    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"856",
     "statoids:ds":"LAO",
@@ -902,6 +1047,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Laos",
+        "digitalenvoy:country_code":418,
         "fb:id":"en.laos",
         "fifa:id":"LAO",
         "fips:code":"LA",
@@ -917,7 +1063,7 @@
         "mzb:id":"laos",
         "ne:adm0_a3":"LAO",
         "nyt:id":"48649561478424166401",
-        "qs:id":557734,
+        "qs_pg:id":557734,
         "uncrt:id":"LAO",
         "wd:id":"Q819",
         "wk:page":"Laos",
@@ -925,6 +1071,11 @@
     },
     "wof:country":"LA",
     "wof:country_alpha3":"LAO",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"1437f6cd0582f8214ae9609878cec03f",
     "wof:hierarchy":[
         {
@@ -933,16 +1084,13 @@
         }
     ],
     "wof:id":85632241,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1606163224,
+    "wof:lastmodified":1587428230,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

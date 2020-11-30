@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120993,
-    "geom:area_square_m":1238651503.408789,
+    "geom:area_square_m":1238651503.40956,
     "geom:bbox":"-118.668188,33.703651,-118.15537,34.337311",
     "geom:latitude":34.113977,
     "geom:longitude":-118.406834,
@@ -116,6 +116,9 @@
     "name:cdo_x_preferred":[
         "Los Angeles"
     ],
+    "name:cdo_x_variant":[
+        "L\u014fk-s\u0103ng-g\u012d"
+    ],
     "name:ceb_x_preferred":[
         "Los Angeles"
     ],
@@ -149,6 +152,9 @@
     "name:dan_x_preferred":[
         "Los Angeles"
     ],
+    "name:deu_ch_x_preferred":[
+        "Los Angeles"
+    ],
     "name:deu_x_preferred":[
         "Los Angeles"
     ],
@@ -165,6 +171,12 @@
         "\u039b\u03bf\u03c2 \u0386\u03bd\u03c4\u03b6\u03b5\u03bb\u03b5\u03c2"
     ],
     "name:eml_x_preferred":[
+        "Los Angeles"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Los Angeles"
+    ],
+    "name:eng_gb_x_preferred":[
         "Los Angeles"
     ],
     "name:eng_x_colloquial":[
@@ -439,6 +451,9 @@
     "name:mri_x_preferred":[
         "Los Angeles"
     ],
+    "name:mri_x_variant":[
+        "Ng\u0101 \u0100nahera"
+    ],
     "name:mrj_x_preferred":[
         "\u041b\u043e\u0441-\u0410\u043d\u0434\u0436\u0435\u043b\u0435\u0441"
     ],
@@ -541,6 +556,9 @@
     "name:pol_x_preferred":[
         "Los Angeles"
     ],
+    "name:por_br_x_preferred":[
+        "Los Angeles"
+    ],
     "name:por_x_preferred":[
         "Los Angeles"
     ],
@@ -634,6 +652,9 @@
         "\u041b\u043e\u0441 \u0410\u043d\u0452\u0435\u043b\u0435\u0441"
     ],
     "name:stq_x_preferred":[
+        "Los Angeles"
+    ],
+    "name:sun_x_preferred":[
         "Los Angeles"
     ],
     "name:swa_x_preferred":[
@@ -730,6 +751,24 @@
         "Los Angeles"
     ],
     "name:yue_x_preferred":[
+        "\u6d1b\u6749\u78ef"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u6749\u77f6"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6d1b\u6749\u78ef"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u6d1b\u6749\u78ef"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6d1b\u6749\u77f6"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6d1b\u6749\u77f6"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u6d1b\u6749\u78ef"
     ],
     "name:zho_x_preferred":[
@@ -843,7 +882,6 @@
     "qs:type":"G4110",
     "reversegeo:latitude":34.05513,
     "reversegeo:longitude":-118.25703,
-    "sfomuseum:placetype":"city",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes",
@@ -858,8 +896,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086957
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -879,6 +917,10 @@
         "qs_pg:id":1174558
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3611e34697812a038aad419ec58c17fd",
     "wof:hierarchy":[
         {
@@ -890,7 +932,7 @@
         }
     ],
     "wof:id":85923517,
-    "wof:lastmodified":1606163478,
+    "wof:lastmodified":1587428393,
     "wof:megacity":1,
     "wof:name":"Los Angeles",
     "wof:parent_id":102086957,

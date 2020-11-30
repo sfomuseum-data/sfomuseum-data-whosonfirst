@@ -6,47 +6,54 @@
     "date:inception_upper":"1964-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1964",
-    "geom:area":0.000461,
-    "geom:area_square_m":5423846.364609,
-    "geom:bbox":"-63.141258,18.020201,-63.082466,18.052927",
-    "geom:latitude":18.034453,
-    "geom:longitude":-63.112129,
+    "geom:area":0.000059,
+    "geom:area_square_m":699380.61936,
+    "geom:bbox":"-63.1203425701,18.0374320882,-63.0966786741,18.0451942432",
+    "geom:latitude":18.04141,
+    "geom:longitude":-63.1107,
     "iso:country":"SX",
-    "lbl:latitude":18.036353,
-    "lbl:longitude":-63.121483,
-    "mps:latitude":18.036353,
-    "mps:longitude":-63.121483,
+    "lbl:latitude":18.04166,
+    "lbl:longitude":-63.113478,
+    "mps:latitude":18.04166,
+    "mps:longitude":-63.113478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0623\u0645\u064a\u0631\u0629 \u062c\u0648\u0644\u064a\u0627\u0646\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u9e97\u5b89\u5a1c\u516c\u4e3b\u570b\u969b\u6a5f\u5834"
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Princesa Juliana"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b princezny Juliany"
     ],
     "name:dan_x_preferred":[
         "Princess Juliana International Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Princess Juliana International Airport"
     ],
     "name:eng_x_preferred":[
         "Princess Juliana International Airport"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Princino Juliino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0631\u06cc\u0646\u0633\u0633 \u062c\u0648\u0644\u06cc\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Prinsessa Julianan lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Princess Juliana"
-    ],
-    "name:ger_x_preferred":[
-        "Princess Juliana International Airport"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05e0\u05e1\u05d9\u05db\u05d4 \u05d9\u05d5\u05dc\u05d9\u05d0\u05e0\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Me\u0111unarodna zra\u010dna luka Princeza Julijana"
     ],
     "name:hun_x_preferred":[
         "Princess Juliana nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -63,11 +70,17 @@
     "name:kor_x_preferred":[
         "\ud504\ub9b0\uc138\uc2a4 \uc904\ub9ac\uc544\ub098 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:lav_x_preferred":[
+        "Princeses Julianas starptautisk\u0101 lidosta"
+    ],
     "name:lit_x_preferred":[
         "Princes\u0117s Julianos tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Princess Juliana"
+    ],
+    "name:nld_x_preferred":[
+        "Princess Juliana International Airport"
     ],
     "name:nno_x_preferred":[
         "Prinsesse Juliana internasjonale lufthamn"
@@ -75,14 +88,14 @@
     "name:nob_x_preferred":[
         "Prinsesse Juliana internasjonale lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0631\u06cc\u0646\u0633\u0633 \u062c\u0648\u0644\u06cc\u0627\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Princess Juliana"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Princesa Juliana"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Princess Juliana"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b \u042e\u043b\u0438\u0430\u043d\u044b"
@@ -96,17 +109,20 @@
     "name:tur_x_preferred":[
         "Prenses Juliana Uluslararas\u0131 Havaalan\u0131"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0438 \u042e\u043b\u0456\u0430\u043d\u0438"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Princess Juliana"
     ],
-    "sfomuseum:airport_id":117,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Princess Juliana International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "name:zho_x_preferred":[
+        "\u6731\u9e97\u5b89\u5a1c\u516c\u4e3b\u570b\u969b\u6a5f\u5834"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "woedb"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424914,
         "planet_id":1,
@@ -124,7 +140,10 @@
         "wd:id":"Q723325"
     },
     "wof:country":"SX",
-    "wof:geomhash":"8313c2525040238645bb78ced0a8cf8f",
+    "wof:geom_alt":[
+        "woedb"
+    ],
+    "wof:geomhash":"f7ad0f0aee9c9367789b205b18425a64",
     "wof:hierarchy":[
         {
             "campus_id":102553765,
@@ -136,7 +155,7 @@
         }
     ],
     "wof:id":102553765,
-    "wof:lastmodified":1606163489,
+    "wof:lastmodified":1582344585,
     "wof:name":"Prinses Juliana International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -148,10 +167,10 @@
     ]
 },
   "bbox": [
-    -63.141258,
-    18.020201,
-    -63.082466,
-    18.052927
+    -63.12034257010961,
+    18.03743208822866,
+    -63.09667867412532,
+    18.04519424319473
 ],
-  "geometry": {"coordinates":[[[[-63.133362,18.045992],[-63.141258,18.035872],[-63.13448,18.046806],[-63.136711,18.05105],[-63.136196,18.052927],[-63.135811,18.050762],[-63.133362,18.045992]]],[[[-63.133362,18.045992],[-63.122807,18.044847],[-63.114223,18.044195],[-63.110104,18.041746],[-63.104095,18.043053],[-63.097229,18.03334],[-63.088646,18.032118],[-63.082466,18.034157],[-63.085468,18.031546],[-63.091599,18.02771],[-63.092766,18.024445],[-63.097744,18.020201],[-63.102036,18.021833],[-63.102894,18.023954],[-63.101521,18.02877],[-63.108044,18.041584],[-63.110275,18.040768],[-63.116787,18.033516],[-63.118668,18.025499],[-63.118687,18.024853],[-63.120361,18.025414],[-63.125637,18.024813],[-63.127697,18.02779],[-63.126583,18.038565],[-63.133362,18.045992]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[-63.12003256273864,18.04035521843715],[-63.11974838931525,18.04040434626095],[-63.11936088010152,18.0405271657604],[-63.11876669930716,18.0409938790763],[-63.11809501667005,18.04160797365804],[-63.11690665508132,18.04251682970462],[-63.11651914586761,18.0426887749149],[-63.11504661085549,18.04357306191266],[-63.11481410532726,18.04391695010001],[-63.11452993190386,18.04430996434795],[-63.11427159242805,18.04455559780692],[-63.11372907952885,18.04465385109446],[-63.11316073268206,18.0447521043271],[-63.11290239320626,18.04485035750486],[-63.11272155557319,18.04514511670877],[-63.11233404635947,18.04519424319473],[-63.11212737477882,18.04433452770927],[-63.11181736740784,18.04286071995708],[-63.1116106958272,18.04286071995708],[-63.1111973526659,18.04288528352082],[-63.11096484713767,18.04281159281933],[-63.11068067371428,18.04261508413107],[-63.10592722735937,18.04197642937805],[-63.09995958546812,18.04288528352082],[-63.09957207625442,18.042934410638],[-63.09926206888343,18.0431309189695],[-63.09900372940762,18.04327830007404],[-63.09763453018582,18.04349937149931],[-63.09719535307695,18.04352393497385],[-63.0969886814963,18.04347480802134],[-63.09685951175839,18.04327830007404],[-63.09680784386323,18.04300810128804],[-63.09670450807291,18.04232032068706],[-63.09667867412532,18.04195186568739],[-63.09667867412532,18.04170622859218],[-63.09685951175839,18.04150971866904],[-63.09776369992373,18.04123951716625],[-63.09791870360922,18.04128864474309],[-63.09895206151246,18.04111669816415],[-63.09954624230682,18.0410675705393],[-63.09990791757296,18.04111669816415],[-63.10032126073425,18.04138689985558],[-63.10076043784314,18.04143602739126],[-63.1012254488996,18.04138689985558],[-63.10156129021816,18.04138689985558],[-63.10228464075043,18.04131320852636],[-63.10631473657307,18.04069911291558],[-63.11060317187154,18.04008501516106],[-63.11388408321434,18.0396428634504],[-63.11610580270631,18.03927440284266],[-63.11641581007728,18.03885681322097],[-63.11664831560552,18.03863573596116],[-63.11695832297649,18.03839009423554],[-63.1173458321902,18.03816901638925],[-63.11757833771843,18.03784968123195],[-63.11770750745634,18.03750578118362],[-63.11781084324666,18.03743208822866],[-63.11794001298457,18.03750578118362],[-63.11817251851279,18.03767773129182],[-63.11850835983135,18.0379725025149],[-63.11871503141199,18.03811988794124],[-63.1192575443112,18.03826727324411],[-63.11956755168218,18.03851291514122],[-63.12008423063379,18.03870942841196],[-63.12011006458138,18.03910245429494],[-63.1202134003717,18.03947091526283],[-63.12031673616202,18.03974111948214],[-63.12034257010961,18.04006045120628],[-63.12023923431929,18.04025696274841],[-63.12003256273864,18.04035521843715]]],"type":"Polygon"}
 }

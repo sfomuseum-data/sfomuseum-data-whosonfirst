@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007305,
-    "geom:area_square_m":81203026.663826,
+    "geom:area_square_m":81203026.663825,
     "geom:bbox":"-80.441616,25.95677,-80.206137,25.995449",
     "geom:latitude":25.977329,
     "geom:longitude":-80.335731,
@@ -16,29 +16,26 @@
     "iso:country":"US",
     "lbl:latitude":25.97516,
     "lbl:longitude":-80.335731,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":25.97516,
     "mps:longitude":-80.335731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
-    ],
-    "name:baq_x_preferred":[
-        "Miramar "
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u62c9\u99ac\u723e"
+    "name:ceb_x_preferred":[
+        "Miramar"
     ],
     "name:dan_x_preferred":[
         "Miramar"
     ],
     "name:deu_x_preferred":[
-        "Miramar"
-    ],
-    "name:dut_x_preferred":[
         "Miramar"
     ],
     "name:eng_x_preferred":[
@@ -47,19 +44,22 @@
     "name:epo_x_preferred":[
         "Miramar"
     ],
+    "name:eus_x_preferred":[
+        "Miramar"
+    ],
     "name:fao_x_preferred":[
         "Miramar"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u0627\u0645\u0627\u0631\u060c \u0641\u0644\u0648\u0631\u06cc\u062f\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0631\u0627\u0645\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Miramar"
     ],
-    "name:fre_x_preferred":[
-        "Miramar"
-    ],
-    "name:ger_x_preferred":[
+    "name:gle_x_preferred":[
         "Miramar"
     ],
     "name:hat_x_preferred":[
@@ -68,13 +68,16 @@
     "name:hbs_x_preferred":[
         "Miramar"
     ],
-    "name:ice_x_preferred":[
-        "Miramar"
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e8\u05d0\u05de\u05e8"
     ],
     "name:ido_x_preferred":[
         "Miramar"
     ],
     "name:ind_x_preferred":[
+        "Miramar"
+    ],
+    "name:isl_x_preferred":[
         "Miramar"
     ],
     "name:ita_x_preferred":[
@@ -101,9 +104,6 @@
     "name:nob_x_preferred":[
         "Miramar"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0631\u0627\u0645\u0627\u0631\u060c \u0641\u0644\u0648\u0631\u06cc\u062f\u0627"
-    ],
     "name:pol_x_preferred":[
         "Miramar"
     ],
@@ -127,6 +127,9 @@
     ],
     "name:szl_x_preferred":[
         "Miramar"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
     ],
     "name:tgl_x_preferred":[
         "Miramar"
@@ -166,12 +169,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":2.0,
     "wd:latitude":25.978889,
@@ -189,12 +191,14 @@
         "fips:code":"1245975",
         "gn:id":4164601,
         "gp:id":2452272,
-        "qs:id":240268,
         "qs_pg:id":240268,
         "wd:id":"Q745168",
         "wk:page":"Miramar, Florida"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a3ff2dd717382dd4e498aa6a6d9272a",
     "wof:hierarchy":[
         {
@@ -209,7 +213,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163474,
+    "wof:lastmodified":1582335817,
     "wof:name":"Miramar",
     "wof:parent_id":102084727,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017695,
-    "geom:area_square_m":170910510.258364,
+    "geom:area_square_m":170910510.258349,
     "geom:bbox":"-90.320515,38.531852,-90.166409,38.774431",
     "geom:latitude":38.635812,
     "geom:longitude":-90.245119,
     "iso:country":"US",
     "lbl:latitude":38.635957,
     "lbl:longitude":-90.239861,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.635957,
     "mps:longitude":-90.239861,
     "mz:hierarchy_label":1,
@@ -20,17 +22,20 @@
     "name:afr_x_preferred":[
         "St. Louis"
     ],
-    "name:alb_x_preferred":[
-        "Saint Louis"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633\u060c \u0645\u064a\u0632\u0648\u0631\u064a"
     ],
     "name:arg_x_preferred":[
         "Saint Louis"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576\u0569 \u053c\u0578\u0582\u056b\u057d"
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Saint Louis"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0646\u062a \u0644\u0648\u0626\u06cc\u0633"
@@ -38,14 +43,17 @@
     "name:aze_x_preferred":[
         "Sent-Luis"
     ],
-    "name:baq_x_preferred":[
-        "Saint Louis"
+    "name:aze_x_variant":[
+        "Sent-L\u00fcis"
     ],
     "name:bar_x_preferred":[
         "Saint Louis City"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043d\u0442-\u041b\u0443\u0456\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u041b\u0443\u0456\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09c1\u0987\u09b8"
@@ -56,6 +64,9 @@
     "name:bre_x_preferred":[
         "Saint-Louis"
     ],
+    "name:bre_x_variant":[
+        "St. Louis"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0439\u043d\u0442 \u041b\u0443\u0438\u0441"
     ],
@@ -65,16 +76,16 @@
     "name:ces_x_preferred":[
         "St. Louis"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u8def\u6613\u65af"
-    ],
     "name:cor_x_preferred":[
         "St. Louis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "St. Louis"
     ],
     "name:dan_x_preferred":[
+        "St. Louis"
+    ],
+    "name:deu_ch_x_preferred":[
         "St. Louis"
     ],
     "name:deu_x_preferred":[
@@ -83,11 +94,14 @@
     "name:diq_x_preferred":[
         "St. Louis"
     ],
-    "name:dut_x_preferred":[
-        "Saint Louis"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b9\u03bd\u03c4 \u039b\u03bf\u03cd\u03b9\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "St. Louis"
+    ],
+    "name:eng_gb_x_preferred":[
+        "St. Louis"
     ],
     "name:eng_x_colloquial":[
         "Gateway To the West",
@@ -131,17 +145,8 @@
     "name:fra_x_preferred":[
         "Saint-Louis"
     ],
-    "name:fre_x_preferred":[
-        "Saint-Louis"
-    ],
     "name:fry_x_preferred":[
         "Sint-Louis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10e2-\u10da\u10e3\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "St. Louis"
     ],
     "name:gla_x_preferred":[
         "St. Louis"
@@ -151,9 +156,6 @@
     ],
     "name:glg_x_preferred":[
         "St. Louis"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b9\u03bd\u03c4 \u039b\u03bf\u03cd\u03b9\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0ac2\u0a87\u0ab8"
@@ -176,8 +178,8 @@
     "name:hun_x_preferred":[
         "Saint Louis"
     ],
-    "name:ice_x_preferred":[
-        "St. Louis"
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576\u0569 \u053c\u0578\u0582\u056b\u057d"
     ],
     "name:ido_x_preferred":[
         "Saint Louis"
@@ -186,6 +188,9 @@
         "St. Louis"
     ],
     "name:ind_x_preferred":[
+        "St. Louis"
+    ],
+    "name:isl_x_preferred":[
         "St. Louis"
     ],
     "name:ita_x_preferred":[
@@ -221,19 +226,19 @@
     "name:ltz_x_preferred":[
         "St. Louis"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u043d\u0442 \u041b\u0443\u0438\u0441"
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d2f\u0d4d\u0d28\u0d4d\u0d31\u0d4d \u0d32\u0d42\u0d2f\u0d3f\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0908\u0938"
-    ],
-    "name:may_x_preferred":[
-        "St. Louis"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043d\u0442 \u041b\u0443\u0438\u0441"
     ],
     "name:mlg_x_preferred":[
+        "St. Louis"
+    ],
+    "name:msa_x_preferred":[
         "St. Louis"
     ],
     "name:nan_x_preferred":[
@@ -266,14 +271,17 @@
     "name:pam_x_preferred":[
         "St. Louis"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a \u0644\u0648\u0626\u06cc\u0633"
-    ],
     "name:pms_x_preferred":[
         "Saint Louis"
     ],
     "name:pol_x_preferred":[
         "Saint Louis"
+    ],
+    "name:pol_x_variant":[
+        "St. Louis"
+    ],
+    "name:por_br_x_preferred":[
+        "St. Louis"
     ],
     "name:por_x_preferred":[
         "Saint Louis"
@@ -285,9 +293,6 @@
         "St. Louis"
     ],
     "name:ron_x_preferred":[
-        "Saint Louis"
-    ],
-    "name:rum_x_preferred":[
         "Saint Louis"
     ],
     "name:rus_x_preferred":[
@@ -302,7 +307,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dcf\u0db1\u0dca\u0dad \u0dbd\u0dd4\u0dc0\u0dd2\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "St. Louis"
     ],
     "name:slv_x_preferred":[
@@ -313,6 +318,9 @@
     ],
     "name:spa_x_variant":[
         "San Luis de Iluenses"
+    ],
+    "name:sqi_x_preferred":[
+        "Saint Louis"
     ],
     "name:srd_x_preferred":[
         "Saint Louis"
@@ -332,6 +340,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u0443\u0438\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c2f\u0c3f\u0c38\u0c4d"
     ],
@@ -350,7 +361,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041b\u0443\u0457\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "City of Saint Louis"
     ],
     "name:urd_x_preferred":[
@@ -358,6 +369,9 @@
     ],
     "name:uzb_x_preferred":[
         "Saint Louis"
+    ],
+    "name:uzb_x_variant":[
+        "St. Louis"
     ],
     "name:vie_x_preferred":[
         "St. Louis"
@@ -368,8 +382,11 @@
     "name:war_x_preferred":[
         "St. Louis"
     ],
-    "name:wel_x_preferred":[
-        "St. Louis"
+    "name:wuu_x_preferred":[
+        "\u5723\u8def\u6613\u65af"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d0\u05e0\u05d8 \u05dc\u05d5\u05d0\u05d9\u05e1"
     ],
     "name:yue_x_preferred":[
         "\u8056\u8def\u6613\u65af"
@@ -483,12 +500,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":142.0,
     "wd:latitude":38.616667,
@@ -496,11 +512,11 @@
     "wd:population":318416,
     "wd:wordcount":12871,
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518053,
         85633793,
-        102080791
+        102080791,
+        404518053,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -512,12 +528,14 @@
         "gp:id":2486982,
         "loc:id":"n79041725",
         "nyt:id":"10219323006478270621",
-        "qs:id":829607,
         "qs_pg:id":829607,
         "wd:id":"Q38022",
         "wk:page":"St. Louis"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02b9bc22609ce466547f44ee32bd4aae",
     "wof:hierarchy":[
         {
@@ -533,7 +551,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163486,
+    "wof:lastmodified":1587428395,
     "wof:megacity":1,
     "wof:name":"St. Louis",
     "wof:parent_id":404518053,

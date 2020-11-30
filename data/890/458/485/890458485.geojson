@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094851,
-    "geom:area_square_m":697032697.817101,
+    "geom:area_square_m":697032697.817078,
     "geom:bbox":"-113.71388,53.395405,-113.271524,53.715919",
     "geom:latitude":53.536955,
     "geom:longitude":-113.495168,
@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":53.546218,
     "lbl:longitude":-113.490371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.982196,
     "mps:longitude":-85.613637,
     "mz:hierarchy_label":1,
@@ -21,17 +23,14 @@
     "name:afr_x_preferred":[
         "Edmonton"
     ],
-    "name:alb_x_preferred":[
-        "Edmonton"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0645\u0648\u0646\u062a\u0648\u0646"
     ],
     "name:arg_x_preferred":[
         "Edmonton"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u0564\u0574\u0578\u0576\u057f\u0578\u0576"
+    "name:arz_x_preferred":[
+        "\u0627\u062f\u0645\u0648\u0646\u062a\u0648\u0646"
     ],
     "name:ast_x_preferred":[
         "Edmonton"
@@ -42,14 +41,17 @@
     "name:aze_x_preferred":[
         "Edmonton"
     ],
-    "name:baq_x_preferred":[
+    "name:bar_x_preferred":[
         "Edmonton"
     ],
-    "name:bar_x_preferred":[
+    "name:bcl_x_preferred":[
         "Edmonton"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0434\u043c\u0430\u043d\u0442\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u042d\u0434\u043c\u0430\u043d\u0442\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09a1\u09ae\u09a8\u09cd\u099f\u09a8"
@@ -69,14 +71,17 @@
     "name:cat_x_preferred":[
         "Edmonton"
     ],
+    "name:ceb_x_preferred":[
+        "Edmonton"
+    ],
     "name:ces_x_preferred":[
         "Edmonton"
     ],
     "name:che_x_preferred":[
         "\u042d\u0434\u043c\u043e\u043d\u0442\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5fb7\u8499\u987f"
+    "name:ckb_x_preferred":[
+        "\u0626\u06ce\u062f\u0645\u0646\u062a\u0646"
     ],
     "name:cos_x_preferred":[
         "Edmonton"
@@ -84,7 +89,7 @@
     "name:cre_x_preferred":[
         "\u140a\u14a5\u1422\u1472\u1427\u148b\u140a\u1427\u1422\u1472\u1426\u1403\u1472\u1423"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Edmonton"
     ],
     "name:dan_x_preferred":[
@@ -93,13 +98,16 @@
     "name:deu_x_preferred":[
         "Edmonton"
     ],
-    "name:dut_x_preferred":[
-        "Edmonton"
-    ],
     "name:ell_x_preferred":[
         "\u0388\u03bd\u03c4\u03bc\u03bf\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:eml_x_preferred":[
+        "Edmonton"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Edmonton"
+    ],
+    "name:eng_gb_x_preferred":[
         "Edmonton"
     ],
     "name:eng_x_preferred":[
@@ -112,6 +120,9 @@
         "Edmontono"
     ],
     "name:est_x_preferred":[
+        "Edmonton"
+    ],
+    "name:eus_x_preferred":[
         "Edmonton"
     ],
     "name:fao_x_preferred":[
@@ -129,19 +140,10 @@
     "name:fra_x_preferred":[
         "Edmonton"
     ],
-    "name:fre_x_preferred":[
-        "Edmonton"
-    ],
     "name:frr_x_preferred":[
         "Edmonton"
     ],
     "name:fry_x_preferred":[
-        "Edmonton"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d3\u10db\u10dd\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Edmonton"
     ],
     "name:gla_x_preferred":[
@@ -152,9 +154,6 @@
     ],
     "name:glg_x_preferred":[
         "Edmonton"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03bd\u03c4\u03bc\u03bf\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Edmonton"
@@ -186,8 +185,8 @@
     "name:hye_x_preferred":[
         "\u0537\u0564\u0574\u0578\u0576\u057f\u0578\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Edmonton"
+    "name:hyw_x_preferred":[
+        "\u0537\u057f\u0574\u0568\u0576\u0569\u0568\u0576"
     ],
     "name:ido_x_preferred":[
         "Edmonton"
@@ -196,6 +195,9 @@
         "Edmonton"
     ],
     "name:ind_x_preferred":[
+        "Edmonton"
+    ],
+    "name:isl_x_preferred":[
         "Edmonton"
     ],
     "name:ita_x_preferred":[
@@ -228,6 +230,9 @@
     "name:lav_x_preferred":[
         "Edmontona"
     ],
+    "name:lij_x_preferred":[
+        "Edmonton"
+    ],
     "name:lit_x_preferred":[
         "Edmontonas"
     ],
@@ -243,13 +248,13 @@
     "name:mar_x_preferred":[
         "\u090f\u0921\u092e\u0902\u091f\u0928"
     ],
-    "name:may_x_preferred":[
-        "Edmonton"
-    ],
     "name:min_x_preferred":[
         "Edmonton"
     ],
     "name:mlg_x_preferred":[
+        "Edmonton"
+    ],
+    "name:msa_x_preferred":[
         "Edmonton"
     ],
     "name:nah_x_preferred":[
@@ -285,13 +290,13 @@
     "name:pan_x_preferred":[
         "\u0a10\u0a21\u0a2e\u0a70\u0a1f\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062f\u0645\u0648\u0646\u062a\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0688\u0645\u0646\u0679\u0646"
     ],
     "name:pol_x_preferred":[
+        "Edmonton"
+    ],
+    "name:por_br_x_preferred":[
         "Edmonton"
     ],
     "name:por_x_preferred":[
@@ -304,9 +309,6 @@
         "Edmonton"
     ],
     "name:ron_x_preferred":[
-        "Edmonton"
-    ],
-    "name:rum_x_preferred":[
         "Edmonton"
     ],
     "name:rus_x_preferred":[
@@ -324,13 +326,16 @@
     "name:slk_x_preferred":[
         "Edmonton"
     ],
-    "name:slo_x_preferred":[
-        "Edmonton"
-    ],
     "name:slv_x_preferred":[
         "Edmonton"
     ],
+    "name:som_x_preferred":[
+        "Edmonton"
+    ],
     "name:spa_x_preferred":[
+        "Edmonton"
+    ],
+    "name:sqi_x_preferred":[
         "Edmonton"
     ],
     "name:srd_x_preferred":[
@@ -351,6 +356,9 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0b9f\u0bcd\u0bae\u0ba9\u0bcd\u0b9f\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u0434\u043c\u043e\u043d\u0442\u043e\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c21\u0c4d\u0c2e\u0c02\u0c1f\u0c28\u0c4d"
     ],
@@ -360,8 +368,8 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e14\u0e21\u0e31\u0e19\u0e15\u0e31\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f7a\u0f0b\u0f4f\u0f72\u0f0b\u0f58\u0f7c\u0f53\u0f0b\u0f50\u0f7c\u0f53\u0f0d"
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e47\u0e14\u0e21\u0e31\u0e19\u0e15\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Edmonton"
@@ -390,11 +398,29 @@
     "name:war_x_preferred":[
         "Edmonton"
     ],
-    "name:wel_x_preferred":[
-        "Edmonton"
+    "name:wuu_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
     ],
     "name:yue_x_preferred":[
         "\u611b\u6c11\u9813"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u827e\u5fb7\u8499\u9813"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u5fb7\u8499\u987f"
@@ -502,7 +528,6 @@
     "qs:photos_sr":12,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
-    "sfomuseum:placetype":"city",
     "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -511,35 +536,43 @@
     "wof:belongsto":[
         102191575,
         85633041,
+        1511799791,
         85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5946768,
         "gp:id":8676,
-        "qs:id":451160,
         "qs_pg:id":355729,
         "wd:id":"Q2096",
         "wk:page":"Edmonton"
     },
+    "wof:concordances_alt":{
+        "qs_pg:id":451160
+    },
+    "wof:coterminous":[
+        1511799791
+    ],
     "wof:country":"CA",
     "wof:created":1469053219,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1e34b8edd899f2457d449f192543710",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":1511799791,
             "locality_id":890458485,
             "region_id":85682091
         }
     ],
     "wof:id":890458485,
-    "wof:lastmodified":1606163453,
+    "wof:lastmodified":1587428295,
     "wof:name":"Edmonton",
-    "wof:parent_id":85682091,
+    "wof:parent_id":1511799791,
     "wof:placetype":"locality",
-    "wof:placetype_alt":"county",
-    "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],

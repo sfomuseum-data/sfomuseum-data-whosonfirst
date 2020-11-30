@@ -16,8 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":2.111981,
     "lbl:longitude":45.410321,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.113078,
     "mps:longitude":45.409728,
     "mz:hierarchy_label":1,
@@ -30,8 +34,8 @@
     "name:ara_x_variant":[
         "\u0628\u0646\u0627\u062f\u0631\u200e"
     ],
-    "name:baq_x_preferred":[
-        "Banaadir"
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0627\u062f\u0631"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09be\u09a6\u09bf\u09b0"
@@ -39,8 +43,8 @@
     "name:cat_x_preferred":[
         "Banaadir"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7d0d\u8fea\u723e\u5dde"
+    "name:ceb_x_preferred":[
+        "Gobolka Banaadir"
     ],
     "name:dan_x_preferred":[
         "Banaadir"
@@ -48,8 +52,8 @@
     "name:deu_x_preferred":[
         "Banaadir"
     ],
-    "name:dut_x_preferred":[
-        "Banaadir"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03b1\u03b1\u03bd\u03c4\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Banaadir"
@@ -63,23 +67,14 @@
     "name:eus_x_preferred":[
         "Banaadir"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0627\u062f\u0631"
+    ],
     "name:fin_x_preferred":[
         "Banaadir"
     ],
     "name:fra_x_preferred":[
         "Banaadir"
-    ],
-    "name:fre_x_preferred":[
-        "Banaadir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10dc\u10d0\u10d3\u10d8\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Banaadir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03b1\u03b1\u03bd\u03c4\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0aa8\u0abe\u0aa6\u0abf\u0ab0"
@@ -117,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0928\u093e\u0926\u0940\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Banaadir"
     ],
     "name:nld_x_preferred":[
@@ -165,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0430\u0434\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mogadishu"
     ],
     "name:urd_x_preferred":[
@@ -249,9 +244,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"1,657",
     "statoids:area_mi":"640",
     "statoids:as_of_date":"2014-01-01",
@@ -277,7 +272,7 @@
         "gp:id":2347007,
         "hasc:id":"SO.BN",
         "iso:id":"SO-BN",
-        "qs:id":894982,
+        "qs_pg:id":894982,
         "unlc:id":"SO-BN",
         "wd:id":"Q806070",
         "wk:page":"Banaadir"
@@ -286,6 +281,9 @@
         890449737
     ],
     "wof:country":"SO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cffc609c86274b2a06f01584d50d9697",
     "wof:hierarchy":[
         {
@@ -295,9 +293,6 @@
         }
     ],
     "wof:id":85677263,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "som",
         "ara"
@@ -306,11 +301,10 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1578514137,
+    "wof:lastmodified":1582332253,
     "wof:name":"Banaadir",
     "wof:parent_id":85632379,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1650227,
     "wof:population_rank":12,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":796954.204457,
+    "geom:area_square_m":796954.204454,
     "geom:bbox":"101.539009,3.132181,101.551781,3.149162",
     "geom:latitude":3.143285,
     "geom:longitude":101.544063,
@@ -16,17 +16,15 @@
     "mps:longitude":101.570241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Bandara Sultan Abdul Aziz Shah"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u4e39\u963f\u90fd\u963f\u5179\u6c99\u673a\u573a"
+    "name:ceb_x_preferred":[
+        "Subang/Sultan Abdul Aziz Shah Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen Kuala Lumpur-Sultan Abdul Aziz Shah"
-    ],
-    "name:dut_x_preferred":[
-        "Sultan Abdul Aziz Shah Airport"
     ],
     "name:eng_x_preferred":[
         "Sultan Abdul Aziz Shah Airport"
@@ -41,11 +39,11 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Sultan Abdul Aziz Shah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Sultan Abdul Aziz Shah"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Kuala Lumpur-Sultan Abdul Aziz Shah"
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u092c\u093e\u0902\u0917 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Sultan Abdul Aziz Shah"
@@ -59,17 +57,20 @@
     "name:kor_x_preferred":[
         "\uc220\ud0c4 \uc555\ub458 \uc544\uc9c0\uc988 \uc0e4 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sultan Abdul Aziz Shah"
+    "name:kor_x_variant":[
+        "\uc220\ud0c4 \uc555\ub458 \uc544\uc9c0\uc904\uc0e4 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Sultan Abdul Aziz Shah"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u06cc\u0632 \u0634\u0627\u0647"
+    "name:nld_x_preferred":[
+        "Sultan Abdul Aziz Shah Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kuala Lumpur-Su\u0142tan Abdul Aziz Shah"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sultan Abdul Aziz Shah"
     ],
     "name:srp_x_preferred":[
         "\u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0421\u0443\u043b\u0442\u0430\u043d \u0410\u0431\u0434\u0443\u043b \u0410\u0437\u0438\u0437 \u0428\u0430\u0445"
@@ -79,6 +80,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043b\u0442\u043e\u043d \u044a\u0430\u0431\u0434\u0443\u043b\u044a\u0430\u0437\u0435\u0437 \u0448\u043e\u04b3"
+    ],
+    "name:tur_x_preferred":[
+        "Sultan Abd\u00fclaziz \u015eah Havaliman\u0131"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Sultan Abdul Aziz Shah"
@@ -91,12 +95,9 @@
     ],
     "oa:elevation_ft":"90",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2006,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -136,11 +137,11 @@
         }
     ],
     "wof:id":102551935,
-    "wof:lastmodified":1606163487,
+    "wof:lastmodified":1566654945,
     "wof:name":"Sultan Abdul Aziz Shah Airport",
     "wof:parent_id":85784199,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

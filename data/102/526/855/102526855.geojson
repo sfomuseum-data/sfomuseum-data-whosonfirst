@@ -17,10 +17,11 @@
     "mps:longitude":-71.432378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u666e\u7f85\u7dad\u767b\u65af\u5854\u864e\u6258\u6a5f\u5834"
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Theodore Francis Green State Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "T. F. Green Airport"
     ],
     "name:eng_x_preferred":[
@@ -31,11 +32,11 @@
         "KPVD",
         "T. F. Green Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Providence"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc. \u0627\u0641. \u06af\u0631\u06cc\u0646"
     ],
-    "name:ger_x_preferred":[
-        "T. F. Green Airport"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Providence"
     ],
     "name:ita_x_preferred":[
         "T. F. Green Airport"
@@ -46,14 +47,17 @@
     "name:mar_x_preferred":[
         "\u091f\u0940.\u090f\u092b. \u0917\u094d\u0930\u0940\u0928 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
+    "name:nld_x_preferred":[
+        "T. F. Green Airport"
+    ],
     "name:nob_x_preferred":[
         "T. F. Green lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc. \u0627\u0641. \u06af\u0631\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy T. F. Green"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul T. F. Green"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto T. F. Green"
@@ -61,19 +65,20 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u04e3. \u0443\u0444. \u0433\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T F Green Airport"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc \u0627\u06cc\u0641 \u06af\u0631\u06cc\u0646 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u7dad\u767b\u65af\u5854\u864e\u6258\u6a5f\u5834"
     ],
     "oa:elevation_ft":"55",
     "oa:type":"medium_airport",
-    "sfomuseum:airport_id":111,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"T. F. Green Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589796,
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":102526855,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566609373,
     "wof:name":"Theodore Francis Green State Airport",
     "wof:parent_id":85825603,
     "wof:placetype":"campus",

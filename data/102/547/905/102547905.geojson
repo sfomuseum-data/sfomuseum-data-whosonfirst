@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":143694.832201,
+    "geom:area_square_m":143694.832198,
     "geom:bbox":"100.753792,13.721463,100.75985,13.729552",
     "geom:latitude":13.726381,
     "geom:longitude":100.758214,
@@ -16,35 +16,33 @@
     "mps:longitude":100.75585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Suvarnabhumi Internasionale Lughawe"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0633\u0648\u0641\u0627\u0631\u0646\u0627\u0628\u0648\u0645\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Suvarnabhumi aireportua"
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Suvarnabhumi"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09ac\u09b0\u09cd\u09a3\u09ad\u09c2\u09ae\u09bf \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:bur_x_preferred":[
-        "\u101e\u102f\u101d\u100f\u1039\u100f\u1018\u1030\u1019\u102d\u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
     "name:cat_x_preferred":[
         "Aeroport Suvarnabhumi"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u51e1\u7d0d\u5e03\u6a5f\u5834"
+    "name:ceb_x_preferred":[
+        "Suvarnabhumi Airport"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Bangkok-Suvarnabhumi"
     ],
     "name:dan_x_preferred":[
         "Suvarnabhumi Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Suvarnabhumi"
+    "name:deu_x_preferred":[
+        "Flughafen Bangkok-Suvarnabhumi"
     ],
     "name:eng_x_preferred":[
         "Suvarnabhumi Airport"
@@ -53,14 +51,20 @@
         "BKK",
         "VTBS"
     ],
+    "name:est_x_preferred":[
+        "Suvarnabhumi rahvusvaheline lennujaam"
+    ],
+    "name:eus_x_preferred":[
+        "Suvarnabhumi aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0648\u0648\u0627\u0631\u0646\u0627\u0628\u0648\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Suvarnabhumin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Bangkok-Suvarnabhumi"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bangkok-Suvarnabhumi"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d5\u05d1\u05e8\u05e0\u05d1\u05d4\u05d5\u05de\u05d9"
@@ -86,14 +90,20 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0935\u0930\u094d\u0923\u092d\u0942\u092e\u0940 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
+        "Bandar Udara Internasional Suvarnabhumi"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Suvarnabhumi"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u102f\u101d\u100f\u1039\u100f\u1018\u1030\u1019\u102d\u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Suvarnabhumi"
     ],
     "name:nob_x_preferred":[
         "Suvarnabhumi lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0648\u0648\u0627\u0631\u0646\u0627\u0628\u0648\u0645\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u0627\u0631\u0646\u0627\u0628\u06be\u0648\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u06c1"
@@ -104,10 +114,13 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Suvarnabhumi"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Suvarnabhumi"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0432\u0430\u0440\u043d\u0430\u0431\u0445\u0443\u043c\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Suvarnabhumi"
     ],
     "name:spa_x_preferred":[
@@ -143,16 +156,14 @@
     "name:yue_x_preferred":[
         "\u65b0\u66fc\u8c37\u570b\u969b\u6a5f\u5834"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u51e1\u7d0d\u5e03\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"5",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":9,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Suvarnabhumi Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424960,
         "county_id":28341431,
@@ -188,11 +199,11 @@
         }
     ],
     "wof:id":102547905,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566656827,
     "wof:name":"Suvarnabhumi International Airport",
     "wof:parent_id":102025675,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

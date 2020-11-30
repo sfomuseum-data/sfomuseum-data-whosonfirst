@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.794041,
-    "geom:area_square_m":154010911303.584381,
+    "geom:area_square_m":154010911303.584259,
     "geom:bbox":"-85.605165,30.355757,-80.751429,35.000659",
     "geom:latitude":32.638611,
     "geom:longitude":-83.42714,
@@ -144,6 +144,9 @@
     "name:dan_x_preferred":[
         "Georgia"
     ],
+    "name:deu_ch_x_preferred":[
+        "Georgia"
+    ],
     "name:deu_x_preferred":[
         "Georgia"
     ],
@@ -158,6 +161,12 @@
     ],
     "name:eml_x_preferred":[
         "Ge\u00f2rgia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Georgia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Georgia"
     ],
     "name:eng_x_colloquial":[
         "Peach State"
@@ -219,6 +228,9 @@
     ],
     "name:glv_x_preferred":[
         "Yn \u00c7horshey"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf33\ud800\udf34\ud800\udf39\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf33\ud800\udf39\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Georgia"
@@ -472,6 +484,9 @@
     "name:pol_x_preferred":[
         "Georgia"
     ],
+    "name:por_br_x_preferred":[
+        "Ge\u00f3rgia"
+    ],
     "name:por_x_preferred":[
         "Ge\u00f3rgia"
     ],
@@ -710,10 +725,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -737,6 +751,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":11,
         "fips:code":"US13",
         "gn:id":4197000,
         "gp:id":2347569,
@@ -746,6 +761,9 @@
         "wd:id":"Q1428"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"0f79d7b412be5b45f0cfa9592912d707",
     "wof:hierarchy":[
         {
@@ -763,7 +781,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163115,
+    "wof:lastmodified":1587428450,
     "wof:name":"Georgia",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

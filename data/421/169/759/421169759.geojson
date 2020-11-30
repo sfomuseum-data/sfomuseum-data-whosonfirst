@@ -25,17 +25,17 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b8\u09be\u09af\u09bc"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8b1d"
-    ],
     "name:dan_x_preferred":[
+        "Pasay"
+    ],
+    "name:deu_x_preferred":[
         "Pasay"
     ],
     "name:diq_x_preferred":[
         "Pasay"
     ],
-    "name:dut_x_preferred":[
-        "Pasay"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:eng_x_colloquial":[
         "Pasay"
@@ -43,17 +43,14 @@
     "name:eng_x_preferred":[
         "Pasay"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pasay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pasay"
-    ],
-    "name:ger_x_preferred":[
-        "Pasay"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab8\u0ac7\u0aaf"
@@ -94,7 +91,10 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u0902\u0938\u0947\u092f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pasay"
+    ],
+    "name:nld_x_preferred":[
         "Pasay"
     ],
     "name:nob_x_preferred":[
@@ -105,9 +105,6 @@
     ],
     "name:pam_x_preferred":[
         "Pasay"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Pasay"
@@ -156,6 +153,9 @@
     ],
     "name:war_x_preferred":[
         "Pasay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u8b1d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Philippines",
@@ -267,9 +267,9 @@
     "qs:qs_id":240001,
     "qs:woe_adm0":23424934,
     "qs:woe_id":1187094,
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
@@ -287,6 +287,10 @@
     },
     "wof:country":"PH",
     "wof:created":1459008823,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7873ef6619de8125f0d63ae0e6013e25",
     "wof:hierarchy":[
         {
@@ -297,7 +301,7 @@
         }
     ],
     "wof:id":421169759,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1582346797,
     "wof:name":"Pasay City",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

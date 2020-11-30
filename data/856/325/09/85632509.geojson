@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.676486,
-    "geom:area_square_m":298114020623.773682,
+    "geom:area_square_m":298114024677.518738,
     "geom:bbox":"116.927086,4.505389,126.604584,21.125416",
     "geom:latitude":11.737001,
     "geom:longitude":122.863263,
@@ -1015,15 +1015,10 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "sfomuseum:hashtags":[
-        "philippines"
-    ],
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1054,6 +1049,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Philippines",
+        "digitalenvoy:country_code":608,
         "fb:id":"en.philippines",
         "fifa:id":"PHI",
         "fips:code":"RP",
@@ -1077,6 +1073,11 @@
     },
     "wof:country":"PH",
     "wof:country_alpha3":"PHL",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"d30b724a53510422c3bbd3ecbc786b1d",
     "wof:hierarchy":[
         {
@@ -1100,7 +1101,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1606163300,
+    "wof:lastmodified":1583797414,
     "wof:name":"Philippines",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

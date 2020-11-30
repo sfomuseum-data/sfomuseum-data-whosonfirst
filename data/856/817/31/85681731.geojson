@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270574,
-    "geom:area_square_m":2111287922.355694,
+    "geom:area_square_m":2111287602.551559,
     "geom:bbox":"3.889302,50.687694,5.187943,51.0499",
     "geom:latitude":50.872718,
     "geom:longitude":4.590561,
@@ -19,8 +19,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VB"
+    ],
     "lbl:latitude":50.872858,
     "lbl:longitude":4.575076,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.872858,
     "mps:longitude":4.575076,
     "mz:hierarchy_label":1,
@@ -36,11 +40,20 @@
     "name:arg_x_preferred":[
         "Brabant Flamenco"
     ],
+    "name:ast_x_preferred":[
+        "Brabante Flamencu"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0430\u043d\u0434\u0441\u043a\u0456 \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
     ],
     "name:bel_x_variant":[
         "\u0424\u043b\u044f\u043c\u0430\u043d\u0434\u0437\u043a\u0456 \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09cd\u09b2\u09c7\u09ae\u09bf\u09b6 \u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09ac\u09c7\u09a8\u09cd\u099f"
+    ],
+    "name:bos_x_preferred":[
+        "Flamanski Brabant"
     ],
     "name:bre_x_preferred":[
         "Brabant Flandrez"
@@ -72,6 +85,9 @@
     "name:ell_x_preferred":[
         "\u03a6\u03bb\u03b1\u03bc\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u0392\u03c1\u03b1\u03b2\u03ac\u03bd\u03c4\u03b7"
     ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03b1\u03bc\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u039c\u03c0\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Vlaams-Brabant"
     ],
@@ -100,13 +116,26 @@
     "name:fra_x_variant":[
         "Brabant-Flamand",
         "Brabant Flamand",
-        "Province de Brabant Flamand"
+        "Province de Brabant Flamand",
+        "Brabant flamand"
+    ],
+    "name:frr_x_preferred":[
+        "Fleemisk Brabant"
     ],
     "name:fry_x_preferred":[
         "Flaamsk-Brab\u00e2n"
     ],
     "name:glg_x_preferred":[
         "Brabante Flamengo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0acd\u0ab2\u0ac7\u0aae\u0abf\u0ab6 \u0aac\u0acd\u0ab0\u0abe\u0aac\u0ac7\u0a82\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d1\u05e0\u05d8 \u05d4\u05e4\u05dc\u05de\u05d9\u05ea"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094d\u0932\u0947\u092e\u093f\u0936 \u092c\u094d\u0930\u092c\u0947\u0902\u091f"
     ],
     "name:hrv_x_preferred":[
         "Flamanski Brabant"
@@ -117,6 +146,9 @@
     "name:hye_x_preferred":[
         "\u0556\u056c\u0561\u0574\u0561\u0576\u0564\u0561\u056f\u0561\u0576 \u0532\u0580\u0561\u0562\u0561\u0576\u057f"
     ],
+    "name:ind_x_preferred":[
+        "Flemish Brabant"
+    ],
     "name:isl_x_preferred":[
         "Fl\u00e6mska Brabant"
     ],
@@ -126,17 +158,26 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30fc\u30e0\u30b9\uff1d\u30d6\u30e9\u30d0\u30f3\u30c8\u5dde"
     ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0ccd\u0cb2\u0cc6\u0cae\u0cbf\u0cb6\u0ccd \u0cac\u0ccd\u0cb0\u0cac\u0c82\u0c9f\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e4\u10da\u10d0\u10db\u10d0\u10dc\u10d3\u10d8\u10d8\u10e1 \u10d1\u10e0\u10d0\u10d1\u10d0\u10dc\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub78c\uc2a4\ube0c\ub77c\ubc18\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub78c\uc2a4\ube0c\ub77c\ubc18\ud2b8\uc8fc"
+    ],
     "name:ksh_x_preferred":[
         "Fl\u00e4mesh Brabant"
     ],
     "name:lat_x_preferred":[
         "Brabantia Flandrensis"
+    ],
+    "name:lat_x_variant":[
+        "Brabantia Flandrica"
     ],
     "name:lav_x_preferred":[
         "Fl\u0101mu Brabante"
@@ -153,11 +194,17 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0932\u093e\u092e\u094d\u0938 \u092c\u094d\u0930\u093e\u092c\u093e\u0902\u0924"
     ],
+    "name:mkd_x_preferred":[
+        "\u0424\u043b\u0430\u043c\u0430\u043d\u0441\u043a\u0438 \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
+    ],
     "name:mlt_x_preferred":[
         "Brabant Fjamming"
     ],
     "name:msa_x_preferred":[
         "Brabant Flanders"
+    ],
+    "name:nan_x_preferred":[
+        "Vlaams-Brabant S\u00e9ng"
     ],
     "name:nds_nld_x_preferred":[
         "Floams Broabant"
@@ -168,6 +215,9 @@
     "name:nld_x_variant":[
         "Vlaams Brabant",
         "Provincie Vlaams-Brabant"
+    ],
+    "name:nob_x_preferred":[
+        "Flamsk Brabant"
     ],
     "name:nor_x_preferred":[
         "Flamsk Brabant"
@@ -193,6 +243,9 @@
     "name:sco_x_preferred":[
         "Flemish Brabant"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dca\u0dbd\u0dd9\u0db8\u0dd2\u0dc2\u0dca \u0db6\u0dca\u200d\u0dbb\u0db6\u0db1\u0dca\u0da7\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Fl\u00e1msky Brabant"
     ],
@@ -205,6 +258,12 @@
     "name:swe_x_preferred":[
         "Flaml\u00e4ndska Brabant"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb2\u0bc6\u0bae\u0bbf\u0bb7\u0bcd \u0baa\u0bbf\u0bb0\u0baa\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c4d\u0c32\u0c46\u0c2e\u0c3f\u0c37\u0c4d \u0c2c\u0c4d\u0c30\u0c3e\u0c2c\u0c02\u0c1f\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e40\u0e1f\u0e25\u0e21\u0e34\u0e0a\u0e1a\u0e23\u0e32\u0e1a\u0e31\u0e19\u0e15\u0e4c"
     ],
@@ -213,9 +272,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0439 \u0411\u0440\u0430\u0431\u0430\u043d\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Flemish Brabant"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u06cc\u0645\u0634 \u0628\u0631\u0627\u0628\u0646\u0679"
@@ -234,6 +290,9 @@
     ],
     "name:wln_x_preferred":[
         "Province do Braibant flamind"
+    ],
+    "name:zea_x_preferred":[
+        "Vlaoms-Braebant"
     ],
     "name:zho_min_nan_x_preferred":[
         "Vlaams-Brabant S\u00e9ng"
@@ -312,12 +371,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Province#Provincie#Provinz",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"2,106",
     "statoids:area_mi":"814",
     "statoids:as_of_date":"2010-01-01",
@@ -339,6 +397,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":14480,
         "fips:code":"BE12",
         "gn:id":3333250,
         "gp:id":22525998,
@@ -368,16 +427,15 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1606163383,
+    "wof:lastmodified":1583882702,
     "wof:name":"Vlaams-Brabant",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1076924,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"VBR",
+    "wof:shortcode":"VB",
     "wof:subdivision":"BE-VBR",
     "wof:superseded_by":[],
     "wof:supersedes":[],

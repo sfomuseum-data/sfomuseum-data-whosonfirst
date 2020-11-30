@@ -11,10 +11,14 @@
     "geom:longitude":-81.36706,
     "gn:country":"KY",
     "gn:fcode":"PPLC",
-    "gn:pop":29370,
+    "gn:population":29370,
     "iso:country":"KY",
+    "lbl:bbox":"-81.38706,19.26692,-81.34706,19.30692",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Georgetown"
     ],
@@ -27,11 +31,11 @@
     "name:aze_x_preferred":[
         "Corctaun"
     ],
-    "name:baq_x_preferred":[
-        "George Town"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u045e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u045e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09b0\u09cd\u099c \u099f\u09be\u0989\u09a8"
@@ -45,10 +49,10 @@
     "name:cat_x_preferred":[
         "George Town"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u6cbb\u6566"
+    "name:ceb_x_preferred":[
+        "George Town"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "George Town"
     ],
     "name:dan_x_preferred":[
@@ -57,14 +61,12 @@
     "name:deu_x_preferred":[
         "George Town"
     ],
-    "name:dut_x_preferred":[
-        "George Town"
-    ],
     "name:ell_x_preferred":[
         "George Town"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03b6\u03c9\u03c1\u03c4\u03b6 \u03a4\u03ac\u03bf\u03c5\u03bd"
+        "\u03a4\u03b6\u03c9\u03c1\u03c4\u03b6 \u03a4\u03ac\u03bf\u03c5\u03bd",
+        "\u03a4\u03b6\u03c9\u03c1\u03c4\u03b6\u03c4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "George Town"
@@ -72,8 +74,17 @@
     "name:epo_x_preferred":[
         "Georgurbo"
     ],
+    "name:epo_x_variant":[
+        "\u011cor\u011dta\u016dno"
+    ],
+    "name:eus_x_preferred":[
+        "George Town"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0631\u062c\u200c\u062a\u0627\u0648\u0646\u060c \u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0631\u062c\u200c\u062a\u0627\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "George Town"
@@ -81,26 +92,17 @@
     "name:fra_x_preferred":[
         "George Town"
     ],
-    "name:fre_x_preferred":[
-        "George Town"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10dd\u10e0\u10ef\u10e2\u10d0\u10e3\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "George Town"
-    ],
     "name:glg_x_preferred":[
         "George Town"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03c9\u03c1\u03c4\u03b6\u03c4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0a9f\u0abe\u0a89\u0aa8"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05d2 \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05e8\u05d2' \u05d8\u05d0\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c \u091f\u093e\u0909\u0928"
@@ -135,20 +137,23 @@
     "name:lav_x_preferred":[
         "D\u017eord\u017etauna"
     ],
+    "name:lij_x_preferred":[
+        "George Town"
+    ],
     "name:lit_x_preferred":[
         "D\u017eord\u017etaunas"
-    ],
-    "name:mac_x_preferred":[
-        "\u040f\u043e\u0440\u045f \u0422\u0430\u0443\u043d"
     ],
     "name:mar_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c\u091f\u093e\u0909\u0928"
     ],
-    "name:may_x_preferred":[
-        "George Town"
-    ],
     "name:mkd_x_preferred":[
         "\u040f\u043e\u0440\u045f \u0422\u0430\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "George Town"
+    ],
+    "name:nan_x_preferred":[
+        "George Town"
     ],
     "name:nld_x_preferred":[
         "Georgetown"
@@ -165,16 +170,16 @@
     "name:oci_x_preferred":[
         "George Town"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0631\u062c\u200c\u062a\u0627\u0648\u0646\u060c \u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646"
-    ],
     "name:pol_x_preferred":[
         "Georgetown"
+    ],
+    "name:pol_x_variant":[
+        "George Town"
     ],
     "name:por_x_preferred":[
         "George Town"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "George Town"
     ],
     "name:rus_x_preferred":[
@@ -187,9 +192,6 @@
         "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0db1\u0d9c\u0dbb\u0dba"
     ],
     "name:slk_x_preferred":[
-        "George Town"
-    ],
-    "name:slo_x_preferred":[
         "George Town"
     ],
     "name:spa_x_preferred":[
@@ -219,6 +221,9 @@
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646\u060c \u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646"
+    ],
     "name:vie_x_preferred":[
         "George Town"
     ],
@@ -238,7 +243,6 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"7",
-    "sfomuseum:placetype":"city",
     "src:population":"geonames",
     "wd:wordcount":433,
     "wof:belongsto":[
@@ -251,7 +255,7 @@
     "wof:concordances":{
         "gn:id":3580661,
         "gp:id":57599,
-        "qs:id":149054,
+        "qs_pg:id":149054,
         "wd:id":"Q172996",
         "wk:page":"Georgetown"
     },
@@ -269,7 +273,7 @@
         }
     ],
     "wof:id":890434949,
-    "wof:lastmodified":1606163453,
+    "wof:lastmodified":1566591083,
     "wof:name":"George Town",
     "wof:parent_id":85681183,
     "wof:placetype":"locality",

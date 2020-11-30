@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.802383,
-    "geom:area_square_m":135796227322.009277,
+    "geom:area_square_m":135796227322.004913,
     "geom:bbox":"-94.043352,28.855127,-88.758388,33.019543",
     "geom:latitude":30.909038,
     "geom:longitude":-91.814093,
@@ -142,6 +142,9 @@
     "name:dan_x_preferred":[
         "Louisiana"
     ],
+    "name:deu_ch_x_preferred":[
+        "Louisiana"
+    ],
     "name:deu_x_preferred":[
         "Louisiana"
     ],
@@ -153,6 +156,12 @@
     ],
     "name:eml_x_preferred":[
         "Lui\u015bi\u00e0na"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Louisiana"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Louisiana"
     ],
     "name:eng_x_colloquial":[
         "Pelican State"
@@ -464,6 +473,9 @@
     "name:pol_x_preferred":[
         "Luizjana"
     ],
+    "name:por_br_x_preferred":[
+        "Luisiana"
+    ],
     "name:por_x_preferred":[
         "Luisiana"
     ],
@@ -610,8 +622,14 @@
     "name:zea_x_preferred":[
         "Louisiana"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Louisiana"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u8def\u6613\u65af\u5b89\u90a3\u5dde"
@@ -685,10 +703,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -713,6 +730,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":19,
         "fips:code":"US22",
         "gn:id":4331987,
         "gp:id":2347577,
@@ -722,6 +740,9 @@
         "wd:id":"Q1588"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"17fefd8fea5daa3972cd9d03b18cb7e0",
     "wof:hierarchy":[
         {
@@ -739,7 +760,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163354,
+    "wof:lastmodified":1587428408,
     "wof:name":"Louisiana",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

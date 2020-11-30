@@ -5,19 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940092,
-    "geom:area_square_m":7534379472.666171,
+    "geom:area_square_m":7534379033.202215,
     "geom:bbox":"12.401459,48.941422,13.834253,50.104321",
     "geom:latitude":49.597196,
     "geom:longitude":13.221974,
     "iso:country":"CZ",
+    "label:ces_x_preferred_longname":[
+        "Plze\u0148sk\u00fd kraj"
+    ],
+    "label:ces_x_preferred_placetype":[
+        "kraj"
+    ],
     "label:eng_x_preferred_longname":[
-        "Plze\u0148sk\u00fd Region"
+        "Plze\u0148 Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PK"
+    ],
     "lbl:latitude":49.62242,
     "lbl:longitude":13.22196,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.62242,
     "mps:longitude":13.22196,
     "mz:hierarchy_label":1,
@@ -27,11 +37,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0644\u0632\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u0644\u0632\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Plzen diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Pilsen eskualdea"
+    "name:bak_x_preferred":[
+        "\u041f\u043b\u044c\u0437\u0435\u043d\u044c \u043a\u0440\u0430\u0439\u044b"
     ],
     "name:bel_x_preferred":[
         "\u041f\u043b\u044c\u0437\u0435\u043d\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
@@ -55,24 +68,28 @@
         "Plze\u0148sk\u00fd kraj"
     ],
     "name:ces_x_preferred":[
-        "Plze\u0148sk\u00fd kraj"
+        "Plze\u0148sk\u00fd"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u68ee\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Plze\u0148sk\u00fd kraj"
     ],
     "name:dan_x_preferred":[
         "Plze\u0148"
     ],
+    "name:deu_x_preferred":[
+        "Plze\u0148sk\u00fd kraj"
+    ],
     "name:diq_x_preferred":[
         "Plze\u0148sk\u00fd kraj"
     ],
-    "name:dut_x_preferred":[
-        "Pilsen"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03af\u03bb\u03c3\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Plze\u0148"
+    ],
+    "name:eng_x_variant":[
+        "Plze\u0148 Region",
         "Plzensk\u00fd"
     ],
     "name:epo_x_preferred":[
@@ -81,20 +98,23 @@
     "name:est_x_preferred":[
         "Plze\u0148i maakond"
     ],
+    "name:eus_x_preferred":[
+        "Pilsen eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0644\u0632\u0646"
+    ],
     "name:fin_x_preferred":[
         "Plze\u0148in l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "r\u00e9gion de Plze\u0148"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d6\u10d4\u10dc\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    "name:fra_x_variant":[
+        "Plze\u0148"
     ],
-    "name:ger_x_preferred":[
-        "Plze\u0148sk\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03af\u03bb\u03c3\u03b5\u03bd"
+    "name:frr_x_preferred":[
+        "Plze\u0148"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac0\u0ab2\u0acd\u0a9d\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -107,6 +127,9 @@
     ],
     "name:hrv_x_preferred":[
         "Plze\u0148ski kraj"
+    ],
+    "name:hsb_x_preferred":[
+        "Plze\u0148sk\u00fd kraj"
     ],
     "name:hun_x_preferred":[
         "Plze\u0148i ker\u00fclet"
@@ -123,8 +146,14 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb2\u0cc6\u0c9d\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d6\u10d4\u10dc\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud50c\uc820 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\uc820\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Plze\u0146as apgabals"
@@ -132,17 +161,20 @@
     "name:lit_x_preferred":[
         "Pilzeno kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u2019\u043b\u0437\u0435\u045a\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0932\u0945\u091c\u093c\u0947\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u2019\u043b\u0437\u0435\u045a\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Plze\u0148"
     ],
     "name:nan_x_preferred":[
         "Plze\u0148 Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Pilsen"
     ],
     "name:nob_x_preferred":[
         "Plze\u0148 region"
@@ -153,9 +185,6 @@
     "name:pam_x_preferred":[
         "Plze\u0148 Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0644\u0632\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0644\u0632\u06cc\u0646 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -165,8 +194,11 @@
     "name:por_x_preferred":[
         "Plze\u0148"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Plze\u0148"
+    ],
+    "name:ron_x_variant":[
+        "Plze\u0148"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043b\u044c\u0437\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -174,7 +206,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dca\u0dbd\u0dca\u0dc3\u0dd9\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plzensk\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -187,7 +219,10 @@
         "Plze\u0148"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb2\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0baa\u0bbf\u0bb2\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043b\u044c\u0437\u0435\u043d \u0442\u04e9\u0431\u04d9\u0433\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c32\u0c3f\u0c1c\u0c46\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -201,9 +236,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u044c\u0437\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Plze\u0148sk\u00fd kraj"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0632\u06cc\u0646 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -212,6 +244,9 @@
     ],
     "name:war_x_preferred":[
         "Plze\u0148"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u68ee\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -281,12 +316,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Kraj",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-26",
+    "src:population_date":"2011-03-26",
     "statoids:area_km":"7,561",
     "statoids:area_mi":"2,919",
     "statoids:as_of_date":"2011-03-26",
@@ -328,11 +362,10 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1606163367,
+    "wof:lastmodified":1585866655,
     "wof:name":"Plze\u0148sk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":570401,
     "wof:population_rank":11,

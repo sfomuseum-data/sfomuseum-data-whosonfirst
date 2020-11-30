@@ -8,21 +8,105 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.477649,
-    "geom:area_square_m":308626546267.625671,
+    "geom:area_square_m":308626546267.637878,
     "geom:bbox":"72.64293,15.606794,80.899558,22.029028",
     "geom:latitude":19.45087,
     "geom:longitude":76.10584,
     "gn:population":112374333,
     "iso:country":"IN",
-    "label:eng_x_abbreviation":"MH",
+    "label:ben_x_preferred_longname":[
+        "\u09ae\u09b9\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0"
+    ],
+    "label:ben_x_preferred_placetype":[
+        "\u0985\u099e\u09cd\u099a\u09b2"
+    ],
     "label:eng_x_preferred_longname":[
-        "Maharashtra State"
+        "Maharashtra"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
+    "label:eng_x_variant_longname":[
+        "Maharashtra State"
+    ],
+    "label:guj_x_preferred_longname":[
+        "\u0aae\u0ab9\u0abe\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0"
+    ],
+    "label:guj_x_preferred_placetype":[
+        "\u0ab0\u0abe\u0a9c\u0acd\u0aaf"
+    ],
+    "label:hin_x_preferred_longname":[
+        "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
+    "label:hin_x_preferred_placetype":[
+        "\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "label:kan_x_preferred_longname":[
+        "\u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0"
+    ],
+    "label:kan_x_preferred_placetype":[
+        "\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "label:mai_x_preferred_longname":[
+        "\u092e\u0939\u093e \u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
+    "label:mai_x_preferred_placetype":[
+        "\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "label:mal_x_preferred_longname":[
+        "\u0d2e\u0d39\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30"
+    ],
+    "label:mal_x_preferred_placetype":[
+        "\u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d02"
+    ],
+    "label:mar_x_preferred_longname":[
+        "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
+    "label:mar_x_preferred_placetype":[
+        "\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "label:nep_x_preferred_longname":[
+        "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
+    "label:nep_x_preferred_placetype":[
+        "\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "label:ori_x_preferred_longname":[
+        "\u0b2e\u0b39\u0b3e\u0b30\u0b3e\u0b37\u0b4d\u0b1f\u0b4d\u0b30"
+    ],
+    "label:ori_x_preferred_placetype":[
+        "\u0b30\u0b3e\u0b1c\u0b4d\u0b5f"
+    ],
+    "label:pan_x_preferred_longname":[
+        "\u0a2e\u0a39\u0a3e\u0a02\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30"
+    ],
+    "label:pan_x_preferred_placetype":[
+        "\u0a38\u0a42\u0a2c\u0a3e"
+    ],
+    "label:tam_x_preferred_longname":[
+        "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bae\u0bcd"
+    ],
+    "label:tam_x_preferred_placetype":[
+        "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+    ],
+    "label:tel_x_preferred_longname":[
+        "\u0c2e\u0c39\u0c3e\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30"
+    ],
+    "label:tel_x_preferred_placetype":[
+        "\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
+    ],
+    "label:urd_x_preferred_longname":[
+        "\u0645\u06c1\u0627\u0631\u0627\u0634\u0679\u0631"
+    ],
+    "label:urd_x_preferred_placetype":[
+        "\u0631\u06cc\u0627\u0633\u062a"
+    ],
     "lbl:latitude":19.405779,
     "lbl:longitude":75.70204,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.399172,
     "mps:longitude":75.703181,
     "mz:hierarchy_label":1,
@@ -32,23 +116,38 @@
     "name:ace_x_preferred":[
         "Maharashtra"
     ],
+    "name:afr_x_preferred":[
+        "Maharashtra"
+    ],
+    "name:amh_x_preferred":[
+        "\u121b\u1203\u122b\u123d\u1275\u122b"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u0627\u0631\u0627\u0634\u062a\u0631\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0570\u0561\u0580\u0561\u0577\u057f\u0580\u0561"
+    "name:asm_x_preferred":[
+        "\u09ae\u09b9\u09be\u09f0\u09be\u09b7\u09cd\u099f\u09cd\u09f0"
+    ],
+    "name:ast_x_preferred":[
+        "Maharastra"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0647\u0627\u0631\u0627\u0634\u062a\u0631\u0627"
     ],
     "name:aze_x_preferred":[
         "Maxara\u015ftra"
-    ],
-    "name:baq_x_preferred":[
-        "Maharashtra"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
     ],
     "name:bel_x_variant":[
         "\u041c\u0430\u0433\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
+    ],
+    "name:ben_bn_x_preferred":[
+        "\u09ae\u09b9\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0"
+    ],
+    "name:ben_in_x_preferred":[
+        "\u09ae\u09b9\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09b9\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0"
@@ -71,22 +170,25 @@
     "name:cat_x_preferred":[
         "Maharashtra"
     ],
+    "name:cdo_x_preferred":[
+        "Maharashtra"
+    ],
     "name:ces_x_preferred":[
         "Mah\u00e1r\u00e1\u0161tra"
     ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    "name:ckb_x_preferred":[
+        "\u0645\u06d5\u06be\u0627\u0631\u0627\u0634\u062a\u0631\u0627"
     ],
     "name:cym_x_preferred":[
         "Maharashtra"
     ],
-    "name:cze_x_preferred":[
-        "Mah\u00e1r\u00e1\u0161tra"
-    ],
     "name:dan_x_preferred":[
+        "Maharashtra"
+    ],
+    "name:deu_ch_x_preferred":[
         "Maharashtra"
     ],
     "name:deu_x_preferred":[
@@ -98,11 +200,17 @@
     "name:dsb_x_preferred":[
         "Mahara\u0161tra"
     ],
-    "name:dut_x_preferred":[
-        "Maharashtra"
+    "name:dty_x_preferred":[
+        "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c7\u03b1\u03c1\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Maharashtra"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Maharashtra"
     ],
     "name:eng_x_preferred":[
         "Maharashtra"
@@ -117,6 +225,9 @@
     "name:est_x_preferred":[
         "Maharashtra"
     ],
+    "name:est_x_variant":[
+        "Mah\u0101r\u0101shtra"
+    ],
     "name:eus_x_preferred":[
         "Maharashtra"
     ],
@@ -129,13 +240,7 @@
     "name:fra_x_preferred":[
         "Maharashtra"
     ],
-    "name:fre_x_preferred":[
-        "Maharashtra"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10f0\u10d0\u10e0\u10d0\u10e8\u10e2\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:frr_x_preferred":[
         "Maharashtra"
     ],
     "name:gle_x_preferred":[
@@ -143,9 +248,6 @@
     ],
     "name:gom_x_preferred":[
         "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c7\u03b1\u03c1\u03ac\u03c3\u03c4\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab9\u0abe\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0"
@@ -174,8 +276,8 @@
     "name:hun_x_preferred":[
         "Mah\u00e1r\u00e1stra"
     ],
-    "name:ice_x_preferred":[
-        "Maharashtra"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0570\u0561\u0580\u0561\u0577\u057f\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Maharashtra"
@@ -212,8 +314,14 @@
         "\ub9c8\ud558\ub77c\uc288\ud2b8\ub77c",
         "\ub9c8\ud558\ub77c\uc288\ud2b8\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ud558\ub77c\uc288\ud2b8\ub77c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Maharastra"
+    ],
+    "name:lat_x_variant":[
+        "Maharashtra"
     ],
     "name:lav_x_preferred":[
         "Mah\u0101r\u0101\u0161tra"
@@ -221,8 +329,8 @@
     "name:lit_x_preferred":[
         "Mahara\u0161tra"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
+    "name:ltz_x_preferred":[
+        "Maharashtra"
     ],
     "name:mai_x_preferred":[
         "\u092e\u0939\u093e \u0930\u093e\u0937\u094d\u091f\u094d\u0930"
@@ -232,9 +340,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Maharashtra"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
@@ -275,20 +380,27 @@
     "name:ori_x_preferred":[
         "\u0b2e\u0b39\u0b3e\u0b30\u0b3e\u0b37\u0b4d\u0b1f\u0b4d\u0b30"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u00e6"
+    ],
     "name:pam_x_preferred":[
         "Maharashtra"
     ],
     "name:pan_x_preferred":[
-        "\u0a2e\u0a39\u0a3e\u0a02\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30"
+        "\u0a2e\u0a39\u0a3e\u0a30\u0a3e\u0a36\u0a1f\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0647\u0627\u0631\u0627\u0634\u062a\u0631\u0627"
+    "name:pan_x_variant":[
+        "\u0a2e\u0a39\u0a3e\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30",
+        "\u0a2e\u0a39\u0a3e\u0a02\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06c1\u0627\u0631\u0627\u0634\u0679\u0631"
     ],
     "name:pol_x_preferred":[
         "Maharasztra"
+    ],
+    "name:por_br_x_preferred":[
+        "Maharashtra"
     ],
     "name:por_x_preferred":[
         "Maharashtra"
@@ -299,10 +411,10 @@
     "name:pus_x_preferred":[
         "\u0645\u0647\u0627\u0631\u0627\u0634\u067c\u0631\u0627"
     ],
-    "name:ron_x_preferred":[
-        "Maharashtra"
+    "name:pus_x_variant":[
+        "\u0645\u0647\u0627\u0631\u0627\u0634\u062a\u0631\u0627"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Maharashtra"
     ],
     "name:rus_x_preferred":[
@@ -310,6 +422,9 @@
     ],
     "name:san_x_preferred":[
         "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0930\u093e\u091c\u094d\u092f\u092e\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5a\u1c66\u1c5f\u1c68\u1c5f\u1c65\u1c74\u1c68\u1c5a"
     ],
     "name:sco_x_preferred":[
         "Maharashtra"
@@ -320,11 +435,11 @@
     "name:slk_x_preferred":[
         "Mah\u00e1ra\u0161tra"
     ],
-    "name:slo_x_preferred":[
-        "Mah\u00e1ra\u0161tra"
-    ],
     "name:slv_x_preferred":[
         "Mahara\u0161tra"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u06be\u0627\u0631\u0627\u0634\u067d\u0631"
     ],
     "name:spa_x_preferred":[
         "Maharastra"
@@ -339,6 +454,9 @@
         "Maharashtra"
     ],
     "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bbf\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
         "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
@@ -348,6 +466,9 @@
         "\u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0"
     ],
     "name:tel_x_preferred":[
+        "\u0c2e\u0c39\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30"
+    ],
+    "name:tel_x_variant":[
         "\u0c2e\u0c39\u0c3e\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30"
     ],
     "name:tgk_x_preferred":[
@@ -365,9 +486,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mah\u0101r\u0101shtra"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0627\u0631\u0627\u0634\u0679\u0631"
     ],
@@ -383,8 +501,8 @@
     "name:war_x_preferred":[
         "Maharashtra"
     ],
-    "name:wel_x_preferred":[
-        "Maharashtra"
+    "name:wuu_x_preferred":[
+        "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10f0\u10d0\u10e0\u10d0\u10e8\u10e2\u10e0\u10d0"
@@ -398,8 +516,26 @@
     "name:yue_x_preferred":[
         "\u99ac\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Maharashtra"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u99ac\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u54c8\u62c9\u4ec0\u7279\u62c9\u90a6"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
@@ -476,14 +612,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"State",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"307,690",
     "statoids:area_mi":"118,800",
     "statoids:as_of_date":"2011-02-09",
@@ -504,18 +639,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":1320,
         "fips:code":"IN16",
         "gn:id":1264418,
         "gp:id":2345750,
         "hasc:id":"IN.MH",
         "iso:id":"IN-MH",
         "loc:id":"n50000932",
-        "qs:id":884363,
+        "qs_pg:id":884363,
         "unlc:id":"IN-MH",
         "wd:id":"Q1191",
         "wk:page":"Maharashtra"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"503971e88fb47c9743c1c4929d417e84",
     "wof:hierarchy":[
         {
@@ -552,7 +691,7 @@
         "kha",
         "san"
     ],
-    "wof:lastmodified":1606163289,
+    "wof:lastmodified":1599602390,
     "wof:name":"Maharashtra",
     "wof:parent_id":85632469,
     "wof:placetype":"region",

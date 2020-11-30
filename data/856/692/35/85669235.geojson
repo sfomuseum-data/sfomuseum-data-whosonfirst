@@ -15,20 +15,15 @@
     ],
     "lbl:latitude":43.775145,
     "lbl:longitude":18.235108,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.785762,
     "mps:longitude":18.261548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Kantoni i Sarajev\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0633\u0631\u0627\u064a\u064a\u0641\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0580\u0561\u0587\u0578\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:bos_x_preferred":[
         "Sarajevo kanton"
@@ -42,19 +37,13 @@
     "name:cat_x_preferred":[
         "Cant\u00f3 de Sarajevo"
     ],
+    "name:ceb_x_preferred":[
+        "Kanton Sarajevo"
+    ],
     "name:ces_x_preferred":[
         "Sarajevo"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u71b1\u7aa9\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Sarajevo"
-    ],
     "name:deu_x_preferred":[
-        "Kanton Sarajevo"
-    ],
-    "name:dut_x_preferred":[
         "Kanton Sarajevo"
     ],
     "name:eng_x_preferred":[
@@ -75,14 +64,8 @@
     "name:fra_x_preferred":[
         "Canton de Sarajevo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "canton de Sarajevo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d0\u10d4\u10d5\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Sarajevo"
     ],
     "name:hbs_x_preferred":[
         "Sarajevo kanton"
@@ -120,12 +103,6 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\uc608\ubcf4 \uc8fc"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0440\u0430\u0435\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Sarajevo"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
@@ -141,16 +118,16 @@
     "name:nor_x_preferred":[
         "Sarajevo kanton"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0627\u06cc\u0648\u0648"
-    ],
     "name:pol_x_preferred":[
         "Kanton sarajewski"
+    ],
+    "name:pol_x_variant":[
+        "Kanton Sarajewo"
     ],
     "name:ron_x_preferred":[
         "Cantonul Sarajevo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Sarajevo"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +138,12 @@
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Sarajevo"
+    ],
+    "name:spa_x_variant":[
+        "Sarajevo"
+    ],
+    "name:sqi_x_preferred":[
+        "Kantoni i Sarajev\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e"
@@ -174,10 +157,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Sarajevski Kanton"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sarajevski Kanton",
         "Kanton 9"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"BA-09",
     "wof:belongsto":[
         102191581,
@@ -274,12 +255,15 @@
         "gn:id":3343737,
         "gp:id":29389657,
         "hasc:id":"BA.BF",
-        "qs:id":1086560,
+        "qs_pg:id":1086560,
         "unlc:id":"BA-09",
         "wd:id":"Q18276",
         "wk:page":"Sarajevo Canton"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fec22747c01ee9b350db3c4133acbf5",
     "wof:hierarchy":[
         {
@@ -289,9 +273,6 @@
         }
     ],
     "wof:id":85669235,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "bos",
         "srp",
@@ -302,7 +283,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1578513912,
+    "wof:lastmodified":1582321448,
     "wof:name":"Sarajevo",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008932,
-    "geom:area_square_m":105185308.142929,
+    "geom:area_square_m":105185308.14299,
     "geom:bbox":"168.257387,-17.806732,168.415476,-17.672381",
     "geom:latitude":-17.746252,
     "geom:longitude":168.336904,
     "gn:country":"VU",
     "gn:fcode":"PPLC",
-    "gn:pop":35901,
+    "gn:population":35901,
     "iso:country":"VU",
     "lbl:latitude":-17.73381,
     "lbl:longitude":168.32188,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:categories":[],
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
@@ -26,9 +28,6 @@
     "name:afr_x_preferred":[
         "Port Vila"
     ],
-    "name:alb_x_preferred":[
-        "Port Vila"
-    ],
     "name:amh_x_preferred":[
         "\u1356\u122d\u1275 \u126a\u120b"
     ],
@@ -38,26 +37,26 @@
     "name:arg_x_preferred":[
         "Port Vila"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u057f \u054e\u056b\u056c\u0561"
-    ],
     "name:ast_x_preferred":[
         "Port Vila"
     ],
     "name:aze_x_preferred":[
         "Port Vila"
     ],
-    "name:baq_x_preferred":[
-        "Port Vila"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u0412\u0456\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u043e\u0440\u0442-\u0412\u0456\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f \u09ad\u09bf\u09b2\u09be"
     ],
     "name:bis_x_preferred":[
         "Port Vila"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f5d\u0f7a\u0f0b\u0f63\u0f0b\u0f42\u0fb2\u0f74\u0f0b\u0f41\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Port Vila"
@@ -74,26 +73,29 @@
     "name:cdo_x_preferred":[
         "Port Vila"
     ],
+    "name:ceb_x_preferred":[
+        "Port-Vila"
+    ],
     "name:ces_x_preferred":[
         "Port Vila"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u62c9\u6e2f"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Port Vila"
     ],
     "name:dan_x_preferred":[
         "Port-Vila"
     ],
-    "name:deu_x_preferred":[
+    "name:dan_x_variant":[
         "Port Vila"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Port Vila"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03af\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c1\u03c4 \u0392\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Port-Vila"
@@ -110,6 +112,9 @@
     "name:eus_x_preferred":[
         "Port Vila"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0648\u06cc\u0644\u0627"
+    ],
     "name:fij_x_preferred":[
         "Port Vila"
     ],
@@ -119,26 +124,14 @@
     "name:fra_x_preferred":[
         "Port-Vila"
     ],
-    "name:fre_x_preferred":[
-        "Port-Vila"
-    ],
     "name:fry_x_preferred":[
         "Port Fila"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10e2-\u10d5\u10d8\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Port Vila"
     ],
     "name:gla_x_preferred":[
         "Port Vila"
     ],
     "name:glg_x_preferred":[
         "Port Vila"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c1\u03c4 \u0392\u03af\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab5\u0abf\u0ab2\u0abe"
@@ -156,7 +149,7 @@
         "Port Vila"
     ],
     "name:hin_x_preferred":[
-        "\u092a\u094b\u0930\u094d\u091f  \u0935\u093f\u0932\u093e"
+        "\u092a\u094b\u0930\u094d\u091f \u0935\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
         "Port Vila"
@@ -164,8 +157,8 @@
     "name:hun_x_preferred":[
         "Port Vila"
     ],
-    "name:ice_x_preferred":[
-        "Port Vila"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u054e\u056b\u056c\u0561"
     ],
     "name:ido_x_preferred":[
         "Port Vila"
@@ -174,6 +167,9 @@
         "Port Vila"
     ],
     "name:ind_x_preferred":[
+        "Port Vila"
+    ],
+    "name:isl_x_preferred":[
         "Port Vila"
     ],
     "name:ita_x_preferred":[
@@ -185,6 +181,12 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0cb5\u0cbf\u0cb2"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10d5\u10d8\u10da\u10d0"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0412\u0438\u043b\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ube4c\ub77c"
     ],
@@ -193,6 +195,9 @@
     ],
     "name:lav_x_preferred":[
         "Vila"
+    ],
+    "name:lij_x_preferred":[
+        "Porto Vila"
     ],
     "name:lit_x_preferred":[
         "Port Vila"
@@ -203,23 +208,23 @@
     "name:ltz_x_preferred":[
         "Port Vila"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u0440\u0442 \u0412\u0438\u043b\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d35\u0d3f\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0935\u094d\u0939\u093f\u0932\u093e"
     ],
-    "name:may_x_preferred":[
-        "Port Vila"
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0412\u0438\u043b\u0430"
     ],
     "name:mlg_x_preferred":[
         "Port Vila"
     ],
     "name:mrj_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0412\u0438\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Port Vila"
     ],
     "name:nan_x_preferred":[
         "Port Vila"
@@ -254,9 +259,6 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a4b\u0a30\u0a1f \u0a35\u0a3f\u0a32\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a \u0648\u06cc\u0644\u0627"
-    ],
     "name:pms_x_preferred":[
         "Port Vila"
     ],
@@ -266,7 +268,10 @@
     "name:por_x_preferred":[
         "Port Vila"
     ],
-    "name:rum_x_preferred":[
+    "name:pus_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0648\u06cc\u0644\u0627"
+    ],
+    "name:ron_x_preferred":[
         "Port Vila"
     ],
     "name:rus_x_preferred":[
@@ -287,9 +292,6 @@
     "name:slk_x_preferred":[
         "Port Vila"
     ],
-    "name:slo_x_preferred":[
-        "Port Vila"
-    ],
     "name:slv_x_preferred":[
         "Port Vila"
     ],
@@ -297,6 +299,12 @@
         "Port Vila"
     ],
     "name:spa_x_preferred":[
+        "Port Vila"
+    ],
+    "name:sqi_x_preferred":[
+        "Port Vila"
+    ],
+    "name:srd_x_preferred":[
         "Port Vila"
     ],
     "name:srp_x_preferred":[
@@ -320,11 +328,11 @@
     "name:tel_x_preferred":[
         "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c35\u0c3f\u0c32\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0412\u0438\u043b\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e27\u0e34\u0e25\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f5d\u0f7a\u0f0b\u0f63\u0f0b\u0f42\u0fb2\u0f74\u0f0b\u0f41\u0f0d"
     ],
     "name:tpi_x_preferred":[
         "Pot Vila"
@@ -335,7 +343,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0412\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fila"
     ],
     "name:urd_x_preferred":[
@@ -359,8 +367,8 @@
     "name:war_x_preferred":[
         "Port Vila"
     ],
-    "name:wel_x_preferred":[
-        "Port Vila"
+    "name:wuu_x_preferred":[
+        "\u7ef4\u62c9\u6e2f"
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10dd\u10e0\u10e2-\u10d5\u10d8\u10da\u10d0"
@@ -370,6 +378,9 @@
     ],
     "name:zea_x_preferred":[
         "Port Vila"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u62c9\u6e2f"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Vanuatu",
@@ -467,7 +478,6 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"7",
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -488,13 +498,19 @@
     "wof:concordances":{
         "gn:id":2135171,
         "gp:id":1050907,
-        "qs:id":274182,
-        "qs_pg:id":1107047,
+        "qs_pg:id":274182,
         "wd:id":"Q37806",
         "wk:page":"Port Vila"
     },
+    "wof:concordances_alt":{
+        "qs_pg:id":1107047
+    },
     "wof:country":"VU",
     "wof:created":1469051135,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2eda7024c50e2d810974d4184fb11708",
     "wof:hierarchy":[
         {
@@ -505,7 +521,7 @@
         }
     ],
     "wof:id":890416453,
-    "wof:lastmodified":1606163454,
+    "wof:lastmodified":1587428745,
     "wof:name":"Port-Vila",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

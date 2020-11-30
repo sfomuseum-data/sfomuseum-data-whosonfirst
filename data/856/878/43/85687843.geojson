@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":613.150877,
-    "geom:area_square_m":3052868436271.541992,
+    "geom:area_square_m":3052868436271.530273,
     "geom:bbox":"105.513371,55.479185,162.855872,77.127892",
     "geom:latitude":66.184399,
     "geom:longitude":130.140693,
@@ -79,6 +79,9 @@
     "name:cat_x_preferred":[
         "Sakh\u00e0"
     ],
+    "name:cdo_x_preferred":[
+        "Sakha"
+    ],
     "name:ceb_x_preferred":[
         "Respublika Sakha"
     ],
@@ -105,6 +108,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03c9\u03bd \u03a3\u03b1\u03c7\u03ac"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Sakha Republic"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Sakha Republic"
     ],
     "name:eng_x_preferred":[
         "Sakha"
@@ -271,6 +280,9 @@
     "name:pol_x_preferred":[
         "Jakucja"
     ],
+    "name:por_br_x_preferred":[
+        "Iac\u00fatia"
+    ],
     "name:por_x_preferred":[
         "Iac\u00fatia"
     ],
@@ -286,6 +298,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u0445\u0430 \u0421\u0438\u0440\u044d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5f\u1c60\u1c77\u1c5f \u1c6b\u1c64\u1c65\u1c5a\u1c62"
     ],
     "name:sco_x_preferred":[
         "Sakha Republic"
@@ -340,6 +355,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e2e\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e04\u0e32"
     ],
     "name:tur_x_preferred":[
         "Yakutistan"
@@ -396,7 +414,6 @@
     "qs:adm0_a3":"RUS",
     "qs:level":"adm1",
     "qs:source":"Unknown",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes"
@@ -429,6 +446,9 @@
         "wd:id":"Q6605"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b1e1a17af71cf8a60f91b53e0f6dcb3",
     "wof:hierarchy":[
         {
@@ -464,7 +484,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1606163073,
+    "wof:lastmodified":1587427637,
     "wof:name":"Sakha",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

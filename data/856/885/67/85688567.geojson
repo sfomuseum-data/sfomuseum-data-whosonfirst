@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.97488,
-    "geom:area_square_m":219701922560.601196,
+    "geom:area_square_m":219701922560.615265,
     "geom:bbox":"-114.052998,36.997949,-109.041058,42.001618",
     "geom:latitude":39.323782,
     "geom:longitude":-111.678224,
@@ -147,6 +147,9 @@
     "name:dan_x_preferred":[
         "Utah"
     ],
+    "name:deu_ch_x_preferred":[
+        "Utah"
+    ],
     "name:deu_x_preferred":[
         "Utah"
     ],
@@ -157,6 +160,12 @@
         "\u0393\u03b9\u03bf\u03cd\u03c4\u03b1"
     ],
     "name:eml_x_preferred":[
+        "Utah"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Utah"
+    ],
+    "name:eng_gb_x_preferred":[
         "Utah"
     ],
     "name:eng_x_colloquial":[
@@ -216,6 +225,9 @@
     ],
     "name:glv_x_preferred":[
         "Utah"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf39\ud800\udf3f\ud800\udf44\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Utah"
@@ -451,11 +463,17 @@
     "name:pol_x_preferred":[
         "Utah"
     ],
+    "name:por_br_x_preferred":[
+        "Utah"
+    ],
     "name:por_x_preferred":[
         "Ut\u00e1"
     ],
     "name:por_x_variant":[
         "Utah"
+    ],
+    "name:pus_x_preferred":[
+        "\u06cc\u0648\u062a\u0627"
     ],
     "name:que_x_preferred":[
         "Utah suyu"
@@ -500,10 +518,10 @@
         "Iut\u0101"
     ],
     "name:spa_x_preferred":[
-        "Estado de Utah"
+        "Utah"
     ],
     "name:spa_x_variant":[
-        "Utah"
+        "Estado de Utah"
     ],
     "name:sqi_x_preferred":[
         "Utah"
@@ -534,6 +552,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c42\u0c1f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u042e\u0442\u0430"
     ],
     "name:tgl_x_preferred":[
         "Utah"
@@ -568,6 +589,9 @@
     "name:war_x_preferred":[
         "Utah"
     ],
+    "name:wuu_x_preferred":[
+        "\u72b9\u4ed6\u5dde"
+    ],
     "name:xal_x_preferred":[
         "\u0419\u0443\u0443\u0442\u0430"
     ],
@@ -582,6 +606,12 @@
     ],
     "name:yue_x_preferred":[
         "\u7336\u4ed6\u5dde"
+    ],
+    "name:zea_x_preferred":[
+        "Utah"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u72b9\u4ed6\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u72b9\u4ed6\u5dde"
@@ -658,10 +688,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -685,6 +714,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":"45",
         "fips:code":"US49",
         "gn:id":5549030,
         "gp:id":2347603,
@@ -694,6 +724,9 @@
         "wd:id":"Q829"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"6ad09949331bb60c346be40564db4227",
     "wof:hierarchy":[
         {
@@ -711,7 +744,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163117,
+    "wof:lastmodified":1597695911,
     "wof:name":"Utah",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

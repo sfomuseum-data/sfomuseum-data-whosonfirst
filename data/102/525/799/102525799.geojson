@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1917",
     "geom:area":0.000542,
-    "geom:area_square_m":5634139.24536,
+    "geom:area_square_m":5634139.245362,
     "geom:bbox":"-96.868515,32.830833,-96.834999,32.859402",
     "geom:latitude":32.84459,
     "geom:longitude":-96.850777,
@@ -19,19 +19,14 @@
     "mps:longitude":-96.850523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Dallas Love Field"
+    ],
     "name:ces_x_preferred":[
         "Dallas Love Field"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbe\u62c9\u65af\u7231\u7530\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
-        "Dallas Love Field"
-    ],
     "name:deu_x_preferred":[
-        "Dallas Love Field"
-    ],
-    "name:dut_x_preferred":[
         "Dallas Love Field"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +45,6 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Dallas Love Field"
     ],
-    "name:fre_x_preferred":[
-        "A\u00e9roport de Dallas Love Field"
-    ],
-    "name:ger_x_preferred":[
-        "Dallas Love Field"
-    ],
     "name:ita_x_preferred":[
         "Aeroporto di Dallas-Love"
     ],
@@ -68,14 +57,14 @@
     "name:nld_x_preferred":[
         "Dallas Love Field Airport"
     ],
+    "name:nld_x_variant":[
+        "Dallas Love Field"
+    ],
     "name:nob_x_preferred":[
         "Dallas Love Field"
     ],
     "name:nor_x_preferred":[
         "Dallas Love Field"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0644\u0627\u0633 \u0644\u0627\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Dallas-Love"
@@ -89,14 +78,17 @@
     "name:slk_x_preferred":[
         "Dallas Love Field"
     ],
-    "name:slo_x_preferred":[
-        "Dallas Love Field"
-    ],
     "name:spa_x_preferred":[
         "Aeropuerto Dallas Love"
     ],
     "name:spa_x_variant":[
         "Aeropuerto de Dallas Love Field"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043b\u043b\u0430\u0441 \u041b\u0430\u0432-\u0424\u0456\u043b\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0644\u0627\u0633 \u0644\u0648\u0648 \u0641\u06cc\u0644\u0688"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Dallas Love"
@@ -106,14 +98,9 @@
     ],
     "oa:elevation_ft":"487",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":174,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Dallas Love Field",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8553,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -155,7 +142,7 @@
         }
     ],
     "wof:id":102525799,
-    "wof:lastmodified":1606163489,
+    "wof:lastmodified":1566610045,
     "wof:name":"Dallas Love Field",
     "wof:parent_id":85870475,
     "wof:placetype":"campus",

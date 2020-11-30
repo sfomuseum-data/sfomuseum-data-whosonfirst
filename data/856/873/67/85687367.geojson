@@ -5,19 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291119,
-    "geom:area_square_m":2797580043.249167,
+    "geom:area_square_m":2797579502.872366,
     "geom:bbox":"-9.500469,38.673057,-8.781865,39.317726",
     "geom:latitude":38.998275,
     "geom:longitude":-9.163635,
     "iso:country":"PT",
     "label:eng_x_preferred_longname":[
-        "Lisboa District"
+        "Lisbon District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:por_x_preferred_longname":[
+        "Distrito de Lisboa"
+    ],
+    "label:por_x_preferred_placetype":[
+        "distrito"
+    ],
     "lbl:latitude":38.995432,
     "lbl:longitude":-9.199623,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.995432,
     "mps:longitude":-9.199623,
     "mz:hierarchy_label":1,
@@ -33,11 +40,11 @@
     "name:ast_x_preferred":[
         "Distritu de Lisboa"
     ],
-    "name:baq_x_preferred":[
-        "Lisboa"
-    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u041b\u0456\u0441\u0430\u0431\u043e\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Lisbon"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0430\u0431\u043e\u043d"
@@ -46,12 +53,6 @@
         "Districte de Lisboa"
     ],
     "name:ces_x_preferred":[
-        "Distrikt Lisabon"
-    ],
-    "name:chi_x_preferred":[
-        "\u91cc\u65af\u672c\u5340"
-    ],
-    "name:cze_x_preferred":[
         "Distrikt Lisabon"
     ],
     "name:dan_x_preferred":[
@@ -63,18 +64,21 @@
     "name:deu_x_variant":[
         "Distrikt Lissabon"
     ],
-    "name:dut_x_preferred":[
-        "Lissabon"
-    ],
     "name:eng_x_preferred":[
-        "Lisboa"
+        "Lisbon"
     ],
     "name:eng_x_variant":[
-        "Lisbon",
-        "Lisbon District"
+        "Lisbon District",
+        "Lisboa"
     ],
     "name:epo_x_preferred":[
         "Distrikto Lisbono"
+    ],
+    "name:epo_x_variant":[
+        "distrikto Lisbono"
+    ],
+    "name:eus_x_preferred":[
+        "Lisboa"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0644\u06cc\u0633\u0628\u0648\u0646"
@@ -87,12 +91,6 @@
     ],
     "name:fra_x_variant":[
         "District de Lisbonne"
-    ],
-    "name:fre_x_preferred":[
-        "District de Lisbonne"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Lissabon"
     ],
     "name:glg_x_preferred":[
         "Distrito de Lisboa"
@@ -116,14 +114,17 @@
     "name:kor_x_preferred":[
         "\ub9ac\uc2a4\ubcf4\uc544 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc2a4\ubcf4\uc544\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Lisboa"
+    ],
     "name:lat_x_preferred":[
         "Olisipo"
     ],
     "name:lim_x_preferred":[
         "Lissabon"
-    ],
-    "name:may_x_preferred":[
-        "Daerah Lisboa"
     ],
     "name:msa_x_preferred":[
         "Daerah Lisboa"
@@ -140,9 +141,6 @@
     "name:nob_x_preferred":[
         "Lisboa"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u06cc\u0633\u0628\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0644\u0632\u0628\u0646"
     ],
@@ -156,9 +154,6 @@
         "Lisboa distritu"
     ],
     "name:ron_x_preferred":[
-        "Districtul Lisabona"
-    ],
-    "name:rum_x_preferred":[
         "Districtul Lisabona"
     ],
     "name:rus_x_preferred":[
@@ -179,8 +174,8 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0441\u0430\u0431\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Distrito de Lisboa"
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0441\u0430\u0431\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0632\u0628\u0646 \u0636\u0644\u0639"
@@ -265,12 +260,11 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Distrito",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-21",
+    "src:population_date":"2011-03-21",
     "statoids:area_km":"2,801",
     "statoids:area_mi":"1,082",
     "statoids:as_of_date":"2011-03-21",
@@ -314,11 +308,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1606163152,
+    "wof:lastmodified":1585776678,
     "wof:name":"Lisboa",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":2250533,
     "wof:population_rank":12,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089075,
-    "geom:area_square_m":942050809.035596,
+    "geom:area_square_m":942050809.035579,
     "geom:bbox":"121.207165,30.982717,121.700562,31.414243",
     "geom:latitude":31.207496,
     "geom:longitude":121.458618,
@@ -13,18 +13,18 @@
     "iso:country":"CN",
     "lbl:latitude":31.246027,
     "lbl:longitude":121.483385,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":31.246027,
     "mps:longitude":121.483385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":2.1,
     "name:ace_x_preferred":[
         "Shanghai"
     ],
     "name:afr_x_preferred":[
         "Sjanghai"
-    ],
-    "name:alb_x_preferred":[
-        "Shangai"
     ],
     "name:amh_x_preferred":[
         "\u123b\u1295\u130d\u1203\u12ed"
@@ -34,9 +34,6 @@
     ],
     "name:arg_x_preferred":[
         "Xangai"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0576\u0570\u0561\u0575"
     ],
     "name:arz_x_preferred":[
         "\u0634\u0627\u0646\u062c\u0647\u0627\u0649"
@@ -62,9 +59,6 @@
     "name:bam_x_preferred":[
         "Shanghai"
     ],
-    "name:baq_x_preferred":[
-        "Shanghai"
-    ],
     "name:bcl_x_preferred":[
         "Shanghai"
     ],
@@ -77,6 +71,9 @@
     "name:bis_x_preferred":[
         "Shanghai"
     ],
+    "name:bod_x_preferred":[
+        "\u0f67\u0fb2\u0f44\u0f0b\u0f67\u0f60\u0f7a\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "\u0160angaj"
     ],
@@ -85,9 +82,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
-    ],
-    "name:bur_x_preferred":[
-        "\u101b\u103e\u1014\u103a\u101f\u102d\u102f\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:bxr_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
@@ -98,11 +92,14 @@
     "name:cdo_x_preferred":[
         "Si\u00f4ng-h\u0101i"
     ],
+    "name:ceb_x_preferred":[
+        "Shanghai"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160anghaj"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u6d77\u5e02"
     ],
     "name:chv_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
@@ -116,10 +113,16 @@
     "name:cor_x_preferred":[
         "Shanghai"
     ],
-    "name:cze_x_preferred":[
-        "\u0160anghaj"
+    "name:cym_x_preferred":[
+        "Shanghai"
     ],
     "name:dan_x_preferred":[
+        "Shanghai"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Shanghai"
+    ],
+    "name:deu_x_preferred":[
         "Shanghai"
     ],
     "name:diq_x_preferred":[
@@ -128,7 +131,13 @@
     "name:dty_x_preferred":[
         "\u0936\u093e\u0919\u094d\u0918\u093e\u0908"
     ],
-    "name:dut_x_preferred":[
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b3\u03ba\u03ac\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Shanghai"
+    ],
+    "name:eng_gb_x_preferred":[
         "Shanghai"
     ],
     "name:eng_x_colloquial":[
@@ -146,11 +155,17 @@
     "name:est_x_preferred":[
         "Shanghai"
     ],
+    "name:eus_x_preferred":[
+        "Shanghai"
+    ],
     "name:ext_x_preferred":[
         "Shanghai"
     ],
     "name:fao_x_preferred":[
         "Shanghai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u06af\u0647\u0627\u06cc"
     ],
     "name:fij_x_preferred":[
         "Shanghai"
@@ -158,10 +173,13 @@
     "name:fin_x_preferred":[
         "Shanghai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shanghai"
     ],
     "name:frp_x_preferred":[
+        "Shanghai"
+    ],
+    "name:frr_x_preferred":[
         "Shanghai"
     ],
     "name:fry_x_preferred":[
@@ -169,12 +187,6 @@
     ],
     "name:gan_x_preferred":[
         "\u4e0a\u6d77"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10dc\u10ee\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shanghai"
     ],
     "name:gla_x_preferred":[
         "Shanghai"
@@ -187,9 +199,6 @@
     ],
     "name:glv_x_preferred":[
         "Shanghai"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b3\u03ba\u03ac\u03b7"
     ],
     "name:grn_x_preferred":[
         "Chang\u00e1i"
@@ -224,8 +233,8 @@
     "name:hun_x_preferred":[
         "Sanghaj"
     ],
-    "name:ice_x_preferred":[
-        "Sjangh\u00e6"
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576\u0570\u0561\u0575"
     ],
     "name:ido_x_preferred":[
         "Shanghai"
@@ -241,6 +250,12 @@
     ],
     "name:ind_x_preferred":[
         "Shanghai"
+    ],
+    "name:inh_x_preferred":[
+        "\u0428\u0430\u043d\u0445\u0430\u0439"
+    ],
+    "name:isl_x_preferred":[
+        "Sjangh\u00e6"
     ],
     "name:ita_x_preferred":[
         "Shanghai"
@@ -263,6 +278,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbe\u0c82\u0c98\u0cc8"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10dc\u10ee\u10d0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
@@ -283,6 +301,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ud558\uc774 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0c1\ud558\uc774\uc2dc"
     ],
     "name:krc_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
@@ -323,26 +344,20 @@
     "name:lzh_x_preferred":[
         "\u4e0a\u6d77\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u043d\u0433\u0430\u0458"
-    ],
     "name:mai_x_preferred":[
         "\u0936\u093e\u0919\u094d\u0918\u093e\u0908"
     ],
     "name:mal_x_preferred":[
         "\u0d37\u0d3e\u0d19\u0d4d\u0d39\u0d3e\u0d2f\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Shanghai"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0902\u0918\u093e\u092f"
     ],
-    "name:may_x_preferred":[
-        "Shanghai"
-    ],
     "name:mhr_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0433\u0430\u0458"
     ],
     "name:mlg_x_preferred":[
         "Shanghai"
@@ -350,8 +365,23 @@
     "name:mon_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
+    "name:mri_x_preferred":[
+        "Shanghai"
+    ],
+    "name:mri_x_variant":[
+        "Hangahai"
+    ],
+    "name:msa_x_preferred":[
+        "Shanghai"
+    ],
     "name:mwl_x_preferred":[
         "Xangai"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u103e\u1014\u103a\u101f\u102d\u102f\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
     "name:mzn_x_preferred":[
         "\u0634\u0627\u0646\u06af\u0647\u0627\u06cc"
@@ -362,11 +392,17 @@
     "name:nan_x_preferred":[
         "Si\u014dng-h\u00e1i-chh\u012b"
     ],
+    "name:nds_x_preferred":[
+        "Shanghai"
+    ],
     "name:nep_x_preferred":[
         "\u0936\u093e\u0919\u094d\u0918\u093e\u0908"
     ],
     "name:new_x_preferred":[
         "\u0936\u093e\u0919\u094d\u0939\u093e\u0907"
+    ],
+    "name:nld_x_preferred":[
+        "Shanghai"
     ],
     "name:nno_x_preferred":[
         "Shanghai"
@@ -383,6 +419,9 @@
     "name:oci_x_preferred":[
         "Shanghai"
     ],
+    "name:orm_x_preferred":[
+        "Shaangaayi"
+    ],
     "name:oss_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
@@ -392,9 +431,6 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a70\u0a18\u0a3e\u0a08"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u06af\u0647\u0627\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Shanghai"
     ],
@@ -403,6 +439,9 @@
     ],
     "name:pol_x_preferred":[
         "Szanghaj"
+    ],
+    "name:por_br_x_preferred":[
+        "Xangai"
     ],
     "name:por_x_preferred":[
         "Xangai"
@@ -416,17 +455,20 @@
     "name:roh_x_preferred":[
         "Schanghai"
     ],
+    "name:ron_x_preferred":[
+        "Shanghai"
+    ],
     "name:rue_x_preferred":[
         "\u0428\u0430\u043d\u0491\u0433\u0430\u0439"
-    ],
-    "name:rum_x_preferred":[
-        "Shanghai"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
     "name:sah_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5f\u1c5d\u1c5c\u1c77\u1c5f\u1c6d"
     ],
     "name:scn_x_preferred":[
         "Shanghai"
@@ -440,7 +482,7 @@
     "name:sin_x_preferred":[
         "\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160anghaj"
     ],
     "name:slv_x_preferred":[
@@ -448,6 +490,9 @@
     ],
     "name:spa_x_preferred":[
         "Shangh\u00e1i"
+    ],
+    "name:sqi_x_preferred":[
+        "Shangai"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u043d\u0433\u0430\u0458"
@@ -470,6 +515,9 @@
     "name:tat_x_preferred":[
         "\u015eanxay"
     ],
+    "name:tat_x_variant":[
+        "\u0428\u0430\u04a3\u0445\u0430\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3e\u0c02\u0c18\u0c48"
     ],
@@ -481,9 +529,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e35\u0e48\u0e22\u0e07\u0e44\u0e2e\u0e49"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0fb2\u0f44\u0f0b\u0f67\u0f60\u0f7a\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tsn_x_preferred":[
         "Shanghai"
@@ -530,9 +575,6 @@
     "name:war_x_preferred":[
         "Shanghai"
     ],
-    "name:wel_x_preferred":[
-        "Shanghai"
-    ],
     "name:wol_x_preferred":[
         "Shanghai"
     ],
@@ -554,6 +596,27 @@
     "name:zha_x_preferred":[
         "Sanghaij"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Shanghai"
+    ],
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u4e0a\u6d77\u76f4\u8f96\u5e02",
     "qs:a1r":"*",
@@ -568,10 +631,9 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":6341.0,
     "wd:elevation":4.0,
@@ -580,11 +642,11 @@
     "wd:population":24152700,
     "wd:wordcount":11334,
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
+        890514815,
         136253041,
-        890514815
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -608,7 +670,7 @@
         }
     ],
     "wof:id":102027181,
-    "wof:lastmodified":1606163492,
+    "wof:lastmodified":1587428570,
     "wof:megacity":1,
     "wof:name":"Shanghai",
     "wof:parent_id":890514815,

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.082216,
-    "geom:area_square_m":82964654225.513138,
+    "geom:area_square_m":82964654225.523315,
     "geom:bbox":"-83.353928,32.033454,-78.499301,35.21554",
     "geom:latitude":33.877856,
     "geom:longitude":-80.864596,
@@ -147,6 +147,9 @@
     "name:dan_x_preferred":[
         "South Carolina"
     ],
+    "name:deu_ch_x_preferred":[
+        "South Carolina"
+    ],
     "name:deu_x_preferred":[
         "South Carolina"
     ],
@@ -161,6 +164,12 @@
     ],
     "name:eml_x_preferred":[
         "Carul\u00ecna dal Sud"
+    ],
+    "name:eng_ca_x_preferred":[
+        "South Carolina"
+    ],
+    "name:eng_gb_x_preferred":[
+        "South Carolina"
     ],
     "name:eng_x_colloquial":[
         "Palmetto State"
@@ -222,6 +231,9 @@
     ],
     "name:glv_x_preferred":[
         "Carolina Yiass"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf3f\ud800\udf3d\ud800\udf38\ud800\udf42\ud800\udf30 \ud800\udf3a\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf3f\ud800\udf3b\ud800\udf30\ud800\udf3e\ud800\udf3d\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Yvy Karolina"
@@ -466,6 +478,9 @@
     "name:por_x_preferred":[
         "Carolina do Sul"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u0648\u06cc\u0644\u064a \u06a9\u0627\u0631\u0648\u0644\u06cc\u0646\u0627"
+    ],
     "name:que_x_preferred":[
         "South Carolina suyu"
     ],
@@ -544,6 +559,9 @@
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c30\u0c4a\u0c32\u0c3f\u0c28\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430\u0438 \u04b6\u0430\u043d\u0443\u0431\u04e3"
+    ],
     "name:tgl_x_preferred":[
         "South Carolina"
     ],
@@ -606,6 +624,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "South Carolina"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u5361\u7f85\u840a\u7d0d\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5357\u5361\u7f57\u6765\u7eb3\u5dde"
@@ -679,10 +700,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -707,6 +727,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":41,
         "fips:code":"US45",
         "gn:id":4597040,
         "gp:id":2347599,
@@ -716,6 +737,9 @@
         "wd:id":"Q1456"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"d21104f9b900c74bcc0ed8b04fb2c9bf",
     "wof:hierarchy":[
         {
@@ -733,7 +757,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163170,
+    "wof:lastmodified":1587428441,
     "wof:name":"South Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

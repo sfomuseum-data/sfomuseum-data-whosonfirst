@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.634357,
-    "geom:area_square_m":155681960694.865448,
+    "geom:area_square_m":155681960694.874695,
     "geom:bbox":"114.821024,34.377132,122.700417,38.31789",
     "geom:latitude":36.351286,
     "geom:longitude":118.147174,
     "gn:population":94170000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"SD",
     "label:eng_x_preferred_longname":[
         "Shandong Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
     ],
     "lbl:latitude":36.334087,
     "lbl:longitude":117.756464,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5c71\u6771|\u5c71\u4e1c",
     "meso:name_loc":"\u5c71\u4e1c\u7701",
     "mps:latitude":36.354769,
@@ -37,14 +40,17 @@
     "name:afr_x_preferred":[
         "Shandong"
     ],
+    "name:afr_x_variant":[
+        "Sjandong"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u062f\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0576\u0564\u0578\u0582\u0576"
-    ],
-    "name:baq_x_preferred":[
+    "name:ast_x_preferred":[
         "Shandong"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eantun"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0428\u0430\u043d\u044c\u0434\u0443\u043d"
@@ -67,32 +73,39 @@
     "name:cdo_x_preferred":[
         "S\u0103ng-d\u0115\u0324ng"
     ],
+    "name:ceb_x_preferred":[
+        "Shandong Sheng"
+    ],
     "name:ces_x_preferred":[
         "\u0160an-tung"
     ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5c71\u4e1c\u7701"
-    ],
     "name:cym_x_preferred":[
         "Shandong"
     ],
-    "name:cze_x_preferred":[
-        "\u0160an-tung"
-    ],
     "name:dan_x_preferred":[
+        "Shandong"
+    ],
+    "name:deu_ch_x_preferred":[
         "Shandong"
     ],
     "name:deu_x_preferred":[
         "Shandong"
     ],
-    "name:dut_x_preferred":[
-        "Shandong"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd\u03bd\u03c4\u03cc\u03bd\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd-\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba",
+        "\u03a3\u03b1\u03bd\u03c4\u03cc\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Shandong"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Shandong"
     ],
     "name:eng_x_preferred":[
         "Shandong"
@@ -121,17 +134,11 @@
     "name:fra_x_variant":[
         "Province de Shandong"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Shandong"
     ],
     "name:gan_x_preferred":[
         "\u5c71\u6771"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10dc\u10d3\u10e3\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shandong"
     ],
     "name:gle_x_preferred":[
         "Shandong"
@@ -141,9 +148,6 @@
     ],
     "name:glv_x_preferred":[
         "Shandong"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd-\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0aa8\u0aa1\u0acb\u0a82\u0a97"
@@ -198,6 +202,9 @@
         "\uc0b0\ub465",
         "\uc0b0\ub465 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub465\uc131"
+    ],
     "name:lat_x_preferred":[
         "Xantonia"
     ],
@@ -210,14 +217,14 @@
     "name:lzh_x_preferred":[
         "\u5c71\u6771\u7701"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u043d\u0434\u0443\u043d\u0433"
+    "name:mal_x_preferred":[
+        "\u0d36\u0d3e\u0d7b\u0d21\u0d4b\u0d19\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0937\u093e\u0902\u0924\u094b\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Shandong"
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u0443\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Shandong"
@@ -255,14 +262,14 @@
     "name:pam_x_preferred":[
         "Shandong"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u062f\u0648\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0646\u0688\u0648\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Szantung"
+    ],
+    "name:por_br_x_preferred":[
+        "Shandong"
     ],
     "name:por_x_preferred":[
         "Shandong"
@@ -271,9 +278,6 @@
         "Shandong pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Shandong"
-    ],
-    "name:rum_x_preferred":[
         "Shandong"
     ],
     "name:rus_x_preferred":[
@@ -318,8 +322,8 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e0b\u0e32\u0e19\u0e15\u0e07"
     ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0fb2\u0f53\u0f0b\u0f4f\u0f74\u0f44\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
+    "name:tha_x_variant":[
+        "\u0e21\u0e13\u0e11\u0e25\u0e0a\u0e32\u0e19\u0e15\u0e07"
     ],
     "name:tur_x_preferred":[
         "\u015eantung"
@@ -332,9 +336,6 @@
     ],
     "name:und_x_variant":[
         "\u5c71\u6771|\u5c71\u4e1c",
-        "\u5c71\u4e1c\u7701"
-    ],
-    "name:unk_x_variant":[
         "Shantung Province"
     ],
     "name:urd_x_preferred":[
@@ -352,14 +353,14 @@
     "name:war_x_preferred":[
         "Shandong"
     ],
-    "name:wel_x_preferred":[
-        "Shandong"
-    ],
     "name:wln_x_preferred":[
         "Chandong"
     ],
     "name:wuu_x_preferred":[
         "\u5c71\u4e1c\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e8\u10d0\u10dc\u10d3\u10e3\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5c71\u6771"
@@ -367,8 +368,23 @@
     "name:zha_x_preferred":[
         "Sanhdungh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5c71\u4e1c\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5c71\u6771\u7701"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Soa\u207f-tang-s\u00e9ng"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5c71\u4e1c\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5c71\u4e1c\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c71\u6771\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5c71\u4e1c"
@@ -451,14 +467,13 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "sfomuseum:placetype":"region",
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"156,219",
     "statoids:area_mi":"60,316",
     "statoids:as_of_date":"2010-11-01",
@@ -486,12 +501,15 @@
         "hasc:id":"CN.SD",
         "iso:id":"CN-SD",
         "loc:id":"n80158871",
-        "qs:id":931672,
+        "qs_pg:id":931672,
         "unlc:id":"CN-37",
         "wd:id":"Q43407",
         "wk:page":"Shandong"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"777cc9cc9f25f9b8e1e9629c99f64ef7",
     "wof:hierarchy":[
         {
@@ -513,11 +531,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1606163350,
+    "wof:lastmodified":1587428629,
     "wof:name":"Shandong",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":95793065,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

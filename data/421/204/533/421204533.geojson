@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164416,
-    "geom:area_square_m":1650561749.248118,
+    "geom:area_square_m":1650561749.248173,
     "geom:bbox":"51.072299,35.518649,51.889893,35.939648",
     "geom:latitude":35.720735,
     "geom:longitude":51.468741,
     "iso:country":"IR",
     "lbl:latitude":35.69439,
     "lbl:longitude":51.42151,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -26,11 +28,14 @@
     "name:afr_x_preferred":[
         "Teheran"
     ],
-    "name:alb_x_preferred":[
-        "Teherani"
+    "name:aka_x_preferred":[
+        "Tehran"
     ],
     "name:amh_x_preferred":[
         "\u1274\u1205\u122b\u1295"
+    ],
+    "name:ang_x_preferred":[
+        "Tehran"
     ],
     "name:ara_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
@@ -40,9 +45,6 @@
     ],
     "name:arg_x_preferred":[
         "Teher\u00e1n"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0570\u0580\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
@@ -61,9 +63,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Teheran"
     ],
     "name:bar_x_preferred":[
         "Teheran"
@@ -92,9 +91,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0445\u0435\u0440\u0430\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1010\u102e\u101f\u102e\u101b\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
@@ -110,9 +106,6 @@
     "name:che_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u9ed1\u5170"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
@@ -122,10 +115,19 @@
     "name:cor_x_preferred":[
         "Tehran"
     ],
-    "name:cze_x_preferred":[
-        "Teher\u00e1n"
+    "name:crh_x_preferred":[
+        "Tehran"
+    ],
+    "name:cym_x_preferred":[
+        "Tehran"
+    ],
+    "name:cym_x_variant":[
+        "Tehr\u00e1n"
     ],
     "name:dan_x_preferred":[
+        "Teheran"
+    ],
+    "name:deu_ch_x_preferred":[
         "Teheran"
     ],
     "name:deu_x_preferred":[
@@ -137,11 +139,14 @@
     "name:dty_x_preferred":[
         "\u0924\u0947\u0939\u0930\u093e\u0928"
     ],
-    "name:dut_x_preferred":[
-        "Teheran"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Tehran"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Tehran"
     ],
     "name:eng_x_preferred":[
         "Tehran"
@@ -177,17 +182,14 @@
     "name:fra_x_preferred":[
         "T\u00e9h\u00e9ran"
     ],
-    "name:fre_x_preferred":[
-        "T\u00e9h\u00e9ran"
+    "name:frr_x_preferred":[
+        "Teheraan"
     ],
     "name:fry_x_preferred":[
         "Teheran"
     ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Teheran"
+    "name:gag_x_preferred":[
+        "Tahran"
     ],
     "name:gla_x_preferred":[
         "Tehran"
@@ -195,11 +197,14 @@
     "name:gle_x_preferred":[
         "Teheran"
     ],
+    "name:gle_x_variant":[
+        "Tehran"
+    ],
     "name:glg_x_preferred":[
         "Teher\u00e1n"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7"
+    "name:glk_x_preferred":[
+        "\u062a\u0626\u0631\u0627\u0646"
     ],
     "name:gsw_x_preferred":[
         "Teheran"
@@ -212,6 +217,9 @@
     ],
     "name:hat_x_preferred":[
         "Teheran"
+    ],
+    "name:hau_x_preferred":[
+        "Tehran"
     ],
     "name:hbs_x_preferred":[
         "Teheran"
@@ -240,8 +248,8 @@
     "name:hye_x_preferred":[
         "\u0539\u0565\u0570\u0580\u0561\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Teheran"
+    "name:hyw_x_preferred":[
+        "\u0539\u0565\u0570\u0580\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Tehran"
@@ -258,6 +266,12 @@
     "name:ind_x_preferred":[
         "Teheran"
     ],
+    "name:inh_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
+    ],
+    "name:isl_x_preferred":[
+        "Teheran"
+    ],
     "name:ita_x_preferred":[
         "Teheran"
     ],
@@ -272,6 +286,9 @@
     ],
     "name:kab_x_preferred":[
         "\u1e6cahran"
+    ],
+    "name:kab_x_variant":[
+        "\u1e6cehran"
     ],
     "name:kal_x_preferred":[
         "Tehran"
@@ -333,20 +350,11 @@
     "name:lzh_x_preferred":[
         "\u5fb7\u9ed1\u862d"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u0445\u0435\u0440\u0430\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d46\u0d39\u0d4d\u0d31\u0d3e\u0d7b"
     ],
-    "name:mao_x_preferred":[
-        "Tehran"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u0939\u0930\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Teheran"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
@@ -360,8 +368,17 @@
     "name:mon_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Tehran"
+    ],
     "name:msa_x_preferred":[
         "Tehran"
+    ],
+    "name:msa_x_variant":[
+        "Teheran"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u102e\u101f\u102e\u101b\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d \u043e\u0448"
@@ -376,6 +393,9 @@
         "Tehran"
     ],
     "name:nap_x_preferred":[
+        "Teheran"
+    ],
+    "name:nds_x_preferred":[
         "Teheran"
     ],
     "name:nep_x_preferred":[
@@ -405,6 +425,9 @@
     "name:oci_x_preferred":[
         "Teheran"
     ],
+    "name:olo_x_preferred":[
+        "Tegeran"
+    ],
     "name:ori_x_preferred":[
         "\u0b24\u0b47\u0b39\u0b47\u0b30\u0b3e\u0b28"
     ],
@@ -417,9 +440,6 @@
     "name:pap_x_preferred":[
         "Teheran"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0647\u0631\u0627\u0646"
-    ],
     "name:pih_x_preferred":[
         "Tegeraan"
     ],
@@ -431,6 +451,9 @@
     ],
     "name:pol_x_preferred":[
         "Teheran"
+    ],
+    "name:por_br_x_preferred":[
+        "Teer\u00e3"
     ],
     "name:por_x_preferred":[
         "Teer\u00e3o"
@@ -453,14 +476,14 @@
     "name:rue_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
-        "Teheran"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
     ],
     "name:sah_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c6e\u1c66\u1c68\u1c5f\u1c71"
     ],
     "name:scn_x_preferred":[
         "Teheran"
@@ -477,9 +500,6 @@
     "name:slk_x_preferred":[
         "Teher\u00e1n"
     ],
-    "name:slo_x_preferred":[
-        "Teher\u00e1n"
-    ],
     "name:slv_x_preferred":[
         "Teheran"
     ],
@@ -489,11 +509,17 @@
     "name:sna_x_preferred":[
         "Tehran"
     ],
+    "name:snd_x_preferred":[
+        "\u062a\u0647\u0631\u0627\u0646"
+    ],
     "name:som_x_preferred":[
         "Tahraan"
     ],
     "name:spa_x_preferred":[
         "Teher\u00e1n"
+    ],
+    "name:sqi_x_preferred":[
+        "Teherani"
     ],
     "name:srd_x_preferred":[
         "Teheran"
@@ -528,9 +554,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e2b\u0e30\u0e23\u0e32\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f4f\u0f7a\u0f0b\u0f67\u0f72\u0f0b\u0f62\u0f53\u200b\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "T\u00e4hran"
     ],
@@ -548,9 +571,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Teheran"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06c1\u0631\u0627\u0646"
@@ -576,9 +596,6 @@
     "name:war_x_preferred":[
         "Tehran"
     ],
-    "name:wel_x_preferred":[
-        "Tehran"
-    ],
     "name:wuu_x_preferred":[
         "\u5fb7\u9ed1\u5170"
     ],
@@ -593,6 +610,27 @@
     ],
     "name:yue_x_preferred":[
         "\u5fb7\u9ed1\u862d"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5fb7\u9ed1\u5170"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5fb7\u9ed1\u862d"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5fb7\u9ed1\u862d"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5fb7\u9ed1\u5170"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5fb7\u9ed1\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fb7\u9ed1\u862d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u9ed1\u5170"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Iran",
@@ -704,7 +742,6 @@
     "qs:qs_id":241183,
     "qs:woe_adm0":23424851,
     "qs:woe_id":2251945,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -714,8 +751,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        85672313,
-        1108720491
+        1108720491,
+        85672313
     ],
     "wof:breaches":[],
     "wof:capital_of":85632361,
@@ -723,12 +760,15 @@
         "gn:id":112931,
         "gp:id":2251945,
         "loc:id":"n79039626",
-        "qs:id":241183,
+        "qs_pg:id":241183,
         "wd:id":"Q3616",
         "wk:page":"Tehran"
     },
     "wof:country":"IR",
     "wof:created":1459010189,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0cf91b5beaddcf5626b3a80c86974351",
     "wof:hierarchy":[
         {
@@ -740,7 +780,7 @@
         }
     ],
     "wof:id":421204533,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1587427900,
     "wof:name":"Tehran",
     "wof:parent_id":1108720491,
     "wof:placetype":"locality",

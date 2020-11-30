@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010454,
-    "geom:area_square_m":55636300.495399,
+    "geom:area_square_m":55636300.495405,
     "geom:bbox":"-165.516656,64.462973,-165.322143,64.561083",
     "geom:latitude":64.506963,
     "geom:longitude":-165.413806,
@@ -16,6 +16,8 @@
     "iso:country":"US",
     "lbl:latitude":64.508575,
     "lbl:longitude":-165.399028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.508575,
     "mps:longitude":-165.399028,
     "mz:hierarchy_label":1,
@@ -24,11 +26,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0645\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0645"
+    ],
+    "name:azb_x_variant":[
+        "\u0646\u0648\u0645\u060c \u0622\u0644\u0627\u0633\u06a9\u0627"
+    ],
     "name:aze_x_preferred":[
         "Nom"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09ae\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09cb\u09ae"
     ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0443\u043c"
@@ -36,19 +47,31 @@
     "name:cat_x_preferred":[
         "Nome"
     ],
-    "name:chi_x_preferred":[
-        "\u8bfa\u59c6"
+    "name:ceb_x_preferred":[
+        "Nome"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
+        "Nome"
+    ],
+    "name:cym_x_preferred":[
         "Nome"
     ],
     "name:dan_x_preferred":[
         "Nome"
     ],
+    "name:deu_ch_x_preferred":[
+        "Nome"
+    ],
     "name:deu_x_preferred":[
         "Nome"
     ],
-    "name:dut_x_preferred":[
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bc"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Nome"
+    ],
+    "name:eng_gb_x_preferred":[
         "Nome"
     ],
     "name:eng_x_colloquial":[
@@ -66,8 +89,14 @@
     "name:est_x_preferred":[
         "Nome"
     ],
+    "name:eus_x_preferred":[
+        "Nome"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0645\u060c \u0622\u0644\u0627\u0633\u06a9\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "Nome"
@@ -75,17 +104,11 @@
     "name:fra_x_preferred":[
         "Nome"
     ],
-    "name:fre_x_preferred":[
-        "Nome"
-    ],
-    "name:ger_x_preferred":[
+    "name:gle_x_preferred":[
         "Nome"
     ],
     "name:glg_x_preferred":[
         "Nome"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0aae"
@@ -98,6 +121,9 @@
     ],
     "name:hun_x_preferred":[
         "Nome"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0574"
     ],
     "name:ind_x_preferred":[
         "Nome"
@@ -126,14 +152,11 @@
     "name:lit_x_preferred":[
         "Noumas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u043e\u043c"
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4b\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0928\u094b\u092e"
-    ],
-    "name:may_x_preferred":[
-        "Nome"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u043c"
@@ -143,6 +166,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041d\u043e\u043c"
+    ],
+    "name:msa_x_preferred":[
+        "Nome"
     ],
     "name:nan_x_preferred":[
         "Nome"
@@ -162,10 +188,10 @@
     "name:oci_x_preferred":[
         "Nome"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0645\u060c \u0622\u0644\u0627\u0633\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
+        "Nome"
+    ],
+    "name:por_br_x_preferred":[
         "Nome"
     ],
     "name:por_x_preferred":[
@@ -204,11 +230,14 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anvil City"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0645\u060c \u0627\u0644\u0627\u0633\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u0648\u0645"
     ],
     "name:uzb_x_preferred":[
         "Nome"
@@ -220,9 +249,6 @@
         "Nome"
     ],
     "name:war_x_preferred":[
-        "Nome"
-    ],
-    "name:wel_x_preferred":[
         "Nome"
     ],
     "name:zho_x_preferred":[
@@ -334,12 +360,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":6.0,
     "wd:latitude":64.5,
@@ -348,8 +373,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688573,
-        102081401
+        102081401,
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,12 +382,14 @@
         "fips:code":"0254920",
         "gn:id":5870133,
         "gp:id":2460286,
-        "qs:id":274705,
         "qs_pg:id":274705,
         "wd:id":"Q79996",
         "wk:page":"Nome, Alaska"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c57c6af9062e0bc7fb7f129a5f5ee915",
     "wof:hierarchy":[
         {
@@ -377,7 +404,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163479,
+    "wof:lastmodified":1587428396,
     "wof:megacity":0,
     "wof:name":"Nome",
     "wof:parent_id":102081401,

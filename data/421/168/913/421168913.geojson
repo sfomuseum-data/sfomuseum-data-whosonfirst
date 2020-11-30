@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01951,
-    "geom:area_square_m":229483831.184052,
-    "geom:bbox":"102.54407,17.870848,102.720806,18.042931",
+    "geom:area_square_m":229484325.837642,
+    "geom:bbox":"102.544070339,17.8708479406,102.720806388,18.0429308092",
     "geom:latitude":17.964336,
     "geom:longitude":102.645917,
     "iso:country":"LA",
     "lbl:latitude":17.96667,
     "lbl:longitude":102.6,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -23,17 +25,11 @@
     "name:afr_x_preferred":[
         "Vientiane"
     ],
-    "name:alb_x_preferred":[
-        "Vientiane"
-    ],
     "name:amh_x_preferred":[
         "\u126d\u12e8\u1295\u1275\u12ec\u1295"
     ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u064a\u0646\u062a\u064a\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0565\u0576\u057f\u0575\u0561\u0576"
     ],
     "name:ast_x_preferred":[
         "Vienti\u00e1n"
@@ -41,11 +37,17 @@
     "name:aze_x_preferred":[
         "Vyentyan"
     ],
-    "name:baq_x_preferred":[
+    "name:bak_x_preferred":[
+        "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
+    ],
+    "name:bcl_x_preferred":[
         "Vientiane"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u043d\u0446\u044c\u044f\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u2019\u0435\u043d\u0446\u044c\u044f\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u09c7\u09a8\u09a4\u09bf\u09af\u09bc\u09c7\u09a8"
@@ -65,9 +67,6 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0435\u043d\u0442\u044f\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1017\u102e\u101a\u1004\u103a\u1000\u103b\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
     ],
@@ -77,11 +76,14 @@
     "name:cdo_x_preferred":[
         "Vientiane"
     ],
+    "name:ceb_x_preferred":[
+        "Vientiane"
+    ],
+    "name:ces_x_preferred":[
+        "Vientiane"
+    ],
     "name:che_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u6c38\u73cd"
     ],
     "name:chv_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
@@ -89,16 +91,16 @@
     "name:ckb_x_preferred":[
         "\u06a4\u06cc\u06ce\u0646\u062a\u06cc\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
+    "name:ckb_x_variant":[
+        "\u06a4\u06cc\u06d5\u0646\u062a\u06cc\u0627\u0646"
+    ],
+    "name:cym_x_preferred":[
         "Vientiane"
     ],
     "name:dan_x_preferred":[
         "Vientiane"
     ],
     "name:deu_x_preferred":[
-        "Vientiane"
-    ],
-    "name:dut_x_preferred":[
         "Vientiane"
     ],
     "name:ell_x_preferred":[
@@ -116,6 +118,9 @@
     "name:eus_x_preferred":[
         "Vientian"
     ],
+    "name:eus_x_variant":[
+        "Vientiane"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0646\u062a\u06cc\u0627\u0646"
     ],
@@ -128,17 +133,11 @@
     "name:fra_x_preferred":[
         "Vientiane"
     ],
-    "name:fre_x_preferred":[
+    "name:frr_x_preferred":[
         "Vientiane"
     ],
     "name:fry_x_preferred":[
         "Wi\u00ebn Tsjan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10d4\u10dc\u10e2\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vientiane"
     ],
     "name:gla_x_preferred":[
         "Vientiane"
@@ -149,8 +148,8 @@
     "name:glg_x_preferred":[
         "Vientiane"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03b5\u03bd\u03c4\u03b9\u03ac\u03bd"
+    "name:grn_x_preferred":[
+        "Vienti\u00e3"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aaf\u0ac7\u0a82\u0a9f\u0abf\u0a8f\u0aa8"
@@ -173,14 +172,14 @@
     "name:hrv_x_preferred":[
         "Vientiane"
     ],
+    "name:hsb_x_preferred":[
+        "Vientiane"
+    ],
     "name:hun_x_preferred":[
         "Vienti\u00e1n"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u0565\u0576\u057f\u0575\u0561\u0576"
-    ],
-    "name:ice_x_preferred":[
-        "Vientiane"
     ],
     "name:ido_x_preferred":[
         "Vientiane"
@@ -192,6 +191,9 @@
         "Vientiane"
     ],
     "name:ind_x_preferred":[
+        "Vientiane"
+    ],
+    "name:isl_x_preferred":[
         "Vientiane"
     ],
     "name:ita_x_preferred":[
@@ -233,6 +235,9 @@
     "name:lav_x_preferred":[
         "Vjen\u010dana"
     ],
+    "name:lij_x_preferred":[
+        "Vientiane"
+    ],
     "name:lin_x_preferred":[
         "Vientiane"
     ],
@@ -248,9 +253,6 @@
     "name:ltz_x_preferred":[
         "Vientiane"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0435\u043d\u0442\u0438\u0458\u0430\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u092d\u093f\u092f\u0928\u091f\u093f\u092f\u093e\u0928"
     ],
@@ -260,9 +262,6 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0906\u0902\u0924\u093f\u092f\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Vientiane"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u0435\u043d\u0442\u0438\u0458\u0430\u043d"
     ],
@@ -271,6 +270,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Vientiane"
     ],
     "name:mwl_x_preferred":[
         "Vientiane"
@@ -302,8 +304,14 @@
     "name:nov_x_preferred":[
         "Vientiane"
     ],
+    "name:nya_x_preferred":[
+        "Vientiane"
+    ],
     "name:oci_x_preferred":[
         "Viengchan"
+    ],
+    "name:olo_x_preferred":[
+        "Vjentjan"
     ],
     "name:oss_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
@@ -314,11 +322,11 @@
     "name:pap_x_preferred":[
         "Vientiane"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u062a\u06cc\u0627\u0646"
-    ],
     "name:pms_x_preferred":[
         "Vientiane"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Wientian"
@@ -326,7 +334,10 @@
     "name:por_x_preferred":[
         "Vienciana"
     ],
-    "name:rum_x_preferred":[
+    "name:pus_x_preferred":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u0627\u0646"
+    ],
+    "name:ron_x_preferred":[
         "Vientiane"
     ],
     "name:rus_x_preferred":[
@@ -344,9 +355,6 @@
     "name:slk_x_preferred":[
         "Vientian"
     ],
-    "name:slo_x_preferred":[
-        "Vientian"
-    ],
     "name:slv_x_preferred":[
         "Vientiane"
     ],
@@ -358,6 +366,9 @@
     ],
     "name:spa_x_variant":[
         "Vienti\u00e1n"
+    ],
+    "name:sqi_x_preferred":[
+        "Vientiane"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0458\u0435\u043d\u0442\u0438\u0458\u0430\u043d"
@@ -377,14 +388,14 @@
     "name:tgk_x_preferred":[
         "\u0412\u0435\u043d\u0442\u044f\u043d"
     ],
+    "name:tgk_x_variant":[
+        "\u0412\u0439\u0435\u043d\u0442\u044f\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Vientiane"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e08\u0e31\u0e19\u0e17\u0e19\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f5d\u0f72\u0f53\u0f0b\u0f46\u0f72\u0f60\u0f44\u0f0b"
     ],
     "name:tur_x_preferred":[
         "Vientiane"
@@ -398,7 +409,10 @@
     "name:ukr_x_preferred":[
         "\u0412\u0454\u043d\u0442\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:ukr_x_variant":[
+        "\u0412'\u0454\u043d\u0442\u044c\u044f\u043d"
+    ],
+    "name:und_x_variant":[
         "Nakhon Viangchan"
     ],
     "name:urd_x_preferred":[
@@ -410,6 +424,9 @@
     "name:vep_x_preferred":[
         "Vjentjan"
     ],
+    "name:vep_x_variant":[
+        "V'jent'jan"
+    ],
     "name:vie_x_preferred":[
         "Vi\u00eang Ch\u0103n"
     ],
@@ -417,9 +434,6 @@
         "Viengtjan"
     ],
     "name:war_x_preferred":[
-        "Vientiane"
-    ],
-    "name:wel_x_preferred":[
         "Vientiane"
     ],
     "name:wuu_x_preferred":[
@@ -550,7 +564,6 @@
     "qs:qs_id":279260,
     "qs:woe_adm0":23424872,
     "qs:woe_id":1140612,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -571,13 +584,16 @@
     "wof:concordances":{
         "gn:id":1651944,
         "gp:id":1140612,
-        "qs:id":279260,
+        "qs_pg:id":279260,
         "wd:id":"Q9326",
         "wk:page":"Vientiane"
     },
     "wof:country":"LA",
     "wof:created":1459008786,
-    "wof:geomhash":"4231075e591b50e29e57f422a153010f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3ff69d1d13c5b5b2009ad6162bd56e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -588,7 +604,7 @@
         }
     ],
     "wof:id":421168913,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1582318654,
     "wof:name":"Vientiane",
     "wof:parent_id":1092027747,
     "wof:placetype":"locality",
@@ -600,10 +616,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.54407,
-    17.870848,
-    102.720806,
-    18.042931
+    102.54407033870993,
+    17.87084794058678,
+    102.7208063881863,
+    18.04293080919762
 ],
-  "geometry": {"coordinates":[[[[102.60875799999999,17.89899],[102.612454,17.907125],[102.613148,17.938998],[102.608527,17.949548],[102.602751,17.955921],[102.59466500000001,17.960097],[102.582421,17.963613],[102.574335,17.964053],[102.55908700000001,17.968448],[102.556777,17.974821],[102.54407,18.001189],[102.54753599999999,18.029311],[102.581728,18.028652],[102.605986,18.042711],[102.60921999999999,18.042931],[102.627471,18.034803],[102.651729,18.031068],[102.68568999999999,18.024917],[102.689849,18.023819],[102.692621,18.02294],[102.694238,18.020963],[102.69654800000001,18.017887],[102.717572,17.983391],[102.720113,17.978996],[102.720575,17.975041],[102.720806,17.972404],[102.719189,17.928887],[102.71942,17.917457],[102.720575,17.886239],[102.698628,17.881622],[102.69007999999999,17.875905],[102.678297,17.872607],[102.654501,17.870848],[102.644105,17.894374],[102.62724,17.904267],[102.625854,17.900969],[102.623082,17.901629],[102.62054000000001,17.896132],[102.60875799999999,17.89899]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[102.60875804309345,17.89899042643886],[102.61245448334394,17.9071245323872],[102.6131475658909,17.93899783638014],[102.60852701557779,17.94954773510969],[102.60275132768641,17.95592132735109],[102.59466536463846,17.96009700459206],[102.58242090630873,17.96361328786482],[102.57433494326079,17.96405281835484],[102.55908712722754,17.96844806312475],[102.55677685207098,17.97482097381294],[102.54407033870993,18.00118919336047],[102.54753575144477,18.02931094848732],[102.58172782376177,18.02865189623294],[102.60598571290558,18.04271114239036],[102.60922009812475,18.04293080919762],[102.62747127186152,18.03480295464381],[102.65172916100535,18.03106840910246],[102.68569020580669,18.02491722018789],[102.68984870108848,18.02381877098074],[102.69262103127635,18.0229400066814],[102.69423822388595,18.02096277097471],[102.69654849904249,18.01788702686517],[102.71757200296715,17.98339107731197],[102.72011330563933,17.97899620440556],[102.72057536067065,17.97504072525265],[102.7208063881863,17.97240368992933],[102.71918919557672,17.92888692659513],[102.71942022309237,17.91745650731242],[102.72057536067065,17.88623891523445],[102.69862774668339,17.88162176288103],[102.69007972860415,17.87590512221808],[102.67829732530571,17.87260697661082],[102.65450149119322,17.87084794058678],[102.64410525298871,17.89437360578331],[102.62724024434587,17.90426664578075],[102.62585407925195,17.90096902708423],[102.62308174906408,17.9016285557283],[102.62054044639187,17.89613240876988],[102.60875804309345,17.89899042643886]]]],"type":"MultiPolygon"}
 }

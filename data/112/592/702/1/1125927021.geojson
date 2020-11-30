@@ -9,24 +9,24 @@
     "geom:bbox":"113.54611,22.20056,113.54611,22.20056",
     "geom:latitude":22.20056,
     "geom:longitude":113.54611,
-    "gn:gn_country":"MO",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":520400,
+    "gn:country":"MO",
+    "gn:fcode":"PPLC",
     "gn:population":520400,
     "iso:country":"MO",
+    "lbl:bbox":"113.52611,22.18056,113.56611,22.22056",
     "lbl:latitude":22.20056,
     "lbl:longitude":113.54611,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Mak\u00e8\u00eb"
     ],
     "name:afr_x_preferred":[
         "Macau"
-    ],
-    "name:alb_x_preferred":[
-        "Makao"
     ],
     "name:amh_x_preferred":[
         "\u121b\u12ab\u12cd"
@@ -37,9 +37,6 @@
     "name:arg_x_preferred":[
         "Macau"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056f\u0561\u0578\u0582"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0643\u0627\u0648"
     ],
@@ -49,14 +46,14 @@
     "name:ast_x_preferred":[
         "Mac\u00e1u"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
+    ],
     "name:aze_x_preferred":[
         "Makao"
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
-    ],
-    "name:baq_x_preferred":[
-        "Macao"
     ],
     "name:bar_x_preferred":[
         "Macao"
@@ -82,20 +79,20 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1000\u102c\u1021\u102d\u102f"
-    ],
     "name:cat_x_preferred":[
         "Macau"
     ],
     "name:cdo_x_preferred":[
         "\u00d3\u0324-mu\u00f2ng"
     ],
+    "name:ceb_x_preferred":[
+        "Macau"
+    ],
+    "name:ces_x_preferred":[
+        "Macao"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u6fb3\u9580"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -106,8 +103,8 @@
     "name:cos_x_preferred":[
         "Macau"
     ],
-    "name:cze_x_preferred":[
-        "Macao"
+    "name:cym_x_preferred":[
+        "Macau"
     ],
     "name:dan_x_preferred":[
         "Macao"
@@ -115,11 +112,14 @@
     "name:deu_x_preferred":[
         "Macao"
     ],
+    "name:deu_x_variant":[
+        "Macau"
+    ],
     "name:div_x_preferred":[
         "\u0789\u07a6\u0786\u07a7\u0787\u07ab"
     ],
-    "name:dut_x_preferred":[
-        "Macau"
+    "name:dty_x_preferred":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:ell_x_preferred":[
         "Macao"
@@ -130,11 +130,17 @@
     "name:eng_x_preferred":[
         "Macao"
     ],
+    "name:eng_x_variant":[
+        "Macau"
+    ],
     "name:epo_x_preferred":[
         "Makao"
     ],
     "name:est_x_preferred":[
         "Macau"
+    ],
+    "name:eus_x_preferred":[
+        "Macao"
     ],
     "name:ewe_x_preferred":[
         "Macau"
@@ -154,9 +160,6 @@
     "name:fra_x_preferred":[
         "Macao"
     ],
-    "name:fre_x_preferred":[
-        "Macao"
-    ],
     "name:fry_x_preferred":[
         "Makao"
     ],
@@ -166,12 +169,6 @@
     "name:gan_x_preferred":[
         "\u6fb3\u9580"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d9\u10d0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Macau"
-    ],
     "name:gla_x_preferred":[
         "Macau"
     ],
@@ -180,9 +177,6 @@
     ],
     "name:glg_x_preferred":[
         "Macau - \u6fb3\u9580"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ba\u03ac\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0abe\u0a89"
@@ -211,8 +205,8 @@
     "name:hun_x_preferred":[
         "Maka\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "Maka\u00f3"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056f\u0561\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Makau"
@@ -231,6 +225,9 @@
     ],
     "name:ita_x_preferred":[
         "Macao"
+    ],
+    "name:jam_x_preferred":[
+        "Makow"
     ],
     "name:jav_x_preferred":[
         "Makau"
@@ -252,6 +249,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0443\u043c\u044b\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Maka\u028a"
     ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u1780\u17b6\u179c"
@@ -280,11 +280,17 @@
     "name:lez_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
+    "name:lfn_x_preferred":[
+        "Macau"
+    ],
     "name:lij_x_preferred":[
         "Macao"
     ],
     "name:lim_x_preferred":[
         "Makau"
+    ],
+    "name:lim_x_variant":[
+        "Macau"
     ],
     "name:lin_x_preferred":[
         "Makau"
@@ -301,9 +307,6 @@
     "name:lzh_x_preferred":[
         "\u6fb3\u9580"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043a\u0430\u043e"
-    ],
     "name:mai_x_preferred":[
         "\u092e\u0915\u093e\u0909"
     ],
@@ -312,9 +315,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u0915\u093e\u0913"
-    ],
-    "name:may_x_preferred":[
-        "Makau"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -325,17 +325,26 @@
     "name:mon_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Makau"
+    ],
     "name:mwl_x_preferred":[
         "Macau"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1000\u102c\u1021\u102d\u102f"
     ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
+    ],
     "name:nan_x_preferred":[
         "\u00d2-mn\u0302g"
     ],
     "name:nep_x_preferred":[
         "\u092e\u0915\u093e\u0909"
+    ],
+    "name:nld_x_preferred":[
+        "Macau"
     ],
     "name:nno_x_preferred":[
         "Macao"
@@ -367,9 +376,6 @@
     "name:pcd_x_preferred":[
         "Macao"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06a9\u0627\u0626\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u06a9\u0627\u0624"
     ],
@@ -385,7 +391,7 @@
     "name:que_x_preferred":[
         "Macau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Macao"
     ],
     "name:rus_x_preferred":[
@@ -400,17 +406,23 @@
     "name:sin_x_preferred":[
         "\u0db8\u0d9a\u0dcf\u0dc0\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Macao"
     ],
     "name:slv_x_preferred":[
         "Macao"
+    ],
+    "name:som_x_preferred":[
+        "Makaw"
     ],
     "name:spa_x_preferred":[
         "Macao"
     ],
     "name:sqi_x_preferred":[
         "Makao"
+    ],
+    "name:srd_x_preferred":[
+        "Macau"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -436,11 +448,17 @@
     "name:tet_x_preferred":[
         "Makau"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043e\u043c\u0438\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Makaw"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
     ],
     "name:tuk_x_preferred":[
         "Makao"
@@ -454,9 +472,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043e\u043c\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Macao"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06a9\u0627\u0624"
     ],
@@ -469,14 +484,14 @@
     "name:war_x_preferred":[
         "Macau"
     ],
-    "name:wel_x_preferred":[
-        "Macau"
-    ],
     "name:wol_x_preferred":[
         "Makaaw"
     ],
     "name:wuu_x_preferred":[
         "\u6fb3\u95e8"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d0\u10dd"
     ],
     "name:yor_x_preferred":[
         "M\u00e0k\u00e1\u00f9"
@@ -504,9 +519,8 @@
     "qs_pg:pop_sr":11,
     "qs_pg:qs_id":1300674,
     "qs_pg:qs_pg_placetype":"locality",
-    "sfomuseum:placetype":"city",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85669743,
@@ -535,7 +549,7 @@
         }
     ],
     "wof:id":1125927021,
-    "wof:lastmodified":1606163453,
+    "wof:lastmodified":1566611805,
     "wof:name":"Macau",
     "wof:parent_id":890516343,
     "wof:placetype":"locality",

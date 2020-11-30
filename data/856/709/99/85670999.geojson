@@ -5,20 +5,36 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.67415,
-    "geom:area_square_m":7243333255.768924,
+    "geom:area_square_m":7243333353.152201,
     "geom:bbox":"31.221838,28.993527,31.90529,30.346436",
     "geom:latitude":29.664976,
     "geom:longitude":31.597689,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Al Qahirah Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Al Qahirah Governorate"
     ],
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QH"
+    ],
     "lbl:latitude":29.671211,
     "lbl:longitude":31.604235,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Cairo",
     "mps:latitude":29.671211,
     "mps:longitude":31.604235,
@@ -32,11 +48,11 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0570\u056b\u0580\u0565"
-    ],
     "name:ast_x_preferred":[
         "El Cairu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0647\u0631\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u041a\u0430\u0456\u0440"
@@ -53,10 +69,13 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Caire"
     ],
-    "name:chi_x_preferred":[
-        "\u5f00\u7f57\u7701"
+    "name:cat_x_variant":[
+        "governaci\u00f3 del Caire"
     ],
-    "name:cze_x_preferred":[
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Q\u0101hirah"
+    ],
+    "name:ces_x_preferred":[
         "K\u00e1hira"
     ],
     "name:dan_x_preferred":[
@@ -65,8 +84,14 @@
     "name:deu_x_preferred":[
         "Kairo"
     ],
-    "name:dut_x_preferred":[
-        "Ca\u00efro"
+    "name:deu_x_variant":[
+        "al-Qahira"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039a\u03b1\u0390\u03c1\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039a\u03b1\u0390\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Cairo"
@@ -78,23 +103,18 @@
     "name:epo_x_preferred":[
         "Provinco Kairo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0627\u0647\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Kairon kuvernoraatti"
     ],
     "name:fra_x_preferred":[
         "Le Caire"
     ],
-    "name:fre_x_preferred":[
-        "gouvernorat du Caire"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d8\u10e0\u10dd\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Qahira"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039a\u03b1\u0390\u03c1\u03bf\u03c5"
+    "name:fra_x_variant":[
+        "gouvernorat du Caire",
+        "Gouvernorat du Caire"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac8\u0ab0\u0acb \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -105,6 +125,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093c\u093e\u0939\u093f\u0930\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0570\u056b\u0580\u0565"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Al Qahirah"
     ],
@@ -114,11 +137,20 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30d2\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30a4\u30ed\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc8\u0cb0\u0ccb \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10e0\u10dd\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uce74\uc774\ub85c"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uc774\ub85c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Cairus"
@@ -132,14 +164,17 @@
     "name:mar_x_preferred":[
         "\u0915\u0948\u0930\u094b \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cairo Governorate"
+    ],
+    "name:nan_x_preferred":[
+        "Cairo S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Ca\u00efro"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Al Qahirah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0627\u0647\u0631\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0627\u06c1\u0631\u06c1"
@@ -150,7 +185,7 @@
     "name:por_x_preferred":[
         "Cairo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Qahirah"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +197,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dba\u0dd2\u0dbb\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00e1hira"
     ],
     "name:spa_x_preferred":[
@@ -177,26 +212,29 @@
     "name:swe_x_preferred":[
         "Kario"
     ],
+    "name:swe_x_variant":[
+        "Guvernementet Kairo"
+    ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c46\u0c2f\u0c3f\u0c30\u0c4b \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u049a\u043e\u04b3\u0438\u0440\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e01\u0e32\u0e2e\u0e34\u0e23\u0e32\u0e2b\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e44\u0e04\u0e42\u0e23"
     ],
     "name:tur_x_preferred":[
         "Kahire"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0457\u0440"
-    ],
-    "name:und_x_variant":[
-        "Cairo"
-    ],
-    "name:unk_x_variant":[
-        "Le Caire"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0642\u0627\u06c1\u0631\u06c1"
@@ -212,6 +250,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f00\u7f57"
+    ],
+    "name:zho_x_variant":[
+        "\u5f00\u7f57\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -281,15 +322,15 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Governorate",
-    "sfomuseum:placetype":"region",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"214",
     "statoids:area_mi":"83",
     "statoids:as_of_date":"2006-11-11",
@@ -308,15 +349,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25289,
         "fips:code":"EG11",
         "gn:id":360631,
         "gp:id":2345233,
         "hasc:id":"EG.QH",
         "iso:id":"EG-C",
-        "qs:id":1312310,
+        "qs_pg:id":1312310,
         "wd:id":"Q30805"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"514ac5e2b9aefbd40cf5fd1c8bbbaa67",
     "wof:hierarchy":[
         {
@@ -326,20 +372,16 @@
         }
     ],
     "wof:id":85670999,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1606163322,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":7786640,
     "wof:population_rank":13,

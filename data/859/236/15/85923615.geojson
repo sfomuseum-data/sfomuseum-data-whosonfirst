@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007746,
-    "geom:area_square_m":79236241.250713,
+    "geom:area_square_m":79236241.250788,
     "geom:bbox":"-118.30807,34.118761,-118.181583,34.267232",
     "geom:latitude":34.181889,
     "geom:longitude":-118.246766,
@@ -16,21 +16,24 @@
     "iso:country":"US",
     "lbl:latitude":34.176355,
     "lbl:longitude":-118.24774,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.176355,
     "mps:longitude":-118.24774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:afr_x_preferred":[
+        "Glendale"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0646\u062f\u064a\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u056c\u0565\u0576\u0564\u0565\u0575\u056c"
+    "name:ast_x_preferred":[
+        "Glendale"
     ],
     "name:aze_x_preferred":[
         "Qlendeyl"
-    ],
-    "name:baq_x_preferred":[
-        "Glendale "
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u043b\u0435\u043d\u0434\u044d\u0439\u043b"
@@ -44,10 +47,13 @@
     "name:cat_x_preferred":[
         "Glendale"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u502b\u4ee3\u723e"
+    "name:ceb_x_preferred":[
+        "Glendale"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
+        "Glendale"
+    ],
+    "name:cym_x_preferred":[
         "Glendale"
     ],
     "name:dan_x_preferred":[
@@ -56,8 +62,8 @@
     "name:deu_x_preferred":[
         "Glendale"
     ],
-    "name:dut_x_preferred":[
-        "Glendale"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bb\u03ad\u03bd\u03c4\u03b5\u03ca\u03bb"
     ],
     "name:eml_x_preferred":[
         "Glendale"
@@ -72,6 +78,9 @@
     "name:epo_x_preferred":[
         "Glendale"
     ],
+    "name:eus_x_preferred":[
+        "Glendale"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0644\u0646\u062f\u06cc\u0644"
     ],
@@ -81,20 +90,14 @@
     "name:fra_x_preferred":[
         "Glendale"
     ],
-    "name:fre_x_preferred":[
-        "Glendale"
-    ],
-    "name:ger_x_preferred":[
-        "Glendale"
-    ],
     "name:gla_x_preferred":[
+        "Glendale"
+    ],
+    "name:gle_x_preferred":[
         "Glendale"
     ],
     "name:glg_x_preferred":[
         "Glendale"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bb\u03ad\u03bd\u03c4\u03b5\u03ca\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0ac7\u0ab2"
@@ -116,6 +119,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u056c\u0565\u0576\u0564\u0565\u056c"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u056c\u0565\u0576\u0564\u0565\u0575\u056c"
     ],
     "name:ind_x_preferred":[
         "Glendale"
@@ -150,10 +156,10 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0932\u0947\u0928\u0921\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Glendale"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Glendale"
     ],
     "name:new_x_preferred":[
@@ -168,9 +174,6 @@
     "name:pam_x_preferred":[
         "Glendale"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0644\u0646\u062f\u06cc\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u06af\u0644\u06cc\u0646\u0688\u06cc\u0644"
     ],
@@ -180,7 +183,7 @@
     "name:por_x_preferred":[
         "Glendale"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Glendale"
     ],
     "name:rus_x_preferred":[
@@ -192,7 +195,7 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u0dbd\u0dd9\u0db1\u0dca\u0da9\u0dbd\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Glendale"
     ],
     "name:slv_x_preferred":[
@@ -216,6 +219,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0bb3\u0bc6\u0ba3\u0bcd\u0b9f\u0bb2\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0434\u0435\u0439\u043b"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c32\u0c46\u0c28\u0c4d\u0c21\u0c47\u0c32\u0c4d"
     ],
@@ -231,11 +237,17 @@
     "name:ukr_x_preferred":[
         "\u0490\u043b\u0435\u043d\u0434\u0435\u0439\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:ukr_x_variant":[
+        "\u0413\u043b\u0435\u043d\u0434\u0435\u0439\u043b"
+    ],
+    "name:und_x_variant":[
         "Riverdale"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u0646\u0688\u06cc\u0644\u060c \u06a9\u06cc\u0644\u06cc\u0641\u0648\u0631\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0644\u0646\u0688\u06cc\u0644"
     ],
     "name:uzb_x_preferred":[
         "Glendale"
@@ -247,9 +259,6 @@
         "Glendale"
     ],
     "name:war_x_preferred":[
-        "Glendale"
-    ],
-    "name:wel_x_preferred":[
         "Glendale"
     ],
     "name:zho_x_preferred":[
@@ -269,12 +278,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.170833,
     "wd:longitude":-118.25,
@@ -291,12 +299,14 @@
         "fips:code":"0630000",
         "gn:id":5352423,
         "gp:id":2411080,
-        "qs:id":819958,
         "qs_pg:id":819958,
         "wd:id":"Q485716",
         "wk:page":"Glendale, California"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5333bd2d6e5466cab05444ffb3395805",
     "wof:hierarchy":[
         {
@@ -311,7 +321,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163478,
+    "wof:lastmodified":1582336145,
     "wof:name":"Glendale",
     "wof:parent_id":102086957,
     "wof:placetype":"locality",

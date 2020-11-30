@@ -5,22 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005754,
-    "geom:area_square_m":69132062.870422,
-    "geom:bbox":"-89.276761,13.637354,-89.16196,13.743379",
-    "geom:latitude":13.693679,
+    "geom:area_square_m":69131969.858458,
+    "geom:bbox":"-89.2767614137,13.637354384,-89.1619600138,13.743378857",
+    "geom:latitude":13.69368,
     "geom:longitude":-89.214651,
     "iso:country":"SV",
     "lbl:latitude":13.698156,
     "lbl:longitude":-89.191355,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "San Salvador"
-    ],
-    "name:alb_x_preferred":[
-        "San Salvadori"
     ],
     "name:amh_x_preferred":[
         "\u1233\u1295 \u1233\u120d\u126b\u12f6\u122d"
@@ -31,9 +31,6 @@
     "name:arg_x_preferred":[
         "San Salvador"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580"
-    ],
     "name:ast_x_preferred":[
         "San Salvador"
     ],
@@ -43,14 +40,17 @@
     "name:aze_x_preferred":[
         "San Salvador"
     ],
-    "name:baq_x_preferred":[
-        "San Salvador"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09b8\u09be\u09b2\u09ad\u09be\u09a6\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b8\u09be\u09b2\u09ad\u09be\u09a6\u09b0"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f53\u0f0b\u0f66\u0f63\u0f0b\u0f5d\u0f0b\u0f4c\u0f7c\u0f62\u0f0d"
@@ -70,22 +70,22 @@
     "name:cdo_x_preferred":[
         "San Salvador"
     ],
+    "name:ceb_x_preferred":[
+        "San Salvador"
+    ],
+    "name:ces_x_preferred":[
+        "San Salvador"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u85a9\u723e\u74e6\u591a"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "San Salvador"
     ],
     "name:dan_x_preferred":[
         "San Salvador"
     ],
     "name:deu_x_preferred":[
-        "San Salvador"
-    ],
-    "name:dut_x_preferred":[
         "San Salvador"
     ],
     "name:ell_x_preferred":[
@@ -115,16 +115,7 @@
     "name:fra_x_variant":[
         "San Salvador"
     ],
-    "name:fre_x_preferred":[
-        "San Salvador"
-    ],
     "name:fry_x_preferred":[
-        "San Salvador"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10e1\u10d0\u10da\u10d5\u10d0\u10d3\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "San Salvador"
     ],
     "name:gla_x_preferred":[
@@ -135,9 +126,6 @@
     ],
     "name:glg_x_preferred":[
         "San Salvador"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a3\u03b1\u03bb\u03b2\u03b1\u03b4\u03cc\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0ab8\u0abe\u0ab2\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0"
@@ -166,11 +154,11 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580"
     ],
-    "name:ice_x_preferred":[
-        "San Salvador / Bi\u00f0eyjan"
-    ],
     "name:ido_x_preferred":[
         "San-Salvador"
+    ],
+    "name:ido_x_variant":[
+        "San Salvador"
     ],
     "name:ile_x_preferred":[
         "San Salvador"
@@ -180,6 +168,9 @@
     ],
     "name:ind_x_preferred":[
         "San Salvador"
+    ],
+    "name:isl_x_preferred":[
+        "San Salvador / Bi\u00f0eyjan"
     ],
     "name:ita_x_preferred":[
         "San Salvador"
@@ -214,6 +205,12 @@
     "name:lav_x_preferred":[
         "Sansalvadora"
     ],
+    "name:lfn_x_preferred":[
+        "San Salvador"
+    ],
+    "name:lij_x_preferred":[
+        "San Salvador"
+    ],
     "name:lin_x_preferred":[
         "San Salvador"
     ],
@@ -223,14 +220,8 @@
     "name:lmo_x_preferred":[
         "San Salvador"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u0938\u093e\u0932\u094d\u0935\u094d\u0939\u093e\u0921\u094b\u0930"
-    ],
-    "name:may_x_preferred":[
-        "San Salvador"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
@@ -240,6 +231,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "San Salvador"
     ],
     "name:nah_x_preferred":[
         "San Salvador"
@@ -265,6 +259,9 @@
     "name:oci_x_preferred":[
         "San Salvador"
     ],
+    "name:olo_x_preferred":[
+        "San-Sal\u2019vador"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
@@ -273,9 +270,6 @@
     ],
     "name:pap_x_preferred":[
         "San Salvador"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
     ],
     "name:pms_x_preferred":[
         "San Salvador"
@@ -289,10 +283,13 @@
     "name:por_x_preferred":[
         "San Salvador"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u0646 \u0633\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
     "name:que_x_preferred":[
         "San Salvador"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Salvador"
     ],
     "name:rus_x_preferred":[
@@ -307,7 +304,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "San Salvador"
     ],
     "name:slv_x_preferred":[
@@ -346,8 +343,8 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e19\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f53\u0f0b\u0f66\u0f63\u0f0b\u0f5d\u0f0b\u0f4c\u0f7c\u0f62\u0f0d"
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "San Salwador"
@@ -379,8 +376,11 @@
     "name:war_x_preferred":[
         "San Salvador"
     ],
-    "name:wel_x_preferred":[
-        "San Salvador"
+    "name:wuu_x_preferred":[
+        "\u5723\u8428\u5c14\u74e6\u591a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e1\u10d0\u10da\u10d5\u10d0\u10d3\u10dd\u10e0\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05df \u05e1\u05d0\u05dc\u05d5\u05d5\u05d0\u05d3\u05d0\u05e8"
@@ -412,7 +412,6 @@
     "qs:qs_id":1155818,
     "qs:woe_adm0":23424807,
     "qs:woe_id":79825,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -435,13 +434,16 @@
         "gn:id":3583361,
         "gp:id":79825,
         "loc:id":"n79066410",
-        "qs:id":1155818,
+        "qs_pg:id":1155818,
         "wd:id":"Q3110",
         "wk:page":"San Salvador"
     },
     "wof:country":"SV",
     "wof:created":1459009709,
-    "wof:geomhash":"215c2b84f48c650126c2bbbcdee329c2",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"74d4d2389515d427a09866093241c3b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -452,7 +454,7 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1606163055,
+    "wof:lastmodified":1582345123,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,
     "wof:placetype":"locality",
@@ -464,10 +466,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.276761,
-    13.637354,
-    -89.16196,
-    13.743379
+    -89.27676141371317,
+    13.63735438404185,
+    -89.16196001381995,
+    13.743378856986
 ],
-  "geometry": {"coordinates":[[[-89.261577,13.743379],[-89.25017800000001,13.732671],[-89.249692,13.729115],[-89.236926,13.729097],[-89.230306,13.725252],[-89.22931,13.722155],[-89.227908,13.721454],[-89.215,13.722589],[-89.210325,13.72],[-89.210295,13.72],[-89.19799500000001,13.723503],[-89.19499999999999,13.725],[-89.193645,13.726355],[-89.190764,13.724687],[-89.17563199999999,13.722267],[-89.170124,13.710118],[-89.16706600000001,13.708159],[-89.165792,13.705057],[-89.171617,13.6955],[-89.171819,13.695],[-89.171367,13.692287],[-89.16195999999999,13.683812],[-89.16712699999999,13.674376],[-89.173198,13.675469],[-89.18159799999999,13.671465],[-89.185,13.672207],[-89.18641700000001,13.671681],[-89.188582,13.668541],[-89.191085,13.660209],[-89.192004,13.659526],[-89.19241700000001,13.658586],[-89.194664,13.652392],[-89.190001,13.643983],[-89.19290599999999,13.637354],[-89.209763,13.64184],[-89.21064699999999,13.64361],[-89.22005900000001,13.643432],[-89.231278,13.651577],[-89.222854,13.659819],[-89.22559200000001,13.665467],[-89.230412,13.672055],[-89.228335,13.677573],[-89.228461,13.67838],[-89.231846,13.682753],[-89.23506399999999,13.684537],[-89.243866,13.681605],[-89.24822899999999,13.684403],[-89.253057,13.695644],[-89.25348200000001,13.696045],[-89.25341,13.69659],[-89.25694,13.704825],[-89.257349,13.705251],[-89.26337599999999,13.710325],[-89.269662,13.70883],[-89.27676099999999,13.71102],[-89.270921,13.726417],[-89.26858799999999,13.726679],[-89.261577,13.743379]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-89.26157709995911,13.743378856986],[-89.25017761503986,13.73267054671158],[-89.24969215638268,13.72911512008418],[-89.23692645379502,13.72909651058002],[-89.23030595160843,13.72525229706111],[-89.22931015920699,13.72215507960371],[-89.22790841864044,13.72145420932044],[-89.21499999999953,13.7225894927039],[-89.2103249792757,13.72],[-89.21029501171175,13.72],[-89.19799475688338,13.72350262155807],[-89.19499999999999,13.725],[-89.19364463225254,13.72635536774696],[-89.190764024507,13.72468745372571],[-89.1756322175797,13.72226747116364],[-89.17012387154948,13.71011848205598],[-89.16706645654565,13.70815906370308],[-89.16579215060152,13.70505682499409],[-89.17161730292126,13.69549995208468],[-89.17181902799638,13.695],[-89.17136700534213,13.69228679981049],[-89.16196001381995,13.68381210113493],[-89.16712713641554,13.67437567428166],[-89.17319807789099,13.67546946288462],[-89.18159797141455,13.67146469237525],[-89.18499999999952,13.67220724358617],[-89.18641653099496,13.67168121651021],[-89.18858248526247,13.66854099138304],[-89.19108523672726,13.66020931928295],[-89.19200366366256,13.65952649160289],[-89.19241747706927,13.65858607655977],[-89.19466366250754,13.65239194442115],[-89.19000138589014,13.64398338598414],[-89.19290632192137,13.63735438404185],[-89.20976321671294,13.64183990338286],[-89.21064707502848,13.64360968089621],[-89.22005894095086,13.6434323381202],[-89.23127783334593,13.65157742363964],[-89.22285393449701,13.65981898119517],[-89.22559165784529,13.66546721650082],[-89.23041168566191,13.67205488781176],[-89.22833510420374,13.6775733703689],[-89.22846099465923,13.67838049856934],[-89.2318461762342,13.68275287114095],[-89.2350644382127,13.68453659914339],[-89.24386584788996,13.68160498011805],[-89.24822904586043,13.68440290090363],[-89.25305746682335,13.69564387485911],[-89.25348218952715,13.69604536715816],[-89.25341021227182,13.69658978772771],[-89.25694013132673,13.70482538977079],[-89.25734947669275,13.70525121162596],[-89.26337613295397,13.71032532312376],[-89.26966163855751,13.70882998085309],[-89.27676141371317,13.71101995590988],[-89.2709211599818,13.72641655049351],[-89.26858765756144,13.72667880838979],[-89.26157709995911,13.743378856986]]],"type":"Polygon"}
 }

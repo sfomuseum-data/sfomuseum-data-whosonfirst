@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.668156,
-    "geom:area_square_m":104611378646.082779,
+    "geom:area_square_m":104611378646.078339,
     "geom:bbox":"-89.571203,36.497058,-81.964788,39.147732",
     "geom:latitude":37.526618,
     "geom:longitude":-85.290563,
@@ -140,6 +140,9 @@
     "name:dan_x_preferred":[
         "Kentucky"
     ],
+    "name:deu_ch_x_preferred":[
+        "Kentucky"
+    ],
     "name:deu_x_preferred":[
         "Kentucky"
     ],
@@ -150,6 +153,12 @@
         "\u039a\u03b5\u03bd\u03c4\u03ac\u03ba\u03b9"
     ],
     "name:eml_x_preferred":[
+        "Kentucky"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Kentucky"
+    ],
+    "name:eng_gb_x_preferred":[
         "Kentucky"
     ],
     "name:eng_x_colloquial":[
@@ -447,8 +456,14 @@
     "name:pol_x_preferred":[
         "Kentucky"
     ],
+    "name:por_br_x_preferred":[
+        "Kentucky"
+    ],
     "name:por_x_preferred":[
         "Kentucky"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0646\u062a\u0627\u06a9\u064a"
     ],
     "name:que_x_preferred":[
         "Kentucky suyu"
@@ -476,6 +491,9 @@
     ],
     "name:san_x_variant":[
         "\u0915\u0947\u0928\u094d \u091f\u0915\u0940"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c6e\u1c71\u1c5b\u1c69\u1c60\u1c60\u1c64"
     ],
     "name:scn_x_preferred":[
         "Kentucky"
@@ -597,6 +615,9 @@
     "name:zho_min_nan_x_preferred":[
         "Kentucky"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u80af\u5854\u57fa\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u80af\u5854\u57fa\u5dde"
     ],
@@ -669,10 +690,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -697,6 +717,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":18,
         "fips:code":"US21",
         "gn:id":6254925,
         "gp:id":2347576,
@@ -706,6 +727,9 @@
         "wd:id":"Q1603"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"dc73480c1d1c7e0428485e1aa7d7ff25",
     "wof:hierarchy":[
         {
@@ -723,7 +747,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163165,
+    "wof:lastmodified":1587428440,
     "wof:name":"Kentucky",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

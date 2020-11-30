@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050361,
-    "geom:area_square_m":463533321.655422,
+    "geom:area_square_m":463533321.655415,
     "geom:bbox":"12.33407,41.763576,12.731048,42.051758",
     "geom:latitude":41.895611,
     "geom:longitude":12.508632,
@@ -14,10 +14,13 @@
     "iso:country":"IT",
     "lbl:latitude":41.878243,
     "lbl:longitude":12.52809,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":41.878243,
     "mps:longitude":12.52809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0420\u0438\u043c"
     ],
@@ -30,7 +33,7 @@
     "name:afr_x_preferred":[
         "Rome"
     ],
-    "name:alb_x_preferred":[
+    "name:aka_x_preferred":[
         "Roma"
     ],
     "name:als_x_preferred":[
@@ -54,14 +57,14 @@
     "name:arg_x_preferred":[
         "Roma"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u057c\u0578\u0574"
-    ],
     "name:arz_x_preferred":[
         "\u0631\u0648\u0645\u0627"
     ],
     "name:ast_x_preferred":[
         "Roma"
+    ],
+    "name:ava_x_preferred":[
+        "\u0420\u0438\u043c"
     ],
     "name:aym_x_preferred":[
         "Roma"
@@ -77,9 +80,6 @@
     ],
     "name:bam_x_preferred":[
         "Rome"
-    ],
-    "name:baq_x_preferred":[
-        "Erroma"
     ],
     "name:bar_x_preferred":[
         "Rom"
@@ -114,9 +114,6 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u043c"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u1031\u102c\u1019\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0420\u0438\u043c"
     ],
@@ -135,14 +132,17 @@
     "name:ces_x_preferred":[
         "\u0158\u00edm"
     ],
+    "name:ces_x_variant":[
+        "R\u00edm"
+    ],
     "name:cha_x_preferred":[
         "Roma"
     ],
     "name:che_x_preferred":[
         "\u0420\u0438\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u9a6c"
+    "name:che_x_variant":[
+        "\u0420\u0443\u043c"
     ],
     "name:chu_x_preferred":[
         "\u0420\u0438\u043c\u044a"
@@ -180,13 +180,13 @@
     "name:cze_x_colloquial":[
         "Rim"
     ],
-    "name:cze_x_preferred":[
-        "R\u00edm"
-    ],
     "name:cze_x_variant":[
         "\u0158\u00edm"
     ],
     "name:dan_x_preferred":[
+        "Rom"
+    ],
+    "name:deu_ch_x_preferred":[
         "Rom"
     ],
     "name:deu_x_preferred":[
@@ -200,9 +200,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0930\u094b\u092e"
-    ],
-    "name:dut_x_preferred":[
-        "Rome"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03ce\u03bc\u03b7"
@@ -249,9 +246,6 @@
     "name:fra_x_preferred":[
         "Rome"
     ],
-    "name:fre_x_preferred":[
-        "Rome"
-    ],
     "name:frp_x_preferred":[
         "Roma"
     ],
@@ -273,11 +267,8 @@
     "name:gan_x_preferred":[
         "\u7f85\u99ac"
     ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rom"
+    "name:gcr_x_preferred":[
+        "R\u00f2m"
     ],
     "name:gla_x_preferred":[
         "An R\u00f2imh"
@@ -297,8 +288,8 @@
     "name:got_x_preferred":[
         "\ud800\udf42\ud800\udf3f\ud800\udf3c\ud800\udf30"
     ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ce\u03bc\u03b7"
+    "name:got_x_variant":[
+        "\ud800\udf42\ud800\udf3f\ud800\udf3c\ud800\udf30/Ruma"
     ],
     "name:grn_x_preferred":[
         "R\u00f3ma"
@@ -345,8 +336,8 @@
     "name:hye_x_preferred":[
         "\u0540\u057c\u0578\u0574"
     ],
-    "name:ice_x_preferred":[
-        "R\u00f3m"
+    "name:hyw_x_preferred":[
+        "\u0540\u057c\u0578\u0574"
     ],
     "name:ido_x_preferred":[
         "Roma"
@@ -362,6 +353,9 @@
     ],
     "name:ind_x_preferred":[
         "Roma"
+    ],
+    "name:inh_x_preferred":[
+        "\u0420\u0438\u043c"
     ],
     "name:isl_x_preferred":[
         "R\u00f3m"
@@ -444,6 +438,9 @@
     "name:lez_x_preferred":[
         "\u0420\u0438\u043c"
     ],
+    "name:lfn_x_preferred":[
+        "Roma"
+    ],
     "name:lij_x_preferred":[
         "Romma"
     ],
@@ -462,14 +459,17 @@
     "name:lrc_x_preferred":[
         "\u0631\u0648\u0645"
     ],
+    "name:lrc_x_variant":[
+        "\u0631\u0645"
+    ],
     "name:ltz_x_preferred":[
         "Roum"
     ],
+    "name:lug_x_preferred":[
+        "Rome"
+    ],
     "name:lzh_x_preferred":[
         "\u7f85\u99ac"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u0438\u043c"
     ],
     "name:mai_x_preferred":[
         "\u0930\u094b\u092e"
@@ -477,14 +477,8 @@
     "name:mal_x_preferred":[
         "\u0d31\u0d4b\u0d02"
     ],
-    "name:mao_x_preferred":[
-        "R\u014dma"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u094b\u092e"
-    ],
-    "name:may_x_preferred":[
-        "Rom"
     ],
     "name:mdf_x_preferred":[
         "\u0420\u0438\u043c"
@@ -558,6 +552,9 @@
     "name:nov_x_preferred":[
         "Roma"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d9\u07d0\u07ed\u07e1\u07ce\u07f2\u07ec"
+    ],
     "name:nrm_x_preferred":[
         "Rome"
     ],
@@ -591,9 +588,6 @@
     "name:pdc_x_preferred":[
         "Rom"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0645"
-    ],
     "name:pfl_x_preferred":[
         "Rom"
     ],
@@ -611,6 +605,9 @@
     ],
     "name:pol_x_preferred":[
         "Rzym"
+    ],
+    "name:por_br_x_preferred":[
+        "Roma"
     ],
     "name:por_x_preferred":[
         "Roma"
@@ -633,11 +630,11 @@
     "name:rue_x_preferred":[
         "\u0420\u0438\u043c"
     ],
-    "name:rum_x_preferred":[
-        "Roma"
-    ],
     "name:run_x_preferred":[
         "Rome"
+    ],
+    "name:run_x_variant":[
+        "Roma"
     ],
     "name:rup_x_preferred":[
         "Roma"
@@ -651,11 +648,17 @@
     "name:sah_x_preferred":[
         "\u0420\u0438\u043c"
     ],
+    "name:sah_x_variant":[
+        "\u0420\u043e\u043c"
+    ],
     "name:san_x_preferred":[
         "\u0930\u094b\u092e-\u0928\u0917\u0930\u092e\u094d"
     ],
     "name:san_x_variant":[
         "\u0930\u094b\u092e\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c73\u1c62"
     ],
     "name:scn_x_preferred":[
         "Roma"
@@ -672,9 +675,6 @@
     "name:slk_x_preferred":[
         "R\u00edm"
     ],
-    "name:slo_x_preferred":[
-        "R\u00edm"
-    ],
     "name:slv_x_preferred":[
         "Rim"
     ],
@@ -686,6 +686,9 @@
     ],
     "name:sna_x_preferred":[
         "Rome"
+    ],
+    "name:snd_x_preferred":[
+        "\u0631\u0648\u0645"
     ],
     "name:som_x_preferred":[
         "Roma"
@@ -707,6 +710,12 @@
     ],
     "name:srn_x_preferred":[
         "Roma"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0420\u0438\u043c"
+    ],
+    "name:srp_el_x_preferred":[
+        "Rim"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u043c"
@@ -735,8 +744,14 @@
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bcb\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b89\u0bb0\u0bcb\u0bae\u0bc8 \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0438\u043c"
+    ],
+    "name:tat_x_variant":[
+        "\u0420\u0443\u043c"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c4b\u0c2e\u0c4d"
@@ -747,6 +762,9 @@
     "name:tgk_x_preferred":[
         "\u0420\u0438\u043c"
     ],
+    "name:tgk_x_variant":[
+        "\u0420\u0443\u043c"
+    ],
     "name:tgl_x_preferred":[
         "Roma"
     ],
@@ -755,9 +773,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e23\u0e21"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f62\u0f7c\u0f0b\u0f58\u0f0d"
     ],
     "name:tir_x_preferred":[
         "\u122e\u121b"
@@ -785,9 +800,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u043c"
-    ],
-    "name:unk_x_variant":[
-        "Rom"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0645"
@@ -818,9 +830,6 @@
     ],
     "name:war_x_preferred":[
         "Roma"
-    ],
-    "name:wel_x_preferred":[
-        "Rhufain"
     ],
     "name:wln_x_preferred":[
         "Rome"
@@ -859,6 +868,98 @@
     "name:zho_yue_x_preferred":[
         "\u7f85\u99ac"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Italy",
+    "ne:ADM0_A3":"ITA",
+    "ne:ADM1NAME":"Lazio",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":"Rome",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":187.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":4219762,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Rome",
+    "ne:GN_POP":35452,
+    "ne:GTOPO30":183.0,
+    "ne:ISO_A2":"IT",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":41.895956,
+    "ne:LONGITUDE":12.483258,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Rome",
+    "ne:MAX_AREAKM":683.0,
+    "ne:MAX_AREAMI":264.0,
+    "ne:MAX_BBXMAX":12.766667,
+    "ne:MAX_BBXMIN":12.450494,
+    "ne:MAX_BBYMAX":42.05,
+    "ne:MAX_BBYMIN":41.666667,
+    "ne:MAX_NATSCA":300.0,
+    "ne:MAX_PERKM":500.0,
+    "ne:MAX_PERMI":311.0,
+    "ne:MAX_POP10":2143900,
+    "ne:MAX_POP20":2143900,
+    "ne:MAX_POP300":2666328,
+    "ne:MAX_POP310":2666328,
+    "ne:MAX_POP50":2666328,
+    "ne:MEAN_BBXC":12.561474,
+    "ne:MEAN_BBYC":41.864442,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Rome",
+    "ne:MIN_AREAKM":505.0,
+    "ne:MIN_AREAMI":195.0,
+    "ne:MIN_BBXMAX":12.766667,
+    "ne:MIN_BBXMIN":12.333333,
+    "ne:MIN_BBYMAX":42.033333,
+    "ne:MIN_BBYMIN":41.666667,
+    "ne:MIN_PERKM":382.0,
+    "ne:MIN_PERMI":238.0,
+    "ne:NAME":"Rome",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Rome",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":600,
+    "ne:NOTE":null,
+    "ne:POP1950":1884,
+    "ne:POP1955":2143,
+    "ne:POP1960":2456,
+    "ne:POP1965":2780,
+    "ne:POP1970":3135,
+    "ne:POP1975":3300,
+    "ne:POP1980":3390,
+    "ne:POP1985":3429,
+    "ne:POP1990":3450,
+    "ne:POP1995":3425,
+    "ne:POP2000":3385,
+    "ne:POP2005":3348,
+    "ne:POP2010":3339,
+    "ne:POP2015":3333,
+    "ne:POP2020":3330,
+    "ne:POP2025":3330,
+    "ne:POP2050":3330,
+    "ne:POP_MAX":3339000,
+    "ne:POP_MIN":35452,
+    "ne:POP_OTHER":2050212,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":0,
+    "ne:SOV0NAME":"Italy",
+    "ne:SOV_A3":"ITA",
+    "ne:TIMEZONE":"America/New_York",
+    "ne:UN_ADM0":"Italy",
+    "ne:UN_FID":308,
+    "ne:UN_LAT":41.87,
+    "ne:UN_LONG":12.51,
+    "ne:WORLDCITY":1,
     "qs:a0":"Italia",
     "qs:a1":"*Roma",
     "qs:a1r":"0Lazio",
@@ -871,19 +972,18 @@
     "qs:pop":0,
     "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85685461,
         102191581,
-        404461721,
         85633253,
-        404227517
+        404461721,
+        404227517,
+        85685461
     ],
     "wof:breaches":[],
     "wof:capital_of":85633253,
@@ -895,12 +995,14 @@
         "gp:id":721943,
         "loc:id":"n79018704",
         "nyt:id":"51688803696189142301",
-        "qs:id":792845,
         "qs_pg:id":792845,
         "wd:id":"Q220",
         "wk:page":"Rome"
     },
     "wof:country":"IT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5de3b93a7f6a23d8de27400336e491bf",
     "wof:hierarchy":[
         {
@@ -916,7 +1018,8 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1606163461,
+    "wof:lastmodified":1587427923,
+    "wof:megacity":1,
     "wof:name":"Rome",
     "wof:parent_id":404461721,
     "wof:placetype":"locality",

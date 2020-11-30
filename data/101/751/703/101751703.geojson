@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048659,
-    "geom:area_square_m":406593699.92553,
+    "geom:area_square_m":406593699.925536,
     "geom:bbox":"18.93058,47.357971,19.322326,47.621547",
     "geom:latitude":47.486376,
     "geom:longitude":19.105778,
@@ -58,6 +58,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442"
+    ],
+    "name:ban_x_preferred":[
+        "Budapest"
     ],
     "name:bar_x_preferred":[
         "Budapest"
@@ -125,6 +128,9 @@
     "name:dan_x_preferred":[
         "Budapest"
     ],
+    "name:deu_ch_x_preferred":[
+        "Budapest"
+    ],
     "name:deu_x_preferred":[
         "Budapest"
     ],
@@ -139,6 +145,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c5\u03b4\u03b1\u03c0\u03ad\u03c3\u03c4\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Budapest"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Budapest"
     ],
     "name:eng_x_colloquial":[
         "Pearl of the Danube"
@@ -199,6 +211,9 @@
     ],
     "name:glv_x_preferred":[
         "Budapest"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf31\ud800\udf3f\ud800\udf33\ud800\udf30\ud800\udf40\ud800\udf34\ud800\udf43\ud800\udf44"
     ],
     "name:grn_x_preferred":[
         "Budapest"
@@ -332,6 +347,9 @@
     "name:lrc_x_preferred":[
         "\u0628\u0648\u062f\u0627\u067e\u0633\u062a"
     ],
+    "name:ltg_x_preferred":[
+        "Budape\u0161ta"
+    ],
     "name:ltz_x_preferred":[
         "Budapest"
     ],
@@ -442,6 +460,9 @@
     ],
     "name:pol_x_preferred":[
         "Budapeszt"
+    ],
+    "name:por_br_x_preferred":[
+        "Budapeste"
     ],
     "name:por_x_preferred":[
         "Budapeste"
@@ -629,6 +650,12 @@
     "name:zea_x_preferred":[
         "Boedapest"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u5e03\u9054\u4f69\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u9054\u4f69\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af"
     ],
@@ -736,7 +763,6 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -752,8 +778,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        85684881,
-        404227489
+        404227489,
+        85684881
     ],
     "wof:breaches":[],
     "wof:capital_of":85633237,
@@ -774,6 +800,9 @@
         85684881
     ],
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f85ef3b54da8f41ebefb37b80c5e0e84",
     "wof:hierarchy":[
         {
@@ -785,7 +814,7 @@
         }
     ],
     "wof:id":101751703,
-    "wof:lastmodified":1606163461,
+    "wof:lastmodified":1587427689,
     "wof:megacity":1,
     "wof:name":"Budapest",
     "wof:parent_id":85684881,

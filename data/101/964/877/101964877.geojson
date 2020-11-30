@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077308,
-    "geom:area_square_m":919672714.831164,
+    "geom:area_square_m":919672714.831505,
     "geom:bbox":"-48.182016,-16.050027,-47.702418,-15.615106",
     "geom:latitude":-15.829372,
     "geom:longitude":-47.921061,
@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-15.803598,
     "lbl:longitude":-47.903099,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-15.803598,
     "mps:longitude":-47.903099,
     "mz:hierarchy_label":1,
@@ -27,9 +29,6 @@
     "name:afr_x_preferred":[
         "Bras\u00edlia"
     ],
-    "name:alb_x_preferred":[
-        "Brazilia"
-    ],
     "name:amh_x_preferred":[
         "\u1265\u122b\u12da\u120a\u12eb"
     ],
@@ -38,9 +37,6 @@
     ],
     "name:arg_x_preferred":[
         "Bras\u00edlia"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0561\u0566\u056b\u056c\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0627\u0632\u064a\u0644\u064a\u0627"
@@ -57,8 +53,8 @@
     "name:aze_x_preferred":[
         "Brazilia"
     ],
-    "name:baq_x_preferred":[
-        "Brasilia"
+    "name:aze_x_variant":[
+        "Braziliya"
     ],
     "name:bar_x_preferred":[
         "Brasilia"
@@ -68,6 +64,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0430\u0437\u0456\u043b\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u0430\u0437\u0456\u043b\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b8\u09bf\u09b2\u09bf\u09af\u09bc\u09be"
@@ -87,10 +86,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u101b\u102c\u1005\u1031\u1038\u101c\u1031\u1038\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:cdo_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:ceb_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:ces_x_preferred":[
@@ -98,9 +100,6 @@
     ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u897f\u5229\u4e9a"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0430"
@@ -114,10 +113,13 @@
     "name:cos_x_preferred":[
         "Brasilia"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:dan_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:deu_ch_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:deu_x_preferred":[
@@ -126,20 +128,26 @@
     "name:deu_x_variant":[
         "Bras\u00edlia"
     ],
+    "name:diq_x_preferred":[
+        "Bras\u00edlia"
+    ],
     "name:div_x_preferred":[
         "\u0784\u07b0\u0783\u07a6\u0790\u07a9\u078d\u07a8\u0787\u07a7"
     ],
     "name:dsb_x_preferred":[
         "Bras\u00edlia"
     ],
-    "name:dut_x_preferred":[
-        "Brasilia"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03b1\u03b6\u03af\u03bb\u03b9\u03b1"
     ],
     "name:eml_x_preferred":[
         "Brasilia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bras\u00edlia"
     ],
     "name:eng_x_preferred":[
         "Brasilia"
@@ -159,6 +167,9 @@
     "name:ext_x_preferred":[
         "Brasilia"
     ],
+    "name:fao_x_preferred":[
+        "Brasilia"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627"
     ],
@@ -171,19 +182,10 @@
     "name:fra_x_preferred":[
         "Brasilia"
     ],
-    "name:fre_x_preferred":[
-        "Brasilia"
-    ],
     "name:frp_x_preferred":[
         "Brasilia"
     ],
     "name:fry_x_preferred":[
-        "Bras\u00edlia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:gla_x_preferred":[
@@ -198,8 +200,8 @@
     "name:glv_x_preferred":[
         "Bras\u00edlia"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03b6\u03af\u03bb\u03b9\u03b1"
+    "name:got_x_preferred":[
+        "\ud800\udf31\ud800\udf42\ud800\udf30\ud800\udf36\ud800\udf39\ud800\udf3b\ud800\udf39\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Brasilia"
@@ -210,8 +212,17 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0a9c\u0abc\u0abf\u0ab2\u0abf\u0aaf\u0abe"
     ],
+    "name:hak_x_preferred":[
+        "Bras\u00edlia"
+    ],
     "name:hat_x_preferred":[
         "Brazilia"
+    ],
+    "name:hau_x_preferred":[
+        "Brasilia"
+    ],
+    "name:haw_x_preferred":[
+        "Palakilia"
     ],
     "name:hbs_x_preferred":[
         "Brazilija"
@@ -236,9 +247,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0580\u0561\u0566\u056b\u056c\u056b\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Brasil\u00eda"
     ],
     "name:ido_x_preferred":[
         "Brasilia"
@@ -315,6 +323,9 @@
     "name:lij_x_preferred":[
         "Brax\u00eclia"
     ],
+    "name:lij_x_variant":[
+        "Braxilia"
+    ],
     "name:lim_x_preferred":[
         "Bras\u00edlia"
     ],
@@ -330,23 +341,20 @@
     "name:lrc_x_preferred":[
         "\u0628\u0626\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627"
+    ],
     "name:ltz_x_preferred":[
         "Bras\u00edlia"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0458\u0430"
+    "name:mai_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u093f\u0932\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d30\u0d38\u0d40\u0d32\u0d3f\u0d2f"
     ],
-    "name:mao_x_preferred":[
-        "Bras\u00edlia"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u091d\u093f\u0932\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Bras\u00edlia"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0458\u0430"
@@ -357,11 +365,20 @@
     "name:mon_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:msa_x_preferred":[
+        "Bras\u00edlia"
+    ],
     "name:mwl_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:mya_x_preferred":[
         "\u1018\u101b\u102c\u1005\u1031\u1038\u101c\u1031\u1038\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0430 \u043e\u0448"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627"
@@ -393,11 +410,17 @@
     "name:nor_x_preferred":[
         "Bras\u00edlia"
     ],
+    "name:nrm_x_preferred":[
+        "Br\u00e9silia"
+    ],
     "name:nya_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:oci_x_preferred":[
         "Bras\u00edlia"
+    ],
+    "name:olo_x_preferred":[
+        "Brazilia"
     ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b4d\u0b30\u0b3e\u0b38\u0b3f\u0b32\u0b3f\u0b06"
@@ -417,9 +440,6 @@
     "name:pdc_x_preferred":[
         "Brasilia"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627"
-    ],
     "name:pih_x_preferred":[
         "Breselya"
     ],
@@ -430,6 +450,9 @@
         "\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
+        "Bras\u00edlia"
+    ],
+    "name:por_br_x_preferred":[
         "Bras\u00edlia"
     ],
     "name:por_x_preferred":[
@@ -447,7 +470,7 @@
     "name:ron_x_preferred":[
         "Brasilia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Bras\u00edlia"
     ],
     "name:run_x_preferred":[
@@ -462,6 +485,9 @@
     "name:rus_x_variant":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
     ],
+    "name:scn_x_preferred":[
+        "Brasilia"
+    ],
     "name:sco_x_preferred":[
         "Bras\u00edlia"
     ],
@@ -472,9 +498,6 @@
         "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0dbd\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Braz\u00edlia"
-    ],
-    "name:slo_x_preferred":[
         "Braz\u00edlia"
     ],
     "name:slv_x_preferred":[
@@ -507,6 +530,9 @@
     "name:swe_x_preferred":[
         "Bras\u00edlia"
     ],
+    "name:szl_x_preferred":[
+        "Bras\u00edlia"
+    ],
     "name:tah_x_preferred":[
         "Brasilia"
     ],
@@ -531,9 +557,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e32\u0e0b\u0e35\u0e40\u0e25\u0e35\u0e22"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f74\u0f0b\u0f62\u0f74\u0f0b\u0f5f\u0f72\u0f0b\u0f63\u0f72\u0f0b\u0f61\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Brazili\u00fda"
     ],
@@ -545,6 +568,9 @@
     ],
     "name:twi_x_preferred":[
         "Bras\u00edlia"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u0430"
@@ -573,11 +599,11 @@
     "name:war_x_preferred":[
         "Bras\u00edlia"
     ],
-    "name:wel_x_preferred":[
-        "Bras\u00edlia"
-    ],
     "name:wuu_x_preferred":[
         "\u5df4\u897f\u5229\u4e9e"
+    ],
+    "name:wuu_x_variant":[
+        "\u5df4\u897f\u5229\u4e9a"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d0\u05d6\u05d9\u05dc\u05d9\u05d0"
@@ -590,6 +616,24 @@
     ],
     "name:zha_x_preferred":[
         "Bahsihleihya"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9e"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9e"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u897f\u5229\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u897f\u5229\u4e9e"
@@ -702,19 +746,19 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Metr\u00f3pole Nacional",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6270,
     "wof:belongsto":[
         102191577,
         85633009,
-        85681911,
-        102051815
+        102051815,
+        1511777413,
+        85681911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -724,12 +768,14 @@
         "gn:id":3469058,
         "gp:id":455819,
         "nyt:id":"N71913673288077126231",
-        "qs:id":1045139,
         "qs_pg:id":1045139,
         "wd:id":"Q2844",
         "wk:page":"Bras\u00edlia"
     },
     "wof:country":"BR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cad8083fe51e69d6c6c793b21afe8dac",
     "wof:hierarchy":[
         {
@@ -737,6 +783,7 @@
             "country_id":85633009,
             "county_id":102051815,
             "locality_id":101964877,
+            "macroregion_id":1511777413,
             "region_id":85681911
         }
     ],
@@ -744,7 +791,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1606163464,
+    "wof:lastmodified":1587428101,
     "wof:megacity":1,
     "wof:name":"Brasilia",
     "wof:parent_id":102051815,

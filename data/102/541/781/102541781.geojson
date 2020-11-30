@@ -12,11 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5091\u514b\u905c\u65af\u570b\u969b\u6a5f\u5834"
+    "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0627\u0643\u0633\u0648\u0646\u0632 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Port Moresby"
+    "name:deu_x_preferred":[
+        "Flughafen Port Moresby"
     ],
     "name:eng_x_preferred":[
         "Jacksons International Airport"
@@ -25,14 +26,14 @@
         "POM",
         "AYPY"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u06a9\u0633\u0646\u0632"
+    ],
     "name:fin_x_preferred":[
         "Jacksonsin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Port Moresby"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Port Moresby"
     ],
     "name:hun_x_preferred":[
         "Jacksons nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -49,17 +50,20 @@
     "name:kor_x_preferred":[
         "\uc7ad\uc2a8 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Jacksons"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u06a9\u0633\u0646\u0632"
+    "name:nld_x_preferred":[
+        "Luchthaven Port Moresby"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Port Moresby"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Port Moresby"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Jacksons"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041c\u043e\u0440\u0441\u0431\u0438"
@@ -76,11 +80,11 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Jacksons"
     ],
+    "name:zho_x_preferred":[
+        "\u5091\u514b\u905c\u65af\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"146",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -118,11 +122,11 @@
         }
     ],
     "wof:id":102541781,
-    "wof:lastmodified":1606163488,
+    "wof:lastmodified":1566656995,
     "wof:name":"Port Moresby International Airport",
     "wof:parent_id":85768625,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

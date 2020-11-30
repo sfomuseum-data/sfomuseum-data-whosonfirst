@@ -8,26 +8,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.568535,
-    "geom:area_square_m":254315508878.439545,
+    "geom:area_square_m":254315508878.450867,
     "geom:bbox":"-124.703541,41.991794,-116.463262,46.299099",
     "geom:latitude":43.940439,
     "geom:longitude":-120.605273,
     "iso:country":"US",
     "iso:subdivision":"US-OR",
-    "label:eng_us_x_preferred_longname":[
-        "Oregon"
-    ],
     "label:eng_x_preferred_longname":[
-        "Oregon State"
+        "Oregon"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "label:eng_x_variant_longname":[
-        "State of Oregon"
+        "State of Oregon",
+        "Oregon State"
     ],
     "lbl:latitude":43.854178,
     "lbl:longitude":-120.526709,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.854178,
     "mps:longitude":-120.526709,
     "mz:hierarchy_label":1,
@@ -35,9 +37,6 @@
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
     "name:afr_x_preferred":[
-        "Oregon"
-    ],
-    "name:alb_x_preferred":[
         "Oregon"
     ],
     "name:amh_x_preferred":[
@@ -55,9 +54,6 @@
     "name:arg_x_preferred":[
         "Oreg\u00f3n"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0580\u0565\u0563\u0578\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0631\u064a\u062c\u0648\u0646"
     ],
@@ -73,9 +69,6 @@
     "name:aze_x_preferred":[
         "Oreqon"
     ],
-    "name:baq_x_preferred":[
-        "Oregon"
-    ],
     "name:bar_x_preferred":[
         "Oregon"
     ],
@@ -84,6 +77,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0428\u0442\u0430\u0442 \u0410\u0440\u044d\u0433\u043e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0440\u044d\u0433\u043e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09b0\u09c7\u0997\u09a8"
@@ -106,9 +102,6 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u102d\u102f\u101b\u102e\u1002\u103d\u1014\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
@@ -118,20 +111,23 @@
     "name:cdo_x_preferred":[
         "Oregon"
     ],
+    "name:ceb_x_preferred":[
+        "Oregon"
+    ],
     "name:ces_x_preferred":[
         "Oregon"
     ],
     "name:che_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u4fc4\u52d2\u5188\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0631\u06cc\u06af\u06c6\u0646"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u06c6\u0631\u06cc\u06af\u06c6\u200c\u0646"
     ],
     "name:cor_x_preferred":[
         "Oregon"
@@ -142,10 +138,10 @@
     "name:cym_x_preferred":[
         "Oregon"
     ],
-    "name:cze_x_preferred":[
+    "name:dan_x_preferred":[
         "Oregon"
     ],
-    "name:dan_x_preferred":[
+    "name:deu_ch_x_preferred":[
         "Oregon"
     ],
     "name:deu_x_preferred":[
@@ -154,11 +150,17 @@
     "name:diq_x_preferred":[
         "Oregon"
     ],
-    "name:dut_x_preferred":[
-        "Oregon"
-    ],
     "name:ell_x_preferred":[
         "\u038c\u03c1\u03b5\u03b3\u03ba\u03bf\u03bd"
+    ],
+    "name:eml_x_preferred":[
+        "\u00d2regun"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Oregon"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Oregon"
     ],
     "name:eng_x_colloquial":[
         "Beaver State"
@@ -191,9 +193,6 @@
     "name:fra_x_preferred":[
         "Oregon"
     ],
-    "name:fre_x_preferred":[
-        "Oregon"
-    ],
     "name:frp_x_preferred":[
         "Oregon"
     ],
@@ -204,12 +203,6 @@
         "Oregon"
     ],
     "name:gag_x_preferred":[
-        "Oregon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10d4\u10d2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Oregon"
     ],
     "name:gla_x_preferred":[
@@ -224,8 +217,8 @@
     "name:glv_x_preferred":[
         "Oregon"
     ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c1\u03b5\u03b3\u03ba\u03bf\u03bd"
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf30\ud800\udf39\ud800\udf32\ud800\udf30\ud800\udf3f\ud800\udf3d"
     ],
     "name:grn_x_preferred":[
         "Oregon"
@@ -239,7 +232,13 @@
     "name:hak_x_preferred":[
         "O-le\u030dt-k\u00f4ng"
     ],
+    "name:hak_x_variant":[
+        "Oregon"
+    ],
     "name:hat_x_preferred":[
+        "Oregon"
+    ],
+    "name:hau_x_preferred":[
         "Oregon"
     ],
     "name:haw_x_preferred":[
@@ -260,6 +259,9 @@
     "name:hrv_x_preferred":[
         "Oregon"
     ],
+    "name:hsb_x_preferred":[
+        "Oregon"
+    ],
     "name:hun_x_preferred":[
         "Oregon"
     ],
@@ -267,9 +269,6 @@
         "\u0555\u0580\u0565\u0563\u0578\u0576"
     ],
     "name:ibo_x_preferred":[
-        "Oregon"
-    ],
-    "name:ice_x_preferred":[
         "Oregon"
     ],
     "name:ido_x_preferred":[
@@ -320,8 +319,14 @@
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
+    "name:kbp_x_preferred":[
+        "Oreegonii"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub9ac\uac74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub9ac\uac74\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Oregon"
@@ -334,6 +339,9 @@
     ],
     "name:lav_x_preferred":[
         "Oregona"
+    ],
+    "name:lfn_x_preferred":[
+        "Oregon"
     ],
     "name:lij_x_preferred":[
         "Oregon"
@@ -350,23 +358,23 @@
     "name:lrc_x_preferred":[
         "\u0626\u0648\u0631\u0627\u06af\u0648\u0646"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u0648\u0631\u0627\u06af\u0648\u0646"
+    ],
     "name:ltz_x_preferred":[
         "Oregon"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0435\u0433\u043e\u043d"
+    "name:lzh_x_preferred":[
+        "\u4fc4\u52d2\u5ca1\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u0913\u0930\u0947\u0917\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d12\u0d31\u0d3f\u0d17\u0d7a"
     ],
-    "name:mao_x_preferred":[
-        "Oregon"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0947\u0917\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Oregon"
     ],
     "name:mhr_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
@@ -379,6 +387,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Oregon"
     ],
     "name:mrj_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
@@ -440,9 +451,6 @@
     "name:pap_x_preferred":[
         "Oregon"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u06af\u0646"
-    ],
     "name:pli_x_preferred":[
         "\u0913\u0930\u0947\u0917\u0928"
     ],
@@ -455,8 +463,17 @@
     "name:pol_x_preferred":[
         "Oregon"
     ],
+    "name:por_br_x_preferred":[
+        "Oregon"
+    ],
     "name:por_x_preferred":[
         "Oreg\u00e3o"
+    ],
+    "name:por_x_variant":[
+        "Oregon"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0631\u06ab\u0627\u0646"
     ],
     "name:que_x_preferred":[
         "Oregon suyu"
@@ -465,9 +482,6 @@
         "Oregon"
     ],
     "name:ron_x_preferred":[
-        "Oregon"
-    ],
-    "name:rum_x_preferred":[
         "Oregon"
     ],
     "name:rus_x_preferred":[
@@ -492,9 +506,6 @@
         "\u0d94\u0dbb\u0dd9\u0d9c\u0ddc\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Oregon"
-    ],
-    "name:slo_x_preferred":[
         "Oregon"
     ],
     "name:slv_x_preferred":[
@@ -536,6 +547,9 @@
     "name:tel_x_preferred":[
         "\u0c13\u0c30\u0c46\u0c17\u0c3e\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041e\u0440\u0435\u0433\u043e\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Oregon"
     ],
@@ -551,7 +565,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u0433\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Albion"
     ],
     "name:urd_x_preferred":[
@@ -572,14 +586,14 @@
     "name:war_x_preferred":[
         "Oregon"
     ],
-    "name:wel_x_preferred":[
-        "Oregon"
-    ],
     "name:wuu_x_preferred":[
         "\u4fc4\u52d2\u5188"
     ],
     "name:xal_x_preferred":[
         "\u041e\u0440\u0438\u0438\u0433\u043e\u043d"
+    ],
+    "name:xho_x_preferred":[
+        "I-Oregoni"
     ],
     "name:xmf_x_preferred":[
         "\u10dd\u10e0\u10d4\u10d2\u10dd\u10dc\u10d8"
@@ -592,6 +606,21 @@
     ],
     "name:yue_x_preferred":[
         "\u4fc4\u52d2\u5ca1\u5dde"
+    ],
+    "name:yue_x_variant":[
+        "\u67ef\u5229\u8fd1\u7701"
+    ],
+    "name:zea_x_preferred":[
+        "Oregon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4fc4\u52d2\u5188\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4fc4\u52d2\u5ca1\u5dde"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u52d2\u5ca1\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u4fc4\u52d2\u5188\u5dde"
@@ -662,14 +691,13 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"251,419",
     "statoids:area_mi":"97,073",
     "statoids:as_of_date":"2010-04-01",
@@ -689,6 +717,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":38,
         "fips:code":"US41",
         "gn:id":5744337,
         "gp:id":2347596,
@@ -698,6 +727,9 @@
         "wd:id":"Q824"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"20a61f92ce15a70930cde68b233d96f7",
     "wof:hierarchy":[
         {
@@ -715,11 +747,10 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163113,
+    "wof:lastmodified":1587428470,
     "wof:name":"Oregon",
     "wof:parent_id":85633793,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3831074,
     "wof:population_rank":12,

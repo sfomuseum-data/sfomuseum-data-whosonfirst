@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030869,
-    "geom:area_square_m":289037938.046474,
+    "geom:area_square_m":289037938.046426,
     "geom:bbox":"-112.101607,40.699893,-111.739476,40.85297",
     "geom:latitude":40.777849,
     "geom:longitude":-111.931221,
@@ -17,6 +17,8 @@
     "iso:country":"US",
     "lbl:latitude":40.773201,
     "lbl:longitude":-111.933984,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":40.773201,
     "mps:longitude":-111.933984,
     "mz:hierarchy_label":1,
@@ -25,35 +27,41 @@
     "name:afr_x_preferred":[
         "Salt Lake City"
     ],
-    "name:alb_x_preferred":[
-        "Salt Lake City"
-    ],
     "name:amh_x_preferred":[
         "\u1233\u120d\u1275 \u1208\u12ed\u12ad \u12a8\u1270\u121b"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062a \u0644\u064a\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0644\u062a \u0644\u064a\u0643 \u0633\u064a\u062a\u064a"
+    ],
     "name:arg_x_preferred":[
         "Salt Lake City"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u056c\u0569 \u053c\u0565\u0575\u0584 \u054d\u056b\u0569\u056b"
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0644\u062a \u0644\u064a\u0643"
     ],
     "name:ast_x_preferred":[
         "Salt Lake City"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0644\u062a \u0644\u0626\u06cc\u06a9 \u0633\u06cc\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Solt Leyk Siti"
     ],
-    "name:baq_x_preferred":[
-        "Salt Lake City"
+    "name:aze_x_variant":[
+        "Solt-Leyk-Siti"
     ],
     "name:bcl_x_preferred":[
         "Salt Lake City"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043e\u043b\u0442-\u041b\u044d\u0439\u043a-\u0421\u0456\u0446\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u043e\u043b\u0442-\u041b\u044d\u0439\u043a-\u0421\u0456\u0446\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b6\u09b9\u09b0"
@@ -76,11 +84,11 @@
     "name:cat_x_preferred":[
         "Salt Lake City"
     ],
-    "name:ces_x_preferred":[
+    "name:ceb_x_preferred":[
         "Salt Lake City"
     ],
-    "name:chi_x_preferred":[
-        "\u76d0\u6e56\u57ce"
+    "name:ces_x_preferred":[
+        "Salt Lake City"
     ],
     "name:cor_x_preferred":[
         "Salt Lake City"
@@ -89,9 +97,6 @@
         "Salt Lake City"
     ],
     "name:cym_x_preferred":[
-        "Salt Lake City"
-    ],
-    "name:cze_x_preferred":[
         "Salt Lake City"
     ],
     "name:dan_x_preferred":[
@@ -103,11 +108,14 @@
     "name:diq_x_preferred":[
         "Salt Lake City"
     ],
-    "name:dut_x_preferred":[
-        "Salt Lake City"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bb\u03c4 \u039b\u03ad\u03b9\u03ba \u03a3\u03af\u03c4\u03b9"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Salt Lake City"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Salt Lake City"
     ],
     "name:eng_x_colloquial":[
         "SLC",
@@ -142,6 +150,9 @@
     "name:ext_x_preferred":[
         "Salt Lake City"
     ],
+    "name:fao_x_preferred":[
+        "Salt Lake City"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u062a\u200c\u0644\u06cc\u06a9\u200c\u0633\u06cc\u062a\u06cc"
     ],
@@ -151,16 +162,7 @@
     "name:fra_x_preferred":[
         "Salt Lake City"
     ],
-    "name:fre_x_preferred":[
-        "Salt Lake City"
-    ],
     "name:fry_x_preferred":[
-        "Salt Lake City"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10da\u10e2-\u10da\u10d4\u10d8\u10d9-\u10e1\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Salt Lake City"
     ],
     "name:gle_x_preferred":[
@@ -169,8 +171,8 @@
     "name:glg_x_preferred":[
         "Salt Lake City"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bb\u03c4 \u039b\u03ad\u03b9\u03ba \u03a3\u03af\u03c4\u03b9"
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf30\ud800\udf3b\ud800\udf44 \ud800\udf3b\ud800\udf34\ud800\udf3a \ud800\udf43\ud800\udf39\ud800\udf44\ud800\udf34\ud800\udf39"
     ],
     "name:grn_x_preferred":[
         "Salt Lake City"
@@ -199,9 +201,6 @@
     "name:hye_x_preferred":[
         "\u054d\u0578\u056c\u0569 \u053c\u0565\u0575\u0584 \u054d\u056b\u0569\u056b"
     ],
-    "name:ice_x_preferred":[
-        "Salt Lake City"
-    ],
     "name:ido_x_preferred":[
         "Salt Lake City"
     ],
@@ -216,6 +215,9 @@
     ],
     "name:ind_x_preferred":[
         "Kota Salt Lake"
+    ],
+    "name:ind_x_variant":[
+        "Salt Lake City"
     ],
     "name:isl_x_preferred":[
         "Salt Lake City"
@@ -247,6 +249,9 @@
     "name:lat_x_preferred":[
         "Civitas Lacus Salsi"
     ],
+    "name:lat_x_variant":[
+        "Urbs Lacus Salsi"
+    ],
     "name:lav_x_preferred":[
         "Soltleiksitija"
     ],
@@ -268,17 +273,11 @@
     "name:lzh_x_preferred":[
         "\u9e7d\u6e56\u57ce"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u043b\u0442 \u041b\u0435\u0458\u043a \u0421\u0438\u0442\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f\u0d4d \u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0949\u0932\u094d\u091f \u0932\u0947\u0915 \u0938\u093f\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Salt Lake City"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043b\u0442 \u041b\u0435\u0458\u043a \u0421\u0438\u0442\u0438"
@@ -288,6 +287,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0421\u043e\u043b\u0442-\u041b\u0435\u0439\u043a-\u0421\u0438\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Salt Lake City"
     ],
     "name:mwl_x_preferred":[
         "Salt Lake City"
@@ -337,9 +339,6 @@
     "name:pcd_x_preferred":[
         "Salt Lake City"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0644\u062a\u200c\u0644\u06cc\u06a9\u200c\u0633\u06cc\u062a\u06cc"
-    ],
     "name:pli_x_preferred":[
         "\u0938\u093e\u0932\u094d\u091f \u0932\u0947\u0915 \u0938\u093f\u091f\u0940"
     ],
@@ -364,9 +363,6 @@
     "name:ron_x_preferred":[
         "Salt Lake City"
     ],
-    "name:rum_x_preferred":[
-        "Salt Lake City"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u0442-\u041b\u0435\u0439\u043a-\u0421\u0438\u0442\u0438"
     ],
@@ -389,9 +385,6 @@
         "\u0dc3\u0ddd\u0dbd\u0dca\u0da7\u0dca \u0dbd\u0dda\u0d9a\u0dca \u0dc3\u0dd2\u0da7\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Salt Lake City"
-    ],
-    "name:slo_x_preferred":[
         "Salt Lake City"
     ],
     "name:slv_x_preferred":[
@@ -424,6 +417,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd \u0bb2\u0bc7\u0b95\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u0442-\u041b\u0435\u0439\u043a-\u0421\u0438\u0442\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c32\u0c4d\u0c1f\u0c4d \u0c32\u0c47\u0c15\u0c4d \u0c28\u0c17\u0c30\u0c02"
     ],
@@ -432,9 +428,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e2d\u0e25\u0e15\u0e4c\u0e40\u0e25\u0e01\u0e0b\u0e34\u0e15\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f5a\u0fad\u0f0b\u0f58\u0f5a\u0f7c\u0f60\u0f72\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Salt Lake City"
@@ -445,11 +438,14 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0442-\u041b\u0435\u0439\u043a-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solt Lejk Siti"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0644\u0679 \u0644\u06cc\u06a9 \u0633\u0679\u06cc\u060c \u06cc\u0648\u0679\u0627\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0644\u0679 \u0644\u06cc\u06a9 \u0633\u0679\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Salt Lake City"
@@ -466,14 +462,17 @@
     "name:war_x_preferred":[
         "Salt Lake City"
     ],
-    "name:wel_x_preferred":[
-        "Salt Lake City"
+    "name:wuu_x_preferred":[
+        "\u76d0\u6e56\u57ce"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05dc\u05d8 \u05dc\u05d9\u05d9\u05e7 \u05e1\u05d9\u05d8\u05d9"
     ],
     "name:yue_x_preferred":[
         "\u9e7d\u6e56\u57ce"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u76d0\u6e56\u57ce"
     ],
     "name:zho_min_nan_x_preferred":[
         "Salt Lake City"
@@ -590,12 +589,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":1288.0,
     "wd:latitude":40.75,
@@ -605,8 +603,8 @@
     "wof:belongsto":[
         102191575,
         85633793,
-        85688567,
-        102082877
+        102082877,
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -617,12 +615,14 @@
         "gn:id":5780993,
         "gp:id":2487610,
         "nyt:id":"10651462208226820381",
-        "qs:id":829677,
         "qs_pg:id":829677,
         "wd:id":"Q23337",
         "wk:page":"Salt Lake City"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"602ce08f0515cc6a6c6c8b35967bed12",
     "wof:hierarchy":[
         {
@@ -637,7 +637,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163469,
+    "wof:lastmodified":1587428515,
     "wof:megacity":1,
     "wof:name":"Salt Lake City",
     "wof:parent_id":102082877,

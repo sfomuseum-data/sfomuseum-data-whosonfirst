@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
-    "geom:area_square_m":11796499.375917,
+    "geom:area_square_m":11796499.375919,
     "geom:bbox":"9.150002,48.672646,9.252719,48.711613",
     "geom:latitude":48.690434,
     "geom:longitude":9.200266,
@@ -16,11 +16,9 @@
     "mps:longitude":9.204539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a \u0627\u0644\u062f\u0648\u0644\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Stuttgarteko aireportua"
     ],
     "name:ceb_x_preferred":[
         "Stuttgart Airport"
@@ -28,20 +26,11 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Stuttgart"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u56fe\u52a0\u7279\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Stuttgart"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Stuttgart"
     ],
     "name:deu_x_preferred":[
         "Flughafen Stuttgart"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Stuttgart"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0395\u03c7\u03c4\u03b5\u03c1\u03bd\u03c4\u03af\u03bd\u03b3\u03ba\u03b5\u03bd"
@@ -56,6 +45,12 @@
     "name:epo_x_preferred":[
         "Flughaveno Stutgarto"
     ],
+    "name:epo_x_variant":[
+        "flughaveno Stutgarto"
+    ],
+    "name:est_x_preferred":[
+        "Stuttgardi lennujaam"
+    ],
     "name:eus_x_preferred":[
         "Stuttgarteko aireportua"
     ],
@@ -68,14 +63,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Stuttgart"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Stuttgart"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Stuttgart"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0395\u03c7\u03c4\u03b5\u03c1\u03bd\u03c4\u03af\u03bd\u03b3\u03ba\u03b5\u03bd"
     ],
     "name:hbs_x_preferred":[
         "Flughafen Stuttgart"
@@ -101,12 +90,6 @@
     "name:lat_x_preferred":[
         "A\u00ebroportus Stutgardiae"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Stuttgart"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
     ],
@@ -119,14 +102,20 @@
     "name:nld_x_preferred":[
         "Flughafen Stuttgart"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0634\u062a\u0648\u062a\u06af\u0627\u0631\u062a"
+    "name:nld_x_variant":[
+        "Luchthaven Stuttgart"
+    ],
+    "name:nob_x_preferred":[
+        "Stuttgart lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Stuttgart"
     ],
     "name:por_x_preferred":[
         "Aeroporto de Stuttgart"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Stuttgart"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
@@ -140,6 +129,15 @@
     "name:swe_x_preferred":[
         "Stuttgarts flygplats"
     ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0a\u0e15\u0e38\u0e17\u0e17\u0e4c\u0e01\u0e32\u0e23\u0e4c\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Stuttgart Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Stuttgart"
     ],
@@ -148,14 +146,9 @@
     ],
     "oa:elevation_ft":"1276",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":169,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Stuttgart Airport",
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1395,
     "woe:hierarchy":{
         "country_id":23424829,
@@ -195,11 +188,11 @@
         }
     ],
     "wof:id":102549047,
-    "wof:lastmodified":1606163492,
+    "wof:lastmodified":1566656764,
     "wof:name":"Stuttgart Airport",
     "wof:parent_id":101761809,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

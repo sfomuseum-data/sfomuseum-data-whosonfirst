@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062961,
-    "geom:area_square_m":734462436.231927,
+    "geom:area_square_m":734462436.232343,
     "geom:bbox":"-99.326777,19.18871,-98.960448,19.592757",
     "geom:latitude":19.368809,
     "geom:longitude":-99.140357,
     "iso:country":"MX",
     "lbl:latitude":19.371422,
     "lbl:longitude":-99.150344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.254767,
     "mps:longitude":-99.142535,
     "mz:hierarchy_label":1,
@@ -22,9 +24,6 @@
     ],
     "name:afr_x_preferred":[
         "Meksikostad"
-    ],
-    "name:alb_x_preferred":[
-        "Meksiko"
     ],
     "name:amh_x_preferred":[
         "\u121c\u12ad\u1232\u12ae \u12a8\u1270\u121b"
@@ -37,9 +36,6 @@
     ],
     "name:arg_x_preferred":[
         "Ciudat de Mexico"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u056d\u056b\u056f\u0578"
     ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0643\u0633\u064a\u0643\u0648 \u0633\u064a\u062a\u0649"
@@ -59,11 +55,11 @@
     "name:bak_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Mexiko Hiria"
-    ],
     "name:bar_x_preferred":[
         "Mexiko Stod"
+    ],
+    "name:bar_x_variant":[
+        "Mexiko-Stod"
     ],
     "name:bcl_x_preferred":[
         "Mexico"
@@ -77,6 +73,9 @@
     "name:bho_x_preferred":[
         "\u092e\u0948\u0915\u094d\u0938\u093f\u0915\u094b \u0938\u093f\u091f\u0940"
     ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f7a\u0f42\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Mexico City"
     ],
@@ -85,9 +84,6 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u043e"
-    ],
-    "name:bur_x_preferred":[
-        "\u1019\u1000\u1039\u1000\u1006\u102e\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:bxr_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e \u0445\u043e\u0442\u043e"
@@ -98,14 +94,14 @@
     "name:cdo_x_preferred":[
         "M\u00e9xico Ch\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Mehiko"
+    ],
     "name:ces_x_preferred":[
         "Ciudad de M\u00e9xico"
     ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u58a8\u897f\u54e5\u57ce"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
@@ -116,8 +112,14 @@
     "name:cor_x_preferred":[
         "Cita Mexico"
     ],
-    "name:cze_x_preferred":[
-        "Ciudad de M\u00e9xico"
+    "name:crh_x_preferred":[
+        "Mehiko"
+    ],
+    "name:cym_x_preferred":[
+        "Dinas Mexico"
+    ],
+    "name:cym_x_variant":[
+        "Dinas Mecsico"
     ],
     "name:dan_x_preferred":[
         "Mexico City"
@@ -131,11 +133,14 @@
     "name:dty_x_preferred":[
         "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u0938\u093f\u091f\u0940"
     ],
-    "name:dut_x_preferred":[
-        "Mexico-Stad"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u039c\u03b5\u03be\u03b9\u03ba\u03bf\u03cd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Mexico City"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Mexico City"
     ],
     "name:eng_x_preferred":[
         "Mexico City"
@@ -163,7 +168,8 @@
         "\u0645\u06a9\u0632\u06cc\u06a9\u0648\u0633\u06cc\u062a\u06cc"
     ],
     "name:fas_x_variant":[
-        "\u0645\u06a9\u0632\u06cc\u06a9\u0648"
+        "\u0645\u06a9\u0632\u06cc\u06a9\u0648",
+        "\u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0633\u06cc\u062a\u06cc"
     ],
     "name:fin_x_preferred":[
         "M\u00e9xico"
@@ -171,17 +177,14 @@
     "name:fra_x_preferred":[
         "Mexico"
     ],
-    "name:fre_x_preferred":[
-        "Mexico"
+    "name:frr_x_preferred":[
+        "Meksiko-St\u00e4\u00e4d"
     ],
     "name:fry_x_preferred":[
         "Meksiko-St\u00ead"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10ee\u10d8\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Mexiko-Stadt"
+    "name:gcr_x_preferred":[
+        "Mexico"
     ],
     "name:gla_x_preferred":[
         "Meagsago"
@@ -192,8 +195,8 @@
     "name:glg_x_preferred":[
         "Cidade de M\u00e9xico"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u039c\u03b5\u03be\u03b9\u03ba\u03bf\u03cd"
+    "name:glk_x_preferred":[
+        "\u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0633\u06cc\u062a\u06cc"
     ],
     "name:grn_x_preferred":[
         "M\u00e9jiko t\u00e1va"
@@ -209,6 +212,9 @@
     ],
     "name:hat_x_preferred":[
         "Meksiko"
+    ],
+    "name:hau_x_preferred":[
+        "Mexico"
     ],
     "name:haw_x_preferred":[
         "M\u0113kiko D.F."
@@ -234,8 +240,11 @@
     "name:hun_x_preferred":[
         "Mexik\u00f3v\u00e1ros"
     ],
-    "name:ice_x_preferred":[
-        "Mex\u00edk\u00f3borg"
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056d\u056b\u056f\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0565\u0584\u057d\u056b\u0584\u0585"
     ],
     "name:ido_x_preferred":[
         "Mexiko"
@@ -256,7 +265,11 @@
         "Mexico City"
     ],
     "name:ind_x_variant":[
-        "Ciudad de M\u00e9xico"
+        "Ciudad de M\u00e9xico",
+        "Kota Meksiko"
+    ],
+    "name:inh_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
     "name:isl_x_preferred":[
         "Mex\u00edk\u00f3borg"
@@ -345,23 +358,20 @@
     "name:lzh_x_preferred":[
         "\u58a8\u897f\u54e5\u57ce"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u043a\u0441\u0438\u043a\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d46\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u0938\u093f\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Bandar Raya Mexico"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
     "name:mix_x_preferred":[
         "Nkoyo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u043e"
     ],
     "name:mlg_x_preferred":[
         "Mexico"
@@ -373,6 +383,15 @@
         "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
     "name:mrj_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Bandar Raya Mexico"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u1039\u1000\u1006\u102e\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
     "name:mzn_x_preferred":[
@@ -390,8 +409,14 @@
     "name:nav_x_preferred":[
         "Naakaii Bikin Haal\u02bc\u00e1"
     ],
+    "name:nds_x_preferred":[
+        "Mexiko-Stadt"
+    ],
     "name:nld_x_preferred":[
         "Mexico-stad"
+    ],
+    "name:nld_x_variant":[
+        "Mexico-Stad"
     ],
     "name:nno_x_preferred":[
         "Mexico by"
@@ -405,11 +430,17 @@
     "name:nov_x_preferred":[
         "Mexiko Urbe"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07cd\u07de\u07db\u07cc\u07de\u07cf\u07eb"
+    ],
     "name:nya_x_preferred":[
         "Mexico City"
     ],
     "name:oci_x_preferred":[
         "Ciutat de Mexic"
+    ],
+    "name:olo_x_preferred":[
+        "Mehiko"
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b47\u0b15\u0b4d\u0b38\u0b3f\u0b15\u0b4b \u0b38\u0b39\u0b30"
@@ -425,9 +456,6 @@
     ],
     "name:pcd_x_preferred":[
         "M\u00e9ssico"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0633\u06cc\u062a\u06cc"
     ],
     "name:pih_x_preferred":[
         "Meksikoe Sitii"
@@ -459,14 +487,14 @@
     "name:rue_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0456\u043a\u043e \u0421\u0456\u0442\u0456"
     ],
-    "name:rum_x_preferred":[
-        "Ciudad de M\u00e9xico"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
     ],
     "name:sah_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u043e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c6e\u1c60\u1c65\u1c64\u1c60\u1c5a \u1c71\u1c5f\u1c5c\u1c5f\u1c68"
     ],
     "name:scn_x_preferred":[
         "Cit\u00e0 d\u00fb Messicu"
@@ -484,9 +512,6 @@
         "\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd \u0db1\u0d9c\u0dbb\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Mexiko"
-    ],
-    "name:slo_x_preferred":[
         "Mexiko"
     ],
     "name:slv_x_preferred":[
@@ -510,8 +535,17 @@
         "M\u00e9xico",
         "Valle de M\u00e9xico"
     ],
+    "name:sqi_x_preferred":[
+        "Meksiko"
+    ],
     "name:srd_x_preferred":[
         "Tzitade de su M\u00e8ssico"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u043e \u0421\u0438\u0442\u0438"
+    ],
+    "name:srp_el_x_preferred":[
+        "Meksiko Siti"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u043e \u0421\u0438\u0442\u0438"
@@ -550,14 +584,14 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01\u0e0b\u0e34\u0e15\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f7a\u0f42\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Mehiko"
     ],
     "name:tur_x_preferred":[
         "Ciudad de Mexico"
+    ],
+    "name:tur_x_variant":[
+        "Meksiko"
     ],
     "name:twi_x_preferred":[
         "Ciudad de M\u00e9xico"
@@ -571,7 +605,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0445\u0456\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mexico D.F."
     ],
     "name:urd_x_preferred":[
@@ -589,6 +623,9 @@
     "name:vie_x_preferred":[
         "Ciudad de Mexico"
     ],
+    "name:vie_x_variant":[
+        "Th\u00e0nh ph\u1ed1 M\u00e9xico"
+    ],
     "name:vol_x_preferred":[
         "Ciudad de M\u00e9xico"
     ],
@@ -597,9 +634,6 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Mehiko"
-    ],
-    "name:wel_x_preferred":[
-        "Dinas Mexico"
     ],
     "name:wuu_x_preferred":[
         "\u58a8\u897f\u54e5\u57ce"
@@ -618,6 +652,12 @@
     ],
     "name:zea_x_preferred":[
         "Mexico-Stad"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u58a8\u897f\u54e5\u57ce"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u58a8\u897f\u54e5\u57ce"
     ],
     "name:zho_x_preferred":[
         "\u58a8\u897f\u54e5\u57ce"
@@ -721,18 +761,19 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
-    "sfomuseum:placetype":"city",
-    "src:geom":"mapzen",
+    "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2015-01-01",
     "unlc:subdivision":"MX-DIF",
     "wof:belongsto":[
         102191575,
         85633293,
-        85686515,
-        102073737
+        102073737,
+        85686515
     ],
     "wof:breaches":[],
     "wof:capital_of":85633293,
@@ -746,6 +787,9 @@
         85686515
     ],
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a5f6b59cd5166f5d29941e274e58b09",
     "wof:hierarchy":[
         {
@@ -757,10 +801,13 @@
         }
     ],
     "wof:id":857683023,
-    "wof:lastmodified":1606163454,
+    "wof:lastmodified":1587428918,
+    "wof:megacity":1,
     "wof:name":"Mexico City",
     "wof:parent_id":102073737,
     "wof:placetype":"locality",
+    "wof:population":8918653,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:subdivision":"MX-DIF",
     "wof:superseded_by":[],

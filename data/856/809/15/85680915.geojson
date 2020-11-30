@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TU"
+    ],
     "lbl:latitude":-13.94156,
     "lbl:longitude":-171.753167,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.94156,
     "mps:longitude":-171.753167,
     "mz:hierarchy_label":1,
@@ -34,16 +38,13 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0430\u043c\u0430\u0441\u0430\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u56fe\u963f\u9a6c\u8428\u52a0"
+    "name:ceb_x_preferred":[
+        "Tuamasaga"
     ],
     "name:dan_x_preferred":[
         "Tuamasaga"
     ],
     "name:deu_x_preferred":[
-        "Tuamasaga"
-    ],
-    "name:dut_x_preferred":[
         "Tuamasaga"
     ],
     "name:ell_x_preferred":[
@@ -52,23 +53,14 @@
     "name:eng_x_preferred":[
         "Tuamasaga"
     ],
+    "name:eus_x_preferred":[
+        "Tuamasaga"
+    ],
     "name:fin_x_preferred":[
         "Tuamasaga"
     ],
     "name:fra_x_preferred":[
         "Tuamasaga"
-    ],
-    "name:fre_x_preferred":[
-        "Tuamasaga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10d0\u10db\u10d0\u10e1\u10d0\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tuamasaga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03b1\u03bc\u03b1\u03c3\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0aae\u0abe\u0ab8\u0abe\u0a97\u0abe"
@@ -109,11 +101,11 @@
     "name:mar_x_preferred":[
         "\u0924\u0941\u092e\u093e\u0938\u0917\u093e"
     ],
-    "name:may_x_preferred":[
-        "Tuamasaga"
-    ],
     "name:mrj_x_preferred":[
         "\u0422\u0443\u0430\u043c\u0430\u0441\u0430\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tuamasaga"
     ],
     "name:nld_x_preferred":[
         "Tuamasaga"
@@ -137,9 +129,6 @@
         "\u0da7\u0dd4\u0dc0\u0db8\u0dc3\u0db1\u0dca\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Tuamasaga"
-    ],
-    "name:slo_x_preferred":[
         "Tuamasaga"
     ],
     "name:smo_x_preferred":[
@@ -244,9 +233,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-06",
+    "src:population_date":"2006-11-06",
     "statoids:area_km":"479",
     "statoids:area_mi":"185",
     "statoids:as_of_date":"2006-11-06",
@@ -272,7 +261,7 @@
         "gp:id":20070339,
         "hasc:id":"WS.TU",
         "iso:id":"WS-TU",
-        "qs:id":236961,
+        "qs_pg:id":236961,
         "unlc:id":"WS-TU",
         "wd:id":"Q1144482",
         "wk:page":"Tuamasaga"
@@ -287,9 +276,6 @@
         }
     ],
     "wof:id":85680915,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -298,11 +284,10 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1578514114,
+    "wof:lastmodified":1566652705,
     "wof:name":"Tuamasaga",
     "wof:parent_id":85632681,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":85112,
     "wof:population_rank":8,

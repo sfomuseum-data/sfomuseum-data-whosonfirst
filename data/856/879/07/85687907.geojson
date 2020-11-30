@@ -5,23 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.089656,
-    "geom:area_square_m":37088468007.736801,
+    "geom:area_square_m":37088468007.737061,
     "geom:bbox":"45.798194,52.533216,50.242595,54.891472",
     "geom:latitude":53.889463,
     "geom:longitude":47.947111,
     "iso:country":"RU",
-    "label:eng_x_abbreviation":"UL",
     "label:eng_x_preferred_longname":[
         "Ulyanovsk Oblast"
     ],
     "label:eng_x_preferred_placetype":[
         "oblast"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UL"
+    ],
+    "label:rus_x_preferred_longname":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "label:rus_x_preferred_placetype":[
         "\u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "lbl:latitude":54.055978,
     "lbl:longitude":47.913984,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Ul'yanovsk",
     "meso:name_alt2":"Ul'janovskaja oblast'",
     "meso:name_local":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,47 +43,122 @@
     "name:afr_x_preferred":[
         "Oeljanofsk-oblast"
     ],
+    "name:afr_x_variant":[
+        "Oeljanofsk"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0627\u0646\u0648\u0641\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u064a\u0627\u0646\u0648\u0641\u0633\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Uli\u00e1novsk"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u0633\u06a9"
     ],
     "name:aze_x_preferred":[
         "Ulyanovsk vilay\u0259ti"
     ],
+    "name:aze_x_variant":[
+        "Ulyanovsk"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u0430\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u0430\u045e\u0441\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09cb\u09ad\u09b8\u09cd\u0995"
     ],
     "name:bos_x_preferred":[
         "Uljanovska oblast"
     ],
+    "name:bos_x_variant":[
+        "Uljanovsk"
+    ],
+    "name:bre_x_preferred":[
+        "Oulyanovsk"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u043b\u044f\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:bul_x_variant":[
+        "\u0423\u043b\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia dUli\u00e0novsk"
     ],
+    "name:cat_x_variant":[
+        "Uli\u00e0novsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Ulyanovsk"
+    ],
     "name:ces_x_preferred":[
         "Uljanovsk\u00e1 oblast"
+    ],
+    "name:ces_x_variant":[
+        "Uljanovsk"
     ],
     "name:che_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
+    "name:che_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
     "name:chu_x_preferred":[
         "\u041e\u0443\u043b\u0438\ua657\u043d\u043e\u0432\u044c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chu_x_variant":[
+        "\u041e\u0443\u043b\u0438\ua657\u043d\u043e\u0432\u044c\u0441\u043a\u044a"
     ],
     "name:chv_x_preferred":[
         "\u0427\u0115\u043c\u043f\u0115\u0440 \u043e\u0431\u043b\u0430\u00e7\u0115"
     ],
+    "name:chv_x_variant":[
+        "\u0427\u0115\u043c\u043f\u0115\u0440"
+    ],
+    "name:crh_x_preferred":[
+        "Ulyanovsk"
+    ],
+    "name:csb_x_preferred":[
+        "Uljanowsk"
+    ],
     "name:cym_x_preferred":[
         "Oblast Ulyanovsk"
+    ],
+    "name:cym_x_variant":[
+        "Ulyanovsk"
+    ],
+    "name:dan_x_preferred":[
+        "Uljanovsk"
     ],
     "name:deu_x_preferred":[
         "Oblast Uljanowsk"
     ],
+    "name:deu_x_variant":[
+        "Uljanowsk"
+    ],
     "name:diq_x_preferred":[
         "Ulyanovsk"
     ],
+    "name:dsb_x_preferred":[
+        "Uljanowsk"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039f\u03c5\u03bb\u03b9\u03ac\u03bd\u03bf\u03c6\u03c3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03bb\u03b9\u03ac\u03bd\u03bf\u03c6\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ulyanovsk"
@@ -92,23 +173,48 @@
     "name:epo_x_preferred":[
         "Uljanovska provinco"
     ],
+    "name:epo_x_variant":[
+        "Uljanovsko"
+    ],
     "name:est_x_preferred":[
         "Uljanovski oblast"
+    ],
+    "name:est_x_variant":[
+        "Uljanovsk"
+    ],
+    "name:eus_x_preferred":[
+        "Ulianovsk"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u0633\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Uljanovskin alue"
+    ],
+    "name:fin_x_variant":[
+        "Uljanovsk"
     ],
     "name:fra_x_preferred":[
         "Oblast d'Oulianovsk"
     ],
     "name:fra_x_variant":[
-        "Oblast dOulianovsk"
+        "Oblast dOulianovsk",
+        "Oulianovsk"
+    ],
+    "name:fry_x_preferred":[
+        "Uljanovsk"
     ],
     "name:gle_x_preferred":[
         "C\u00faige Ulyanovsk"
+    ],
+    "name:gle_x_variant":[
+        "Ulyanovsk"
+    ],
+    "name:glg_x_preferred":[
+        "Ulianovsk"
     ],
     "name:hak_x_preferred":[
         "Ulyanovsk-ch\u00fb"
@@ -119,50 +225,110 @@
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05dc\u05d9\u05d9\u05d0\u05e0\u05d5\u05d1\u05e1\u05e7"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05dc\u05d9\u05d0\u05e0\u05d5\u05d1\u05e1\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u0932\u094d\u092f\u093e\u0928\u094b\u0935\u094d\u0938\u094d\u0915 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
     ],
     "name:hrv_x_preferred":[
         "Uljanovska oblast"
     ],
+    "name:hrv_x_variant":[
+        "Uljanovsk"
+    ],
+    "name:hsb_x_preferred":[
+        "Uljanowsk"
+    ],
     "name:hun_x_preferred":[
         "Uljanovszki ter\u00fclet"
+    ],
+    "name:hun_x_variant":[
+        "Uljanovszk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u056c\u0575\u0561\u0576\u0578\u057e\u057d\u056f"
     ],
     "name:ind_x_preferred":[
         "Oblast Ulyanovsk"
     ],
+    "name:ind_x_variant":[
+        "Ulyanovsk"
+    ],
     "name:ita_x_preferred":[
         "Oblast' di Ul'janovsk"
+    ],
+    "name:ita_x_variant":[
+        "Ul'janovsk"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30ea\u30e4\u30ce\u30d5\u30b9\u30af\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30ea\u30e4\u30ce\u30d5\u30b9\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10da\u10d8\u10d0\u10dc\u10dd\u10d5\u10e1\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0456\u043c\u0431\u0456\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
     ],
     "name:kom_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a \u043e\u0431\u043b\u0430\u0441\u044c\u0442"
     ],
+    "name:kom_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
     "name:kor_x_preferred":[
         "\uc6b8\ub9ac\uc57c\ub189\uc2a4\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b8\ub9ac\uc57c\ub189\uc2a4\ud06c"
+    ],
+    "name:lat_x_preferred":[
+        "Simbirium"
     ],
     "name:lav_x_preferred":[
         "U\u013cjanovskas apgabals"
     ],
+    "name:lav_x_variant":[
+        "U\u013cjanovska"
+    ],
     "name:lit_x_preferred":[
         "Uljanovsko sritis"
+    ],
+    "name:lit_x_variant":[
+        "Uljanovskas"
+    ],
+    "name:ltz_x_preferred":[
+        "Uljanowsk"
     ],
     "name:mar_x_preferred":[
         "\u0909\u0932\u094d\u092f\u093e\u0928\u094b\u0935\u094d\u0938\u094d\u0915 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u0924"
     ],
+    "name:mar_x_variant":[
+        "\u0909\u0932\u094d\u092f\u093e\u0928\u094b\u0935\u094d\u0938\u094d\u0915"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u043c\u0431\u0435\u0440 \u0432\u0435\u043b"
+    ],
+    "name:mhr_x_variant":[
+        "\u0421\u0435\u043c\u0431\u0435\u0440"
     ],
     "name:mkd_x_preferred":[
         "\u0423\u043b\u0458\u0430\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u0423\u0459\u0458\u0430\u043d\u043e\u0432\u0441\u043a"
+    ],
     "name:mon_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a \u043c\u0443\u0436"
+    ],
+    "name:mon_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
     ],
     "name:msa_x_preferred":[
         "Wilayah Ulyanovsk"
@@ -170,8 +336,14 @@
     "name:myv_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u043d\u044c \u0451\u043d\u043a\u0441"
     ],
+    "name:myv_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u043d\u044c \u043e\u0448"
+    ],
     "name:nld_x_preferred":[
         "Oblast Oeljanovsk"
+    ],
+    "name:nld_x_variant":[
+        "Oeljanovsk"
     ],
     "name:nno_x_preferred":[
         "Uljanovsk"
@@ -186,37 +358,66 @@
         "Uljanovskaja oblast"
     ],
     "name:nor_x_variant":[
-        "Uljanovsk oblast"
+        "Uljanovsk oblast",
+        "Uljanovsk"
     ],
     "name:oss_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u0447\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
+    "name:oss_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
+    "name:pap_x_preferred":[
+        "Ulyanovsk"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u06cc\u0627\u0646\u0648\u0633\u06a9"
+    ],
+    "name:pnb_x_variant":[
+        "\u0627\u0644\u06cc\u0627\u0646\u0648\u0648\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d uljanowski"
     ],
+    "name:pol_x_variant":[
+        "Uljanowsk"
+    ],
     "name:por_x_preferred":[
         "Oblast de Ulianovsk"
+    ],
+    "name:por_x_variant":[
+        "Ulianovsk"
     ],
     "name:ron_x_preferred":[
         "Regiunea Ulianovsk"
     ],
+    "name:ron_x_variant":[
+        "Ulianovsk"
+    ],
     "name:rus_x_preferred":[
-        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "name:rus_x_variant":[
-        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
     ],
     "name:sah_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u0439 \u0443\u043e\u0431\u0430\u043b\u0430\u0441"
     ],
+    "name:sco_x_preferred":[
+        "Ulyanovsk"
+    ],
     "name:slk_x_preferred":[
         "Ulianovsk\u00e1 oblas\u0165"
     ],
+    "name:slk_x_variant":[
+        "Ulianovsk"
+    ],
     "name:slv_x_preferred":[
         "Uljanovska oblast"
+    ],
+    "name:slv_x_variant":[
+        "Uljanovsk"
     ],
     "name:sme_x_preferred":[
         "Uljanovsk oblast"
@@ -224,8 +425,17 @@
     "name:spa_x_preferred":[
         "\u00d3blast de Uli\u00e1novsk"
     ],
+    "name:spa_x_variant":[
+        "Uli\u00e1novsk"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u0459\u0430\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0459\u0430\u043d\u043e\u0432\u0441\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Ulyanovsk"
     ],
     "name:swe_x_preferred":[
         "Uljanovsk"
@@ -233,39 +443,77 @@
     "name:swe_x_variant":[
         "Uljanovsk oblast"
     ],
+    "name:szl_x_preferred":[
+        "Uljanowsk"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u043c\u0431\u0435\u0440 \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0421\u0435\u043c\u0431\u0435\u0440"
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0423\u043b\u044f\u043d\u043e\u0432\u0441\u043a"
     ],
+    "name:tgl_x_preferred":[
+        "Ulyanovsk"
+    ],
+    "name:tum_x_preferred":[
+        "Ulyanovsk"
+    ],
     "name:tur_x_preferred":[
         "Ulyanovsk Oblast\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Ulyanovsk"
     ],
     "name:udm_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a \u0443\u043b\u043e\u0441"
     ],
+    "name:udm_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:und_x_variant":[
-        "Ul'janovskaja oblast'",
-        "Ul'yanovsk"
+    "name:ukr_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ul\u2019yanovsk Oblast"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0648\u0633\u06a9"
     ],
     "name:uzb_x_preferred":[
         "Ulyanov viloyati"
     ],
+    "name:uzb_x_variant":[
+        "Ulyanovsk"
+    ],
+    "name:vep_x_preferred":[
+        "Ul'janovsk"
+    ],
     "name:vie_x_preferred":[
         "Ulyanovsk"
+    ],
+    "name:war_x_preferred":[
+        "Ulyanovsk"
+    ],
+    "name:wol_x_preferred":[
+        "Ulyanovsk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u91cc\u626c\u8bfa\u592b\u65af\u514b"
     ],
     "name:xal_x_preferred":[
         "\u0423\u043b\u044c\u044f\u043d\u0430 \u0442\u04e9\u0433\u04d9\u043b\u04a3"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u91cc\u626c\u8bfa\u592b\u65af\u514b\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u4e4c\u91cc\u626c\u8bfa\u592b\u65af\u514b"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"RUS",
@@ -332,14 +580,13 @@
     "qs:adm0_a3":"RUS",
     "qs:level":"adm1",
     "qs:source":"Unknown",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"37,300",
     "statoids:area_mi":"14,400",
     "statoids:as_of_date":"2010-10-14",
@@ -366,6 +613,9 @@
         "iso:id":"RU-ULY"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2210f6e71ec8e90eb0ef4d60367e614e",
     "wof:hierarchy":[
         {
@@ -401,11 +651,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1606163071,
+    "wof:lastmodified":1587427562,
     "wof:name":"Ulyanovsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1292799,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

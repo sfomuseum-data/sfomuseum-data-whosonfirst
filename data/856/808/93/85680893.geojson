@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":-17.661193,
     "lbl:longitude":168.396722,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.661193,
     "mps:longitude":168.396722,
     "mz:hierarchy_label":1,
@@ -43,14 +47,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Shefa"
     ],
-    "name:chi_x_preferred":[
-        "\u8c22\u6cd5\u7701"
+    "name:ceb_x_preferred":[
+        "Shefa Province"
     ],
     "name:dan_x_preferred":[
         "Shefa Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shefa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Shefa"
@@ -64,20 +71,11 @@
     "name:fra_x_preferred":[
         "Shefa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sh\u00e9fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d4\u10e4\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Shefa"
     ],
     "name:glg_x_preferred":[
         "Shefa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0cb7\u0cc6\u0cab\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10e4\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara ya Shefa"
     ],
@@ -115,11 +116,14 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Shefa Province"
-    ],
     "name:mrj_x_preferred":[
         "\u0428\u0435\u0444\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Shefa Province"
+    ],
+    "name:nld_x_preferred":[
+        "Shefa"
     ],
     "name:nob_x_preferred":[
         "Shefa"
@@ -157,14 +161,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0428\u0435\u0444\u0430"
     ],
-    "name:unk_x_variant":[
-        "Shefa Province"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0641\u0627 \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Shefa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u6cd5\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VUT",
@@ -236,9 +240,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"1,455",
     "statoids:area_mi":"562",
     "statoids:as_of_date":"2009-11-16",
@@ -251,7 +255,6 @@
     "statoids:population":"78723",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632263
@@ -263,7 +266,7 @@
         "gp:id":20069888,
         "hasc:id":"VU.SE",
         "iso:id":"VU-SEE",
-        "qs:id":223735,
+        "qs_pg:id":223735,
         "wd:id":"Q650617",
         "wk:page":"Shefa Province"
     },
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85680893,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bis",
         "eng",
@@ -290,11 +290,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1578514118,
+    "wof:lastmodified":1566652537,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":78723,
     "wof:population_rank":8,

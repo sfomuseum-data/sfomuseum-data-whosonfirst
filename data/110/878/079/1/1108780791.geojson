@@ -10,8 +10,16 @@
     "geom:latitude":21.042178,
     "geom:longitude":105.897347,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Long Bien District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban district"
+    ],
     "lbl:latitude":21.044737,
     "lbl:longitude":105.898147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ha Noi",
     "meso:gadm_admin":"Long Bi\u00ean",
     "meso:gadm_hasc2":"VN.HN.LB",
@@ -25,17 +33,27 @@
     "mps:longitude":105.898147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9f8d\u7de8\u90e1"
-    ],
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Long Bien"
     ],
-    "name:fre_x_preferred":[
+    "name:eng_x_variant":[
+        "Long Bi\u00ean"
+    ],
+    "name:fra_x_preferred":[
         "District de Long Bien"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f3\u30d3\u30a8\u30f3\u533a"
     ],
     "name:kor_x_preferred":[
         "\ub871\ube44\uc5d4"
+    ],
+    "name:kor_x_variant":[
+        "\ub871\ube44\uc5d4\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Long Bi\u00ean"
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0433\u0431\u044c\u0435\u043d"
@@ -43,10 +61,13 @@
     "name:vie_x_preferred":[
         "Long Bi\u00ean"
     ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u7de8\u90e1"
+    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"59",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Ha Noi",
@@ -78,7 +99,7 @@
         }
     ],
     "wof:id":1108780791,
-    "wof:lastmodified":1578514174,
+    "wof:lastmodified":1566650278,
     "wof:name":"Long Bien",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

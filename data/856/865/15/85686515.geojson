@@ -5,19 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128447,
-    "geom:area_square_m":1499218277.434708,
+    "geom:area_square_m":1499218275.490244,
     "geom:bbox":"-99.364924,19.048237,-98.940303,19.592757",
     "geom:latitude":19.27689,
     "geom:longitude":-99.139411,
     "iso:country":"MX",
     "label:eng_x_preferred_longname":[
-        "Ciudad de M\u00e9xico Federal District"
+        "Ciudad de M\u00e9xico"
     ],
     "label:eng_x_preferred_placetype":[
         "federal district"
     ],
+    "label:spa_x_preferred_longname":[
+        "Ciudad de M\u00e9xico"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "distrito federal"
+    ],
     "lbl:latitude":19.254767,
     "lbl:longitude":-99.142535,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.254767,
     "mps:longitude":-99.142535,
     "mz:hierarchy_label":1,
@@ -40,7 +47,7 @@
         "Distrito Federal",
         "DF"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "The Federal District"
     ],
     "ne:abbrev":"",
@@ -108,12 +115,11 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"1,479",
     "statoids:area_mi":"571",
     "statoids:as_of_date":"2010-05-31",
@@ -133,6 +139,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":28394,
         "fips:code":"MX09",
         "gn:id":3527646,
         "gp:id":2346272,
@@ -159,11 +166,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1606163403,
+    "wof:lastmodified":1583882886,
     "wof:name":"Ciudad de M\u00e9xico",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"federal district",
     "wof:population":8851080,
     "wof:population_rank":13,

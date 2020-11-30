@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.509044,
-    "geom:area_square_m":91431130407.79805,
+    "geom:area_square_m":91431130407.796753,
     "geom:bbox":"-71.083924,42.917126,-66.885444,47.459854",
     "geom:latitude":45.274328,
     "geom:longitude":-69.20276,
@@ -144,6 +144,9 @@
     "name:dan_x_preferred":[
         "Maine"
     ],
+    "name:deu_ch_x_preferred":[
+        "Maine"
+    ],
     "name:deu_x_preferred":[
         "Maine"
     ],
@@ -154,6 +157,12 @@
         "\u039c\u03ad\u03b9\u03bd"
     ],
     "name:eml_x_preferred":[
+        "Maine"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Maine"
+    ],
+    "name:eng_gb_x_preferred":[
         "Maine"
     ],
     "name:eng_x_colloquial":[
@@ -210,6 +219,9 @@
     ],
     "name:glv_x_preferred":[
         "Maine"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3c\ud800\udf34\ud800\udf3d"
     ],
     "name:grn_x_preferred":[
         "Maine"
@@ -448,8 +460,14 @@
     "name:pol_x_preferred":[
         "Maine"
     ],
+    "name:por_br_x_preferred":[
+        "Maine"
+    ],
     "name:por_x_preferred":[
         "Maine"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u06cc\u0646"
     ],
     "name:que_x_preferred":[
         "Maine suyu"
@@ -523,6 +541,9 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c46\u0c2f\u0c3f\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u044d\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Maine"
     ],
@@ -574,8 +595,20 @@
     "name:yue_x_preferred":[
         "\u7dec\u56e0\u5dde"
     ],
+    "name:zea_x_preferred":[
+        "Maine"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f05\u56e0\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7dec\u56e0\u5dde"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Maine"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dec\u56e0\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7f05\u56e0\u5dde"
@@ -649,10 +682,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -677,6 +709,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":20,
         "fips:code":"US23",
         "gn:id":4971068,
         "gp:id":2347578,
@@ -686,6 +719,9 @@
         "wd:id":"Q724"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"3ec0e992866c412267de00b077c07ed5",
     "wof:hierarchy":[
         {
@@ -703,7 +739,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163362,
+    "wof:lastmodified":1587428410,
     "wof:name":"Maine",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

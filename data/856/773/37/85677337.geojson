@@ -17,8 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":5.862998,
     "lbl:longitude":-55.193357,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.850372,
     "mps:longitude":-55.17127,
     "mz:hierarchy_label":1,
@@ -28,17 +32,20 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0628\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
+    "name:ceb_x_preferred":[
+        "Distrikt Paramaribo"
     ],
     "name:dan_x_preferred":[
         "Paramaribo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paramaribo"
     ],
     "name:eng_x_preferred":[
         "Paramaribo"
+    ],
+    "name:eng_x_variant":[
+        "Paramaribo District"
     ],
     "name:epo_x_preferred":[
         "Paramaribo"
@@ -46,16 +53,16 @@
     "name:est_x_preferred":[
         "Paramaribo ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Paramaribon piiri"
     ],
     "name:fra_x_preferred":[
         "Paramaribo"
     ],
-    "name:fre_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:ger_x_preferred":[
+    "name:frr_x_preferred":[
         "Paramaribo"
     ],
     "name:hin_x_preferred":[
@@ -76,6 +83,9 @@
     "name:kor_x_preferred":[
         "\ud30c\ub77c\ub9c8\ub9ac\ubcf4 \uad6c"
     ],
+    "name:lav_x_preferred":[
+        "Paramaribo apgabals"
+    ],
     "name:lit_x_preferred":[
         "Paramaribo apygarda"
     ],
@@ -88,16 +98,13 @@
     "name:nob_x_preferred":[
         "Paramaribo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
-    ],
     "name:pol_x_preferred":[
         "Paramaribo"
     ],
     "name:por_x_preferred":[
         "Paramaribo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paramaribo"
     ],
     "name:rus_x_preferred":[
@@ -115,11 +122,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "District Paramaribo"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SUR",
@@ -193,9 +203,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-13",
+    "src:population_date":"2012-08-13",
     "statoids:area_km":"182",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2012-08-13",
@@ -220,7 +230,7 @@
         "gp:id":2346412,
         "hasc:id":"SR.PM",
         "iso:id":"SR-PM",
-        "qs:id":890088,
+        "qs_pg:id":890088,
         "unlc:id":"SR-PM",
         "wd:id":"Q1130134",
         "wk:page":"Paramaribo District"
@@ -229,6 +239,9 @@
         890444597
     ],
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"008cd3c158252c006c5a151836691ef2",
     "wof:hierarchy":[
         {
@@ -238,20 +251,16 @@
         }
     ],
     "wof:id":85677337,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1578514138,
+    "wof:lastmodified":1582326695,
     "wof:name":"Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":240924,
     "wof:population_rank":10,

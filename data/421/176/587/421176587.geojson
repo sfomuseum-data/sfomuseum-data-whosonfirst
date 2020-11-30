@@ -10,6 +10,9 @@
     "geom:latitude":-17.53333,
     "geom:longitude":-149.56667,
     "iso:country":"PF",
+    "lbl:bbox":"-149.58667,-17.55333,-149.54667,-17.51333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -23,9 +26,6 @@
     "name:arg_x_preferred":[
         "Papeete"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u057a\u0565\u0565\u057f\u0565"
-    ],
     "name:ast_x_preferred":[
         "Papeete"
     ],
@@ -33,9 +33,6 @@
         "Papeete"
     ],
     "name:bam_x_preferred":[
-        "Papeete"
-    ],
-    "name:baq_x_preferred":[
         "Papeete"
     ],
     "name:bar_x_preferred":[
@@ -63,11 +60,11 @@
     "name:cat_x_preferred":[
         "Papeete"
     ],
-    "name:ces_x_preferred":[
+    "name:ceb_x_preferred":[
         "Papeete"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u76ae\u63d0"
+    "name:ces_x_preferred":[
+        "Papeete"
     ],
     "name:cos_x_preferred":[
         "Papeete"
@@ -75,16 +72,10 @@
     "name:cym_x_preferred":[
         "Papeete"
     ],
-    "name:cze_x_preferred":[
-        "Papeete"
-    ],
     "name:dan_x_preferred":[
         "Papeete"
     ],
     "name:deu_x_preferred":[
-        "Papeete"
-    ],
-    "name:dut_x_preferred":[
         "Papeete"
     ],
     "name:ell_x_preferred":[
@@ -98,6 +89,9 @@
     ],
     "name:epo_x_preferred":[
         "Papeeto"
+    ],
+    "name:epo_x_variant":[
+        "Papeete"
     ],
     "name:est_x_preferred":[
         "Papeete"
@@ -120,9 +114,6 @@
     "name:frc_x_preferred":[
         "Papeete"
     ],
-    "name:fre_x_preferred":[
-        "Papeete"
-    ],
     "name:frp_x_preferred":[
         "Papeete"
     ],
@@ -130,12 +121,6 @@
         "Papeete"
     ],
     "name:fur_x_preferred":[
-        "Papeete"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10de\u10d4\u10d4\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Papeete"
     ],
     "name:gla_x_preferred":[
@@ -146,9 +131,6 @@
     ],
     "name:glg_x_preferred":[
         "Papeete"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c0\u03b5\u03ad\u03c4\u03b5"
     ],
     "name:gsw_x_preferred":[
         "Papeete"
@@ -177,9 +159,6 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u057a\u0565\u0565\u057f\u0565"
     ],
-    "name:ice_x_preferred":[
-        "Papeete"
-    ],
     "name:ido_x_preferred":[
         "Papeete"
     ],
@@ -190,6 +169,9 @@
         "Papeete"
     ],
     "name:ind_x_preferred":[
+        "Papeete"
+    ],
+    "name:isl_x_preferred":[
         "Papeete"
     ],
     "name:ita_x_preferred":[
@@ -240,14 +222,8 @@
     "name:ltz_x_preferred":[
         "Papeete"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043f\u0435\u0442\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u092a\u0940\u0924\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Papeete"
     ],
     "name:min_x_preferred":[
         "Papeete"
@@ -256,6 +232,9 @@
         "\u041f\u0430\u043f\u0435\u0442\u0435"
     ],
     "name:mlg_x_preferred":[
+        "Papeete"
+    ],
+    "name:msa_x_preferred":[
         "Papeete"
     ],
     "name:nap_x_preferred":[
@@ -291,9 +270,6 @@
     "name:pcd_x_preferred":[
         "Papeete"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u067e\u06cc\u062a\u0647"
-    ],
     "name:pih_x_preferred":[
         "Papeete."
     ],
@@ -321,9 +297,6 @@
     "name:ron_x_preferred":[
         "Papeete"
     ],
-    "name:rum_x_preferred":[
-        "Papeete"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u0435\u044d\u0442\u0435"
     ],
@@ -337,9 +310,6 @@
         "\u0db4\u0dd0\u0db4\u0dd3\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Papeete"
-    ],
-    "name:slo_x_preferred":[
         "Papeete"
     ],
     "name:slv_x_preferred":[
@@ -384,7 +354,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043f\u0435\u0435\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vaiete"
     ],
     "name:urd_x_preferred":[
@@ -406,9 +376,6 @@
         "Papeete"
     ],
     "name:war_x_preferred":[
-        "Papeete"
-    ],
-    "name:wel_x_preferred":[
         "Papeete"
     ],
     "name:wln_x_preferred":[
@@ -536,7 +503,6 @@
     "qs:qs_id":1047685,
     "qs:woe_adm0":23424817,
     "qs:woe_id":1062847,
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:population":"quattroshapes",
     "wd:wordcount":1666,
@@ -547,7 +513,7 @@
     "wof:concordances":{
         "gn:id":4033936,
         "gp:id":1062847,
-        "qs:id":1047685,
+        "qs_pg:id":1047685,
         "wd:id":"Q130800",
         "wk:page":"Papeete"
     },
@@ -563,7 +529,7 @@
         }
     ],
     "wof:id":421176587,
-    "wof:lastmodified":1606163056,
+    "wof:lastmodified":1566677718,
     "wof:name":"Papeete",
     "wof:parent_id":85676727,
     "wof:placetype":"locality",

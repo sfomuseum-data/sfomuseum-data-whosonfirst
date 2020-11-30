@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":313.995134,
-    "geom:area_square_m":1712881940620.92041,
+    "geom:area_square_m":1712881940620.90625,
     "geom:bbox":"-179.231086,51.175092,179.859681,71.441059",
     "geom:latitude":63.742991,
     "geom:longitude":-151.593418,
@@ -172,6 +172,12 @@
     "name:eml_x_preferred":[
         "Al\u00e0ska"
     ],
+    "name:eng_ca_x_preferred":[
+        "Alaska"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Alaska"
+    ],
     "name:eng_x_colloquial":[
         "Land of the Midnight Sun"
     ],
@@ -229,6 +235,9 @@
     ],
     "name:glv_x_preferred":[
         "Alaska"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf43\ud800\udf3a\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Alaska"
@@ -497,6 +506,9 @@
     "name:pol_x_preferred":[
         "Alaska"
     ],
+    "name:por_br_x_preferred":[
+        "Alasca"
+    ],
     "name:por_x_preferred":[
         "Alasca"
     ],
@@ -665,8 +677,17 @@
     "name:zea_x_preferred":[
         "Alaska"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62c9\u65af\u52a0\u5dde"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u963f\u62c9\u65af\u52a0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Alaska"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62c9\u65af\u52a0\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u65af\u52a0\u5dde"
@@ -740,10 +761,9 @@
     "qs:level":"adm1",
     "qs:source":"US Census",
     "qs:type":"G4000",
-    "sfomuseum:placetype":"region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -767,6 +787,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":2,
         "fips:code":"US02",
         "gn:id":5879092,
         "gp:id":2347560,
@@ -776,6 +797,9 @@
         "wd:id":"Q797"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"ec7c3664f2d48a8dc91481c10f281c6a",
     "wof:hierarchy":[
         {
@@ -793,7 +817,7 @@
         "spa",
         "haw"
     ],
-    "wof:lastmodified":1606163121,
+    "wof:lastmodified":1587428456,
     "wof:name":"Alaska",
     "wof:parent_id":85633793,
     "wof:placetype":"region",

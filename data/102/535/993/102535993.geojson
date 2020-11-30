@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":969441.320942,
+    "geom:area_square_m":969441.320943,
     "geom:bbox":"-77.92379,18.497105,-77.908409,18.50989",
     "geom:latitude":18.503031,
     "geom:longitude":-77.9158,
@@ -80,9 +80,6 @@
     "name:zho_x_preferred":[
         "\u8499\u7279\u54e5\u8c9d"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
@@ -100,7 +97,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12514046,
-        "iata:code":"MBJ",
         "wd:id":"Q174140"
     },
     "wof:country":"",
@@ -114,7 +110,7 @@
         }
     ],
     "wof:id":102535993,
-    "wof:lastmodified":1606163493,
+    "wof:lastmodified":1566655377,
     "wof:name":"Sangster International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

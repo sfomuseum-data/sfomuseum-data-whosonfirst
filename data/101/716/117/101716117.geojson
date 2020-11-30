@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003138,
-    "geom:area_square_m":27333582.745815,
+    "geom:area_square_m":27333582.745855,
     "geom:bbox":"-123.254299,45.185628,-123.129042,45.23919",
     "geom:latitude":45.210993,
     "geom:longitude":-123.19183,
@@ -14,18 +14,21 @@
     "iso:country":"US",
     "lbl:latitude":45.209249,
     "lbl:longitude":-123.203361,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.209249,
     "mps:longitude":-123.203361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0645\u064a\u0646\u0641\u064a\u0644"
     ],
     "name:azb_x_preferred":[
         "\u0645\u06a9\u0645\u06cc\u0646\u0648\u06cc\u0644\u060c \u0627\u0648\u0631\u0642\u0646"
     ],
-    "name:baq_x_preferred":[
-        "McMinnville"
+    "name:azb_x_variant":[
+        "\u0645\u06a9\u0645\u06cc\u0646\u0648\u06cc\u0644"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043c\u0438\u043d\u0432\u0438\u043b"
@@ -33,34 +36,34 @@
     "name:cat_x_preferred":[
         "McMinnville"
     ],
-    "name:ces_x_preferred":[
+    "name:ceb_x_preferred":[
         "McMinnville"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "McMinnville"
     ],
     "name:deu_x_preferred":[
         "McMinnville"
     ],
-    "name:dut_x_preferred":[
-        "McMinnville"
-    ],
     "name:eng_x_preferred":[
         "Mcminnville"
+    ],
+    "name:eng_x_variant":[
+        "McMinnville"
+    ],
+    "name:eus_x_preferred":[
+        "McMinnville"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06a9\u0645\u06cc\u0646\u0648\u06cc\u0644\u060c \u0627\u0648\u0631\u06af\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06a9\u0645\u06cc\u0646\u0648\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "McMinnville"
     ],
-    "name:fre_x_preferred":[
-        "McMinnville"
-    ],
     "name:fry_x_preferred":[
-        "McMinnville"
-    ],
-    "name:ger_x_preferred":[
         "McMinnville"
     ],
     "name:hat_x_preferred":[
@@ -68,6 +71,9 @@
     ],
     "name:hbs_x_preferred":[
         "McMinnville"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05de\u05d9\u05e0\u05d5\u05d5\u05d9\u05dc"
     ],
     "name:hun_x_preferred":[
         "McMinnville"
@@ -105,9 +111,6 @@
     "name:nor_x_preferred":[
         "McMinnville"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06a9\u0645\u06cc\u0646\u0648\u06cc\u0644\u060c \u0627\u0648\u0631\u06af\u0646"
-    ],
     "name:pol_x_preferred":[
         "McMinnville"
     ],
@@ -123,6 +126,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u043c\u0438\u043d\u0432\u0438\u043b"
     ],
+    "name:srp_x_variant":[
+        "McMinnville"
+    ],
     "name:swe_x_preferred":[
         "McMinnville"
     ],
@@ -134,6 +140,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06a9\u0645\u0646\u0648\u06cc\u0644\u060c \u0627\u0648\u0631\u06cc\u06af\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06a9\u0645\u0646\u0648\u06cc\u0644"
     ],
     "name:uzb_x_preferred":[
         "McMinnville"
@@ -161,12 +170,11 @@
     "qs:pop":0,
     "qs:source":"AUS Census",
     "qs:type":"G4110",
-    "sfomuseum:placetype":"city",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.211667,
     "wd:longitude":-123.197222,
@@ -183,12 +191,14 @@
         "fips:code":"4145000",
         "gn:id":5739936,
         "gp:id":2448306,
-        "qs:id":355605,
         "qs_pg:id":355605,
         "wd:id":"Q852693",
         "wk:page":"McMinnville, Oregon"
     },
     "wof:country":"US",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca55c396a13c53b4c4e20a6348ba6571",
     "wof:hierarchy":[
         {
@@ -203,7 +213,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1606163463,
+    "wof:lastmodified":1582338258,
     "wof:name":"McMinnville",
     "wof:parent_id":102081613,
     "wof:placetype":"locality",

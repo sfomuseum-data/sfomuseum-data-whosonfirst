@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001842,
     "geom:area_square_m":22777032.050705,
-    "geom:bbox":"166.90996807,-0.554050950935,166.960001639,-0.501550971935",
+    "geom:bbox":"166.909968,-0.554051,166.960002,-0.501551",
     "geom:latitude":-0.527463,
     "geom:longitude":166.934672,
     "gn:id":"",
@@ -15,8 +15,13 @@
     "itu:country_code":[
         "674"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NR"
+    ],
     "lbl:latitude":-0.520261,
     "lbl:longitude":166.932644,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-0.520261,
     "mps:longitude":166.932644,
     "mz:hierarchy_label":1,
@@ -59,6 +64,9 @@
     "name:ast_x_preferred":[
         "Nauru"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0626\u0648\u0631\u0648"
+    ],
     "name:aze_x_preferred":[
         "Nauru"
     ],
@@ -68,17 +76,20 @@
     "name:bam_x_preferred":[
         "Nawuru"
     ],
+    "name:bar_x_preferred":[
+        "Nauru"
+    ],
     "name:bcl_x_preferred":[
         "Nauru"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0430\u0443\u0440\u0443"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0989\u09b0\u09c1"
+    ],
+    "name:bis_x_preferred":[
+        "Nauru"
     ],
     "name:bjn_x_preferred":[
         "Nauru"
@@ -140,6 +151,9 @@
     "name:cym_x_preferred":[
         "Nawrw"
     ],
+    "name:cym_x_variant":[
+        "Nauru"
+    ],
     "name:dan_x_preferred":[
         "Nauru"
     ],
@@ -154,6 +168,9 @@
     ],
     "name:dsb_x_preferred":[
         "Nauru"
+    ],
+    "name:dty_x_preferred":[
+        "\u0928\u093e\u0909\u0930\u0941"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bf\u03c5\u03c1\u03bf\u03cd"
@@ -209,6 +226,9 @@
     "name:frp_x_preferred":[
         "Naouru"
     ],
+    "name:frr_x_preferred":[
+        "Nauru"
+    ],
     "name:fry_x_preferred":[
         "Naur\u00fb"
     ],
@@ -241,6 +261,15 @@
     ],
     "name:gom_x_preferred":[
         "\u0928\u094c\u0930\u0941"
+    ],
+    "name:gor_x_preferred":[
+        "Nauru"
+    ],
+    "name:grn_x_preferred":[
+        "N\u00e1uru"
+    ],
+    "name:gsw_x_preferred":[
+        "Nauru"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acc\u0ab0\u0ac1"
@@ -362,6 +391,9 @@
     "name:lez_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
+    "name:lfn_x_preferred":[
+        "Nauero"
+    ],
     "name:lij_x_preferred":[
         "Nauru"
     ],
@@ -391,6 +423,9 @@
     ],
     "name:lug_x_preferred":[
         "Nawuru"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8afe\u9b6f"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d57\u0d31\u0d41"
@@ -434,6 +469,12 @@
     "name:mya_x_preferred":[
         "\u1014\u1021\u1030\u101b\u1030\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:nah_x_preferred":[
+        "Nauru"
+    ],
+    "name:nan_x_preferred":[
+        "Nauru"
+    ],
     "name:nau_x_preferred":[
         "Naoero"
     ],
@@ -470,6 +511,9 @@
     "name:oci_x_preferred":[
         "Nauru"
     ],
+    "name:olo_x_preferred":[
+        "Nauru"
+    ],
     "name:ori_x_preferred":[
         "\u0b28\u0b3e\u0b09\u0b30\u0b41"
     ],
@@ -481,6 +525,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a3e\u0a09\u0a30\u0a42"
+    ],
+    "name:pap_x_preferred":[
+        "Nauru"
     ],
     "name:pih_x_preferred":[
         "Nauruu"
@@ -515,6 +562,9 @@
     "name:run_x_preferred":[
         "Nawuru"
     ],
+    "name:rup_x_preferred":[
+        "Nauru"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
@@ -533,8 +583,14 @@
     "name:sco_x_preferred":[
         "Nauru"
     ],
+    "name:sgs_x_preferred":[
+        "Nauru"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dcf\u0dc0\u0dd4\u0dbb\u0dd4"
+    ],
+    "name:sin_x_variant":[
+        "\u0db1\u0dcf\u0d8c\u0dbb\u0dd6"
     ],
     "name:slk_x_preferred":[
         "Nauru"
@@ -599,6 +655,9 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c4c\u0c30\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c28\u0c35\u0c42\u0c30\u0c41"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
@@ -621,6 +680,9 @@
     "name:tpi_x_preferred":[
         "Nauru"
     ],
+    "name:tuk_x_preferred":[
+        "Nauru"
+    ],
     "name:tur_x_preferred":[
         "Nauru"
     ],
@@ -637,9 +699,7 @@
         "\u041d\u0430\u0443\u0440\u0443"
     ],
     "name:und_x_variant":[
-        "Republika Nauru"
-    ],
-    "name:unk_x_variant":[
+        "Republika Nauru",
         "Trust Territory of Nauru"
     ],
     "name:urd_x_preferred":[
@@ -659,6 +719,9 @@
     ],
     "name:vol_x_preferred":[
         "Naure\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Nauru"
     ],
     "name:war_x_preferred":[
         "Nauru"
@@ -777,7 +840,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"674",
     "statoids:ds":"NAU",
@@ -806,6 +869,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Nauru",
+        "digitalenvoy:country_code":520,
         "fb:id":"en.nauru",
         "fifa:id":"NRU",
         "fips:code":"NR",
@@ -822,7 +886,7 @@
         "mzb:id":"nauru",
         "ne:adm0_a3":"NRU",
         "nyt:id":"50581473011748044801",
-        "qs:id":1109848,
+        "qs_pg:id":1109848,
         "uncrt:id":"NAU",
         "wd:id":"Q697",
         "wk:page":"Nauru",
@@ -830,7 +894,12 @@
     },
     "wof:country":"NR",
     "wof:country_alpha3":"NRU",
-    "wof:geomhash":"8eec6e6ba1c6a4f62275889cdf88096f",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"ca8cb2b18d367f76c2798cbc774f2085",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -838,9 +907,6 @@
         }
     ],
     "wof:id":85632747,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -849,7 +915,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1578514136,
+    "wof:lastmodified":1583797407,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
@@ -862,10 +928,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.9099680701994,
-    -0.554050950935,
-    166.9600016391994,
-    -0.501550971935
+    166.909968,
+    -0.554051,
+    166.960002,
+    -0.501551
 ],
-  "geometry": {"coordinates":[[[[166.94375102919946,-0.54818984793503],[166.93958538019945,-0.55152317793501],[166.93541973019944,-0.55318984293502],[166.93454997919946,-0.554050950935],[166.93041484719947,-0.554050950935],[166.92380779219945,-0.55071762093503],[166.92208354919944,-0.55071762093503],[166.91710918319939,-0.54818984793503],[166.91169231319941,-0.54280099193501],[166.91083782119949,-0.53946766193503],[166.9099680701994,-0.538606493935],[166.9099680701994,-0.52780094693504],[166.91332500419946,-0.52116206193501],[166.91874187419944,-0.51568987893502],[166.91955059019949,-0.51568987893502],[166.92127483319939,-0.514023213935],[166.92212932519942,-0.514023213935],[166.92415874419942,-0.51196762793502],[166.92583721119945,-0.50863429793498],[166.93291728919939,-0.50235652793499],[166.93461101419939,-0.501550971935],[166.94625347019939,-0.501550971935],[166.95292156119945,-0.50488430193503],[166.95669048219941,-0.50860652293501],[166.95669048219941,-0.50946763093499],[166.96000163919939,-0.51527318293501],[166.96000163919939,-0.52027317793501],[166.95749919819946,-0.522800950935],[166.95749919819946,-0.52360650793504],[166.95333354919944,-0.52780094693504],[166.9524714271995,-0.53118985793499],[166.95167034119947,-0.531995384935],[166.95167034119947,-0.53446760693499],[166.95080059019949,-0.53527316393503],[166.95080059019949,-0.541967658935],[166.95168559919944,-0.54357877293502],[166.94964092219948,-0.54571762593503],[166.9487711711995,-0.54571762593503],[166.94713848019944,-0.54818984793503],[166.94375102919946,-0.54818984793503]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[166.94375099999999,-0.54819],[166.93958499999999,-0.551523],[166.93541999999999,-0.55319],[166.93455,-0.554051],[166.93041500000001,-0.554051],[166.92380800000001,-0.550718],[166.92208400000001,-0.550718],[166.91710900000001,-0.54819],[166.91169199999999,-0.542801],[166.91083800000001,-0.539468],[166.90996799999999,-0.538606],[166.90996799999999,-0.527801],[166.91332499999999,-0.521162],[166.91874200000001,-0.51569],[166.91955100000001,-0.51569],[166.92127500000001,-0.514023],[166.92212900000001,-0.514023],[166.924159,-0.511968],[166.925837,-0.508634],[166.932917,-0.502357],[166.93461099999999,-0.501551],[166.94625300000001,-0.501551],[166.952922,-0.504884],[166.95669000000001,-0.508607],[166.95669000000001,-0.509468],[166.960002,-0.515273],[166.960002,-0.520273],[166.95749900000001,-0.522801],[166.95749900000001,-0.523607],[166.95333400000001,-0.527801],[166.952471,-0.53119],[166.95167000000001,-0.531995],[166.95167000000001,-0.534468],[166.95080100000001,-0.535273],[166.95080100000001,-0.541968],[166.951686,-0.543579],[166.94964100000001,-0.545718],[166.94877099999999,-0.545718],[166.947138,-0.54819],[166.94375099999999,-0.54819]]]],"type":"MultiPolygon"}
 }

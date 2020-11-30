@@ -12,20 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0648\u0648\u0647\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Wuhan Tianhe nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u6b66\u6c49\u5929\u6cb3\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Wu-chan Tchien-che"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven van Wuhan Tianhe"
+    "name:deu_x_preferred":[
+        "Flughafen Wuhan"
     ],
     "name:eng_x_preferred":[
         "Wuhan Tianhe International Airport"
@@ -34,11 +29,14 @@
         "WUH",
         "ZHHH"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Wuhan Tianhe"
+    "name:eus_x_preferred":[
+        "Wuhan Tianhe nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Wuhan"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0648\u0647\u0627\u0646 \u062a\u06cc\u0627\u0646\u0647\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Wuhan Tianhe"
     ],
     "name:hun_x_preferred":[
         "Vuhan-Tienho nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -55,20 +53,23 @@
     "name:lzh_x_preferred":[
         "\u6b66\u6f22\u5929\u6cb3\u570b\u969b\u6a5f\u5834"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Tianhe"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven van Wuhan Tianhe"
     ],
     "name:nob_x_preferred":[
         "Wuhan Tianhe internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0648\u0647\u0627\u0646 \u062a\u06cc\u0627\u0646\u0647\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wuhan-Tianhe"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Wuhan Tianhe"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Wuhan Tianhe"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Wuhan Tiahne"
@@ -82,8 +83,14 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e2d\u0e39\u0e48\u0e2e\u0e31\u0e48\u0e19"
     ],
+    "name:tur_x_preferred":[
+        "Vuhan Tianhe Uluslararas\u0131 Havaliman\u0131"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Thi\u00ean H\u00e0 V\u0169 H\u00e1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6b66\u6c49\u5929\u6cb3\u56fd\u9645\u673a\u573a"
     ],
     "name:yue_x_preferred":[
         "\u6b66\u6f22\u570b\u969b\u6a5f\u5834"
@@ -91,11 +98,11 @@
     "name:zho_x_preferred":[
         "\u6b66\u54b8\u57ce\u9645\u94c1\u8def"
     ],
+    "name:zho_x_variant":[
+        "\u6b66\u6c49\u5929\u6cb3\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"113",
     "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
     "src:geom":"ourairports",
     "src:geom_alt":[],
     "woe:hierarchy":{
@@ -134,11 +141,11 @@
         }
     ],
     "wof:id":102550529,
-    "wof:lastmodified":1606163494,
+    "wof:lastmodified":1566655307,
     "wof:name":"Wuchang Nanhu Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-",
+    "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

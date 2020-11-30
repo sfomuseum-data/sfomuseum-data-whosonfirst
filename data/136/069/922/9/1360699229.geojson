@@ -7,17 +7,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2015",
     "geom:area":0.01913,
-    "geom:area_square_m":137037764.50434,
+    "geom:area_square_m":137037764.504324,
     "geom:bbox":"-6.060137,54.530576,-5.80736,54.665004",
     "geom:latitude":54.596356,
     "geom:longitude":-5.942799,
     "iso:country":"GB",
     "lbl:latitude":54.592455,
     "lbl:longitude":-5.9619,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.592455,
     "mps:longitude":-5.9619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Belfast"
     ],
@@ -27,14 +29,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0641\u0627\u0633\u062a"
     ],
-    "name:ara_x_variant":[
-        "\u0628\u0644\u0641\u0627\u0633\u062a"
-    ],
     "name:arg_x_preferred":[
         "B\u00e9al Feirste"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0586\u0561\u057d\u0569"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0644\u0641\u0627\u0633\u062a"
@@ -42,19 +38,25 @@
     "name:ast_x_preferred":[
         "Belfast"
     ],
-    "name:aze_x_preferred":[
-        "Belfast"
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0641\u0627\u0633\u062a"
     ],
-    "name:baq_x_preferred":[
+    "name:aze_x_preferred":[
         "Belfast"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ab\u09be\u09b8\u09cd\u099f"
     ],
     "name:bho_x_preferred":[
+        "\u092c\u0947\u0932\u092b\u093e\u0938\u094d\u091f"
+    ],
+    "name:bih_x_preferred":[
         "\u092c\u0947\u0932\u092b\u093e\u0938\u094d\u091f"
     ],
     "name:bos_x_preferred":[
@@ -66,26 +68,20 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
-    "name:bur_x_preferred":[
-        "\u1017\u1032\u101c\u1016\u1010\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Belfast"
     ],
+    "name:ceb_x_preferred":[
+        "Belfast"
+    ],
     "name:ces_x_preferred":[
         "Belfast"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u6cd5\u65af\u7279"
-    ],
     "name:cym_x_preferred":[
         "Belffast"
-    ],
-    "name:cze_x_preferred":[
-        "Belfast"
     ],
     "name:dan_x_preferred":[
         "Belfast"
@@ -94,9 +90,6 @@
         "Belfast"
     ],
     "name:diq_x_preferred":[
-        "Belfast"
-    ],
-    "name:dut_x_preferred":[
         "Belfast"
     ],
     "name:ell_x_preferred":[
@@ -137,20 +130,14 @@
     "name:fra_x_preferred":[
         "Belfast"
     ],
-    "name:fre_x_preferred":[
-        "Belfast"
-    ],
     "name:fry_x_preferred":[
-        "Belfast"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10e4\u10d0\u10e1\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Belfast"
     ],
     "name:gla_x_preferred":[
         "Beul-Feirste"
+    ],
+    "name:gla_x_variant":[
+        "Beul Feirste"
     ],
     "name:gle_x_preferred":[
         "B\u00e9al Feirste"
@@ -161,8 +148,8 @@
     "name:glv_x_preferred":[
         "Beeal Feirshtey"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03bb\u03c6\u03b1\u03c3\u03c4"
+    "name:grn_x_preferred":[
+        "Belfast"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab2\u0aab\u0abe\u0ab8\u0acd\u0a9f"
@@ -172,6 +159,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05e4\u05d0\u05e1\u05d8"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05dc\u05e4\u05e1\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0932\u092b\u093c\u093e\u0938\u094d\u091f"
@@ -188,8 +178,8 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0586\u0561\u057d\u057f"
     ],
-    "name:ice_x_preferred":[
-        "Belfast"
+    "name:hye_x_variant":[
+        "\u0532\u0565\u056c\u0586\u0561\u057d\u0569"
     ],
     "name:ido_x_preferred":[
         "Belfast"
@@ -201,6 +191,9 @@
         "Belfast"
     ],
     "name:ind_x_preferred":[
+        "Belfast"
+    ],
+    "name:isl_x_preferred":[
         "Belfast"
     ],
     "name:ita_x_preferred":[
@@ -247,6 +240,9 @@
     "name:lav_x_preferred":[
         "Belf\u0101sta"
     ],
+    "name:lij_x_preferred":[
+        "Belfast"
+    ],
     "name:lim_x_preferred":[
         "Belfast"
     ],
@@ -259,19 +255,22 @@
     "name:ltz_x_preferred":[
         "Belfast"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d7d\u0d2b\u0d3e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u092b\u093e\u0938\u094d\u091f"
     ],
-    "name:may_x_preferred":[
-        "Belfast"
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
     "name:mlt_x_preferred":[
+        "Belfast"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0444\u0430\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Belfast"
     ],
     "name:mya_x_preferred":[
@@ -301,9 +300,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0641\u0627\u0633\u062a"
-    ],
     "name:pms_x_preferred":[
         "Belfast"
     ],
@@ -316,6 +312,9 @@
     "name:por_x_preferred":[
         "Belfast"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0644\u0641\u0627\u0633\u062a"
+    ],
     "name:que_x_preferred":[
         "Belfast"
     ],
@@ -323,9 +322,6 @@
         "Belfast"
     ],
     "name:ron_x_preferred":[
-        "Belfast"
-    ],
-    "name:rum_x_preferred":[
         "Belfast"
     ],
     "name:rup_x_preferred":[
@@ -344,9 +340,6 @@
         "\u0db6\u0dd9\u0dbd\u0dca\u0dc6\u0dcf\u0dc3\u0dca\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Belfast"
-    ],
-    "name:slo_x_preferred":[
         "Belfast"
     ],
     "name:slv_x_preferred":[
@@ -373,6 +366,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0bb2\u0bcd\u0baa\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c32\u0c4d\u0c2b\u0c3e\u0c38\u0c4d\u0c1f\u0c4d"
     ],
@@ -382,8 +378,14 @@
     "name:tgl_x_preferred":[
         "Belpas"
     ],
+    "name:tgl_x_variant":[
+        "Belfast"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e25\u0e1f\u0e31\u0e2a\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Belfast"
@@ -397,21 +399,10 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0444\u0430\u0441\u0442"
     ],
-    "name:und_x_preferred":[
-        "B\u00e9al Feirste"
-    ],
     "name:und_x_variant":[
-        "Belfastas",
         "\u039c\u03c0\u03b5\u03bb\u03c6\u03b1\u03c3\u03c4",
-        "\u0411\u0435\u043b\u0444\u0430\u0441\u0442",
         "\u092c\u0932\u092b\u0938\u091f",
-        "\u092c\u0947\u0932\u092b\u093c\u093e\u0938\u094d\u091f",
-        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15",
-        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15\u0e4c",
-        "\u8c9d\u723e\u6cd5\u65af\u7279"
-    ],
-    "name:unk_x_variant":[
-        "B\u00e9al Feirste"
+        "\u0e40\u0e1a\u0e25\u0e1f\u0e32\u0e2a\u0e15"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0641\u0627\u0633\u0679"
@@ -425,11 +416,14 @@
     "name:vie_x_preferred":[
         "Belfast"
     ],
+    "name:vls_x_preferred":[
+        "Belfast"
+    ],
     "name:war_x_preferred":[
         "Belfast"
     ],
-    "name:wel_x_preferred":[
-        "Belffast"
+    "name:wuu_x_preferred":[
+        "\u8d1d\u5c14\u6cd5\u65af\u7279"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e2\u05dc\u05e4\u05d0\u05e1\u05d8"
@@ -451,7 +445,6 @@
     ],
     "ni-os:lgdcode":"N09000003",
     "ni-os:lgdname":"Belfast",
-    "sfomuseum:placetype":"region",
     "src:geom":"ni-os",
     "wof:belongsto":[
         102191581,
@@ -460,6 +453,9 @@
         404227473
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "digitalenvoy:metro_code":826035
+    },
     "wof:country":"GB",
     "wof:geomhash":"2d44e6c364c8fd675c4c0ac501d6b783",
     "wof:hierarchy":[
@@ -472,7 +468,16 @@
         }
     ],
     "wof:id":1360699229,
-    "wof:lastmodified":1606163440,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "cym",
+        "gla",
+        "gle"
+    ],
+    "wof:lastmodified":1587427178,
     "wof:name":"Belfast",
     "wof:parent_id":404227473,
     "wof:placetype":"region",

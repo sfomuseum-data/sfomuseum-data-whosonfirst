@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02763,
-    "geom:area_square_m":312620084.948181,
+    "geom:area_square_m":312620084.948048,
     "geom:bbox":"90.329188,23.667517,90.509888,23.903701",
     "geom:latitude":23.791658,
     "geom:longitude":90.415627,
     "iso:country":"BD",
     "lbl:latitude":23.7104,
     "lbl:longitude":90.40744,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -21,9 +23,6 @@
         "Dhaka"
     ],
     "name:afr_x_preferred":[
-        "Dhaka"
-    ],
-    "name:alb_x_preferred":[
         "Dhaka"
     ],
     "name:als_x_preferred":[
@@ -38,9 +37,6 @@
     "name:arg_x_preferred":[
         "Dhaka"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u0584\u0584\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u062f\u0627\u0643\u0627"
     ],
@@ -49,6 +45,9 @@
     ],
     "name:ast_x_preferred":[
         "Daca"
+    ],
+    "name:ast_x_variant":[
+        "Dhaka"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u06a9\u0627"
@@ -59,7 +58,7 @@
     "name:bak_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
     ],
-    "name:baq_x_preferred":[
+    "name:bcl_x_preferred":[
         "Dhaka"
     ],
     "name:bel_x_preferred":[
@@ -92,9 +91,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u043a\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1012\u102b\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
     ],
@@ -113,9 +109,6 @@
     "name:che_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbe\u5361\u5e02"
-    ],
     "name:ckb_x_preferred":[
         "\u062f\u0627\u06a9\u0627"
     ],
@@ -131,10 +124,10 @@
     "name:cym_x_preferred":[
         "Dhaka"
     ],
-    "name:cze_x_preferred":[
-        "Dh\u00e1ka"
-    ],
     "name:dan_x_preferred":[
+        "Dhaka"
+    ],
+    "name:deu_ch_x_preferred":[
         "Dhaka"
     ],
     "name:deu_x_preferred":[
@@ -149,14 +142,17 @@
     "name:dty_x_preferred":[
         "\u0922\u093e\u0915\u093e"
     ],
-    "name:dut_x_preferred":[
-        "Dhaka"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ac\u03ba\u03b1"
     ],
     "name:ell_x_variant":[
         "\u039d\u03c4\u03ac\u03ba\u03ba\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Dhaka"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Dhaka"
     ],
     "name:eng_x_preferred":[
         "Dhaka"
@@ -182,20 +178,17 @@
     "name:fra_x_preferred":[
         "Dacca"
     ],
-    "name:fre_x_preferred":[
-        "Dacca"
-    ],
     "name:frp_x_preferred":[
+        "Dhaka"
+    ],
+    "name:frr_x_preferred":[
         "Dhaka"
     ],
     "name:fry_x_preferred":[
         "Daka"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Dhaka"
+    "name:gan_x_preferred":[
+        "\u9054\u5361"
     ],
     "name:gla_x_preferred":[
         "Dhaka"
@@ -209,9 +202,6 @@
     "name:glg_x_variant":[
         "Dacca - \u09a2\u09be\u0995\u09be"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03ba\u03b1"
-    ],
     "name:gsw_x_preferred":[
         "Dhaka"
     ],
@@ -223,6 +213,9 @@
     ],
     "name:hat_x_preferred":[
         "Daka"
+    ],
+    "name:hau_x_preferred":[
+        "Dhaka"
     ],
     "name:hbs_x_preferred":[
         "Dhaka"
@@ -248,9 +241,6 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u0584\u0584\u0561"
     ],
-    "name:ice_x_preferred":[
-        "Dakka"
-    ],
     "name:ido_x_preferred":[
         "Dhaka"
     ],
@@ -263,6 +253,9 @@
     "name:ind_x_preferred":[
         "Dhaka"
     ],
+    "name:inh_x_preferred":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:isl_x_preferred":[
         "Dakka"
     ],
@@ -271,6 +264,9 @@
     ],
     "name:ita_x_variant":[
         "Dh\u00e2k\u00e2"
+    ],
+    "name:jam_x_preferred":[
+        "Daaka"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30ab"
@@ -295,6 +291,9 @@
     ],
     "name:kbp_x_preferred":[
         "Taakaa"
+    ],
+    "name:khm_x_preferred":[
+        "\u178a\u17b6\u1780\u17b6"
     ],
     "name:kik_x_preferred":[
         "Dhaka"
@@ -338,8 +337,8 @@
     "name:ltz_x_preferred":[
         "Dhaka"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0430\u043a\u0430"
+    "name:lzh_x_preferred":[
+        "\u9054\u5361"
     ],
     "name:mai_x_preferred":[
         "\u0922\u093e\u0915\u093e"
@@ -347,23 +346,23 @@
     "name:mal_x_preferred":[
         "\u0d22\u0d3e\u0d15\u0d4d\u0d15"
     ],
-    "name:mao_x_preferred":[
-        "Dhaka"
-    ],
     "name:mar_x_preferred":[
         "\u0922\u093e\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Dhaka"
-    ],
     "name:mhr_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043a\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
+    ],
+    "name:mon_x_variant":[
+        "\u0414\u0430\u043a\u0430"
     ],
     "name:mri_x_preferred":[
         "Dhaka"
@@ -374,10 +373,16 @@
     "name:mya_x_preferred":[
         "\u1012\u102b\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:myv_x_preferred":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:nah_x_preferred":[
         "Daca"
     ],
     "name:nan_x_preferred":[
+        "Dhaka"
+    ],
+    "name:nds_x_preferred":[
         "Dhaka"
     ],
     "name:nep_x_preferred":[
@@ -419,9 +424,6 @@
     "name:pap_x_preferred":[
         "Dhaka"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u06a9\u0627"
-    ],
     "name:pms_x_preferred":[
         "Dacca"
     ],
@@ -430,6 +432,9 @@
     ],
     "name:pol_x_preferred":[
         "Dhaka"
+    ],
+    "name:por_br_x_preferred":[
+        "Daca"
     ],
     "name:por_x_preferred":[
         "Daca"
@@ -443,9 +448,6 @@
     "name:rue_x_preferred":[
         "\u0414\u0433\u0430\u043a\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Dacca"
-    ],
     "name:rup_x_preferred":[
         "Dhaka"
     ],
@@ -455,8 +457,14 @@
     "name:sah_x_preferred":[
         "\u0414\u0430\u0430\u043a\u0430"
     ],
+    "name:sah_x_variant":[
+        "\u0414\u0430\u043a\u0430"
+    ],
     "name:san_x_preferred":[
         "\u0922\u093e\u0915\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c77\u1c5f\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Dacca"
@@ -473,9 +481,6 @@
     "name:slk_x_preferred":[
         "Dh\u00e1ka"
     ],
-    "name:slo_x_preferred":[
-        "Dh\u00e1ka"
-    ],
     "name:slv_x_preferred":[
         "Daka"
     ],
@@ -490,6 +495,9 @@
     ],
     "name:sqi_x_preferred":[
         "Dhaka"
+    ],
+    "name:srd_x_preferred":[
+        "Daca"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0430\u043a\u0430"
@@ -515,20 +523,23 @@
     "name:tat_x_preferred":[
         "Dakka"
     ],
+    "name:tat_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c15\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0414\u0430\u043a\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u0414\u0430\u043a\u043a\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Dhaka"
     ],
     "name:tha_x_preferred":[
         "\u0e18\u0e32\u0e01\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f51\u0fb7\u0f0b\u0f41\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Dakka"
@@ -542,10 +553,13 @@
     "name:uig_x_preferred":[
         "\u062f\u0627\u0643\u0627"
     ],
+    "name:uig_x_variant":[
+        "\u062f\u0627\u0643\u0643\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043a\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mujib City"
     ],
     "name:urd_x_preferred":[
@@ -566,8 +580,8 @@
     "name:war_x_preferred":[
         "Dhaka"
     ],
-    "name:wel_x_preferred":[
-        "Dhaka"
+    "name:wuu_x_preferred":[
+        "\u8fbe\u5361"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d0\u10d9\u10d0"
@@ -586,6 +600,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u5361\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u9054\u5361"
@@ -700,7 +717,6 @@
     "qs:qs_id":493064,
     "qs:woe_adm0":23424759,
     "qs:woe_id":1915035,
-    "sfomuseum:placetype":"city",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -713,8 +729,8 @@
     "wof:belongsto":[
         102191569,
         85632475,
-        85669009,
-        421187803
+        421187803,
+        85669009
     ],
     "wof:breaches":[],
     "wof:capital_of":85632475,
@@ -722,12 +738,15 @@
         "gn:id":1185241,
         "gp:id":1915035,
         "loc:id":"n81019948",
-        "qs:id":493064,
+        "qs_pg:id":493064,
         "wd:id":"Q1354",
         "wk:page":"Dhaka"
     },
     "wof:country":"BD",
     "wof:created":1459009297,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cd3a527a2e640de2e6fd86706f697f7",
     "wof:hierarchy":[
         {
@@ -739,7 +758,7 @@
         }
     ],
     "wof:id":421181477,
-    "wof:lastmodified":1606163056,
+    "wof:lastmodified":1587427966,
     "wof:name":"Dhaka",
     "wof:parent_id":421187803,
     "wof:placetype":"locality",

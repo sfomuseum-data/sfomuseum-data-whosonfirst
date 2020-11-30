@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.853044,
-    "geom:area_square_m":7141208686.928351,
+    "geom:area_square_m":7141207990.073195,
     "geom:bbox":"12.076097,46.943856,13.996124,48.041466",
     "geom:latitude":47.38854,
     "geom:longitude":13.084288,
@@ -16,8 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SZ"
+    ],
     "lbl:latitude":47.347177,
     "lbl:longitude":13.243764,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.345331,
     "mps:longitude":13.244322,
     "mz:hierarchy_label":1,
@@ -33,11 +37,8 @@
     "name:arg_x_preferred":[
         "Salzburgo"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Salzburg"
+    "name:ast_x_preferred":[
+        "Salzburgu"
     ],
     "name:bar_x_preferred":[
         "Soizburg"
@@ -60,14 +61,14 @@
     "name:cat_x_preferred":[
         "Estat de Salzburg"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u8328\u5821\u5dde"
+    "name:ceb_x_preferred":[
+        "Salzburg"
+    ],
+    "name:ces_x_preferred":[
+        "Salcbursko"
     ],
     "name:cor_x_preferred":[
         "Salzburg"
-    ],
-    "name:cze_x_preferred":[
-        "Salcbursko"
     ],
     "name:dan_x_preferred":[
         "Salzburg"
@@ -78,8 +79,8 @@
     "name:deu_x_variant":[
         "SalzburgerLand"
     ],
-    "name:dut_x_preferred":[
-        "Salzburg"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03c4\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Salzburg"
@@ -90,23 +91,23 @@
     "name:est_x_preferred":[
         "Salzburgi liidumaa"
     ],
+    "name:eus_x_preferred":[
+        "Salzburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Salzburg"
     ],
     "name:fra_x_preferred":[
         "Salzbourg"
     ],
-    "name:fre_x_preferred":[
-        "Salzbourg"
+    "name:frr_x_preferred":[
+        "Salzburg"
     ],
     "name:fur_x_preferred":[
         "Salisburgh\u00eas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10da\u10ea\u10d1\u10e3\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Salzburg"
     ],
     "name:gla_x_preferred":[
         "Salzburg"
@@ -116,9 +117,6 @@
     ],
     "name:glg_x_preferred":[
         "Estado de Salzburgo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bb\u03c4\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Land Salzburg"
@@ -138,13 +136,16 @@
     "name:hun_x_preferred":[
         "Salzburg"
     ],
-    "name:ice_x_preferred":[
-        "Salzburg"
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563"
     ],
     "name:ile_x_preferred":[
         "Salzburg"
     ],
     "name:ind_x_preferred":[
+        "Salzburg"
+    ],
+    "name:isl_x_preferred":[
         "Salzburg"
     ],
     "name:ita_x_preferred":[
@@ -156,8 +157,14 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0cb2\u0ccd\u0c9c\u0ccd\u0cac\u0cb0\u0ccd\u0c97\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10da\u10ea\u10d1\u10e3\u10e0\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc798\uce20\ubd80\ub974\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc798\uce20\ubd80\ub974\ud06c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Salisburgum"
@@ -177,17 +184,17 @@
     "name:ltz_x_preferred":[
         "Salzburg"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043b\u0446\u0431\u0443\u0440\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u093e\u0932\u094d\u0924\u094d\u0938\u092c\u0941\u0930\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Salzburg"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043b\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:mon_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433 \u043c\u0443\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Salzburg"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u0627\u0644\u0632\u0628\u0648\u0631\u06af \u0627\u06cc\u0627\u0644\u062a"
@@ -197,6 +204,9 @@
     ],
     "name:nds_x_preferred":[
         "Soltborg"
+    ],
+    "name:nld_x_preferred":[
+        "Salzburg"
     ],
     "name:nno_x_preferred":[
         "Forbundslandet Salzburg"
@@ -213,23 +223,26 @@
     "name:pap_x_preferred":[
         "Salzburg"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0644\u0632\u0628\u0631\u06af"
     ],
     "name:pol_x_preferred":[
         "Salzburgu"
     ],
+    "name:pol_x_variant":[
+        "Salzburg"
+    ],
     "name:por_x_preferred":[
         "Salzburgo"
     ],
+    "name:que_x_preferred":[
+        "Salzburg suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Salzburg"
+    ],
     "name:rue_x_preferred":[
         "\u0417\u0430\u043b\u0446\u0431\u0443\u0440\u0491"
-    ],
-    "name:rum_x_preferred":[
-        "Salzburg"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
@@ -243,7 +256,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0dbd\u0dca\u0dc3\u0dca\u0db6\u0dbb\u0dca\u0d9c\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Salzbursko"
     ],
     "name:slv_x_preferred":[
@@ -293,6 +306,12 @@
     ],
     "name:war_x_preferred":[
         "Salzburg"
+    ],
+    "name:yue_x_preferred":[
+        "\u85a9\u723e\u65af\u5821\u90a6"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u8328\u5821\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AUT",
@@ -362,14 +381,13 @@
     "qs:level":"adm1",
     "qs:source":"EuroGlobalMap",
     "qs:type":"Bundesland",
-    "sfomuseum:placetype":"region",
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"7,154",
     "statoids:area_mi":"2,762",
     "statoids:as_of_date":"2011-10-31",
@@ -390,6 +408,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":11574,
         "fips:code":"AU05",
         "gn:id":2766823,
         "gp:id":2344712,
@@ -399,6 +418,9 @@
         "wd:id":"Q43325"
     },
     "wof:country":"AT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72b1e7b2121d2cfeda3c5db559a441bc",
     "wof:hierarchy":[
         {
@@ -417,11 +439,10 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1606163102,
+    "wof:lastmodified":1583882647,
     "wof:name":"Salzburg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":533247,
     "wof:population_rank":11,

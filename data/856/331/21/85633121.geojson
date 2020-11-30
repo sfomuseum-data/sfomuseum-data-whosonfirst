@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.194179,
-    "geom:area_square_m":42871726858.755394,
+    "geom:area_square_m":42871726858.756271,
     "geom:bbox":"8.07251,54.559086,15.156972,57.752564",
     "geom:latitude":55.959181,
     "geom:longitude":10.05309,
@@ -14,14 +14,22 @@
     "itu:country_code":[
         "45"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DK"
+    ],
     "lbl:latitude":55.966966,
     "lbl:longitude":9.018163,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":55.966966,
     "mps:longitude":9.018163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Denmark"
     ],
@@ -55,6 +63,9 @@
     "name:arg_x_preferred":[
         "Dinamarca"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u0627\u0646\u0645\u0627\u0631\u0643"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0646\u0645\u0627\u0631\u0643"
     ],
@@ -63,6 +74,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0414\u0430\u043d\u0438\u044f"
+    ],
+    "name:aym_x_preferred":[
+        "Dinamarka"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
     ],
     "name:aze_x_preferred":[
         "Danimarka"
@@ -76,6 +93,9 @@
     "name:bam_x_preferred":[
         "Danemarki"
     ],
+    "name:ban_x_preferred":[
+        "Denmark"
+    ],
     "name:bar_x_preferred":[
         "D\u00e4nemark"
     ],
@@ -85,14 +105,17 @@
     "name:bel_x_preferred":[
         "\u0414\u0430\u043d\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u0414\u0430\u043d\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09ae\u09be\u09b0\u09cd\u0995"
     ],
     "name:ben_x_variant":[
         "\u09a1\u09c7\u09a8\u09cd\u09ae\u09be\u09b0\u09cd\u0995"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0688\u06cc\u0646\u0645\u0627\u0631\u06a9"
+    ],
+    "name:bho_x_preferred":[
+        "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915"
     ],
     "name:bis_x_preferred":[
         "Denmark"
@@ -124,17 +147,29 @@
     "name:cdo_x_preferred":[
         "D\u0103ng-m\u0103k"
     ],
+    "name:cdo_x_variant":[
+        "D\u0103ng-m\u0103h"
+    ],
     "name:ceb_x_preferred":[
         "Dinamarka"
     ],
+    "name:ceb_x_variant":[
+        "Denmark"
+    ],
     "name:ces_x_preferred":[
         "D\u00e1nsko"
+    ],
+    "name:cha_x_preferred":[
+        "Denamarka"
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u043d\u0438"
     ],
     "name:chr_x_preferred":[
         "\u13d7\u13c2\u13b9\u13a6"
+    ],
+    "name:chr_x_variant":[
+        "\u13d5\u13c2\u13b9\u13a9"
     ],
     "name:chu_x_preferred":[
         "\u0414\u0430\u043d\u0457\ua657"
@@ -163,14 +198,17 @@
     "name:cze_x_colloquial":[
         "Dansko"
     ],
-    "name:cze_x_preferred":[
-        "D\u00e1nsko"
-    ],
     "name:dan_x_preferred":[
         "Danmark"
     ],
     "name:dan_x_variant":[
         "Kongeriget Danmark"
+    ],
+    "name:deu_at_x_preferred":[
+        "D\u00e4nemark"
+    ],
+    "name:deu_ch_x_preferred":[
+        "D\u00e4nemark"
     ],
     "name:deu_x_colloquial":[
         "Daenemark",
@@ -192,6 +230,9 @@
     "name:dsb_x_preferred":[
         "Da\u0144ska"
     ],
+    "name:dty_x_preferred":[
+        "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915"
+    ],
     "name:dzo_x_preferred":[
         "\u0f4c\u0f7a\u0f53\u0f0b\u0f58\u0f71\u0f40\u0f0b"
     ],
@@ -200,6 +241,15 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b1\u03bd\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Danim\u00e0rca"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Denmark"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Denmark"
     ],
     "name:eng_x_preferred":[
         "Denmark"
@@ -294,17 +344,29 @@
     "name:gom_x_preferred":[
         "\u0921\u0947\u0928\u094d\u092e\u093e\u0930\u094d\u0915"
     ],
+    "name:gom_x_variant":[
+        "\u0ca1\u0cc6\u0ca8\u0ccd\u0cae\u0cbe\u0cb0\u0ccd\u0c95\u0ccd"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf33\ud800\udf30\ud800\udf3d\ud800\udf39\ud800\udf3c\ud800\udf30\ud800\udf42\ud800\udf3a\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Ndinamayka"
     ],
+    "name:gsw_x_preferred":[
+        "D\u00e4nemark"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0aae\u0abe\u0ab0\u0acd\u0a95"
     ],
+    "name:guj_x_variant":[
+        "\u0aa1\u0ac7\u0aa8\u0acd\u0aae\u0abe\u0ab0\u0acd\u0a95"
+    ],
     "name:hak_x_preferred":[
         "Tan-ma\u030dk"
+    ],
+    "name:hak_x_variant":[
+        "T\u00e2n-ma\u030dk"
     ],
     "name:hat_x_preferred":[
         "Danmak"
@@ -342,6 +404,9 @@
     "name:hye_x_preferred":[
         "\u0534\u0561\u0576\u056b\u0561"
     ],
+    "name:ibo_x_preferred":[
+        "Denmark"
+    ],
     "name:ido_x_preferred":[
         "Dania"
     ],
@@ -369,6 +434,9 @@
     "name:jav_x_preferred":[
         "D\u00e9nmark"
     ],
+    "name:jav_x_variant":[
+        "Denmark"
+    ],
     "name:jbo_x_preferred":[
         "danmark"
     ],
@@ -383,6 +451,9 @@
     ],
     "name:kab_x_preferred":[
         "Danma\u1e5bk"
+    ],
+    "name:kab_x_variant":[
+        "Danmark"
     ],
     "name:kal_x_preferred":[
         "Danmarki"
@@ -405,6 +476,9 @@
     "name:kbd_x_preferred":[
         "\u0414\u0430\u043d\u0438\u044d"
     ],
+    "name:kea_x_preferred":[
+        "Dinamarka"
+    ],
     "name:khm_x_preferred":[
         "\u178a\u17b6\u178e\u17ba\u1798\u17c9\u17b6\u1780"
     ],
@@ -412,7 +486,8 @@
         "Ndenimaki"
     ],
     "name:kik_x_variant":[
-        "Denmaki"
+        "Denmaki",
+        "Denmark"
     ],
     "name:kin_x_preferred":[
         "Danimarike"
@@ -462,6 +537,12 @@
     "name:lbe_x_preferred":[
         "\u0414\u0430\u043d\u0438\u044f"
     ],
+    "name:lez_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Danmarc"
+    ],
     "name:lij_x_preferred":[
         "Danemarca"
     ],
@@ -476,6 +557,9 @@
     ],
     "name:lit_x_preferred":[
         "Danija"
+    ],
+    "name:liv_x_preferred":[
+        "D\u0113\u0146m\u014d"
     ],
     "name:lmo_x_preferred":[
         "Danimarca"
@@ -497,6 +581,12 @@
     ],
     "name:lug_x_variant":[
         "Denmarki"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e39\u9ea5"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915"
     ],
     "name:mal_x_preferred":[
         "\u0d21\u0d46\u0d28\u0d4d\u0d2e\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d"
@@ -522,6 +612,9 @@
     "name:mlt_x_preferred":[
         "Danimarka"
     ],
+    "name:mnw_x_preferred":[
+        "\u1012\u102d\u1014\u103a\u1019\u1000\u103a"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u043d\u0438"
     ],
@@ -542,6 +635,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
+    ],
+    "name:nah_x_preferred":[
+        "Dinamarca"
+    ],
+    "name:nan_x_preferred":[
+        "Tan-be\u030dh"
     ],
     "name:nap_x_preferred":[
         "Danemarca"
@@ -597,6 +696,9 @@
     "name:oci_x_preferred":[
         "Danemarc"
     ],
+    "name:olo_x_preferred":[
+        "Danii"
+    ],
     "name:ori_x_preferred":[
         "\u0b21\u0b47\u0b28\u0b2e\u0b3e\u0b30\u0b4d\u0b15"
     ],
@@ -642,6 +744,9 @@
     "name:pol_x_preferred":[
         "Dania"
     ],
+    "name:por_br_x_preferred":[
+        "Dinamarca"
+    ],
     "name:por_x_preferred":[
         "Dinamarca"
     ],
@@ -669,14 +774,15 @@
     "name:rue_x_preferred":[
         "\u0414\u0430\u043d\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Danemarca"
-    ],
     "name:run_x_preferred":[
         "Danemark"
     ],
     "name:run_x_variant":[
-        "Danimariki"
+        "Danimariki",
+        "Danemarke"
+    ],
+    "name:rup_x_preferred":[
+        "Danimarca"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043d\u0438\u044f"
@@ -696,14 +802,23 @@
     "name:sco_x_preferred":[
         "Denmark"
     ],
+    "name:sgs_x_preferred":[
+        "Dan\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba"
+    ],
+    "name:sje_x_preferred":[
+        "Danmarrka"
     ],
     "name:slk_x_preferred":[
         "D\u00e1nsko"
     ],
     "name:slv_x_preferred":[
         "Danska"
+    ],
+    "name:sma_x_preferred":[
+        "Danmaarke"
     ],
     "name:sme_x_preferred":[
         "D\u00e1nm\u00e1rku"
@@ -713,6 +828,9 @@
     ],
     "name:sna_x_preferred":[
         "Denmark"
+    ],
+    "name:snd_x_preferred":[
+        "\u068a\u064a\u0646\u0645\u0627\u0631\u06aa"
     ],
     "name:som_x_preferred":[
         "Denmark"
@@ -734,6 +852,12 @@
     ],
     "name:srn_x_preferred":[
         "Danskmakondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0414\u0430\u043d\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Danska"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0430\u043d\u0441\u043a\u0430"
@@ -758,6 +882,9 @@
     ],
     "name:szl_x_preferred":[
         "Da\u0144ijo"
+    ],
+    "name:szy_x_preferred":[
+        "Denmark"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
@@ -795,6 +922,9 @@
     "name:tpi_x_preferred":[
         "Denmak"
     ],
+    "name:tso_x_preferred":[
+        "Denmark"
+    ],
     "name:tuk_x_preferred":[
         "Dani\u00fda"
     ],
@@ -824,15 +954,9 @@
         "Danmork",
         "Dhania"
     ],
-    "name:und_x_preferred":[
-        "Danija",
-        "Danm\u00f6rk",
-        "Danska",
+    "name:und_x_variant":[
         "Dhan\u00eda",
         "Kraljevina Danska"
-    ],
-    "name:unk_x_variant":[
-        "Danemark"
     ],
     "name:urd_x_preferred":[
         "\u0688\u0646\u0645\u0627\u0631\u06a9"
@@ -854,6 +978,9 @@
     ],
     "name:vol_x_preferred":[
         "Dan\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Taani"
     ],
     "name:war_x_preferred":[
         "Dinamarka"
@@ -879,8 +1006,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de D\u1eb9\u0301m\u00e1k\u00ec"
     ],
+    "name:yue_x_preferred":[
+        "\u4e39\u9ea5"
+    ],
     "name:zea_x_preferred":[
         "Denemarken"
+    ],
+    "name:zha_x_preferred":[
+        "Danhmai"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tan-kok"
@@ -889,8 +1022,7 @@
         "\u4e39\u9ea6"
     ],
     "name:zho_x_variant":[
-        "\u4e39\u9ea5",
-        "\u4e39\u9ea6"
+        "\u4e39\u9ea5"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e39\u9ea5"
@@ -974,15 +1106,13 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
         "naturalearth"
     ],
     "src:geom_via":"dk-geodk",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"45",
     "statoids:ds":"DK",
@@ -1012,6 +1142,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Denmark",
+        "digitalenvoy:country_code":208,
         "fb:id":"en.denmark",
         "fifa:id":"DEN",
         "fips:code":"DA",
@@ -1027,13 +1158,18 @@
         "mzb:id":"denmark",
         "ne:adm0_a3":"DNK",
         "nyt:id":"61300278787894872961",
-        "qs:id":356181,
+        "qs_pg:id":356181,
         "uncrt:id":"DK",
         "wd:id":"Q35",
         "wmo:id":"DN"
     },
     "wof:country":"DK",
     "wof:country_alpha3":"DNK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"b912299e5845dd14f3396b793eafd2ad",
     "wof:hierarchy":[
         {
@@ -1043,9 +1179,6 @@
         }
     ],
     "wof:id":85633121,
-    "wof:lang":[
-        "dan"
-    ],
     "wof:lang_x_official":[
         "dan"
     ],
@@ -1054,7 +1187,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1606163242,
+    "wof:lastmodified":1587428775,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

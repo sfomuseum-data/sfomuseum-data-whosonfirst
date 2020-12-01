@@ -2,10 +2,12 @@
   "id": 102535643,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1942-01-01",
+    "date:inception_upper":"1942-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1942",
     "geom:area":0.00089,
-    "geom:area_square_m":8578238.882291,
+    "geom:area_square_m":8578238.882292,
     "geom:bbox":"-9.147191,38.760124,-9.089711,38.800018",
     "geom:latitude":38.780787,
     "geom:longitude":-9.123625,
@@ -149,8 +151,10 @@
     "name:zho_x_preferred":[
         "\u91cc\u65af\u672c\u673a\u573a"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
+    "sfomuseum:airport_id":284,
+    "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:name":"Humberto Delgado Airport",
     "sfomuseum:placetype":"airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":102535643,
-    "wof:lastmodified":1606756265,
+    "wof:lastmodified":1606852492,
     "wof:name":"Lisbon Portela Airport",
     "wof:parent_id":85799047,
     "wof:placetype":"campus",

@@ -14,13 +14,15 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airport",
     "src:geom":"wikidata",
     "wof:belongsto":[
+        85669797,
         102191569,
         85632695,
-        890516977,
         136253041,
-        85669797
+        890516977
     ],
     "wof:breaches":[],
     "wof:concordance":{
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":1729567093,
-    "wof:lastmodified":1607099719,
+    "wof:lastmodified":1611601201,
     "wof:name":"Beijing Daxing International Airport",
     "wof:parent_id":890516977,
     "wof:placetype":"campus",

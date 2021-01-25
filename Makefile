@@ -1,14 +1,15 @@
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
+CWD := $(shell pwd)
 
 refresh:
 	@make refresh-whosonfirst
 	@make refresh-sfomuseum
 
 fetch:
-	utils/$(OS)/fetch -retries 3 -belongs-to region -belongs-to country -writer-uri fs://./data $(ID)
+	utils/$(OS)/fetch -retries 3 -belongs-to region -belongs-to country -writer-uri fs://$(CWD)/data $(ID)
 
 refresh-whosonfirst:
-	utils/$(OS)/refresh -retries 3 -belongs-to region -belongs-to country -writer-uri fs://./data -indexer-uri repo:// .
+	utils/$(OS)/refresh -retries 3 -belongs-to region -belongs-to country -writer-uri fs://$(CWD)/data -indexer-uri repo:// .
 
 refresh-sfomuseum:
 	@make ensure-sfomuseum

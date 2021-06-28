@@ -2,148 +2,149 @@
   "id": 102531977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000515,
-    "geom:area_square_m":4961884.838531,
-    "geom:bbox":"-76.890045,38.796173,-76.851105,38.820686",
-    "geom:latitude":38.80817,
-    "geom:longitude":-76.872282,
-    "gn:elevation":80,
-    "gn:population":2973,
-    "iso:country":"US",
-    "lbl:latitude":38.808386,
-    "lbl:longitude":-76.872282,
-    "mps:latitude":38.808386,
-    "mps:longitude":-76.872282,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Joint Base Andrews"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0005149556109999874,
+    "geom:area_square_m": 4961884.838531,
+    "geom:bbox": "-76.890045,38.796173,-76.851105,38.820686",
+    "geom:latitude": 38.80816991081739,
+    "geom:longitude": -76.87228185041263,
+    "gn:elevation": 80,
+    "gn:population": 2973,
+    "iso:country": "US",
+    "lbl:latitude": 38.808386,
+    "lbl:longitude": -76.872282,
+    "mps:latitude": 38.808386,
+    "mps:longitude": -76.872282,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Joint Base Andrews"
     ],
-    "name:ces_x_preferred":[
-        "Andrewsova spojen\u00e1 z\u00e1kladna"
+    "name:ces_x_preferred": [
+      "Andrewsova spojená základna"
     ],
-    "name:dan_x_preferred":[
-        "Joint Base Andrews"
+    "name:dan_x_preferred": [
+      "Joint Base Andrews"
     ],
-    "name:deu_x_preferred":[
-        "Joint Base Andrews Naval Air Facility"
+    "name:deu_x_preferred": [
+      "Joint Base Andrews Naval Air Facility"
     ],
-    "name:eng_x_preferred":[
-        "Andrews Air Force Base"
+    "name:eng_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:eng_x_variant":[
-        "ADW",
-        "KADW",
-        "Andrews Field"
+    "name:eng_x_variant": [
+      "ADW",
+      "KADW",
+      "Andrews Field"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0634\u06a9\u0627\u0631\u06cc \u0627\u0646\u062f\u0631\u0648\u0632"
+    "name:fas_x_preferred": [
+      "پایگاه شکاری اندروز"
     ],
-    "name:fra_x_preferred":[
-        "Andrews Air Force Base"
+    "name:fra_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:hun_x_preferred":[
-        "Andrews l\u00e9git\u00e1maszpont"
+    "name:hun_x_preferred": [
+      "Andrews légitámaszpont"
     ],
-    "name:ita_x_preferred":[
-        "Andrews Air Force Base"
+    "name:ita_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:kor_x_preferred":[
-        "\uc564\ub4dc\ub8e8\uc2a4 \uacf5\uad70 \uae30\uc9c0"
+    "name:kor_x_preferred": [
+      "앤드루스 공군 기지"
     ],
-    "name:nan_x_preferred":[
-        "Andrews AFB"
+    "name:nan_x_preferred": [
+      "Andrews AFB"
     ],
-    "name:nld_x_preferred":[
-        "Andrews Air Force Base"
+    "name:nld_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:nob_x_preferred":[
-        "Andrews Air Force Base"
+    "name:nob_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:por_x_preferred":[
-        "Andrews Air Force Base"
+    "name:por_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:srp_x_preferred":[
-        "\u0412\u0430\u0437\u0434\u0443\u0445\u043e\u043f\u043b\u043e\u0432\u043d\u0430 \u0431\u0430\u0437\u0430 \u0415\u043d\u0434\u0440\u0443\u0437"
+    "name:srp_x_preferred": [
+      "Ваздухопловна база Ендруз"
     ],
-    "name:swe_x_preferred":[
-        "Andrews Air Force Base"
+    "name:swe_x_preferred": [
+      "Andrews Air Force Base"
     ],
-    "name:tgk_x_preferred":[
-        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u0448\u0438\u043a\u043e\u0440 \u043e\u043d\u0434\u0440\u0443\u0437"
+    "name:tgk_x_preferred": [
+      "Пойгоҳи шикор ондруз"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0648\u0627\u0626\u0646\u0679 \u0628\u06cc\u0633 \u0627\u0627\u06cc\u0646\u0688\u0631\u06cc\u0648\u0632"
+    "name:urd_x_preferred": [
+      "جوائنٹ بیس ااینڈریوز"
     ],
-    "oa:elevation_ft":"280",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12588692,
-        "planet_id":1,
-        "state_id":2347579
+    "oa:elevation_ft": "280",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12588692,
+      "planet_id": 1,
+      "state_id": 2347579
     },
-    "wof:belongsto":[
-        85835291,
-        102191575,
-        85633793,
-        85949917,
-        102082191,
-        85688501
+    "wof:belongsto": [
+      85835291,
+      102191575,
+      85633793,
+      85949917,
+      102082191,
+      85688501
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7257935,
-        "gp:id":12518620,
-        "iata:code":"ADW",
-        "icao:code":"KADW",
-        "oa:id":"3364",
-        "qs_pg:id":1040357,
-        "wd:id":"Q768542",
-        "wk:page":"Joint_Base_Andrews"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7257935,
+      "gp:id": 12518620,
+      "iata:code": "ADW",
+      "icao:code": "KADW",
+      "oa:id": "3364",
+      "qs_pg:id": 1040357,
+      "wd:id": "Q768542",
+      "wk:page": "Joint_Base_Andrews"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b004bca2bc2de6ed2f54229e9b638f87",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531977,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949917,
-            "neighbourhood_id":85835291,
-            "region_id":85688501
-        }
+    "wof:country": "US",
+    "wof:created": 1624906954,
+    "wof:geomhash": "b004bca2bc2de6ed2f54229e9b638f87",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531977,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082191,
+        "locality_id": 85949917,
+        "neighbourhood_id": 85835291,
+        "region_id": 85688501
+      }
     ],
-    "wof:id":102531977,
-    "wof:lastmodified":1611601232,
-    "wof:name":"Andrews Air Force Base",
-    "wof:parent_id":85835291,
-    "wof:placetype":"campus",
-    "wof:population":2973,
-    "wof:population_rank":4,
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102531977,
+    "wof:lastmodified": 1624906954,
+    "wof:name": "Andrews Air Force Base",
+    "wof:parent_id": 85835291,
+    "wof:placetype": "campus",
+    "wof:population": 2973,
+    "wof:population_rank": 4,
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -76.890045,
     38.796173,
     -76.851105,
     38.820686
-],
-  "geometry": {"coordinates":[[[[-76.85174600000001,38.807297],[-76.851601,38.807316],[-76.85133399999999,38.807354],[-76.851105,38.807312],[-76.85142500000001,38.807308],[-76.85174600000001,38.807297]]],[[[-76.85174600000001,38.807297],[-76.85983299999999,38.80547],[-76.85876500000001,38.797577],[-76.867386,38.798916],[-76.87020099999999,38.800987],[-76.878372,38.79771],[-76.887733,38.796173],[-76.879784,38.801689],[-76.883759,38.807377],[-76.890045,38.80072],[-76.889,38.808498],[-76.88781,38.814873],[-76.883568,38.813194],[-76.878845,38.816814],[-76.87855500000001,38.817448],[-76.87796,38.819096],[-76.87693,38.819557],[-76.87537399999999,38.819447],[-76.86983499999999,38.820686],[-76.86782100000001,38.814835],[-76.85966500000001,38.817307],[-76.859619,38.81321],[-76.85947400000001,38.81134],[-76.85174600000001,38.807297]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-76.851746,38.807297],[-76.851601,38.807316],[-76.851334,38.807354],[-76.851105,38.807312],[-76.851425,38.807308],[-76.851746,38.807297]]],[[[-76.851746,38.807297],[-76.859833,38.80547],[-76.858765,38.797577],[-76.867386,38.798916],[-76.870201,38.800987],[-76.878372,38.79771],[-76.887733,38.796173],[-76.879784,38.801689],[-76.883759,38.807377],[-76.890045,38.80072],[-76.889,38.808498],[-76.88781,38.814873],[-76.883568,38.813194],[-76.878845,38.816814],[-76.878555,38.817448],[-76.87796,38.819096],[-76.87693,38.819557],[-76.875374,38.819447],[-76.869835,38.820686],[-76.867821,38.814835],[-76.859665,38.817307],[-76.859619,38.81321],[-76.859474,38.81134],[-76.851746,38.807297]]]],"type":"MultiPolygon"}
 }

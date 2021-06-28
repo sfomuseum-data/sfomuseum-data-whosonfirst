@@ -2,312 +2,313 @@
   "id": 85686007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.015305,
-    "geom:area_square_m":103385624.882919,
-    "geom:bbox":"23.834197,56.830654,24.082074,56.939074",
-    "geom:latitude":56.8866,
-    "geom:longitude":23.958755,
-    "iso:country":"LV",
-    "label:eng_x_preferred_longname":[
-        "Marupes Amalgamated Municipality"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.015304619808499868,
+    "geom:area_square_m": 103385624.882919,
+    "geom:bbox": "23.834197,56.830654,24.082074,56.939074",
+    "geom:latitude": 56.886600405300904,
+    "geom:longitude": 23.958755454555742,
+    "iso:country": "LV",
+    "label:eng_x_preferred_longname": [
+      "Marupes Amalgamated Municipality"
     ],
-    "label:eng_x_preferred_placetype":[
-        "amalgamated municipality"
+    "label:eng_x_preferred_placetype": [
+      "amalgamated municipality"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "MR"
+    "label:eng_x_preferred_shortcode": [
+      "MR"
     ],
-    "lbl:latitude":56.89376,
-    "lbl:longitude":23.956901,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":56.89376,
-    "mps:longitude":23.956901,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":10.0,
-    "name:ara_x_preferred":[
-        "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u0631\u0648\u0628"
+    "lbl:latitude": 56.89376,
+    "lbl:longitude": 23.956901,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 56.89376,
+    "mps:longitude": 23.956901,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 10,
+    "name:ara_x_preferred": [
+      "بلدية ماروب"
     ],
-    "name:bel_x_preferred":[
-        "\u041c\u0430\u0440\u0443\u043f\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    "name:bel_x_preferred": [
+      "Марупскі край"
     ],
-    "name:ben_x_preferred":[
-        "\u09ae\u09be\u09b0\u09c1\u09aa \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    "name:ben_x_preferred": [
+      "মারুপ পৌরসভা"
     ],
-    "name:cat_x_preferred":[
-        "Municipi de M\u0101rupe"
+    "name:cat_x_preferred": [
+      "Municipi de Mārupe"
     ],
-    "name:ceb_x_preferred":[
-        "M\u0101rupes Novads"
+    "name:ceb_x_preferred": [
+      "Mārupes Novads"
     ],
-    "name:dan_x_preferred":[
-        "M\u0101rupe municipality"
+    "name:dan_x_preferred": [
+      "Mārupe municipality"
     ],
-    "name:deu_x_preferred":[
-        "Bezirk M\u0101rupe"
+    "name:deu_x_preferred": [
+      "Bezirk Mārupe"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03ac\u03c1\u03bf\u03c5\u03c0\u03b5"
+    "name:ell_x_preferred": [
+      "Μάρουπε"
     ],
-    "name:eng_x_preferred":[
-        "Marupes"
+    "name:eng_x_preferred": [
+      "Marupes"
     ],
-    "name:eng_x_variant":[
-        "M\u0101rupe",
-        "Marupe",
-        "M\u0101rupe municipality",
-        "M\u0101rupe Municipality"
+    "name:eng_x_variant": [
+      "Mārupe",
+      "Marupe",
+      "Mārupe municipality",
+      "Mārupe Municipality"
     ],
-    "name:est_x_preferred":[
-        "M\u0101rupe piirkond"
+    "name:est_x_preferred": [
+      "Mārupe piirkond"
     ],
-    "name:eus_x_preferred":[
-        "M\u0101rupe udalerria"
+    "name:eus_x_preferred": [
+      "Mārupe udalerria"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0645\u0627\u0631\u0648\u067e\u0647"
+    "name:fas_x_preferred": [
+      "شهرداری ماروپه"
     ],
-    "name:fin_x_preferred":[
-        "M\u0101rupen kunta"
+    "name:fin_x_preferred": [
+      "Mārupen kunta"
     ],
-    "name:fra_x_preferred":[
-        "M\u0101rupe"
+    "name:fra_x_preferred": [
+      "Mārupe"
     ],
-    "name:fra_x_variant":[
-        "M\u0101rupes novads"
+    "name:fra_x_variant": [
+      "Mārupes novads"
     ],
-    "name:guj_x_preferred":[
-        "\u0aae\u0ab0\u0ac2\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    "name:guj_x_preferred": [
+      "મરૂપ મ્યુનિસિપાલિટી"
     ],
-    "name:hin_x_preferred":[
-        "\u092e\u0930\u0942\u092a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    "name:hin_x_preferred": [
+      "मरूप नगरपालिका"
     ],
-    "name:hye_x_preferred":[
-        "\u0544\u0561\u0580\u0578\u0582\u057a\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
+    "name:hye_x_preferred": [
+      "Մարուպեի շրջան"
     ],
-    "name:ind_x_preferred":[
-        "Kotamadya M\u0101rupe"
+    "name:ind_x_preferred": [
+      "Kotamadya Mārupe"
     ],
-    "name:ita_x_preferred":[
-        "M\u0101rupe"
+    "name:ita_x_preferred": [
+      "Mārupe"
     ],
-    "name:jpn_x_preferred":[
-        "\u30de\u30fc\u30eb\u30da"
+    "name:jpn_x_preferred": [
+      "マールペ"
     ],
-    "name:kan_x_preferred":[
-        "\u0cae\u0cbe\u0cb0\u0caa\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    "name:kan_x_preferred": [
+      "ಮಾರಪ್ ಪುರಸಭೆ"
     ],
-    "name:kat_x_preferred":[
-        "\u10db\u10d0\u10e0\u10e3\u10de\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    "name:kat_x_preferred": [
+      "მარუპეს მხარე"
     ],
-    "name:kor_x_preferred":[
-        "\ub9c8\ub8e8\ud398 \uc2dc"
+    "name:kor_x_preferred": [
+      "마루페 시"
     ],
-    "name:lav_x_preferred":[
-        "M\u0101rupes novads"
+    "name:lav_x_preferred": [
+      "Mārupes novads"
     ],
-    "name:lav_x_variant":[
-        "M\u0101rupes Novads"
+    "name:lav_x_variant": [
+      "Mārupes Novads"
     ],
-    "name:lit_x_preferred":[
-        "Marup\u0117s savivaldyb\u0117"
+    "name:lit_x_preferred": [
+      "Marupės savivaldybė"
     ],
-    "name:mar_x_preferred":[
-        "\u092e\u093e\u092a\u0942 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    "name:mar_x_preferred": [
+      "मापू म्युन्सिपाल्टी"
     ],
-    "name:mkd_x_preferred":[
-        "\u041c\u0430\u0440\u0443\u043f\u0435"
+    "name:mkd_x_preferred": [
+      "Марупе"
     ],
-    "name:msa_x_preferred":[
-        "Marupe municipality"
+    "name:msa_x_preferred": [
+      "Marupe municipality"
     ],
-    "name:nld_x_preferred":[
-        "M\u0101rupes novads"
+    "name:nld_x_preferred": [
+      "Mārupes novads"
     ],
-    "name:nob_x_preferred":[
-        "Marupe kommune"
+    "name:nob_x_preferred": [
+      "Marupe kommune"
     ],
-    "name:pol_x_preferred":[
-        "Gmina M\u0101rupe"
+    "name:pol_x_preferred": [
+      "Gmina Mārupe"
     ],
-    "name:por_x_preferred":[
-        "Munic\u00edpio de Marupe"
+    "name:por_x_preferred": [
+      "Município de Marupe"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u0430\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    "name:rus_x_preferred": [
+      "Марупский край"
     ],
-    "name:sin_x_preferred":[
-        "\u0db8\u0dcf\u0dbb\u0dd4\u0db4\u0dda \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    "name:sin_x_preferred": [
+      "මාරුපේ නගර සභාව"
     ],
-    "name:slv_x_preferred":[
-        "M\u0101rupe"
+    "name:slv_x_preferred": [
+      "Mārupe"
     ],
-    "name:spa_x_preferred":[
-        "Municipio de M\u0101rupe"
+    "name:spa_x_preferred": [
+      "Municipio de Mārupe"
     ],
-    "name:swe_x_preferred":[
-        "M\u0101rupes novads"
+    "name:swe_x_preferred": [
+      "Mārupes novads"
     ],
-    "name:tam_x_preferred":[
-        "\u0bae\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc7 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    "name:tam_x_preferred": [
+      "மறுப்பே நகராட்சி"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2e\u0c3e\u0c30\u0c41\u0c2a\u0c46 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    "name:tel_x_preferred": [
+      "మారుపె మున్సిపాలిటీ"
     ],
-    "name:tha_x_preferred":[
-        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e32\u0e23\u0e39\u0e40\u0e1b\u0e49"
+    "name:tha_x_preferred": [
+      "เทศบาลเมืองมารูเป้"
     ],
-    "name:tur_x_preferred":[
-        "Mareupe Belediyesi"
+    "name:tur_x_preferred": [
+      "Mareupe Belediyesi"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0430\u0440\u0443\u043f\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    "name:ukr_x_preferred": [
+      "Марупський край"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u0631\u0648\u067e\u06cc \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
+    "name:urd_x_preferred": [
+      "مروپی میونسپلٹی"
     ],
-    "name:vie_x_preferred":[
-        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Marupe"
+    "name:vie_x_preferred": [
+      "Đô thị tự trị Marupe"
     ],
-    "name:zho_x_preferred":[
-        "\u99ac\u9b6f\u76ae\u65af\u81ea\u6cbb\u5e02"
+    "name:zho_x_preferred": [
+      "馬魯皮斯自治市"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"LVA",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"LVA-5771",
-    "ne:adm1_code":"LVA-5771",
-    "ne:admin":"Latvia",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"LV.MR",
-    "ne:code_local":"",
-    "ne:datarank":"8",
-    "ne:diss_me":"5771",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"LG",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Latvia",
-    "ne:gn_a1_code":"LV.95",
-    "ne:gn_id":"7628319",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Marupes Novads",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"LG95",
-    "ne:gns_id":"10974821",
-    "ne:gns_lang":"gle",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Marupes Novads",
-    "ne:gns_region":"",
-    "ne:gu_a3":"LVA",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"LV-",
-    "ne:iso_a2":"LV",
-    "ne:labelrank":"8",
-    "ne:latitude":"56.89130000000",
-    "ne:longitude":"23.94380000000",
-    "ne:mapcolor13":13,
-    "ne:mapcolor9":6,
-    "ne:name":"Marupes",
-    "ne:name_alt":"",
-    "ne:name_len":7,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"R",
-    "ne:provnum_ne":"16",
-    "ne:region":"Riga",
-    "ne:region_cod":"R",
-    "ne:region_sub":"Pier\u012bga",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"8",
-    "ne:sov_a3":"LVA",
-    "ne:sub_code":"",
-    "ne:type":"Novads",
-    "ne:type_en":"Municipality",
-    "ne:wikipedia":"",
-    "ne:woe_id":-2346037,
-    "ne:woe_label":"Rigas Rajons, LV, Latvia",
-    "ne:woe_name":"Riga",
-    "qs:a0":"Latvija",
-    "qs:a0_lc":"LV000000",
-    "qs:a1":"Marupes novads",
-    "qs:a1_alt":"Marupes novads",
-    "qs:a1_lc":"LV807600",
-    "qs:adm0":"Latvia",
-    "qs:adm0_a3":"LVA",
-    "qs:level":"adm1",
-    "qs:source":"EuroGlobalMap",
-    "qs:type":"Novads",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-01",
-    "statoids:area_km":"104",
-    "statoids:area_mi":"40",
-    "statoids:as_of_date":"2011-03-01",
-    "statoids:capital":"Marupe",
-    "statoids:country":"LV",
-    "statoids:gec":"LG95",
-    "statoids:hasc":"LV.MR",
-    "statoids:iso":"062",
-    "statoids:name":"Marupe",
-    "statoids:population":"15950",
-    "statoids:timezone":"+2~",
-    "statoids:type":"amalgamated municipality",
-    "wof:belongsto":[
-        102191581,
-        85633279
+    "ne:abbrev": "",
+    "ne:adm0_a3": "LVA",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "LVA-5771",
+    "ne:adm1_code": "LVA-5771",
+    "ne:admin": "Latvia",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "LV.MR",
+    "ne:code_local": "",
+    "ne:datarank": "8",
+    "ne:diss_me": "5771",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "LG",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Latvia",
+    "ne:gn_a1_code": "LV.95",
+    "ne:gn_id": "7628319",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Marupes Novads",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "LG95",
+    "ne:gns_id": "10974821",
+    "ne:gns_lang": "gle",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Marupes Novads",
+    "ne:gns_region": "",
+    "ne:gu_a3": "LVA",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "LV-",
+    "ne:iso_a2": "LV",
+    "ne:labelrank": "8",
+    "ne:latitude": "56.89130000000",
+    "ne:longitude": "23.94380000000",
+    "ne:mapcolor13": 13,
+    "ne:mapcolor9": 6,
+    "ne:name": "Marupes",
+    "ne:name_alt": "",
+    "ne:name_len": 7,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "R",
+    "ne:provnum_ne": "16",
+    "ne:region": "Riga",
+    "ne:region_cod": "R",
+    "ne:region_sub": "Pierīga",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "8",
+    "ne:sov_a3": "LVA",
+    "ne:sub_code": "",
+    "ne:type": "Novads",
+    "ne:type_en": "Municipality",
+    "ne:wikipedia": "",
+    "ne:woe_id": -2346037,
+    "ne:woe_label": "Rigas Rajons, LV, Latvia",
+    "ne:woe_name": "Riga",
+    "qs:a0": "Latvija",
+    "qs:a0_lc": "LV000000",
+    "qs:a1": "Marupes novads",
+    "qs:a1_alt": "Marupes novads",
+    "qs:a1_lc": "LV807600",
+    "qs:adm0": "Latvia",
+    "qs:adm0_a3": "LVA",
+    "qs:level": "adm1",
+    "qs:source": "EuroGlobalMap",
+    "qs:type": "Novads",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2011-03-01",
+    "statoids:area_km": "104",
+    "statoids:area_mi": "40",
+    "statoids:as_of_date": "2011-03-01",
+    "statoids:capital": "Marupe",
+    "statoids:country": "LV",
+    "statoids:gec": "LG95",
+    "statoids:hasc": "LV.MR",
+    "statoids:iso": "062",
+    "statoids:name": "Marupe",
+    "statoids:population": "15950",
+    "statoids:timezone": "+2~",
+    "statoids:type": "amalgamated municipality",
+    "wof:belongsto": [
+      102191581,
+      85633279
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"LG95",
-        "gn:id":7628319,
-        "gp:id":-2346037,
-        "hasc:id":"LV.MR",
-        "iso:id":"LV-062",
-        "wd:id":"Q2232018"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "LG95",
+      "gn:id": 7628319,
+      "gp:id": -2346037,
+      "hasc:id": "LV.MR",
+      "iso:id": "LV-062",
+      "wd:id": "Q2232018"
     },
-    "wof:country":"LV",
-    "wof:geomhash":"15f4af5b4c3363da7039adec65b6099d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633279,
-            "region_id":85686007
-        }
+    "wof:country": "LV",
+    "wof:created": 1624906883,
+    "wof:geomhash": "15f4af5b4c3363da7039adec65b6099d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633279,
+        "region_id": 85686007
+      }
     ],
-    "wof:id":85686007,
-    "wof:lang_x_official":[
-        "lav"
+    "wof:id": 85686007,
+    "wof:lang_x_official": [
+      "lav"
     ],
-    "wof:lang_x_spoken":[
-        "lav"
+    "wof:lang_x_spoken": [
+      "lav"
     ],
-    "wof:lastmodified":1611601131,
-    "wof:name":"Marupes",
-    "wof:parent_id":85633279,
-    "wof:placetype":"region",
-    "wof:placetype_local":"amalgamated municipality",
-    "wof:population":15950,
-    "wof:population_rank":6,
-    "wof:repo":"whosonfirst-data-admin-lv",
-    "wof:shortcode":"MR",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906883,
+    "wof:name": "Marupes",
+    "wof:parent_id": 85633279,
+    "wof:placetype": "region",
+    "wof:placetype_local": "amalgamated municipality",
+    "wof:population": 15950,
+    "wof:population_rank": 6,
+    "wof:repo": "whosonfirst-data-admin-lv",
+    "wof:shortcode": "MR",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     23.834197,
     56.830654,
     24.082074,
     56.939074
-],
+  ],
   "geometry": {"coordinates":[[[23.956202,56.938107],[23.967669,56.933266],[23.970932,56.935782],[23.977819,56.935743],[23.98172,56.933443],[23.982741,56.933655],[23.992624,56.928663],[23.997475,56.927421],[24.006241,56.927982],[24.00913,56.928911],[24.015074,56.929047],[24.029465,56.927034],[24.039721,56.926619],[24.041765,56.917842],[24.044316,56.917518],[24.043487,56.916974],[24.044955,56.915432],[24.045078,56.912758],[24.076949,56.909031],[24.075978,56.906515],[24.082074,56.905184],[24.074292,56.894014],[24.075297,56.890768],[24.07485,56.887842],[24.074054,56.884573],[24.072725,56.881864],[24.071744,56.881628],[24.070716,56.879036],[24.067365,56.878476],[24.066906,56.877817],[24.061955,56.878717],[24.061152,56.877666],[24.057502,56.876806],[24.05175,56.868608],[24.046818,56.85968],[24.044026,56.856971],[24.041585,56.856295],[24.039049,56.856869],[24.037579,56.854832],[24.027788,56.854516],[24.021918,56.855429],[24.020449,56.854847],[24.015944,56.849375],[24.014983,56.848975],[24.008975,56.848938],[23.975513,56.858033],[23.968609,56.856995],[23.960675,56.851482],[23.962618,56.850965],[23.959244,56.848687],[23.944264,56.855207],[23.915235,56.843893],[23.901556,56.846713],[23.90141,56.846053],[23.897711,56.846388],[23.896967,56.843653],[23.889082,56.844245],[23.869207,56.830654],[23.834197,56.886698],[23.853972,56.894926],[23.861784,56.891781],[23.87809,56.903863],[23.882089,56.904199],[23.882682,56.905163],[23.893207,56.904893],[23.896476,56.903794],[23.899672,56.90548],[23.900915,56.906876],[23.904941,56.908093],[23.91479,56.915126],[23.914794,56.921503],[23.915494,56.922136],[23.917993,56.921301],[23.921092,56.921175],[23.92106,56.921462],[23.922913,56.921614],[23.944551,56.936833],[23.945912,56.936816],[23.950471,56.939074],[23.955236,56.937656],[23.956202,56.938107]]],"type":"Polygon"}
 }

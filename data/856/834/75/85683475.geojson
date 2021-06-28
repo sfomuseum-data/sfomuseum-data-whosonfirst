@@ -2,488 +2,489 @@
   "id": 85683475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.029061,
-    "geom:area_square_m":236141708.714287,
-    "geom:bbox":"2.288273,48.807438,2.603149,49.012398",
-    "geom:latitude":48.917618,
-    "geom:longitude":2.478392,
-    "iso:country":"FR",
-    "label:eng_x_preferred_longname":[
-        "Seine-Saint-Denis Department"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.02906107998500007,
+    "geom:area_square_m": 236141708.714287,
+    "geom:bbox": "2.288273,48.807438,2.603149,49.012398",
+    "geom:latitude": 48.917618212443614,
+    "geom:longitude": 2.4783920140031173,
+    "iso:country": "FR",
+    "label:eng_x_preferred_longname": [
+      "Seine-Saint-Denis Department"
     ],
-    "label:eng_x_preferred_placetype":[
-        "department"
+    "label:eng_x_preferred_placetype": [
+      "department"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "SS"
+    "label:eng_x_preferred_shortcode": [
+      "SS"
     ],
-    "label:fra_x_preferred_longname":[
-        "D\u00e9partement de la Seine-Saint-Denis"
+    "label:fra_x_preferred_longname": [
+      "Département de la Seine-Saint-Denis"
     ],
-    "label:fra_x_preferred_placetype":[
-        "d\u00e9partement"
+    "label:fra_x_preferred_placetype": [
+      "département"
     ],
-    "label:fra_x_variant_longname":[
-        "d\u00e9partement de la Seine-Saint-Denis"
+    "label:fra_x_variant_longname": [
+      "département de la Seine-Saint-Denis"
     ],
-    "lbl:latitude":48.916383,
-    "lbl:longitude":2.493932,
-    "mps:latitude":48.916383,
-    "mps:longitude":2.493932,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":9.0,
-    "name:afr_x_preferred":[
-        "Seine-Saint-Denis"
+    "lbl:latitude": 48.916383,
+    "lbl:longitude": 2.493932,
+    "mps:latitude": 48.916383,
+    "mps:longitude": 2.493932,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 9,
+    "name:afr_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ara_x_preferred":[
-        "\u0633\u064a\u0646 \u0633\u0627\u0646 \u062f\u0648\u0646\u064a"
+    "name:ara_x_preferred": [
+      "سين سان دوني"
     ],
-    "name:arg_x_preferred":[
-        "Sena-Sant Den\u00eds"
+    "name:arg_x_preferred": [
+      "Sena-Sant Denís"
     ],
-    "name:ast_x_preferred":[
-        "Sena-Saint Denis"
+    "name:ast_x_preferred": [
+      "Sena-Saint Denis"
     ],
-    "name:aze_x_preferred":[
-        "Sen-Sen-Deni"
+    "name:aze_x_preferred": [
+      "Sen-Sen-Deni"
     ],
-    "name:bel_x_preferred":[
-        "\u0421\u0435\u043d-\u0421\u0435\u043d-\u0414\u044d\u043d\u0456"
+    "name:bel_x_preferred": [
+      "Сен-Сен-Дэні"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u044d\u043d-\u0421\u044d\u043d-\u0414\u044d\u043d\u0456",
-        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0421\u0435\u043d-\u0421\u0435\u043d-\u0414\u044d\u043d\u0456"
+    "name:bel_x_variant": [
+      "Сэн-Сэн-Дэні",
+      "дэпартамент Сен-Сен-Дэні"
     ],
-    "name:ben_x_preferred":[
-        "\u09b8\u09c7\u0987\u09a8-\u09b8\u09c7\u09a8\u09cd\u099f-\u09a1\u09c7\u09a8\u09bf\u09b8"
+    "name:ben_x_preferred": [
+      "সেইন-সেন্ট-ডেনিস"
     ],
-    "name:bre_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:bre_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:bul_x_preferred":[
-        "\u0421\u0435\u043d \u0421\u0435\u043d \u0414\u0435\u043d\u0438"
+    "name:bul_x_preferred": [
+      "Сен Сен Дени"
     ],
-    "name:cat_x_preferred":[
-        "Sena Saint-Denis"
+    "name:cat_x_preferred": [
+      "Sena Saint-Denis"
     ],
-    "name:ceb_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:ceb_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ces_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:ces_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:chv_x_preferred":[
-        "\u0421\u0435\u043d\u0430 \u2014 \u0421\u0435\u043d-\u0414\u0435\u043d\u0438"
+    "name:chv_x_preferred": [
+      "Сена — Сен-Дени"
     ],
-    "name:cym_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:cym_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:dan_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:dan_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:deu_x_preferred":[
-        "D\u00e9partement Seine-Saint-Denis"
+    "name:deu_x_preferred": [
+      "Département Seine-Saint-Denis"
     ],
-    "name:deu_x_variant":[
-        "Seine-Saint-Denis"
+    "name:deu_x_variant": [
+      "Seine-Saint-Denis"
     ],
-    "name:ell_x_preferred":[
-        "\u03a3\u03b5\u03bd-\u03a3\u03b1\u03b9\u03bd-\u039d\u03c4\u03b5\u03bd\u03af"
+    "name:ell_x_preferred": [
+      "Σεν-Σαιν-Ντενί"
     ],
-    "name:eng_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:eng_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:epo_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:epo_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:epo_x_variant":[
-        "Sejno-Sankta-Denizo"
+    "name:epo_x_variant": [
+      "Sejno-Sankta-Denizo"
     ],
-    "name:est_x_preferred":[
-        "Seine-Saint-Denis' departemang"
+    "name:est_x_preferred": [
+      "Seine-Saint-Denis' departemang"
     ],
-    "name:est_x_variant":[
-        "Seine-Saint-Denis"
+    "name:est_x_variant": [
+      "Seine-Saint-Denis"
     ],
-    "name:eus_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:eus_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:fas_x_preferred":[
-        "\u0633\u0646-\u0633\u0646-\u062f\u0646\u06cc"
+    "name:fas_x_preferred": [
+      "سن-سن-دنی"
     ],
-    "name:fas_x_variant":[
-        "\u0633\u0646-\u0633\u0646-\u062f\u0648\u0646\u06cc"
+    "name:fas_x_variant": [
+      "سن-سن-دونی"
     ],
-    "name:fin_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:fin_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:fra_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:fra_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:fra_x_variant":[
-        "D\u00e9partement de Seine-Saint-Denis",
-        "Seine st denis"
+    "name:fra_x_variant": [
+      "Département de Seine-Saint-Denis",
+      "Seine st denis"
     ],
-    "name:frp_x_preferred":[
-        "S\u00eana-Sant-Denis"
+    "name:frp_x_preferred": [
+      "Sêna-Sant-Denis"
     ],
-    "name:gla_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:gla_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:glg_x_preferred":[
-        "Sena-San Denis"
+    "name:glg_x_preferred": [
+      "Sena-San Denis"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab8\u0ac7\u0a87\u0aa8-\u0ab8\u0ac7\u0aa8\u0acd\u0a9f-\u0aa1\u0ac7\u0aa8\u0abf\u0ab8"
+    "name:guj_x_preferred": [
+      "સેઇન-સેન્ટ-ડેનિસ"
     ],
-    "name:hak_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:hak_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:hbs_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:hbs_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:heb_x_preferred":[
-        "\u05e1\u05df-\u05e1\u05df-\u05d3\u05e0\u05d9"
+    "name:heb_x_preferred": [
+      "סן-סן-דני"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u0940\u0928-\u0938\u0947\u0902\u091f-\u0921\u0947\u0928\u093f\u0938"
+    "name:hin_x_preferred": [
+      "सीन-सेंट-डेनिस"
     ],
-    "name:hun_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:hun_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:hye_x_preferred":[
-        "\u054d\u0565\u0576-\u054d\u0565\u0576-\u0534\u0565\u0576\u056b"
+    "name:hye_x_preferred": [
+      "Սեն-Սեն-Դենի"
     ],
-    "name:ina_x_preferred":[
-        "Departimento Seine-Saint-Denis"
+    "name:ina_x_preferred": [
+      "Departimento Seine-Saint-Denis"
     ],
-    "name:ind_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:ind_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ita_x_preferred":[
-        "Senna-Saint-Denis"
+    "name:ita_x_preferred": [
+      "Senna-Saint-Denis"
     ],
-    "name:jpn_x_preferred":[
-        "\u30bb\u30fc\u30cc\uff1d\u30b5\u30f3\uff1d\u30c9\u30cb\u770c"
+    "name:jpn_x_preferred": [
+      "セーヌ＝サン＝ドニ県"
     ],
-    "name:kab_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:kab_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb8\u0cc8\u0ca8\u0ccd-\u0cb8\u0cc7\u0c82\u0c9f\u0ccd-\u0ca1\u0cc6\u0ca8\u0cbf\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಸೈನ್-ಸೇಂಟ್-ಡೆನಿಸ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10d0-\u10e1\u10d4\u10dc-\u10d3\u10d4\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "სენა-სენ-დენი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0421\u0435\u043d\u0430-\u0421\u0435\u043d-\u0414\u0435\u043d\u0438"
+    "name:kaz_x_preferred": [
+      "Сена-Сен-Дени"
     ],
-    "name:kon_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:kon_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:kor_x_preferred":[
-        "\uc13c\uc0dd\ub4dc\ub2c8 \uc8fc"
+    "name:kor_x_preferred": [
+      "센생드니 주"
     ],
-    "name:kor_x_variant":[
-        "\uc13c\uc0dd\ub4dc\ub2c8\uc8fc"
+    "name:kor_x_variant": [
+      "센생드니주"
     ],
-    "name:lad_x_preferred":[
-        "Seine Saint Denis"
+    "name:lad_x_preferred": [
+      "Seine Saint Denis"
     ],
-    "name:lat_x_preferred":[
-        "Sequana et Sanctus Dionysius"
+    "name:lat_x_preferred": [
+      "Sequana et Sanctus Dionysius"
     ],
-    "name:lav_x_preferred":[
-        "S\u0113na-Senden\u012b"
+    "name:lav_x_preferred": [
+      "Sēna-Sendenī"
     ],
-    "name:lim_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:lim_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:lit_x_preferred":[
-        "Sena-Sen Deni"
+    "name:lit_x_preferred": [
+      "Sena-Sen Deni"
     ],
-    "name:lmo_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:lmo_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ltz_x_preferred":[
-        "Departement Seine-Saint-Denis"
+    "name:ltz_x_preferred": [
+      "Departement Seine-Saint-Denis"
     ],
-    "name:mar_x_preferred":[
-        "\u0938\u0940\u0928-\u0938\u0947\u0902\u0924-\u0926\u0947\u0928\u093f\u0938"
+    "name:mar_x_preferred": [
+      "सीन-सेंत-देनिस"
     ],
-    "name:mkd_x_preferred":[
-        "\u0421\u0435\u043d\u0430-\u0421\u0435\u043d \u0414\u0435\u043d\u0438"
+    "name:mkd_x_preferred": [
+      "Сена-Сен Дени"
     ],
-    "name:mlg_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:mlg_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:msa_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:msa_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nan_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nan_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nds_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nds_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nld_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nld_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nno_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nno_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nob_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nob_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:nor_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:nor_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:oci_x_preferred":[
-        "S\u00e8ina Saint Denis"
+    "name:oci_x_preferred": [
+      "Sèina Saint Denis"
     ],
-    "name:pam_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:pam_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:pms_x_preferred":[
-        "Dipartiment \u00ebd Sen-a Saint-Denis"
+    "name:pms_x_preferred": [
+      "Dipartiment ëd Sen-a Saint-Denis"
     ],
-    "name:pnb_x_preferred":[
-        "\u0636\u0644\u0639 \u0633\u06cc\u0646 \u0633\u06cc\u0646\u0679 \u0688\u06cc\u0646\u0633"
+    "name:pnb_x_preferred": [
+      "ضلع سین سینٹ ڈینس"
     ],
-    "name:pol_x_preferred":[
-        "Sekwana-Saint-Denis"
+    "name:pol_x_preferred": [
+      "Sekwana-Saint-Denis"
     ],
-    "name:pol_x_variant":[
-        "Seine-Saint-Denis"
+    "name:pol_x_variant": [
+      "Seine-Saint-Denis"
     ],
-    "name:por_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:por_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ron_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:ron_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u0435\u043d-\u0421\u0435\u043d-\u0414\u0435\u043d\u0438"
+    "name:rus_x_preferred": [
+      "Сен-Сен-Дени"
     ],
-    "name:sco_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:sco_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc3\u0dd9\u0dba\u0dd2\u0db1\u0dda-\u0dc1\u0dcf\u0db1\u0dca\u0dad-\u0da9\u0dd9\u0db1\u0dd2\u0dc3\u0dca"
+    "name:sin_x_preferred": [
+      "සෙයිනේ-ශාන්ත-ඩෙනිස්"
     ],
-    "name:slk_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:slk_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:slv_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:slv_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:sme_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:sme_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:spa_x_preferred":[
-        "Sena-Saint Denis"
+    "name:spa_x_preferred": [
+      "Sena-Saint Denis"
     ],
-    "name:spa_x_variant":[
-        "Sena Saint Denis"
+    "name:spa_x_variant": [
+      "Sena Saint Denis"
     ],
-    "name:sqi_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:sqi_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:srp_x_preferred":[
-        "\u0421\u0435\u043d\u0430-\u0421\u0435\u043d \u0414\u0435\u043d\u0438"
+    "name:srp_x_preferred": [
+      "Сена-Сен Дени"
     ],
-    "name:swa_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:swa_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:swe_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:swe_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:tel_x_preferred":[
-        "\u0c38\u0c40\u0c28\u0c4d-\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d-\u0c21\u0c46\u0c28\u0c3f\u0c38\u0c4d"
+    "name:tel_x_preferred": [
+      "సీన్-సెయింట్-డెనిస్"
     ],
-    "name:tgk_x_preferred":[
-        "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0438 \u0421\u0435\u043d\u0430 \u2014 \u0421\u0435\u043d \u0414\u0435\u043d\u0438"
+    "name:tgk_x_preferred": [
+      "Департаменти Сена — Сен Дени"
     ],
-    "name:tha_x_preferred":[
-        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e0b\u0e19-\u0e41\u0e0b\u0e47\u0e07-\u0e40\u0e14\u0e2d\u0e19\u0e35"
+    "name:tha_x_preferred": [
+      "จังหวัดแซน-แซ็ง-เดอนี"
     ],
-    "name:tur_x_preferred":[
-        "Seine-Saint-Denis"
+    "name:tur_x_preferred": [
+      "Seine-Saint-Denis"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0435\u043d\u0430-\u0421\u0435\u043d-\u0414\u0435\u043d\u0456"
+    "name:ukr_x_preferred": [
+      "Сена-Сен-Дені"
     ],
-    "name:unk_x_variant":[
-        "D\u00e9partement de Seine-Saint-Denis"
+    "name:unk_x_variant": [
+      "Département de Seine-Saint-Denis"
     ],
-    "name:urd_x_preferred":[
-        "\u0633\u06cc\u0646-\u0633\u0627\u0646-\u062f\u0648\u0646\u06cc"
+    "name:urd_x_preferred": [
+      "سین-سان-دونی"
     ],
-    "name:urd_x_variant":[
-        "\u0633\u06cc\u0646-\u0633\u06cc\u0646\u0679-\u062f\u0648\u0646\u06cc"
+    "name:urd_x_variant": [
+      "سین-سینٹ-دونی"
     ],
-    "name:vec_x_preferred":[
-        "Seine-Saint-Denis"
-    ],
-    "name:vie_x_preferred":[
-        "Seine-Saint-Denis"
-    ],
-    "name:war_x_preferred":[
-        "Seine-Saint-Denis"
-    ],
-    "name:yue_x_preferred":[
-        "\u585e\u7d0d\uff0d\u8056\u4f46\u5c3c"
-    ],
-    "name:zho_min_nan_x_preferred":[
-        "Seine-Saint-Denis"
-    ],
-    "name:zho_x_preferred":[
-        "\u585e\u7eb3-\u5723\u4f46\u5c3c\u7701"
-    ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"FRA",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"FRA-5344",
-    "ne:adm1_code":"FRA-5344",
-    "ne:admin":"France",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"FR.SS",
-    "ne:code_local":"",
-    "ne:datarank":"3",
-    "ne:diss_me":"5344",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"FRA8",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"France",
-    "ne:gn_a1_code":"FR.93",
-    "ne:gn_id":"2975246",
-    "ne:gn_level":"2",
-    "ne:gn_name":"Departement de Seine-Saint-Denis",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"-1470225",
-    "ne:gns_lang":"",
-    "ne:gns_level":"2",
-    "ne:gns_name":"Seine-Saint-Denis, Departement de",
-    "ne:gns_region":"FRA8",
-    "ne:gu_a3":"FXX",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"FR-",
-    "ne:iso_a2":"FR",
-    "ne:labelrank":"3",
-    "ne:latitude":"48.92890000000",
-    "ne:longitude":"2.51916000000",
-    "ne:mapcolor13":11,
-    "ne:mapcolor9":9,
-    "ne:name":"Seine-Saint-Denis",
-    "ne:name_alt":"",
-    "ne:name_len":17,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"",
-    "ne:provnum_ne":"10",
-    "ne:region":"\u00cele-de-France",
-    "ne:region_cod":"FR-J",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"5",
-    "ne:sov_a3":"FR1",
-    "ne:sub_code":"",
-    "ne:type":"Metropolitan d\u00e9partement",
-    "ne:type_en":"Metropolitan department",
-    "ne:wikipedia":"",
-    "ne:woe_id":12597156,
-    "ne:woe_label":"",
-    "ne:woe_name":"Seine-Saint-Denis",
-    "qs:a0":"France",
-    "qs:a0_lc":"FR0000000000",
-    "qs:a1":"Seine-Saint-Denis",
-    "qs:a1_alt":"Seine-Saint-Denis",
-    "qs:a1_lc":"FR1193000000",
-    "qs:a1r":"\u00cele-de-France",
-    "qs:a1r_alt":"Ile-de-France",
-    "qs:a1r_lc":"FR1100000000",
-    "qs:adm0":"France",
-    "qs:adm0_a3":"FRA",
-    "qs:level":"adm1",
-    "qs:source":"EuroGlobalMap",
-    "qs:type":"D\u00e9partement",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-01-01",
-    "statoids:area_km":"236",
-    "statoids:as_of_date":"2010-01-01",
-    "statoids:capital":"Bobigny",
-    "statoids:country":"FR",
-    "statoids:hasc":"FR.IF",
-    "statoids:name":"Seine-Saint-Denis",
-    "statoids:population":"1534895",
-    "statoids:statoid":"FR.IF.SS",
-    "statoids:timezone":"+1~",
-    "statoids:type":"department",
-    "unlc:subdivision":"FR-93",
-    "wd:wordcount":587,
-    "wof:belongsto":[
-        102191581,
-        85633147,
-        404227465
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "digitalenvoy:metro_code":250093,
-        "fips:code":"FRA8",
-        "gn:id":2975246,
-        "gp:id":12597156,
-        "hasc:id":"FR.IF.SS",
-        "unlc:id":"FR-93",
-        "wd:id":"Q12761"
+    "name:vec_x_preferred": [
+      "Seine-Saint-Denis"
+    ],
+    "name:vie_x_preferred": [
+      "Seine-Saint-Denis"
+    ],
+    "name:war_x_preferred": [
+      "Seine-Saint-Denis"
+    ],
+    "name:yue_x_preferred": [
+      "塞納－聖但尼"
+    ],
+    "name:zho_min_nan_x_preferred": [
+      "Seine-Saint-Denis"
+    ],
+    "name:zho_x_preferred": [
+      "塞纳-圣但尼省"
+    ],
+    "ne:abbrev": "",
+    "ne:adm0_a3": "FRA",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "FRA-5344",
+    "ne:adm1_code": "FRA-5344",
+    "ne:admin": "France",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "FR.SS",
+    "ne:code_local": "",
+    "ne:datarank": "3",
+    "ne:diss_me": "5344",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "FRA8",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "France",
+    "ne:gn_a1_code": "FR.93",
+    "ne:gn_id": "2975246",
+    "ne:gn_level": "2",
+    "ne:gn_name": "Departement de Seine-Saint-Denis",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "-1470225",
+    "ne:gns_lang": "",
+    "ne:gns_level": "2",
+    "ne:gns_name": "Seine-Saint-Denis, Departement de",
+    "ne:gns_region": "FRA8",
+    "ne:gu_a3": "FXX",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "FR-",
+    "ne:iso_a2": "FR",
+    "ne:labelrank": "3",
+    "ne:latitude": "48.92890000000",
+    "ne:longitude": "2.51916000000",
+    "ne:mapcolor13": 11,
+    "ne:mapcolor9": 9,
+    "ne:name": "Seine-Saint-Denis",
+    "ne:name_alt": "",
+    "ne:name_len": 17,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "",
+    "ne:provnum_ne": "10",
+    "ne:region": "Île-de-France",
+    "ne:region_cod": "FR-J",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "5",
+    "ne:sov_a3": "FR1",
+    "ne:sub_code": "",
+    "ne:type": "Metropolitan département",
+    "ne:type_en": "Metropolitan department",
+    "ne:wikipedia": "",
+    "ne:woe_id": 12597156,
+    "ne:woe_label": "",
+    "ne:woe_name": "Seine-Saint-Denis",
+    "qs:a0": "France",
+    "qs:a0_lc": "FR0000000000",
+    "qs:a1": "Seine-Saint-Denis",
+    "qs:a1_alt": "Seine-Saint-Denis",
+    "qs:a1_lc": "FR1193000000",
+    "qs:a1r": "Île-de-France",
+    "qs:a1r_alt": "Ile-de-France",
+    "qs:a1r_lc": "FR1100000000",
+    "qs:adm0": "France",
+    "qs:adm0_a3": "FRA",
+    "qs:level": "adm1",
+    "qs:source": "EuroGlobalMap",
+    "qs:type": "Département",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl:centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population:date": "2010-01-01",
+    "statoids:area_km": "236",
+    "statoids:as_of_date": "2010-01-01",
+    "statoids:capital": "Bobigny",
+    "statoids:country": "FR",
+    "statoids:hasc": "FR.IF",
+    "statoids:name": "Seine-Saint-Denis",
+    "statoids:population": "1534895",
+    "statoids:statoid": "FR.IF.SS",
+    "statoids:timezone": "+1~",
+    "statoids:type": "department",
+    "unlc:subdivision": "FR-93",
+    "wd:wordcount": 587,
+    "wof:belongsto": [
+      102191581,
+      85633147,
+      404227465
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "digitalenvoy:metro_code": 250093,
+      "fips:code": "FRA8",
+      "gn:id": 2975246,
+      "gp:id": 12597156,
+      "hasc:id": "FR.IF.SS",
+      "unlc:id": "FR-93",
+      "wd:id": "Q12761"
     },
-    "wof:country":"FR",
-    "wof:geomhash":"49c76a7e158cf28cce1ed11109c6f2a7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "macroregion_id":404227465,
-            "region_id":85683475
-        }
+    "wof:country": "FR",
+    "wof:created": 1624906881,
+    "wof:geomhash": "49c76a7e158cf28cce1ed11109c6f2a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "macroregion_id": 404227465,
+        "region_id": 85683475
+      }
     ],
-    "wof:id":85683475,
-    "wof:lang_x_official":[
-        "fra"
+    "wof:id": 85683475,
+    "wof:lang_x_official": [
+      "fra"
     ],
-    "wof:lang_x_spoken":[
-        "fra"
+    "wof:lang_x_spoken": [
+      "fra"
     ],
-    "wof:lastmodified":1611601064,
-    "wof:name":"Seine-Saint-Denis",
-    "wof:parent_id":404227465,
-    "wof:placetype":"region",
-    "wof:placetype_local":"department",
-    "wof:population":1534895,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-fr",
-    "wof:shortcode":"SS",
-    "wof:subdivision":"FR-93",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906881,
+    "wof:name": "Seine-Saint-Denis",
+    "wof:parent_id": 404227465,
+    "wof:placetype": "region",
+    "wof:placetype_local": "department",
+    "wof:population": 1534895,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:shortcode": "SS",
+    "wof:subdivision": "FR-93",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.288273,
     48.807438,
     2.603149,
     49.012398
-],
+  ],
   "geometry": {"coordinates":[[[2.592273,48.807438],[2.590121,48.809028],[2.582739,48.810199],[2.578086,48.812011],[2.574999,48.812683],[2.574076,48.813751],[2.570229,48.81496],[2.568496,48.818279],[2.571966,48.82344],[2.562159,48.826221],[2.561361,48.826675],[2.560337,48.828701],[2.557818,48.82999],[2.55674,48.831207],[2.554966,48.831432],[2.549664,48.834781],[2.54879,48.835026],[2.547194,48.834495],[2.547126,48.835911],[2.544352,48.835071],[2.538433,48.836727],[2.536653,48.838508],[2.540727,48.839424],[2.537466,48.841194],[2.53463,48.84494],[2.53386,48.845134],[2.528834,48.843937],[2.524873,48.848942],[2.518657,48.848407],[2.515653,48.851379],[2.513673,48.850162],[2.513112,48.851528],[2.508777,48.853489],[2.505372,48.857082],[2.503393,48.857151],[2.499719,48.855674],[2.498602,48.856643],[2.496891,48.856033],[2.495079,48.858425],[2.496427,48.859234],[2.496184,48.860569],[2.493649,48.860458],[2.491832,48.859878],[2.490558,48.860698],[2.481539,48.861404],[2.480627,48.860145],[2.467964,48.86055],[2.467067,48.860172],[2.467197,48.856773],[2.453534,48.855354],[2.448168,48.853061],[2.447108,48.85115],[2.443019,48.851784],[2.442155,48.852859],[2.435873,48.853122],[2.435151,48.852981],[2.434198,48.851013],[2.430126,48.850963],[2.4295,48.850517],[2.429343,48.849121],[2.428486,48.848785],[2.416345,48.849239],[2.413727,48.862041],[2.414015,48.869682],[2.412423,48.875889],[2.408958,48.88023],[2.403946,48.881469],[2.400758,48.883339],[2.3989,48.885872],[2.397673,48.894268],[2.39515,48.898124],[2.389441,48.901153],[2.385327,48.901973],[2.32998,48.901165],[2.320773,48.900795],[2.319887,48.900459],[2.320805,48.90459],[2.313753,48.914016],[2.319818,48.915935],[2.322015,48.918674],[2.325911,48.920719],[2.333925,48.927986],[2.336743,48.933311],[2.336949,48.935425],[2.335357,48.94096],[2.331959,48.943638],[2.327223,48.945286],[2.311668,48.947948],[2.301553,48.950207],[2.290969,48.950966],[2.292277,48.951389],[2.288273,48.95832],[2.288458,48.958976],[2.289891,48.961487],[2.298619,48.96635],[2.301364,48.965297],[2.304713,48.962612],[2.308473,48.963314],[2.309288,48.963123],[2.310268,48.961899],[2.313171,48.962219],[2.319343,48.958622],[2.322108,48.957706],[2.325078,48.95808],[2.328335,48.959656],[2.333315,48.955383],[2.337535,48.959415],[2.338387,48.96207],[2.340436,48.963592],[2.343877,48.967972],[2.345877,48.968021],[2.348897,48.9673],[2.353466,48.965622],[2.356459,48.968418],[2.359044,48.972751],[2.359963,48.972603],[2.362132,48.97369],[2.365138,48.973064],[2.36616,48.974224],[2.369915,48.973072],[2.384524,48.970989],[2.385149,48.969696],[2.388443,48.966953],[2.398362,48.959724],[2.407389,48.956127],[2.408439,48.95726],[2.409398,48.957077],[2.410506,48.957954],[2.413605,48.957912],[2.417236,48.959293],[2.418843,48.957752],[2.426971,48.959236],[2.431743,48.957771],[2.43558,48.955394],[2.443649,48.956623],[2.44576,48.956581],[2.450134,48.95499],[2.456009,48.955772],[2.459488,48.955051],[2.460886,48.958477],[2.463232,48.959945],[2.467172,48.964195],[2.469727,48.963276],[2.474389,48.967197],[2.475161,48.967544],[2.477979,48.967045],[2.481223,48.969639],[2.486676,48.967479],[2.489776,48.970218],[2.488476,48.971264],[2.492693,48.974491],[2.496005,48.972717],[2.49754,48.973633],[2.497601,48.974178],[2.496414,48.975021],[2.500521,48.975281],[2.501839,48.976772],[2.500521,48.977657],[2.501877,48.978534],[2.503602,48.979412],[2.50553,48.979183],[2.506866,48.980308],[2.50894,48.980354],[2.509584,48.979938],[2.513907,48.981937],[2.514472,48.982471],[2.512839,48.985866],[2.517009,48.986294],[2.517169,48.987633],[2.518918,48.988144],[2.518832,48.990303],[2.521089,48.991985],[2.523044,48.992325],[2.524602,48.996505],[2.527869,49.00024],[2.528902,49.0004],[2.530573,49.002178],[2.532707,49.005409],[2.535515,49.006378],[2.536372,49.005222],[2.54075,49.006244],[2.541253,49.005798],[2.544148,49.005268],[2.544677,49.004719],[2.54778,49.004753],[2.548046,49.003341],[2.548846,49.003105],[2.548977,49.006492],[2.55307,49.006942],[2.553056,49.009815],[2.558403,49.01202],[2.565785,49.012398],[2.566332,49.011051],[2.568488,49.011078],[2.569189,49.010555],[2.570337,49.007839],[2.567692,49.006984],[2.565867,49.007576],[2.564816,49.007419],[2.564566,49.006176],[2.56519,49.005714],[2.569461,49.005764],[2.570178,49.005253],[2.568999,49.004287],[2.571452,49.003788],[2.573324,49.001194],[2.571697,49.000656],[2.571648,49.000004],[2.575839,49.000282],[2.577787,48.995437],[2.580779,48.990829],[2.579558,48.989944],[2.581268,48.986553],[2.579238,48.984592],[2.577159,48.984195],[2.578691,48.979431],[2.576705,48.979175],[2.56826,48.98043],[2.56393,48.980366],[2.562684,48.979316],[2.562715,48.978653],[2.565345,48.97641],[2.571617,48.968902],[2.582446,48.958175],[2.583907,48.957142],[2.585965,48.956798],[2.589841,48.953399],[2.593882,48.946872],[2.593467,48.945503],[2.595932,48.93861],[2.596991,48.93872],[2.598542,48.938152],[2.600656,48.938385],[2.603038,48.937511],[2.602172,48.934852],[2.603149,48.930691],[2.6026,48.929355],[2.597873,48.92778],[2.596263,48.926063],[2.592336,48.925018],[2.592094,48.924324],[2.58984,48.922771],[2.588792,48.920761],[2.589026,48.917911],[2.590378,48.915413],[2.589559,48.912136],[2.590485,48.911896],[2.588967,48.909454],[2.592364,48.907703],[2.588324,48.905487],[2.586289,48.905048],[2.584455,48.903354],[2.585043,48.902],[2.5888,48.898529],[2.587132,48.897949],[2.587942,48.896625],[2.586937,48.896038],[2.586622,48.894008],[2.585613,48.89381],[2.584124,48.894756],[2.583127,48.894642],[2.578084,48.893306],[2.57665,48.892261],[2.574598,48.892711],[2.571841,48.892124],[2.570034,48.89043],[2.566506,48.89059],[2.564648,48.88993],[2.564534,48.889339],[2.562636,48.889488],[2.561812,48.889015],[2.561266,48.887672],[2.559716,48.886757],[2.559406,48.885338],[2.564305,48.881794],[2.566083,48.881847],[2.568888,48.881126],[2.571519,48.879078],[2.569908,48.875789],[2.568123,48.874138],[2.568398,48.872066],[2.569645,48.870945],[2.570507,48.868961],[2.567972,48.865944],[2.572392,48.867836],[2.5748,48.866428],[2.575673,48.865162],[2.584192,48.865463],[2.587326,48.865005],[2.58792,48.863659],[2.586462,48.860286],[2.58358,48.858253],[2.581614,48.8587],[2.582762,48.855404],[2.577547,48.854759],[2.573841,48.853382],[2.586648,48.833591],[2.585816,48.829429],[2.587131,48.826053],[2.587655,48.825454],[2.591569,48.827667],[2.592184,48.827102],[2.592445,48.823627],[2.594585,48.821205],[2.596254,48.81036],[2.592273,48.807438]]],"type":"Polygon"}
 }

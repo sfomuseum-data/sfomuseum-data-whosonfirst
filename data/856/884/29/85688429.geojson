@@ -2,425 +2,426 @@
   "id": 85688429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":2.629395,
-    "geom:area_square_m":16560100833.719734,
-    "geom:bbox":"17.244932,58.489857,19.992184,60.298443",
-    "geom:latitude":59.380131,
-    "geom:longitude":18.587087,
-    "iso:country":"SE",
-    "label:eng_x_preferred_longname":[
-        "Stockholm County"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 2.6293951373790017,
+    "geom:area_square_m": 16560100833.719734,
+    "geom:bbox": "17.244932,58.489857,19.992184,60.298443",
+    "geom:latitude": 59.38013054583125,
+    "geom:longitude": 18.58708724252943,
+    "iso:country": "SE",
+    "label:eng_x_preferred_longname": [
+      "Stockholm County"
     ],
-    "label:eng_x_preferred_placetype":[
-        "county"
+    "label:eng_x_preferred_placetype": [
+      "county"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "ST"
+    "label:eng_x_preferred_shortcode": [
+      "ST"
     ],
-    "label:swe_x_preferred_longname":[
-        "Stockholms l\u00e4n"
+    "label:swe_x_preferred_longname": [
+      "Stockholms län"
     ],
-    "label:swe_x_preferred_placetype":[
-        "l\u00e4n"
+    "label:swe_x_preferred_placetype": [
+      "län"
     ],
-    "lbl:latitude":59.305284,
-    "lbl:longitude":18.566681,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":59.305284,
-    "mps:longitude":18.566681,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":6.7,
-    "name:ara_x_preferred":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645"
+    "lbl:latitude": 59.305284,
+    "lbl:longitude": 18.566681,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 59.305284,
+    "mps:longitude": 18.566681,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 6.7,
+    "name:ara_x_preferred": [
+      "محافظة ستوكهولم"
     ],
-    "name:ast_x_preferred":[
-        "provincia d'Estocolmu"
+    "name:ast_x_preferred": [
+      "provincia d'Estocolmu"
     ],
-    "name:bel_x_preferred":[
-        "\u043b\u0435\u043d \u0421\u0442\u0430\u043a\u0433\u043e\u043b\u044c\u043c"
+    "name:bel_x_preferred": [
+      "лен Стакгольм"
     ],
-    "name:ben_x_preferred":[
-        "\u09b8\u09cd\u099f\u0995\u09b9\u09cb\u09ae \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    "name:ben_x_preferred": [
+      "স্টকহোম কাউন্টি"
     ],
-    "name:bos_x_preferred":[
-        "Kotar Stockholm"
+    "name:bos_x_preferred": [
+      "Kotar Stockholm"
     ],
-    "name:bul_x_preferred":[
-        "\u043b\u0435\u043d \u0421\u0442\u043e\u043a\u0445\u043e\u043b\u043c"
+    "name:bul_x_preferred": [
+      "лен Стокхолм"
     ],
-    "name:cat_x_preferred":[
-        "Comtat d'Estocolm"
+    "name:cat_x_preferred": [
+      "Comtat d'Estocolm"
     ],
-    "name:ceb_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:ceb_x_preferred": [
+      "Stockholms län"
     ],
-    "name:ces_x_preferred":[
-        "Stockholm"
+    "name:ces_x_preferred": [
+      "Stockholm"
     ],
-    "name:cor_x_preferred":[
-        "Konteth Stockholm"
+    "name:cor_x_preferred": [
+      "Konteth Stockholm"
     ],
-    "name:dan_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:dan_x_preferred": [
+      "Stockholms län"
     ],
-    "name:deu_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:deu_x_preferred": [
+      "Stockholms län"
     ],
-    "name:ell_x_preferred":[
-        "\u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a3\u03c4\u03bf\u03ba\u03c7\u03cc\u03bb\u03bc\u03b7\u03c2"
+    "name:ell_x_preferred": [
+      "κομητεία της Στοκχόλμης"
     ],
-    "name:eng_x_preferred":[
-        "Stockholm"
+    "name:eng_x_preferred": [
+      "Stockholm"
     ],
-    "name:eng_x_variant":[
-        "Stockholm County"
+    "name:eng_x_variant": [
+      "Stockholm County"
     ],
-    "name:epo_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:epo_x_preferred": [
+      "Stockholms län"
     ],
-    "name:est_x_preferred":[
-        "Stockholmi l\u00e4\u00e4n"
+    "name:est_x_preferred": [
+      "Stockholmi lään"
     ],
-    "name:eus_x_preferred":[
-        "Stockholmgo konderria"
+    "name:eus_x_preferred": [
+      "Stockholmgo konderria"
     ],
-    "name:fao_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:fao_x_preferred": [
+      "Stockholms län"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645"
+    "name:fas_x_preferred": [
+      "استان استکهلم"
     ],
-    "name:fin_x_preferred":[
-        "Tukholman l\u00e4\u00e4ni"
+    "name:fin_x_preferred": [
+      "Tukholman lääni"
     ],
-    "name:fra_x_preferred":[
-        "Comt\u00e9 de Stockholm"
+    "name:fra_x_preferred": [
+      "Comté de Stockholm"
     ],
-    "name:fra_x_variant":[
-        "Stockholm",
-        "comt\u00e9 de Stockholm"
+    "name:fra_x_variant": [
+      "Stockholm",
+      "comté de Stockholm"
     ],
-    "name:frr_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:frr_x_preferred": [
+      "Stockholms län"
     ],
-    "name:fry_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:fry_x_preferred": [
+      "Stockholms län"
     ],
-    "name:gla_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:gla_x_preferred": [
+      "Stockholms län"
     ],
-    "name:gle_x_preferred":[
-        "St\u00f3c\u00f3lm"
+    "name:gle_x_preferred": [
+      "Stócólm"
     ],
-    "name:glg_x_preferred":[
-        "condado de Estocolmo"
+    "name:glg_x_preferred": [
+      "condado de Estocolmo"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab8\u0acd\u0a9f\u0acb\u0a95\u0ab9\u0acb\u0aae \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    "name:guj_x_preferred": [
+      "સ્ટોકહોમ કાઉન્ટી"
     ],
-    "name:heb_x_preferred":[
-        "\u05de\u05d7\u05d5\u05d6 \u05e1\u05d8\u05d5\u05e7\u05d4\u05d5\u05dc\u05dd"
+    "name:heb_x_preferred": [
+      "מחוז סטוקהולם"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u094d\u091f\u0949\u0915\u0939\u094b\u092e \u0932\u0948\u0928"
+    "name:hin_x_preferred": [
+      "स्टॉकहोम लैन"
     ],
-    "name:hrv_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:hrv_x_preferred": [
+      "Stockholms län"
     ],
-    "name:hun_x_preferred":[
-        "Stockholm megye"
+    "name:hun_x_preferred": [
+      "Stockholm megye"
     ],
-    "name:hye_x_preferred":[
-        "\u054d\u057f\u0578\u056f\u0570\u0578\u056c\u0574\u056b \u056c\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Ստոկհոլմի լեն"
     ],
-    "name:ind_x_preferred":[
-        "Daerah Stockholm"
+    "name:ind_x_preferred": [
+      "Daerah Stockholm"
     ],
-    "name:isl_x_preferred":[
-        "Stokkh\u00f3lms l\u00e1n"
+    "name:isl_x_preferred": [
+      "Stokkhólms lán"
     ],
-    "name:ita_x_preferred":[
-        "contea di Stoccolma"
+    "name:ita_x_preferred": [
+      "contea di Stoccolma"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u770c"
+    "name:jpn_x_preferred": [
+      "ストックホルム県"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb8\u0ccd\u0c9f\u0cbe\u0c95\u0ccd\u0cb9\u0ccb\u0cae\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    "name:kan_x_preferred": [
+      "ಸ್ಟಾಕ್ಹೋಮ್ ಕೌಂಟಿ"
     ],
-    "name:kat_x_preferred":[
-        "\u10e1\u10e2\u10dd\u10d9\u10f0\u10dd\u10da\u10db\u10d8"
+    "name:kat_x_preferred": [
+      "სტოკჰოლმი"
     ],
-    "name:kor_x_preferred":[
-        "\uc2a4\ud1a1\ud640\ub984 \uc8fc"
+    "name:kor_x_preferred": [
+      "스톡홀름 주"
     ],
-    "name:kor_x_variant":[
-        "\uc2a4\ud1a1\ud640\ub984\uc8fc"
+    "name:kor_x_variant": [
+      "스톡홀름주"
     ],
-    "name:krl_x_preferred":[
-        "Tukholma"
+    "name:krl_x_preferred": [
+      "Tukholma"
     ],
-    "name:lat_x_preferred":[
-        "Holmiae Comitatus"
+    "name:lat_x_preferred": [
+      "Holmiae Comitatus"
     ],
-    "name:lav_x_preferred":[
-        "Stokholmas l\u0113ne"
+    "name:lav_x_preferred": [
+      "Stokholmas lēne"
     ],
-    "name:lim_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:lim_x_preferred": [
+      "Stockholms län"
     ],
-    "name:lit_x_preferred":[
-        "Stokholmo l\u0117nas"
+    "name:lit_x_preferred": [
+      "Stokholmo lėnas"
     ],
-    "name:mar_x_preferred":[
-        "\u0938\u094d\u091f\u0949\u0915\u0939\u094b\u092e \u0915\u093e\u0909\u0902\u091f\u0940"
+    "name:mar_x_preferred": [
+      "स्टॉकहोम काउंटी"
     ],
-    "name:mkd_x_preferred":[
-        "\u0421\u0442\u043e\u043a\u0445\u043e\u043b\u043c"
+    "name:mkd_x_preferred": [
+      "Стокхолм"
     ],
-    "name:msa_x_preferred":[
-        "Daerah Stockholm"
+    "name:msa_x_preferred": [
+      "Daerah Stockholm"
     ],
-    "name:nan_x_preferred":[
-        "Stockholm K\u014dan"
+    "name:nan_x_preferred": [
+      "Stockholm Kōan"
     ],
-    "name:nds_x_preferred":[
-        "Lehn Stockholm"
+    "name:nds_x_preferred": [
+      "Lehn Stockholm"
     ],
-    "name:nld_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:nld_x_preferred": [
+      "Stockholms län"
     ],
-    "name:nno_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:nno_x_preferred": [
+      "Stockholms län"
     ],
-    "name:nob_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:nob_x_preferred": [
+      "Stockholms län"
     ],
-    "name:oci_x_preferred":[
-        "Comtat d'Estoc\u00f2lme"
+    "name:oci_x_preferred": [
+      "Comtat d'Estocòlme"
     ],
-    "name:pol_x_preferred":[
-        "Sztokholm"
+    "name:pol_x_preferred": [
+      "Sztokholm"
     ],
-    "name:por_x_preferred":[
-        "condado de Estocolmo"
+    "name:por_x_preferred": [
+      "condado de Estocolmo"
     ],
-    "name:ron_x_preferred":[
-        "Stockholm l\u00e4n"
+    "name:ron_x_preferred": [
+      "Stockholm län"
     ],
-    "name:rue_x_preferred":[
-        "\u041a\u0440\u0430\u0439 \u0428\u0442\u043e\u043a\u0433\u043e\u043b\u043c"
+    "name:rue_x_preferred": [
+      "Край Штокголм"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c"
+    "name:rus_x_preferred": [
+      "Стокгольм"
     ],
-    "name:sco_x_preferred":[
-        "Stockholm Coonty"
+    "name:sco_x_preferred": [
+      "Stockholm Coonty"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc3\u0dca\u0da7\u0ddc\u0d9a\u0dca\u0dc4\u0ddd\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    "name:sin_x_preferred": [
+      "ස්ටොක්හෝම් ප්‍රාන්තය"
     ],
-    "name:sme_x_preferred":[
-        "Stockholmma leatna"
+    "name:sme_x_preferred": [
+      "Stockholmma leatna"
     ],
-    "name:spa_x_preferred":[
-        "provincia de Estocolmo"
+    "name:spa_x_preferred": [
+      "provincia de Estocolmo"
     ],
-    "name:srp_x_preferred":[
-        "\u0421\u0442\u043e\u043a\u0445\u043e\u043b\u043c"
+    "name:srp_x_preferred": [
+      "Стокхолм"
     ],
-    "name:swa_x_preferred":[
-        "Stockholms l\u00e4n"
+    "name:swa_x_preferred": [
+      "Stockholms län"
     ],
-    "name:swe_x_preferred":[
-        "Stockholms"
+    "name:swe_x_preferred": [
+      "Stockholms"
     ],
-    "name:swe_x_variant":[
-        "Stockholms l\u00e4n"
+    "name:swe_x_variant": [
+      "Stockholms län"
     ],
-    "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f\u0bcb\u0b95\u0bcd\u0bb9\u0bcb\u0bb2\u0bcd\u0bae\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
-    ],
-    "name:tat_x_preferred":[
-        "\u0421\u0442\u043e\u043a\u04bb\u043e\u043b\u043c \u043b\u04d9\u043d\u0435"
-    ],
-    "name:tel_x_preferred":[
-        "\u0c38\u0c4d\u0c1f\u0c3e\u0c15\u0c4d\u200c\u0c39\u0c4b\u0c2e\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
-    ],
-    "name:tgl_x_preferred":[
-        "Lalawigan ng Estokolmo"
-    ],
-    "name:tha_x_preferred":[
-        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e2a\u0e15\u0e47\u0e2d\u0e01\u0e42\u0e2e\u0e25\u0e4c\u0e21"
-    ],
-    "name:tur_x_preferred":[
-        "Stokholm ili"
-    ],
-    "name:ukr_x_preferred":[
-        "\u043b\u0435\u043d \u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c"
-    ],
-    "name:und_x_variant":[
-        "Stockholms L\u00e4n"
-    ],
-    "name:urd_x_preferred":[
-        "\u0633\u0679\u0627\u06a9\u06c1\u0648\u0645 \u06a9\u0627\u0624\u0646\u0679\u06cc"
-    ],
-    "name:vie_x_preferred":[
-        "h\u1ea1t Stockholm"
-    ],
-    "name:vol_x_preferred":[
-        "Stokholmi\u00e4n"
-    ],
-    "name:wuu_x_preferred":[
-        "\u65af\u5fb7\u54e5\u5c14\u6469\u7701"
-    ],
-    "name:zho_x_preferred":[
-        "\u65af\u5fb7\u54e5\u723e\u6469\u7701"
-    ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"SWE",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"5",
-    "ne:adm1_cod_1":"SWE-194",
-    "ne:adm1_code":"SWE-194",
-    "ne:admin":"Sweden",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"SE.ST",
-    "ne:code_local":"",
-    "ne:datarank":"7",
-    "ne:diss_me":"194",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"SW26",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Sweden",
-    "ne:gn_a1_code":"SE.26",
-    "ne:gn_id":"2673722",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Stockholms Laen",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"SW26",
-    "ne:gns_id":"-2524287",
-    "ne:gns_lang":"ara",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Stockholms Lan",
-    "ne:gns_region":"",
-    "ne:gu_a3":"SWE",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"SE-",
-    "ne:iso_a2":"SE",
-    "ne:labelrank":"7",
-    "ne:latitude":"59.36590000000",
-    "ne:longitude":"17.86520000000",
-    "ne:mapcolor13":4,
-    "ne:mapcolor9":2,
-    "ne:name":"Stockholm",
-    "ne:name_alt":"Stockholms l\u00e4n|Estocolmo|Stoccolmo",
-    "ne:name_len":9,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"ST",
-    "ne:provnum_ne":"4",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"7",
-    "ne:scalerank":"7",
-    "ne:sov_a3":"SWE",
-    "ne:sub_code":"",
-    "ne:type":"Laen|l\u00e4n",
-    "ne:type_en":"County",
-    "ne:wikipedia":"",
-    "ne:woe_id":2347067,
-    "ne:woe_label":"Stockholm, SE, Sweden",
-    "ne:woe_name":"Stockholm",
-    "qs:a0":"Sverige",
-    "qs:a0_lc":"SE0000",
-    "qs:a1":"Stockholms l\u00e4n",
-    "qs:a1_alt":"Stockholms lan",
-    "qs:a1_lc":"SE0100",
-    "qs:adm0":"Sweden",
-    "qs:adm0_a3":"SWE",
-    "qs:level":"adm1",
-    "qs:source":"EuroGlobalMap",
-    "qs:type":"L\u00e4n",
-    "reversegeo:latitude":59.275254,
-    "reversegeo:longitude":18.035164,
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2006-12-31",
-    "statoids:area_km":"6,789",
-    "statoids:area_mi":"2,621",
-    "statoids:as_of_date":"2006-12-31",
-    "statoids:capital":"Stockholm",
-    "statoids:country":"SE",
-    "statoids:gec":"SW26",
-    "statoids:hasc":"SE.ST",
-    "statoids:iso":"AB",
-    "statoids:name":"Stockholm",
-    "statoids:population":"1918104",
-    "statoids:timezone":"+1~",
-    "statoids:type":"county",
-    "unlc:subdivision":"SE-AB",
-    "wof:belongsto":[
-        102191581,
-        85633789
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "digitalenvoy:region_code":11358,
-        "fips:code":"SW26",
-        "gn:id":2673722,
-        "gp:id":2347067,
-        "hasc:id":"SE.ST",
-        "iso:id":"SE-AB",
-        "unlc:id":"SE-AB",
-        "wd:id":"Q104231"
+    "name:tam_x_preferred": [
+      "ஸ்டோக்ஹோல்ம் கவுண்டி"
+    ],
+    "name:tat_x_preferred": [
+      "Стокһолм ләне"
+    ],
+    "name:tel_x_preferred": [
+      "స్టాక్‌హోమ్ కౌంటీ"
+    ],
+    "name:tgl_x_preferred": [
+      "Lalawigan ng Estokolmo"
+    ],
+    "name:tha_x_preferred": [
+      "เทศมณฑลสต็อกโฮล์ม"
+    ],
+    "name:tur_x_preferred": [
+      "Stokholm ili"
+    ],
+    "name:ukr_x_preferred": [
+      "лен Стокгольм"
+    ],
+    "name:und_x_variant": [
+      "Stockholms Län"
+    ],
+    "name:urd_x_preferred": [
+      "سٹاکہوم کاؤنٹی"
+    ],
+    "name:vie_x_preferred": [
+      "hạt Stockholm"
+    ],
+    "name:vol_x_preferred": [
+      "Stokholmiän"
+    ],
+    "name:wuu_x_preferred": [
+      "斯德哥尔摩省"
+    ],
+    "name:zho_x_preferred": [
+      "斯德哥爾摩省"
+    ],
+    "ne:abbrev": "",
+    "ne:adm0_a3": "SWE",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "5",
+    "ne:adm1_cod_1": "SWE-194",
+    "ne:adm1_code": "SWE-194",
+    "ne:admin": "Sweden",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "SE.ST",
+    "ne:code_local": "",
+    "ne:datarank": "7",
+    "ne:diss_me": "194",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "SW26",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Sweden",
+    "ne:gn_a1_code": "SE.26",
+    "ne:gn_id": "2673722",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Stockholms Laen",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "SW26",
+    "ne:gns_id": "-2524287",
+    "ne:gns_lang": "ara",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Stockholms Lan",
+    "ne:gns_region": "",
+    "ne:gu_a3": "SWE",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "SE-",
+    "ne:iso_a2": "SE",
+    "ne:labelrank": "7",
+    "ne:latitude": "59.36590000000",
+    "ne:longitude": "17.86520000000",
+    "ne:mapcolor13": 4,
+    "ne:mapcolor9": 2,
+    "ne:name": "Stockholm",
+    "ne:name_alt": "Stockholms län|Estocolmo|Stoccolmo",
+    "ne:name_len": 9,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "ST",
+    "ne:provnum_ne": "4",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "7",
+    "ne:scalerank": "7",
+    "ne:sov_a3": "SWE",
+    "ne:sub_code": "",
+    "ne:type": "Laen|län",
+    "ne:type_en": "County",
+    "ne:wikipedia": "",
+    "ne:woe_id": 2347067,
+    "ne:woe_label": "Stockholm, SE, Sweden",
+    "ne:woe_name": "Stockholm",
+    "qs:a0": "Sverige",
+    "qs:a0_lc": "SE0000",
+    "qs:a1": "Stockholms län",
+    "qs:a1_alt": "Stockholms lan",
+    "qs:a1_lc": "SE0100",
+    "qs:adm0": "Sweden",
+    "qs:adm0_a3": "SWE",
+    "qs:level": "adm1",
+    "qs:source": "EuroGlobalMap",
+    "qs:type": "Län",
+    "reversegeo:latitude": 59.275254,
+    "reversegeo:longitude": 18.035164,
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2006-12-31",
+    "statoids:area_km": "6,789",
+    "statoids:area_mi": "2,621",
+    "statoids:as_of_date": "2006-12-31",
+    "statoids:capital": "Stockholm",
+    "statoids:country": "SE",
+    "statoids:gec": "SW26",
+    "statoids:hasc": "SE.ST",
+    "statoids:iso": "AB",
+    "statoids:name": "Stockholm",
+    "statoids:population": "1918104",
+    "statoids:timezone": "+1~",
+    "statoids:type": "county",
+    "unlc:subdivision": "SE-AB",
+    "wof:belongsto": [
+      102191581,
+      85633789
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "digitalenvoy:region_code": 11358,
+      "fips:code": "SW26",
+      "gn:id": 2673722,
+      "gp:id": 2347067,
+      "hasc:id": "SE.ST",
+      "iso:id": "SE-AB",
+      "unlc:id": "SE-AB",
+      "wd:id": "Q104231"
     },
-    "wof:country":"SE",
-    "wof:geomhash":"786f7e2845b1b357ed663427d38293a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633789,
-            "region_id":85688429
-        }
+    "wof:country": "SE",
+    "wof:created": 1624906892,
+    "wof:geomhash": "786f7e2845b1b357ed663427d38293a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633789,
+        "region_id": 85688429
+      }
     ],
-    "wof:id":85688429,
-    "wof:lang_x_official":[
-        "swe"
+    "wof:id": 85688429,
+    "wof:lang_x_official": [
+      "swe"
     ],
-    "wof:lang_x_spoken":[
-        "swe",
-        "fin"
+    "wof:lang_x_spoken": [
+      "swe",
+      "fin"
     ],
-    "wof:lastmodified":1611600817,
-    "wof:name":"Stockholm",
-    "wof:parent_id":85633789,
-    "wof:placetype":"region",
-    "wof:placetype_local":"county",
-    "wof:population":1918104,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-se",
-    "wof:shortcode":"ST",
-    "wof:subdivision":"SE-AB",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906892,
+    "wof:name": "Stockholm",
+    "wof:parent_id": 85633789,
+    "wof:placetype": "region",
+    "wof:placetype_local": "county",
+    "wof:population": 1918104,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-se",
+    "wof:shortcode": "ST",
+    "wof:subdivision": "SE-AB",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     17.244932,
     58.489857,
     19.992184,
     60.298443
-],
+  ],
   "geometry": {"coordinates":[[[19.103506,60.236924],[19.056196,60.245667],[19.063133,60.232437],[19.093304,60.138337],[19.107376,60.094445],[19.118229,60.073555],[19.153588,60.055283],[19.184799,60.041623],[19.220309,60.028107],[19.268124,60.012917],[19.30656,60.003414],[19.374006,59.992038],[19.424124,59.957233],[19.424542,59.956944],[19.561754,59.861657],[19.56832,59.857098],[19.571728,59.854729],[19.576435,59.832822],[19.580711,59.825585],[19.588669,59.812114],[19.609517,59.786114],[19.63418,59.764432],[19.655817,59.750454],[19.688074,59.733807],[19.728651,59.717835],[19.790241,59.702286],[19.791023,59.70174],[19.941895,59.596497],[19.944406,59.594746],[19.992184,59.561627],[19.975656,59.530369],[19.964827,59.502805],[19.957964,59.476197],[19.836979,59.308155],[19.818035,59.295025],[19.816307,59.293827],[19.815007,59.293076],[19.793277,59.280518],[19.768147,59.26828],[19.740925,59.257244],[19.711902,59.247472],[19.681352,59.239086],[19.593144,59.207585],[19.454868,59.158097],[19.35191,59.094263],[19.10117,58.938809],[19.07132,58.922181],[18.940783,58.856938],[18.869432,58.821484],[18.84722,58.80954],[18.823021,58.798653],[18.797243,58.788746],[18.770029,58.780075],[18.363922,58.618077],[18.252701,58.573208],[18.224224,58.562432],[18.198321,58.55106],[18.170571,58.540859],[18.141126,58.53204],[18.110365,58.524648],[18.108759,58.524343],[18.107382,58.524081],[18.105902,58.5238],[18.078557,58.518613],[17.955189,58.489857],[17.85944,58.59697],[17.794144,58.670918],[17.785951,58.777248],[17.769682,58.783093],[17.755015,58.787689],[17.747402,58.790768],[17.726616,58.797138],[17.719689,58.810513],[17.718145,58.815521],[17.669412,58.826737],[17.652445,58.859307],[17.653433,58.860641],[17.663633,58.866619],[17.654494,58.875637],[17.656866,58.893456],[17.638696,58.899239],[17.632164,58.903701],[17.636018,58.907688],[17.627996,58.920803],[17.623141,58.932457],[17.625778,58.935715],[17.598084,58.944316],[17.588969,58.944443],[17.583462,58.946132],[17.572396,58.950853],[17.568911,58.952126],[17.566011,58.951493],[17.559633,58.951847],[17.557883,58.953289],[17.55489,58.958374],[17.554837,58.960064],[17.550251,58.962208],[17.551018,58.96429],[17.545589,58.968002],[17.545336,58.970562],[17.54981,58.97414],[17.554926,58.982422],[17.542814,58.982647],[17.541052,58.981529],[17.52752,58.982178],[17.516358,58.983341],[17.510936,58.981724],[17.49926,58.985855],[17.491464,58.986496],[17.483713,58.988075],[17.480379,58.989261],[17.473655,58.987667],[17.461399,58.990715],[17.450678,58.992809],[17.444378,58.994972],[17.446192,58.991791],[17.445905,58.988697],[17.442414,58.983624],[17.438648,58.981247],[17.429867,58.980549],[17.424317,58.981625],[17.417811,58.981972],[17.414469,58.983029],[17.410038,58.983146],[17.395122,58.982193],[17.393642,58.984024],[17.390104,58.983868],[17.38287,58.985439],[17.376837,58.982998],[17.374105,58.984738],[17.370867,58.991169],[17.366485,58.995064],[17.365837,58.998036],[17.363293,59.002575],[17.35858,59.008087],[17.354691,59.008674],[17.352091,59.01746],[17.346775,59.021221],[17.344227,59.025768],[17.346323,59.028633],[17.338747,59.031757],[17.335108,59.032207],[17.331875,59.035881],[17.332225,59.037895],[17.331349,59.041675],[17.328285,59.043331],[17.322994,59.047837],[17.320696,59.049076],[17.319823,59.058917],[17.322365,59.065953],[17.326493,59.070617],[17.320955,59.075531],[17.31172,59.079678],[17.311625,59.080696],[17.316332,59.089394],[17.318048,59.095901],[17.318669,59.115898],[17.322403,59.126152],[17.322844,59.130188],[17.321883,59.138081],[17.32048,59.14193],[17.318494,59.144451],[17.313286,59.148418],[17.308096,59.149616],[17.308173,59.154133],[17.305191,59.15511],[17.303747,59.158088],[17.297724,59.164279],[17.287119,59.167705],[17.283005,59.16964],[17.258392,59.18304],[17.267284,59.182343],[17.269169,59.183461],[17.267761,59.187382],[17.262373,59.196464],[17.248316,59.199253],[17.245373,59.204197],[17.247423,59.205925],[17.248482,59.209412],[17.244932,59.215378],[17.246208,59.220688],[17.248638,59.222279],[17.259165,59.222698],[17.267935,59.228321],[17.272316,59.235272],[17.275053,59.244563],[17.27848,59.24429],[17.282003,59.245356],[17.289697,59.246448],[17.289658,59.24709],[17.293146,59.248442],[17.29534,59.250205],[17.301853,59.249614],[17.309204,59.252567],[17.309234,59.253239],[17.306292,59.254891],[17.304278,59.256932],[17.311384,59.266205],[17.327633,59.270729],[17.34158,59.273529],[17.347725,59.278709],[17.348303,59.27985],[17.348536,59.290821],[17.349377,59.294651],[17.349043,59.304756],[17.348862,59.306572],[17.345402,59.311596],[17.351597,59.320411],[17.34832,59.323681],[17.346863,59.326392],[17.34815,59.334663],[17.335905,59.352318],[17.348692,59.352436],[17.372792,59.351536],[17.426082,59.351963],[17.424975,59.353798],[17.415588,59.361656],[17.411738,59.36649],[17.414711,59.382137],[17.416127,59.38414],[17.426308,59.392837],[17.431083,59.395878],[17.431604,59.401257],[17.429745,59.403973],[17.426147,59.417145],[17.426874,59.42387],[17.426386,59.427647],[17.432581,59.435585],[17.436318,59.441799],[17.450796,59.445926],[17.453974,59.446018],[17.477899,59.443157],[17.489176,59.441262],[17.498823,59.441002],[17.504668,59.441536],[17.502683,59.460014],[17.500279,59.462333],[17.49724,59.467552],[17.486407,59.481365],[17.468305,59.503414],[17.465718,59.507553],[17.486982,59.512485],[17.512608,59.516197],[17.51737,59.518493],[17.527147,59.53109],[17.54179,59.53743],[17.548935,59.54979],[17.557067,59.548715],[17.569343,59.547092],[17.572595,59.553447],[17.581468,59.560738],[17.550406,59.575832],[17.545294,59.579674],[17.527468,59.589337],[17.525322,59.594139],[17.520135,59.601822],[17.52122,59.604698],[17.520105,59.608886],[17.514706,59.610035],[17.51174,59.611626],[17.512619,59.613231],[17.513893,59.622642],[17.53696,59.634521],[17.556658,59.637223],[17.57078,59.637707],[17.589254,59.647438],[17.591438,59.648739],[17.577305,59.653179],[17.572035,59.656544],[17.572191,59.659504],[17.573602,59.661041],[17.576783,59.663483],[17.595281,59.663303],[17.608982,59.670586],[17.622844,59.673565],[17.625021,59.674403],[17.630285,59.680465],[17.629102,59.693005],[17.635377,59.692982],[17.65436,59.692043],[17.658427,59.693332],[17.671993,59.690716],[17.679222,59.691356],[17.698595,59.687508],[17.699824,59.685676],[17.702499,59.685905],[17.703754,59.68454],[17.707708,59.683811],[17.720585,59.683259],[17.722447,59.683193],[17.728475,59.662903],[17.731657,59.663808],[17.739269,59.665436],[17.740561,59.664746],[17.743993,59.664291],[17.746147,59.662239],[17.751322,59.659664],[17.756508,59.661876],[17.760016,59.66513],[17.760447,59.667949],[17.763567,59.671272],[17.765384,59.675015],[17.77236,59.685013],[17.777168,59.689789],[17.785639,59.688854],[17.796955,59.686527],[17.799943,59.68298],[17.806062,59.682888],[17.813353,59.680081],[17.816416,59.67788],[17.826153,59.680351],[17.82852,59.68193],[17.832209,59.681275],[17.835258,59.6856],[17.835409,59.688091],[17.832241,59.688545],[17.833693,59.690544],[17.846965,59.696193],[17.851436,59.697541],[17.868864,59.699287],[17.871614,59.700657],[17.890095,59.706424],[17.893249,59.707721],[17.894299,59.709725],[17.901871,59.709198],[17.905838,59.71096],[17.908039,59.709774],[17.914713,59.709938],[17.923685,59.710735],[17.937597,59.713474],[17.942499,59.713124],[17.945978,59.71112],[17.948324,59.714447],[17.954722,59.718582],[17.956585,59.718551],[17.961454,59.71962],[17.969216,59.722248],[17.97147,59.721943],[17.975901,59.722541],[17.979588,59.725921],[17.984161,59.728466],[17.989645,59.728851],[17.998963,59.728561],[18.003618,59.732319],[17.999135,59.733066],[18.0007,59.736614],[18.002913,59.735904],[18.006176,59.736854],[18.006805,59.738327],[18.010924,59.737927],[18.010742,59.739204],[18.013928,59.738953],[18.014561,59.740486],[18.01088,59.741291],[18.015255,59.742897],[18.018381,59.741768],[18.02158,59.741715],[18.020893,59.745567],[18.025105,59.74469],[18.02677,59.741627],[18.028923,59.739776],[18.036846,59.738563],[18.040768,59.737347],[18.042486,59.7351],[18.041922,59.734635],[18.044636,59.735332],[18.047009,59.737046],[18.049572,59.737332],[18.048677,59.739906],[18.044296,59.744366],[18.057305,59.743332],[18.06361,59.741879],[18.069776,59.742309],[18.072557,59.740036],[18.076937,59.739556],[18.081339,59.739689],[18.084495,59.739021],[18.086312,59.740066],[18.090721,59.746052],[18.091829,59.75055],[18.104214,59.755989],[18.107336,59.756878],[18.10879,59.758606],[18.104554,59.762989],[18.104843,59.767224],[18.107104,59.769005],[18.108211,59.771412],[18.114481,59.779175],[18.116508,59.783253],[18.115618,59.791756],[18.119873,59.795315],[18.117735,59.797104],[18.119507,59.803402],[18.129713,59.817634],[18.131929,59.818737],[18.196087,59.831192],[18.207169,59.82904],[18.218595,59.827953],[18.236373,59.833283],[18.241719,59.833183],[18.248841,59.833725],[18.248518,59.834674],[18.252506,59.834331],[18.255606,59.834748],[18.257511,59.835178],[18.260332,59.837147],[18.265857,59.846744],[18.269005,59.847564],[18.2727,59.85046],[18.312889,59.856301],[18.317154,59.859585],[18.337412,59.86351],[18.350863,59.862637],[18.3648,59.864387],[18.363357,59.873512],[18.381199,59.879021],[18.385352,59.880764],[18.386261,59.882092],[18.390057,59.884507],[18.392654,59.89032],[18.40323,59.893479],[18.404311,59.897022],[18.402054,59.902454],[18.399124,59.906151],[18.398115,59.910415],[18.393757,59.91299],[18.393366,59.920136],[18.386,59.923648],[18.379627,59.929836],[18.37724,59.933655],[18.377931,59.937279],[18.382213,59.940559],[18.388185,59.950142],[18.392166,59.954582],[18.398475,59.956272],[18.406589,59.956994],[18.423593,59.956452],[18.424235,59.959339],[18.428228,59.964107],[18.429526,59.966912],[18.428028,59.981957],[18.438643,59.987],[18.440531,59.988647],[18.44342,59.989598],[18.446121,59.98975],[18.44837,59.990978],[18.448215,59.992401],[18.451834,59.993946],[18.457762,59.994095],[18.45956,59.993046],[18.462431,59.993527],[18.468527,59.995765],[18.47259,59.999454],[18.475001,60.004452],[18.472116,60.00539],[18.470478,60.006637],[18.451608,60.011326],[18.449255,60.015549],[18.444669,60.016987],[18.442484,60.01838],[18.436348,60.019039],[18.428531,60.022293],[18.420784,60.024605],[18.418081,60.026272],[18.413101,60.027988],[18.395437,60.036148],[18.392807,60.038551],[18.389802,60.039822],[18.388929,60.042473],[18.39427,60.041893],[18.416317,60.048263],[18.432182,60.056301],[18.444849,60.058132],[18.446354,60.060124],[18.451632,60.077126],[18.463064,60.080266],[18.493057,60.104248],[18.495912,60.11766],[18.493202,60.117508],[18.491799,60.118614],[18.496512,60.120137],[18.497429,60.132911],[18.494142,60.137425],[18.495044,60.138557],[18.501143,60.140453],[18.503559,60.143566],[18.506332,60.143776],[18.508204,60.145294],[18.51227,60.145481],[18.513265,60.148089],[18.512705,60.157325],[18.514698,60.16004],[18.515138,60.16064],[18.516815,60.160697],[18.593748,60.163322],[18.641367,60.160694],[18.67615,60.154961],[18.677038,60.163696],[18.679306,60.166344],[18.69284,60.165108],[18.693071,60.175339],[18.682568,60.180554],[18.673489,60.188088],[18.672829,60.19437],[18.690319,60.19944],[18.695961,60.200603],[18.696956,60.205765],[18.69395,60.21304],[18.684915,60.222802],[18.678577,60.230816],[18.683388,60.239334],[18.720425,60.247551],[18.918238,60.279838],[18.939268,60.281303],[19.129887,60.298443],[19.12816,60.292732],[19.103506,60.236924]]],"type":"Polygon"}
 }

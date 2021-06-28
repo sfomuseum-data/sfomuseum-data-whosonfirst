@@ -2,136 +2,137 @@
   "id": 102554455,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1938-01-01",
-    "date:inception_upper":"1938-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1938",
-    "geom:area":0.000019,
-    "geom:area_square_m":157915.471517,
-    "geom:bbox":"-54.577332,48.942558,-54.56789,48.947308",
-    "geom:latitude":48.945271,
-    "geom:longitude":-54.572577,
-    "iso:country":"",
-    "lbl:latitude":48.945249,
-    "lbl:longitude":-54.572648,
-    "mps:latitude":48.945249,
-    "mps:longitude":-54.572648,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Gander Int. Airport"
+    "date:inception_lower": "1938-01-01",
+    "date:inception_upper": "1938-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1938",
+    "geom:area": 0.000019444728000002806,
+    "geom:area_square_m": 157915.471517,
+    "geom:bbox": "-54.577332,48.942558,-54.567890,48.947308",
+    "geom:latitude": 48.945270781294944,
+    "geom:longitude": -54.57257688119302,
+    "iso:country": "",
+    "lbl:latitude": 48.945249,
+    "lbl:longitude": -54.572648,
+    "mps:latitude": 48.945249,
+    "mps:longitude": -54.572648,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Gander Int. Airport"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Gander"
+    "name:deu_x_preferred": [
+      "Flughafen Gander"
     ],
-    "name:eng_x_preferred":[
-        "Gander International Airport"
+    "name:eng_x_preferred": [
+      "Gander International Airport"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0646\u062f\u0631"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی گندر"
     ],
-    "name:fin_x_preferred":[
-        "Ganderin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Ganderin kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international de Gander"
+    "name:fra_x_preferred": [
+      "aéroport international de Gander"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Gander"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Gander"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ac\u30f3\u30c0\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ガンダー国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\uac04\ub354 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "간더 국제공항"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Antarabangsa Gander"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Gander"
     ],
-    "name:nld_x_preferred":[
-        "Gander International Airport"
+    "name:nld_x_preferred": [
+      "Gander International Airport"
     ],
-    "name:pms_x_preferred":[
-        "Gander International Airport"
+    "name:pms_x_preferred": [
+      "Gander International Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Gander"
+    "name:pol_x_preferred": [
+      "Port lotniczy Gander"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Gander"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Gander"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Gander"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Gander"
     ],
-    "name:swe_x_preferred":[
-        "Gander Int. Airport"
+    "name:swe_x_preferred": [
+      "Gander Int. Airport"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u043d\u0434\u0440"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ гндр"
     ],
-    "name:zho_x_preferred":[
-        "\u7518\u5fb7\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "甘德國際機場"
     ],
-    "sfomuseum:airport_id":274,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Gander International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":2158,
-    "woe:hierarchy":{
-        "country_id":23424775,
-        "county_id":29375216,
-        "planet_id":1,
-        "state_id":2344919
+    "sfomuseum:airport_id": 274,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Gander International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 2158,
+    "woe:hierarchy": {
+      "country_id": 23424775,
+      "county_id": 29375216,
+      "planet_id": 1,
+      "state_id": 2344919
     },
-    "wof:belongsto":[
-        102191575,
-        85633041,
-        1158869013,
-        85682123
+    "wof:belongsto": [
+      102191575,
+      85633041,
+      1158869013,
+      85682123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12511673,
-        "iata:code":"YQX",
-        "icao:code":"CYQX",
-        "wd:id":"Q1431350"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12511673,
+      "iata:code": "YQX",
+      "icao:code": "CYQX",
+      "wd:id": "Q1431350"
     },
-    "wof:country":"",
-    "wof:geomhash":"9e2fa7e1bc218d9dd161d22c52e98a7a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102554455,
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":1158869013,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682123
-        }
+    "wof:country": "",
+    "wof:created": 1624906458,
+    "wof:geomhash": "9e2fa7e1bc218d9dd161d22c52e98a7a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102554455,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 1158869013,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85682123
+      }
     ],
-    "wof:id":102554455,
-    "wof:lastmodified":1611601235,
-    "wof:name":"Gander International Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:population_rank":0,
-    "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102554455,
+    "wof:lastmodified": 1624906458,
+    "wof:name": "Gander International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:population_rank": 0,
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -54.577332,
     48.942558,
     -54.56789,
     48.947308
-],
+  ],
   "geometry": {"coordinates":[[[[-54.573212,48.947308],[-54.57201,48.946632],[-54.571323,48.946407],[-54.56789,48.945446],[-54.572803,48.942558],[-54.573555,48.944038],[-54.577332,48.946308],[-54.576214,48.946518],[-54.573212,48.947308]]]],"type":"MultiPolygon"}
 }

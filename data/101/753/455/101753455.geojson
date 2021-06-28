@@ -2,360 +2,363 @@
   "id": 101753455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2018-10-24",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000577,
-    "geom:area_square_m":4706819.107744,
-    "geom:bbox":"2.069536,48.72988,2.122088,48.758374",
-    "geom:latitude":48.74777,
-    "geom:longitude":2.096509,
-    "gn:population":1543,
-    "iso:country":"FR",
-    "lbl:latitude":48.750889,
-    "lbl:longitude":2.104872,
-    "mps:latitude":48.750889,
-    "mps:longitude":2.104872,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:afr_x_preferred":[
-        "Ch\u00e2teaufort"
+    "date:cessation_lower": "2018-10-24",
+    "date:cessation_upper": "2018-10-24",
+    "edtf:cessation": "2018-10-24",
+    "edtf:inception": "",
+    "geom:area": 0.000577290034999994,
+    "geom:area_square_m": 4706819.107744,
+    "geom:bbox": "2.069536,48.729880,2.122088,48.758374",
+    "geom:latitude": 48.74776971129863,
+    "geom:longitude": 2.0965086884943487,
+    "gn:population": 1543,
+    "iso:country": "FR",
+    "lbl:latitude": 48.750889,
+    "lbl:longitude": 2.104872,
+    "mps:latitude": 48.750889,
+    "mps:longitude": 2.104872,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:afr_x_preferred": [
+      "Châteaufort"
     ],
-    "name:arg_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:arg_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ast_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ast_x_preferred": [
+      "Châteaufort"
     ],
-    "name:bam_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:bam_x_preferred": [
+      "Châteaufort"
     ],
-    "name:bar_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:bar_x_preferred": [
+      "Châteaufort"
     ],
-    "name:bug_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:bug_x_preferred": [
+      "Châteaufort"
     ],
-    "name:cat_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:cat_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ceb_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ceb_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ces_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ces_x_preferred": [
+      "Châteaufort"
     ],
-    "name:cos_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:cos_x_preferred": [
+      "Châteaufort"
     ],
-    "name:cym_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:cym_x_preferred": [
+      "Châteaufort"
     ],
-    "name:dan_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:dan_x_preferred": [
+      "Châteaufort"
     ],
-    "name:deu_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:deu_x_preferred": [
+      "Châteaufort"
     ],
-    "name:eng_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:eng_x_preferred": [
+      "Châteaufort"
     ],
-    "name:epo_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:epo_x_preferred": [
+      "Châteaufort"
     ],
-    "name:est_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:est_x_preferred": [
+      "Châteaufort"
     ],
-    "name:eus_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:eus_x_preferred": [
+      "Châteaufort"
     ],
-    "name:fao_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:fao_x_preferred": [
+      "Châteaufort"
     ],
-    "name:fin_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:fin_x_preferred": [
+      "Châteaufort"
     ],
-    "name:fra_x_colloquial":[
-        "Chateaufort"
+    "name:fra_x_colloquial": [
+      "Chateaufort"
     ],
-    "name:fra_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:fra_x_preferred": [
+      "Châteaufort"
     ],
-    "name:frc_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:frc_x_preferred": [
+      "Châteaufort"
     ],
-    "name:frp_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:frp_x_preferred": [
+      "Châteaufort"
     ],
-    "name:fur_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:fur_x_preferred": [
+      "Châteaufort"
     ],
-    "name:gla_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:gla_x_preferred": [
+      "Châteaufort"
     ],
-    "name:gle_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:gle_x_preferred": [
+      "Châteaufort"
     ],
-    "name:glg_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:glg_x_preferred": [
+      "Châteaufort"
     ],
-    "name:gsw_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:gsw_x_preferred": [
+      "Châteaufort"
     ],
-    "name:hrv_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:hrv_x_preferred": [
+      "Châteaufort"
     ],
-    "name:hun_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:hun_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ido_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ido_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ile_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ile_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ina_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ina_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ind_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ind_x_preferred": [
+      "Châteaufort"
     ],
-    "name:isl_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:isl_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ita_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ita_x_preferred": [
+      "Châteaufort"
     ],
-    "name:jam_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:jam_x_preferred": [
+      "Châteaufort"
     ],
-    "name:kab_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:kab_x_preferred": [
+      "Châteaufort"
     ],
-    "name:kal_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:kal_x_preferred": [
+      "Châteaufort"
     ],
-    "name:kaz_x_preferred":[
-        "\u0428\u0430\u0442\u043e\u0444\u043e\u0440"
+    "name:kaz_x_preferred": [
+      "Шатофор"
     ],
-    "name:kon_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:kon_x_preferred": [
+      "Châteaufort"
     ],
-    "name:lat_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:lat_x_preferred": [
+      "Châteaufort"
     ],
-    "name:lav_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:lav_x_preferred": [
+      "Châteaufort"
     ],
-    "name:lij_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:lij_x_preferred": [
+      "Châteaufort"
     ],
-    "name:lim_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:lim_x_preferred": [
+      "Châteaufort"
     ],
-    "name:lit_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:lit_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ltz_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ltz_x_preferred": [
+      "Châteaufort"
     ],
-    "name:min_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:min_x_preferred": [
+      "Châteaufort"
     ],
-    "name:mlg_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:mlg_x_preferred": [
+      "Châteaufort"
     ],
-    "name:msa_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:msa_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nan_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nan_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nap_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nap_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nds_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nds_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nld_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nld_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nno_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nno_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nob_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nob_x_preferred": [
+      "Châteaufort"
     ],
-    "name:nrm_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:nrm_x_preferred": [
+      "Châteaufort"
     ],
-    "name:oci_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:oci_x_preferred": [
+      "Châteaufort"
     ],
-    "name:pap_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:pap_x_preferred": [
+      "Châteaufort"
     ],
-    "name:pcd_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:pcd_x_preferred": [
+      "Châteaufort"
     ],
-    "name:pms_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:pms_x_preferred": [
+      "Châteaufort"
     ],
-    "name:pol_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:pol_x_preferred": [
+      "Châteaufort"
     ],
-    "name:por_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:por_x_preferred": [
+      "Châteaufort"
     ],
-    "name:prg_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:prg_x_preferred": [
+      "Châteaufort"
     ],
-    "name:rgn_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:rgn_x_preferred": [
+      "Châteaufort"
     ],
-    "name:roh_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:roh_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ron_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:ron_x_preferred": [
+      "Châteaufort"
     ],
-    "name:scn_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:scn_x_preferred": [
+      "Châteaufort"
     ],
-    "name:sco_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:sco_x_preferred": [
+      "Châteaufort"
     ],
-    "name:slk_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:slk_x_preferred": [
+      "Châteaufort"
     ],
-    "name:spa_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:spa_x_preferred": [
+      "Châteaufort"
     ],
-    "name:srd_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:srd_x_preferred": [
+      "Châteaufort"
     ],
-    "name:srp_x_preferred":[
-        "\u0428\u0430\u0442\u043e\u0444\u043e\u0440"
+    "name:srp_x_preferred": [
+      "Шатофор"
     ],
-    "name:swa_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:swa_x_preferred": [
+      "Châteaufort"
     ],
-    "name:swe_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:swe_x_preferred": [
+      "Châteaufort"
     ],
-    "name:tur_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:tur_x_preferred": [
+      "Châteaufort"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u0430\u0442\u043e\u0444\u043e\u0440"
+    "name:ukr_x_preferred": [
+      "Шатофор"
     ],
-    "name:vec_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:vec_x_preferred": [
+      "Châteaufort"
     ],
-    "name:vie_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:vie_x_preferred": [
+      "Châteaufort"
     ],
-    "name:vls_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:vls_x_preferred": [
+      "Châteaufort"
     ],
-    "name:vmf_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:vmf_x_preferred": [
+      "Châteaufort"
     ],
-    "name:vol_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:vol_x_preferred": [
+      "Châteaufort"
     ],
-    "name:war_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:war_x_preferred": [
+      "Châteaufort"
     ],
-    "name:wln_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:wln_x_preferred": [
+      "Châteaufort"
     ],
-    "name:wol_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:wol_x_preferred": [
+      "Châteaufort"
     ],
-    "name:zho_x_preferred":[
-        "\u6c99\u6258\u4f5b"
+    "name:zho_x_preferred": [
+      "沙托佛"
     ],
-    "name:zul_x_preferred":[
-        "Ch\u00e2teaufort"
+    "name:zul_x_preferred": [
+      "Châteaufort"
     ],
-    "qs:a0":"France",
-    "qs:a1":"*Yvelines",
-    "qs:a1r":"0\u00cele-de-France",
-    "qs:adm0":"France",
-    "qs:id":0,
-    "qs:la":"Bruy\u00e8res-sur-Oise",
-    "qs:la_lc":"*FR1195303116",
-    "qs:level":"locality",
-    "qs:loc":"Ch\u00e2teaufort",
-    "qs:loc_alt":"Chateaufort",
-    "qs:pop":0,
-    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"suburbs point-in-poly",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "qs:a0": "France",
+    "qs:a1": "*Yvelines",
+    "qs:a1r": "0Île-de-France",
+    "qs:adm0": "France",
+    "qs:id": 0,
+    "qs:la": "Bruyères-sur-Oise",
+    "qs:la_lc": "*FR1195303116",
+    "qs:level": "locality",
+    "qs:loc": "Châteaufort",
+    "qs:loc_alt": "Chateaufort",
+    "qs:pop": 0,
+    "qs:source": "ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "suburbs point-in-poly",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
-    "wd:wordcount":29,
-    "wof:belongsto":[
-        85683367,
-        102191581,
-        85633147,
-        404413665,
-        404228265,
-        404227465,
-        102069753
+    "src:lbl:centroid": "mapshaper",
+    "src:population": "geonames",
+    "wd:wordcount": 29,
+    "wof:belongsto": [
+      85683367,
+      102191581,
+      85633147,
+      404413665,
+      404228265,
+      404227465,
+      102069753
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fct:id":"0a4000b8-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":3026283,
-        "gp:id":584953,
-        "qs:id":901260,
-        "qs_pg:id":1125490,
-        "wd:id":"Q272420"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fct:id": "0a4000b8-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 3026283,
+      "gp:id": 584953,
+      "qs:id": 901260,
+      "qs_pg:id": 1125490,
+      "wd:id": "Q272420"
     },
-    "wof:country":"FR",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "FR",
+    "wof:created": 1624906516,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"604799476992fcdf45a2d31c636f5013",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102069753,
-            "localadmin_id":404413665,
-            "locality_id":101753455,
-            "macrocounty_id":404228265,
-            "macroregion_id":404227465,
-            "region_id":85683367
-        }
+    "wof:geomhash": "604799476992fcdf45a2d31c636f5013",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102069753,
+        "localadmin_id": 404413665,
+        "locality_id": 101753455,
+        "macrocounty_id": 404228265,
+        "macroregion_id": 404227465,
+        "region_id": 85683367
+      }
     ],
-    "wof:id":101753455,
-    "wof:lang":[
-        "fre"
+    "wof:id": 101753455,
+    "wof:lang": [
+      "fre"
     ],
-    "wof:lastmodified":1611601215,
-    "wof:name":"Ch\u00e2teaufort",
-    "wof:parent_id":404413665,
-    "wof:placetype":"locality",
-    "wof:population":1543,
-    "wof:population_rank":3,
-    "wof:repo":"whosonfirst-data-admin-fr",
-    "wof:superseded_by":[
-        1360695921
+    "wof:lastmodified": 1624906516,
+    "wof:name": "Châteaufort",
+    "wof:parent_id": 404413665,
+    "wof:placetype": "locality",
+    "wof:population": 1543,
+    "wof:population_rank": 3,
+    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:superseded_by": [
+      1360695921
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.069536,
     48.72988,
     2.122088,
     48.758374
-],
+  ],
   "geometry": {"coordinates":[[[2.069986,48.748402],[2.069885,48.748517],[2.069906,48.748516],[2.06975,48.750362],[2.069536,48.75291],[2.072467,48.755184],[2.074139,48.754131],[2.074789,48.754246],[2.0764,48.754516],[2.079653,48.756867],[2.086444,48.755878],[2.088607,48.758374],[2.088973,48.756083],[2.090326,48.75618],[2.090469,48.755286],[2.094529,48.755575],[2.094386,48.756469],[2.098446,48.756758],[2.098588,48.755864],[2.102648,48.756153],[2.10279,48.755259],[2.113616,48.756029],[2.113474,48.756923],[2.114827,48.757019],[2.11497,48.756125],[2.120383,48.756509],[2.121093,48.752041],[2.11974,48.751945],[2.120166,48.749264],[2.121519,48.74936],[2.122088,48.745786],[2.120735,48.74569],[2.120877,48.744796],[2.119524,48.7447],[2.119666,48.743806],[2.11696,48.743614],[2.116818,48.744508],[2.112759,48.744219],[2.112901,48.743326],[2.110196,48.743134],[2.109769,48.745814],[2.108416,48.745718],[2.108273,48.746612],[2.101509,48.746131],[2.101366,48.747024],[2.100013,48.746928],[2.099728,48.748715],[2.095669,48.748426],[2.095527,48.74932],[2.094174,48.749224],[2.093746,48.751904],[2.09104,48.751712],[2.090897,48.752605],[2.085485,48.75222],[2.085627,48.751326],[2.084274,48.75123],[2.084702,48.748549],[2.086055,48.748645],[2.086484,48.745964],[2.087837,48.746061],[2.088264,48.74338],[2.09097,48.743573],[2.091113,48.742679],[2.092466,48.742776],[2.092608,48.741882],[2.093961,48.741978],[2.094104,48.741085],[2.095456,48.741181],[2.096454,48.734926],[2.097807,48.735022],[2.098091,48.733235],[2.099444,48.733331],[2.099729,48.731544],[2.091613,48.730966],[2.091756,48.730072],[2.089051,48.72988],[2.088908,48.730773],[2.086203,48.73058],[2.086061,48.731474],[2.084708,48.731378],[2.084423,48.733165],[2.088481,48.733454],[2.08791,48.737028],[2.086557,48.736932],[2.085844,48.7414],[2.083139,48.741207],[2.082425,48.745675],[2.081072,48.745579],[2.080929,48.746472],[2.079576,48.746376],[2.079433,48.747269],[2.076727,48.747076],[2.076585,48.74797],[2.075232,48.747873],[2.075089,48.748767],[2.069986,48.748402]]],"type":"Polygon"}
 }

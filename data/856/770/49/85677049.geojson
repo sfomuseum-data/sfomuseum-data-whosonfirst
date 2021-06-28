@@ -2,178 +2,179 @@
   "id": 85677049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.007769,
-    "geom:area_square_m":96033514.831347,
-    "geom:bbox":"103.758453,1.324884,103.88147,1.448635",
-    "geom:latitude":1.399476,
-    "geom:longitude":103.807352,
-    "iso:country":"SG",
-    "label:eng_x_preferred_longname":[
-        "North West Community Development Council"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.007768755106499356,
+    "geom:area_square_m": 96033514.831347,
+    "geom:bbox": "103.758453,1.324884,103.881470,1.448635",
+    "geom:latitude": 1.3994761449352808,
+    "geom:longitude": 103.80735167122577,
+    "iso:country": "SG",
+    "label:eng_x_preferred_longname": [
+      "North West Community Development Council"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NW"
+    "label:eng_x_preferred_shortcode": [
+      "NW"
     ],
-    "lbl:latitude":1.401928,
-    "lbl:longitude":103.796168,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":1.401928,
-    "mps:longitude":103.796168,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":11.0,
-    "name:eng_x_preferred":[
-        "North West"
+    "lbl:latitude": 1.401928,
+    "lbl:longitude": 103.796168,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 1.401928,
+    "mps:longitude": 103.796168,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 11,
+    "name:eng_x_preferred": [
+      "North West"
     ],
-    "name:epo_x_preferred":[
-        "Nordokcidenta Distrikto"
+    "name:epo_x_preferred": [
+      "Nordokcidenta Distrikto"
     ],
-    "name:fra_x_preferred":[
-        "Nord-Ouest"
+    "name:fra_x_preferred": [
+      "Nord-Ouest"
     ],
-    "name:fra_x_variant":[
-        "District du Nord-Ouest"
+    "name:fra_x_variant": [
+      "District du Nord-Ouest"
     ],
-    "name:jpn_x_preferred":[
-        "\u5317\u897f\u5730\u533a"
+    "name:jpn_x_preferred": [
+      "北西地区"
     ],
-    "name:kor_x_preferred":[
-        "\ubd81\uc11c\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
+    "name:kor_x_preferred": [
+      "북서부 지구 사회 발전 이사회"
     ],
-    "name:spa_x_preferred":[
-        "Consejo del Noroeste"
+    "name:spa_x_preferred": [
+      "Consejo del Noroeste"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u5317\u793e\u533a\u53d1\u5c55\u7406\u4e8b\u4f1a"
+    "name:zho_x_preferred": [
+      "西北社区发展理事会"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"SGP",
-    "ne:adm0_label":"3",
-    "ne:adm0_sr":"3",
-    "ne:adm1_cod_1":"SGP-4873",
-    "ne:adm1_code":"SGP-4873",
-    "ne:admin":"Singapore",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"SG.NW",
-    "ne:code_local":"",
-    "ne:datarank":"10",
-    "ne:diss_me":"4873",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"0",
-    "ne:geonunit":"Singapore",
-    "ne:gn_a1_code":"SG.03",
-    "ne:gn_id":"7535958",
-    "ne:gn_level":"1",
-    "ne:gn_name":"North West Community Development Council",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"0",
-    "ne:gns_lang":"",
-    "ne:gns_level":"0",
-    "ne:gns_name":"",
-    "ne:gns_region":"",
-    "ne:gu_a3":"SGP",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"SG-03",
-    "ne:iso_a2":"SG",
-    "ne:labelrank":"20",
-    "ne:latitude":"1.41809000000",
-    "ne:longitude":"103.80800000000",
-    "ne:mapcolor13":3,
-    "ne:mapcolor9":7,
-    "ne:name":"North West",
-    "ne:name_alt":"",
-    "ne:name_len":10,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"",
-    "ne:provnum_ne":"0",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"10",
-    "ne:sov_a3":"SGP",
-    "ne:sub_code":"",
-    "ne:type":"",
-    "ne:type_en":"",
-    "ne:wikipedia":"http://en.wikipedia.org/wiki/North_West_Community_Development_Council",
-    "ne:woe_id":24703045,
-    "ne:woe_label":"North West, SG, Singapore",
-    "ne:woe_name":"North West",
-    "qs:a0":"Singapore",
-    "qs:a0_lc":"SG",
-    "qs:a1":"North West",
-    "qs:a1_lc":"SGP-4873",
-    "qs:adm0":"Singapore",
-    "qs:adm0_a3":"SGP",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "unlc:subdivision":"SG-03",
-    "wof:belongsto":[
-        102191569,
-        85632605
+    "ne:abbrev": "",
+    "ne:adm0_a3": "SGP",
+    "ne:adm0_label": "3",
+    "ne:adm0_sr": "3",
+    "ne:adm1_cod_1": "SGP-4873",
+    "ne:adm1_code": "SGP-4873",
+    "ne:admin": "Singapore",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "SG.NW",
+    "ne:code_local": "",
+    "ne:datarank": "10",
+    "ne:diss_me": "4873",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "0",
+    "ne:geonunit": "Singapore",
+    "ne:gn_a1_code": "SG.03",
+    "ne:gn_id": "7535958",
+    "ne:gn_level": "1",
+    "ne:gn_name": "North West Community Development Council",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "0",
+    "ne:gns_lang": "",
+    "ne:gns_level": "0",
+    "ne:gns_name": "",
+    "ne:gns_region": "",
+    "ne:gu_a3": "SGP",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "SG-03",
+    "ne:iso_a2": "SG",
+    "ne:labelrank": "20",
+    "ne:latitude": "1.41809000000",
+    "ne:longitude": "103.80800000000",
+    "ne:mapcolor13": 3,
+    "ne:mapcolor9": 7,
+    "ne:name": "North West",
+    "ne:name_alt": "",
+    "ne:name_len": 10,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "",
+    "ne:provnum_ne": "0",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "10",
+    "ne:sov_a3": "SGP",
+    "ne:sub_code": "",
+    "ne:type": "",
+    "ne:type_en": "",
+    "ne:wikipedia": "http://en.wikipedia.org/wiki/North_West_Community_Development_Council",
+    "ne:woe_id": 24703045,
+    "ne:woe_label": "North West, SG, Singapore",
+    "ne:woe_name": "North West",
+    "qs:a0": "Singapore",
+    "qs:a0_lc": "SG",
+    "qs:a1": "North West",
+    "qs:a1_lc": "SGP-4873",
+    "qs:adm0": "Singapore",
+    "qs:adm0_a3": "SGP",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "unlc:subdivision": "SG-03",
+    "wof:belongsto": [
+      102191569,
+      85632605
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"",
-        "gn:id":7535958,
-        "gp:id":24703045,
-        "hasc:id":"SG.NW",
-        "qs_pg:id":1097112,
-        "unlc:id":"SG-03",
-        "wd:id":"Q7057238",
-        "wk:page":"North West Community Development Council"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "",
+      "gn:id": 7535958,
+      "gp:id": 24703045,
+      "hasc:id": "SG.NW",
+      "qs_pg:id": 1097112,
+      "unlc:id": "SG-03",
+      "wd:id": "Q7057238",
+      "wk:page": "North West Community Development Council"
     },
-    "wof:country":"SG",
-    "wof:geomhash":"51fccfa7ee4c1424a8b56f4e0e3a4d42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632605,
-            "region_id":85677049
-        }
+    "wof:country": "SG",
+    "wof:created": 1624906864,
+    "wof:geomhash": "51fccfa7ee4c1424a8b56f4e0e3a4d42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632605,
+        "region_id": 85677049
+      }
     ],
-    "wof:id":85677049,
-    "wof:lang_x_official":[
-        "eng",
-        "zho",
-        "msa",
-        "tam"
+    "wof:id": 85677049,
+    "wof:lang_x_official": [
+      "eng",
+      "zho",
+      "msa",
+      "tam"
     ],
-    "wof:lang_x_spoken":[
-        "eng",
-        "zho",
-        "msa",
-        "tam"
+    "wof:lang_x_spoken": [
+      "eng",
+      "zho",
+      "msa",
+      "tam"
     ],
-    "wof:lastmodified":1611601001,
-    "wof:name":"North West",
-    "wof:parent_id":85632605,
-    "wof:placetype":"region",
-    "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:shortcode":"NW",
-    "wof:subdivision":"SG-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906864,
+    "wof:name": "North West",
+    "wof:parent_id": 85632605,
+    "wof:placetype": "region",
+    "wof:repo": "whosonfirst-data-admin-sg",
+    "wof:shortcode": "NW",
+    "wof:subdivision": "SG-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.758453,
     1.324884,
     103.88147,
     1.448635
-],
-  "geometry": {"coordinates":[[[103.88146999999999,1.426579],[103.874315,1.418092],[103.862664,1.416798],[103.85036599999999,1.417445],[103.84130399999999,1.416798],[103.83353700000001,1.40903],[103.83094800000001,1.400616],[103.83741999999999,1.393496],[103.84130399999999,1.385728],[103.842598,1.377961],[103.83483099999999,1.371488],[103.82447500000001,1.365663],[103.81929700000001,1.357896],[103.82382699999999,1.350776],[103.82382699999999,1.340419],[103.81476600000001,1.331357],[103.80635100000001,1.324884],[103.79793600000001,1.333946],[103.79016900000001,1.340419],[103.782402,1.343008],[103.78046000000001,1.347539],[103.784344,1.351423],[103.78822700000001,1.355954],[103.78758000000001,1.362427],[103.777871,1.370194],[103.770751,1.376019],[103.763631,1.383139],[103.758453,1.390259],[103.758453,1.40191],[103.7591,1.410325],[103.761042,1.421329],[103.762218,1.430976],[103.79004999999999,1.444281],[103.804942,1.448635],[103.831554,1.447089],[103.85718799999999,1.438707],[103.88146999999999,1.426579]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[103.88147,1.426579],[103.874315,1.418092],[103.862664,1.416798],[103.850366,1.417445],[103.841304,1.416798],[103.833537,1.40903],[103.830948,1.400616],[103.83742,1.393496],[103.841304,1.385728],[103.842598,1.377961],[103.834831,1.371488],[103.824475,1.365663],[103.819297,1.357896],[103.823827,1.350776],[103.823827,1.340419],[103.814766,1.331357],[103.806351,1.324884],[103.797936,1.333946],[103.790169,1.340419],[103.782402,1.343008],[103.78046,1.347539],[103.784344,1.351423],[103.788227,1.355954],[103.78758,1.362427],[103.777871,1.370194],[103.770751,1.376019],[103.763631,1.383139],[103.758453,1.390259],[103.758453,1.40191],[103.7591,1.410325],[103.761042,1.421329],[103.762218,1.430976],[103.79005,1.444281],[103.804942,1.448635],[103.831554,1.447089],[103.857188,1.438707],[103.88147,1.426579]]],"type":"Polygon"}
 }

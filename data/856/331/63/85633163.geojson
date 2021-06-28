@@ -2,1305 +2,1306 @@
   "id": 85633163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":7.565952,
-    "geom:area_square_m":69325598748.681488,
-    "geom:bbox":"40.002357,41.056139,46.733437,43.584003",
-    "geom:latitude":42.178496,
-    "geom:longitude":43.500644,
-    "gn:population":4630000,
-    "iso:country":"GE",
-    "itu:country_code":[
-        "995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 7.565952260683487,
+    "geom:area_square_m": 69325598748.68149,
+    "geom:bbox": "40.002357,41.056139,46.733437,43.584003",
+    "geom:latitude": 42.17849596866194,
+    "geom:longitude": 43.50064354308392,
+    "gn:population": 4630000,
+    "iso:country": "GE",
+    "itu:country_code": [
+      "995"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "GE"
+    "label:eng_x_preferred_shortcode": [
+      "GE"
     ],
-    "lbl:latitude":41.870087,
-    "lbl:longitude":43.735725,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":41.870087,
-    "mps:longitude":43.735725,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":9.0,
-    "mz:min_zoom":4.0,
-    "name:abk_x_preferred":[
-        "\u049a\u044b\u0440\u04ad\u0442\u04d9\u044b\u043b\u0430"
+    "lbl:latitude": 41.870087,
+    "lbl:longitude": 43.735725,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 41.870087,
+    "mps:longitude": 43.735725,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 9,
+    "mz:min_zoom": 4,
+    "name:abk_x_preferred": [
+      "Қырҭтәыла"
     ],
-    "name:ace_x_preferred":[
-        "Georgia"
+    "name:ace_x_preferred": [
+      "Georgia"
     ],
-    "name:ady_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u0435"
+    "name:ady_x_preferred": [
+      "Грузие"
     ],
-    "name:afr_x_preferred":[
-        "Georgi\u00eb"
+    "name:afr_x_preferred": [
+      "Georgië"
     ],
-    "name:aka_x_preferred":[
-        "Gy\u0254gyea"
+    "name:aka_x_preferred": [
+      "Gyɔgyea"
     ],
-    "name:als_x_preferred":[
-        "Georgien"
+    "name:als_x_preferred": [
+      "Georgien"
     ],
-    "name:amh_x_preferred":[
-        "\u1306\u122d\u1302\u12eb"
+    "name:amh_x_preferred": [
+      "ጆርጂያ"
     ],
-    "name:amh_x_variant":[
-        "\u1302\u12ee\u122d\u1302\u12eb"
+    "name:amh_x_variant": [
+      "ጂዮርጂያ"
     ],
-    "name:ang_x_preferred":[
-        "Georgia"
+    "name:ang_x_preferred": [
+      "Georgia"
     ],
-    "name:ara_x_preferred":[
-        "\u062c\u0648\u0631\u062c\u064a\u0627"
+    "name:ara_x_preferred": [
+      "جورجيا"
     ],
-    "name:ara_x_variant":[
-        "\u062c\u0648\u0631\u062c\u064a\u0627 (\u062a\u0648\u0636\u064a\u062d)"
+    "name:ara_x_variant": [
+      "جورجيا (توضيح)"
     ],
-    "name:arc_x_preferred":[
-        "\u0713\u0718\u072a\u0713\u071d\u0710"
+    "name:arc_x_preferred": [
+      "ܓܘܪܓܝܐ"
     ],
-    "name:arg_x_preferred":[
-        "Cheorchia"
+    "name:arg_x_preferred": [
+      "Cheorchia"
     ],
-    "name:ary_x_preferred":[
-        "\u062c\u0648\u0631\u062c\u064a\u0627"
+    "name:ary_x_preferred": [
+      "جورجيا"
     ],
-    "name:arz_x_preferred":[
-        "\u062c\u064a\u0648\u0631\u062c\u064a\u0627"
+    "name:arz_x_preferred": [
+      "جيورجيا"
     ],
-    "name:asm_x_preferred":[
-        "\u099c\u09f0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    "name:asm_x_preferred": [
+      "জৰ্জিয়া"
     ],
-    "name:ast_x_preferred":[
-        "Xeorxa"
+    "name:ast_x_preferred": [
+      "Xeorxa"
     ],
-    "name:ast_x_variant":[
-        "Xorxa"
+    "name:ast_x_variant": [
+      "Xorxa"
     ],
-    "name:ava_x_preferred":[
-        "\u0413\u0443\u0440\u0436\u0438"
+    "name:ava_x_preferred": [
+      "Гуржи"
     ],
-    "name:aym_x_preferred":[
-        "Kartulsuyu"
+    "name:aym_x_preferred": [
+      "Kartulsuyu"
     ],
-    "name:azb_x_preferred":[
-        "\u06af\u0648\u0631\u062c\u06cc\u0633\u062a\u0627\u0646"
+    "name:azb_x_preferred": [
+      "گورجیستان"
     ],
-    "name:aze_x_preferred":[
-        "G\u00fcrc\u00fcstan"
+    "name:aze_x_preferred": [
+      "Gürcüstan"
     ],
-    "name:bak_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:bak_x_preferred": [
+      "Грузия"
     ],
-    "name:bam_x_preferred":[
-        "Zey\u0254rzi"
+    "name:bam_x_preferred": [
+      "Zeyɔrzi"
     ],
-    "name:ban_x_preferred":[
-        "Georgia"
+    "name:ban_x_preferred": [
+      "Georgia"
     ],
-    "name:bar_x_preferred":[
-        "Georgien"
+    "name:bar_x_preferred": [
+      "Georgien"
     ],
-    "name:bcl_x_preferred":[
-        "Georgya"
+    "name:bcl_x_preferred": [
+      "Georgya"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0456\u044f"
+    "name:bel_x_preferred": [
+      "Грузія"
     ],
-    "name:ben_x_preferred":[
-        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be (\u09a6\u09cd\u09ac\u09cd\u09af\u09b0\u09cd\u09a5\u09a4\u09be \u09a8\u09bf\u09b0\u09b8\u09a8)"
+    "name:ben_x_preferred": [
+      "জর্জিয়া (দ্ব্যর্থতা নিরসন)"
     ],
-    "name:ben_x_variant":[
-        "\u099c\u09b0\u09cd\u099c\u09bf\u09df\u09be",
-        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    "name:ben_x_variant": [
+      "জর্জিয়া",
+      "জর্জিয়া"
     ],
-    "name:bgn_x_preferred":[
-        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:bgn_x_preferred": [
+      "گرجستان"
     ],
-    "name:bho_x_preferred":[
-        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:bho_x_preferred": [
+      "जॉर्जिया"
     ],
-    "name:bih_x_preferred":[
-        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:bih_x_preferred": [
+      "जॉर्जिया"
     ],
-    "name:bis_x_preferred":[
-        "Georgian Republic"
+    "name:bis_x_preferred": [
+      "Georgian Republic"
     ],
-    "name:bjn_x_preferred":[
-        "Jorjiya"
+    "name:bjn_x_preferred": [
+      "Jorjiya"
     ],
-    "name:bod_x_preferred":[
-        "\u0f47\u0f7c\u0f62\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f0d"
+    "name:bod_x_preferred": [
+      "ཇོར་ཇི་ཡ།"
     ],
-    "name:bod_x_variant":[
-        "\u0f60\u0f47\u0f7c\u0f62\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f0d"
+    "name:bod_x_variant": [
+      "འཇོར་ཇི་ཡ།"
     ],
-    "name:bos_x_preferred":[
-        "Gruzija"
+    "name:bos_x_preferred": [
+      "Gruzija"
     ],
-    "name:bpy_x_preferred":[
-        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be (\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0)"
+    "name:bpy_x_preferred": [
+      "জর্জিয়া (রাষ্ট্র)"
     ],
-    "name:bpy_x_variant":[
-        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    "name:bpy_x_variant": [
+      "জর্জিয়া"
     ],
-    "name:bre_x_preferred":[
-        "Georgia (dishe\u00f1velout)"
+    "name:bre_x_preferred": [
+      "Georgia (disheñvelout)"
     ],
-    "name:bre_x_variant":[
-        "Jorjia"
+    "name:bre_x_variant": [
+      "Jorjia"
     ],
-    "name:brh_x_preferred":[
-        "J\u00e1rj\u00ed\u00e1"
+    "name:brh_x_preferred": [
+      "Járjíá"
     ],
-    "name:bul_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:bul_x_preferred": [
+      "Грузия"
     ],
-    "name:bxr_x_preferred":[
-        "\u0413\u04af\u0440\u0436"
+    "name:bxr_x_preferred": [
+      "Гүрж"
     ],
-    "name:cat_x_preferred":[
-        "Ge\u00f2rgia (desambiguaci\u00f3)"
+    "name:cat_x_preferred": [
+      "Geòrgia (desambiguació)"
     ],
-    "name:cat_x_variant":[
-        "Ge\u00f2rgia"
+    "name:cat_x_variant": [
+      "Geòrgia"
     ],
-    "name:cdo_x_preferred":[
-        "G\u00e1h-l\u016b-g\u00e9k-\u0101"
+    "name:cdo_x_preferred": [
+      "Gáh-lū-gék-ā"
     ],
-    "name:cdo_x_variant":[
-        "Gruzia"
+    "name:cdo_x_variant": [
+      "Gruzia"
     ],
-    "name:ceb_x_preferred":[
-        "Georgia"
+    "name:ceb_x_preferred": [
+      "Georgia"
     ],
-    "name:ces_x_preferred":[
-        "Gruzie"
+    "name:ces_x_preferred": [
+      "Gruzie"
     ],
-    "name:che_x_preferred":[
-        "\u0413\u0443\u044c\u0440\u0436\u0438\u0439\u0447\u043e\u044c"
+    "name:che_x_preferred": [
+      "Гуьржийчоь"
     ],
-    "name:chr_x_preferred":[
-        "\u13e3\u13a0\u13e5\u13a2"
+    "name:chr_x_preferred": [
+      "ᏣᎠᏥᎢ"
     ],
-    "name:chu_x_preferred":[
-        "\u0413\u0454\u0461\u0440\u0433\u0457\ua657"
+    "name:chu_x_preferred": [
+      "Гєѡргїꙗ"
     ],
-    "name:chv_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438"
+    "name:chv_x_preferred": [
+      "Грузи"
     ],
-    "name:ckb_x_preferred":[
-        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:ckb_x_preferred": [
+      "گورجستان"
     ],
-    "name:cor_x_preferred":[
-        "Pow Grouzi"
+    "name:cor_x_preferred": [
+      "Pow Grouzi"
     ],
-    "name:cos_x_preferred":[
-        "Georgia"
+    "name:cos_x_preferred": [
+      "Georgia"
     ],
-    "name:crh_x_preferred":[
-        "G\u00fcrcistan"
+    "name:crh_x_preferred": [
+      "Gürcistan"
     ],
-    "name:csb_x_preferred":[
-        "Gr\u00ebz\u00f3\u0144sk\u00f4"
+    "name:csb_x_preferred": [
+      "Grëzóńskô"
     ],
-    "name:cym_x_preferred":[
-        "Georgia"
+    "name:cym_x_preferred": [
+      "Georgia"
     ],
-    "name:dan_x_preferred":[
-        "Georgien",
-        "Georgia (flertydig)"
+    "name:dan_x_preferred": [
+      "Georgien",
+      "Georgia (flertydig)"
     ],
-    "name:deu_at_x_preferred":[
-        "Georgien"
+    "name:deu_at_x_preferred": [
+      "Georgien"
     ],
-    "name:deu_ch_x_preferred":[
-        "Georgien"
+    "name:deu_ch_x_preferred": [
+      "Georgien"
     ],
-    "name:deu_x_preferred":[
-        "Georgia (Begriffskl\u00e4rung)"
+    "name:deu_x_preferred": [
+      "Georgia (Begriffsklärung)"
     ],
-    "name:deu_x_variant":[
-        "Georgien"
+    "name:deu_x_variant": [
+      "Georgien"
     ],
-    "name:diq_x_preferred":[
-        "Gurc\u0131stan"
+    "name:diq_x_preferred": [
+      "Gurcıstan"
     ],
-    "name:div_x_preferred":[
-        "\u0796\u07af\u0796\u07a8\u0794\u07a7"
+    "name:div_x_preferred": [
+      "ޖޯޖިޔާ"
     ],
-    "name:dsb_x_preferred":[
-        "Georgiska"
+    "name:dsb_x_preferred": [
+      "Georgiska"
     ],
-    "name:dty_x_preferred":[
-        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:dty_x_preferred": [
+      "जर्जिया"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f47\u0f7d\u0f0b\u0f47\u0f71"
+    "name:dzo_x_preferred": [
+      "ཇཽ་ཇཱ"
     ],
-    "name:ell_x_preferred":[
-        "\u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1 (\u03b1\u03c0\u03bf\u03c3\u03b1\u03c6\u03ae\u03bd\u03b9\u03c3\u03b7)"
+    "name:ell_x_preferred": [
+      "Γεωργία (αποσαφήνιση)"
     ],
-    "name:ell_x_variant":[
-        "\u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1"
+    "name:ell_x_variant": [
+      "Γεωργία"
     ],
-    "name:eng_ca_x_preferred":[
-        "Georgia"
+    "name:eng_ca_x_preferred": [
+      "Georgia"
     ],
-    "name:eng_gb_x_preferred":[
-        "Georgia"
+    "name:eng_gb_x_preferred": [
+      "Georgia"
     ],
-    "name:eng_x_historical":[
-        "Georgian Soviet Socialist Republic"
+    "name:eng_x_historical": [
+      "Georgian Soviet Socialist Republic"
     ],
-    "name:eng_x_preferred":[
-        "Georgia"
+    "name:eng_x_preferred": [
+      "Georgia"
     ],
-    "name:eng_x_unknown":[
-        "GE",
-        "GEO"
+    "name:eng_x_unknown": [
+      "GE",
+      "GEO"
     ],
-    "name:eng_x_variant":[
-        "Georgian",
-        "Georgian Soviet Socialist Republic",
-        "Republic of Georgia"
+    "name:eng_x_variant": [
+      "Georgian",
+      "Georgian Soviet Socialist Republic",
+      "Republic of Georgia"
     ],
-    "name:epo_x_preferred":[
-        "Kartvelujo"
+    "name:epo_x_preferred": [
+      "Kartvelujo"
     ],
-    "name:epo_x_variant":[
-        "Gruzio",
-        "Kartvelio"
+    "name:epo_x_variant": [
+      "Gruzio",
+      "Kartvelio"
     ],
-    "name:est_x_preferred":[
-        "Gruusia"
+    "name:est_x_preferred": [
+      "Gruusia"
     ],
-    "name:eus_x_preferred":[
-        "Georgia (argipena)"
+    "name:eus_x_preferred": [
+      "Georgia (argipena)"
     ],
-    "name:eus_x_variant":[
-        "Georgia"
+    "name:eus_x_variant": [
+      "Georgia"
     ],
-    "name:ewe_x_preferred":[
-        "Georgia nutome"
+    "name:ewe_x_preferred": [
+      "Georgia nutome"
     ],
-    "name:ewe_x_variant":[
-        "Georgia"
+    "name:ewe_x_variant": [
+      "Georgia"
     ],
-    "name:ext_x_preferred":[
-        "Ge\u00f3lgia"
+    "name:ext_x_preferred": [
+      "Geólgia"
     ],
-    "name:fao_x_preferred":[
-        "Georgia"
+    "name:fao_x_preferred": [
+      "Georgia"
     ],
-    "name:fas_x_preferred":[
-        "\u062c\u0648\u0631\u062c\u06cc\u0627 (\u0627\u0628\u0647\u0627\u0645\u200c\u0632\u062f\u0627\u06cc\u06cc)"
+    "name:fas_x_preferred": [
+      "جورجیا (ابهام‌زدایی)"
     ],
-    "name:fas_x_variant":[
-        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:fas_x_variant": [
+      "گرجستان"
     ],
-    "name:fij_x_preferred":[
-        "Georgia"
+    "name:fij_x_preferred": [
+      "Georgia"
     ],
-    "name:fin_x_preferred":[
-        "Georgia (t\u00e4smennyssivu)"
+    "name:fin_x_preferred": [
+      "Georgia (täsmennyssivu)"
     ],
-    "name:fin_x_variant":[
-        "Georgia"
+    "name:fin_x_variant": [
+      "Georgia"
     ],
-    "name:fra_x_colloquial":[
-        "Georgie"
+    "name:fra_x_colloquial": [
+      "Georgie"
     ],
-    "name:fra_x_preferred":[
-        "Georgia"
+    "name:fra_x_preferred": [
+      "Georgia"
     ],
-    "name:fra_x_variant":[
-        "G\u00e9orgie"
+    "name:fra_x_variant": [
+      "Géorgie"
     ],
-    "name:frp_x_preferred":[
-        "J\u00f4rg\u00b7ie"
+    "name:frp_x_preferred": [
+      "Jôrg·ie"
     ],
-    "name:frr_x_preferred":[
-        "Georgien"
+    "name:frr_x_preferred": [
+      "Georgien"
     ],
-    "name:fry_x_preferred":[
-        "Georgje"
+    "name:fry_x_preferred": [
+      "Georgje"
     ],
-    "name:fry_x_variant":[
-        "Ge\u00f6rgje"
+    "name:fry_x_variant": [
+      "Geörgje"
     ],
-    "name:ful_x_preferred":[
-        "Jeorgii"
+    "name:ful_x_preferred": [
+      "Jeorgii"
     ],
-    "name:ful_x_variant":[
-        "Jorjiya"
+    "name:ful_x_variant": [
+      "Jorjiya"
     ],
-    "name:gag_x_preferred":[
-        "Gruziya"
+    "name:gag_x_preferred": [
+      "Gruziya"
     ],
-    "name:gcr_x_preferred":[
-        "J\u00e9y\u00f2rji"
+    "name:gcr_x_preferred": [
+      "Jéyòrji"
     ],
-    "name:gla_x_preferred":[
-        "Georgia"
+    "name:gla_x_preferred": [
+      "Georgia"
     ],
-    "name:gla_x_variant":[
-        "A Chairtbheil",
-        "A' Chairtbheil"
+    "name:gla_x_variant": [
+      "A Chairtbheil",
+      "A' Chairtbheil"
     ],
-    "name:gle_x_preferred":[
-        "An tSeoirsia"
+    "name:gle_x_preferred": [
+      "An tSeoirsia"
     ],
-    "name:glg_x_preferred":[
-        "Xeorxia (hom\u00f3nimos)"
+    "name:glg_x_preferred": [
+      "Xeorxia (homónimos)"
     ],
-    "name:glg_x_variant":[
-        "Xeorxia - \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
-        "Xeorxia"
+    "name:glg_x_variant": [
+      "Xeorxia - საქართველო",
+      "Xeorxia"
     ],
-    "name:glv_x_preferred":[
-        "Yn \u00c7horshey"
+    "name:glv_x_preferred": [
+      "Yn Çhorshey"
     ],
-    "name:gom_x_preferred":[
-        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:gom_x_preferred": [
+      "जॉर्जिया"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf32\ud800\udf34\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf32\ud800\udf3e\ud800\udf30"
+    "name:got_x_preferred": [
+      "𐌲𐌴𐌰𐌿𐍂𐌲𐌾𐌰"
     ],
-    "name:grn_x_preferred":[
-        "Georgia"
+    "name:grn_x_preferred": [
+      "Georgia"
     ],
-    "name:gsw_x_preferred":[
-        "Georgie"
+    "name:gsw_x_preferred": [
+      "Georgie"
     ],
-    "name:guj_x_preferred":[
-        "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c\u0ac0\u0aaf\u0abe"
+    "name:guj_x_preferred": [
+      "જ્યોર્જીયા"
     ],
-    "name:hak_x_preferred":[
-        "Kak-l\u00fb-kit-\u00e2"
+    "name:hak_x_preferred": [
+      "Kak-lû-kit-â"
     ],
-    "name:hak_x_variant":[
-        "Gruzia"
+    "name:hak_x_variant": [
+      "Gruzia"
     ],
-    "name:hat_x_preferred":[
-        "Jeoji"
+    "name:hat_x_preferred": [
+      "Jeoji"
     ],
-    "name:hau_x_preferred":[
-        "Jiwarjiya"
+    "name:hau_x_preferred": [
+      "Jiwarjiya"
     ],
-    "name:hau_x_variant":[
-        "Georgia"
+    "name:hau_x_variant": [
+      "Georgia"
     ],
-    "name:haw_x_preferred":[
-        "Keokia"
+    "name:haw_x_preferred": [
+      "Keokia"
     ],
-    "name:hbs_x_preferred":[
-        "Gruzija"
+    "name:hbs_x_preferred": [
+      "Gruzija"
     ],
-    "name:heb_x_preferred":[
-        "\u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d4 (\u05e4\u05d9\u05e8\u05d5\u05e9\u05d5\u05e0\u05d9\u05dd)"
+    "name:heb_x_preferred": [
+      "ג'ורג'יה (פירושונים)"
     ],
-    "name:heb_x_variant":[
-        "\u05d2\u05e8\u05d5\u05d6\u05d9\u05d4",
-        "\u05d2\u05d0\u05d5\u05e8\u05d2\u05d9\u05d4",
-        "\u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d4"
+    "name:heb_x_variant": [
+      "גרוזיה",
+      "גאורגיה",
+      "ג'ורג'יה"
     ],
-    "name:hif_x_preferred":[
-        "Georgia"
+    "name:hif_x_preferred": [
+      "Georgia"
     ],
-    "name:hin_x_preferred":[
-        "\u091c\u094b\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:hin_x_preferred": [
+      "जोर्जिया"
     ],
-    "name:hin_x_variant":[
-        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:hin_x_variant": [
+      "जॉर्जिया"
     ],
-    "name:hrv_x_preferred":[
-        "Gruzija"
+    "name:hrv_x_preferred": [
+      "Gruzija"
     ],
-    "name:hsb_x_preferred":[
-        "Georgiska"
+    "name:hsb_x_preferred": [
+      "Georgiska"
     ],
-    "name:hun_x_preferred":[
-        "Gr\u00fazia",
-        "Georgia (egy\u00e9rtelm\u0171s\u00edt\u0151 lap)"
+    "name:hun_x_preferred": [
+      "Grúzia",
+      "Georgia (egyértelműsítő lap)"
     ],
-    "name:hye_x_preferred":[
-        "\u054e\u0580\u0561\u057d\u057f\u0561\u0576"
+    "name:hye_x_preferred": [
+      "Վրաստան"
     ],
-    "name:hyw_x_preferred":[
-        "\u054e\u0580\u0561\u057d\u057f\u0561\u0576"
+    "name:hyw_x_preferred": [
+      "Վրաստան"
     ],
-    "name:ido_x_preferred":[
-        "Georgia"
+    "name:ido_x_preferred": [
+      "Georgia"
     ],
-    "name:ido_x_variant":[
-        "Gruzia"
+    "name:ido_x_variant": [
+      "Gruzia"
     ],
-    "name:ile_x_preferred":[
-        "Georgia"
+    "name:ile_x_preferred": [
+      "Georgia"
     ],
-    "name:ilo_x_preferred":[
-        "Georgia"
+    "name:ilo_x_preferred": [
+      "Georgia"
     ],
-    "name:ina_x_preferred":[
-        "Georgia (disambiguation)"
+    "name:ina_x_preferred": [
+      "Georgia (disambiguation)"
     ],
-    "name:ina_x_variant":[
-        "Georgia"
+    "name:ina_x_variant": [
+      "Georgia"
     ],
-    "name:ind_x_preferred":[
-        "Georgia"
+    "name:ind_x_preferred": [
+      "Georgia"
     ],
-    "name:inh_x_preferred":[
-        "\u0413\u0443\u0440\u0436\u0435\u0445\u044c\u0435"
+    "name:inh_x_preferred": [
+      "Гуржехье"
     ],
-    "name:isl_x_preferred":[
-        "Georg\u00eda"
+    "name:isl_x_preferred": [
+      "Georgía"
     ],
-    "name:ita_x_preferred":[
-        "Georgia (disambigua)"
+    "name:ita_x_preferred": [
+      "Georgia (disambigua)"
     ],
-    "name:ita_x_variant":[
-        "Georgia"
+    "name:ita_x_variant": [
+      "Georgia"
     ],
-    "name:jam_x_preferred":[
-        "Jaajia"
+    "name:jam_x_preferred": [
+      "Jaajia"
     ],
-    "name:jam_x_variant":[
-        "Juoja"
+    "name:jam_x_variant": [
+      "Juoja"
     ],
-    "name:jav_x_preferred":[
-        "G\u00e9orgia"
+    "name:jav_x_preferred": [
+      "Géorgia"
     ],
-    "name:jav_x_variant":[
-        "Georgia"
+    "name:jav_x_variant": [
+      "Georgia"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b0\u30eb\u30b8\u30a2",
-        "\u30b8\u30e7\u30fc\u30b8\u30a2"
+    "name:jpn_x_preferred": [
+      "グルジア",
+      "ジョージア"
     ],
-    "name:jpn_x_variant":[
-        "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+    "name:jpn_x_variant": [
+      "グルジア共和国"
     ],
-    "name:kaa_x_preferred":[
-        "Gruziya"
+    "name:kaa_x_preferred": [
+      "Gruziya"
     ],
-    "name:kab_x_preferred":[
-        "Jurjya"
+    "name:kab_x_preferred": [
+      "Jurjya"
     ],
-    "name:kal_x_preferred":[
-        "Georgia"
+    "name:kal_x_preferred": [
+      "Georgia"
     ],
-    "name:kan_x_preferred":[
-        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0cbf\u0caf\u0cbe"
+    "name:kan_x_preferred": [
+      "ಜಾರ್ಜಿಯಾ"
     ],
-    "name:kan_x_variant":[
-        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0cbf\u0caf"
+    "name:kan_x_variant": [
+      "ಜಾರ್ಜಿಯ"
     ],
-    "name:kat_x_preferred":[
-        "Sakartvelo"
+    "name:kat_x_preferred": [
+      "Sakartvelo"
     ],
-    "name:kat_x_variant":[
-        "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+    "name:kat_x_variant": [
+      "საქართველო"
     ],
-    "name:kaz_x_preferred":[
-        "\u0413\u04af\u0440\u0436\u0456\u0441\u0442\u0430\u043d"
+    "name:kaz_x_preferred": [
+      "Гүржістан"
     ],
-    "name:kaz_x_variant":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:kaz_x_variant": [
+      "Грузия"
     ],
-    "name:kbd_x_preferred":[
-        "\u0425\u044a\u044b\u0440\u0446\u0435\u0439"
+    "name:kbd_x_preferred": [
+      "Хъырцей"
     ],
-    "name:khm_x_preferred":[
-        "\u17a0\u17d2\u179f\u1780\u17a0\u17d2\u179f\u17c9\u17b8"
+    "name:khm_x_preferred": [
+      "ហ្សកហ្ស៉ី"
     ],
-    "name:khm_x_variant":[
-        "\u1785\u1785\u1787\u17b8"
+    "name:khm_x_variant": [
+      "ចចជី"
     ],
-    "name:kik_x_preferred":[
-        "Jojia"
+    "name:kik_x_preferred": [
+      "Jojia"
     ],
-    "name:kik_x_variant":[
-        "Georgia"
+    "name:kik_x_variant": [
+      "Georgia"
     ],
-    "name:kin_x_preferred":[
-        "Geworugiya"
+    "name:kin_x_preferred": [
+      "Geworugiya"
     ],
-    "name:kir_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:kir_x_preferred": [
+      "Грузия"
     ],
-    "name:kom_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:kom_x_preferred": [
+      "Грузия"
     ],
-    "name:kon_x_preferred":[
-        "Georgia"
+    "name:kon_x_preferred": [
+      "Georgia"
     ],
-    "name:kor_x_preferred":[
-        "\uadf8\ub8e8\uc9c0\uc57c",
-        "\uc870\uc9c0\uc544"
+    "name:kor_x_preferred": [
+      "그루지야",
+      "조지아"
     ],
-    "name:kor_x_variant":[
-        "\uadf8\ub8e8\uc9c0\uc544"
+    "name:kor_x_variant": [
+      "그루지아"
     ],
-    "name:krc_x_preferred":[
-        "\u0413\u044e\u0440\u0434\u0436\u044e"
+    "name:krc_x_preferred": [
+      "Гюрджю"
     ],
-    "name:kur_x_preferred":[
-        "Gurcistan"
+    "name:kur_x_preferred": [
+      "Gurcistan"
     ],
-    "name:kur_x_variant":[
-        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:kur_x_variant": [
+      "گورجستان"
     ],
-    "name:lao_x_preferred":[
-        "\u0e88\u0ecd\u0ec0\u0e88\u0e8d"
+    "name:lao_x_preferred": [
+      "ຈໍເຈຍ"
     ],
-    "name:lao_x_variant":[
-        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec0\u0e8a\u0ead\u0eb1\u0ead\u0e81\u0e8a\u0eb5"
+    "name:lao_x_variant": [
+      "ປະເທດເຊອັອກຊີ"
     ],
-    "name:lat_x_preferred":[
-        "Georgia (discretiva)"
+    "name:lat_x_preferred": [
+      "Georgia (discretiva)"
     ],
-    "name:lat_x_variant":[
-        "Georgia"
+    "name:lat_x_variant": [
+      "Georgia"
     ],
-    "name:lav_x_preferred":[
-        "D\u017eord\u017eija (noz\u012bmju atdal\u012b\u0161ana)"
+    "name:lav_x_preferred": [
+      "Džordžija (nozīmju atdalīšana)"
     ],
-    "name:lav_x_variant":[
-        "Gruzija"
+    "name:lav_x_variant": [
+      "Gruzija"
     ],
-    "name:lbe_x_preferred":[
-        "\u0413\u0443\u0440\u0436\u0438\u0441\u0442\u0442\u0430\u043d"
+    "name:lbe_x_preferred": [
+      "Гуржисттан"
     ],
-    "name:lez_x_preferred":[
-        "\u0413\u0443\u0440\u0436\u0438\u0441\u0442\u0430\u043d"
+    "name:lez_x_preferred": [
+      "Гуржистан"
     ],
-    "name:lfn_x_preferred":[
-        "Sacartvelo"
+    "name:lfn_x_preferred": [
+      "Sacartvelo"
     ],
-    "name:lij_x_preferred":[
-        "Zorzia"
+    "name:lij_x_preferred": [
+      "Zorzia"
     ],
-    "name:lij_x_variant":[
-        "Ge\u00f2rgia"
+    "name:lij_x_variant": [
+      "Geòrgia"
     ],
-    "name:lim_x_preferred":[
-        "Georgi\u00eb"
+    "name:lim_x_preferred": [
+      "Georgië"
     ],
-    "name:lin_x_preferred":[
-        "Zorzi"
+    "name:lin_x_preferred": [
+      "Zorzi"
     ],
-    "name:lin_x_variant":[
-        "G\u00e9orgie"
+    "name:lin_x_variant": [
+      "Géorgie"
     ],
-    "name:lit_x_preferred":[
-        "Gruzija"
+    "name:lit_x_preferred": [
+      "Gruzija"
     ],
-    "name:lmo_x_preferred":[
-        "Georgia"
+    "name:lmo_x_preferred": [
+      "Georgia"
     ],
-    "name:lrc_x_preferred":[
-        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:lrc_x_preferred": [
+      "گورجستان"
     ],
-    "name:ltg_x_preferred":[
-        "Gruzeja"
+    "name:ltg_x_preferred": [
+      "Gruzeja"
     ],
-    "name:ltz_x_preferred":[
-        "Georgien"
+    "name:ltz_x_preferred": [
+      "Georgien"
     ],
-    "name:lub_x_preferred":[
-        "Joriji"
+    "name:lub_x_preferred": [
+      "Joriji"
     ],
-    "name:lug_x_preferred":[
-        "Gyogya"
+    "name:lug_x_preferred": [
+      "Gyogya"
     ],
-    "name:lzh_x_preferred":[
-        "\u683c\u9b6f\u5409\u4e9e"
+    "name:lzh_x_preferred": [
+      "格魯吉亞"
     ],
-    "name:mai_x_preferred":[
-        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:mai_x_preferred": [
+      "जर्जिया"
     ],
-    "name:mal_x_preferred":[
-        "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d3f\u0d2f (\u0d35\u0d3f\u0d35\u0d15\u0d4d\u0d37\u0d15\u0d7e)"
+    "name:mal_x_preferred": [
+      "ജോർജ്ജിയ (വിവക്ഷകൾ)"
     ],
-    "name:mal_x_variant":[
-        "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d3f\u0d2f"
+    "name:mal_x_variant": [
+      "ജോർജ്ജിയ"
     ],
-    "name:mar_x_preferred":[
-        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:mar_x_preferred": [
+      "जॉर्जिया"
     ],
-    "name:mdf_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u0435"
+    "name:mdf_x_preferred": [
+      "Грузие"
     ],
-    "name:mhr_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u0439"
+    "name:mhr_x_preferred": [
+      "Грузий"
     ],
-    "name:min_x_preferred":[
-        "Georgia"
+    "name:min_x_preferred": [
+      "Georgia"
     ],
-    "name:mkd_x_preferred":[
-        "\u040f\u043e\u0440\u045f\u0438\u0458\u0430"
+    "name:mkd_x_preferred": [
+      "Џорџија"
     ],
-    "name:mkd_x_variant":[
-        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    "name:mkd_x_variant": [
+      "Грузија"
     ],
-    "name:mlg_x_preferred":[
-        "Zeorzia"
+    "name:mlg_x_preferred": [
+      "Zeorzia"
     ],
-    "name:mlg_x_variant":[
-        "Jeorjia"
+    "name:mlg_x_variant": [
+      "Jeorjia"
     ],
-    "name:mlt_x_preferred":[
-        "\u0120or\u0121ja"
+    "name:mlt_x_preferred": [
+      "Ġorġja"
     ],
-    "name:mlt_x_variant":[
-        "\u0120eor\u0121ja"
+    "name:mlt_x_variant": [
+      "Ġeorġja"
     ],
-    "name:mon_x_preferred":[
-        "\u0413\u04af\u0440\u0436"
+    "name:mon_x_preferred": [
+      "Гүрж"
     ],
-    "name:mri_x_preferred":[
-        "H\u014dria"
+    "name:mri_x_preferred": [
+      "Hōria"
     ],
-    "name:mrj_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438"
+    "name:mrj_x_preferred": [
+      "Грузи"
     ],
-    "name:msa_x_preferred":[
-        "Georgia"
+    "name:msa_x_preferred": [
+      "Georgia"
     ],
-    "name:msa_x_variant":[
-        "Republik Georgia"
+    "name:msa_x_variant": [
+      "Republik Georgia"
     ],
-    "name:mya_x_preferred":[
-        "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
+    "name:mya_x_preferred": [
+      "ဂျော်ဂျီယာပြည်နယ်"
     ],
-    "name:mya_x_variant":[
-        "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c",
-        "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_variant": [
+      "ဂျော်ဂျီယာ",
+      "ဂျော်ဂျီယာနိုင်ငံ"
     ],
-    "name:myv_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    "name:myv_x_preferred": [
+      "Грузия Мастор"
     ],
-    "name:mzn_x_preferred":[
-        "\u06af\u0631\u062c\u0633\u062a\u0648\u0646"
+    "name:mzn_x_preferred": [
+      "گرجستون"
     ],
-    "name:nah_x_preferred":[
-        "Georgia"
+    "name:nah_x_preferred": [
+      "Georgia"
     ],
-    "name:nan_x_preferred":[
-        "Sakartvelo"
+    "name:nan_x_preferred": [
+      "Sakartvelo"
     ],
-    "name:nan_x_variant":[
-        "Gruzia"
+    "name:nan_x_variant": [
+      "Gruzia"
     ],
-    "name:nap_x_preferred":[
-        "Georgia"
+    "name:nap_x_preferred": [
+      "Georgia"
     ],
-    "name:nau_x_preferred":[
-        "Georgia"
+    "name:nau_x_preferred": [
+      "Georgia"
     ],
-    "name:nau_x_variant":[
-        "Djiordjiya"
+    "name:nau_x_variant": [
+      "Djiordjiya"
     ],
-    "name:nav_x_preferred":[
-        "J\u00f3ojah (A\u0142ts\u02bc\u00e1\u02bc\u00e1ztiin)"
+    "name:nav_x_preferred": [
+      "Jóojah (Ałtsʼáʼáztiin)"
     ],
-    "name:nav_x_variant":[
-        "J\u00f3ojah"
+    "name:nav_x_variant": [
+      "Jóojah"
     ],
-    "name:nde_x_preferred":[
-        "Georgia"
+    "name:nde_x_preferred": [
+      "Georgia"
     ],
-    "name:nds_nld_x_preferred":[
-        "Georgia (duurverwiesziede)"
+    "name:nds_nld_x_preferred": [
+      "Georgia (duurverwiesziede)"
     ],
-    "name:nds_x_preferred":[
-        "Georgien"
+    "name:nds_x_preferred": [
+      "Georgien"
     ],
-    "name:nep_x_preferred":[
-        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e (\u0938\u094d\u092a\u0937\u094d\u091f\u0924\u093e)"
+    "name:nep_x_preferred": [
+      "जर्जिया (स्पष्टता)"
     ],
-    "name:nep_x_variant":[
-        "\u091c\u094b\u0930\u094d\u091c\u093f\u092f\u093e",
-        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:nep_x_variant": [
+      "जोर्जिया",
+      "जर्जिया"
     ],
-    "name:new_x_preferred":[
-        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:new_x_preferred": [
+      "जर्जिया"
     ],
-    "name:new_x_variant":[
-        "\u091c\u094d\u092f\u094b\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:new_x_variant": [
+      "ज्योर्जिया"
     ],
-    "name:nld_x_colloquial":[
-        "Georgie"
+    "name:nld_x_colloquial": [
+      "Georgie"
     ],
-    "name:nld_x_preferred":[
-        "Georgia"
+    "name:nld_x_preferred": [
+      "Georgia"
     ],
-    "name:nld_x_variant":[
-        "Georgi\u00eb"
+    "name:nld_x_variant": [
+      "Georgië"
     ],
-    "name:nno_x_preferred":[
-        "Georgia (fleirtyding)"
+    "name:nno_x_preferred": [
+      "Georgia (fleirtyding)"
     ],
-    "name:nno_x_variant":[
-        "Georgia"
+    "name:nno_x_variant": [
+      "Georgia"
     ],
-    "name:nob_x_preferred":[
-        "Georgia"
+    "name:nob_x_preferred": [
+      "Georgia"
     ],
-    "name:nor_x_preferred":[
-        "Georgia (andre betydninger)"
+    "name:nor_x_preferred": [
+      "Georgia (andre betydninger)"
     ],
-    "name:nor_x_variant":[
-        "Georgia"
+    "name:nor_x_variant": [
+      "Georgia"
     ],
-    "name:nov_x_preferred":[
-        "Georgia"
+    "name:nov_x_preferred": [
+      "Georgia"
     ],
-    "name:oci_x_preferred":[
-        "Georgia"
+    "name:oci_x_preferred": [
+      "Georgia"
     ],
-    "name:olo_x_preferred":[
-        "Gruuzii"
+    "name:olo_x_preferred": [
+      "Gruuzii"
     ],
-    "name:ori_x_preferred":[
-        "\u0b1c\u0b30\u0b4d\u0b1c\u0b3f\u0b06"
+    "name:ori_x_preferred": [
+      "ଜର୍ଜିଆ"
     ],
-    "name:orm_x_preferred":[
-        "Jioorjiyaa"
+    "name:orm_x_preferred": [
+      "Jioorjiyaa"
     ],
-    "name:orm_x_variant":[
-        "Ji'oorjiyaa"
+    "name:orm_x_variant": [
+      "Ji'oorjiyaa"
     ],
-    "name:oss_x_preferred":[
-        "\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d"
+    "name:oss_x_preferred": [
+      "Гуырдзыстон"
     ],
-    "name:pag_x_preferred":[
-        "Georgia"
+    "name:pag_x_preferred": [
+      "Georgia"
     ],
-    "name:pam_x_preferred":[
-        "Georgya"
+    "name:pam_x_preferred": [
+      "Georgya"
     ],
-    "name:pan_x_preferred":[
-        "\u0a1c\u0a3e\u0a30\u0a1c\u0a40\u0a06"
+    "name:pan_x_preferred": [
+      "ਜਾਰਜੀਆ"
     ],
-    "name:pap_x_preferred":[
-        "Georgia"
+    "name:pap_x_preferred": [
+      "Georgia"
     ],
-    "name:pcd_x_preferred":[
-        "G\u00e9orgie"
+    "name:pcd_x_preferred": [
+      "Géorgie"
     ],
-    "name:pih_x_preferred":[
-        "Jorja"
+    "name:pih_x_preferred": [
+      "Jorja"
     ],
-    "name:pli_x_preferred":[
-        "\u091c\u093e\u0930\u094d\u091c\u093f\u092f\u093e-\u0926\u0947\u0936:"
+    "name:pli_x_preferred": [
+      "जार्जिया-देश:"
     ],
-    "name:pms_x_preferred":[
-        "Ge\u00f2rgia"
+    "name:pms_x_preferred": [
+      "Geòrgia"
     ],
-    "name:pnb_x_preferred":[
-        "\u062c\u0627\u0631\u062c\u06cc\u0627"
+    "name:pnb_x_preferred": [
+      "جارجیا"
     ],
-    "name:pnb_x_variant":[
-        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:pnb_x_variant": [
+      "گرجستان"
     ],
-    "name:pnt_x_preferred":[
-        "\u0393\u03c1\u03bf\u03c5\u03b6\u03af\u03b1"
+    "name:pnt_x_preferred": [
+      "Γρουζία"
     ],
-    "name:pol_x_preferred":[
-        "Gruzja",
-        "Georgia (ujednoznacznienie)"
+    "name:pol_x_preferred": [
+      "Gruzja",
+      "Georgia (ujednoznacznienie)"
     ],
-    "name:por_br_x_preferred":[
-        "Ge\u00f3rgia"
+    "name:por_br_x_preferred": [
+      "Geórgia"
     ],
-    "name:por_x_preferred":[
-        "Ge\u00f3rgia",
-        "Ge\u00f3rgia (desambigua\u00e7\u00e3o)"
+    "name:por_x_preferred": [
+      "Geórgia",
+      "Geórgia (desambiguação)"
     ],
-    "name:pus_x_preferred":[
-        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:pus_x_preferred": [
+      "گرجستان"
     ],
-    "name:pus_x_variant":[
-        "\u06ab\u0631\u062c\u0633\u062a\u0627\u0646"
+    "name:pus_x_variant": [
+      "ګرجستان"
     ],
-    "name:que_x_preferred":[
-        "Kartulsuyu"
+    "name:que_x_preferred": [
+      "Kartulsuyu"
     ],
-    "name:roh_x_preferred":[
-        "Georgia"
+    "name:roh_x_preferred": [
+      "Georgia"
     ],
-    "name:ron_x_preferred":[
-        "Georgia (dezambiguizare)"
+    "name:ron_x_preferred": [
+      "Georgia (dezambiguizare)"
     ],
-    "name:ron_x_variant":[
-        "Georgia",
-        "\u04c1\u0435\u043e\u0440\u04c2\u0438\u044f"
+    "name:ron_x_variant": [
+      "Georgia",
+      "Ӂеорӂия"
     ],
-    "name:rue_x_preferred":[
-        "\u0490\u0440\u0443\u0437\u0456\u044f"
+    "name:rue_x_preferred": [
+      "Ґрузія"
     ],
-    "name:run_x_preferred":[
-        "Jeworujiya"
+    "name:run_x_preferred": [
+      "Jeworujiya"
     ],
-    "name:rup_x_preferred":[
-        "Georgia"
+    "name:rup_x_preferred": [
+      "Georgia"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)"
+    "name:rus_x_preferred": [
+      "Джорджия (значения)"
     ],
-    "name:rus_x_variant":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:rus_x_variant": [
+      "Грузия"
     ],
-    "name:sag_x_preferred":[
-        "Zorz\u00efi"
+    "name:sag_x_preferred": [
+      "Zorzïi"
     ],
-    "name:sah_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:sah_x_preferred": [
+      "Грузия"
     ],
-    "name:san_x_preferred":[
-        "\u091c\u093e\u0930\u094d\u091c\u093f\u092f\u093e"
+    "name:san_x_preferred": [
+      "जार्जिया"
     ],
-    "name:sat_x_preferred":[
-        "\u1c61\u1c5a\u1c68\u1c61\u1c64\u1c6d\u1c5f"
+    "name:sat_x_preferred": [
+      "ᱡᱚᱨᱡᱤᱭᱟ"
     ],
-    "name:scn_x_preferred":[
-        "Giorgia"
+    "name:scn_x_preferred": [
+      "Giorgia"
     ],
-    "name:sco_x_preferred":[
-        "Georgie"
+    "name:sco_x_preferred": [
+      "Georgie"
     ],
-    "name:sgs_x_preferred":[
-        "Groz\u0117j\u0117"
+    "name:sgs_x_preferred": [
+      "Grozėjė"
     ],
-    "name:sin_x_preferred":[
-        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0dcf"
+    "name:sin_x_preferred": [
+      "ජෝර්ජියා"
     ],
-    "name:sin_x_variant":[
-        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0dcf\u0dc0"
+    "name:sin_x_variant": [
+      "ජෝර්ජියාව"
     ],
-    "name:slk_x_preferred":[
-        "Georgia"
+    "name:slk_x_preferred": [
+      "Georgia"
     ],
-    "name:slk_x_variant":[
-        "Gruz\u00ednsko"
+    "name:slk_x_variant": [
+      "Gruzínsko"
     ],
-    "name:slv_x_preferred":[
-        "Gruzija"
+    "name:slv_x_preferred": [
+      "Gruzija"
     ],
-    "name:sma_x_preferred":[
-        "Georgia"
+    "name:sma_x_preferred": [
+      "Georgia"
     ],
-    "name:sme_x_preferred":[
-        "Georgia"
+    "name:sme_x_preferred": [
+      "Georgia"
     ],
-    "name:smo_x_preferred":[
-        "Siaosia"
+    "name:smo_x_preferred": [
+      "Siaosia"
     ],
-    "name:sna_x_preferred":[
-        "Georgia"
+    "name:sna_x_preferred": [
+      "Georgia"
     ],
-    "name:snd_x_preferred":[
-        "\u062c\u0627\u0631\u062c\u064a\u0627"
+    "name:snd_x_preferred": [
+      "جارجيا"
     ],
-    "name:som_x_preferred":[
-        "Joorjiya"
+    "name:som_x_preferred": [
+      "Joorjiya"
     ],
-    "name:spa_x_preferred":[
-        "Georgia (desambiguaci\u00f3n)"
+    "name:spa_x_preferred": [
+      "Georgia (desambiguación)"
     ],
-    "name:spa_x_variant":[
-        "Georgia"
+    "name:spa_x_variant": [
+      "Georgia"
     ],
-    "name:sqi_x_preferred":[
-        "Gjeorgji"
+    "name:sqi_x_preferred": [
+      "Gjeorgji"
     ],
-    "name:sqi_x_variant":[
-        "Gjeorgjia"
+    "name:sqi_x_variant": [
+      "Gjeorgjia"
     ],
-    "name:srd_x_preferred":[
-        "Georgia"
+    "name:srd_x_preferred": [
+      "Georgia"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    "name:srp_ec_x_preferred": [
+      "Грузија"
     ],
-    "name:srp_el_x_preferred":[
-        "Gruzija"
+    "name:srp_el_x_preferred": [
+      "Gruzija"
     ],
-    "name:srp_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    "name:srp_x_preferred": [
+      "Грузија"
     ],
-    "name:ssw_x_preferred":[
-        "IJojiya"
+    "name:ssw_x_preferred": [
+      "IJojiya"
     ],
-    "name:stq_x_preferred":[
-        "Georgien"
+    "name:stq_x_preferred": [
+      "Georgien"
     ],
-    "name:sun_x_preferred":[
-        "G\u00e9orgia"
+    "name:sun_x_preferred": [
+      "Géorgia"
     ],
-    "name:swa_x_preferred":[
-        "Georgia"
+    "name:swa_x_preferred": [
+      "Georgia"
     ],
-    "name:swa_x_variant":[
-        "Jojia"
+    "name:swa_x_variant": [
+      "Jojia"
     ],
-    "name:swe_x_preferred":[
-        "Georgien",
-        "Georgia (olika betydelser)"
+    "name:swe_x_preferred": [
+      "Georgien",
+      "Georgia (olika betydelser)"
     ],
-    "name:szl_x_preferred":[
-        "Gruzyjo"
+    "name:szl_x_preferred": [
+      "Gruzyjo"
     ],
-    "name:szy_x_preferred":[
-        "Georgia"
+    "name:szy_x_preferred": [
+      "Georgia"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0baf\u0bbe"
+    "name:tam_x_preferred": [
+      "ஜார்ஜியா"
     ],
-    "name:tam_x_variant":[
-        "\u0b9a\u0bbf\u0baf\u0bbe\u0bb0\u0bcd\u0b9a\u0bbf\u0baf\u0bbe"
+    "name:tam_x_variant": [
+      "சியார்சியா"
     ],
-    "name:tat_x_preferred":[
-        "\u0413\u04e9\u0440\u0497\u0438\u0441\u0442\u0430\u043d"
+    "name:tat_x_preferred": [
+      "Гөрҗистан"
     ],
-    "name:tel_x_preferred":[
-        "\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c3f\u0c2f\u0c3e"
+    "name:tel_x_preferred": [
+      "జార్జియా"
     ],
-    "name:tet_x_preferred":[
-        "Je\u00f3rjia"
+    "name:tet_x_preferred": [
+      "Jeórjia"
     ],
-    "name:tgk_x_preferred":[
-        "\u0413\u0443\u0440\u04b7\u0438\u0441\u0442\u043e\u043d"
+    "name:tgk_x_preferred": [
+      "Гурҷистон"
     ],
-    "name:tgl_x_preferred":[
-        "Heorhiya"
+    "name:tgl_x_preferred": [
+      "Heorhiya"
     ],
-    "name:tgl_x_variant":[
-        "Georgia"
+    "name:tgl_x_variant": [
+      "Georgia"
     ],
-    "name:tha_x_preferred":[
-        "\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22 (\u0e41\u0e01\u0e49\u0e04\u0e27\u0e32\u0e21\u0e01\u0e33\u0e01\u0e27\u0e21)"
+    "name:tha_x_preferred": [
+      "จอร์เจีย (แก้ความกำกวม)"
     ],
-    "name:tha_x_variant":[
-        "\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22",
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22"
+    "name:tha_x_variant": [
+      "จอร์เจีย",
+      "ประเทศจอร์เจีย"
     ],
-    "name:tir_x_preferred":[
-        "\u1306\u122d\u1302\u12eb"
+    "name:tir_x_preferred": [
+      "ጆርጂያ"
     ],
-    "name:ton_x_preferred":[
-        "S\u014dsia"
+    "name:ton_x_preferred": [
+      "Sōsia"
     ],
-    "name:tpi_x_preferred":[
-        "Georgia"
+    "name:tpi_x_preferred": [
+      "Georgia"
     ],
-    "name:tso_x_preferred":[
-        "Georgia"
+    "name:tso_x_preferred": [
+      "Georgia"
     ],
-    "name:tuk_x_preferred":[
-        "Gruzi\u00fda"
+    "name:tuk_x_preferred": [
+      "Gruziýa"
     ],
-    "name:tum_x_preferred":[
-        "Georgia"
+    "name:tum_x_preferred": [
+      "Georgia"
     ],
-    "name:tur_x_preferred":[
-        "Georgia (anlam ayr\u0131m\u0131)"
+    "name:tur_x_preferred": [
+      "Georgia (anlam ayrımı)"
     ],
-    "name:tur_x_variant":[
-        "G\u00fcrcistan"
+    "name:tur_x_variant": [
+      "Gürcistan"
     ],
-    "name:udm_x_preferred":[
-        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    "name:udm_x_preferred": [
+      "Грузия"
     ],
-    "name:uig_x_preferred":[
-        "\u06af\u0631\u06c7\u0632\u0649\u064a\u06d5"
+    "name:uig_x_preferred": [
+      "گرۇزىيە"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0436\u043e\u0440\u0434\u0436\u0456\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f)"
+    "name:ukr_x_preferred": [
+      "Джорджія (значення)"
     ],
-    "name:ukr_x_variant":[
-        "\u0413\u0440\u0443\u0437\u0456\u044f"
+    "name:ukr_x_variant": [
+      "Грузія"
     ],
-    "name:und_x_variant":[
-        "Republika Gruzija",
-        "Sak'art'velo",
-        "Sak\u2019art\u2019velos Respublika"
+    "name:und_x_variant": [
+      "Republika Gruzija",
+      "Sak'art'velo",
+      "Sak’art’velos Respublika"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0627\u0631\u062c\u06cc\u0627"
+    "name:urd_x_preferred": [
+      "جارجیا"
     ],
-    "name:urd_x_variant":[
-        "\u062c\u0648\u0631\u062c\u06cc\u0627"
+    "name:urd_x_variant": [
+      "جورجیا"
     ],
-    "name:uzb_x_preferred":[
-        "Gurjiston"
+    "name:uzb_x_preferred": [
+      "Gurjiston"
     ],
-    "name:vec_x_preferred":[
-        "Zorzania"
+    "name:vec_x_preferred": [
+      "Zorzania"
     ],
-    "name:vep_x_preferred":[
-        "Gruzii"
+    "name:vep_x_preferred": [
+      "Gruzii"
     ],
-    "name:vie_x_preferred":[
-        "Georgia (\u0111\u1ecbnh h\u01b0\u1edbng)"
+    "name:vie_x_preferred": [
+      "Georgia (định hướng)"
     ],
-    "name:vie_x_variant":[
-        "Gru-di-a",
-        "Gruzia",
-        "Gi\u00ea-o\u00f3c-gi-a (Georgia)"
+    "name:vie_x_variant": [
+      "Gru-di-a",
+      "Gruzia",
+      "Giê-oóc-gi-a (Georgia)"
     ],
-    "name:vls_x_preferred":[
-        "Georgi\u00eb"
+    "name:vls_x_preferred": [
+      "Georgië"
     ],
-    "name:vol_x_preferred":[
-        "Georgia (Telpl\u00e4nov)"
+    "name:vol_x_preferred": [
+      "Georgia (Telplänov)"
     ],
-    "name:vol_x_variant":[
-        "Georg\u00e4n",
-        "Grusiy\u00e4n"
+    "name:vol_x_variant": [
+      "Georgän",
+      "Grusiyän"
     ],
-    "name:vro_x_preferred":[
-        "Gruusia"
+    "name:vro_x_preferred": [
+      "Gruusia"
     ],
-    "name:war_x_preferred":[
-        "Georgia"
+    "name:war_x_preferred": [
+      "Georgia"
     ],
-    "name:wol_x_preferred":[
-        "Jeoorji"
+    "name:wol_x_preferred": [
+      "Jeoorji"
     ],
-    "name:wuu_x_preferred":[
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:wuu_x_preferred": [
+      "格鲁吉亚"
     ],
-    "name:xal_x_preferred":[
-        "\u0413\u04af\u0440\u0497\u043c\u04af\u0434\u0438\u043d \u041e\u0440\u043d"
+    "name:xal_x_preferred": [
+      "Гүрҗмүдин Орн"
     ],
-    "name:xmf_x_preferred":[
-        "\u10e1\u10d0\u10e5\u10dd\u10e0\u10d7\u10e3\u10dd"
+    "name:xmf_x_preferred": [
+      "საქორთუო"
     ],
-    "name:yid_x_preferred":[
-        "\u05d6\u05e9\u05d0\u05e8\u05d6\u05e9\u05d9\u05e2"
+    "name:yid_x_preferred": [
+      "זשארזשיע"
     ],
-    "name:yid_x_variant":[
-        "\u05d2\u05e8\u05d5\u05d6\u05d9\u05e2"
+    "name:yid_x_variant": [
+      "גרוזיע"
     ],
-    "name:yor_x_preferred":[
-        "Or\u00edl\u1eb9\u0301\u00e8de G\u1ecdgia"
+    "name:yor_x_preferred": [
+      "Orílẹ́ède Gọgia"
     ],
-    "name:yor_x_variant":[
-        "Georgia"
+    "name:yor_x_variant": [
+      "Georgia"
     ],
-    "name:yue_x_preferred":[
-        "\u683c\u9b6f\u5409\u4e9e"
+    "name:yue_x_preferred": [
+      "格魯吉亞"
     ],
-    "name:zea_x_preferred":[
-        "Georhi\u00eb"
+    "name:zea_x_preferred": [
+      "Georhië"
     ],
-    "name:zha_x_preferred":[
-        "Gruzia"
+    "name:zha_x_preferred": [
+      "Gruzia"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:zho_cn_x_preferred": [
+      "格鲁吉亚"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u683c\u9b6f\u5409\u4e9e"
+    "name:zho_hk_x_preferred": [
+      "格魯吉亞"
     ],
-    "name:zho_mo_x_preferred":[
-        "\u683c\u9b6f\u5409\u4e9e"
+    "name:zho_mo_x_preferred": [
+      "格魯吉亞"
     ],
-    "name:zho_my_x_preferred":[
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:zho_my_x_preferred": [
+      "格鲁吉亚"
     ],
-    "name:zho_sg_x_preferred":[
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:zho_sg_x_preferred": [
+      "格鲁吉亚"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u55ac\u6cbb\u4e9e"
+    "name:zho_tw_x_preferred": [
+      "喬治亞"
     ],
-    "name:zho_x_preferred":[
-        "\u55ac\u6cbb\u4e9e (\u6d88\u6b67\u7fa9)"
+    "name:zho_x_preferred": [
+      "喬治亞 (消歧義)"
     ],
-    "name:zho_x_variant":[
-        "\u55ac\u6cbb\u4e9e",
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:zho_x_variant": [
+      "喬治亞",
+      "格鲁吉亚"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u4f50\u6cbb\u4e9e"
+    "name:zho_yue_x_preferred": [
+      "佐治亞"
     ],
-    "name:zul_x_preferred":[
-        "i-Georgia"
+    "name:zul_x_preferred": [
+      "i-Georgia"
     ],
-    "ne:abbrev":"Geo.",
-    "ne:abbrev_len":4,
-    "ne:adm0_a3":"GEO",
-    "ne:adm0_a3_is":"GEO",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"GEO",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":0,
-    "ne:admin":"Georgia",
-    "ne:brk_a3":"GEO",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Georgia",
-    "ne:continent":"Asia",
-    "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"GG",
-    "ne:formal_en":"Georgia",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":21510,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Georgia",
-    "ne:gu_a3":"GEO",
-    "ne:homepart":1,
-    "ne:income_grp":"4. Lower middle income",
-    "ne:iso_a2":"GE",
-    "ne:iso_a3":"GEO",
-    "ne:iso_n3":268,
-    "ne:labelrank":5,
-    "ne:lastcensus":2002,
-    "ne:level":2,
-    "ne:long_len":7,
-    "ne:mapcolor13":2,
-    "ne:mapcolor7":5,
-    "ne:mapcolor8":1,
-    "ne:mapcolor9":3,
-    "ne:name":"Georgia",
-    "ne:name_alt":null,
-    "ne:name_len":7,
-    "ne:name_long":"Georgia",
-    "ne:name_sort":"Georgia",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":4615807,
-    "ne:pop_year":-99,
-    "ne:postal":"GE",
-    "ne:region_un":"Asia",
-    "ne:region_wb":"Europe & Central Asia",
-    "ne:scalerank":0,
-    "ne:sov_a3":"GEO",
-    "ne:sovereignt":"Georgia",
-    "ne:su_a3":"GEO",
-    "ne:su_dif":0,
-    "ne:subregion":"Western Asia",
-    "ne:subunit":"Georgia",
-    "ne:tiny":-99,
-    "ne:type":"Sovereign country",
-    "ne:un_a3":"268",
-    "ne:wb_a2":"GE",
-    "ne:wb_a3":"GEO",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":23424823,
-    "ne:woe_id_eh":23424823,
-    "ne:woe_note":"Exact WOE match as country",
-    "qs:a0":"\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
-    "qs:a0_alt":"Sakartvelo",
-    "qs:a0_lc":"GE000000000",
-    "qs:adm0":"Georgia",
-    "qs:adm0_a3":"GEO",
-    "qs:id":0,
-    "qs:level":"adm0",
-    "qs:source":"EuroGlobalMap",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "naturalearth",
-        "meso",
-        "quattroshapes"
+    "ne:abbrev": "Geo.",
+    "ne:abbrev_len": 4,
+    "ne:adm0_a3": "GEO",
+    "ne:adm0_a3_is": "GEO",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "GEO",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 0,
+    "ne:admin": "Georgia",
+    "ne:brk_a3": "GEO",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Georgia",
+    "ne:continent": "Asia",
+    "ne:economy": "6. Developing region",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "GG",
+    "ne:formal_en": "Georgia",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 21510,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Georgia",
+    "ne:gu_a3": "GEO",
+    "ne:homepart": 1,
+    "ne:income_grp": "4. Lower middle income",
+    "ne:iso_a2": "GE",
+    "ne:iso_a3": "GEO",
+    "ne:iso_n3": 268,
+    "ne:labelrank": 5,
+    "ne:lastcensus": 2002,
+    "ne:level": 2,
+    "ne:long_len": 7,
+    "ne:mapcolor13": 2,
+    "ne:mapcolor7": 5,
+    "ne:mapcolor8": 1,
+    "ne:mapcolor9": 3,
+    "ne:name": "Georgia",
+    "ne:name_alt": null,
+    "ne:name_len": 7,
+    "ne:name_long": "Georgia",
+    "ne:name_sort": "Georgia",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 4615807,
+    "ne:pop_year": -99,
+    "ne:postal": "GE",
+    "ne:region_un": "Asia",
+    "ne:region_wb": "Europe \u0026 Central Asia",
+    "ne:scalerank": 0,
+    "ne:sov_a3": "GEO",
+    "ne:sovereignt": "Georgia",
+    "ne:su_a3": "GEO",
+    "ne:su_dif": 0,
+    "ne:subregion": "Western Asia",
+    "ne:subunit": "Georgia",
+    "ne:tiny": -99,
+    "ne:type": "Sovereign country",
+    "ne:un_a3": "268",
+    "ne:wb_a2": "GE",
+    "ne:wb_a3": "GEO",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": 23424823,
+    "ne:woe_id_eh": 23424823,
+    "ne:woe_note": "Exact WOE match as country",
+    "qs:a0": "საქართველო",
+    "qs:a0_alt": "Sakartvelo",
+    "qs:a0_lc": "GE000000000",
+    "qs:adm0": "Georgia",
+    "qs:adm0_a3": "GEO",
+    "qs:id": 0,
+    "qs:level": "adm0",
+    "qs:source": "EuroGlobalMap",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "naturalearth",
+      "meso",
+      "quattroshapes"
     ],
-    "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "statoids:dial":"995",
-    "statoids:ds":"GE",
-    "statoids:fifa":"GEO",
-    "statoids:gaul":"92",
-    "statoids:gec":"GG",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"GEO",
-    "statoids:iso_a2":"GE",
-    "statoids:iso_a3":"GEO",
-    "statoids:iso_num":"268",
-    "statoids:itu":"GEO",
-    "statoids:marc":"gs",
-    "statoids:name":"Georgia",
-    "statoids:wmo":"GG",
-    "wof:belongsto":[
-        102191569
+    "src:geom_via": "quattroshapes",
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "statoids:dial": "995",
+    "statoids:ds": "GE",
+    "statoids:fifa": "GEO",
+    "statoids:gaul": "92",
+    "statoids:gec": "GG",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "GEO",
+    "statoids:iso_a2": "GE",
+    "statoids:iso_a3": "GEO",
+    "statoids:iso_num": "268",
+    "statoids:itu": "GEO",
+    "statoids:marc": "gs",
+    "statoids:name": "Georgia",
+    "statoids:wmo": "GG",
+    "wof:belongsto": [
+      102191569
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        890443227,
-        421190605
+    "wof:breaches": [],
+    "wof:capital": [
+      890443227,
+      421190605
     ],
-    "wof:concordances":{
-        "digitalenvoy:country_code":268,
-        "fifa:id":"GEO",
-        "fips:code":"GG",
-        "gaul:id":"92",
-        "gn:id":614540,
-        "gp:id":23424823,
-        "hasc:id":"GE",
-        "icao:code":"4l",
-        "ioc:id":"GEO",
-        "itu:id":"GEO",
-        "loc:id":"n81055241",
-        "m49:code":"268",
-        "marc:id":"gs",
-        "mzb:id":"georgia",
-        "qs_pg:id":550343,
-        "uncrt:id":"GE",
-        "wd:id":"Q230",
-        "wk:page":"Georgia (country)",
-        "wmo:id":"GG"
+    "wof:concordances": {
+      "digitalenvoy:country_code": 268,
+      "fifa:id": "GEO",
+      "fips:code": "GG",
+      "gaul:id": "92",
+      "gn:id": 614540,
+      "gp:id": 23424823,
+      "hasc:id": "GE",
+      "icao:code": "4l",
+      "ioc:id": "GEO",
+      "itu:id": "GEO",
+      "loc:id": "n81055241",
+      "m49:code": "268",
+      "marc:id": "gs",
+      "mzb:id": "georgia",
+      "qs_pg:id": 550343,
+      "uncrt:id": "GE",
+      "wd:id": "Q230",
+      "wk:page": "Georgia (country)",
+      "wmo:id": "GG"
     },
-    "wof:country":"GE",
-    "wof:country_alpha3":"GEO",
-    "wof:geom_alt":[
-        "naturalearth",
-        "meso",
-        "quattroshapes"
+    "wof:country": "GE",
+    "wof:country_alpha3": "GEO",
+    "wof:created": 1624906826,
+    "wof:geom_alt": [
+      "naturalearth",
+      "meso",
+      "quattroshapes"
     ],
-    "wof:geomhash":"f95f26e6a508d91193c76fa1e28a5435",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85633163
-        }
+    "wof:geomhash": "f95f26e6a508d91193c76fa1e28a5435",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85633163
+      }
     ],
-    "wof:id":85633163,
-    "wof:lang_x_official":[
-        "kat"
+    "wof:id": 85633163,
+    "wof:lang_x_official": [
+      "kat"
     ],
-    "wof:lang_x_spoken":[
-        "kat",
-        "abk",
-        "oss"
+    "wof:lang_x_spoken": [
+      "kat",
+      "abk",
+      "oss"
     ],
-    "wof:lastmodified":1587427301,
-    "wof:name":"Georgia",
-    "wof:parent_id":102191569,
-    "wof:placetype":"country",
-    "wof:population":4630000,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-ge",
-    "wof:shortcode":"GE",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906826,
+    "wof:name": "Georgia",
+    "wof:parent_id": 102191569,
+    "wof:placetype": "country",
+    "wof:population": 4630000,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-ge",
+    "wof:shortcode": "GE",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     40.002357,
     41.056139,
     46.733437,
     43.584003
-],
+  ],
   "geometry": {"coordinates":[[[[46.425821,41.893254],[46.423987,41.889721],[46.422604,41.887604],[46.419948,41.884103],[46.419085,41.883086],[46.418388,41.882021],[46.417981,41.881157],[46.417588,41.879728],[46.417392,41.878326],[46.41726,41.874513],[46.417094,41.867518],[46.416769,41.864833],[46.415353,41.860702],[46.414127,41.857746],[46.412012,41.853864],[46.409969,41.850768],[46.408504,41.848811],[46.405676,41.845825],[46.403183,41.843466],[46.396696,41.837859],[46.395906,41.837236],[46.387554,41.835793],[46.383121,41.831558],[46.369732,41.82177],[46.367545,41.820412],[46.362083,41.81869],[46.35802,41.817205],[46.355086,41.816086],[46.352311,41.814834],[46.348955,41.812993],[46.344074,41.809963],[46.332203,41.802394],[46.326145,41.798502],[46.322883,41.796031],[46.321275,41.794614],[46.319717,41.792934],[46.309282,41.781545],[46.306466,41.778292],[46.303406,41.775824],[46.300224,41.773571],[46.29685,41.772095],[46.293351,41.771006],[46.289707,41.770561],[46.270937,41.769248],[46.266789,41.768625],[46.262882,41.767626],[46.25419,41.763729],[46.243119,41.75906],[46.238965,41.757586],[46.236254,41.757023],[46.233807,41.757039],[46.23184,41.757428],[46.228734,41.758585],[46.220526,41.762892],[46.218768,41.757727],[46.216994,41.752982],[46.211086,41.749607],[46.204292,41.743603],[46.194138,41.736206],[46.186394,41.730209],[46.183876,41.723091],[46.181171,41.718441],[46.189075,41.682098],[46.191635,41.674377],[46.198902,41.660545],[46.203079,41.652203],[46.202374,41.651243],[46.201139,41.649293],[46.200368,41.647504],[46.199997,41.645621],[46.199886,41.643671],[46.199895,41.641368],[46.200158,41.63909],[46.200548,41.63715],[46.201076,41.635034],[46.202889,41.628634],[46.206582,41.626832],[46.20733,41.626102],[46.207743,41.625269],[46.207963,41.623828],[46.207709,41.622653],[46.205679,41.617794],[46.204588,41.614621],[46.204284,41.612985],[46.204202,41.611722],[46.204467,41.610486],[46.205048,41.609363],[46.20585,41.608636],[46.207734,41.607724],[46.213677,41.605632],[46.215709,41.604444],[46.216482,41.603716],[46.219853,41.599214],[46.220952,41.598208],[46.224157,41.596494],[46.229562,41.593889],[46.233988,41.591899],[46.23639,41.59102],[46.237916,41.590641],[46.239436,41.590507],[46.241277,41.590602],[46.242457,41.590932],[46.243189,41.591366],[46.243913,41.592091],[46.244485,41.592948],[46.245157,41.594921],[46.24655,41.599886],[46.247707,41.603],[46.249115,41.605864],[46.250422,41.60783],[46.25367,41.611558],[46.263466,41.609226],[46.26569,41.609821],[46.266747,41.613087],[46.264557,41.620209],[46.266708,41.622646],[46.274487,41.615047],[46.275925,41.612208],[46.273731,41.6102],[46.272703,41.608993],[46.271911,41.607193],[46.271357,41.604701],[46.270866,41.600876],[46.27113,41.599321],[46.271693,41.598809],[46.272456,41.598423],[46.27426,41.597975],[46.27727,41.597896],[46.277283,41.597626],[46.283001,41.593994],[46.289791,41.592541],[46.297733,41.59304],[46.304436,41.601429],[46.309574,41.603458],[46.31274,41.603577],[46.317636,41.601363],[46.320209,41.59953],[46.321656,41.598401],[46.326241,41.591293],[46.330818,41.58831],[46.33733,41.580478],[46.337789,41.578854],[46.33808,41.576705],[46.338253,41.569632],[46.333393,41.569057],[46.329123,41.570019],[46.328022,41.570879],[46.326116,41.572086],[46.324455,41.573046],[46.322727,41.573917],[46.320813,41.574715],[46.318692,41.575334],[46.314838,41.575913],[46.312404,41.576002],[46.310138,41.575917],[46.307967,41.575622],[46.306082,41.575226],[46.30423,41.574515],[46.301943,41.573269],[46.300173,41.572085],[46.299055,41.57096],[46.298314,41.569756],[46.298059,41.568713],[46.298084,41.567713],[46.298375,41.566383],[46.301001,41.559992],[46.304378,41.551533],[46.310638,41.532692],[46.314323,41.528],[46.317986,41.528694],[46.324017,41.532364],[46.325353,41.532247],[46.325497,41.531747],[46.325895,41.528518],[46.327129,41.515298],[46.327637,41.512041],[46.328337,41.509528],[46.329286,41.507275],[46.333033,41.497947],[46.334589,41.494543],[46.335507,41.493136],[46.336325,41.492095],[46.337567,41.491173],[46.33905,41.490324],[46.34053,41.489589],[46.34355,41.488437],[46.344958,41.488069],[46.346542,41.486671],[46.350773,41.484749],[46.353188,41.48558],[46.357292,41.493027],[46.359348,41.493687],[46.361473,41.49305],[46.362968,41.484428],[46.365967,41.481293],[46.370548,41.480873],[46.374479,41.481761],[46.374034,41.480556],[46.37282,41.47812],[46.371669,41.476023],[46.371581,41.474722],[46.371954,41.474185],[46.373176,41.473299],[46.376718,41.471577],[46.378983,41.470589],[46.381292,41.469825],[46.383844,41.469156],[46.389571,41.467842],[46.392494,41.467321],[46.394142,41.46723],[46.394843,41.467378],[46.396103,41.468027],[46.396861,41.46863],[46.400597,41.471844],[46.400631,41.471764],[46.3983,41.464596],[46.398651,41.460972],[46.404179,41.463696],[46.412045,41.471939],[46.416078,41.472441],[46.417268,41.471619],[46.41854,41.470273],[46.419676,41.468603],[46.420762,41.46641],[46.421915,41.463582],[46.423,41.460062],[46.423683,41.457266],[46.424331,41.455291],[46.425196,41.453879],[46.426076,41.453007],[46.427039,41.452308],[46.428165,41.451956],[46.428831,41.451901],[46.430691,41.449196],[46.43663,41.448109],[46.440777,41.453564],[46.443474,41.454426],[46.443901,41.454263],[46.44416,41.452493],[46.444575,41.447723],[46.44476,41.446291],[46.445021,41.445455],[46.44741,41.442559],[46.448537,41.441337],[46.448353,41.438721],[46.452824,41.432209],[46.459419,41.428185],[46.469446,41.426715],[46.472436,41.424952],[46.486575,41.415874],[46.491483,41.41318],[46.498551,41.409579],[46.504027,41.40718],[46.508681,41.405669],[46.514632,41.404132],[46.520575,41.402934],[46.525326,41.401625],[46.529101,41.400881],[46.531897,41.40052],[46.536105,41.400299],[46.544602,41.400159],[46.547556,41.399982],[46.550878,41.399597],[46.553191,41.399169],[46.555993,41.398534],[46.557759,41.397377],[46.559835,41.395583],[46.562346,41.393208],[46.563687,41.39247],[46.565187,41.391783],[46.567105,41.391223],[46.569408,41.390764],[46.57203,41.390504],[46.577426,41.390423],[46.580507,41.390263],[46.584588,41.389752],[46.586861,41.389196],[46.588683,41.388537],[46.590675,41.387515],[46.598281,41.382324],[46.600039,41.381729],[46.601949,41.381642],[46.604052,41.381927],[46.605114,41.382237],[46.606628,41.381088],[46.608578,41.38102],[46.60984,41.382065],[46.609788,41.384537],[46.611326,41.385325],[46.612476,41.385698],[46.614088,41.385641],[46.614782,41.384948],[46.614923,41.384211],[46.615347,41.376006],[46.615794,41.373401],[46.616264,41.372512],[46.617066,41.371609],[46.617937,41.370868],[46.619039,41.370416],[46.620254,41.370215],[46.621919,41.370127],[46.623889,41.370204],[46.625738,41.370386],[46.633088,41.371472],[46.637077,41.372027],[46.63937,41.372178],[46.641305,41.372156],[46.642755,41.371972],[46.644117,41.370556],[46.644037,41.370034],[46.642828,41.367511],[46.639797,41.362916],[46.637484,41.359533],[46.637075,41.358861],[46.631653,41.354713],[46.632484,41.350437],[46.634748,41.349554],[46.635571,41.348259],[46.63673,41.347413],[46.63799,41.346997],[46.639224,41.346796],[46.640827,41.346748],[46.643365,41.347208],[46.644277,41.34754],[46.646683,41.347473],[46.650265,41.349846],[46.656631,41.359009],[46.659954,41.359665],[46.662877,41.354802],[46.662804,41.353729],[46.658134,41.343208],[46.660812,41.335793],[46.66428,41.332687],[46.670818,41.33007],[46.673956,41.330422],[46.675625,41.329856],[46.681687,41.32835],[46.684759,41.327547],[46.687066,41.326568],[46.689108,41.32558],[46.690299,41.324814],[46.691185,41.324008],[46.691885,41.323112],[46.692256,41.322194],[46.692323,41.321061],[46.692179,41.320202],[46.691494,41.319131],[46.689713,41.316632],[46.689124,41.315286],[46.688942,41.314117],[46.688996,41.312952],[46.687321,41.3125],[46.688206,41.308189],[46.691597,41.305356],[46.692994,41.303035],[46.69515,41.299585],[46.696499,41.298028],[46.698358,41.296541],[46.700944,41.294868],[46.703992,41.29332],[46.707123,41.288891],[46.725155,41.28492],[46.73225,41.280228],[46.733437,41.276664],[46.732467,41.276339],[46.727635,41.275942],[46.723679,41.277657],[46.718945,41.276833],[46.715664,41.271969],[46.716137,41.266619],[46.715631,41.266164],[46.713201,41.264721],[46.710691,41.263314],[46.707886,41.262185],[46.70442,41.26086],[46.703608,41.260282],[46.702836,41.259341],[46.702293,41.258139],[46.699394,41.257214],[46.699074,41.253078],[46.701897,41.250902],[46.701875,41.248156],[46.701742,41.247261],[46.700859,41.245042],[46.69923,41.242832],[46.697333,41.24041],[46.691977,41.235068],[46.679357,41.22392],[46.672167,41.217362],[46.668412,41.213429],[46.665339,41.209944],[46.662998,41.206846],[46.66117,41.203936],[46.659899,41.201476],[46.659318,41.19994],[46.659051,41.198845],[46.658981,41.197509],[46.659137,41.196151],[46.659479,41.195111],[46.660318,41.193414],[46.661448,41.191533],[46.662594,41.19018],[46.665528,41.185274],[46.665424,41.184024],[46.66503,41.18283],[46.663345,41.17979],[46.657804,41.171424],[46.65682,41.1695],[46.655851,41.166857],[46.655064,41.164171],[46.654823,41.161219],[46.655016,41.157535],[46.655835,41.152644],[46.65662,41.146425],[46.656695,41.142659],[46.656383,41.1372],[46.655689,41.132881],[46.654774,41.12746],[46.653924,41.12491],[46.653002,41.122993],[46.650727,41.11951],[46.646175,41.112617],[46.645553,41.111428],[46.641623,41.110146],[46.640265,41.109577],[46.634316,41.106924],[46.629776,41.104654],[46.627759,41.103765],[46.625692,41.10326],[46.622646,41.102968],[46.618878,41.102764],[46.612153,41.102759],[46.609477,41.102833],[46.60759,41.102969],[46.606026,41.103267],[46.604807,41.103693],[46.603587,41.104365],[46.59899,41.107699],[46.588368,41.115942],[46.582228,41.119524],[46.579218,41.120748],[46.575691,41.121567],[46.572347,41.121991],[46.568228,41.121742],[46.563606,41.120359],[46.548373,41.113976],[46.529451,41.104165],[46.521337,41.099167],[46.517799,41.09648],[46.510745,41.089451],[46.505938,41.083794],[46.503856,41.080348],[46.497864,41.068527],[46.494668,41.062728],[46.493192,41.060662],[46.491357,41.059013],[46.488629,41.057486],[46.485887,41.056597],[46.483417,41.056139],[46.480542,41.056187],[46.4776,41.056661],[46.474587,41.057774],[46.473347,41.058478],[46.471413,41.062332],[46.464779,41.084885],[46.461815,41.087951],[46.461673,41.088404],[46.460098,41.091683],[46.458056,41.094544],[46.454977,41.097659],[46.451241,41.100033],[46.447451,41.101787],[46.443947,41.102927],[46.438943,41.104098],[46.430999,41.104978],[46.404511,41.105347],[46.394618,41.105625],[46.389083,41.106116],[46.384362,41.106773],[46.380586,41.107856],[46.377069,41.109457],[46.368314,41.115987],[46.330081,41.144765],[46.293789,41.174788],[46.283103,41.184418],[46.276081,41.189806],[46.27274,41.191875],[46.268351,41.193344],[46.264082,41.193865],[46.257594,41.194208],[46.241334,41.194113],[46.223073,41.193475],[46.212562,41.19365],[46.206608,41.194565],[46.199257,41.196039],[46.196989,41.196385],[46.193234,41.196769],[46.191292,41.196839],[46.184529,41.19684],[46.181664,41.196903],[46.178069,41.197301],[46.175421,41.197954],[46.173779,41.198608],[46.170905,41.200081],[46.165532,41.20317],[46.163773,41.204023],[46.161865,41.204658],[46.160005,41.205178],[46.158026,41.205578],[46.154597,41.205935],[46.15229,41.205996],[46.149522,41.205875],[46.14647,41.205512],[46.143433,41.204819],[46.141505,41.204261],[46.137342,41.202449],[46.127521,41.183509],[46.121056,41.179501],[46.116679,41.175208],[46.113809,41.174866],[46.109243,41.174899],[46.10291,41.175286],[46.098258,41.176457],[46.095124,41.177602],[46.091984,41.178997],[46.089159,41.180894],[46.083004,41.185934],[46.081602,41.186509],[46.07935,41.186772],[46.071673,41.186696],[46.025734,41.183605],[45.975695,41.182613],[45.956862,41.182799],[45.948168,41.183303],[45.937715,41.184578],[45.930056,41.1859],[45.924909,41.187047],[45.919259,41.188914],[45.915835,41.190456],[45.913174,41.192302],[45.906112,41.199029],[45.902753,41.201591],[45.899412,41.203571],[45.893797,41.206129],[45.88754,41.208784],[45.881101,41.211072],[45.871381,41.213373],[45.845926,41.21831],[45.81756,41.223702],[45.811334,41.225262],[45.80625,41.227279],[45.79959,41.230287],[45.790553,41.235143],[45.779012,41.24216],[45.771437,41.246459],[45.762673,41.251683],[45.754303,41.256622],[45.745178,41.262833],[45.732113,41.27352],[45.715851,41.286949],[45.712906,41.289286],[45.710733,41.291696],[45.708772,41.294695],[45.707035,41.297931],[45.706688,41.298998],[45.71283,41.306755],[45.721447,41.314564],[45.730072,41.323086],[45.737278,41.331257],[45.742062,41.335155],[45.747257,41.333336],[45.755283,41.330425],[45.761913,41.330025],[45.766701,41.333923],[45.766769,41.339642],[45.759228,41.34362],[45.755634,41.345064],[45.75854,41.346292],[45.759384,41.346835],[45.759719,41.347309],[45.759333,41.348378],[45.758696,41.348894],[45.753376,41.350883],[45.724032,41.360616],[45.715498,41.363652],[45.712574,41.364358],[45.710142,41.364463],[45.707928,41.364115],[45.703216,41.36189],[45.700157,41.360312],[45.697135,41.359362],[45.693985,41.359227],[45.689427,41.359954],[45.684348,41.361488],[45.66205,41.3699],[45.653265,41.373066],[45.644029,41.375035],[45.627184,41.377004],[45.586384,41.379941],[45.583822,41.380169],[45.584133,41.382881],[45.579449,41.389694],[45.57725,41.390774],[45.578533,41.400103],[45.578347,41.402617],[45.577807,41.404333],[45.575917,41.406381],[45.572389,41.408755],[45.560772,41.414868],[45.552913,41.418016],[45.544886,41.420512],[45.524985,41.425505],[45.505382,41.430634],[45.490235,41.43623],[45.484407,41.438625],[45.47542,41.443614],[45.463204,41.450273],[45.460969,41.451093],[45.458908,41.451444],[45.456707,41.451357],[45.454366,41.450794],[45.451236,41.449253],[45.44046,41.44049],[45.424801,41.42801],[45.419616,41.424085],[45.416206,41.422137],[45.412688,41.420811],[45.408483,41.420095],[45.403186,41.419729],[45.398613,41.419941],[45.394921,41.420983],[45.392202,41.42261],[45.383886,41.429242],[45.369788,41.441246],[45.364374,41.445935],[45.356424,41.451334],[45.346069,41.457035],[45.333705,41.462578],[45.325543,41.465267],[45.31759,41.466836],[45.310932,41.467184],[45.304714,41.466918],[45.299441,41.465861],[45.292326,41.463323],[45.287446,41.462165],[45.280095,41.461191],[45.272836,41.460291],[45.269371,41.4586],[45.265441,41.455173],[45.26226,41.454105],[45.25925,41.449165],[45.256364,41.446364],[45.252919,41.44419],[45.246095,41.44089],[45.229571,41.433919],[45.200289,41.420672],[45.2017,41.419447],[45.204688,41.417933],[45.208371,41.416362],[45.202453,41.412333],[45.200494,41.411448],[45.19878,41.411021],[45.189247,41.413803],[45.183635,41.414068],[45.177071,41.416377],[45.176796,41.415078],[45.176518,41.412094],[45.175775,41.407811],[45.174935,41.404893],[45.173572,41.402976],[45.17039,41.400084],[45.163795,41.397469],[45.155708,41.390335],[45.150503,41.383027],[45.119362,41.356912],[45.110123,41.34929],[45.104484,41.345849],[45.100443,41.34346],[45.097179,41.342288],[45.095112,41.341925],[45.093358,41.341811],[45.091121,41.341826],[45.087925,41.342268],[45.085826,41.342893],[45.076854,41.349161],[45.074579,41.347721],[45.073163,41.345736],[45.072739,41.343964],[45.073055,41.342463],[45.08024,41.334708],[45.08087,41.333654],[45.08083,41.332647],[45.079075,41.326921],[45.077812,41.326447],[45.072594,41.321804],[45.067477,41.320309],[45.064365,41.320179],[45.060247,41.319772],[45.056363,41.318611],[45.041754,41.313217],[45.029044,41.30864],[45.023013,41.305903],[45.019185,41.303759],[45.016456,41.301268],[45.013845,41.297822],[45.013468,41.295615],[45.013688,41.292381],[45.013857,41.291683],[45.004803,41.288952],[44.991539,41.285023],[44.976856,41.276085],[44.965492,41.266079],[44.960285,41.258213],[44.952713,41.25428],[44.937557,41.254986],[44.924297,41.255695],[44.908669,41.257469],[44.900612,41.262108],[44.891609,41.265675],[44.878819,41.266735],[44.868393,41.268867],[44.854652,41.271709],[44.843266,41.280628],[44.834709,41.291695],[44.825695,41.296326],[44.82095,41.298462],[44.81147,41.298805],[44.804367,41.297722],[44.798218,41.293781],[44.793976,41.287697],[44.796848,41.278053],[44.797832,41.265907],[44.798332,41.256973],[44.804039,41.248405],[44.813534,41.240559],[44.823017,41.234142],[44.837231,41.230232],[44.849545,41.227032],[44.864223,41.224194],[44.880795,41.221352],[44.891212,41.21743],[44.89122,41.214214],[44.886967,41.210995],[44.879402,41.206341],[44.869469,41.204544],[44.85717,41.203457],[44.833973,41.207355],[44.815987,41.21019],[44.802711,41.218029],[44.797012,41.224449],[44.792755,41.223015],[44.789925,41.220863],[44.785686,41.214424],[44.772907,41.214043],[44.761078,41.214375],[44.752094,41.211498],[44.739803,41.208969],[44.72942,41.202515],[44.725174,41.199287],[44.718075,41.199627],[44.716633,41.204628],[44.722279,41.212502],[44.722252,41.218578],[44.711857,41.214622],[44.704288,41.214245],[44.693405,41.21386],[44.684391,41.218479],[44.678196,41.227398],[44.673912,41.232388],[44.657822,41.23127],[44.6422,41.23122],[44.629406,41.233326],[44.61805,41.232929],[44.609089,41.227184],[44.606792,41.215382],[44.607311,41.207523],[44.605007,41.19751],[44.601265,41.190704],[44.594666,41.186752],[44.585197,41.18779],[44.581375,41.193493],[44.584637,41.201725],[44.585537,41.208874],[44.57655,41.20813],[44.570896,41.204533],[44.566677,41.198799],[44.558197,41.193409],[44.544991,41.187637],[44.534576,41.188313],[44.528378,41.195076],[44.533043,41.204388],[44.537724,41.21191],[44.540024,41.22121],[44.534801,41.22369],[44.524906,41.217575],[44.521152,41.212914],[44.515987,41.207531],[44.506573,41.200703],[44.500946,41.19389],[44.497681,41.187801],[44.489204,41.183117],[44.473633,41.178402],[44.460861,41.178341],[44.448521,41.183643],[44.437584,41.19038],[44.411503,41.197399],[44.398193,41.204117],[44.38818,41.212284],[44.378674,41.216881],[44.365864,41.220028],[44.353527,41.223175],[44.346889,41.224209],[44.336033,41.221287],[44.336613,41.210926],[44.341404,41.20488],[44.339073,41.201294],[44.329624,41.200165],[44.31966,41.20261],[44.312527,41.206142],[44.302559,41.209297],[44.29076,41.206367],[44.282749,41.203102],[44.269958,41.204449],[44.259029,41.208668],[44.255207,41.211861],[44.245636,41.221088],[44.238457,41.228188],[44.22562,41.23275],[44.209549,41.230854],[44.204369,41.228672],[44.197716,41.23077],[44.190086,41.235363],[44.182007,41.237808],[44.177307,41.235271],[44.175022,41.228825],[44.175602,41.220253],[44.174728,41.214527],[44.169617,41.206985],[44.16367,41.190861],[44.151394,41.188988],[44.133469,41.18528],[44.117855,41.185516],[44.088066,41.18457],[44.082844,41.185959],[44.080906,41.189159],[44.067234,41.185833],[44.046036,41.179943],[44.020561,41.175442],[44.002655,41.170998],[43.976738,41.165054],[43.957836,41.164169],[43.948845,41.164444],[43.944054,41.168331],[43.932701,41.168587],[43.919003,41.167744],[43.896336,41.165741],[43.879826,41.163437],[43.856682,41.161781],[43.833099,41.158329],[43.808674,41.149502],[43.793724,41.139698],[43.783966,41.130661],[43.766689,41.1194],[43.755978,41.111065],[43.751328,41.107086],[43.747105,41.10561],[43.737137,41.108002],[43.711426,41.11808],[43.689526,41.126411],[43.665821,41.13007],[43.647392,41.129852],[43.622963,41.122776],[43.60738,41.122231],[43.599754,41.125355],[43.584396,41.136242],[43.576286,41.139717],[43.569191,41.139988],[43.557865,41.13913],[43.540474,41.134624],[43.531113,41.130573],[43.514126,41.129284],[43.499577,41.124805],[43.491589,41.122917],[43.482155,41.122078],[43.473179,41.12196],[43.473034,41.122762],[43.474063,41.12304],[43.472666,41.125661],[43.472357,41.126495],[43.47047,41.136932],[43.463198,41.148385],[43.461714,41.151983],[43.45905,41.15689],[43.457775,41.159301],[43.455974,41.162534],[43.454961,41.164208],[43.451924,41.169821],[43.450603,41.171998],[43.448919,41.175497],[43.448302,41.176102],[43.441592,41.178372],[43.433193,41.180929],[43.429397,41.182212],[43.423783,41.183526],[43.417012,41.185386],[43.411331,41.186647],[43.405397,41.190403],[43.401595,41.19194],[43.400839,41.192696],[43.396156,41.194528],[43.391255,41.197071],[43.389286,41.197864],[43.384121,41.200149],[43.375372,41.203106],[43.369802,41.202123],[43.367349,41.203522],[43.35924,41.20154],[43.355741,41.201397],[43.353372,41.201981],[43.352009,41.202729],[43.342999,41.20201],[43.339845,41.201463],[43.337841,41.200674],[43.333257,41.200874],[43.330491,41.201095],[43.329221,41.200672],[43.327442,41.198816],[43.322391,41.195696],[43.319781,41.1949],[43.316695,41.194352],[43.315436,41.19342],[43.313024,41.192829],[43.31169,41.192252],[43.310168,41.19101],[43.308415,41.191091],[43.305416,41.189678],[43.302307,41.1902],[43.29882,41.189546],[43.294508,41.189645],[43.293367,41.189478],[43.289373,41.187339],[43.287094,41.186903],[43.282313,41.186894],[43.272685,41.183817],[43.271485,41.183292],[43.266357,41.18073],[43.264422,41.179941],[43.262817,41.179462],[43.259861,41.17917],[43.256023,41.179223],[43.253971,41.177668],[43.252086,41.177644],[43.250143,41.177211],[43.248801,41.177041],[43.24752,41.17708],[43.246613,41.177241],[43.244887,41.176595],[43.243592,41.175539],[43.241722,41.174361],[43.240882,41.174419],[43.239986,41.175242],[43.237932,41.17521],[43.235886,41.175712],[43.234272,41.175778],[43.232919,41.175383],[43.230799,41.17325],[43.230743,41.175308],[43.230634,41.175814],[43.232476,41.177245],[43.235048,41.180376],[43.237452,41.183508],[43.237262,41.184299],[43.235083,41.187194],[43.231171,41.191173],[43.229757,41.193425],[43.227318,41.196933],[43.225438,41.199545],[43.223592,41.202208],[43.220688,41.206203],[43.219538,41.208096],[43.218281,41.209659],[43.213137,41.217058],[43.210691,41.220235],[43.209174,41.222437],[43.204054,41.229326],[43.202008,41.23227],[43.201124,41.234008],[43.200547,41.235998],[43.200127,41.239589],[43.199568,41.242799],[43.198994,41.245069],[43.197984,41.247443],[43.197531,41.248745],[43.195021,41.252227],[43.194404,41.253886],[43.191998,41.252915],[43.191088,41.252923],[43.184465,41.253999],[43.177665,41.254491],[43.175505,41.254281],[43.173897,41.25259],[43.16969,41.25054],[43.167282,41.249467],[43.16388,41.249572],[43.162564,41.249406],[43.160867,41.24853],[43.157375,41.247008],[43.155814,41.246181],[43.153245,41.245618],[43.151963,41.245502],[43.150563,41.246582],[43.149656,41.246793],[43.146814,41.245927],[43.145338,41.246687],[43.149635,41.250858],[43.153221,41.258064],[43.19717,41.278412],[43.203228,41.282082],[43.206902,41.286427],[43.206264,41.287631],[43.207574,41.287937],[43.20924,41.288888],[43.211974,41.289093],[43.212992,41.289516],[43.213205,41.290252],[43.212795,41.292164],[43.212006,41.293596],[43.211812,41.294157],[43.212036,41.295631],[43.211711,41.296422],[43.211181,41.297063],[43.211394,41.297799],[43.212846,41.297913],[43.214306,41.298612],[43.215261,41.299367],[43.215477,41.300281],[43.214588,41.301739],[43.213363,41.303277],[43.212946,41.30473],[43.213501,41.305794],[43.212128,41.306468],[43.209423,41.305958],[43.206688,41.305728],[43.205909,41.305557],[43.203788,41.305754],[43.202379,41.306326],[43.201716,41.30712],[43.200714,41.307765],[43.198233,41.308754],[43.197152,41.308662],[43.196333,41.308033],[43.19412,41.306577],[43.192936,41.306333],[43.190286,41.304957],[43.188222,41.304466],[43.187348,41.304703],[43.184413,41.304652],[43.183268,41.304764],[43.182227,41.305078],[43.181127,41.305953],[43.180252,41.306087],[43.178539,41.306611],[43.17736,41.306672],[43.175043,41.307405],[43.172953,41.307448],[43.171712,41.307968],[43.169899,41.308517],[43.167069,41.308745],[43.165857,41.308908],[43.164757,41.309808],[43.164087,41.31017],[43.163489,41.310837],[43.162199,41.312628],[43.161971,41.313215],[43.161104,41.31391],[43.160342,41.314908],[43.159542,41.315627],[43.158973,41.315887],[43.158063,41.315971],[43.156449,41.316315],[43.15304,41.31614],[43.149532,41.316195],[43.148152,41.31636],[43.145759,41.316507],[43.143545,41.317416],[43.140509,41.317416],[43.139435,41.317755],[43.138128,41.318402],[43.13688,41.318413],[43.135839,41.318727],[43.134769,41.319448],[43.133829,41.319786],[43.132558,41.32056],[43.131828,41.321482],[43.130294,41.322843],[43.130037,41.323735],[43.128576,41.32549],[43.126944,41.327068],[43.126785,41.327756],[43.125318,41.329117],[43.12543,41.329879],[43.123903,41.331748],[43.123608,41.332387],[43.121863,41.333139],[43.121297,41.334366],[43.119356,41.335898],[43.118222,41.337224],[43.117016,41.338093],[43.115346,41.339726],[43.114481,41.340949],[43.113145,41.342378],[43.112823,41.343954],[43.111632,41.346347],[43.111237,41.347365],[43.1105,41.347876],[43.109302,41.349609],[43.105945,41.351299],[43.10494,41.352117],[43.101715,41.353552],[43.100707,41.354065],[43.099435,41.355137],[43.097216,41.355908],[43.09641,41.356318],[43.095878,41.357234],[43.094801,41.357544],[43.09379,41.357649],[43.092917,41.358059],[43.090624,41.358271],[43.088333,41.358738],[43.086579,41.358796],[43.085165,41.359208],[43.083754,41.359823],[43.081936,41.360338],[43.080127,41.361717],[43.078714,41.36223],[43.077769,41.362234],[43.076694,41.362746],[43.075356,41.364073],[43.074349,41.364635],[43.072741,41.364933],[43.071434,41.366062],[43.057991,41.371555],[43.0564,41.371623],[43.054982,41.372786],[43.052023,41.374017],[43.049463,41.374686],[43.047981,41.374997],[43.045021,41.376176],[43.042931,41.37659],[43.041312,41.376697],[43.040027,41.376498],[43.03867,41.375639],[43.03751,41.374271],[43.036697,41.373969],[43.035811,41.372956],[43.033482,41.371599],[43.030413,41.371258],[43.025282,41.373297],[43.022051,41.374324],[43.01945,41.375276],[43.018977,41.375885],[43.021276,41.378493],[43.021687,41.379254],[43.020148,41.380834],[43.019216,41.382362],[43.018555,41.384041],[43.017956,41.385161],[43.014076,41.389441],[43.012887,41.392595],[43.011563,41.395852],[43.010489,41.396617],[43.007591,41.397287],[43.006249,41.398409],[43.005453,41.400089],[43.005398,41.401664],[43.004216,41.405834],[43.003752,41.406902],[43.003214,41.407107],[43.00166,41.407061],[42.998762,41.407884],[42.998002,41.408379],[42.996113,41.409291],[42.992804,41.409799],[42.990341,41.410627],[42.987969,41.413399],[42.987814,41.414355],[42.99025,41.416123],[42.989788,41.42204],[42.989658,41.424215],[42.988713,41.424722],[42.983175,41.426041],[42.981419,41.426548],[42.976018,41.428524],[42.973911,41.429605],[42.973148,41.430477],[42.96834,41.437751],[42.969617,41.439249],[42.970363,41.440665],[42.971241,41.440917],[42.969628,41.445723],[42.968955,41.447544],[42.968485,41.449415],[42.967811,41.450781],[42.967204,41.451287],[42.964162,41.451542],[42.959635,41.4521],[42.957473,41.452708],[42.952,41.454379],[42.949771,41.455544],[42.948758,41.455797],[42.947068,41.456404],[42.944703,41.45681],[42.943014,41.457417],[42.938085,41.462375],[42.935857,41.464449],[42.933829,41.464197],[42.932341,41.464096],[42.931598,41.464299],[42.930517,41.465007],[42.929167,41.466929],[42.930249,41.467738],[42.931535,41.468547],[42.931603,41.469052],[42.930793,41.470165],[42.929712,41.470823],[42.927684,41.471228],[42.926265,41.472341],[42.923494,41.473454],[42.920993,41.473758],[42.919235,41.474112],[42.916058,41.475124],[42.913692,41.476085],[42.912611,41.476237],[42.910514,41.475933],[42.908487,41.476793],[42.906391,41.477249],[42.905241,41.476945],[42.903078,41.477603],[42.902267,41.478108],[42.899224,41.478766],[42.89855,41.481446],[42.897401,41.483671],[42.897537,41.484379],[42.896862,41.486149],[42.897065,41.487414],[42.89835,41.487413],[42.899026,41.487717],[42.899027,41.488627],[42.898554,41.489537],[42.899028,41.490751],[42.899165,41.494089],[42.899235,41.497275],[42.899844,41.498337],[42.900927,41.499804],[42.900763,41.500596],[42.898731,41.500721],[42.896071,41.501655],[42.893487,41.502182],[42.890566,41.502704],[42.885426,41.502634],[42.884059,41.503228],[42.877767,41.503245],[42.877026,41.503133],[42.875556,41.502348],[42.872165,41.499852],[42.866664,41.496731],[42.865176,41.494354],[42.863891,41.493089],[42.862944,41.492532],[42.86247,41.491925],[42.862741,41.489801],[42.861848,41.485976],[42.858887,41.483433],[42.857949,41.477951],[42.857467,41.477005],[42.857739,41.476727],[42.857292,41.474113],[42.850981,41.470227],[42.850369,41.471894],[42.849828,41.473057],[42.848678,41.473411],[42.847867,41.473107],[42.846379,41.472853],[42.843539,41.474167],[42.841781,41.475127],[42.839888,41.475631],[42.839347,41.475934],[42.838738,41.476895],[42.83725,41.477197],[42.836033,41.477804],[42.832585,41.477903],[42.830353,41.479014],[42.828594,41.480479],[42.827376,41.481894],[42.826429,41.482855],[42.825279,41.484421],[42.822437,41.4871],[42.821151,41.487958],[42.819866,41.489121],[42.817837,41.489827],[42.814252,41.490785],[42.812966,41.491694],[42.811951,41.492098],[42.810395,41.492552],[42.809516,41.493209],[42.809042,41.493765],[42.807351,41.493409],[42.806066,41.493509],[42.804646,41.494064],[42.803766,41.494215],[42.803157,41.495125],[42.802074,41.495427],[42.800923,41.496893],[42.80126,41.497955],[42.802273,41.499827],[42.800943,41.500701],[42.801505,41.502597],[42.802221,41.50373],[42.803485,41.504616],[42.803668,41.505435],[42.804459,41.506262],[42.804699,41.50749],[42.804196,41.508708],[42.802949,41.509863],[42.802055,41.510463],[42.801274,41.511932],[42.799975,41.512474],[42.799613,41.513439],[42.798647,41.51419],[42.797814,41.515046],[42.797574,41.515658],[42.798374,41.517712],[42.806679,41.52663],[42.814879,41.53769],[42.815975,41.538775],[42.81724,41.539609],[42.817158,41.540764],[42.824352,41.552284],[42.824604,41.555275],[42.825485,41.557089],[42.826885,41.557705],[42.82825,41.557265],[42.829383,41.557995],[42.830233,41.559232],[42.830083,41.562597],[42.83059,41.564033],[42.831308,41.565115],[42.832711,41.5659],[42.833104,41.566467],[42.833217,41.567387],[42.832987,41.568506],[42.832425,41.569314],[42.83508,41.571546],[42.834774,41.57297],[42.834277,41.573932],[42.833249,41.574428],[42.833027,41.575191],[42.833476,41.576217],[42.834268,41.577096],[42.8343,41.578092],[42.836933,41.581318],[42.833965,41.581136],[42.834762,41.581848],[42.834935,41.583075],[42.835594,41.58385],[42.835851,41.584414],[42.835158,41.585068],[42.833465,41.585044],[42.832096,41.585638],[42.830923,41.586489],[42.830227,41.587244],[42.827921,41.587365],[42.824875,41.587271],[42.823176,41.587502],[42.821621,41.587378],[42.819518,41.587502],[42.81631,41.588477],[42.814612,41.588657],[42.811496,41.588664],[42.808722,41.588523],[42.804114,41.58861],[42.792938,41.588553],[42.793127,41.586412],[42.790086,41.586114],[42.787863,41.585623],[42.785782,41.584878],[42.783242,41.583515],[42.782386,41.582533],[42.782415,41.58136],[42.781703,41.580074],[42.781762,41.579671],[42.774323,41.580086],[42.773149,41.58045],[42.772591,41.581473],[42.771192,41.583239],[42.769801,41.584647],[42.767958,41.585233],[42.766458,41.585619],[42.765511,41.585554],[42.763803,41.586142],[42.76284,41.586689],[42.761438,41.585903],[42.75893,41.585968],[42.757716,41.585747],[42.756225,41.585776],[42.754464,41.585598],[42.750931,41.586358],[42.749808,41.587723],[42.747556,41.588394],[42.746704,41.590243],[42.745979,41.590871],[42.744952,41.591419],[42.744362,41.592074],[42.743896,41.593266],[42.742489,41.59414],[42.741859,41.5951],[42.741103,41.5956],[42.740009,41.596096],[42.736274,41.596533],[42.734518,41.596282],[42.732079,41.596251],[42.731105,41.595882],[42.726058,41.595894],[42.725353,41.595605],[42.723695,41.595533],[42.722242,41.595361],[42.719258,41.595527],[42.716823,41.595318],[42.714827,41.595241],[42.713437,41.595274],[42.71027,41.596049],[42.70599,41.598185],[42.704796,41.598552],[42.701722,41.599735],[42.70073,41.600181],[42.698263,41.600697],[42.696591,41.600459],[42.694975,41.600004],[42.693924,41.600042],[42.691252,41.599879],[42.689335,41.599217],[42.687813,41.599121],[42.686045,41.599429],[42.684885,41.599796],[42.683629,41.599907],[42.681915,41.599324],[42.676835,41.597754],[42.672594,41.596552],[42.660279,41.592872],[42.656297,41.592233],[42.646943,41.591012],[42.640457,41.590263],[42.631849,41.589025],[42.630227,41.588876],[42.627729,41.588536],[42.625809,41.588077],[42.622159,41.587747],[42.616825,41.586986],[42.6151,41.586886],[42.607168,41.585784],[42.602744,41.585238],[42.600855,41.584932],[42.598609,41.582506],[42.596894,41.58052],[42.595613,41.578846],[42.59278,41.575494],[42.591062,41.573662],[42.589728,41.572777],[42.589058,41.572487],[42.5817,41.568664],[42.578189,41.566781],[42.576152,41.565605],[42.576453,41.564361],[42.576303,41.563544],[42.574629,41.559902],[42.573715,41.558488],[42.573524,41.55795],[42.575962,41.555079],[42.576421,41.554271],[42.576821,41.552692],[42.576023,41.551064],[42.577287,41.540385],[42.576365,41.539517],[42.575874,41.538822],[42.575695,41.537826],[42.574923,41.536133],[42.574099,41.535179],[42.572928,41.534653],[42.570709,41.534035],[42.569709,41.533384],[42.568896,41.531997],[42.568608,41.529904],[42.567633,41.528208],[42.566472,41.527224],[42.56476,41.526664],[42.56424,41.525765],[42.565495,41.522802],[42.566364,41.521846],[42.56715,41.520389],[42.567366,41.519567],[42.5676,41.517545],[42.569207,41.516102],[42.570531,41.51449],[42.571762,41.512386],[42.572071,41.509419],[42.571079,41.508535],[42.569873,41.508008],[42.567945,41.508032],[42.566621,41.508217],[42.565607,41.508203],[42.561632,41.50751],[42.560827,41.507244],[42.5586,41.505581],[42.557905,41.504935],[42.557231,41.503447],[42.556423,41.501181],[42.556163,41.500043],[42.555311,41.499382],[42.554593,41.498598],[42.553643,41.498325],[42.551583,41.498594],[42.549964,41.499012],[42.549152,41.498941],[42.548422,41.496988],[42.547979,41.496712],[42.547022,41.495726],[42.546506,41.49484],[42.545379,41.493729],[42.544728,41.492894],[42.542902,41.492932],[42.540258,41.492213],[42.53897,41.491967],[42.536867,41.49127],[42.534296,41.491186],[42.532268,41.49125],[42.531541,41.489577],[42.529576,41.485725],[42.52868,41.484052],[42.528029,41.483141],[42.527644,41.481847],[42.526994,41.481038],[42.526033,41.479518],[42.525077,41.478584],[42.523108,41.477758],[42.520906,41.47734],[42.519008,41.476845],[42.517583,41.476269],[42.516491,41.475183],[42.514315,41.473951],[42.512881,41.47241],[42.512458,41.470632],[42.512475,41.468903],[42.51302,41.465848],[42.51372,41.464826],[42.515658,41.462499],[42.51592,41.461581],[42.516044,41.460513],[42.516815,41.460122],[42.516747,41.4594],[42.51719,41.45832],[42.516627,41.457813],[42.516483,41.456949],[42.517518,41.45562],[42.518636,41.454798],[42.519363,41.453026],[42.520463,41.449861],[42.520192,41.449168],[42.520351,41.448124],[42.520712,41.447003],[42.521688,41.446331],[42.522564,41.443806],[42.522043,41.439499],[42.521161,41.437616],[42.519901,41.436607],[42.518352,41.437126],[42.514649,41.438499],[42.512159,41.439584],[42.510744,41.44],[42.507605,41.440351],[42.507076,41.441576],[42.506435,41.441682],[42.505682,41.440618],[42.504025,41.440451],[42.502843,41.44051],[42.500796,41.441973],[42.500088,41.442156],[42.49881,41.4428],[42.497183,41.443939],[42.495692,41.44471],[42.494016,41.445271],[42.492106,41.445341],[42.491128,41.44485],[42.490569,41.443517],[42.490243,41.44215],[42.48959,41.440326],[42.486936,41.440957],[42.486004,41.440992],[42.485166,41.440255],[42.48158,41.43766],[42.480136,41.438255],[42.478879,41.438571],[42.476224,41.43843],[42.475386,41.438009],[42.473384,41.436711],[42.471707,41.435939],[42.470217,41.435588],[42.468541,41.435622],[42.467702,41.436428],[42.466957,41.436814],[42.465188,41.437094],[42.463697,41.436953],[42.462859,41.436637],[42.461229,41.436987],[42.45918,41.438459],[42.456711,41.439159],[42.455454,41.439159],[42.453312,41.438982],[42.452241,41.438456],[42.452008,41.438],[42.450378,41.43849],[42.448143,41.438524],[42.448282,41.439786],[42.447629,41.440698],[42.446139,41.441468],[42.444928,41.441608],[42.439199,41.441745],[42.438314,41.442761],[42.438034,41.443953],[42.435332,41.444057],[42.433656,41.444021],[42.432584,41.444827],[42.431651,41.446299],[42.430859,41.44707],[42.429787,41.4477],[42.428483,41.44826],[42.42727,41.449767],[42.426385,41.450573],[42.425685,41.451484],[42.424845,41.453237],[42.423401,41.453657],[42.421397,41.454672],[42.419766,41.455933],[42.419346,41.456389],[42.417948,41.457019],[42.416036,41.458911],[42.412822,41.458417],[42.411192,41.458591],[42.409933,41.459607],[42.409373,41.460764],[42.406995,41.462164],[42.406249,41.46311],[42.404943,41.464196],[42.404058,41.464371],[42.402567,41.464264],[42.400422,41.466016],[42.399303,41.466716],[42.398092,41.466189],[42.396648,41.465872],[42.395623,41.465801],[42.392176,41.466043],[42.390778,41.465655],[42.388777,41.464601],[42.385052,41.4633],[42.384026,41.463474],[42.383651,41.465648],[42.382996,41.466874],[42.381458,41.467539],[42.38034,41.467327],[42.379176,41.4668],[42.376709,41.465921],[42.375406,41.464692],[42.375032,41.465673],[42.374053,41.465988],[42.371725,41.465038],[42.370607,41.465282],[42.369675,41.465281],[42.368372,41.464508],[42.367066,41.465138],[42.36441,41.465695],[42.361939,41.466604],[42.36082,41.466883],[42.358631,41.46674],[42.357279,41.467229],[42.356391,41.46842],[42.355365,41.46912],[42.3535,41.469959],[42.352941,41.469608],[42.348139,41.471459],[42.346369,41.470966],[42.345063,41.471771],[42.344504,41.471595],[42.342876,41.470435],[42.341525,41.470503],[42.341243,41.47152],[42.339567,41.471026],[42.337287,41.469866],[42.335796,41.469793],[42.334492,41.469511],[42.333049,41.468948],[42.332071,41.468736],[42.33114,41.468349],[42.330396,41.467857],[42.329604,41.467645],[42.327971,41.468975],[42.326336,41.470655],[42.325495,41.471636],[42.325539,41.472863],[42.324373,41.473142],[42.32302,41.473841],[42.322226,41.474716],[42.32008,41.476045],[42.318585,41.477621],[42.317696,41.478881],[42.314806,41.479543],[42.314152,41.480138],[42.313495,41.48175],[42.311401,41.480589],[42.310841,41.481009],[42.309349,41.481287],[42.307809,41.48209],[42.304733,41.48226],[42.302868,41.482818],[42.302307,41.483378],[42.300628,41.484006],[42.300345,41.485057],[42.299831,41.485793],[42.29815,41.486807],[42.296566,41.486628],[42.29554,41.487012],[42.295072,41.487783],[42.294044,41.488412],[42.293715,41.489463],[42.292458,41.48904],[42.291619,41.489109],[42.288913,41.49026],[42.288211,41.490995],[42.287324,41.49166],[42.284851,41.492602],[42.284337,41.492916],[42.282147,41.492912],[42.281401,41.493156],[42.279583,41.493222],[42.277674,41.492517],[42.275526,41.493775],[42.274407,41.494018],[42.27217,41.493909],[42.271239,41.493696],[42.269192,41.49264],[42.267285,41.491304],[42.264953,41.49186],[42.261831,41.491643],[42.259824,41.492795],[42.258376,41.493739],[42.255671,41.494189],[42.253992,41.494571],[42.252873,41.494638],[42.251802,41.494356],[42.250822,41.494564],[42.249937,41.494562],[42.248914,41.493928],[42.247283,41.493849],[42.245848,41.494125],[42.24309,41.493942],[42.241924,41.493932],[42.239674,41.494819],[42.238454,41.494636],[42.237522,41.495843],[42.234766,41.496915],[42.233522,41.497291],[42.23171,41.49747],[42.230303,41.497257],[42.228608,41.49684],[42.22643,41.498388],[42.225561,41.498826],[42.224279,41.498226],[42.222944,41.497452],[42.218886,41.496215],[42.217946,41.496026],[42.216176,41.496064],[42.213323,41.495847],[42.212289,41.495625],[42.210987,41.495723],[42.20845,41.492813],[42.208229,41.491911],[42.207885,41.491668],[42.201631,41.493375],[42.201468,41.494325],[42.200779,41.497026],[42.198572,41.499062],[42.198698,41.499896],[42.19715,41.502706],[42.196332,41.504047],[42.196076,41.505558],[42.196605,41.506608],[42.194464,41.506835],[42.193456,41.507931],[42.192015,41.508223],[42.191415,41.508614],[42.189876,41.50859],[42.188806,41.508704],[42.187601,41.509134],[42.186017,41.509181],[42.183662,41.510674],[42.182269,41.511035],[42.181787,41.513075],[42.179839,41.513722],[42.178449,41.514294],[42.177712,41.514861],[42.175923,41.513716],[42.174475,41.513481],[42.172935,41.513387],[42.171354,41.513645],[42.169986,41.512637],[42.168673,41.51212],[42.167367,41.512024],[42.16712,41.511148],[42.16589,41.509928],[42.162146,41.508937],[42.160546,41.507896],[42.158479,41.506858],[42.157075,41.506447],[42.154698,41.506464],[42.153021,41.506546],[42.14994,41.506218],[42.148535,41.505771],[42.147043,41.505782],[42.14346,41.506194],[42.142392,41.506483],[42.140678,41.507197],[42.13803,41.507813],[42.136821,41.508032],[42.135128,41.506991],[42.13339,41.50609],[42.129749,41.505695],[42.126391,41.505543],[42.124441,41.506083],[42.122158,41.506134],[42.120254,41.506639],[42.118368,41.508373],[42.117036,41.509751],[42.116856,41.510244],[42.113605,41.511109],[42.11044,41.511412],[42.107861,41.510306],[42.106402,41.509333],[42.105416,41.508848],[42.105028,41.507798],[42.10222,41.506974],[42.100636,41.507055],[42.098973,41.508085],[42.0976,41.50992],[42.096199,41.509754],[42.09387,41.509875],[42.091439,41.509364],[42.089672,41.509657],[42.089163,41.509941],[42.087997,41.509844],[42.087069,41.510166],[42.084508,41.510394],[42.08071,41.508734],[42.077901,41.50784],[42.076964,41.50746],[42.073029,41.506046],[42.07017,41.504871],[42.067783,41.504114],[42.066243,41.504019],[42.065073,41.50364],[42.06355,41.501298],[42.062892,41.500881],[42.06187,41.501133],[42.060549,41.499913],[42.056673,41.497809],[42.05543,41.498278],[42.053142,41.498547],[42.052249,41.498454],[42.050563,41.497933],[42.048759,41.496223],[42.04848,41.495674],[42.04667,41.494796],[42.045004,41.494857],[42.043272,41.494088],[42.041669,41.493816],[42.038263,41.493912],[42.034005,41.495024],[42.03312,41.495153],[42.031379,41.495188],[42.031016,41.495389],[42.030511,41.496813],[42.029439,41.497916],[42.027283,41.499817],[42.023884,41.500569],[42.021955,41.500386],[42.020436,41.500423],[42.018405,41.50091],[42.016739,41.501004],[42.015303,41.501626],[42.013309,41.502197],[42.011201,41.502461],[42.007877,41.502668],[41.999596,41.509232],[41.99625,41.519863],[41.983757,41.522751],[41.980778,41.522606],[41.977503,41.521744],[41.975143,41.521456],[41.973088,41.521282],[41.971794,41.52151],[41.968066,41.523284],[41.964717,41.524255],[41.962815,41.524712],[41.961368,41.524653],[41.957942,41.523905],[41.954744,41.523329],[41.952838,41.521093],[41.950553,41.519314],[41.949258,41.518224],[41.947507,41.517305],[41.945908,41.517304],[41.943928,41.516614],[41.941035,41.514835],[41.940425,41.514089],[41.940196,41.512886],[41.938848,41.511049],[41.933544,41.508919],[41.932985,41.50858],[41.929081,41.508575],[41.927939,41.508345],[41.924513,41.506908],[41.919641,41.503005],[41.917509,41.501169],[41.915607,41.501167],[41.914465,41.500936],[41.913552,41.499846],[41.910791,41.499054],[41.910394,41.498086],[41.909918,41.49502],[41.907928,41.492868],[41.907092,41.492053],[41.904864,41.490817],[41.900497,41.489086],[41.899494,41.488295],[41.898692,41.4859],[41.896817,41.483057],[41.893731,41.48057],[41.892276,41.480012],[41.893247,41.478973],[41.893985,41.478498],[41.888206,41.473045],[41.881943,41.465015],[41.863415,41.455219],[41.850625,41.449001],[41.847327,41.448572],[41.846554,41.447836],[41.846637,41.447062],[41.84161,41.444618],[41.823009,41.436604],[41.809626,41.441898],[41.807926,41.443156],[41.806954,41.444194],[41.805692,41.446151],[41.801006,41.447967],[41.799327,41.447581],[41.79604,41.447272],[41.793472,41.448288],[41.788924,41.45118],[41.789361,41.45219],[41.788937,41.454254],[41.787515,41.455754],[41.787312,41.457358],[41.787354,41.460047],[41.78691,41.460852],[41.785626,41.461436],[41.783571,41.461339],[41.781532,41.46233],[41.779941,41.462687],[41.777285,41.463111],[41.77585,41.463753],[41.774355,41.460505],[41.771408,41.462318],[41.769243,41.463046],[41.768548,41.463817],[41.766199,41.464409],[41.764307,41.464998],[41.757877,41.467342],[41.755992,41.468446],[41.755176,41.469826],[41.75336,41.470528],[41.750842,41.469977],[41.748945,41.470337],[41.747186,41.470986],[41.745343,41.471082],[41.738075,41.473526],[41.71456,41.482717],[41.714671,41.484328],[41.715015,41.485438],[41.715502,41.486286],[41.71658,41.487724],[41.716886,41.488834],[41.716596,41.490329],[41.71529,41.492131],[41.713253,41.49372],[41.710096,41.495934],[41.708704,41.496392],[41.704455,41.495708],[41.703101,41.495107],[41.701493,41.494826],[41.700251,41.494136],[41.699882,41.493399],[41.699371,41.492923],[41.698321,41.492287],[41.697332,41.491219],[41.695761,41.490937],[41.694564,41.490447],[41.693701,41.48972],[41.692221,41.488749],[41.690865,41.488062],[41.685612,41.48694],[41.684147,41.487486],[41.682637,41.48786],[41.681183,41.487633],[41.678873,41.486879],[41.677162,41.485827],[41.67466,41.48409],[41.673222,41.483981],[41.671741,41.48425],[41.669624,41.483707],[41.653839,41.485748],[41.636921,41.491329],[41.626663,41.496746],[41.62173,41.498916],[41.620753,41.500122],[41.618976,41.501199],[41.616545,41.501506],[41.615334,41.502092],[41.614595,41.502055],[41.609154,41.504448],[41.596191,41.50692],[41.584446,41.513359],[41.581608,41.514164],[41.580251,41.515617],[41.57791,41.517306],[41.575789,41.518244],[41.571848,41.519772],[41.565295,41.519244],[41.561568,41.51956],[41.556984,41.518152],[41.554685,41.518192],[41.552044,41.51888],[41.549528,41.519948],[41.548497,41.518769],[41.53788,41.51976],[41.553349,41.541294],[41.55904,41.552269],[41.565075,41.588726],[41.567825,41.594418],[41.567844,41.59676],[41.570251,41.600777],[41.572029,41.602318],[41.574074,41.603245],[41.575932,41.607437],[41.586281,41.6208],[41.593376,41.62606],[41.596947,41.630299],[41.610729,41.6395],[41.621578,41.649647],[41.634617,41.655941],[41.63908,41.657139],[41.641861,41.656708],[41.654037,41.650616],[41.65778,41.650642],[41.661499,41.653671],[41.668736,41.665073],[41.680687,41.671841],[41.692284,41.681629],[41.707737,41.698963],[41.721897,41.714844],[41.72364,41.720413],[41.745632,41.754486],[41.760876,41.785816],[41.764359,41.791626],[41.767403,41.794258],[41.769783,41.801384],[41.773548,41.80595],[41.772736,41.847992],[41.773769,41.855484],[41.77248,41.878464],[41.775051,41.890953],[41.773193,41.89439],[41.77253,41.900631],[41.772919,41.904034],[41.774292,41.906052],[41.771141,41.909779],[41.768135,41.920395],[41.766132,41.930676],[41.764149,41.940586],[41.761341,41.947151],[41.760017,41.953758],[41.759571,41.962605],[41.757927,41.975475],[41.756416,41.985771],[41.755165,41.990902],[41.755005,41.997837],[41.754929,42.005291],[41.752213,42.010014],[41.749989,42.014446],[41.741615,42.02066],[41.733562,42.030495],[41.724861,42.048943],[41.715065,42.063389],[41.701637,42.083183],[41.673908,42.114346],[41.664921,42.122768],[41.658291,42.126953],[41.654552,42.131382],[41.652321,42.14172],[41.647766,42.151363],[41.651127,42.165405],[41.645718,42.181473],[41.647667,42.190269],[41.646954,42.192554],[41.638397,42.208832],[41.640434,42.211765],[41.647865,42.215176],[41.649658,42.218117],[41.645775,42.238457],[41.640255,42.252441],[41.638134,42.267101],[41.635162,42.276749],[41.624638,42.301617],[41.615425,42.319515],[41.615154,42.325535],[41.611782,42.330772],[41.599968,42.358643],[41.591595,42.370117],[41.580471,42.380138],[41.562191,42.387081],[41.560097,42.389713],[41.55904,42.3937],[41.554295,42.3922],[41.551754,42.39415],[41.548447,42.406815],[41.546288,42.424274],[41.543636,42.43137],[41.540268,42.449852],[41.537563,42.455795],[41.536915,42.4618],[41.534054,42.469212],[41.532959,42.475628],[41.532898,42.497814],[41.531002,42.506371],[41.531384,42.510273],[41.533024,42.513145],[41.530048,42.515636],[41.529591,42.5224],[41.526455,42.529587],[41.51907,42.555172],[41.508957,42.577915],[41.50544,42.583134],[41.503387,42.590717],[41.499607,42.604374],[41.499889,42.609688],[41.494999,42.614731],[41.485909,42.641655],[41.480137,42.65097],[41.477989,42.65976],[41.470798,42.679729],[41.470871,42.683308],[41.467873,42.686176],[41.459011,42.705055],[41.44939,42.715885],[41.445095,42.722828],[41.437321,42.73251],[41.432247,42.735703],[41.422276,42.737576],[41.416218,42.741848],[41.411583,42.746979],[41.409134,42.74839],[41.40831,42.749168],[41.406898,42.750137],[41.405567,42.750801],[41.403915,42.752857],[41.400116,42.753811],[41.394398,42.756443],[41.387344,42.758205],[41.374908,42.759365],[41.369244,42.76112],[41.365314,42.760357],[41.35157,42.762135],[41.338467,42.768997],[41.336319,42.772667],[41.331226,42.769432],[41.322128,42.769619],[41.308601,42.772835],[41.274715,42.786236],[41.267784,42.786716],[41.236073,42.795658],[41.225246,42.797596],[41.216022,42.798466],[41.208733,42.798],[41.190105,42.792454],[41.176964,42.789768],[41.165459,42.790348],[41.15337,42.793056],[41.149963,42.797974],[41.150311,42.801834],[41.133297,42.816017],[41.127796,42.818935],[41.119434,42.827564],[41.109619,42.83482],[41.10247,42.848473],[41.101082,42.855217],[41.098515,42.859661],[41.099369,42.865616],[41.09491,42.875523],[41.094696,42.878868],[41.095444,42.881321],[41.092354,42.891258],[41.089455,42.912415],[41.085903,42.924194],[41.082146,42.932434],[41.079712,42.94413],[41.067398,42.968182],[41.06419,42.970547],[41.054218,42.982349],[41.042782,42.991428],[41.039814,42.992519],[41.031155,42.991001],[41.024384,42.990917],[41.015961,42.989151],[41.005722,42.98951],[41.000923,42.988861],[40.994839,42.987297],[40.982368,42.979988],[40.975109,42.978271],[40.970165,42.97929],[40.959908,42.984512],[40.953304,42.991093],[40.94474,42.997746],[40.93961,43.003094],[40.937954,43.006126],[40.930569,43.009731],[40.920074,43.019951],[40.911373,43.03006],[40.894688,43.043098],[40.878021,43.058128],[40.874409,43.06144],[40.868908,43.064163],[40.856251,43.066742],[40.821609,43.066669],[40.810318,43.068073],[40.800728,43.069786],[40.791504,43.072556],[40.787025,43.075886],[40.777573,43.077698],[40.764431,43.077705],[40.742207,43.079304],[40.729027,43.078327],[40.716743,43.078907],[40.704441,43.080727],[40.691631,43.084927],[40.682659,43.084476],[40.661198,43.091766],[40.649273,43.092525],[40.6436,43.091949],[40.620888,43.086094],[40.614834,43.085705],[40.607075,43.086487],[40.590363,43.084927],[40.585163,43.085365],[40.558029,43.104012],[40.543228,43.11887],[40.542114,43.122017],[40.539684,43.122673],[40.535892,43.125233],[40.530128,43.12748],[40.523636,43.132813],[40.512859,43.137989],[40.503777,43.14043],[40.494072,43.140671],[40.482456,43.142738],[40.468666,43.140057],[40.462814,43.140671],[40.459572,43.142494],[40.456799,43.148098],[40.452374,43.151379],[40.450043,43.15181],[40.44215,43.151131],[40.433743,43.153126],[40.422607,43.157162],[40.409279,43.166046],[40.404438,43.168198],[40.399181,43.16991],[40.388943,43.171204],[40.382736,43.170425],[40.362614,43.16486],[40.354843,43.159554],[40.343994,43.148373],[40.336315,43.14563],[40.329697,43.14613],[40.32452,43.14888],[40.31559,43.163517],[40.311863,43.167294],[40.306934,43.169163],[40.298782,43.170383],[40.282898,43.179375],[40.281605,43.18121],[40.28141,43.183575],[40.285412,43.188728],[40.28035,43.189526],[40.276764,43.191746],[40.269348,43.204399],[40.268833,43.209824],[40.267551,43.212421],[40.265789,43.236523],[40.263634,43.24757],[40.256977,43.2663],[40.253021,43.271946],[40.24752,43.284698],[40.243546,43.288956],[40.238506,43.299934],[40.236599,43.307629],[40.233833,43.310604],[40.223278,43.316429],[40.213715,43.318089],[40.205791,43.32093],[40.186874,43.331627],[40.171772,43.333557],[40.164646,43.335564],[40.133102,43.351597],[40.101471,43.359764],[40.083466,43.369156],[40.067539,43.371674],[40.058884,43.37421],[40.053204,43.374226],[40.030445,43.377945],[40.021072,43.378433],[40.002357,43.383625],[40.003918,43.386623],[40.005744,43.386537],[40.007634,43.386064],[40.008815,43.386064],[40.007867,43.38703],[40.007349,43.387874],[40.007304,43.388635],[40.006725,43.389888],[40.006604,43.390646],[40.006788,43.391101],[40.007455,43.391807],[40.008824,43.394677],[40.0094,43.396096],[40.009282,43.396927],[40.012157,43.402451],[40.012643,43.410548],[40.013965,43.412063],[40.01421,43.412604],[40.013611,43.414553],[40.013728,43.415774],[40.014079,43.416826],[40.015321,43.417765],[40.015798,43.41869],[40.015865,43.419665],[40.015467,43.42074],[40.014914,43.421028],[40.025951,43.435982],[40.026721,43.436829],[40.028442,43.437542],[40.031173,43.439782],[40.031435,43.440239],[40.03339,43.441875],[40.03345,43.442396],[40.033238,43.443431],[40.033691,43.444421],[40.034914,43.445502],[40.035328,43.446085],[40.036397,43.44716],[40.036443,43.447523],[40.04041,43.451887],[40.04126,43.452589],[40.041257,43.452819],[40.043468,43.455254],[40.049931,43.473476],[40.059849,43.489704],[40.069244,43.509174],[40.069833,43.509413],[40.071396,43.509666],[40.07199,43.509892],[40.072754,43.511414],[40.075011,43.512891],[40.075719,43.513524],[40.076445,43.514702],[40.077179,43.515525],[40.078124,43.517245],[40.080609,43.51879],[40.082866,43.520267],[40.085283,43.520768],[40.086043,43.521154],[40.087055,43.521917],[40.089515,43.523273],[40.090704,43.524351],[40.091535,43.525663],[40.092602,43.528063],[40.094513,43.529182],[40.095102,43.529644],[40.09515,43.530889],[40.095579,43.532327],[40.095575,43.533819],[40.094644,43.536883],[40.093824,43.538471],[40.093479,43.538862],[40.094391,43.54071],[40.098537,43.555702],[40.106716,43.561745],[40.120514,43.564896],[40.135124,43.565689],[40.150894,43.570671],[40.157131,43.571609],[40.169357,43.572918],[40.181061,43.571693],[40.20118,43.574215],[40.212448,43.574581],[40.222977,43.576744],[40.234356,43.582897],[40.242119,43.584003],[40.255817,43.582375],[40.262413,43.582577],[40.265044,43.581423],[40.265391,43.580795],[40.267826,43.579762],[40.269929,43.578644],[40.275101,43.574306],[40.292065,43.571018],[40.297914,43.570953],[40.298351,43.570841],[40.299538,43.571207],[40.31065,43.572945],[40.317688,43.57259],[40.32209,43.570605],[40.323359,43.569327],[40.324101,43.568933],[40.32482,43.568856],[40.326674,43.56787],[40.328472,43.566622],[40.329764,43.566227],[40.331203,43.566073],[40.332531,43.566139],[40.333664,43.565973],[40.334854,43.565326],[40.335804,43.5652],[40.337091,43.564297],[40.339611,43.563598],[40.341081,43.563398],[40.342188,43.563439],[40.358982,43.555927],[40.370182,43.555779],[40.377953,43.553455],[40.387315,43.555033],[40.387945,43.554791],[40.389094,43.554661],[40.391141,43.555394],[40.392636,43.555502],[40.395056,43.555919],[40.396311,43.555805],[40.399872,43.55496],[40.401312,43.554806],[40.402174,43.555207],[40.403194,43.555379],[40.404268,43.555187],[40.408348,43.5529],[40.409504,43.552416],[40.414471,43.552324],[40.415914,43.552678],[40.417882,43.553584],[40.419277,43.554066],[40.421087,43.554458],[40.423575,43.554548],[40.425676,43.554174],[40.427217,43.553529],[40.427687,43.553702],[40.428888,43.554694],[40.430128,43.556007],[40.449825,43.548988],[40.46756,43.541573],[40.485523,43.53104],[40.497723,43.523605],[40.517853,43.516895],[40.537094,43.515507],[40.562054,43.516483],[40.584278,43.521275],[40.599396,43.529358],[40.61784,43.538998],[40.628559,43.546906],[40.650211,43.553093],[40.670441,43.55172],[40.680824,43.543896],[40.693775,43.534386],[40.704929,43.529449],[40.721386,43.525784],[40.746468,43.518147],[40.77037,43.50618],[40.793755,43.494541],[40.813305,43.488476],[40.833149,43.485271],[40.859768,43.483383],[40.879364,43.483734],[40.890491,43.478779],[40.89489,43.471794],[40.895602,43.461258],[40.895146,43.460677],[40.894084,43.460157],[40.893013,43.459961],[40.892111,43.459243],[40.892053,43.458654],[40.892797,43.457639],[40.893815,43.456802],[40.895535,43.455764],[40.897183,43.45514],[40.901131,43.452015],[40.913719,43.447109],[40.922489,43.440639],[40.926887,43.43575],[40.926517,43.435293],[40.926222,43.434395],[40.926572,43.433629],[40.926572,43.432623],[40.926789,43.431888],[40.928729,43.429383],[40.93006,43.426496],[40.931188,43.426274],[40.934164,43.425461],[40.935227,43.425093],[40.9363,43.424521],[40.937063,43.424585],[40.938461,43.424421],[40.939276,43.424715],[40.940868,43.424546],[40.943661,43.425104],[40.944285,43.425523],[40.945516,43.424753],[40.94685,43.423436],[40.947038,43.422748],[40.947858,43.421712],[40.948685,43.420916],[40.949811,43.42013],[40.951328,43.419455],[40.952116,43.419352],[40.953424,43.419652],[40.955722,43.419641],[40.956889,43.419732],[40.957821,43.419958],[40.959459,43.421349],[40.960214,43.421616],[40.961877,43.42284],[40.963371,43.422895],[40.964603,43.423132],[40.965659,43.42353],[40.966453,43.424111],[40.968036,43.424145],[40.97011,43.424629],[40.972953,43.424854],[40.979179,43.425419],[40.979972,43.425999],[40.98129,43.426659],[40.982639,43.427835],[40.982798,43.42965],[40.983289,43.430099],[40.984802,43.430602],[40.990845,43.429844],[41.005817,43.425724],[41.014763,43.416393],[41.02673,43.405739],[41.037228,43.395031],[41.04644,43.388924],[41.05933,43.386509],[41.076641,43.383892],[41.092369,43.383003],[41.095714,43.385151],[41.097161,43.384921],[41.097689,43.386418],[41.099422,43.387531],[41.100291,43.389289],[41.10148,43.390153],[41.102737,43.391227],[41.102796,43.39202],[41.103115,43.39263],[41.10416,43.393996],[41.104161,43.394439],[41.103274,43.395327],[41.104626,43.398064],[41.110235,43.401617],[41.112232,43.400762],[41.113702,43.39957],[41.114749,43.39896],[41.115957,43.398716],[41.117415,43.398816],[41.118861,43.398557],[41.120512,43.398652],[41.121648,43.398465],[41.123918,43.398414],[41.125258,43.398139],[41.126841,43.397968],[41.127853,43.398052],[41.129055,43.398454],[41.132106,43.399066],[41.13419,43.400026],[41.135407,43.400375],[41.142307,43.398628],[41.149555,43.392445],[41.155941,43.384445],[41.161053,43.381046],[41.181755,43.378883],[41.192017,43.379227],[41.203411,43.377106],[41.21283,43.375275],[41.222958,43.369896],[41.236744,43.360706],[41.240247,43.360566],[41.24202,43.3595],[41.243959,43.358695],[41.245397,43.358656],[41.2459,43.358307],[41.248144,43.357951],[41.24914,43.358249],[41.249858,43.35813],[41.251269,43.358535],[41.252896,43.359966],[41.253127,43.36033],[41.258305,43.360344],[41.266853,43.356693],[41.273705,43.348701],[41.278603,43.340649],[41.281925,43.334328],[41.292313,43.33252],[41.30452,43.332916],[41.318424,43.33765],[41.333775,43.342789],[41.349911,43.351162],[41.371277,43.362202],[41.378456,43.364929],[41.391438,43.360699],[41.404968,43.355412],[41.411507,43.352402],[41.411358,43.34668],[41.409294,43.340187],[41.406635,43.335461],[41.409138,43.326252],[41.416477,43.317909],[41.421799,43.310577],[41.42812,43.302917],[41.442848,43.301949],[41.455437,43.304123],[41.469628,43.300687],[41.470194,43.299876],[41.47142,43.29945],[41.472051,43.298828],[41.47338,43.298102],[41.473801,43.297376],[41.475261,43.296108],[41.47592,43.29574],[41.477653,43.294461],[41.47824,43.294421],[41.483887,43.285717],[41.49361,43.278156],[41.501724,43.273048],[41.515167,43.268814],[41.530029,43.265339],[41.542511,43.260715],[41.549782,43.253078],[41.554718,43.243584],[41.562355,43.238098],[41.573307,43.234497],[41.585129,43.232708],[41.59565,43.22802],[41.601292,43.223186],[41.613739,43.218914],[41.626984,43.217876],[41.632882,43.220852],[41.633076,43.220537],[41.634504,43.221533],[41.635234,43.221888],[41.636141,43.222041],[41.637204,43.222928],[41.648907,43.22781],[41.662659,43.226425],[41.671162,43.222744],[41.679783,43.216923],[41.684559,43.209919],[41.691189,43.21368],[41.699699,43.218929],[41.700334,43.219545],[41.702743,43.219939],[41.703425,43.220545],[41.704187,43.220851],[41.704438,43.222277],[41.705136,43.222679],[41.705339,43.224236],[41.706467,43.224901],[41.706725,43.22574],[41.707068,43.226072],[41.708339,43.226558],[41.709672,43.227336],[41.712932,43.227232],[41.713789,43.227818],[41.713802,43.228938],[41.714204,43.230169],[41.714178,43.231017],[41.714422,43.231535],[41.716995,43.233356],[41.726635,43.235779],[41.735119,43.232449],[41.748573,43.227474],[41.767654,43.217655],[41.786465,43.21283],[41.794193,43.205189],[41.797867,43.200291],[41.807129,43.20055],[41.812813,43.203922],[41.822887,43.207417],[41.832638,43.207687],[41.845692,43.210194],[41.846979,43.211287],[41.848007,43.211011],[41.84922,43.211272],[41.849692,43.212106],[41.851157,43.213414],[41.852562,43.215358],[41.853112,43.215301],[41.85513,43.216088],[41.855881,43.218325],[41.856378,43.219394],[41.85595,43.220468],[41.856305,43.220918],[41.8573,43.221249],[41.857928,43.221666],[41.85836,43.22247],[41.858384,43.222997],[41.857999,43.224217],[41.858761,43.225686],[41.85953,43.225955],[41.859906,43.226571],[41.86003,43.227266],[41.859807,43.227704],[41.860552,43.229139],[41.861658,43.22948],[41.862302,43.229933],[41.862853,43.230709],[41.86304,43.231489],[41.864343,43.232312],[41.865505,43.233348],[41.866336,43.233456],[41.865641,43.235969],[41.864995,43.236658],[41.868469,43.242252],[41.880013,43.245785],[41.890495,43.241425],[41.895775,43.233711],[41.900074,43.225967],[41.913048,43.220604],[41.93169,43.218964],[41.944115,43.214653],[41.948895,43.206921],[41.955956,43.202465],[41.970894,43.206436],[41.989704,43.21122],[42.006653,43.214165],[42.012852,43.217186],[42.021492,43.210266],[42.035961,43.195693],[42.034996,43.194721],[42.035463,43.194369],[42.037326,43.193648],[42.038848,43.192282],[42.038538,43.19159],[42.038687,43.190992],[42.038046,43.190257],[42.038052,43.189692],[42.037618,43.18907],[42.037894,43.188582],[42.039734,43.187403],[42.041458,43.187882],[42.043947,43.187979],[42.044819,43.188297],[42.046153,43.188023],[42.047254,43.187924],[42.048053,43.188661],[42.050182,43.18993],[42.051319,43.191113],[42.059418,43.193386],[42.07095,43.197254],[42.08601,43.209072],[42.100056,43.211571],[42.10198,43.21138],[42.103108,43.209514],[42.104486,43.208988],[42.107068,43.208942],[42.109391,43.208435],[42.111493,43.208945],[42.112002,43.209268],[42.113187,43.209471],[42.11398,43.209848],[42.115475,43.209817],[42.115865,43.210006],[42.120171,43.209579],[42.125431,43.210154],[42.126343,43.20991],[42.127478,43.210004],[42.128255,43.210345],[42.129249,43.210472],[42.130066,43.21032],[42.131377,43.210574],[42.131485,43.210815],[42.137177,43.211437],[42.155983,43.216549],[42.170486,43.219765],[42.173618,43.219497],[42.174147,43.21868],[42.174136,43.217958],[42.176101,43.217695],[42.177194,43.217115],[42.178809,43.216654],[42.179537,43.216885],[42.180546,43.216929],[42.183707,43.217712],[42.185127,43.21786],[42.18693,43.218401],[42.188714,43.218665],[42.191234,43.218714],[42.192545,43.218968],[42.192921,43.219301],[42.201221,43.220524],[42.210331,43.224319],[42.227959,43.223316],[42.240189,43.2229],[42.249573,43.220627],[42.253385,43.215975],[42.25378,43.214918],[42.252817,43.213032],[42.253607,43.212662],[42.254537,43.2126],[42.256421,43.212269],[42.257324,43.211166],[42.263385,43.211045],[42.264456,43.210543],[42.26611,43.210991],[42.281765,43.210678],[42.287259,43.211652],[42.28859,43.210681],[42.28951,43.210541],[42.291057,43.210694],[42.293661,43.210835],[42.294787,43.21109],[42.294945,43.21212],[42.294602,43.212954],[42.305023,43.214802],[42.320496,43.21838],[42.331734,43.218285],[42.334993,43.219357],[42.336117,43.219319],[42.338319,43.219547],[42.339875,43.220202],[42.340867,43.220418],[42.341528,43.221983],[42.341645,43.22261],[42.342278,43.223033],[42.34216,43.223387],[42.343578,43.224913],[42.346768,43.226149],[42.34698,43.226501],[42.347996,43.227366],[42.348632,43.228847],[42.350558,43.229977],[42.350406,43.231607],[42.349692,43.232862],[42.351971,43.236639],[42.360477,43.242531],[42.369221,43.243801],[42.382431,43.243389],[42.396542,43.244785],[42.402365,43.247524],[42.403304,43.247484],[42.405847,43.24799],[42.406686,43.248603],[42.407372,43.24886],[42.408401,43.249578],[42.410236,43.250504],[42.41062,43.251205],[42.417641,43.254192],[42.423033,43.254451],[42.423917,43.254246],[42.425579,43.253347],[42.427694,43.252923],[42.429237,43.25294],[42.431053,43.253406],[42.432377,43.253144],[42.43384,43.252708],[42.43563,43.252029],[42.438669,43.25165],[42.441257,43.250439],[42.446214,43.243133],[42.445878,43.242682],[42.446,43.241997],[42.446666,43.240563],[42.447811,43.240154],[42.44968,43.235981],[42.449807,43.234697],[42.448782,43.234256],[42.448078,43.233236],[42.447411,43.231905],[42.447269,43.231264],[42.44676,43.230833],[42.445745,43.230394],[42.44425,43.228921],[42.443935,43.228352],[42.443843,43.227204],[42.444905,43.225371],[42.444694,43.224857],[42.445464,43.22362],[42.447272,43.222552],[42.445927,43.220535],[42.448147,43.214157],[42.508148,43.191906],[42.528179,43.179482],[42.540657,43.172604],[42.557323,43.170818],[42.57687,43.170162],[42.593578,43.167301],[42.599145,43.165283],[42.599531,43.164691],[42.5994,43.164093],[42.599737,43.163627],[42.600659,43.163383],[42.60144,43.162825],[42.602163,43.162598],[42.602887,43.162914],[42.604478,43.16335],[42.609417,43.16156],[42.622791,43.156479],[42.642757,43.144749],[42.654243,43.13784],[42.666687,43.13131],[42.675526,43.129704],[42.678787,43.133698],[42.677687,43.137061],[42.67867,43.13766],[42.678662,43.138388],[42.677146,43.138714],[42.676582,43.140438],[42.674839,43.147891],[42.675392,43.149292],[42.676408,43.150101],[42.676629,43.151371],[42.676609,43.152392],[42.677933,43.153821],[42.678981,43.154479],[42.679479,43.155103],[42.679899,43.156321],[42.679766,43.156743],[42.680563,43.157626],[42.680544,43.158319],[42.681254,43.15918],[42.680518,43.15974],[42.680229,43.161351],[42.680247,43.162074],[42.679363,43.163197],[42.678261,43.163789],[42.677018,43.164778],[42.677446,43.165036],[42.678862,43.165015],[42.680589,43.166182],[42.680614,43.166984],[42.680395,43.168414],[42.694981,43.172657],[42.697326,43.172112],[42.697899,43.171893],[42.698727,43.172308],[42.699525,43.172257],[42.700456,43.172495],[42.700931,43.172828],[42.702724,43.172791],[42.703358,43.173282],[42.70416,43.173559],[42.70485,43.174021],[42.704756,43.174659],[42.735428,43.179284],[42.735493,43.178902],[42.736776,43.179089],[42.738387,43.178819],[42.739425,43.178466],[42.74162,43.179554],[42.742681,43.180401],[42.755009,43.183445],[42.765675,43.18544],[42.776997,43.1828],[42.783596,43.175785],[42.794071,43.169559],[42.805416,43.166203],[42.821445,43.168297],[42.837952,43.170753],[42.857487,43.170406],[42.867817,43.168098],[42.873039,43.158195],[42.875751,43.150387],[42.882175,43.148003],[42.895203,43.152176],[42.914341,43.148952],[42.921837,43.14373],[42.92251,43.13692],[42.92184,43.136535],[42.922578,43.136231],[42.923294,43.129467],[42.924793,43.127945],[42.924949,43.127048],[42.924866,43.126169],[42.925199,43.125308],[42.926642,43.125382],[42.927587,43.125109],[42.929863,43.122799],[42.947952,43.121342],[42.967091,43.117752],[42.983814,43.113403],[43.001125,43.10585],[43.019524,43.094738],[43.032429,43.08746],[43.034004,43.083916],[43.030128,43.081529],[43.029064,43.081488],[43.026836,43.079502],[43.024323,43.077571],[43.021515,43.075696],[43.021083,43.075493],[43.019902,43.07413],[43.017424,43.071844],[43.015833,43.071288],[43.01602,43.070549],[43.015446,43.070019],[43.014679,43.063576],[43.021332,43.053688],[43.029476,43.042755],[43.032726,43.032452],[43.037403,43.023243],[43.053314,43.012798],[43.068619,43.005913],[43.083015,42.996868],[43.09676,42.993168],[43.105556,42.991882],[43.118973,42.982819],[43.135311,42.973438],[43.149185,42.965092],[43.166836,42.960373],[43.176338,42.951595],[43.179558,42.941288],[43.184639,42.933865],[43.197895,42.929432],[43.222782,42.926247],[43.236507,42.922173],[43.252651,42.918491],[43.265305,42.917969],[43.281902,42.915359],[43.293198,42.911243],[43.297865,42.910365],[43.297802,42.909813],[43.299192,42.908284],[43.30012,42.907535],[43.301801,42.908354],[43.303119,42.908829],[43.304639,42.909936],[43.311192,42.910797],[43.319527,42.908062],[43.326569,42.899231],[43.328674,42.893192],[43.335182,42.886139],[43.349312,42.88456],[43.36668,42.889095],[43.382587,42.893967],[43.403481,42.893902],[43.419125,42.89019],[43.439091,42.888321],[43.454693,42.886028],[43.470791,42.883389],[43.483131,42.875336],[43.489124,42.868626],[43.502373,42.863087],[43.518929,42.861156],[43.53059,42.86095],[43.551899,42.863365],[43.566086,42.858898],[43.577942,42.850117],[43.590805,42.839558],[43.604069,42.832577],[43.610004,42.827648],[43.610901,42.824796],[43.61018,42.824293],[43.608252,42.822181],[43.607866,42.821033],[43.607916,42.819664],[43.607623,42.817631],[43.607327,42.817253],[43.605984,42.812237],[43.608513,42.807621],[43.621658,42.805637],[43.633362,42.802921],[43.637867,42.796543],[43.639957,42.78978],[43.647263,42.788437],[43.657867,42.79142],[43.668938,42.795479],[43.677181,42.795574],[43.682644,42.789566],[43.684231,42.783508],[43.692116,42.777527],[43.707741,42.772346],[43.725761,42.76862],[43.737003,42.764099],[43.754044,42.760712],[43.764313,42.75618],[43.776501,42.752739],[43.786278,42.748554],[43.79372,42.7397],[43.798725,42.731537],[43.801292,42.724064],[43.800018,42.71476],[43.797211,42.708016],[43.796841,42.70754],[43.793463,42.704324],[43.79283,42.703449],[43.792821,42.702993],[43.792387,42.702094],[43.791851,42.701695],[43.790121,42.701378],[43.789071,42.700197],[43.787715,42.699222],[43.787168,42.69793],[43.787216,42.696716],[43.787439,42.69604],[43.78673,42.694307],[43.786026,42.693387],[43.785686,42.692677],[43.785778,42.691851],[43.783822,42.689736],[43.78275,42.688747],[43.782378,42.688174],[43.778339,42.683807],[43.770271,42.675503],[43.763607,42.669716],[43.760803,42.664684],[43.757591,42.655716],[43.754809,42.652173],[43.752262,42.651204],[43.750684,42.650771],[43.749389,42.650662],[43.747962,42.650193],[43.746521,42.650044],[43.744824,42.649296],[43.743251,42.648881],[43.741701,42.648817],[43.740546,42.649],[43.738438,42.649688],[43.73553,42.64834],[43.735203,42.64764],[43.734181,42.646998],[43.733266,42.645347],[43.732523,42.644374],[43.732191,42.643611],[43.731025,42.643572],[43.729704,42.643692],[43.727942,42.642955],[43.726606,42.642797],[43.725337,42.642133],[43.724155,42.64177],[43.723516,42.641789],[43.722458,42.641115],[43.722256,42.640703],[43.720762,42.64019],[43.719196,42.639521],[43.718565,42.637923],[43.71806,42.637348],[43.716934,42.636947],[43.71595,42.636934],[43.715323,42.636493],[43.714952,42.635595],[43.714899,42.634502],[43.714526,42.634054],[43.714561,42.632805],[43.714882,42.632061],[43.713589,42.630222],[43.716572,42.626328],[43.730686,42.622196],[43.738049,42.61692],[43.743973,42.610912],[43.74844,42.605244],[43.750496,42.599194],[43.754044,42.591015],[43.762394,42.584316],[43.772064,42.584419],[43.783077,42.589897],[43.784064,42.590548],[43.785779,42.590643],[43.785666,42.591037],[43.786214,42.591964],[43.790237,42.594616],[43.802807,42.594749],[43.814457,42.592369],[43.823708,42.588894],[43.833889,42.587566],[43.845966,42.588047],[43.858059,42.587811],[43.867771,42.585407],[43.873228,42.582874],[43.873859,42.581479],[43.873979,42.580905],[43.874372,42.580539],[43.876174,42.579862],[43.876842,42.579897],[43.878571,42.576225],[43.889256,42.573471],[43.904339,42.567898],[43.924774,42.559875],[43.936005,42.553192],[43.950596,42.547611],[43.960521,42.548927],[43.961531,42.547774],[43.962818,42.547126],[43.963619,42.547028],[43.964992,42.547449],[43.965719,42.547862],[43.966136,42.548962],[43.966722,42.549721],[43.968049,42.550238],[43.972588,42.551535],[43.973191,42.551803],[43.973576,42.552421],[43.973605,42.553666],[43.973316,42.554574],[43.972691,42.555861],[43.973197,42.556225],[43.973666,42.557343],[43.980026,42.563421],[43.980767,42.563322],[43.983017,42.563368],[43.984156,42.564014],[43.984951,42.565558],[43.98608,42.566791],[43.987254,42.567001],[43.989052,42.566773],[43.990549,42.567104],[43.991917,42.567281],[43.991663,42.567754],[43.99067,42.56886],[43.990514,42.569395],[43.991508,42.570299],[43.992263,42.570678],[43.992592,42.57198],[43.993029,42.572559],[43.992982,42.573036],[43.99495,42.574477],[43.995607,42.574522],[43.998376,42.575671],[43.999203,42.576497],[43.99901,42.57773],[43.999266,42.578077],[43.999492,42.57922],[44.000901,42.580523],[44.001128,42.581246],[44.002832,42.582742],[44.004059,42.584794],[44.009857,42.588867],[44.024303,42.592564],[44.054714,42.596031],[44.066303,42.597198],[44.0793,42.601234],[44.08814,42.605201],[44.089247,42.605039],[44.090043,42.605078],[44.090355,42.606195],[44.092274,42.607056],[44.104805,42.610012],[44.119308,42.610481],[44.13192,42.607719],[44.144089,42.602093],[44.160992,42.604004],[44.175365,42.614113],[44.177872,42.617118],[44.178717,42.617486],[44.17986,42.618842],[44.180436,42.619739],[44.181295,42.620391],[44.182257,42.620452],[44.183623,42.62084],[44.184766,42.622136],[44.185016,42.623177],[44.184974,42.624189],[44.196964,42.627129],[44.211979,42.625805],[44.22213,42.626587],[44.223913,42.630766],[44.224645,42.63073],[44.226999,42.630115],[44.227621,42.629874],[44.230054,42.629262],[44.230884,42.628375],[44.231573,42.6274],[44.231661,42.626862],[44.232382,42.626937],[44.233292,42.627469],[44.233391,42.628165],[44.233162,42.628885],[44.233326,42.629376],[44.233037,42.630489],[44.233581,42.632609],[44.233298,42.63415],[44.233608,42.635357],[44.233187,42.636968],[44.23276,42.637384],[44.231239,42.638328],[44.23091,42.640119],[44.231502,42.641759],[44.23293,42.643909],[44.234097,42.64482],[44.234753,42.645041],[44.236282,42.644942],[44.237186,42.645136],[44.237245,42.64648],[44.238387,42.647716],[44.23924,42.649477],[44.239472,42.650839],[44.239943,42.652591],[44.240398,42.653255],[44.240554,42.654789],[44.240087,42.656224],[44.240143,42.657464],[44.239934,42.657907],[44.239876,42.658914],[44.240085,42.660178],[44.240686,42.661931],[44.241245,42.663257],[44.240616,42.664529],[44.240699,42.6661],[44.241125,42.667267],[44.242149,42.667604],[44.24316,42.668332],[44.243648,42.668501],[44.244156,42.669262],[44.244734,42.670782],[44.245048,42.671089],[44.24535,42.672661],[44.246118,42.673393],[44.246167,42.674406],[44.246804,42.675674],[44.247419,42.676232],[44.247724,42.676883],[44.250519,42.679653],[44.270267,42.688709],[44.286167,42.695599],[44.295296,42.702087],[44.296998,42.704133],[44.298027,42.704972],[44.299651,42.705742],[44.3005,42.70591],[44.301621,42.706772],[44.302107,42.707597],[44.303063,42.708437],[44.303612,42.708692],[44.304136,42.709787],[44.304615,42.709878],[44.305336,42.710472],[44.305601,42.711446],[44.305646,42.71233],[44.305338,42.712995],[44.306074,42.714071],[44.317398,42.718655],[44.330963,42.718735],[44.336125,42.718143],[44.336996,42.716853],[44.337277,42.716154],[44.338068,42.7155],[44.338583,42.715465],[44.341025,42.7148],[44.342466,42.715085],[44.343441,42.715066],[44.344829,42.714269],[44.346159,42.713694],[44.346907,42.71309],[44.347341,42.712357],[44.34847,42.711738],[44.349002,42.711231],[44.349765,42.710842],[44.351453,42.71128],[44.35308,42.711214],[44.355152,42.712063],[44.357145,42.713446],[44.357965,42.713789],[44.358408,42.714217],[44.359443,42.714605],[44.368824,42.711803],[44.382435,42.707233],[44.393608,42.704079],[44.400372,42.705898],[44.40302,42.708589],[44.40624,42.708026],[44.407608,42.707601],[44.410928,42.709184],[44.411797,42.710241],[44.413511,42.713315],[44.413815,42.714201],[44.414207,42.71469],[44.415191,42.716854],[44.415823,42.717565],[44.427887,42.7164],[44.443913,42.712193],[44.469151,42.706596],[44.491982,42.699196],[44.507515,42.694977],[44.513332,42.693932],[44.514155,42.697378],[44.515711,42.697406],[44.517267,42.696778],[44.518441,42.696991],[44.520099,42.6976],[44.520296,42.698348],[44.521122,42.700237],[44.521476,42.701615],[44.521398,42.70252],[44.521043,42.704056],[44.520217,42.705315],[44.517461,42.708858],[44.516989,42.709685],[44.515926,42.71115],[44.514666,42.713118],[44.514076,42.714575],[44.512186,42.720283],[44.511391,42.722456],[44.509501,42.726156],[44.507533,42.728715],[44.505879,42.729935],[44.503533,42.731872],[44.501087,42.73428],[44.50469,42.739253],[44.506035,42.740784],[44.507361,42.740635],[44.508222,42.741167],[44.508356,42.74198],[44.50809,42.742437],[44.508275,42.743329],[44.512428,42.747875],[44.522606,42.747917],[44.530253,42.752932],[44.53116,42.75308],[44.531919,42.753466],[44.533601,42.753247],[44.534633,42.753432],[44.53487,42.754689],[44.538062,42.756295],[44.539737,42.756773],[44.540676,42.75686],[44.541082,42.757146],[44.542874,42.757597],[44.54411,42.757657],[44.545229,42.757982],[44.546372,42.758897],[44.546498,42.759722],[44.547952,42.761581],[44.549164,42.761959],[44.552593,42.756969],[44.557968,42.751274],[44.568672,42.745598],[44.579834,42.743855],[44.592911,42.745331],[44.608921,42.742886],[44.623474,42.741146],[44.638493,42.742268],[44.654961,42.744106],[44.669971,42.747005],[44.679653,42.749535],[44.692764,42.745285],[44.69395,42.74482],[44.694866,42.744098],[44.696731,42.743319],[44.699032,42.742721],[44.699815,42.742709],[44.714127,42.73748],[44.716934,42.736127],[44.717109,42.735863],[44.71857,42.735215],[44.719471,42.734695],[44.720883,42.733583],[44.722049,42.7332],[44.724223,42.731956],[44.725496,42.731113],[44.727091,42.729245],[44.727978,42.729045],[44.729255,42.729153],[44.731855,42.728935],[44.734039,42.727882],[44.744263,42.716473],[44.745747,42.708614],[44.745412,42.707232],[44.744376,42.705863],[44.744684,42.705159],[44.744682,42.704564],[44.744337,42.704007],[44.744565,42.703735],[44.743843,42.700752],[44.739998,42.693241],[44.742458,42.684315],[44.748787,42.675755],[44.752693,42.667545],[44.754662,42.658974],[44.758087,42.649338],[44.766354,42.639351],[44.774124,42.630791],[44.783356,42.62009],[44.791122,42.612602],[44.797428,42.606895],[44.805653,42.606197],[44.814835,42.608356],[44.820633,42.610508],[44.823524,42.613728],[44.823245,42.616641],[44.824188,42.616785],[44.825916,42.61631],[44.826247,42.616032],[44.827428,42.615649],[44.828545,42.616675],[44.829384,42.617819],[44.828301,42.619183],[44.827703,42.619606],[44.827191,42.620764],[44.827354,42.621363],[44.827209,42.622731],[44.826483,42.623762],[44.826463,42.624434],[44.826019,42.626154],[44.826573,42.627181],[44.826628,42.62785],[44.826215,42.628835],[44.824804,42.630238],[44.823742,42.630792],[44.823584,42.632244],[44.82259,42.633358],[44.822972,42.633765],[44.822954,42.634526],[44.823318,42.635972],[44.823747,42.638221],[44.824805,42.642067],[44.825298,42.642364],[44.827324,42.64313],[44.827877,42.643578],[44.828045,42.644164],[44.829327,42.645346],[44.829939,42.646335],[44.829882,42.647477],[44.8303,42.648312],[44.830194,42.649198],[44.830851,42.651474],[44.83127,42.652368],[44.831288,42.654027],[44.831857,42.65564],[44.831725,42.656234],[44.832223,42.657051],[44.832222,42.657685],[44.833045,42.658834],[44.833416,42.659621],[44.833267,42.660842],[44.834134,42.663625],[44.834826,42.664447],[44.83632,42.665651],[44.836938,42.666421],[44.836836,42.668038],[44.836715,42.668186],[44.845122,42.673666],[44.845865,42.673614],[44.847843,42.67453],[44.848956,42.674751],[44.850484,42.675482],[44.8537,42.676066],[44.85524,42.676507],[44.856415,42.676695],[44.856867,42.677058],[44.85714,42.677679],[44.856629,42.679319],[44.856885,42.680192],[44.858139,42.681371],[44.858627,42.681497],[44.859498,42.682121],[44.859839,42.683271],[44.859824,42.684076],[44.860367,42.685427],[44.861127,42.685798],[44.862507,42.687088],[44.863777,42.687551],[44.865477,42.688471],[44.866115,42.689691],[44.866158,42.690137],[44.866804,42.690683],[44.868112,42.690999],[44.868548,42.691414],[44.868732,42.692006],[44.868918,42.693527],[44.868182,42.694685],[44.868212,42.695331],[44.868685,42.696233],[44.868342,42.697301],[44.868422,42.698323],[44.868699,42.698982],[44.867364,42.699643],[44.867098,42.70002],[44.867355,42.700546],[44.865473,42.70245],[44.864975,42.703338],[44.865498,42.705564],[44.866131,42.706259],[44.868143,42.707455],[44.869045,42.708902],[44.868946,42.70937],[44.869626,42.709819],[44.870113,42.710638],[44.870423,42.712211],[44.869822,42.713328],[44.870068,42.715738],[44.869741,42.716525],[44.869765,42.717647],[44.86917,42.718317],[44.86891,42.719287],[44.868482,42.719959],[44.868999,42.721049],[44.868964,42.723512],[44.869608,42.725266],[44.869613,42.725799],[44.87002,42.726321],[44.87046,42.727666],[44.874717,42.730042],[44.874995,42.730474],[44.876464,42.731476],[44.876197,42.732081],[44.876861,42.732523],[44.877782,42.732769],[44.878584,42.733438],[44.879485,42.734678],[44.879679,42.735525],[44.880178,42.736718],[44.880262,42.738065],[44.881058,42.739359],[44.882298,42.740276],[44.899742,42.744225],[44.918156,42.746738],[44.937057,42.74818],[44.955963,42.747829],[44.968571,42.742832],[44.975357,42.739262],[44.984085,42.73069],[44.993778,42.723186],[45.000076,42.7164],[45.008312,42.708183],[45.017029,42.703896],[45.028652,42.697105],[45.03688,42.686741],[45.044628,42.686382],[45.055283,42.688519],[45.067394,42.693516],[45.074669,42.700657],[45.088718,42.701717],[45.104702,42.70063],[45.120686,42.700974],[45.136189,42.702744],[45.153137,42.700935],[45.165226,42.693058],[45.170048,42.684475],[45.180672,42.674458],[45.191788,42.668007],[45.192991,42.66756],[45.193514,42.667148],[45.195036,42.666802],[45.206291,42.662624],[45.213055,42.657967],[45.223183,42.6483],[45.227997,42.64043],[45.232327,42.63435],[45.238602,42.630405],[45.245327,42.617531],[45.250599,42.605728],[45.254448,42.600719],[45.267506,42.601048],[45.280071,42.599232],[45.283992,42.593976],[45.282986,42.593393],[45.282423,42.592251],[45.281428,42.590912],[45.281818,42.590524],[45.282574,42.590376],[45.282964,42.589988],[45.283104,42.58931],[45.284397,42.588024],[45.285462,42.588319],[45.285812,42.58564],[45.290119,42.575981],[45.295887,42.56918],[45.308441,42.566288],[45.318096,42.563763],[45.323853,42.555885],[45.325991,42.551621],[45.325736,42.550334],[45.325949,42.549228],[45.32548,42.547637],[45.326208,42.545511],[45.326674,42.544498],[45.326503,42.544118],[45.32734,42.54238],[45.327425,42.541326],[45.328478,42.539793],[45.32859,42.539315],[45.329163,42.539047],[45.330111,42.538018],[45.329827,42.537072],[45.330657,42.536085],[45.331531,42.534041],[45.331913,42.526566],[45.333805,42.519058],[45.343437,42.514027],[45.353104,42.515427],[45.367607,42.517883],[45.384075,42.525688],[45.400581,42.538494],[45.409771,42.540604],[45.425228,42.539833],[45.436806,42.537647],[45.448868,42.535099],[45.469635,42.534302],[45.490379,42.53064],[45.506329,42.532001],[45.5252,42.535488],[45.555161,42.536419],[45.571602,42.538483],[45.58363,42.533062],[45.585964,42.524475],[45.589764,42.517311],[45.596947,42.5112],[45.603642,42.504375],[45.614243,42.502174],[45.627754,42.501389],[45.644138,42.498081],[45.65279,42.494461],[45.671165,42.497211],[45.684185,42.495705],[45.691326,42.486732],[45.697014,42.477051],[45.709007,42.470547],[45.725887,42.469727],[45.746193,42.472809],[45.760746,42.479145],[45.771397,42.481575],[45.77615,42.475826],[45.772675,42.467991],[45.773267,42.46387],[45.772963,42.462986],[45.773235,42.462372],[45.773141,42.461241],[45.773246,42.460649],[45.773898,42.459824],[45.774014,42.459049],[45.780636,42.448284],[45.780366,42.445816],[45.778898,42.444472],[45.778339,42.443591],[45.777182,42.442496],[45.776763,42.441874],[45.776116,42.440251],[45.776098,42.439088],[45.77586,42.438057],[45.775912,42.437418],[45.775444,42.436489],[45.775585,42.435488],[45.77457,42.433392],[45.775091,42.432736],[45.775322,42.432003],[45.775124,42.431249],[45.774037,42.429732],[45.774214,42.429402],[45.773144,42.427616],[45.765938,42.416983],[45.764704,42.416638],[45.763785,42.415944],[45.763537,42.415198],[45.762648,42.414278],[45.762441,42.412706],[45.762072,42.412234],[45.760253,42.412008],[45.758865,42.411489],[45.757996,42.410944],[45.756019,42.409296],[45.755531,42.408465],[45.755393,42.407732],[45.754934,42.406991],[45.754408,42.405095],[45.754311,42.403536],[45.754062,42.402791],[45.753805,42.401069],[45.753227,42.400443],[45.75255,42.398731],[45.752492,42.397921],[45.751922,42.397798],[45.750804,42.396822],[45.750535,42.396333],[45.750447,42.395434],[45.749818,42.394816],[45.748331,42.393841],[45.746345,42.391848],[45.745138,42.390289],[45.74463,42.389398],[45.743393,42.38775],[45.741886,42.386708],[45.740979,42.38642],[45.740528,42.38568],[45.740485,42.385099],[45.739999,42.384647],[45.738764,42.382717],[45.738764,42.382155],[45.737752,42.381123],[45.736161,42.380028],[45.735537,42.379492],[45.736126,42.37835],[45.736176,42.377379],[45.736605,42.376317],[45.736669,42.375611],[45.736316,42.372863],[45.736755,42.371719],[45.737421,42.370697],[45.738208,42.369816],[45.738226,42.369197],[45.739185,42.368326],[45.739967,42.353878],[45.741734,42.340286],[45.742657,42.337146],[45.742665,42.33612],[45.742091,42.335174],[45.742243,42.333277],[45.742666,42.332644],[45.743654,42.331808],[45.744563,42.331333],[45.747807,42.324528],[45.751057,42.314503],[45.750519,42.305783],[45.749398,42.305194],[45.748566,42.304987],[45.747568,42.303659],[45.745881,42.302781],[45.7453,42.302291],[45.744179,42.300903],[45.743998,42.300326],[45.744058,42.299413],[45.743347,42.298363],[45.743269,42.297821],[45.742576,42.296963],[45.741492,42.295996],[45.740813,42.29563],[45.74016,42.294671],[45.739659,42.294254],[45.738256,42.293642],[45.73755,42.293534],[45.735749,42.293545],[45.73468,42.293351],[45.733125,42.293374],[45.731661,42.292551],[45.730427,42.292279],[45.729478,42.292252],[45.72805,42.291759],[45.724626,42.291027],[45.723892,42.290724],[45.723369,42.29007],[45.721915,42.289026],[45.720669,42.28925],[45.719386,42.289814],[45.71898,42.290217],[45.718464,42.291748],[45.718174,42.292051],[45.714919,42.293738],[45.712717,42.294111],[45.711314,42.294481],[45.709518,42.294732],[45.708399,42.295228],[45.705375,42.295646],[45.703751,42.296362],[45.702869,42.296337],[45.701563,42.295542],[45.700594,42.295425],[45.699903,42.293844],[45.698527,42.293088],[45.697962,42.292929],[45.697153,42.292284],[45.696175,42.290905],[45.694934,42.290473],[45.693707,42.289551],[45.693021,42.288297],[45.691408,42.287527],[45.690274,42.287277],[45.689478,42.286757],[45.689136,42.285892],[45.687837,42.284895],[45.686713,42.285994],[45.685935,42.28634],[45.685083,42.28635],[45.682565,42.286054],[45.681094,42.285206],[45.680409,42.285162],[45.679342,42.285422],[45.678305,42.285437],[45.676307,42.285695],[45.675721,42.2855],[45.673908,42.283961],[45.672333,42.283586],[45.671618,42.283226],[45.669605,42.282764],[45.668415,42.282992],[45.668272,42.283685],[45.667853,42.284103],[45.666192,42.285266],[45.664244,42.286237],[45.662602,42.286783],[45.662043,42.287118],[45.660897,42.28905],[45.660186,42.289598],[45.659922,42.29015],[45.65899,42.291377],[45.658473,42.291839],[45.657287,42.292414],[45.655799,42.292639],[45.654738,42.292471],[45.653114,42.292398],[45.652013,42.291996],[45.650906,42.2909],[45.649329,42.28884],[45.64848,42.287513],[45.648178,42.286601],[45.644887,42.283521],[45.643731,42.282728],[45.64289,42.281707],[45.642581,42.27982],[45.642155,42.278422],[45.642198,42.277599],[45.641975,42.276982],[45.641567,42.27665],[45.639139,42.275723],[45.637741,42.274649],[45.637769,42.273949],[45.637557,42.272301],[45.637792,42.271887],[45.636733,42.269927],[45.636547,42.268915],[45.635793,42.268214],[45.634625,42.267382],[45.634401,42.265923],[45.632758,42.263887],[45.630771,42.263577],[45.629851,42.263007],[45.628941,42.262004],[45.628234,42.261613],[45.627784,42.26107],[45.626209,42.259803],[45.625466,42.259418],[45.624425,42.258599],[45.624313,42.257918],[45.623018,42.256684],[45.62276,42.256028],[45.622237,42.255498],[45.622061,42.254855],[45.620474,42.254586],[45.619029,42.254051],[45.618615,42.253502],[45.618068,42.25198],[45.617698,42.250643],[45.617939,42.249525],[45.619649,42.247405],[45.619733,42.246852],[45.620497,42.246042],[45.615917,42.238698],[45.615316,42.238343],[45.614389,42.238097],[45.613398,42.236623],[45.612946,42.236188],[45.612143,42.236082],[45.611374,42.235621],[45.610837,42.234931],[45.60922,42.234344],[45.608785,42.233961],[45.608674,42.232822],[45.608254,42.23214],[45.60802,42.231211],[45.608175,42.230296],[45.608816,42.22934],[45.608398,42.22832],[45.607698,42.227605],[45.606724,42.226182],[45.606996,42.224467],[45.606953,42.223075],[45.606124,42.22117],[45.606205,42.219126],[45.606133,42.211746],[45.614685,42.20134],[45.634789,42.193726],[45.644802,42.186169],[45.65963,42.179653],[45.689785,42.169827],[45.711285,42.159691],[45.725094,42.149242],[45.734638,42.14418],[45.741322,42.140923],[45.741356,42.140336],[45.741028,42.139762],[45.740692,42.13827],[45.739403,42.136981],[45.73943,42.13642],[45.740081,42.134536],[45.740027,42.133105],[45.741386,42.133069],[45.738232,42.123077],[45.747776,42.11837],[45.761703,42.11935],[45.771706,42.112854],[45.777359,42.10424],[45.785461,42.099895],[45.800385,42.10408],[45.818111,42.10181],[45.831997,42.099926],[45.84837,42.10445],[45.85939,42.103298],[45.872318,42.101414],[45.892429,42.0984],[45.905334,42.095081],[45.910984,42.087536],[45.914696,42.07893],[45.915179,42.073969],[45.91418,42.073609],[45.913125,42.072942],[45.912351,42.072008],[45.91224,42.071411],[45.912639,42.06956],[45.913299,42.068511],[45.914058,42.067797],[45.913455,42.066421],[45.912812,42.065659],[45.912246,42.063994],[45.912197,42.063092],[45.912771,42.06239],[45.913646,42.061839],[45.915409,42.061814],[45.915398,42.061058],[45.920555,42.052799],[45.923851,42.048843],[45.924229,42.041695],[45.922634,42.030987],[45.926365,42.023811],[45.942604,42.020107],[45.962269,42.021374],[45.974365,42.029133],[45.984985,42.034042],[46.005089,42.03244],[46.022697,42.02478],[46.027866,42.018303],[46.035496,42.01609],[46.048,42.018833],[46.061066,42.026577],[46.077465,42.032852],[46.0812,42.027103],[46.083176,42.02051],[46.082014,42.019849],[46.082031,42.019342],[46.083209,42.01893],[46.083792,42.018456],[46.084636,42.01564],[46.08405,42.015349],[46.083741,42.014872],[46.084559,42.013503],[46.084647,42.012194],[46.083333,42.011281],[46.083628,42.009502],[46.084038,42.008654],[46.085056,42.007512],[46.0853,42.006253],[46.085681,42.005574],[46.086298,42.005292],[46.086967,41.999893],[46.091118,41.990562],[46.102936,41.981518],[46.111,41.977154],[46.113091,41.987137],[46.118496,41.994946],[46.136784,41.999767],[46.148258,41.998581],[46.1496,41.997108],[46.14982,41.995683],[46.149599,41.994786],[46.149702,41.994298],[46.151137,41.992719],[46.151609,41.992321],[46.152819,41.991663],[46.154369,41.991128],[46.155082,41.990663],[46.158024,41.982403],[46.168591,41.984085],[46.180218,41.991467],[46.191803,41.996349],[46.205315,42.001568],[46.221703,42.006756],[46.238422,42.004433],[46.250736,41.99715],[46.251342,41.99515],[46.249795,41.994374],[46.2493,41.992013],[46.248562,41.990555],[46.247345,41.98897],[46.24649,41.988208],[46.246191,41.987729],[46.246626,41.986784],[46.246214,41.985296],[46.246342,41.984321],[46.245603,41.983304],[46.244683,41.981111],[46.244396,41.979665],[46.245112,41.979316],[46.245684,41.979312],[46.246217,41.979642],[46.2478,41.980252],[46.248529,41.980689],[46.24953,41.980778],[46.250072,41.981022],[46.250802,41.981018],[46.251933,41.980626],[46.250824,41.977142],[46.256413,41.969219],[46.265858,41.962685],[46.270069,41.957638],[46.276505,41.944344],[46.28828,41.934925],[46.302948,41.926899],[46.312927,41.923569],[46.326824,41.92448],[46.334618,41.931179],[46.347557,41.932098],[46.367054,41.92651],[46.378513,41.925301],[46.386665,41.926273],[46.393921,41.92976],[46.400059,41.926109],[46.401314,41.917877],[46.404476,41.909264],[46.417164,41.899105],[46.425821,41.893254]]]],"type":"MultiPolygon"}
 }

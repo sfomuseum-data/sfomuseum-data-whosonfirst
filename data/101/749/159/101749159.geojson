@@ -2,862 +2,863 @@
   "id": 101749159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.049824,
-    "geom:area_square_m":347198677.394701,
-    "geom:bbox":"12.31565,55.58452,12.682822,55.85101",
-    "geom:latitude":55.697507,
-    "geom:longitude":12.490749,
-    "gn:population":1153615,
-    "iso:country":"DK",
-    "lbl:latitude":55.704438,
-    "lbl:longitude":12.502119,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":7.0,
-    "mps:latitude":55.704438,
-    "mps:longitude":12.502119,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":4.0,
-    "name:ace_x_preferred":[
-        "Kopenhagen"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.04982365416999975,
+    "geom:area_square_m": 347198677.394701,
+    "geom:bbox": "12.315650,55.584520,12.682822,55.851010",
+    "geom:latitude": 55.6975070231817,
+    "geom:longitude": 12.490748567944273,
+    "gn:population": 1153615,
+    "iso:country": "DK",
+    "lbl:latitude": 55.704438,
+    "lbl:longitude": 12.502119,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 7,
+    "mps:latitude": 55.704438,
+    "mps:longitude": 12.502119,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 4,
+    "name:ace_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:afr_x_preferred":[
-        "Kopenhagen"
+    "name:afr_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:amh_x_preferred":[
-        "\u12ae\u1355\u1295\u1200\u130d"
+    "name:amh_x_preferred": [
+      "ኮፕንሀግ"
     ],
-    "name:amh_x_variant":[
-        "\u12ae\u1350\u1295\u1200\u1308\u1295"
+    "name:amh_x_variant": [
+      "ኮፐንሀገን"
     ],
-    "name:ang_x_preferred":[
-        "C\u0113apmannh\u00e6fen"
+    "name:ang_x_preferred": [
+      "Cēapmannhæfen"
     ],
-    "name:ara_x_preferred":[
-        "\u0643\u0648\u0628\u0646\u0647\u0627\u063a\u0646"
+    "name:ara_x_preferred": [
+      "كوبنهاغن"
     ],
-    "name:arc_x_preferred":[
-        "\u071f\u0718\u0726\u0722\u0717\u0713\u0722"
+    "name:arc_x_preferred": [
+      "ܟܘܦܢܗܓܢ"
     ],
-    "name:arc_x_variant":[
-        "\u0729\u0718\u0726\u0722\u0717\u0710\u0713\u0722"
+    "name:arc_x_variant": [
+      "ܩܘܦܢܗܐܓܢ"
     ],
-    "name:arg_x_preferred":[
-        "Copenaguen"
+    "name:arg_x_preferred": [
+      "Copenaguen"
     ],
-    "name:arz_x_preferred":[
-        "\u0643\u0648\u0628\u064a\u0646\u0647\u0627\u062c\u064a\u0646"
+    "name:arz_x_preferred": [
+      "كوبينهاجين"
     ],
-    "name:ast_x_preferred":[
-        "Copenhague"
+    "name:ast_x_preferred": [
+      "Copenhague"
     ],
-    "name:ast_x_variant":[
-        "Copen\u1e25ague"
+    "name:ast_x_variant": [
+      "Copenḥague"
     ],
-    "name:ava_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:ava_x_preferred": [
+      "Копенгаген"
     ],
-    "name:aym_x_preferred":[
-        "Kobenhavn"
+    "name:aym_x_preferred": [
+      "Kobenhavn"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u067e\u06cc\u0646\u0647\u0627\u06af"
+    "name:azb_x_preferred": [
+      "کوپینهاگ"
     ],
-    "name:aze_x_preferred":[
-        "Kopenhagen"
+    "name:aze_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:bel_x_preferred":[
-        "\u041a\u0430\u043f\u044d\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:bel_x_preferred": [
+      "Капэнгаген"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:bel_x_variant": [
+      "Капенгаген"
     ],
-    "name:ben_x_preferred":[
-        "\u0995\u09cb\u09aa\u09c7\u09a8\u09b9\u09be\u0997\u09c7\u09a8"
+    "name:ben_x_preferred": [
+      "কোপেনহাগেন"
     ],
-    "name:ben_x_variant":[
-        "\u0995\u09cb\u09aa\u09c7\u09a8\u09b9\u09c7\u0997\u09c7\u09a8"
+    "name:ben_x_variant": [
+      "কোপেনহেগেন"
     ],
-    "name:bod_x_preferred":[
-        "\u0f40\u0f60\u0f7c\u0f0b\u0f54\u0f7a\u0f53\u0f0b\u0f67\u0f0b\u0f40\u0f7a\u0f53"
+    "name:bod_x_preferred": [
+      "ཀའོ་པེན་ཧ་ཀེན"
     ],
-    "name:bod_x_variant":[
-        "\u0f41\u0f7c\u0f0b\u0f55\u0f7a\u0f53\u0f0b\u0f67\u0f0b\u0f40\u0f7a\u0f53\u0f0d"
+    "name:bod_x_variant": [
+      "ཁོ་ཕེན་ཧ་ཀེན།"
     ],
-    "name:bos_x_preferred":[
-        "Kopenhagen"
+    "name:bos_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:bre_x_preferred":[
-        "Kopenhagen"
+    "name:bre_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:bul_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    "name:bul_x_preferred": [
+      "Копенхаген"
     ],
-    "name:bxr_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u04bb\u0430\u0433\u0435\u043d"
+    "name:bxr_x_preferred": [
+      "Копенһаген"
     ],
-    "name:cat_x_preferred":[
-        "Copenhaguen"
+    "name:cat_x_preferred": [
+      "Copenhaguen"
     ],
-    "name:cdo_x_preferred":[
-        "Copenhagen"
+    "name:cdo_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ceb_x_preferred":[
-        "Copenhagen"
+    "name:ceb_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ces_x_preferred":[
-        "Koda\u0148"
+    "name:ces_x_preferred": [
+      "Kodaň"
     ],
-    "name:che_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:che_x_preferred": [
+      "Копенгаген"
     ],
-    "name:chu_x_preferred":[
-        "\u041a\u043e\u0431\u0454\u043d\u0445\u0430\u0432\u043d\u044a"
+    "name:chu_x_preferred": [
+      "Кобєнхавнъ"
     ],
-    "name:chv_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:chv_x_preferred": [
+      "Копенгаген"
     ],
-    "name:ckb_x_preferred":[
-        "\u06a9\u06c6\u067e\u0646\u06be\u0627\u06af\u0646"
+    "name:ckb_x_preferred": [
+      "کۆپنھاگن"
     ],
-    "name:cor_x_preferred":[
-        "Kopenhavn"
+    "name:cor_x_preferred": [
+      "Kopenhavn"
     ],
-    "name:cos_x_preferred":[
-        "Copenaghen"
+    "name:cos_x_preferred": [
+      "Copenaghen"
     ],
-    "name:csb_x_preferred":[
-        "K\u00f2penhaga"
+    "name:csb_x_preferred": [
+      "Kòpenhaga"
     ],
-    "name:cym_x_preferred":[
-        "Copenhagen"
+    "name:cym_x_preferred": [
+      "Copenhagen"
     ],
-    "name:cze_x_colloquial":[
-        "Kodan"
+    "name:cze_x_colloquial": [
+      "Kodan"
     ],
-    "name:dan_x_colloquial":[
-        "Kobenhavn",
-        "Koebenhavn"
+    "name:dan_x_colloquial": [
+      "Kobenhavn",
+      "Koebenhavn"
     ],
-    "name:dan_x_preferred":[
-        "K\u00f8benhavn"
+    "name:dan_x_preferred": [
+      "København"
     ],
-    "name:deu_x_preferred":[
-        "Kopenhagen"
+    "name:deu_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:diq_x_preferred":[
-        "Kopenhag"
+    "name:diq_x_preferred": [
+      "Kopenhag"
     ],
-    "name:dsb_x_preferred":[
-        "Kopenhagen"
+    "name:dsb_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:dty_x_preferred":[
-        "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
+    "name:dty_x_preferred": [
+      "कोपनहेगन"
     ],
-    "name:ell_x_preferred":[
-        "\u039a\u03bf\u03c0\u03b5\u03b3\u03c7\u03ac\u03b3\u03b7"
+    "name:ell_x_preferred": [
+      "Κοπεγχάγη"
     ],
-    "name:eml_x_preferred":[
-        "Cupen\u00e0ghen"
+    "name:eml_x_preferred": [
+      "Cupenàghen"
     ],
-    "name:eng_ca_x_preferred":[
-        "Copenhagen"
+    "name:eng_ca_x_preferred": [
+      "Copenhagen"
     ],
-    "name:eng_gb_x_preferred":[
-        "Copenhagen"
+    "name:eng_gb_x_preferred": [
+      "Copenhagen"
     ],
-    "name:eng_x_colloquial":[
-        "Kj\u00f8ben",
-        "Copenhagen",
-        "Staden",
-        "CPH",
-        "KBH"
+    "name:eng_x_colloquial": [
+      "Kjøben",
+      "Copenhagen",
+      "Staden",
+      "CPH",
+      "KBH"
     ],
-    "name:eng_x_preferred":[
-        "Copenhagen"
+    "name:eng_x_preferred": [
+      "Copenhagen"
     ],
-    "name:epo_x_preferred":[
-        "Kopenhago"
+    "name:epo_x_preferred": [
+      "Kopenhago"
     ],
-    "name:est_x_preferred":[
-        "Kopenhaagen"
+    "name:est_x_preferred": [
+      "Kopenhaagen"
     ],
-    "name:eus_x_preferred":[
-        "Kopenage"
+    "name:eus_x_preferred": [
+      "Kopenage"
     ],
-    "name:eus_x_variant":[
-        "Kopenhage"
+    "name:eus_x_variant": [
+      "Kopenhage"
     ],
-    "name:ewe_x_preferred":[
-        "Copenhagen"
+    "name:ewe_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ext_x_preferred":[
-        "Copenagui"
+    "name:ext_x_preferred": [
+      "Copenagui"
     ],
-    "name:fao_x_preferred":[
-        "Keypmannahavn"
+    "name:fao_x_preferred": [
+      "Keypmannahavn"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u067e\u0646\u0647\u0627\u06af"
+    "name:fas_x_preferred": [
+      "کپنهاگ"
     ],
-    "name:fin_x_colloquial":[
-        "Koopenhaminan"
+    "name:fin_x_colloquial": [
+      "Koopenhaminan"
     ],
-    "name:fin_x_preferred":[
-        "K\u00f6\u00f6penhaminan"
+    "name:fin_x_preferred": [
+      "Kööpenhaminan"
     ],
-    "name:fin_x_variant":[
-        "Koopenhamina",
-        "K\u00f6\u00f6penhamina"
+    "name:fin_x_variant": [
+      "Koopenhamina",
+      "Kööpenhamina"
     ],
-    "name:fra_x_preferred":[
-        "Copenhague"
+    "name:fra_x_preferred": [
+      "Copenhague"
     ],
-    "name:frr_x_preferred":[
-        "Kopenhuuwen"
+    "name:frr_x_preferred": [
+      "Kopenhuuwen"
     ],
-    "name:fry_x_preferred":[
-        "Kopenhagen"
+    "name:fry_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:gag_x_preferred":[
-        "Kopenhagen"
+    "name:gag_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:gla_x_preferred":[
-        "Copenhagen"
+    "name:gla_x_preferred": [
+      "Copenhagen"
     ],
-    "name:gle_x_preferred":[
-        "C\u00f3banh\u00e1van"
+    "name:gle_x_preferred": [
+      "Cóbanhávan"
     ],
-    "name:glg_x_preferred":[
-        "Copenhaguen - K\u00f8benhavn"
+    "name:glg_x_preferred": [
+      "Copenhaguen - København"
     ],
-    "name:glg_x_variant":[
-        "Copenhague"
+    "name:glg_x_variant": [
+      "Copenhague"
     ],
-    "name:glv_x_preferred":[
-        "K\u00f8benhavn"
+    "name:glv_x_preferred": [
+      "København"
     ],
-    "name:grn_x_preferred":[
-        "Kopenihage"
+    "name:grn_x_preferred": [
+      "Kopenihage"
     ],
-    "name:gsw_x_preferred":[
-        "Kopenhagen"
+    "name:gsw_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:guj_x_preferred":[
-        "\u0a95\u0acb\u0aaa\u0aa8\u0ab9\u0ac7\u0a97\u0aa8"
+    "name:guj_x_preferred": [
+      "કોપનહેગન"
     ],
-    "name:hak_x_preferred":[
-        "Copenhagen"
+    "name:hak_x_preferred": [
+      "Copenhagen"
     ],
-    "name:hat_x_preferred":[
-        "Kop\u00e8nag"
+    "name:hat_x_preferred": [
+      "Kopènag"
     ],
-    "name:hau_x_preferred":[
-        "Kwapanhagan"
+    "name:hau_x_preferred": [
+      "Kwapanhagan"
     ],
-    "name:hbs_x_preferred":[
-        "Kopenhagen"
+    "name:hbs_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:heb_x_preferred":[
-        "\u05e7\u05d5\u05e4\u05e0\u05d4\u05d0\u05d2\u05df"
+    "name:heb_x_preferred": [
+      "קופנהאגן"
     ],
-    "name:heb_x_variant":[
-        "\u05e7\u05d5\u05e4\u05e0\u05d4\u05d2\u05df"
+    "name:heb_x_variant": [
+      "קופנהגן"
     ],
-    "name:hif_x_preferred":[
-        "Copenhagen"
+    "name:hif_x_preferred": [
+      "Copenhagen"
     ],
-    "name:hin_x_preferred":[
-        "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
+    "name:hin_x_preferred": [
+      "कोपनहेगन"
     ],
-    "name:hrv_x_preferred":[
-        "Kopenhagen"
+    "name:hrv_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:hsb_x_preferred":[
-        "Kopenhagen"
+    "name:hsb_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:hun_x_colloquial":[
-        "Koppenhaga"
+    "name:hun_x_colloquial": [
+      "Koppenhaga"
     ],
-    "name:hun_x_preferred":[
-        "Koppenh\u00e1ga"
+    "name:hun_x_preferred": [
+      "Koppenhága"
     ],
-    "name:hye_x_preferred":[
-        "\u053f\u0578\u057a\u0565\u0576\u0570\u0561\u0563\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Կոպենհագեն"
     ],
-    "name:hyw_x_preferred":[
-        "\u0554\u0578\u0583\u0568\u0576\u0570\u0561\u056f\u0568\u0576"
+    "name:hyw_x_preferred": [
+      "Քոփընհակըն"
     ],
-    "name:ido_x_preferred":[
-        "K\u00f8benhavn"
+    "name:ido_x_preferred": [
+      "København"
     ],
-    "name:ile_x_preferred":[
-        "K\u00f6benhavn"
+    "name:ile_x_preferred": [
+      "Köbenhavn"
     ],
-    "name:ilo_x_preferred":[
-        "Copenhagen"
+    "name:ilo_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ina_x_preferred":[
-        "Copenhagen"
+    "name:ina_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ind_x_preferred":[
-        "Kopenhagen"
+    "name:ind_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:isl_x_preferred":[
-        "Kaupmannah\u00f6fn"
+    "name:isl_x_preferred": [
+      "Kaupmannahöfn"
     ],
-    "name:ita_x_preferred":[
-        "Copenaghen"
+    "name:ita_x_preferred": [
+      "Copenaghen"
     ],
-    "name:jav_x_preferred":[
-        "Kopenhagen"
+    "name:jav_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b3\u30da\u30f3\u30cf\u30fc\u30b2\u30f3"
+    "name:jpn_x_preferred": [
+      "コペンハーゲン"
     ],
-    "name:kaa_x_preferred":[
-        "Kopengagen"
+    "name:kaa_x_preferred": [
+      "Kopengagen"
     ],
-    "name:kab_x_preferred":[
-        "Kopenhagen"
+    "name:kab_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:kal_x_preferred":[
-        "K\u00f8benhavn"
+    "name:kal_x_preferred": [
+      "København"
     ],
-    "name:kan_x_preferred":[
-        "\u0c95\u0ccb\u0caa\u0ca8\u0ccd \u0cb9\u0ccd\u0caf\u0cbe\u0c97\u0ca8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಕೋಪನ್ ಹ್ಯಾಗನ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d9\u10dd\u10de\u10d4\u10dc\u10f0\u10d0\u10d2\u10d4\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "კოპენჰაგენი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:kaz_x_preferred": [
+      "Копенгаген"
     ],
-    "name:kbp_x_preferred":[
-        "Kop\u025bnhaag\u0269"
+    "name:kbp_x_preferred": [
+      "Kopɛnhaagɩ"
     ],
-    "name:kir_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:kir_x_preferred": [
+      "Копенгаген"
     ],
-    "name:kom_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:kom_x_preferred": [
+      "Копенгаген"
     ],
-    "name:kor_x_preferred":[
-        "\ucf54\ud39c\ud558\uac90"
+    "name:kor_x_preferred": [
+      "코펜하겐"
     ],
-    "name:kur_x_preferred":[
-        "Kopenhag"
+    "name:kur_x_preferred": [
+      "Kopenhag"
     ],
-    "name:lat_x_preferred":[
-        "Hafnia"
+    "name:lat_x_preferred": [
+      "Hafnia"
     ],
-    "name:lav_x_preferred":[
-        "Kopenh\u0101gena"
+    "name:lav_x_preferred": [
+      "Kopenhāgena"
     ],
-    "name:lfn_x_preferred":[
-        "Kobenhavn"
+    "name:lfn_x_preferred": [
+      "Kobenhavn"
     ],
-    "name:lij_x_preferred":[
-        "Copenaghen"
+    "name:lij_x_preferred": [
+      "Copenaghen"
     ],
-    "name:lim_x_preferred":[
-        "Koupenhage"
+    "name:lim_x_preferred": [
+      "Koupenhage"
     ],
-    "name:lit_x_preferred":[
-        "Kopenhaga"
+    "name:lit_x_preferred": [
+      "Kopenhaga"
     ],
-    "name:lmo_x_preferred":[
-        "Cupenaghen"
+    "name:lmo_x_preferred": [
+      "Cupenaghen"
     ],
-    "name:lrc_x_preferred":[
-        "\u06a9\u0648\u067e\u0646\u0647\u0627\u06af"
+    "name:lrc_x_preferred": [
+      "کوپنهاگ"
     ],
-    "name:ltg_x_preferred":[
-        "Kopenhaga"
+    "name:ltg_x_preferred": [
+      "Kopenhaga"
     ],
-    "name:ltz_x_preferred":[
-        "Kopenhagen"
+    "name:ltz_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:mal_x_preferred":[
-        "\u0d15\u0d4b\u0d2a\u0d4d\u0d2a\u0d7b\u0d39\u0d47\u0d17\u0d7b"
+    "name:mal_x_preferred": [
+      "കോപ്പൻഹേഗൻ"
     ],
-    "name:mar_x_preferred":[
-        "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
+    "name:mar_x_preferred": [
+      "कोपनहेगन"
     ],
-    "name:mkd_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    "name:mkd_x_preferred": [
+      "Копенхаген"
     ],
-    "name:mlg_x_preferred":[
-        "Kaopenagy"
+    "name:mlg_x_preferred": [
+      "Kaopenagy"
     ],
-    "name:mlt_x_preferred":[
-        "Kopen\u0127agen"
+    "name:mlt_x_preferred": [
+      "Kopenħagen"
     ],
-    "name:mon_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    "name:mon_x_preferred": [
+      "Копенхаген"
     ],
-    "name:mri_x_preferred":[
-        "Copenhagen"
+    "name:mri_x_preferred": [
+      "Copenhagen"
     ],
-    "name:msa_x_preferred":[
-        "Kopenhagen"
+    "name:msa_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:mya_x_preferred":[
-        "\u1000\u102d\u102f\u1015\u1004\u103a\u101f\u1031\u1002\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ကိုပင်ဟေဂင်မြို့"
     ],
-    "name:myv_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d \u043e\u0448"
+    "name:myv_x_preferred": [
+      "Копенгаген ош"
     ],
-    "name:nah_x_preferred":[
-        "Copenague"
+    "name:nah_x_preferred": [
+      "Copenague"
     ],
-    "name:nan_x_preferred":[
-        "Copenhagen"
+    "name:nan_x_preferred": [
+      "Copenhagen"
     ],
-    "name:nap_x_preferred":[
-        "Copenaghen"
+    "name:nap_x_preferred": [
+      "Copenaghen"
     ],
-    "name:nau_x_preferred":[
-        "Copenhagen"
+    "name:nau_x_preferred": [
+      "Copenhagen"
     ],
-    "name:nds_x_preferred":[
-        "Kopenhagen"
+    "name:nds_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:nep_x_preferred":[
-        "\u0915\u094b\u092a\u0928\u0939\u0947\u0917\u0928"
+    "name:nep_x_preferred": [
+      "कोपनहेगन"
     ],
-    "name:new_x_preferred":[
-        "\u0915\u094b\u092a\u0947\u0928\u0939\u0947\u0917\u0928"
+    "name:new_x_preferred": [
+      "कोपेनहेगन"
     ],
-    "name:nld_x_preferred":[
-        "Kopenhagen"
+    "name:nld_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:nno_x_preferred":[
-        "K\u00f8benhavn"
+    "name:nno_x_preferred": [
+      "København"
     ],
-    "name:nno_x_variant":[
-        "Kj\u00f8penhamn"
+    "name:nno_x_variant": [
+      "Kjøpenhamn"
     ],
-    "name:nob_x_preferred":[
-        "K\u00f8benhavn"
+    "name:nob_x_preferred": [
+      "København"
     ],
-    "name:nor_x_preferred":[
-        "K\u00f8benhavn"
+    "name:nor_x_preferred": [
+      "København"
     ],
-    "name:nov_x_preferred":[
-        "K\u00f8benhavn"
+    "name:nov_x_preferred": [
+      "København"
     ],
-    "name:nrm_x_preferred":[
-        "Cop\u00e8ne\u0125ague"
+    "name:nrm_x_preferred": [
+      "Copèneĥague"
     ],
-    "name:oci_x_preferred":[
-        "Copenaga"
+    "name:oci_x_preferred": [
+      "Copenaga"
     ],
-    "name:oci_x_variant":[
-        "K\u00f8benhavn"
+    "name:oci_x_variant": [
+      "København"
     ],
-    "name:olo_x_preferred":[
-        "Kopengagen"
+    "name:olo_x_preferred": [
+      "Kopengagen"
     ],
-    "name:ori_x_preferred":[
-        "\u0b15\u0b4b\u0b2a\u0b47\u0b28\u0b39\u0b47\u0b17\u0b47\u0b28"
+    "name:ori_x_preferred": [
+      "କୋପେନହେଗେନ"
     ],
-    "name:oss_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:oss_x_preferred": [
+      "Копенгаген"
     ],
-    "name:pam_x_preferred":[
-        "Kopenhage"
+    "name:pam_x_preferred": [
+      "Kopenhage"
     ],
-    "name:pan_x_preferred":[
-        "\u0a15\u0a4b\u0a2a\u0a28\u0a39\u0a48\u0a17\u0a28"
+    "name:pan_x_preferred": [
+      "ਕੋਪਨਹੈਗਨ"
     ],
-    "name:pap_x_preferred":[
-        "Kopenhagen"
+    "name:pap_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:pih_x_preferred":[
-        "Copenhagen"
+    "name:pih_x_preferred": [
+      "Copenhagen"
     ],
-    "name:pms_x_preferred":[
-        "Copen\u00e0ghen"
+    "name:pms_x_preferred": [
+      "Copenàghen"
     ],
-    "name:pnb_x_preferred":[
-        "\u06a9\u0648\u067e\u0646 \u06c1\u06cc\u06af\u0646"
+    "name:pnb_x_preferred": [
+      "کوپن ہیگن"
     ],
-    "name:pol_x_preferred":[
-        "Kopenhaga"
+    "name:pol_x_preferred": [
+      "Kopenhaga"
     ],
-    "name:por_br_x_preferred":[
-        "Copenhague"
+    "name:por_br_x_preferred": [
+      "Copenhague"
     ],
-    "name:por_x_preferred":[
-        "Copenhaga"
+    "name:por_x_preferred": [
+      "Copenhaga"
     ],
-    "name:que_x_preferred":[
-        "K\u00f8benhavn"
+    "name:que_x_preferred": [
+      "København"
     ],
-    "name:roh_x_preferred":[
-        "Copenhagen"
+    "name:roh_x_preferred": [
+      "Copenhagen"
     ],
-    "name:ron_x_preferred":[
-        "Copenhaga"
+    "name:ron_x_preferred": [
+      "Copenhaga"
     ],
-    "name:rue_x_preferred":[
-        "\u041a\u043e\u0434\u0430\u043d\u044c"
+    "name:rue_x_preferred": [
+      "Кодань"
     ],
-    "name:rup_x_preferred":[
-        "Copenhagen"
+    "name:rup_x_preferred": [
+      "Copenhagen"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:rus_x_preferred": [
+      "Копенгаген"
     ],
-    "name:sah_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u04bb\u0430\u0433\u0435\u043d"
+    "name:sah_x_preferred": [
+      "Копенһаген"
     ],
-    "name:san_x_preferred":[
-        "\u0915\u094b\u092a\u0928\u0939\u093e\u0917\u0928"
+    "name:san_x_preferred": [
+      "कोपनहागन"
     ],
-    "name:scn_x_preferred":[
-        "Copenaghen"
+    "name:scn_x_preferred": [
+      "Copenaghen"
     ],
-    "name:sco_x_preferred":[
-        "Copenhagen"
+    "name:sco_x_preferred": [
+      "Copenhagen"
     ],
-    "name:sgs_x_preferred":[
-        "Kuopenhaga"
+    "name:sgs_x_preferred": [
+      "Kuopenhaga"
     ],
-    "name:sin_x_preferred":[
-        "\u0d9a\u0ddd\u0db4\u0db1\u0dca\u0dc4\u0dda\u0d9c\u0db1\u0dca"
+    "name:sin_x_preferred": [
+      "කෝපන්හේගන්"
     ],
-    "name:slk_x_preferred":[
-        "Koda\u0148"
+    "name:slk_x_preferred": [
+      "Kodaň"
     ],
-    "name:slv_x_preferred":[
-        "Kobenhaven"
+    "name:slv_x_preferred": [
+      "Kobenhaven"
     ],
-    "name:slv_x_variant":[
-        "K\u00f6benhavn",
-        "K\u00f8benhavn"
+    "name:slv_x_variant": [
+      "Köbenhavn",
+      "København"
     ],
-    "name:sme_x_preferred":[
-        "K\u00f8benh\u00e1mman"
+    "name:sme_x_preferred": [
+      "Københámman"
     ],
-    "name:sme_x_variant":[
-        "K\u00f8benh\u00e1pman"
+    "name:sme_x_variant": [
+      "Københápman"
     ],
-    "name:sna_x_preferred":[
-        "Copenhagen"
+    "name:sna_x_preferred": [
+      "Copenhagen"
     ],
-    "name:som_x_preferred":[
-        "Kobanhaygan"
+    "name:som_x_preferred": [
+      "Kobanhaygan"
     ],
-    "name:sot_x_preferred":[
-        "Copenhagen"
+    "name:sot_x_preferred": [
+      "Copenhagen"
     ],
-    "name:spa_x_preferred":[
-        "Copenhague"
+    "name:spa_x_preferred": [
+      "Copenhague"
     ],
-    "name:sqi_x_preferred":[
-        "Kopenhagen"
+    "name:sqi_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:srd_x_preferred":[
-        "Copenaghen"
+    "name:srd_x_preferred": [
+      "Copenaghen"
     ],
-    "name:srp_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    "name:srp_x_preferred": [
+      "Копенхаген"
     ],
-    "name:stq_x_preferred":[
-        "Kopenhagen"
+    "name:stq_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:swa_x_preferred":[
-        "Kopenhagen"
+    "name:swa_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:swe_x_colloquial":[
-        "Koepenhamn",
-        "Kopenhamn"
+    "name:swe_x_colloquial": [
+      "Koepenhamn",
+      "Kopenhamn"
     ],
-    "name:swe_x_preferred":[
-        "K\u00f6penhamn"
+    "name:swe_x_preferred": [
+      "Köpenhamn"
     ],
-    "name:szl_x_preferred":[
-        "Kopynhaga"
+    "name:szl_x_preferred": [
+      "Kopynhaga"
     ],
-    "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0baa\u0ba9\u0bbe\u0bb5\u0ba9\u0bcd"
+    "name:tam_x_preferred": [
+      "கோபனாவன்"
     ],
-    "name:tat_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u04bb\u0430\u0433\u0435\u043d"
+    "name:tat_x_preferred": [
+      "Копенһаген"
     ],
-    "name:tel_x_preferred":[
-        "\u0c15\u0c4b\u0c2a\u0c46\u0c28\u0c4d\u200c\u0c39\u0c3e\u0c17\u0c28\u0c4d"
+    "name:tel_x_preferred": [
+      "కోపెన్‌హాగన్"
     ],
-    "name:tgk_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u04b3\u0430\u0433\u0435\u043d"
+    "name:tgk_x_preferred": [
+      "Копенҳаген"
     ],
-    "name:tgl_x_preferred":[
-        "Copenhagen"
+    "name:tgl_x_preferred": [
+      "Copenhagen"
     ],
-    "name:tha_x_preferred":[
-        "\u0e42\u0e04\u0e40\u0e1b\u0e19\u0e40\u0e2e\u0e40\u0e01\u0e19"
+    "name:tha_x_preferred": [
+      "โคเปนเฮเกน"
     ],
-    "name:tuk_x_preferred":[
-        "Kopengagen"
+    "name:tuk_x_preferred": [
+      "Kopengagen"
     ],
-    "name:tur_x_preferred":[
-        "Kopenhag"
+    "name:tur_x_preferred": [
+      "Kopenhag"
     ],
-    "name:twi_x_preferred":[
-        "K\u00f8benhavn"
+    "name:twi_x_preferred": [
+      "København"
     ],
-    "name:udm_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:udm_x_preferred": [
+      "Копенгаген"
     ],
-    "name:uig_x_preferred":[
-        "\u0643\u0648\u067e\u06d0\u0646\u06be\u0627\u06af\u06d0\u0646"
+    "name:uig_x_preferred": [
+      "كوپېنھاگېن"
     ],
-    "name:uig_x_variant":[
-        "Kop\u00e9nhag\u00e9n"
+    "name:uig_x_variant": [
+      "Kopénhagén"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    "name:ukr_x_preferred": [
+      "Копенгаген"
     ],
-    "name:und_x_variant":[
-        "Kjobenhavn"
+    "name:und_x_variant": [
+      "Kjobenhavn"
     ],
-    "name:urd_x_preferred":[
-        "\u06a9\u0648\u067e\u0646 \u06c1\u06cc\u06af\u0646"
+    "name:urd_x_preferred": [
+      "کوپن ہیگن"
     ],
-    "name:uzb_x_preferred":[
-        "Kopengagen"
+    "name:uzb_x_preferred": [
+      "Kopengagen"
     ],
-    "name:vec_x_preferred":[
-        "Copenaghen"
+    "name:vec_x_preferred": [
+      "Copenaghen"
     ],
-    "name:vep_x_preferred":[
-        "Kopengagen"
+    "name:vep_x_preferred": [
+      "Kopengagen"
     ],
-    "name:vie_x_preferred":[
-        "Copenhagen"
+    "name:vie_x_preferred": [
+      "Copenhagen"
     ],
-    "name:vls_x_preferred":[
-        "Kopenhagen"
+    "name:vls_x_preferred": [
+      "Kopenhagen"
     ],
-    "name:vol_x_preferred":[
-        "K\u00f6benhavn"
+    "name:vol_x_preferred": [
+      "Köbenhavn"
     ],
-    "name:vol_x_variant":[
-        "K\u00f8benhavn"
+    "name:vol_x_variant": [
+      "København"
     ],
-    "name:vro_x_preferred":[
-        "Kop\u00f5nhaag\u00f5n"
+    "name:vro_x_preferred": [
+      "Kopõnhaagõn"
     ],
-    "name:war_x_preferred":[
-        "Copenhagen"
+    "name:war_x_preferred": [
+      "Copenhagen"
     ],
-    "name:wln_x_preferred":[
-        "Copenh\u00e5gue"
+    "name:wln_x_preferred": [
+      "Copenhågue"
     ],
-    "name:wol_x_preferred":[
-        "Kopenagen"
+    "name:wol_x_preferred": [
+      "Kopenagen"
     ],
-    "name:wuu_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
+    "name:wuu_x_preferred": [
+      "哥本哈根"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d9\u10dd\u10de\u10d4\u10dc\u10f0\u10d0\u10d2\u10d4\u10dc\u10d8"
+    "name:xmf_x_preferred": [
+      "კოპენჰაგენი"
     ],
-    "name:yid_x_preferred":[
-        "\u05e7\u05d0\u05e4\u05e0\u05d4\u05d0\u05d2\u05df"
+    "name:yid_x_preferred": [
+      "קאפנהאגן"
     ],
-    "name:yor_x_preferred":[
-        "Copenhagen"
+    "name:yor_x_preferred": [
+      "Copenhagen"
     ],
-    "name:yue_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
+    "name:yue_x_preferred": [
+      "哥本哈根"
     ],
-    "name:zea_x_preferred":[
-        "Kopenagen"
+    "name:zea_x_preferred": [
+      "Kopenagen"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
+    "name:zho_hk_x_preferred": [
+      "哥本哈根"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
+    "name:zho_tw_x_preferred": [
+      "哥本哈根"
     ],
-    "name:zho_x_preferred":[
-        "\u54e5\u672c\u54c8\u6839"
+    "name:zho_x_preferred": [
+      "哥本哈根"
     ],
-    "ne:ADM0CAP":1.0,
-    "ne:ADM0NAME":"Denmark",
-    "ne:ADM0_A3":"DNK",
-    "ne:ADM1NAME":"Hovedstaden",
-    "ne:ADMIN1_COD":17,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":"Copenhagen",
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":1,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-0 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPLC",
-    "ne:GEONAMEID":2618425,
-    "ne:GEONAMESNO":"GeoNames match general.",
-    "ne:GN_ASCII":"Copenhagen",
-    "ne:GN_POP":1153615,
-    "ne:GTOPO30":4.0,
-    "ne:ISO_A2":"DK",
-    "ne:LABELRANK":8,
-    "ne:LATITUDE":55.678564,
-    "ne:LONGITUDE":12.563486,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Copenhagen",
-    "ne:MAX_AREAKM":577.0,
-    "ne:MAX_AREAMI":223.0,
-    "ne:MAX_BBXMAX":12.658333,
-    "ne:MAX_BBXMIN":12.316667,
-    "ne:MAX_BBYMAX":56.008333,
-    "ne:MAX_BBYMIN":55.583333,
-    "ne:MAX_NATSCA":300.0,
-    "ne:MAX_PERKM":542.0,
-    "ne:MAX_PERMI":337.0,
-    "ne:MAX_POP10":1124323,
-    "ne:MAX_POP20":1230007,
-    "ne:MAX_POP300":1256924,
-    "ne:MAX_POP310":1256924,
-    "ne:MAX_POP50":1256924,
-    "ne:MEAN_BBXC":12.437175,
-    "ne:MEAN_BBYC":55.716213,
-    "ne:MEGACITY":1,
-    "ne:MEGANAME":"K",
-    "ne:MIN_AREAKM":438.0,
-    "ne:MIN_AREAMI":169.0,
-    "ne:MIN_BBXMAX":12.658333,
-    "ne:MIN_BBXMIN":12.116667,
-    "ne:MIN_BBYMAX":55.927962,
-    "ne:MIN_BBYMIN":55.4,
-    "ne:MIN_PERKM":348.0,
-    "ne:MIN_PERMI":216.0,
-    "ne:NAME":"K\u00f8benhavn",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Kobenhavn",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":"Copenhagen",
-    "ne:NATSCALE":200,
-    "ne:NOTE":null,
-    "ne:POP1950":1216,
-    "ne:POP1955":1227,
-    "ne:POP1960":1284,
-    "ne:POP1965":1373,
-    "ne:POP1970":1380,
-    "ne:POP1975":1172,
-    "ne:POP1980":1096,
-    "ne:POP1985":1056,
-    "ne:POP1990":1035,
-    "ne:POP1995":1048,
-    "ne:POP2000":1077,
-    "ne:POP2005":1085,
-    "ne:POP2010":1085,
-    "ne:POP2015":1087,
-    "ne:POP2020":1092,
-    "ne:POP2025":1095,
-    "ne:POP2050":1096,
-    "ne:POP_MAX":1085000,
-    "ne:POP_MIN":1085000,
-    "ne:POP_OTHER":1038288,
-    "ne:RANK_MAX":12,
-    "ne:RANK_MIN":12,
-    "ne:SCALERANK":2,
-    "ne:SOV0NAME":"Denmark",
-    "ne:SOV_A3":"DNK",
-    "ne:TIMEZONE":"Europe/Copenhagen",
-    "ne:UN_ADM0":"Denmark",
-    "ne:UN_FID":175,
-    "ne:UN_LAT":55.71,
-    "ne:UN_LONG":12.54,
-    "ne:WORLDCITY":1,
-    "qs:a0":"Danmark",
-    "qs:a1":"*Hovedstaden",
-    "qs:a1r":"0",
-    "qs:adm0":"Danmark",
-    "qs:la":"Fredensborg",
-    "qs:la_lc":"*DK1084210",
-    "qs:level":"locality",
-    "qs:loc":"K\u00f8benhavn",
-    "qs:loc_alt":"Kobenhavn",
-    "qs:pop":0,
-    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "ne:ADM0CAP": 1,
+    "ne:ADM0NAME": "Denmark",
+    "ne:ADM0_A3": "DNK",
+    "ne:ADM1NAME": "Hovedstaden",
+    "ne:ADMIN1_COD": 17,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": "Copenhagen",
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 1,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-0 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLC",
+    "ne:GEONAMEID": 2618425,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Copenhagen",
+    "ne:GN_POP": 1153615,
+    "ne:GTOPO30": 4,
+    "ne:ISO_A2": "DK",
+    "ne:LABELRANK": 8,
+    "ne:LATITUDE": 55.678564,
+    "ne:LONGITUDE": 12.563486,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Copenhagen",
+    "ne:MAX_AREAKM": 577,
+    "ne:MAX_AREAMI": 223,
+    "ne:MAX_BBXMAX": 12.658333,
+    "ne:MAX_BBXMIN": 12.316667,
+    "ne:MAX_BBYMAX": 56.008333,
+    "ne:MAX_BBYMIN": 55.583333,
+    "ne:MAX_NATSCA": 300,
+    "ne:MAX_PERKM": 542,
+    "ne:MAX_PERMI": 337,
+    "ne:MAX_POP10": 1124323,
+    "ne:MAX_POP20": 1230007,
+    "ne:MAX_POP300": 1256924,
+    "ne:MAX_POP310": 1256924,
+    "ne:MAX_POP50": 1256924,
+    "ne:MEAN_BBXC": 12.437175,
+    "ne:MEAN_BBYC": 55.716213,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "K",
+    "ne:MIN_AREAKM": 438,
+    "ne:MIN_AREAMI": 169,
+    "ne:MIN_BBXMAX": 12.658333,
+    "ne:MIN_BBXMIN": 12.116667,
+    "ne:MIN_BBYMAX": 55.927962,
+    "ne:MIN_BBYMIN": 55.4,
+    "ne:MIN_PERKM": 348,
+    "ne:MIN_PERMI": 216,
+    "ne:NAME": "København",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Kobenhavn",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": "Copenhagen",
+    "ne:NATSCALE": 200,
+    "ne:NOTE": null,
+    "ne:POP1950": 1216,
+    "ne:POP1955": 1227,
+    "ne:POP1960": 1284,
+    "ne:POP1965": 1373,
+    "ne:POP1970": 1380,
+    "ne:POP1975": 1172,
+    "ne:POP1980": 1096,
+    "ne:POP1985": 1056,
+    "ne:POP1990": 1035,
+    "ne:POP1995": 1048,
+    "ne:POP2000": 1077,
+    "ne:POP2005": 1085,
+    "ne:POP2010": 1085,
+    "ne:POP2015": 1087,
+    "ne:POP2020": 1092,
+    "ne:POP2025": 1095,
+    "ne:POP2050": 1096,
+    "ne:POP_MAX": 1085000,
+    "ne:POP_MIN": 1085000,
+    "ne:POP_OTHER": 1038288,
+    "ne:RANK_MAX": 12,
+    "ne:RANK_MIN": 12,
+    "ne:SCALERANK": 2,
+    "ne:SOV0NAME": "Denmark",
+    "ne:SOV_A3": "DNK",
+    "ne:TIMEZONE": "Europe/Copenhagen",
+    "ne:UN_ADM0": "Denmark",
+    "ne:UN_FID": 175,
+    "ne:UN_LAT": 55.71,
+    "ne:UN_LONG": 12.54,
+    "ne:WORLDCITY": 1,
+    "qs:a0": "Danmark",
+    "qs:a1": "*Hovedstaden",
+    "qs:a1r": "0",
+    "qs:adm0": "Danmark",
+    "qs:la": "Fredensborg",
+    "qs:la_lc": "*DK1084210",
+    "qs:level": "locality",
+    "qs:loc": "København",
+    "qs:loc_alt": "Kobenhavn",
+    "qs:pop": 0,
+    "qs:source": "KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "wd:latitude":55.676111,
-    "wd:longitude":12.568889,
-    "wd:population":569557,
-    "wd:wordcount":15928,
-    "wof:belongsto":[
-        102191581,
-        1159297727,
-        85633121,
-        85682581
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "wd:latitude": 55.676111,
+    "wd:longitude": 12.568889,
+    "wd:population": 569557,
+    "wd:wordcount": 15928,
+    "wof:belongsto": [
+      102191581,
+      1159297727,
+      85633121,
+      85682581
     ],
-    "wof:breaches":[],
-    "wof:capital_of":85633121,
-    "wof:concordances":{
-        "dbp:id":"Copenhagen",
-        "fb:id":"en.copenhagen",
-        "fct:id":"07c70278-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":2618425,
-        "gp:id":554890,
-        "nyt:id":"N76963119569157704581",
-        "qs_pg:id":779939,
-        "wd:id":"Q1748",
-        "wk:page":"Copenhagen"
+    "wof:breaches": [],
+    "wof:capital_of": 85633121,
+    "wof:concordances": {
+      "dbp:id": "Copenhagen",
+      "fb:id": "en.copenhagen",
+      "fct:id": "07c70278-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 2618425,
+      "gp:id": 554890,
+      "nyt:id": "N76963119569157704581",
+      "qs_pg:id": 779939,
+      "wd:id": "Q1748",
+      "wk:page": "Copenhagen"
     },
-    "wof:country":"DK",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "DK",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"b588ba44c8999dc480023aa2c06c7654",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633121,
-            "localadmin_id":1159297727,
-            "locality_id":101749159,
-            "region_id":85682581
-        }
+    "wof:geomhash": "b588ba44c8999dc480023aa2c06c7654",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633121,
+        "localadmin_id": 1159297727,
+        "locality_id": 101749159,
+        "region_id": 85682581
+      }
     ],
-    "wof:id":101749159,
-    "wof:lang":[
-        "dan"
+    "wof:id": 101749159,
+    "wof:lang": [
+      "dan"
     ],
-    "wof:lastmodified":1611601204,
-    "wof:megacity":1,
-    "wof:name":"Copenhagen",
-    "wof:parent_id":1159297727,
-    "wof:placetype":"locality",
-    "wof:population":569557,
-    "wof:population_rank":11,
-    "wof:repo":"whosonfirst-data-admin-dk",
-    "wof:scale":1,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906515,
+    "wof:megacity": 1,
+    "wof:name": "Copenhagen",
+    "wof:parent_id": 1159297727,
+    "wof:placetype": "locality",
+    "wof:population": 569557,
+    "wof:population_rank": 11,
+    "wof:repo": "whosonfirst-data-admin-dk",
+    "wof:scale": 1,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     12.31565,
     55.58452,
     12.682822,
     55.85101
-],
+  ],
   "geometry": {"coordinates":[[[12.547487,55.85101],[12.552306,55.843172],[12.553067,55.843157],[12.552996,55.84205],[12.553227,55.841675],[12.55293,55.841042],[12.550995,55.836904],[12.549225,55.833119],[12.547156,55.828694],[12.545353,55.820339],[12.54552,55.809137],[12.545573,55.805539],[12.545585,55.804757],[12.545996,55.777161],[12.533921,55.770523],[12.536056,55.768589],[12.556657,55.770855],[12.579641,55.772015],[12.580378,55.776192],[12.588073,55.777912],[12.591928,55.778775],[12.593236,55.774247],[12.593307,55.774003],[12.594812,55.773973],[12.594753,55.773075],[12.596344,55.773042],[12.596285,55.772144],[12.597877,55.772112],[12.597818,55.771214],[12.596226,55.771246],[12.59599,55.767654],[12.597582,55.767621],[12.597404,55.764927],[12.598996,55.764895],[12.598937,55.763997],[12.602119,55.763932],[12.602001,55.762136],[12.603592,55.762103],[12.603533,55.761205],[12.601942,55.761238],[12.601823,55.759442],[12.600232,55.759474],[12.600173,55.758576],[12.598582,55.758609],[12.598523,55.757711],[12.596932,55.757743],[12.596755,55.755049],[12.595165,55.755081],[12.595072,55.753671],[12.596913,55.753788],[12.589755,55.745452],[12.589745,55.7453],[12.589626,55.745302],[12.588031,55.743445],[12.587978,55.742638],[12.58735,55.742651],[12.586308,55.741437],[12.586271,55.740874],[12.586076,55.740878],[12.582423,55.729504],[12.582652,55.729258],[12.583918,55.729232],[12.583859,55.728334],[12.587039,55.72827],[12.58698,55.727372],[12.58857,55.727339],[12.588452,55.725543],[12.585273,55.725608],[12.585129,55.7234],[12.585133,55.721665],[12.588415,55.719981],[12.589561,55.718327],[12.591161,55.718294],[12.59122,55.719192],[12.599167,55.71903],[12.599226,55.719928],[12.600815,55.719896],[12.601051,55.723488],[12.607409,55.723358],[12.60735,55.72246],[12.610529,55.722395],[12.61047,55.721497],[12.612059,55.721464],[12.612,55.720566],[12.613589,55.720534],[12.61353,55.719635],[12.616709,55.71957],[12.616649,55.718672],[12.619828,55.718607],[12.619531,55.714117],[12.617942,55.714149],[12.617882,55.713251],[12.616293,55.713284],[12.616234,55.712386],[12.614645,55.712419],[12.614586,55.711521],[12.612997,55.711553],[12.612878,55.709757],[12.606522,55.709888],[12.606463,55.70899],[12.604874,55.709022],[12.604461,55.702736],[12.606049,55.702703],[12.605872,55.700009],[12.607461,55.699977],[12.607283,55.697283],[12.613637,55.697152],[12.613697,55.69805],[12.626404,55.697789],[12.626345,55.696891],[12.629522,55.696825],[12.629462,55.695927],[12.631051,55.695894],[12.630931,55.694098],[12.629343,55.694131],[12.629283,55.693233],[12.627695,55.693266],[12.627636,55.692368],[12.626047,55.692401],[12.625869,55.689707],[12.629045,55.689641],[12.628985,55.688743],[12.63375,55.688644],[12.63369,55.687746],[12.635278,55.687714],[12.635099,55.68502],[12.636687,55.684987],[12.636568,55.683191],[12.638155,55.683158],[12.638036,55.681362],[12.639624,55.681329],[12.639504,55.679533],[12.641092,55.6795],[12.640733,55.674112],[12.64232,55.674079],[12.642261,55.673181],[12.640673,55.673214],[12.640613,55.672316],[12.639026,55.672349],[12.638966,55.671451],[12.637379,55.671484],[12.637319,55.670586],[12.634144,55.670651],[12.634084,55.669753],[12.632809,55.66978],[12.63308,55.669377],[12.635262,55.666132],[12.635433,55.666128],[12.635418,55.665901],[12.646921,55.648804],[12.646992,55.648803],[12.646986,55.648708],[12.648148,55.64698],[12.648418,55.64658],[12.648431,55.64656],[12.648489,55.646477],[12.649991,55.644244],[12.650529,55.643444],[12.654279,55.641479],[12.65444,55.641394],[12.659635,55.638672],[12.659863,55.634146],[12.671409,55.633904],[12.671348,55.633006],[12.676106,55.632906],[12.676045,55.632008],[12.679217,55.631941],[12.679096,55.630145],[12.680681,55.630112],[12.680439,55.62652],[12.682025,55.626486],[12.681236,55.614813],[12.682822,55.614779],[12.6827,55.612983],[12.681115,55.613017],[12.680933,55.610323],[12.679349,55.610356],[12.679227,55.60856],[12.677643,55.608594],[12.677582,55.607696],[12.675997,55.607729],[12.675937,55.606831],[12.671182,55.606931],[12.670918,55.602993],[12.661495,55.604465],[12.661673,55.607131],[12.655334,55.607263],[12.655154,55.60457],[12.639306,55.6049],[12.63871,55.59592],[12.641879,55.595854],[12.641704,55.593222],[12.6417,55.59316],[12.641458,55.593165],[12.636947,55.593259],[12.6368,55.591046],[12.633483,55.588835],[12.631897,55.588867],[12.632254,55.594255],[12.629085,55.594321],[12.629323,55.597913],[12.630907,55.59788],[12.631085,55.600574],[12.623162,55.600738],[12.623044,55.598942],[12.621459,55.598975],[12.6214,55.598077],[12.619816,55.59811],[12.619756,55.597212],[12.616587,55.597277],[12.616528,55.596379],[12.614944,55.596412],[12.614826,55.594616],[12.613241,55.594648],[12.613182,55.59375],[12.611598,55.593783],[12.611539,55.592885],[12.609955,55.592917],[12.609778,55.590223],[12.608194,55.590256],[12.608017,55.587562],[12.606433,55.587594],[12.606374,55.586696],[12.601622,55.586794],[12.601681,55.587692],[12.598512,55.587757],[12.598747,55.591349],[12.597163,55.591381],[12.597339,55.594075],[12.598923,55.594043],[12.599041,55.595839],[12.60221,55.595774],[12.602268,55.596672],[12.603853,55.59664],[12.603912,55.597538],[12.605496,55.597505],[12.605673,55.600199],[12.610426,55.600101],[12.610544,55.601897],[12.612129,55.601865],[12.612188,55.602763],[12.615357,55.602698],[12.615417,55.603596],[12.617001,55.603563],[12.61712,55.605359],[12.618704,55.605326],[12.618764,55.606224],[12.620348,55.606192],[12.620408,55.60709],[12.621992,55.607057],[12.622052,55.607955],[12.623637,55.607922],[12.623874,55.611514],[12.625459,55.611482],[12.625637,55.614176],[12.62412,55.614207],[12.622854,55.613865],[12.614872,55.612821],[12.611231,55.612345],[12.611193,55.611776],[12.609608,55.611808],[12.609549,55.61091],[12.607964,55.610943],[12.608023,55.611841],[12.607459,55.611852],[12.603226,55.611299],[12.603209,55.61104],[12.601512,55.611075],[12.600024,55.610881],[12.59998,55.610207],[12.595563,55.610298],[12.595222,55.610253],[12.595167,55.609406],[12.593556,55.609439],[12.594673,55.604021],[12.594815,55.604018],[12.594781,55.603497],[12.595005,55.60241],[12.594705,55.602333],[12.594698,55.602222],[12.594301,55.60223],[12.591478,55.601512],[12.59147,55.601389],[12.591028,55.601398],[12.590101,55.601162],[12.593752,55.592922],[12.590893,55.592547],[12.590884,55.592409],[12.589983,55.592427],[12.589293,55.592337],[12.589242,55.591543],[12.584053,55.591649],[12.582893,55.591496],[12.582846,55.590774],[12.578123,55.59087],[12.578093,55.590866],[12.577861,55.587279],[12.582613,55.587182],[12.582496,55.585386],[12.580912,55.585418],[12.580854,55.58452],[12.576102,55.584617],[12.57616,55.585515],[12.571408,55.585611],[12.57135,55.584713],[12.569766,55.584745],[12.569998,55.588337],[12.571582,55.588305],[12.571815,55.591897],[12.573399,55.591865],[12.573457,55.592763],[12.573696,55.592758],[12.57623,55.602598],[12.575681,55.602609],[12.575739,55.603507],[12.57646,55.603493],[12.577617,55.607984],[12.577965,55.613354],[12.578994,55.613333],[12.579739,55.616225],[12.579783,55.616913],[12.575027,55.61701],[12.575086,55.617908],[12.5735,55.61794],[12.573675,55.620634],[12.570504,55.620698],[12.57062,55.622495],[12.572206,55.622462],[12.572293,55.623803],[12.570065,55.624995],[12.572849,55.632393],[12.57302,55.635035],[12.573837,55.635018],[12.574768,55.63749],[12.575014,55.641289],[12.565496,55.641481],[12.565438,55.640583],[12.563852,55.640615],[12.563794,55.639717],[12.562208,55.639749],[12.56215,55.638851],[12.558978,55.638915],[12.55892,55.638017],[12.555747,55.638081],[12.555805,55.638979],[12.54946,55.639107],[12.549403,55.638208],[12.547817,55.63824],[12.547759,55.637342],[12.546173,55.637374],[12.546115,55.636476],[12.544529,55.636508],[12.544472,55.63561],[12.542886,55.635641],[12.542828,55.634743],[12.541242,55.634775],[12.541185,55.633877],[12.539599,55.633909],[12.539541,55.633011],[12.537955,55.633042],[12.537898,55.632144],[12.536312,55.632176],[12.536254,55.631278],[12.534669,55.63131],[12.534611,55.630412],[12.533025,55.630443],[12.533083,55.631341],[12.531497,55.631373],[12.531783,55.635863],[12.528611,55.635926],[12.528668,55.636824],[12.517565,55.637045],[12.517508,55.636147],[12.514336,55.63621],[12.514279,55.635311],[12.511107,55.635374],[12.51105,55.634476],[12.506594,55.634564],[12.503786,55.626793],[12.502559,55.625736],[12.502554,55.625652],[12.502464,55.625654],[12.496774,55.620751],[12.500606,55.617646],[12.499939,55.614913],[12.503461,55.614844],[12.503178,55.610353],[12.498846,55.610439],[12.497368,55.604389],[12.494031,55.600735],[12.491471,55.600818],[12.491463,55.600693],[12.475616,55.601003],[12.475641,55.601415],[12.460525,55.602047],[12.453196,55.603208],[12.453348,55.604132],[12.448841,55.604219],[12.448896,55.605117],[12.447312,55.605148],[12.447422,55.606944],[12.445837,55.606975],[12.446114,55.611465],[12.444528,55.611496],[12.444584,55.612394],[12.442998,55.612424],[12.443054,55.613322],[12.431957,55.613535],[12.432012,55.614433],[12.403476,55.614977],[12.403422,55.614078],[12.401837,55.614108],[12.401511,55.60872],[12.399926,55.60875],[12.399872,55.607852],[12.393532,55.607971],[12.393478,55.607073],[12.385552,55.607222],[12.385391,55.604528],[12.383806,55.604558],[12.383752,55.603659],[12.380582,55.603719],[12.380528,55.602821],[12.377359,55.60288],[12.377305,55.601982],[12.374135,55.602041],[12.374082,55.601143],[12.372497,55.601173],[12.37239,55.599377],[12.370805,55.599406],[12.370751,55.598508],[12.369167,55.598538],[12.369113,55.597639],[12.367528,55.597669],[12.367475,55.596771],[12.364306,55.59683],[12.364252,55.595932],[12.359499,55.59602],[12.359445,55.595122],[12.357861,55.595152],[12.357754,55.593355],[12.35617,55.593385],[12.35601,55.59069],[12.357594,55.590661],[12.357541,55.589763],[12.355957,55.589792],[12.355904,55.588894],[12.354319,55.588923],[12.354372,55.589821],[12.352788,55.589851],[12.352841,55.590749],[12.351257,55.590778],[12.35131,55.591676],[12.349726,55.591706],[12.349779,55.592604],[12.34926,55.592614],[12.350181,55.594395],[12.351469,55.594371],[12.351629,55.597065],[12.351563,55.597067],[12.351865,55.59765],[12.349224,55.599673],[12.350789,55.600907],[12.345285,55.604426],[12.341935,55.606568],[12.332408,55.611855],[12.325798,55.613835],[12.316586,55.617836],[12.316956,55.618382],[12.318067,55.620018],[12.318765,55.621047],[12.319804,55.622576],[12.320574,55.623711],[12.321849,55.625589],[12.321851,55.625592],[12.32883,55.62365],[12.329385,55.623556],[12.329648,55.62804],[12.331234,55.628011],[12.33134,55.629808],[12.336098,55.62972],[12.335992,55.627924],[12.337578,55.627895],[12.337472,55.626099],[12.339058,55.626069],[12.338816,55.621967],[12.338883,55.621956],[12.340181,55.621553],[12.340379,55.621549],[12.340376,55.621493],[12.34326,55.620597],[12.346302,55.620541],[12.346676,55.620654],[12.346722,55.621432],[12.348307,55.621403],[12.34836,55.622301],[12.351532,55.622243],[12.351585,55.623141],[12.35317,55.623111],[12.353277,55.624908],[12.356448,55.624849],[12.356502,55.625747],[12.358087,55.625718],[12.358141,55.626616],[12.359727,55.626586],[12.35978,55.627484],[12.364537,55.627396],[12.364805,55.631887],[12.361633,55.631946],[12.361686,55.632844],[12.3601,55.632873],[12.360154,55.633771],[12.358567,55.633801],[12.358674,55.635597],[12.357088,55.635627],[12.357141,55.636525],[12.355555,55.636554],[12.355608,55.637452],[12.349645,55.637563],[12.344422,55.642511],[12.334449,55.650268],[12.317272,55.663566],[12.31565,55.668757],[12.316147,55.668748],[12.316409,55.673238],[12.317997,55.673209],[12.318102,55.675006],[12.31969,55.674977],[12.319742,55.675875],[12.32133,55.675846],[12.321435,55.677642],[12.323023,55.677613],[12.323128,55.67941],[12.32948,55.679294],[12.329533,55.680192],[12.331121,55.680163],[12.331174,55.681061],[12.332762,55.681032],[12.332814,55.68193],[12.334403,55.681901],[12.334455,55.682799],[12.336043,55.68277],[12.336149,55.684566],[12.337737,55.684537],[12.33779,55.685435],[12.339379,55.685406],[12.339432,55.686304],[12.34102,55.686275],[12.341073,55.687173],[12.342661,55.687144],[12.342714,55.688042],[12.344303,55.688013],[12.344356,55.688911],[12.345944,55.688882],[12.345997,55.68978],[12.349174,55.689721],[12.349227,55.690619],[12.350815,55.69059],[12.350869,55.691488],[12.352457,55.691459],[12.35251,55.692357],[12.354099,55.692327],[12.354152,55.693226],[12.357329,55.693167],[12.357383,55.694065],[12.358971,55.694035],[12.359025,55.694934],[12.360613,55.694904],[12.360667,55.695802],[12.362255,55.695773],[12.362362,55.697569],[12.363951,55.69754],[12.364273,55.702929],[12.365862,55.702899],[12.365915,55.703797],[12.367504,55.703768],[12.367987,55.711851],[12.353684,55.712116],[12.353738,55.713014],[12.352148,55.713044],[12.352196,55.713847],[12.351845,55.713948],[12.350612,55.713971],[12.350639,55.714414],[12.349688,55.715787],[12.34913,55.715797],[12.349173,55.71653],[12.348426,55.717608],[12.347647,55.717622],[12.347707,55.718646],[12.347165,55.71943],[12.346164,55.719448],[12.346242,55.720762],[12.345272,55.722162],[12.344734,55.722172],[12.344776,55.722878],[12.344641,55.723073],[12.336839,55.723216],[12.337051,55.726809],[12.335461,55.726838],[12.335567,55.728634],[12.332387,55.728693],[12.33244,55.729591],[12.330085,55.729634],[12.333103,55.734973],[12.340708,55.734834],[12.340709,55.734841],[12.339424,55.735325],[12.339847,55.737547],[12.339278,55.737558],[12.339384,55.739354],[12.340534,55.739333],[12.341015,55.740008],[12.341027,55.740223],[12.341166,55.74022],[12.342338,55.741868],[12.342845,55.74188],[12.358664,55.742289],[12.358682,55.742595],[12.361863,55.742536],[12.361853,55.742371],[12.367889,55.742527],[12.367892,55.742527],[12.369989,55.745981],[12.362077,55.746128],[12.362238,55.748823],[12.363829,55.748793],[12.363883,55.749691],[12.368655,55.749603],[12.368709,55.750501],[12.370299,55.750471],[12.370353,55.751369],[12.371944,55.75134],[12.371998,55.752238],[12.373569,55.752209],[12.372862,55.755329],[12.386479,55.754673],[12.386803,55.760054],[12.383621,55.760113],[12.383784,55.762808],[12.386966,55.762748],[12.38702,55.763646],[12.391794,55.763557],[12.391849,55.764455],[12.392472,55.764443],[12.392704,55.764855],[12.393489,55.76523],[12.393494,55.765323],[12.393675,55.76532],[12.395129,55.766017],[12.39514,55.766192],[12.395481,55.766185],[12.402067,55.769341],[12.417211,55.762913],[12.4301,55.76472],[12.430205,55.766427],[12.434712,55.766341],[12.434998,55.766645],[12.435035,55.767234],[12.435544,55.767224],[12.442312,55.774407],[12.45397,55.772266],[12.454466,55.772256],[12.454461,55.772176],[12.455672,55.771954],[12.458043,55.768986],[12.468598,55.768902],[12.468622,55.769285],[12.46703,55.769316],[12.467143,55.771112],[12.468734,55.771082],[12.468902,55.773776],[12.467311,55.773807],[12.467367,55.774705],[12.461,55.774828],[12.460944,55.77393],[12.456169,55.774022],[12.456225,55.77492],[12.454633,55.774951],[12.454689,55.775849],[12.462648,55.775695],[12.462704,55.776593],[12.464295,55.776563],[12.464239,55.775664],[12.470907,55.775535],[12.471976,55.776139],[12.47346,55.775486],[12.47379,55.775479],[12.473781,55.775345],[12.477227,55.773831],[12.487322,55.771935],[12.490175,55.772316],[12.491154,55.772854],[12.491412,55.776935],[12.48982,55.776966],[12.489877,55.777864],[12.488285,55.777895],[12.488341,55.778793],[12.466055,55.779226],[12.466111,55.780124],[12.462928,55.780186],[12.462984,55.781084],[12.458208,55.781176],[12.458307,55.782763],[12.454462,55.78376],[12.456289,55.788406],[12.452286,55.788484],[12.45223,55.787585],[12.445861,55.787708],[12.445806,55.78681],[12.444214,55.78684],[12.444342,55.78891],[12.440111,55.793213],[12.439826,55.793219],[12.439842,55.793487],[12.43921,55.794129],[12.438289,55.794147],[12.438342,55.795013],[12.438309,55.795046],[12.436751,55.795076],[12.436807,55.795974],[12.435214,55.796004],[12.435341,55.798065],[12.43374,55.799694],[12.447919,55.800583],[12.44626,55.804785],[12.443733,55.804833],[12.443955,55.808426],[12.446035,55.808386],[12.450419,55.809777],[12.450439,55.8101],[12.45138,55.810081],[12.458555,55.812358],[12.458684,55.814435],[12.457576,55.81683],[12.458926,55.818318],[12.458966,55.818951],[12.458679,55.820474],[12.458121,55.82344],[12.456057,55.823479],[12.456281,55.827072],[12.457441,55.82705],[12.457288,55.827858],[12.462226,55.829059],[12.462404,55.829102],[12.466265,55.826344],[12.466324,55.826301],[12.466787,55.82597],[12.468975,55.825928],[12.468884,55.824472],[12.473257,55.821349],[12.473475,55.821345],[12.473465,55.8212],[12.475632,55.819653],[12.475845,55.8195],[12.4776,55.819466],[12.477611,55.819756],[12.47784,55.825756],[12.476944,55.825773],[12.477226,55.830264],[12.478012,55.830249],[12.47802,55.830475],[12.489808,55.830807],[12.490012,55.830574],[12.490374,55.836302],[12.496751,55.836178],[12.496864,55.837974],[12.500053,55.837912],[12.500205,55.840306],[12.49861,55.841751],[12.506821,55.843939],[12.506829,55.844073],[12.50729,55.844064],[12.508445,55.844372],[12.508481,55.84494],[12.510075,55.844909],[12.510002,55.843749],[12.510849,55.843095],[12.511555,55.843081],[12.511523,55.842574],[12.512044,55.842172],[12.513093,55.842152],[12.513045,55.8414],[12.514434,55.840327],[12.514572,55.840324],[12.514566,55.840225],[12.51563,55.839404],[12.516109,55.839395],[12.516087,55.839051],[12.518355,55.8373],[12.522796,55.833867],[12.524843,55.833827],[12.525629,55.838484],[12.526308,55.849085],[12.527412,55.849063],[12.52747,55.849404],[12.537086,55.849922],[12.538092,55.848305],[12.547487,55.85101]],[[12.499654,55.831625],[12.49954,55.829829],[12.493165,55.829953],[12.492994,55.827259],[12.494588,55.827228],[12.494531,55.82633],[12.496125,55.826299],[12.495966,55.823778],[12.497729,55.821766],[12.50309,55.815647],[12.508358,55.817924],[12.508361,55.817966],[12.508451,55.817964],[12.509999,55.818633],[12.510011,55.818833],[12.510441,55.818824],[12.512781,55.819836],[12.513422,55.822283],[12.513427,55.822362],[12.513443,55.822362],[12.514849,55.82773],[12.510583,55.827814],[12.510526,55.826915],[12.508932,55.826947],[12.509161,55.830539],[12.505973,55.830602],[12.50603,55.8315],[12.499654,55.831625]],[[12.374856,55.74679],[12.374802,55.745892],[12.374571,55.745896],[12.376676,55.745518],[12.376575,55.742626],[12.381146,55.742176],[12.384129,55.742121],[12.384115,55.741884],[12.386463,55.741654],[12.389012,55.743882],[12.389172,55.746522],[12.374856,55.74679]],[[12.448881,55.65637],[12.448771,55.654574],[12.447184,55.654604],[12.447128,55.653706],[12.445541,55.653737],[12.445209,55.648348],[12.452485,55.648208],[12.453152,55.648344],[12.453198,55.649094],[12.456371,55.649032],[12.456594,55.652625],[12.455007,55.652655],[12.455229,55.656248],[12.448881,55.65637]],[[12.530793,55.645237],[12.530655,55.643079],[12.537,55.642953],[12.537197,55.646033],[12.537146,55.646547],[12.535418,55.646581],[12.530793,55.645237]],[[12.440229,55.644847],[12.433883,55.644969],[12.433828,55.644071],[12.430655,55.644132],[12.43027,55.637845],[12.431856,55.637815],[12.431746,55.636018],[12.433332,55.635988],[12.433167,55.633294],[12.434753,55.633263],[12.434658,55.631722],[12.441595,55.633132],[12.441097,55.633142],[12.441318,55.636734],[12.439732,55.636764],[12.439897,55.639459],[12.441484,55.639428],[12.44176,55.643919],[12.440173,55.643949],[12.440229,55.644847]],[[12.44803,55.64257],[12.447829,55.639306],[12.449415,55.639276],[12.449249,55.636581],[12.450835,55.636551],[12.450739,55.634991],[12.457309,55.636326],[12.457247,55.636427],[12.45718,55.636428],[12.457186,55.636528],[12.454471,55.640976],[12.454285,55.64098],[12.454302,55.641253],[12.453915,55.641886],[12.452754,55.641909],[12.45281,55.642807],[12.452134,55.64282],[12.44803,55.64257]],[[12.396579,55.632191],[12.396633,55.633089],[12.398219,55.633059],[12.398328,55.634855],[12.403086,55.634765],[12.403141,55.635663],[12.406313,55.635603],[12.406585,55.640094],[12.404999,55.640124],[12.405053,55.641022],[12.40188,55.641082],[12.401915,55.641657],[12.392397,55.64184],[12.392362,55.641262],[12.390776,55.641291],[12.390811,55.64187],[12.382879,55.642022],[12.382736,55.639644],[12.384322,55.639614],[12.384268,55.638716],[12.385855,55.638686],[12.385747,55.63689],[12.387333,55.63686],[12.387225,55.635064],[12.388811,55.635034],[12.388757,55.634136],[12.390343,55.634106],[12.390235,55.63231],[12.396579,55.632191]],[[12.374536,55.635302],[12.374804,55.639792],[12.38115,55.639674],[12.381292,55.642052],[12.371174,55.642246],[12.371382,55.643453],[12.357568,55.64371],[12.357301,55.639219],[12.358888,55.63919],[12.358834,55.638292],[12.366766,55.638144],[12.366712,55.637246],[12.368298,55.637216],[12.368084,55.633624],[12.36967,55.633594],[12.369617,55.632696],[12.375961,55.632578],[12.376122,55.635272],[12.374536,55.635302]],[[12.417689,55.639883],[12.417416,55.635393],[12.419002,55.635362],[12.418838,55.632668],[12.426768,55.632517],[12.426933,55.635211],[12.425346,55.635241],[12.425456,55.637038],[12.42387,55.637068],[12.42398,55.638864],[12.422393,55.638894],[12.422448,55.639793],[12.417689,55.639883]],[[12.385993,55.614563],[12.385876,55.612611],[12.390632,55.612522],[12.390686,55.61342],[12.393856,55.61336],[12.393986,55.615509],[12.385993,55.614563]],[[12.382759,55.613569],[12.376418,55.613687],[12.376257,55.610993],[12.374024,55.611035],[12.375346,55.608746],[12.37451,55.608328],[12.377681,55.608269],[12.377788,55.610065],[12.380959,55.610006],[12.381013,55.610904],[12.382598,55.610874],[12.382759,55.613569]],[[12.35366,55.597927],[12.35802,55.597846],[12.358158,55.600171],[12.35366,55.597927]]],"type":"Polygon"}
 }

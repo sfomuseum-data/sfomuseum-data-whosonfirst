@@ -2,1293 +2,1294 @@
   "id": 85632997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":3.897028,
-    "geom:area_square_m":30558537572.175911,
-    "geom:bbox":"2.546011,49.497238,6.406391,51.504844",
-    "geom:latitude":50.64099,
-    "geom:longitude":4.660919,
-    "gn:population":10403000,
-    "iso:country":"BE",
-    "itu:country_code":[
-        "32"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 3.897028128486011,
+    "geom:area_square_m": 30558537572.17591,
+    "geom:bbox": "2.546011,49.497238,6.406391,51.504844",
+    "geom:latitude": 50.64099036098274,
+    "geom:longitude": 4.660919423632908,
+    "gn:population": 10403000,
+    "iso:country": "BE",
+    "itu:country_code": [
+      "32"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "BE"
+    "label:eng_x_preferred_shortcode": [
+      "BE"
     ],
-    "lbl:latitude":50.780688,
-    "lbl:longitude":4.792712,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":50.780688,
-    "mps:longitude":4.792712,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":9.0,
-    "mz:min_zoom":4.0,
-    "name:abk_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u0430"
+    "lbl:latitude": 50.780688,
+    "lbl:longitude": 4.792712,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 50.780688,
+    "mps:longitude": 4.792712,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 9,
+    "mz:min_zoom": 4,
+    "name:abk_x_preferred": [
+      "Бельгиа"
     ],
-    "name:ace_x_preferred":[
-        "B\u00e8lgia"
+    "name:ace_x_preferred": [
+      "Bèlgia"
     ],
-    "name:ady_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u0435"
+    "name:ady_x_preferred": [
+      "Белгие"
     ],
-    "name:afr_x_preferred":[
-        "Belgi\u00eb"
+    "name:afr_x_preferred": [
+      "België"
     ],
-    "name:aka_x_preferred":[
-        "B\u025blgyium"
+    "name:aka_x_preferred": [
+      "Bɛlgyium"
     ],
-    "name:aka_x_variant":[
-        "Belgium"
+    "name:aka_x_variant": [
+      "Belgium"
     ],
-    "name:als_x_preferred":[
-        "Belgien"
+    "name:als_x_preferred": [
+      "Belgien"
     ],
-    "name:amh_x_preferred":[
-        "\u1264\u120d\u1305\u130d"
+    "name:amh_x_preferred": [
+      "ቤልጅግ"
     ],
-    "name:amh_x_variant":[
-        "\u1264\u120d\u1304\u121d"
+    "name:amh_x_variant": [
+      "ቤልጄም"
     ],
-    "name:ang_x_preferred":[
-        "Belgice"
+    "name:ang_x_preferred": [
+      "Belgice"
     ],
-    "name:ang_x_variant":[
-        "Belgium"
+    "name:ang_x_variant": [
+      "Belgium"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0644\u062c\u064a\u0643\u0627"
+    "name:ara_x_preferred": [
+      "بلجيكا"
     ],
-    "name:arc_x_preferred":[
-        "\u0712\u0720\u0713\u071d\u0729\u0710"
+    "name:arc_x_preferred": [
+      "ܒܠܓܝܩܐ"
     ],
-    "name:arc_x_variant":[
-        "\u0712\u0720\u0713\u071d\u071f\u0710"
+    "name:arc_x_variant": [
+      "ܒܠܓܝܟܐ"
     ],
-    "name:arg_x_preferred":[
-        "Belchica"
+    "name:arg_x_preferred": [
+      "Belchica"
     ],
-    "name:ary_x_preferred":[
-        "\u0628\u0644\u062c\u064a\u0643\u0627"
+    "name:ary_x_preferred": [
+      "بلجيكا"
     ],
-    "name:arz_x_preferred":[
-        "\u0628\u0644\u062c\u064a\u0643\u0627"
+    "name:arz_x_preferred": [
+      "بلجيكا"
     ],
-    "name:asm_x_preferred":[
-        "\u09ac\u09c7\u09b2\u099c\u09bf\u09af\u09bc\u09be\u09ae"
+    "name:asm_x_preferred": [
+      "বেলজিয়াম"
     ],
-    "name:ast_x_preferred":[
-        "B\u00e9lxica"
+    "name:ast_x_preferred": [
+      "Bélxica"
     ],
-    "name:ava_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:ava_x_preferred": [
+      "Бельгия"
     ],
-    "name:aym_x_preferred":[
-        "Bilkiya"
+    "name:aym_x_preferred": [
+      "Bilkiya"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u0644\u0698\u06cc\u06a9"
+    "name:azb_x_preferred": [
+      "بلژیک"
     ],
-    "name:aze_x_preferred":[
-        "Bel\u00e7ika"
+    "name:aze_x_preferred": [
+      "Belçika"
     ],
-    "name:bak_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:bak_x_preferred": [
+      "Бельгия"
     ],
-    "name:bam_x_preferred":[
-        "B\u025bliziki"
+    "name:bam_x_preferred": [
+      "Bɛliziki"
     ],
-    "name:ban_x_preferred":[
-        "Belgia"
+    "name:ban_x_preferred": [
+      "Belgia"
     ],
-    "name:bar_x_preferred":[
-        "Bejgien"
+    "name:bar_x_preferred": [
+      "Bejgien"
     ],
-    "name:bar_x_variant":[
-        "Belgien",
-        "B\u00e4igien"
+    "name:bar_x_variant": [
+      "Belgien",
+      "Bäigien"
     ],
-    "name:bcl_x_preferred":[
-        "Belhika"
+    "name:bcl_x_preferred": [
+      "Belhika"
     ],
-    "name:bel_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0456\u044f"
+    "name:bel_x_preferred": [
+      "Бельгія"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u044d\u043b\u044c\u0433\u0456\u044f"
+    "name:bel_x_variant": [
+      "Бэльгія"
     ],
-    "name:ben_x_preferred":[
-        "\u09ac\u09c7\u09b2\u099c\u09bf\u09af\u09bc\u09be\u09ae"
+    "name:ben_x_preferred": [
+      "বেলজিয়াম"
     ],
-    "name:ben_x_variant":[
-        "\u09ac\u09c7\u09b2\u09cd\u099c\u09bf\u09df\u09ae"
+    "name:ben_x_variant": [
+      "বেল্জিয়ম"
     ],
-    "name:bgn_x_preferred":[
-        "\u0628\u0644\u062c\u06cc\u0645"
+    "name:bgn_x_preferred": [
+      "بلجیم"
     ],
-    "name:bho_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:bho_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:bis_x_preferred":[
-        "Beljiom"
+    "name:bis_x_preferred": [
+      "Beljiom"
     ],
-    "name:bis_x_variant":[
-        "Belgium"
+    "name:bis_x_variant": [
+      "Belgium"
     ],
-    "name:bod_x_preferred":[
-        "\u0f54\u0f7a\u0f62\u0f0b\u0f45\u0f72\u0f53\u0f0d"
+    "name:bod_x_preferred": [
+      "པེར་ཅིན།"
     ],
-    "name:bod_x_variant":[
-        "\u0f54\u0f7a\u0f62\u0f0b\u0f45\u0f72\u0f53",
-        "\u0f56\u0f7a\u0f63\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f58\u0f0d"
+    "name:bod_x_variant": [
+      "པེར་ཅིན",
+      "བེལ་ཇི་ཡམ།"
     ],
-    "name:bos_x_preferred":[
-        "Belgija"
+    "name:bos_x_preferred": [
+      "Belgija"
     ],
-    "name:bpy_x_preferred":[
-        "\u09ac\u09c7\u09b2\u099c\u09bf\u09af\u09bc\u09be\u09ae"
+    "name:bpy_x_preferred": [
+      "বেলজিয়াম"
     ],
-    "name:bre_x_preferred":[
-        "Belgia"
+    "name:bre_x_preferred": [
+      "Belgia"
     ],
-    "name:bug_x_preferred":[
-        "Belgia"
+    "name:bug_x_preferred": [
+      "Belgia"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u044f"
+    "name:bul_x_preferred": [
+      "Белгия"
     ],
-    "name:bxr_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:bxr_x_preferred": [
+      "Бельги"
     ],
-    "name:cat_x_preferred":[
-        "B\u00e8lgica"
+    "name:cat_x_preferred": [
+      "Bèlgica"
     ],
-    "name:cbk_zam_x_preferred":[
-        "B\u00e9lgica"
+    "name:cbk_zam_x_preferred": [
+      "Bélgica"
     ],
-    "name:cdo_x_preferred":[
-        "B\u012b-l\u00e9-s\u00ec"
+    "name:cdo_x_preferred": [
+      "Bī-lé-sì"
     ],
-    "name:ceb_x_preferred":[
-        "Belhika"
+    "name:ceb_x_preferred": [
+      "Belhika"
     ],
-    "name:ces_x_preferred":[
-        "Belgie"
+    "name:ces_x_preferred": [
+      "Belgie"
     ],
-    "name:cha_x_preferred":[
-        "Belgika"
+    "name:cha_x_preferred": [
+      "Belgika"
     ],
-    "name:che_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:che_x_preferred": [
+      "Бельги"
     ],
-    "name:chr_x_preferred":[
-        "\u13c7\u13b5\u13e5\u13a5\u13bb"
+    "name:chr_x_preferred": [
+      "ᏇᎵᏥᎥᎻ"
     ],
-    "name:chu_x_preferred":[
-        "\u0411\u0454\u043b\u0433\u0457\u0465"
+    "name:chu_x_preferred": [
+      "Бєлгїѥ"
     ],
-    "name:chv_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:chv_x_preferred": [
+      "Бельги"
     ],
-    "name:ckb_x_preferred":[
-        "\u0628\u06d5\u0644\u062c\u06cc\u06a9\u0627"
+    "name:ckb_x_preferred": [
+      "بەلجیکا"
     ],
-    "name:cor_x_preferred":[
-        "Pow Belg"
+    "name:cor_x_preferred": [
+      "Pow Belg"
     ],
-    "name:cos_x_preferred":[
-        "Belgica"
+    "name:cos_x_preferred": [
+      "Belgica"
     ],
-    "name:crh_x_preferred":[
-        "Bel\u00e7ika"
+    "name:crh_x_preferred": [
+      "Belçika"
     ],
-    "name:csb_x_preferred":[
-        "Belgijsk\u00f4"
+    "name:csb_x_preferred": [
+      "Belgijskô"
     ],
-    "name:cym_x_preferred":[
-        "Gwlad Belg"
+    "name:cym_x_preferred": [
+      "Gwlad Belg"
     ],
-    "name:dan_x_preferred":[
-        "Belgien"
+    "name:dan_x_preferred": [
+      "Belgien"
     ],
-    "name:deu_at_x_preferred":[
-        "Belgien"
+    "name:deu_at_x_preferred": [
+      "Belgien"
     ],
-    "name:deu_ch_x_preferred":[
-        "Belgien"
+    "name:deu_ch_x_preferred": [
+      "Belgien"
     ],
-    "name:deu_x_colloquial":[
-        "Koenigreich Belgien",
-        "Konigreich Belgien"
+    "name:deu_x_colloquial": [
+      "Koenigreich Belgien",
+      "Konigreich Belgien"
     ],
-    "name:deu_x_preferred":[
-        "Belgien"
+    "name:deu_x_preferred": [
+      "Belgien"
     ],
-    "name:deu_x_variant":[
-        "K\u00f6nigreich Belgien"
+    "name:deu_x_variant": [
+      "Königreich Belgien"
     ],
-    "name:diq_x_preferred":[
-        "Bel\u00e7\u0131ka"
+    "name:diq_x_preferred": [
+      "Belçıka"
     ],
-    "name:div_x_preferred":[
-        "\u0784\u07ac\u078d\u07b0\u0796\u07a8\u0787\u07a6\u0789\u07b0"
+    "name:div_x_preferred": [
+      "ބެލްޖިއަމް"
     ],
-    "name:dsb_x_preferred":[
-        "Belgiska"
+    "name:dsb_x_preferred": [
+      "Belgiska"
     ],
-    "name:dty_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:dty_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f56\u0f7a\u0f63\u0f0b\u0f47\u0f72\u0f61\u0f58"
+    "name:dzo_x_preferred": [
+      "བེལ་ཇིཡམ"
     ],
-    "name:ell_x_preferred":[
-        "\u0392\u03ad\u03bb\u03b3\u03b9\u03bf"
+    "name:ell_x_preferred": [
+      "Βέλγιο"
     ],
-    "name:eml_x_preferred":[
-        "B\u00e9lgi"
+    "name:eml_x_preferred": [
+      "Bélgi"
     ],
-    "name:eng_ca_x_preferred":[
-        "Belgium"
+    "name:eng_ca_x_preferred": [
+      "Belgium"
     ],
-    "name:eng_gb_x_preferred":[
-        "Belgium"
+    "name:eng_gb_x_preferred": [
+      "Belgium"
     ],
-    "name:eng_x_preferred":[
-        "Belgium"
+    "name:eng_x_preferred": [
+      "Belgium"
     ],
-    "name:eng_x_unknown":[
-        "BE",
-        "BEL"
+    "name:eng_x_unknown": [
+      "BE",
+      "BEL"
     ],
-    "name:eng_x_variant":[
-        "Belgian",
-        "Berugi",
-        "Kingdom of Belgium"
+    "name:eng_x_variant": [
+      "Belgian",
+      "Berugi",
+      "Kingdom of Belgium"
     ],
-    "name:epo_x_preferred":[
-        "Belgio"
+    "name:epo_x_preferred": [
+      "Belgio"
     ],
-    "name:epo_x_variant":[
-        "Belgujo"
+    "name:epo_x_variant": [
+      "Belgujo"
     ],
-    "name:est_x_preferred":[
-        "Belgia"
+    "name:est_x_preferred": [
+      "Belgia"
     ],
-    "name:eus_x_preferred":[
-        "Belgika"
+    "name:eus_x_preferred": [
+      "Belgika"
     ],
-    "name:ewe_x_preferred":[
-        "Belgium"
+    "name:ewe_x_preferred": [
+      "Belgium"
     ],
-    "name:ewe_x_variant":[
-        "Belgium nutome"
+    "name:ewe_x_variant": [
+      "Belgium nutome"
     ],
-    "name:ext_x_preferred":[
-        "B\u00e9lgica"
+    "name:ext_x_preferred": [
+      "Bélgica"
     ],
-    "name:fao_x_preferred":[
-        "Belgia"
+    "name:fao_x_preferred": [
+      "Belgia"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0644\u0698\u06cc\u06a9"
+    "name:fas_x_preferred": [
+      "بلژیک"
     ],
-    "name:fin_x_preferred":[
-        "Belgia"
+    "name:fin_x_preferred": [
+      "Belgia"
     ],
-    "name:fin_x_variant":[
-        "Belgiaan",
-        "Belgian",
-        "Belgiassa",
-        "Belgiasta"
+    "name:fin_x_variant": [
+      "Belgiaan",
+      "Belgian",
+      "Belgiassa",
+      "Belgiasta"
     ],
-    "name:fra_x_preferred":[
-        "Belgique"
+    "name:fra_x_preferred": [
+      "Belgique"
     ],
-    "name:fra_x_variant":[
-        "Royaume de Belgique"
+    "name:fra_x_variant": [
+      "Royaume de Belgique"
     ],
-    "name:frp_x_preferred":[
-        "B\u00e8lg\u00b7ique"
+    "name:frp_x_preferred": [
+      "Bèlg·ique"
     ],
-    "name:frr_x_preferred":[
-        "Belgien"
+    "name:frr_x_preferred": [
+      "Belgien"
     ],
-    "name:fry_x_preferred":[
-        "Belgje"
+    "name:fry_x_preferred": [
+      "Belgje"
     ],
-    "name:ful_x_preferred":[
-        "Beljik"
+    "name:ful_x_preferred": [
+      "Beljik"
     ],
-    "name:fur_x_preferred":[
-        "Belgjo"
+    "name:fur_x_preferred": [
+      "Belgjo"
     ],
-    "name:gag_x_preferred":[
-        "Belgiya"
+    "name:gag_x_preferred": [
+      "Belgiya"
     ],
-    "name:gcr_x_preferred":[
-        "B\u00e8ljik"
+    "name:gcr_x_preferred": [
+      "Bèljik"
     ],
-    "name:gla_x_preferred":[
-        "A' Bheilg"
+    "name:gla_x_preferred": [
+      "A' Bheilg"
     ],
-    "name:gla_x_variant":[
-        "A'Bheilg"
+    "name:gla_x_variant": [
+      "A'Bheilg"
     ],
-    "name:gle_x_preferred":[
-        "An Bheilg"
+    "name:gle_x_preferred": [
+      "An Bheilg"
     ],
-    "name:glg_x_preferred":[
-        "B\u00e9lxica"
+    "name:glg_x_preferred": [
+      "Bélxica"
     ],
-    "name:glg_x_variant":[
-        "B\u00e9lxica - Belgi\u00eb"
+    "name:glg_x_variant": [
+      "Bélxica - België"
     ],
-    "name:glv_x_preferred":[
-        "Yn Velg"
+    "name:glv_x_preferred": [
+      "Yn Velg"
     ],
-    "name:gom_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:gom_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf31\ud800\udf30\ud800\udf39\ud800\udf3b\ud800\udf32\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    "name:got_x_preferred": [
+      "𐌱𐌰𐌹𐌻𐌲𐌰𐌻𐌰𐌽𐌳"
     ],
-    "name:grn_x_preferred":[
-        "V\u00e9yhika"
+    "name:grn_x_preferred": [
+      "Véyhika"
     ],
-    "name:gsw_x_preferred":[
-        "Belgie"
+    "name:gsw_x_preferred": [
+      "Belgie"
     ],
-    "name:guj_x_preferred":[
-        "\u0aac\u0ac7\u0ab2\u0acd\u0a9c\u0abf\u0aaf\u0aae"
+    "name:guj_x_preferred": [
+      "બેલ્જિયમ"
     ],
-    "name:guj_x_variant":[
-        "\u0aac\u0ac7\u0ab2\u0acd\u0a9c\u0ac0\u0aaf\u0aae"
+    "name:guj_x_variant": [
+      "બેલ્જીયમ"
     ],
-    "name:hak_x_preferred":[
-        "P\u00ed-li-s\u1e73\u0300"
+    "name:hak_x_preferred": [
+      "Pí-li-sṳ̀"
     ],
-    "name:hat_x_preferred":[
-        "B\u00e8ljik"
+    "name:hat_x_preferred": [
+      "Bèljik"
     ],
-    "name:hau_x_preferred":[
-        "Beljik"
+    "name:hau_x_preferred": [
+      "Beljik"
     ],
-    "name:hau_x_variant":[
-        "Belgiyom"
+    "name:hau_x_variant": [
+      "Belgiyom"
     ],
-    "name:haw_x_preferred":[
-        "Pelekiuma"
+    "name:haw_x_preferred": [
+      "Pelekiuma"
     ],
-    "name:hbs_x_preferred":[
-        "Belgija"
+    "name:hbs_x_preferred": [
+      "Belgija"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05dc\u05d2\u05d9\u05d4"
+    "name:heb_x_preferred": [
+      "בלגיה"
     ],
-    "name:hif_x_preferred":[
-        "Belgium"
+    "name:hif_x_preferred": [
+      "Belgium"
     ],
-    "name:hin_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:hin_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:hrv_x_preferred":[
-        "Belgija"
+    "name:hrv_x_preferred": [
+      "Belgija"
     ],
-    "name:hsb_x_preferred":[
-        "Belgiska"
+    "name:hsb_x_preferred": [
+      "Belgiska"
     ],
-    "name:hun_x_preferred":[
-        "Belgium"
+    "name:hun_x_preferred": [
+      "Belgium"
     ],
-    "name:hye_x_preferred":[
-        "\u0532\u0565\u056c\u0563\u056b\u0561"
+    "name:hye_x_preferred": [
+      "Բելգիա"
     ],
-    "name:hyw_x_preferred":[
-        "\u054a\u0565\u056c\u0573\u056b\u0584\u0561"
+    "name:hyw_x_preferred": [
+      "Պելճիքա"
     ],
-    "name:ibo_x_preferred":[
-        "Belgium"
+    "name:ibo_x_preferred": [
+      "Belgium"
     ],
-    "name:ido_x_preferred":[
-        "Belgia"
+    "name:ido_x_preferred": [
+      "Belgia"
     ],
-    "name:ile_x_preferred":[
-        "Belgia"
+    "name:ile_x_preferred": [
+      "Belgia"
     ],
-    "name:ilo_x_preferred":[
-        "Belhika"
+    "name:ilo_x_preferred": [
+      "Belhika"
     ],
-    "name:ilo_x_variant":[
-        "Belgium"
+    "name:ilo_x_variant": [
+      "Belgium"
     ],
-    "name:ina_x_preferred":[
-        "Belgica"
+    "name:ina_x_preferred": [
+      "Belgica"
     ],
-    "name:ind_x_preferred":[
-        "Belgia"
+    "name:ind_x_preferred": [
+      "Belgia"
     ],
-    "name:inh_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:inh_x_preferred": [
+      "Бельги"
     ],
-    "name:isl_x_preferred":[
-        "Belg\u00eda"
+    "name:isl_x_preferred": [
+      "Belgía"
     ],
-    "name:ita_x_preferred":[
-        "Belgio"
+    "name:ita_x_preferred": [
+      "Belgio"
     ],
-    "name:jam_x_preferred":[
-        "Beljiom"
+    "name:jam_x_preferred": [
+      "Beljiom"
     ],
-    "name:jav_x_preferred":[
-        "B\u00e8lgia"
+    "name:jav_x_preferred": [
+      "Bèlgia"
     ],
-    "name:jav_x_variant":[
-        "Belgia",
-        "B\u00e9lgi\u00e9"
+    "name:jav_x_variant": [
+      "Belgia",
+      "Bélgié"
     ],
-    "name:jbo_x_preferred":[
-        "beldjym"
+    "name:jbo_x_preferred": [
+      "beldjym"
     ],
-    "name:jbo_x_variant":[
-        "gugdrbelgi"
+    "name:jbo_x_variant": [
+      "gugdrbelgi"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d9\u30eb\u30ae\u30fc"
+    "name:jpn_x_preferred": [
+      "ベルギー"
     ],
-    "name:jpn_x_variant":[
-        "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
+    "name:jpn_x_variant": [
+      "ベルギー王国"
     ],
-    "name:kaa_x_preferred":[
-        "Belgiya"
+    "name:kaa_x_preferred": [
+      "Belgiya"
     ],
-    "name:kab_x_preferred":[
-        "Biljik"
+    "name:kab_x_preferred": [
+      "Biljik"
     ],
-    "name:kal_x_preferred":[
-        "Belgia"
+    "name:kal_x_preferred": [
+      "Belgia"
     ],
-    "name:kan_x_preferred":[
-        "\u0cac\u0cc6\u0cb2\u0ccd\u0c9c\u0cbf\u0caf\u0cae\u0ccd"
+    "name:kan_x_preferred": [
+      "ಬೆಲ್ಜಿಯಮ್"
     ],
-    "name:kan_x_variant":[
-        "\u0cac\u0cc6\u0cb2\u0ccd\u0c9c\u0cbf\u0caf\u0c82"
+    "name:kan_x_variant": [
+      "ಬೆಲ್ಜಿಯಂ"
     ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10d4\u10da\u10d2\u10d8\u10d0"
+    "name:kat_x_preferred": [
+      "ბელგია"
     ],
-    "name:kaz_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:kaz_x_preferred": [
+      "Бельгия"
     ],
-    "name:kbd_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u044d"
+    "name:kbd_x_preferred": [
+      "Белгиэ"
     ],
-    "name:kbd_x_variant":[
-        "\u0411\u0435\u043b\u0433\u044d"
+    "name:kbd_x_variant": [
+      "Белгэ"
     ],
-    "name:kbp_x_preferred":[
-        "P\u025bliziki"
+    "name:kbp_x_preferred": [
+      "Pɛliziki"
     ],
-    "name:kea_x_preferred":[
-        "B\u00e9ljika"
+    "name:kea_x_preferred": [
+      "Béljika"
     ],
-    "name:khm_x_preferred":[
-        "\u1794\u17c2\u179b\u17a0\u17d2\u179f\u17c9\u17b7\u1780"
+    "name:khm_x_preferred": [
+      "បែលហ្ស៉ិក"
     ],
-    "name:khm_x_variant":[
-        "\u1794\u17c2\u179b\u179f\u17ca\u17b7\u1780"
+    "name:khm_x_variant": [
+      "បែលស៊ិក"
     ],
-    "name:kik_x_preferred":[
-        "Ubelgiji"
+    "name:kik_x_preferred": [
+      "Ubelgiji"
     ],
-    "name:kin_x_preferred":[
-        "Ububiligi"
+    "name:kin_x_preferred": [
+      "Ububiligi"
     ],
-    "name:kir_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:kir_x_preferred": [
+      "Бельгия"
     ],
-    "name:koi_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u044f"
+    "name:koi_x_preferred": [
+      "Белгия"
     ],
-    "name:kom_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:kom_x_preferred": [
+      "Бельгия"
     ],
-    "name:kon_x_preferred":[
-        "Belezi"
+    "name:kon_x_preferred": [
+      "Belezi"
     ],
-    "name:kor_x_preferred":[
-        "\ubca8\uae30\uc5d0"
+    "name:kor_x_preferred": [
+      "벨기에"
     ],
-    "name:krc_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:krc_x_preferred": [
+      "Бельгия"
     ],
-    "name:ksh_x_preferred":[
-        "Belgien"
+    "name:ksh_x_preferred": [
+      "Belgien"
     ],
-    "name:kur_x_preferred":[
-        "Bel\u00e7\u00eeka"
+    "name:kur_x_preferred": [
+      "Belçîka"
     ],
-    "name:kur_x_variant":[
-        "\u0628\u06d5\u0644\u0698\u06cc\u06a9",
-        "Belgiya"
+    "name:kur_x_variant": [
+      "بەلژیک",
+      "Belgiya"
     ],
-    "name:lad_x_preferred":[
-        "Beljika"
+    "name:lad_x_preferred": [
+      "Beljika"
     ],
-    "name:lao_x_preferred":[
-        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec1\u0e9a\u0e99\u0e8a\u0eb4\u0e81"
+    "name:lao_x_preferred": [
+      "ປະເທດແບນຊິກ"
     ],
-    "name:lao_x_variant":[
-        "\u0ec0\u0e9a\u0ea7\u0ea2\u0ebd\u0ea1"
+    "name:lao_x_variant": [
+      "ເບວຢຽມ"
     ],
-    "name:lat_x_preferred":[
-        "Belgica"
+    "name:lat_x_preferred": [
+      "Belgica"
     ],
-    "name:lat_x_variant":[
-        "Belgia"
+    "name:lat_x_variant": [
+      "Belgia"
     ],
-    "name:lav_x_preferred":[
-        "Be\u013c\u0123ija"
+    "name:lav_x_preferred": [
+      "Beļģija"
     ],
-    "name:lez_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:lez_x_preferred": [
+      "Бельгия"
     ],
-    "name:lfn_x_preferred":[
-        "Beljia"
+    "name:lfn_x_preferred": [
+      "Beljia"
     ],
-    "name:lij_x_preferred":[
-        "Belgio"
+    "name:lij_x_preferred": [
+      "Belgio"
     ],
-    "name:lim_x_preferred":[
-        "Belsj"
+    "name:lim_x_preferred": [
+      "Belsj"
     ],
-    "name:lin_x_preferred":[
-        "B\u025b\u0301ljika"
+    "name:lin_x_preferred": [
+      "Bɛ́ljika"
     ],
-    "name:lin_x_variant":[
-        "Beleziki"
+    "name:lin_x_variant": [
+      "Beleziki"
     ],
-    "name:lit_x_preferred":[
-        "Belgija"
+    "name:lit_x_preferred": [
+      "Belgija"
     ],
-    "name:liv_x_preferred":[
-        "Be\u013cgij"
+    "name:liv_x_preferred": [
+      "Beļgij"
     ],
-    "name:lmo_x_preferred":[
-        "Belgi"
+    "name:lmo_x_preferred": [
+      "Belgi"
     ],
-    "name:lrc_x_preferred":[
-        "\u0628\u0644\u062c\u06cc\u06a9"
+    "name:lrc_x_preferred": [
+      "بلجیک"
     ],
-    "name:ltg_x_preferred":[
-        "Be\u013cgeja"
+    "name:ltg_x_preferred": [
+      "Beļgeja"
     ],
-    "name:ltz_x_preferred":[
-        "Belsch"
+    "name:ltz_x_preferred": [
+      "Belsch"
     ],
-    "name:lub_x_preferred":[
-        "Belejiki"
+    "name:lub_x_preferred": [
+      "Belejiki"
     ],
-    "name:lug_x_preferred":[
-        "Bubirigi"
+    "name:lug_x_preferred": [
+      "Bubirigi"
     ],
-    "name:lzh_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:lzh_x_preferred": [
+      "比利時"
     ],
-    "name:mai_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:mai_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:mal_x_preferred":[
-        "\u0d2c\u0d46\u0d7d\u0d1c\u0d3f\u0d2f\u0d02"
+    "name:mal_x_preferred": [
+      "ബെൽജിയം"
     ],
-    "name:mal_x_variant":[
-        "\u0d2c\u0d46\u0d32\u0d4d\u200d\u0d1c\u0d3f\u0d2f\u0d02"
+    "name:mal_x_variant": [
+      "ബെല്‍ജിയം"
     ],
-    "name:mar_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:mar_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:mdf_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u0435"
+    "name:mdf_x_preferred": [
+      "Бельгие"
     ],
-    "name:mhr_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u0439"
+    "name:mhr_x_preferred": [
+      "Бельгий"
     ],
-    "name:mkd_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u0458\u0430"
+    "name:mkd_x_preferred": [
+      "Белгија"
     ],
-    "name:mlg_x_preferred":[
-        "Belzika"
+    "name:mlg_x_preferred": [
+      "Belzika"
     ],
-    "name:mlt_x_preferred":[
-        "Bel\u0121ju"
+    "name:mlt_x_preferred": [
+      "Belġju"
     ],
-    "name:mon_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:mon_x_preferred": [
+      "Бельги"
     ],
-    "name:mri_x_preferred":[
-        "Pehiamu"
+    "name:mri_x_preferred": [
+      "Pehiamu"
     ],
-    "name:msa_x_preferred":[
-        "Belgium"
+    "name:msa_x_preferred": [
+      "Belgium"
     ],
-    "name:mwl_x_preferred":[
-        "B\u00e9lgica"
+    "name:mwl_x_preferred": [
+      "Bélgica"
     ],
-    "name:mya_x_preferred":[
-        "\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "ဘယ်လ်ဂျီယမ်နိုင်ငံ"
     ],
-    "name:mya_x_variant":[
-        "\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a"
+    "name:mya_x_variant": [
+      "ဘယ်လ်ဂျီယမ်"
     ],
-    "name:myv_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    "name:myv_x_preferred": [
+      "Бельгия Мастор"
     ],
-    "name:mzn_x_preferred":[
-        "\u0628\u0644\u0698\u06cc\u06a9"
+    "name:mzn_x_preferred": [
+      "بلژیک"
     ],
-    "name:nah_x_preferred":[
-        "Belgica"
+    "name:nah_x_preferred": [
+      "Belgica"
     ],
-    "name:nan_x_preferred":[
-        "Belgien"
+    "name:nan_x_preferred": [
+      "Belgien"
     ],
-    "name:nan_x_variant":[
-        "Pe\u030dk-n\u00ed-g\u012b"
+    "name:nan_x_variant": [
+      "Pe̍k-ní-gī"
     ],
-    "name:nap_x_preferred":[
-        "Belge"
+    "name:nap_x_preferred": [
+      "Belge"
     ],
-    "name:nau_x_preferred":[
-        "Berdjiyum"
+    "name:nau_x_preferred": [
+      "Berdjiyum"
     ],
-    "name:nau_x_variant":[
-        "Belgium"
+    "name:nau_x_variant": [
+      "Belgium"
     ],
-    "name:nav_x_preferred":[
-        "B\u00e9lgii Bik\u00e9yah"
+    "name:nav_x_preferred": [
+      "Bélgii Bikéyah"
     ],
-    "name:nde_x_preferred":[
-        "Bhelgium"
+    "name:nde_x_preferred": [
+      "Bhelgium"
     ],
-    "name:nds_nld_x_preferred":[
-        "Belgi\u00eb"
+    "name:nds_nld_x_preferred": [
+      "België"
     ],
-    "name:nds_x_preferred":[
-        "Belgien"
+    "name:nds_x_preferred": [
+      "Belgien"
     ],
-    "name:nep_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:nep_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:new_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:new_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:nld_x_preferred":[
-        "Belgi\u00eb"
+    "name:nld_x_preferred": [
+      "België"
     ],
-    "name:nld_x_variant":[
-        "Koninkrijk Belgi\u00eb"
+    "name:nld_x_variant": [
+      "Koninkrijk België"
     ],
-    "name:nno_x_preferred":[
-        "Belgia"
+    "name:nno_x_preferred": [
+      "Belgia"
     ],
-    "name:nob_x_preferred":[
-        "Belgia"
+    "name:nob_x_preferred": [
+      "Belgia"
     ],
-    "name:nor_x_preferred":[
-        "Belgia"
+    "name:nor_x_preferred": [
+      "Belgia"
     ],
-    "name:nov_x_preferred":[
-        "Belgia"
+    "name:nov_x_preferred": [
+      "Belgia"
     ],
-    "name:nrm_x_preferred":[
-        "Belgique"
+    "name:nrm_x_preferred": [
+      "Belgique"
     ],
-    "name:nso_x_preferred":[
-        "Belgium"
+    "name:nso_x_preferred": [
+      "Belgium"
     ],
-    "name:oci_x_preferred":[
-        "Belgica"
+    "name:oci_x_preferred": [
+      "Belgica"
     ],
-    "name:olo_x_preferred":[
-        "Bel\u2019gii"
+    "name:olo_x_preferred": [
+      "Bel’gii"
     ],
-    "name:olo_x_variant":[
-        "Bel'gii"
+    "name:olo_x_variant": [
+      "Bel'gii"
     ],
-    "name:ori_x_preferred":[
-        "\u0b2c\u0b47\u0b32\u0b1c\u0b3f\u0b05\u0b2e"
+    "name:ori_x_preferred": [
+      "ବେଲଜିଅମ"
     ],
-    "name:ori_x_variant":[
-        "\u0b2c\u0b47\u0b32\u0b1c\u0b3f\u0b5f\u0b2e\u0b4d"
+    "name:ori_x_variant": [
+      "ବେଲଜିୟମ୍"
     ],
-    "name:orm_x_preferred":[
-        "Beeljiyeem"
+    "name:orm_x_preferred": [
+      "Beeljiyeem"
     ],
-    "name:oss_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438"
+    "name:oss_x_preferred": [
+      "Бельги"
     ],
-    "name:pag_x_preferred":[
-        "Belhika"
+    "name:pag_x_preferred": [
+      "Belhika"
     ],
-    "name:pam_x_preferred":[
-        "Belgika"
+    "name:pam_x_preferred": [
+      "Belgika"
     ],
-    "name:pam_x_variant":[
-        "Belgium",
-        "Belhika"
+    "name:pam_x_variant": [
+      "Belgium",
+      "Belhika"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2c\u0a48\u0a32\u0a1c\u0a40\u0a05\u0a2e"
+    "name:pan_x_preferred": [
+      "ਬੈਲਜੀਅਮ"
     ],
-    "name:pap_x_preferred":[
-        "B\u00e9lgika"
+    "name:pap_x_preferred": [
+      "Bélgika"
     ],
-    "name:pcd_x_preferred":[
-        "Bergike"
+    "name:pcd_x_preferred": [
+      "Bergike"
     ],
-    "name:pdc_x_preferred":[
-        "Belgien"
+    "name:pdc_x_preferred": [
+      "Belgien"
     ],
-    "name:pfl_x_preferred":[
-        "Belgien"
+    "name:pfl_x_preferred": [
+      "Belgien"
     ],
-    "name:pfl_x_variant":[
-        "Belgje"
+    "name:pfl_x_variant": [
+      "Belgje"
     ],
-    "name:pih_x_preferred":[
-        "Beljum"
+    "name:pih_x_preferred": [
+      "Beljum"
     ],
-    "name:pli_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:pli_x_preferred": [
+      "बेल्जियम"
     ],
-    "name:pms_x_preferred":[
-        "Belgi"
+    "name:pms_x_preferred": [
+      "Belgi"
     ],
-    "name:pms_x_variant":[
-        "Belgio"
+    "name:pms_x_variant": [
+      "Belgio"
     ],
-    "name:pnb_x_preferred":[
-        "\u0628\u06cc\u0644\u062c\u06cc\u0645"
+    "name:pnb_x_preferred": [
+      "بیلجیم"
     ],
-    "name:pnt_x_preferred":[
-        "\u0392\u03ad\u03bb\u03b3\u03b9\u03bf\u03bd"
+    "name:pnt_x_preferred": [
+      "Βέλγιον"
     ],
-    "name:pol_x_preferred":[
-        "Belgia"
+    "name:pol_x_preferred": [
+      "Belgia"
     ],
-    "name:por_br_x_preferred":[
-        "B\u00e9lgica"
+    "name:por_br_x_preferred": [
+      "Bélgica"
     ],
-    "name:por_x_preferred":[
-        "B\u00e9lgica"
+    "name:por_x_preferred": [
+      "Bélgica"
     ],
-    "name:por_x_variant":[
-        "Belgia"
+    "name:por_x_variant": [
+      "Belgia"
     ],
-    "name:pus_x_preferred":[
-        "\u0628\u06d0\u0644\u062c\u06cc\u0645"
+    "name:pus_x_preferred": [
+      "بېلجیم"
     ],
-    "name:pus_x_variant":[
-        "\u0628\u0644\u062c\u064a\u0645",
-        "\u0628\u0644\u062c\u06cc\u0645"
+    "name:pus_x_variant": [
+      "بلجيم",
+      "بلجیم"
     ],
-    "name:que_x_preferred":[
-        "Bilhika"
+    "name:que_x_preferred": [
+      "Bilhika"
     ],
-    "name:que_x_variant":[
-        "Bilgasuyu"
+    "name:que_x_variant": [
+      "Bilgasuyu"
     ],
-    "name:rmy_x_preferred":[
-        "Beljiya"
+    "name:rmy_x_preferred": [
+      "Beljiya"
     ],
-    "name:roh_x_preferred":[
-        "Belgia"
+    "name:roh_x_preferred": [
+      "Belgia"
     ],
-    "name:ron_x_preferred":[
-        "Belgia"
+    "name:ron_x_preferred": [
+      "Belgia"
     ],
-    "name:rue_x_preferred":[
-        "\u0411\u0435\u043b\u0491\u0456\u044f"
+    "name:rue_x_preferred": [
+      "Белґія"
     ],
-    "name:run_x_preferred":[
-        "Ububirigi"
+    "name:run_x_preferred": [
+      "Ububirigi"
     ],
-    "name:run_x_variant":[
-        "Ububiligi"
+    "name:run_x_variant": [
+      "Ububiligi"
     ],
-    "name:rup_x_preferred":[
-        "Belghia"
+    "name:rup_x_preferred": [
+      "Belghia"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:rus_x_preferred": [
+      "Бельгия"
     ],
-    "name:sag_x_preferred":[
-        "B\u00ealeze"
+    "name:sag_x_preferred": [
+      "Bêleze"
     ],
-    "name:sag_x_variant":[
-        "B\u00ealeze, Belez\u00eeki"
+    "name:sag_x_variant": [
+      "Bêleze, Belezîki"
     ],
-    "name:sah_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:sah_x_preferred": [
+      "Бельгия"
     ],
-    "name:san_x_preferred":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e\u094d"
+    "name:san_x_preferred": [
+      "बेल्जियम्"
     ],
-    "name:san_x_variant":[
-        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    "name:san_x_variant": [
+      "बेल्जियम"
     ],
-    "name:sat_x_preferred":[
-        "\u1c75\u1c6e\u1c5e\u1c61\u1c64\u1c6d\u1c5a\u1c62"
+    "name:sat_x_preferred": [
+      "ᱵᱮᱞᱡᱤᱭᱚᱢ"
     ],
-    "name:scn_x_preferred":[
-        "Belgiu"
+    "name:scn_x_preferred": [
+      "Belgiu"
     ],
-    "name:sco_x_preferred":[
-        "Belgium"
+    "name:sco_x_preferred": [
+      "Belgium"
     ],
-    "name:sgs_x_preferred":[
-        "Belg\u0117j\u0117"
+    "name:sgs_x_preferred": [
+      "Belgėjė"
     ],
-    "name:sin_x_preferred":[
-        "\u0db6\u0dd9\u0dbd\u0dca\u0da2\u0dd2\u0dba\u0db8"
+    "name:sin_x_preferred": [
+      "බෙල්ජියම"
     ],
-    "name:slk_x_preferred":[
-        "Belgicko"
+    "name:slk_x_preferred": [
+      "Belgicko"
     ],
-    "name:slv_x_preferred":[
-        "Belgija"
+    "name:slv_x_preferred": [
+      "Belgija"
     ],
-    "name:sma_x_preferred":[
-        "Belgia"
+    "name:sma_x_preferred": [
+      "Belgia"
     ],
-    "name:sme_x_preferred":[
-        "Belgia"
+    "name:sme_x_preferred": [
+      "Belgia"
     ],
-    "name:smo_x_preferred":[
-        "Peleseuma"
+    "name:smo_x_preferred": [
+      "Peleseuma"
     ],
-    "name:sna_x_preferred":[
-        "Belgium"
+    "name:sna_x_preferred": [
+      "Belgium"
     ],
-    "name:sna_x_variant":[
-        "Beljium"
+    "name:sna_x_variant": [
+      "Beljium"
     ],
-    "name:snd_x_preferred":[
-        "\u0628\u064a\u0644\u062c\u064a\u0645"
+    "name:snd_x_preferred": [
+      "بيلجيم"
     ],
-    "name:som_x_preferred":[
-        "Beljim"
+    "name:som_x_preferred": [
+      "Beljim"
     ],
-    "name:som_x_variant":[
-        "Biljam"
+    "name:som_x_variant": [
+      "Biljam"
     ],
-    "name:spa_x_colloquial":[
-        "Belgica"
+    "name:spa_x_colloquial": [
+      "Belgica"
     ],
-    "name:spa_x_preferred":[
-        "B\u00e9lgica"
+    "name:spa_x_preferred": [
+      "Bélgica"
     ],
-    "name:sqi_x_preferred":[
-        "Belgjika"
+    "name:sqi_x_preferred": [
+      "Belgjika"
     ],
-    "name:sqi_x_variant":[
-        "Belgjik\u00eb"
+    "name:sqi_x_variant": [
+      "Belgjikë"
     ],
-    "name:srd_x_preferred":[
-        "B\u00e8lgiu"
+    "name:srd_x_preferred": [
+      "Bèlgiu"
     ],
-    "name:srn_x_preferred":[
-        "Belgikondre"
+    "name:srn_x_preferred": [
+      "Belgikondre"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u0458\u0430"
+    "name:srp_ec_x_preferred": [
+      "Белгија"
     ],
-    "name:srp_el_x_preferred":[
-        "Belgija"
+    "name:srp_el_x_preferred": [
+      "Belgija"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u0458\u0430"
+    "name:srp_x_preferred": [
+      "Белгија"
     ],
-    "name:ssw_x_preferred":[
-        "IBhelijiyamu"
+    "name:ssw_x_preferred": [
+      "IBhelijiyamu"
     ],
-    "name:stq_x_preferred":[
-        "Belgien"
+    "name:stq_x_preferred": [
+      "Belgien"
     ],
-    "name:sun_x_preferred":[
-        "B\u00e9lgia"
+    "name:sun_x_preferred": [
+      "Bélgia"
     ],
-    "name:swa_x_preferred":[
-        "Ubelgiji"
+    "name:swa_x_preferred": [
+      "Ubelgiji"
     ],
-    "name:swe_x_preferred":[
-        "Belgien"
+    "name:swe_x_preferred": [
+      "Belgien"
     ],
-    "name:szl_x_preferred":[
-        "Belgijo"
+    "name:szl_x_preferred": [
+      "Belgijo"
     ],
-    "name:szy_x_preferred":[
-        "Belguim"
+    "name:szy_x_preferred": [
+      "Belguim"
     ],
-    "name:tah_x_preferred":[
-        "Peretita"
+    "name:tah_x_preferred": [
+      "Peretita"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0bb2\u0bcd\u0b9c\u0bbf\u0baf\u0bae\u0bcd"
+    "name:tam_x_preferred": [
+      "பெல்ஜியம்"
     ],
-    "name:tat_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:tat_x_preferred": [
+      "Бельгия"
     ],
-    "name:tat_x_variant":[
-        "\u0411\u0438\u043b\u0433\u0438\u044f"
+    "name:tat_x_variant": [
+      "Билгия"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2c\u0c46\u0c32\u0c4d\u0c1c\u0c3f\u0c2f\u0c02"
+    "name:tel_x_preferred": [
+      "బెల్జియం"
     ],
-    "name:tet_x_preferred":[
-        "B\u00e9ljika"
+    "name:tet_x_preferred": [
+      "Béljika"
     ],
-    "name:tgk_x_preferred":[
-        "\u0411\u0435\u043b\u0433\u0438\u044f"
+    "name:tgk_x_preferred": [
+      "Белгия"
     ],
-    "name:tgl_x_preferred":[
-        "Belhika"
+    "name:tgl_x_preferred": [
+      "Belhika"
     ],
-    "name:tgl_x_variant":[
-        "Belgium"
+    "name:tgl_x_variant": [
+      "Belgium"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21"
+    "name:tha_x_preferred": [
+      "ประเทศเบลเยียม"
     ],
-    "name:tha_x_variant":[
-        "\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21"
+    "name:tha_x_variant": [
+      "เบลเยียม"
     ],
-    "name:tir_x_preferred":[
-        "\u1264\u120d\u1304\u121d"
+    "name:tir_x_preferred": [
+      "ቤልጄም"
     ],
-    "name:ton_x_preferred":[
-        "Pelesiume"
+    "name:ton_x_preferred": [
+      "Pelesiume"
     ],
-    "name:tpi_x_preferred":[
-        "Beljiam"
+    "name:tpi_x_preferred": [
+      "Beljiam"
     ],
-    "name:tpi_x_variant":[
-        "Belsum"
+    "name:tpi_x_variant": [
+      "Belsum"
     ],
-    "name:tso_x_preferred":[
-        "Belgium"
+    "name:tso_x_preferred": [
+      "Belgium"
     ],
-    "name:tuk_x_preferred":[
-        "Belgi\u00fda"
+    "name:tuk_x_preferred": [
+      "Belgiýa"
     ],
-    "name:tum_x_preferred":[
-        "Belgium"
+    "name:tum_x_preferred": [
+      "Belgium"
     ],
-    "name:tur_x_preferred":[
-        "Bel\u00e7ika"
+    "name:tur_x_preferred": [
+      "Belçika"
     ],
-    "name:twi_x_preferred":[
-        "Belgium"
+    "name:twi_x_preferred": [
+      "Belgium"
     ],
-    "name:udm_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+    "name:udm_x_preferred": [
+      "Бельгия"
     ],
-    "name:uig_x_preferred":[
-        "\u0628\u06d0\u0644\u06af\u0649\u064a\u06d5"
+    "name:uig_x_preferred": [
+      "بېلگىيە"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0433\u0456\u044f"
+    "name:ukr_x_preferred": [
+      "Бельгія"
     ],
-    "name:ukr_x_variant":[
-        "\u0411\u0435\u043b\u044c\u0491\u0456\u044f"
+    "name:ukr_x_variant": [
+      "Бельґія"
     ],
-    "name:und_x_colloquial":[
-        "Velgio"
+    "name:und_x_colloquial": [
+      "Velgio"
     ],
-    "name:und_x_variant":[
-        "Belg\u00efe",
-        "Bel'hija",
-        "Kraljevina Belgija",
-        "V\u00e9lgio"
+    "name:und_x_variant": [
+      "Belgïe",
+      "Bel'hija",
+      "Kraljevina Belgija",
+      "Vélgio"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0644\u062c\u0626\u06cc\u0645"
+    "name:urd_x_preferred": [
+      "بلجئیم"
     ],
-    "name:urd_x_variant":[
-        "\u0628\u06cc\u0644\u062c\u06cc\u0645"
+    "name:urd_x_variant": [
+      "بیلجیم"
     ],
-    "name:uzb_x_preferred":[
-        "Belgiya"
+    "name:uzb_x_preferred": [
+      "Belgiya"
     ],
-    "name:vec_x_preferred":[
-        "Belgio"
+    "name:vec_x_preferred": [
+      "Belgio"
     ],
-    "name:vep_x_preferred":[
-        "Bel'gii"
+    "name:vep_x_preferred": [
+      "Bel'gii"
     ],
-    "name:vie_x_preferred":[
-        "B\u1ec9"
+    "name:vie_x_preferred": [
+      "Bỉ"
     ],
-    "name:vls_x_preferred":[
-        "Belgi\u00eb"
+    "name:vls_x_preferred": [
+      "België"
     ],
-    "name:vls_x_variant":[
-        "Belgje"
+    "name:vls_x_variant": [
+      "Belgje"
     ],
-    "name:vol_x_preferred":[
-        "Belg\u00e4n"
+    "name:vol_x_preferred": [
+      "Belgän"
     ],
-    "name:vro_x_preferred":[
-        "Belgi\u00e4"
+    "name:vro_x_preferred": [
+      "Belgiä"
     ],
-    "name:war_x_preferred":[
-        "Belhika"
+    "name:war_x_preferred": [
+      "Belhika"
     ],
-    "name:wln_x_preferred":[
-        "Beldjike"
+    "name:wln_x_preferred": [
+      "Beldjike"
     ],
-    "name:wol_x_preferred":[
-        "Belsik"
+    "name:wol_x_preferred": [
+      "Belsik"
     ],
-    "name:wuu_x_preferred":[
-        "\u6bd4\u5229\u65f6"
+    "name:wuu_x_preferred": [
+      "比利时"
     ],
-    "name:xal_x_preferred":[
-        "\u0411\u0435\u043b\u044c\u0497\u043c\u0443\u0434\u0438\u043d \u041d\u0443\u0442\u0433"
+    "name:xal_x_preferred": [
+      "Бельҗмудин Нутг"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d1\u10d4\u10da\u10d2\u10d8\u10d0"
+    "name:xmf_x_preferred": [
+      "ბელგია"
     ],
-    "name:yid_x_preferred":[
-        "\u05d1\u05e2\u05dc\u05d2\u05d9\u05e2"
+    "name:yid_x_preferred": [
+      "בעלגיע"
     ],
-    "name:yor_x_preferred":[
-        "B\u1eb9\u0301lj\u00ed\u1ecd\u0300m"
+    "name:yor_x_preferred": [
+      "Bẹ́ljíọ̀m"
     ],
-    "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de B\u00e9g\u00ed\u1ecd\u0301m\u00f9"
+    "name:yor_x_variant": [
+      "Orílẹ́ède Bégíọ́mù"
     ],
-    "name:yue_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:yue_x_preferred": [
+      "比利時"
     ],
-    "name:zea_x_preferred":[
-        "Belhi\u00eb"
+    "name:zea_x_preferred": [
+      "Belhië"
     ],
-    "name:zea_x_variant":[
-        "Belgi\u00eb"
+    "name:zea_x_variant": [
+      "België"
     ],
-    "name:zha_x_preferred":[
-        "Bijliswz"
+    "name:zha_x_preferred": [
+      "Bijliswz"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6bd4\u5229\u65f6"
+    "name:zho_cn_x_preferred": [
+      "比利时"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:zho_hk_x_preferred": [
+      "比利時"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "P\u00ed-l\u012b-s\u00ee"
+    "name:zho_min_nan_x_preferred": [
+      "Pí-lī-sî"
     ],
-    "name:zho_mo_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:zho_mo_x_preferred": [
+      "比利時"
     ],
-    "name:zho_my_x_preferred":[
-        "\u6bd4\u5229\u65f6"
+    "name:zho_my_x_preferred": [
+      "比利时"
     ],
-    "name:zho_sg_x_preferred":[
-        "\u6bd4\u5229\u65f6"
+    "name:zho_sg_x_preferred": [
+      "比利时"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:zho_tw_x_preferred": [
+      "比利時"
     ],
-    "name:zho_x_preferred":[
-        "\u6bd4\u5229\u65f6"
+    "name:zho_x_preferred": [
+      "比利时"
     ],
-    "name:zho_x_variant":[
-        "\u6bd4\u5229\u6642"
+    "name:zho_x_variant": [
+      "比利時"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u6bd4\u5229\u6642"
+    "name:zho_yue_x_preferred": [
+      "比利時"
     ],
-    "name:zul_x_preferred":[
-        "i-Belgium"
+    "name:zul_x_preferred": [
+      "i-Belgium"
     ],
-    "ne:abbrev":"Belg.",
-    "ne:abbrev_len":5,
-    "ne:adm0_a3":"BEL",
-    "ne:adm0_a3_is":"BEL",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"BEL",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":0,
-    "ne:admin":"Belgium",
-    "ne:brk_a3":"BEL",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Belgium",
-    "ne:continent":"Europe",
-    "ne:economy":"2. Developed region: nonG7",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"BE",
-    "ne:formal_en":"Kingdom of Belgium",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":389300,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Belgium",
-    "ne:gu_a3":"BEL",
-    "ne:homepart":1,
-    "ne:income_grp":"1. High income: OECD",
-    "ne:iso_a2":"BE",
-    "ne:iso_a3":"BEL",
-    "ne:iso_n3":56,
-    "ne:labelrank":2,
-    "ne:lastcensus":2011,
-    "ne:level":2,
-    "ne:long_len":7,
-    "ne:mapcolor13":8,
-    "ne:mapcolor7":3,
-    "ne:mapcolor8":2,
-    "ne:mapcolor9":1,
-    "ne:name":"Belgium",
-    "ne:name_alt":null,
-    "ne:name_len":7,
-    "ne:name_long":"Belgium",
-    "ne:name_sort":"Belgium",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":10414336,
-    "ne:pop_year":-99,
-    "ne:postal":"B",
-    "ne:region_un":"Europe",
-    "ne:region_wb":"Europe & Central Asia",
-    "ne:scalerank":0,
-    "ne:sov_a3":"BEL",
-    "ne:sovereignt":"Belgium",
-    "ne:su_a3":"BEL",
-    "ne:su_dif":0,
-    "ne:subregion":"Western Europe",
-    "ne:subunit":"Belgium",
-    "ne:tiny":-99,
-    "ne:type":"Sovereign country",
-    "ne:un_a3":"056",
-    "ne:wb_a2":"BE",
-    "ne:wb_a3":"BEL",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":23424757,
-    "ne:woe_id_eh":23424757,
-    "ne:woe_note":"Exact WOE match as country",
-    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
-    "qs:a0_alt":"Belgie#Belgique#Belgien",
-    "qs:a0_lc":"BE000000",
-    "qs:adm0":"Belgium",
-    "qs:adm0_a3":"BEL",
-    "qs:id":0,
-    "qs:level":"adm0",
-    "qs:source":"EuroGlobalMap",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"country",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "naturalearth"
+    "ne:abbrev": "Belg.",
+    "ne:abbrev_len": 5,
+    "ne:adm0_a3": "BEL",
+    "ne:adm0_a3_is": "BEL",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "BEL",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 0,
+    "ne:admin": "Belgium",
+    "ne:brk_a3": "BEL",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Belgium",
+    "ne:continent": "Europe",
+    "ne:economy": "2. Developed region: nonG7",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "BE",
+    "ne:formal_en": "Kingdom of Belgium",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 389300,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Belgium",
+    "ne:gu_a3": "BEL",
+    "ne:homepart": 1,
+    "ne:income_grp": "1. High income: OECD",
+    "ne:iso_a2": "BE",
+    "ne:iso_a3": "BEL",
+    "ne:iso_n3": 56,
+    "ne:labelrank": 2,
+    "ne:lastcensus": 2011,
+    "ne:level": 2,
+    "ne:long_len": 7,
+    "ne:mapcolor13": 8,
+    "ne:mapcolor7": 3,
+    "ne:mapcolor8": 2,
+    "ne:mapcolor9": 1,
+    "ne:name": "Belgium",
+    "ne:name_alt": null,
+    "ne:name_len": 7,
+    "ne:name_long": "Belgium",
+    "ne:name_sort": "Belgium",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 10414336,
+    "ne:pop_year": -99,
+    "ne:postal": "B",
+    "ne:region_un": "Europe",
+    "ne:region_wb": "Europe \u0026 Central Asia",
+    "ne:scalerank": 0,
+    "ne:sov_a3": "BEL",
+    "ne:sovereignt": "Belgium",
+    "ne:su_a3": "BEL",
+    "ne:su_dif": 0,
+    "ne:subregion": "Western Europe",
+    "ne:subunit": "Belgium",
+    "ne:tiny": -99,
+    "ne:type": "Sovereign country",
+    "ne:un_a3": "056",
+    "ne:wb_a2": "BE",
+    "ne:wb_a3": "BEL",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": 23424757,
+    "ne:woe_id_eh": 23424757,
+    "ne:woe_note": "Exact WOE match as country",
+    "qs:a0": "België#Belgique#Belgien",
+    "qs:a0_alt": "Belgie#Belgique#Belgien",
+    "qs:a0_lc": "BE000000",
+    "qs:adm0": "Belgium",
+    "qs:adm0_a3": "BEL",
+    "qs:id": 0,
+    "qs:level": "adm0",
+    "qs:source": "EuroGlobalMap",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "country",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "naturalearth"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "statoids:dial":"32",
-    "statoids:ds":"B",
-    "statoids:fifa":"BEL",
-    "statoids:gaul":"27",
-    "statoids:gec":"BE",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"BEL",
-    "statoids:iso_a2":"BE",
-    "statoids:iso_a3":"BEL",
-    "statoids:iso_num":"56",
-    "statoids:itu":"BEL",
-    "statoids:marc":"be",
-    "statoids:name":"Belgium",
-    "statoids:wmo":"BX",
-    "wd:latitude":51.0,
-    "wd:longitude":5.0,
-    "wd:population":11150516,
-    "wd:wordcount":15151,
-    "wof:belongsto":[
-        102191581
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "statoids:dial": "32",
+    "statoids:ds": "B",
+    "statoids:fifa": "BEL",
+    "statoids:gaul": "27",
+    "statoids:gec": "BE",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "BEL",
+    "statoids:iso_a2": "BE",
+    "statoids:iso_a3": "BEL",
+    "statoids:iso_num": "56",
+    "statoids:itu": "BEL",
+    "statoids:marc": "be",
+    "statoids:name": "Belgium",
+    "statoids:wmo": "BX",
+    "wd:latitude": 51,
+    "wd:longitude": 5,
+    "wd:population": 11150516,
+    "wd:wordcount": 15151,
+    "wof:belongsto": [
+      102191581
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        1175610569
+    "wof:breaches": [],
+    "wof:capital": [
+      1175610569
     ],
-    "wof:concordances":{
-        "dbp:id":"Belgium",
-        "digitalenvoy:country_code":56,
-        "fb:id":"en.belgium",
-        "fifa:id":"BEL",
-        "fips:code":"BE",
-        "gaul:id":"27",
-        "gn:id":2802361,
-        "gp:id":23424757,
-        "hasc:id":"BE",
-        "icao:code":"OO",
-        "ioc:id":"BEL",
-        "itu:id":"BEL",
-        "loc:id":"n80126041",
-        "m49:code":"056",
-        "marc:id":"be",
-        "mzb:id":"belgium",
-        "ne:adm0_a3":"BEL",
-        "nyt:id":"58158782237762599361",
-        "qs_pg:id":1032691,
-        "uncrt:id":"B",
-        "wd:id":"Q31",
-        "wk:page":"Belgium",
-        "wmo:id":"BX"
+    "wof:concordances": {
+      "dbp:id": "Belgium",
+      "digitalenvoy:country_code": 56,
+      "fb:id": "en.belgium",
+      "fifa:id": "BEL",
+      "fips:code": "BE",
+      "gaul:id": "27",
+      "gn:id": 2802361,
+      "gp:id": 23424757,
+      "hasc:id": "BE",
+      "icao:code": "OO",
+      "ioc:id": "BEL",
+      "itu:id": "BEL",
+      "loc:id": "n80126041",
+      "m49:code": "056",
+      "marc:id": "be",
+      "mzb:id": "belgium",
+      "ne:adm0_a3": "BEL",
+      "nyt:id": "58158782237762599361",
+      "qs_pg:id": 1032691,
+      "uncrt:id": "B",
+      "wd:id": "Q31",
+      "wk:page": "Belgium",
+      "wmo:id": "BX"
     },
-    "wof:country":"BE",
-    "wof:country_alpha3":"BEL",
-    "wof:geom_alt":[
-        "naturalearth-display-terrestrial-zoom6",
-        "naturalearth"
+    "wof:country": "BE",
+    "wof:country_alpha3": "BEL",
+    "wof:created": 1624906788,
+    "wof:geom_alt": [
+      "naturalearth-display-terrestrial-zoom6",
+      "naturalearth"
     ],
-    "wof:geomhash":"46c0a0d08da0a862ea3d1b71de377dbe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997
-        }
+    "wof:geomhash": "46c0a0d08da0a862ea3d1b71de377dbe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632997
+      }
     ],
-    "wof:id":85632997,
-    "wof:lang_x_official":[
-        "nld",
-        "fra",
-        "deu"
+    "wof:id": 85632997,
+    "wof:lang_x_official": [
+      "nld",
+      "fra",
+      "deu"
     ],
-    "wof:lang_x_spoken":[
-        "nld",
-        "fra",
-        "deu"
+    "wof:lang_x_spoken": [
+      "nld",
+      "fra",
+      "deu"
     ],
-    "wof:lastmodified":1611601036,
-    "wof:name":"Belgium",
-    "wof:parent_id":102191581,
-    "wof:placetype":"country",
-    "wof:population":11150516,
-    "wof:population_rank":14,
-    "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"BE",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906788,
+    "wof:name": "Belgium",
+    "wof:parent_id": 102191581,
+    "wof:placetype": "country",
+    "wof:population": 11150516,
+    "wof:population_rank": 14,
+    "wof:repo": "whosonfirst-data-admin-be",
+    "wof:shortcode": "BE",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.546011,
     49.497238,
     6.406391,
     51.504844
-],
+  ],
   "geometry": {"coordinates":[[[5.730042,49.544499],[5.721656,49.541042],[5.701239,49.539551],[5.698094,49.542374],[5.679806,49.548321],[5.669208,49.548538],[5.660786,49.552372],[5.645183,49.549721],[5.6329,49.543091],[5.632778,49.539589],[5.628072,49.538082],[5.617942,49.530373],[5.621083,49.52068],[5.6174,49.514378],[5.610967,49.505955],[5.607083,49.507015],[5.593797,49.521389],[5.569164,49.527367],[5.553953,49.5279],[5.542453,49.516994],[5.533422,49.513439],[5.531433,49.512543],[5.526381,49.511418],[5.484789,49.50671],[5.470883,49.497238],[5.466258,49.498951],[5.463406,49.508987],[5.447172,49.517906],[5.464008,49.52623],[5.464303,49.528644],[5.465242,49.536339],[5.442525,49.550293],[5.441328,49.552166],[5.446244,49.553409],[5.453831,49.565991],[5.439308,49.569821],[5.428969,49.589222],[5.430942,49.592407],[5.428894,49.595421],[5.398023,49.614345],[5.393511,49.617111],[5.388594,49.618332],[5.346825,49.630867],[5.340069,49.618157],[5.321936,49.614212],[5.31495,49.612049],[5.311342,49.61438],[5.304892,49.630078],[5.308511,49.636338],[5.332592,49.653522],[5.319128,49.663693],[5.315533,49.666329],[5.286533,49.681843],[5.282181,49.685592],[5.281147,49.685711],[5.280481,49.689159],[5.268342,49.695973],[5.246197,49.686966],[5.231111,49.690384],[5.215631,49.689193],[5.208636,49.694462],[5.199633,49.692341],[5.194903,49.693168],[5.166169,49.69294],[5.164719,49.69614],[5.165392,49.709377],[5.160822,49.715206],[5.151669,49.717689],[5.143608,49.709324],[5.140978,49.712261],[5.130756,49.713066],[5.123039,49.717327],[5.123228,49.720566],[5.124842,49.726959],[5.122361,49.730007],[5.096569,49.759808],[5.089683,49.764812],[5.068986,49.761657],[5.065728,49.762905],[5.0468,49.770157],[5.041778,49.77055],[5.014872,49.779529],[5.010692,49.781578],[5.001753,49.793682],[4.991444,49.80024],[4.968106,49.800449],[4.955642,49.80056],[4.946639,49.797169],[4.94295,49.790695],[4.939592,49.792584],[4.931408,49.786728],[4.926311,49.787529],[4.906219,49.785622],[4.897606,49.788933],[4.887225,49.788059],[4.883794,49.790451],[4.874925,49.793213],[4.861711,49.789295],[4.857911,49.79171],[4.855069,49.79459],[4.865444,49.810227],[4.870665,49.815838],[4.8736,49.818993],[4.867244,49.8391],[4.858578,49.84256],[4.855064,49.849037],[4.852361,49.852123],[4.851506,49.862728],[4.85447,49.864746],[4.861897,49.869804],[4.869141,49.879719],[4.882839,49.898468],[4.885567,49.908673],[4.880975,49.918739],[4.858381,49.933723],[4.849189,49.946556],[4.813808,49.954285],[4.808961,49.954483],[4.790869,49.958416],[4.790506,49.961907],[4.795544,49.982231],[4.805903,49.984199],[4.815642,49.992626],[4.820556,50.02367],[4.822539,50.026932],[4.840217,50.039978],[4.837186,50.046356],[4.828056,50.049946],[4.827964,50.056938],[4.819183,50.060677],[4.820733,50.065285],[4.825592,50.066478],[4.839111,50.069721],[4.840439,50.082802],[4.845261,50.083793],[4.840192,50.092945],[4.850081,50.100193],[4.855492,50.100449],[4.863467,50.091739],[4.872353,50.092262],[4.869122,50.119827],[4.877836,50.128441],[4.88144,50.130036],[4.895583,50.136295],[4.895311,50.139778],[4.889908,50.140385],[4.881264,50.144005],[4.874822,50.153393],[4.831642,50.155121],[4.82437,50.165367],[4.824233,50.165561],[4.823399,50.166736],[4.822747,50.167656],[4.821952,50.167005],[4.802492,50.151077],[4.796641,50.148587],[4.779636,50.14135],[4.774633,50.140301],[4.765131,50.137409],[4.755917,50.12165],[4.750964,50.121289],[4.751294,50.111759],[4.746753,50.110321],[4.715172,50.100056],[4.713358,50.097023],[4.708,50.096501],[4.700008,50.092655],[4.695579,50.086556],[4.694348,50.084861],[4.681842,50.067638],[4.686797,50.057713],[4.696981,50.059296],[4.697758,50.056011],[4.690586,50.034012],[4.686589,50.027794],[4.688503,50.011383],[4.685897,50.008385],[4.687475,50.001629],[4.694556,49.996509],[4.689308,49.995807],[4.667967,49.996361],[4.633189,49.987476],[4.595931,49.985974],[4.575997,49.981128],[4.574033,49.978607],[4.57015,49.973633],[4.566108,49.971473],[4.540783,49.968243],[4.534628,49.961991],[4.524128,49.951328],[4.511278,49.946811],[4.511273,49.946812],[4.505997,49.947323],[4.484102,49.947174],[4.484051,49.947173],[4.479742,49.947144],[4.445756,49.937179],[4.442317,49.939666],[4.43329,49.942314],[4.419178,49.94645],[4.399139,49.948398],[4.393778,49.94854],[4.380781,49.95372],[4.349325,49.95224],[4.346372,49.955166],[4.335158,49.962746],[4.319233,49.964382],[4.310608,49.96856],[4.290492,49.964146],[4.258239,49.964],[4.233133,49.957828],[4.227825,49.957928],[4.197322,49.954494],[4.195078,49.957527],[4.195411,49.967457],[4.173883,49.97604],[4.168989,49.97686],[4.154103,49.975139],[4.140853,49.97876],[4.145556,49.980255],[4.156253,49.987217],[4.162372,49.996551],[4.147161,50.00404],[4.135378,50.015179],[4.135586,50.018566],[4.160736,50.047527],[4.164028,50.048661],[4.171017,50.047004],[4.175944,50.045799],[4.190581,50.049423],[4.194889,50.052521],[4.200978,50.0569],[4.228119,50.066707],[4.230717,50.073223],[4.227497,50.079682],[4.205325,50.097996],[4.204592,50.104538],[4.197606,50.109444],[4.203333,50.115318],[4.1952,50.134606],[4.163069,50.135059],[4.1461,50.128956],[4.126875,50.134922],[4.129419,50.138035],[4.140589,50.153705],[4.153167,50.160374],[4.155019,50.167134],[4.15,50.176601],[4.156533,50.186062],[4.156197,50.19284],[4.160369,50.194844],[4.157745,50.199944],[4.150811,50.213421],[4.166386,50.215096],[4.179014,50.227806],[4.183331,50.232151],[4.199014,50.240456],[4.204503,50.240578],[4.220775,50.254295],[4.209933,50.270065],[4.179569,50.27676],[4.170636,50.285568],[4.160392,50.285866],[4.152,50.27694],[4.166772,50.267059],[4.163608,50.25729],[4.153731,50.256748],[4.134911,50.25909],[4.138322,50.26152],[4.134053,50.27401],[4.124072,50.273277],[4.122503,50.276531],[4.125592,50.286495],[4.117981,50.302651],[4.115334,50.303054],[4.11195,50.303569],[4.108239,50.304135],[4.098878,50.312256],[4.078786,50.30925],[4.078619,50.310429],[4.077031,50.320751],[4.052142,50.338784],[4.037567,50.342907],[4.025178,50.357887],[4.01365,50.351333],[3.993169,50.347698],[3.986822,50.342457],[3.982017,50.343979],[3.97205,50.346493],[3.97026,50.344258],[3.967308,50.340572],[3.967092,50.347451],[3.961756,50.348072],[3.919753,50.332176],[3.915242,50.330639],[3.886014,50.327057],[3.888831,50.333271],[3.885719,50.339477],[3.874637,50.338897],[3.870656,50.338688],[3.857522,50.347882],[3.854433,50.350521],[3.8401,50.353852],[3.829947,50.353023],[3.82175,50.345932],[3.811611,50.344871],[3.813911,50.347927],[3.810889,50.353985],[3.805683,50.354618],[3.796536,50.351361],[3.781006,50.353267],[3.765433,50.351227],[3.763511,50.348072],[3.758203,50.348858],[3.747486,50.349777],[3.738592,50.34581],[3.734461,50.332321],[3.729769,50.326862],[3.731694,50.311901],[3.726519,50.310817],[3.711181,50.318272],[3.716728,50.307857],[3.710389,50.303166],[3.708039,50.304851],[3.705497,50.307926],[3.690794,50.318168],[3.684878,50.327549],[3.680031,50.329223],[3.673633,50.334915],[3.676097,50.337994],[3.664931,50.348743],[3.666508,50.362171],[3.657756,50.370522],[3.658369,50.373195],[3.665258,50.379883],[3.672911,50.38905],[3.673251,50.403721],[3.673389,50.409638],[3.671842,50.412895],[3.668792,50.436444],[3.667592,50.439739],[3.660319,50.444489],[3.660585,50.450146],[3.660585,50.450157],[3.660933,50.457573],[3.655388,50.461533],[3.653908,50.46259],[3.643606,50.463161],[3.640258,50.465839],[3.629411,50.481385],[3.616287,50.490624],[3.607903,50.496528],[3.583275,50.491012],[3.578925,50.492832],[3.568561,50.500107],[3.558586,50.498406],[3.526183,50.495281],[3.506631,50.48914],[3.501589,50.487801],[3.498886,50.501144],[3.516078,50.514438],[3.515808,50.524555],[3.501414,50.529499],[3.475031,50.532818],[3.456006,50.520668],[3.450042,50.50721],[3.444722,50.506523],[3.439406,50.507218],[3.435597,50.509117],[3.433101,50.508258],[3.427492,50.506329],[3.405514,50.498768],[3.400222,50.498554],[3.377233,50.49097],[3.372939,50.492962],[3.360233,50.503681],[3.334672,50.507889],[3.331722,50.507733],[3.328822,50.50811],[3.320919,50.517242],[3.286492,50.527569],[3.286841,50.529824],[3.287,50.530849],[3.279564,50.53954],[3.281197,50.55254],[3.276017,50.558254],[3.284567,50.561817],[3.278022,50.566738],[3.279947,50.571758],[3.281653,50.576206],[3.276133,50.581673],[3.276606,50.584816],[3.278269,50.594185],[3.272397,50.603248],[3.270942,50.605496],[3.270644,50.608768],[3.260828,50.617653],[3.2561,50.621933],[3.258669,50.628155],[3.256589,50.631058],[3.250622,50.636127],[3.247592,50.638542],[3.248792,50.649444],[3.245047,50.651409],[3.244336,50.654556],[3.242078,50.666668],[3.243856,50.669739],[3.261794,50.675945],[3.257759,50.68346],[3.255529,50.687614],[3.253647,50.69112],[3.255872,50.691586],[3.258858,50.692211],[3.257925,50.702408],[3.251271,50.707439],[3.247472,50.710312],[3.243663,50.710587],[3.236814,50.711083],[3.235214,50.711199],[3.234804,50.711228],[3.218535,50.712405],[3.210292,50.713002],[3.208777,50.713982],[3.208036,50.714461],[3.200244,50.719506],[3.195695,50.72245],[3.191706,50.725033],[3.193058,50.726677],[3.196018,50.730275],[3.199106,50.734028],[3.196317,50.737034],[3.19402,50.738167],[3.192511,50.738911],[3.185472,50.747548],[3.184267,50.749027],[3.183002,50.750065],[3.176844,50.75512],[3.174436,50.757096],[3.168257,50.764378],[3.161578,50.772251],[3.158325,50.775021],[3.147081,50.78989],[3.138863,50.789069],[3.138854,50.789068],[3.127073,50.787891],[3.125742,50.787758],[3.120858,50.789654],[3.112186,50.793022],[3.102678,50.780929],[3.098678,50.778835],[3.090169,50.774379],[3.085706,50.772873],[3.058719,50.780689],[3.053739,50.780133],[3.040656,50.775555],[3.035247,50.770138],[3.029953,50.770416],[3.018202,50.772965],[3.015225,50.773609],[3.009881,50.768051],[2.983272,50.757172],[2.979764,50.754665],[2.971936,50.750267],[2.956413,50.751491],[2.952053,50.751835],[2.940103,50.74535],[2.937628,50.742558],[2.943564,50.733783],[2.93715,50.730038],[2.930258,50.725273],[2.930044,50.711723],[2.923215,50.703846],[2.922303,50.702793],[2.917272,50.703506],[2.909042,50.700844],[2.909414,50.698032],[2.909903,50.694343],[2.904331,50.693715],[2.900403,50.693272],[2.897106,50.695839],[2.884242,50.705883],[2.870144,50.7029],[2.867386,50.705761],[2.86385,50.708759],[2.848536,50.721749],[2.813247,50.716934],[2.809119,50.719295],[2.804815,50.72127],[2.791203,50.727516],[2.782006,50.747677],[2.759475,50.762516],[2.760931,50.769249],[2.754281,50.77459],[2.752108,50.777416],[2.738531,50.780583],[2.735797,50.783623],[2.724992,50.795716],[2.723542,50.80949],[2.719797,50.812035],[2.682122,50.813911],[2.67627,50.817387],[2.67015,50.821022],[2.662292,50.816273],[2.658336,50.814572],[2.63495,50.812744],[2.624794,50.836044],[2.616969,50.840882],[2.614608,50.847649],[2.599089,50.849811],[2.599139,50.853279],[2.602111,50.855926],[2.611397,50.86359],[2.607278,50.872581],[2.608875,50.896279],[2.604694,50.906337],[2.607397,50.909305],[2.605433,50.911693],[2.602689,50.915032],[2.592075,50.915932],[2.589983,50.919091],[2.594725,50.920738],[2.600875,50.925176],[2.608975,50.931019],[2.617758,50.935135],[2.629689,50.949322],[2.606456,50.988899],[2.582319,50.997578],[2.572183,51.009792],[2.572456,51.013085],[2.575486,51.015911],[2.566981,51.042668],[2.566069,51.046028],[2.563578,51.05724],[2.56145,51.066822],[2.559194,51.070038],[2.557347,51.073356],[2.546011,51.089382],[2.589275,51.104141],[2.636347,51.122295],[2.651601,51.129547],[2.657927,51.130268],[2.680427,51.13641],[2.711198,51.147499],[2.722959,51.152584],[2.723868,51.153378],[2.729315,51.155701],[2.748992,51.161843],[2.76601,51.167149],[2.768069,51.169124],[2.776992,51.172188],[2.788714,51.177883],[2.866704,51.211452],[2.891761,51.222954],[2.894118,51.225047],[2.897057,51.226155],[2.90057,51.226074],[2.91047,51.230575],[2.910782,51.232304],[2.917772,51.23576],[2.923251,51.235035],[2.924186,51.235199],[2.925596,51.235413],[2.923817,51.237149],[2.924159,51.237907],[2.928629,51.238114],[3.031957,51.279171],[3.070106,51.296917],[3.074489,51.299911],[3.075587,51.301742],[3.1107,51.312241],[3.111797,51.312569],[3.112119,51.31266],[3.112456,51.312756],[3.116062,51.313702],[3.181609,51.33086],[3.174186,51.339454],[3.168718,51.348301],[3.169571,51.352452],[3.172831,51.354553],[3.17336,51.354145],[3.183657,51.360779],[3.186898,51.362163],[3.197264,51.363026],[3.20586,51.362053],[3.219863,51.360386],[3.223952,51.357795],[3.226723,51.351933],[3.226961,51.349804],[3.225358,51.346721],[3.227534,51.340065],[3.254621,51.343426],[3.256105,51.34449],[3.268656,51.347008],[3.279717,51.350212],[3.283996,51.352444],[3.293883,51.35498],[3.346165,51.365654],[3.347718,51.365216],[3.35229,51.365875],[3.365824,51.369847],[3.374952,51.358963],[3.373671,51.354301],[3.37405,51.348594],[3.383543,51.341236],[3.385328,51.334198],[3.358345,51.315021],[3.372106,51.305645],[3.377274,51.302273],[3.370216,51.299869],[3.367611,51.299392],[3.36641,51.298656],[3.366124,51.297813],[3.367775,51.294586],[3.370715,51.291729],[3.372969,51.290543],[3.375359,51.289734],[3.380509,51.287754],[3.38116,51.28574],[3.380951,51.284137],[3.381939,51.281936],[3.379621,51.28025],[3.376299,51.279865],[3.375291,51.278523],[3.375926,51.276863],[3.378945,51.274742],[3.380722,51.274308],[3.387439,51.273437],[3.388549,51.272682],[3.388931,51.271137],[3.3947,51.265301],[3.397154,51.264038],[3.402442,51.262921],[3.40404,51.261821],[3.406434,51.257629],[3.407808,51.256813],[3.410529,51.256729],[3.412529,51.257374],[3.415472,51.259758],[3.416341,51.260063],[3.417134,51.259781],[3.41816,51.25806],[3.421054,51.256626],[3.424587,51.254528],[3.427392,51.244624],[3.432345,51.245521],[3.447816,51.24171],[3.459325,51.241798],[3.47501,51.242676],[3.527973,51.246303],[3.51544,51.287185],[3.529232,51.288727],[3.533579,51.28355],[3.538236,51.283622],[3.54214,51.288097],[3.543572,51.291115],[3.550191,51.291031],[3.551762,51.289985],[3.553996,51.289703],[3.555852,51.290161],[3.559802,51.295444],[3.562633,51.295883],[3.566172,51.294636],[3.566344,51.293922],[3.571972,51.291954],[3.571484,51.291099],[3.5734,51.289467],[3.575763,51.288604],[3.577754,51.288803],[3.579649,51.288837],[3.581899,51.286945],[3.583889,51.288921],[3.582574,51.290699],[3.583357,51.292248],[3.586722,51.292648],[3.587752,51.293102],[3.583489,51.295879],[3.581071,51.298301],[3.590216,51.306057],[3.592003,51.305439],[3.591118,51.304432],[3.618693,51.295906],[3.619303,51.294296],[3.621461,51.292793],[3.625661,51.293411],[3.632511,51.291073],[3.64082,51.288181],[3.643276,51.288818],[3.644498,51.290176],[3.65793,51.290291],[3.676816,51.283012],[3.678031,51.28059],[3.681869,51.281158],[3.68978,51.28072],[3.69349,51.276195],[3.712698,51.272197],[3.718653,51.271465],[3.71937,51.272602],[3.724073,51.27338],[3.751727,51.269253],[3.752374,51.270389],[3.755682,51.269451],[3.762551,51.261848],[3.769629,51.260074],[3.772866,51.261875],[3.774079,51.263691],[3.778374,51.262409],[3.786179,51.258404],[3.79552,51.256046],[3.789468,51.245868],[3.788747,51.227371],[3.789752,51.215816],[3.790789,51.214405],[3.797122,51.212986],[3.799239,51.210941],[3.801166,51.210585],[3.802372,51.210361],[3.804729,51.210106],[3.80356,51.213161],[3.804633,51.213256],[3.806114,51.213386],[3.809914,51.212833],[3.821118,51.209278],[3.827555,51.209511],[3.834556,51.212059],[3.836522,51.213752],[3.842444,51.212051],[3.84569,51.212986],[3.849729,51.211811],[3.852359,51.213409],[3.856373,51.211067],[3.859327,51.210911],[3.873246,51.217441],[3.888664,51.222976],[3.893291,51.218467],[3.89047,51.214367],[3.882716,51.209942],[3.877711,51.207977],[3.884231,51.203644],[3.886286,51.200306],[3.893248,51.203323],[3.894658,51.203541],[3.899916,51.201885],[3.900679,51.202461],[3.911525,51.205246],[3.914327,51.207729],[3.916037,51.208488],[3.917236,51.208503],[3.918518,51.208202],[3.916262,51.21476],[3.918782,51.215118],[3.91996,51.217155],[3.925507,51.217087],[3.929468,51.220257],[3.933315,51.214432],[3.936022,51.21191],[3.943233,51.213577],[3.94308,51.214756],[3.950101,51.215725],[3.953225,51.216591],[3.958865,51.215969],[3.960703,51.218506],[3.961743,51.220352],[3.963652,51.220886],[3.963953,51.223404],[3.964717,51.224014],[3.976801,51.225403],[3.977698,51.225147],[3.978968,51.225364],[3.979644,51.225803],[3.981177,51.228607],[3.985805,51.233803],[3.986591,51.234062],[3.988422,51.233383],[3.991783,51.235889],[3.999804,51.237922],[3.999708,51.238586],[4.000346,51.239475],[4.009265,51.243404],[4.01496,51.245163],[4.015467,51.244544],[4.02101,51.245392],[4.023622,51.243297],[4.024547,51.241607],[4.034801,51.244446],[4.035066,51.245018],[4.036546,51.245704],[4.039869,51.241558],[4.054359,51.242866],[4.061829,51.244663],[4.06405,51.247398],[4.071188,51.250038],[4.070705,51.250808],[4.078461,51.253074],[4.078655,51.253647],[4.165789,51.29274],[4.234532,51.348034],[4.240662,51.352955],[4.235832,51.354645],[4.22703,51.35944],[4.222623,51.363224],[4.216513,51.373768],[4.234923,51.374433],[4.236131,51.374477],[4.240638,51.37464],[4.241931,51.374687],[4.26566,51.375541],[4.268178,51.375631],[4.271141,51.375737],[4.276915,51.375946],[4.279565,51.376041],[4.311551,51.377182],[4.33446,51.377628],[4.341085,51.357559],[4.350364,51.358577],[4.366425,51.357185],[4.379141,51.355018],[4.384007,51.355354],[4.384562,51.354309],[4.394813,51.355819],[4.409967,51.361053],[4.418256,51.363915],[4.421716,51.365261],[4.431244,51.363853],[4.430584,51.366398],[4.428052,51.369331],[4.424868,51.371223],[4.43149,51.374916],[4.391436,51.408096],[4.383449,51.420917],[4.389404,51.42427],[4.390568,51.424263],[4.391357,51.42725],[4.395187,51.426849],[4.394149,51.431205],[4.392401,51.431431],[4.392717,51.432743],[4.3973,51.431534],[4.398979,51.435241],[4.395483,51.435489],[4.395401,51.439777],[4.397167,51.440799],[4.396227,51.442562],[4.392053,51.446251],[4.386806,51.445175],[4.379502,51.446655],[4.379964,51.447712],[4.381579,51.44828],[4.38285,51.45021],[4.384973,51.44928],[4.442393,51.468609],[4.465379,51.471309],[4.471983,51.476441],[4.475641,51.478058],[4.477565,51.478321],[4.484002,51.477661],[4.486725,51.477382],[4.538032,51.48233],[4.548232,51.473202],[4.530144,51.449489],[4.535453,51.423038],[4.574614,51.432827],[4.582231,51.431942],[4.582515,51.431381],[4.586685,51.431423],[4.633914,51.425178],[4.637907,51.422924],[4.641265,51.422008],[4.641709,51.422504],[4.646537,51.423469],[4.649511,51.425812],[4.651829,51.426712],[4.656555,51.424965],[4.664553,51.426174],[4.669603,51.426426],[4.666556,51.444416],[4.686295,51.451244],[4.693158,51.451755],[4.699175,51.460613],[4.703715,51.465252],[4.702765,51.466041],[4.703251,51.466949],[4.716896,51.468834],[4.716017,51.471084],[4.720234,51.473507],[4.729782,51.48426],[4.746359,51.489395],[4.749576,51.494213],[4.749786,51.49559],[4.748869,51.496666],[4.752663,51.499778],[4.755433,51.500282],[4.75811,51.500133],[4.759948,51.502445],[4.772273,51.504844],[4.779521,51.504471],[4.783622,51.499603],[4.78749,51.498737],[4.79308,51.498775],[4.796005,51.499843],[4.804837,51.497673],[4.809949,51.495918],[4.815783,51.49472],[4.817649,51.492244],[4.817618,51.489124],[4.821307,51.482868],[4.839621,51.481498],[4.840431,51.479412],[4.840365,51.472912],[4.836986,51.468242],[4.836513,51.462524],[4.843972,51.459114],[4.839441,51.455944],[4.834921,51.45842],[4.828902,51.450851],[4.823472,51.448791],[4.826436,51.430343],[4.828443,51.424061],[4.840928,51.422275],[4.836578,51.417686],[4.821326,51.422828],[4.815613,51.425422],[4.808543,51.426464],[4.805278,51.428497],[4.804062,51.427978],[4.800055,51.429069],[4.79584,51.428425],[4.79178,51.429313],[4.789443,51.429825],[4.787075,51.432464],[4.773868,51.431671],[4.767199,51.430336],[4.768394,51.429359],[4.770446,51.423252],[4.768995,51.421341],[4.768594,51.419311],[4.773039,51.413494],[4.775242,51.413967],[4.777916,51.41354],[4.780291,51.411857],[4.789253,51.408893],[4.796631,51.410423],[4.839799,51.414684],[4.846069,51.412964],[4.850762,51.415451],[4.852125,51.415508],[4.857211,51.4142],[4.860355,51.414253],[4.860862,51.413788],[4.859609,51.411411],[4.860088,51.410766],[4.865969,51.409992],[4.867375,51.409061],[4.868366,51.409649],[4.86786,51.410579],[4.866931,51.410632],[4.866305,51.411075],[4.868165,51.412567],[4.873483,51.414081],[4.873641,51.414814],[4.881278,51.415657],[4.88358,51.416443],[4.88682,51.415245],[4.889084,51.41563],[4.890886,51.415226],[4.893669,51.413574],[4.906181,51.409221],[4.909679,51.407005],[4.908844,51.405197],[4.909278,51.403671],[4.910616,51.402252],[4.914851,51.401272],[4.917091,51.399677],[4.917979,51.398319],[4.918051,51.39685],[4.91533,51.395294],[4.913914,51.39505],[4.920901,51.393585],[4.928202,51.395382],[4.962965,51.422146],[4.999386,51.44144],[5.00093,51.442779],[5.004644,51.444114],[5.005436,51.450798],[5.006306,51.451553],[5.007729,51.451641],[5.009503,51.452797],[5.010503,51.453991],[5.010956,51.455982],[5.010302,51.457683],[5.008866,51.462272],[5.007728,51.462475],[5.007428,51.46524],[5.010837,51.472252],[5.016503,51.475559],[5.02192,51.48146],[5.032502,51.485924],[5.03385,51.487358],[5.038771,51.487186],[5.040257,51.48653],[5.039203,51.479835],[5.038023,51.479072],[5.043283,51.475143],[5.043505,51.474758],[5.04571,51.471157],[5.064743,51.47113],[5.074052,51.471119],[5.07808,51.471496],[5.079369,51.471134],[5.104871,51.431389],[5.093395,51.420234],[5.07118,51.393451],[5.11692,51.360943],[5.11952,51.355652],[5.124581,51.351303],[5.131696,51.34713],[5.134479,51.315487],[5.162808,51.310356],[5.172887,51.315765],[5.190479,51.32011],[5.196531,51.320335],[5.200254,51.322624],[5.230017,51.310154],[5.242045,51.305111],[5.225989,51.268299],[5.237615,51.261532],[5.263041,51.266887],[5.295951,51.261577],[5.313143,51.263546],[5.33689,51.263237],[5.342712,51.265884],[5.343817,51.269748],[5.345901,51.272289],[5.346033,51.273357],[5.345497,51.273872],[5.346117,51.275799],[5.384142,51.269069],[5.417337,51.262256],[5.433836,51.276386],[5.438333,51.276061],[5.440501,51.278538],[5.441782,51.282127],[5.464936,51.284641],[5.470321,51.288376],[5.476936,51.291523],[5.477038,51.293709],[5.479431,51.296802],[5.483295,51.298698],[5.483093,51.300228],[5.515723,51.295162],[5.519109,51.289474],[5.528464,51.281975],[5.54382,51.271728],[5.544411,51.271251],[5.556264,51.266544],[5.556846,51.262752],[5.557911,51.262703],[5.557794,51.260261],[5.556639,51.257534],[5.555386,51.254738],[5.556514,51.253261],[5.556718,51.250232],[5.554941,51.244678],[5.560286,51.222892],[5.56044,51.22232],[5.565522,51.221005],[5.566214,51.220825],[5.645418,51.200298],[5.652872,51.197654],[5.654081,51.194275],[5.649915,51.193653],[5.658122,51.184734],[5.664687,51.186455],[5.67059,51.185817],[5.676022,51.184613],[5.67666,51.183033],[5.689478,51.185322],[5.694872,51.182831],[5.696503,51.184097],[5.701283,51.184044],[5.70147,51.182613],[5.707832,51.18211],[5.709384,51.18066],[5.714479,51.183609],[5.719975,51.184693],[5.739845,51.186607],[5.745852,51.189544],[5.757095,51.184688],[5.767322,51.183998],[5.776947,51.178444],[5.773378,51.173332],[5.779477,51.1721],[5.769621,51.169513],[5.77038,51.164497],[5.77901,51.163822],[5.779335,51.159523],[5.775368,51.156276],[5.778184,51.151523],[5.785287,51.153152],[5.787624,51.155128],[5.792689,51.157074],[5.799082,51.157711],[5.802325,51.15953],[5.805383,51.162788],[5.813915,51.158962],[5.815738,51.15908],[5.815814,51.161514],[5.824653,51.16756],[5.833567,51.161438],[5.833267,51.159152],[5.838892,51.157078],[5.836732,51.153526],[5.83981,51.15208],[5.8538,51.145508],[5.854871,51.145004],[5.855691,51.144619],[5.852652,51.143055],[5.846783,51.141239],[5.844803,51.139362],[5.843276,51.134636],[5.842746,51.132995],[5.840882,51.13105],[5.84011,51.130714],[5.831683,51.130581],[5.827394,51.129989],[5.824036,51.128719],[5.816141,51.122291],[5.813887,51.120968],[5.81002,51.118221],[5.807764,51.113907],[5.808035,51.112457],[5.80887,51.11084],[5.810427,51.109409],[5.812509,51.108497],[5.81486,51.107944],[5.818065,51.107967],[5.819073,51.107982],[5.820228,51.107963],[5.823499,51.107906],[5.827365,51.107086],[5.829204,51.106189],[5.831867,51.104377],[5.832646,51.10202],[5.832122,51.098938],[5.829297,51.095512],[5.825763,51.093307],[5.823449,51.092632],[5.820896,51.092796],[5.818935,51.093189],[5.812029,51.095725],[5.809747,51.096058],[5.807309,51.095936],[5.804776,51.095645],[5.803429,51.095161],[5.799077,51.092357],[5.797641,51.090664],[5.797653,51.089356],[5.803654,51.079948],[5.803929,51.078468],[5.803136,51.076935],[5.801831,51.076076],[5.799211,51.074798],[5.796693,51.072483],[5.796573,51.071483],[5.799927,51.065429],[5.80095,51.063583],[5.800766,51.062202],[5.799119,51.060173],[5.794898,51.058838],[5.791075,51.058811],[5.788241,51.059494],[5.783327,51.061649],[5.778146,51.062988],[5.774864,51.062919],[5.773737,51.062519],[5.772567,51.061554],[5.772094,51.052909],[5.769481,51.047565],[5.758538,51.034523],[5.758234,51.033401],[5.758971,51.031345],[5.759738,51.030723],[5.771768,51.027775],[5.773808,51.026825],[5.776415,51.023461],[5.776279,51.021759],[5.76714,51.012169],[5.766296,51.009228],[5.767386,51.000435],[5.767049,50.999114],[5.764772,50.996364],[5.755401,50.990219],[5.748678,50.982025],[5.747346,50.981331],[5.737821,50.97895],[5.736361,50.977737],[5.735284,50.975006],[5.732932,50.971996],[5.721768,50.9636],[5.720289,50.961189],[5.721741,50.95776],[5.723531,50.956642],[5.729327,50.955208],[5.731565,50.955341],[5.736331,50.956249],[5.74376,50.96101],[5.744877,50.96122],[5.748992,50.960811],[5.754262,50.958492],[5.758311,50.954803],[5.758857,50.953125],[5.758246,50.951217],[5.757472,50.950519],[5.753028,50.949428],[5.74788,50.947654],[5.746515,50.946773],[5.741357,50.936111],[5.730651,50.927788],[5.727198,50.92353],[5.726226,50.920871],[5.726695,50.914978],[5.726253,50.913463],[5.723963,50.910488],[5.721652,50.908806],[5.719059,50.908142],[5.71619,50.908275],[5.708903,50.911495],[5.705767,50.911773],[5.699271,50.910408],[5.698074,50.909755],[5.696339,50.907242],[5.696783,50.903316],[5.695699,50.898224],[5.693281,50.89468],[5.682933,50.888618],[5.680978,50.886825],[5.679167,50.882469],[5.678435,50.88071],[5.674147,50.880893],[5.670535,50.881809],[5.661367,50.878144],[5.66106,50.877361],[5.65857,50.876201],[5.656319,50.876507],[5.65327,50.874077],[5.651308,50.875114],[5.64867,50.873256],[5.647716,50.873646],[5.644074,50.871391],[5.649432,50.868339],[5.641433,50.864189],[5.643855,50.862888],[5.642096,50.861377],[5.643365,50.860447],[5.641622,50.857536],[5.64335,50.856796],[5.640228,50.853801],[5.641546,50.852627],[5.642557,50.85009],[5.640183,50.849487],[5.638887,50.847747],[5.63914,50.846145],[5.642071,50.843109],[5.641779,50.840786],[5.645335,50.839397],[5.643549,50.837921],[5.649884,50.833896],[5.651296,50.832023],[5.648741,50.826843],[5.651755,50.827484],[5.656165,50.824272],[5.656419,50.823161],[5.654338,50.821308],[5.654077,50.820015],[5.658859,50.818477],[5.662915,50.818317],[5.668156,50.816452],[5.667968,50.817795],[5.669446,50.817867],[5.672495,50.816738],[5.673227,50.816055],[5.678247,50.816429],[5.680302,50.812263],[5.681692,50.812248],[5.682853,50.813125],[5.683697,50.813373],[5.68587,50.812404],[5.687715,50.812092],[5.689768,50.811741],[5.690876,50.812252],[5.69318,50.812],[5.693214,50.811191],[5.693706,50.810791],[5.697736,50.807506],[5.698933,50.805687],[5.69838,50.803676],[5.691379,50.797363],[5.69119,50.79573],[5.694749,50.792103],[5.695915,50.789203],[5.699911,50.78556],[5.701144,50.783561],[5.70113,50.782051],[5.695649,50.772213],[5.685098,50.763584],[5.682406,50.760082],[5.682036,50.75745],[5.687936,50.757545],[5.687892,50.755981],[5.694603,50.754711],[5.699027,50.755298],[5.702546,50.758468],[5.715519,50.760047],[5.720058,50.764095],[5.730073,50.758224],[5.738884,50.758003],[5.740251,50.761856],[5.740799,50.763637],[5.765845,50.782116],[5.776425,50.783066],[5.784806,50.767429],[5.793393,50.77013],[5.807919,50.755924],[5.816792,50.756897],[5.822982,50.758976],[5.830789,50.758445],[5.844957,50.765388],[5.848962,50.753509],[5.859634,50.761764],[5.870526,50.765014],[5.87625,50.76506],[5.886839,50.769863],[5.890275,50.761635],[5.889291,50.757496],[5.889386,50.756935],[5.892114,50.755245],[5.895161,50.754539],[5.897937,50.752689],[5.900845,50.751499],[5.901778,50.751415],[5.904493,50.754699],[5.909283,50.755497],[5.915057,50.755207],[5.915589,50.750667],[5.92207,50.751228],[5.931737,50.75679],[5.936146,50.756805],[5.939061,50.757988],[5.942035,50.758274],[5.944168,50.75848],[5.946522,50.75988],[5.952393,50.76041],[5.956437,50.761574],[5.959456,50.762333],[5.973205,50.759556],[5.974933,50.757969],[5.974912,50.755001],[5.976692,50.754497],[5.978961,50.754646],[5.983066,50.752914],[5.984772,50.75336],[5.991041,50.752929],[5.996433,50.753643],[5.998759,50.753067],[6.002936,50.754047],[6.004347,50.753868],[6.013377,50.75515],[6.017202,50.755069],[6.021068,50.754318],[6.021252,50.754238],[6.021516,50.753369],[6.039893,50.745426],[6.040582,50.738044],[6.034533,50.733467],[6.033633,50.728069],[6.034204,50.726433],[6.0364,50.72015],[6.039161,50.718456],[6.041916,50.718456],[6.043946,50.718487],[6.047209,50.726719],[6.073225,50.720978],[6.090715,50.721531],[6.098349,50.723099],[6.111847,50.722957],[6.118119,50.719982],[6.120084,50.717945],[6.12304,50.713024],[6.123729,50.711758],[6.12396,50.710315],[6.123652,50.708912],[6.122463,50.706901],[6.14135,50.690353],[6.143253,50.68872],[6.143888,50.681919],[6.148832,50.677818],[6.156776,50.674923],[6.156796,50.67456],[6.157068,50.673671],[6.157719,50.673081],[6.160979,50.671688],[6.161624,50.671379],[6.162135,50.6707],[6.165295,50.662903],[6.165632,50.662285],[6.166839,50.661312],[6.170905,50.65783],[6.172615,50.656547],[6.175113,50.655339],[6.181563,50.653],[6.180397,50.650211],[6.180394,50.649121],[6.18075,50.648159],[6.183351,50.64534],[6.178177,50.644352],[6.176591,50.644509],[6.172094,50.644749],[6.17037,50.644669],[6.166595,50.643852],[6.182769,50.632473],[6.176458,50.626468],[6.182191,50.623691],[6.189061,50.627514],[6.187712,50.630078],[6.195222,50.633335],[6.198702,50.631649],[6.199581,50.631466],[6.201144,50.631325],[6.206026,50.631153],[6.210798,50.631016],[6.215038,50.630893],[6.23374,50.624531],[6.255795,50.625648],[6.25749,50.625912],[6.263617,50.628029],[6.265938,50.627628],[6.268338,50.626156],[6.269727,50.625302],[6.270275,50.624885],[6.270377,50.620853],[6.269866,50.619049],[6.268552,50.617424],[6.265685,50.614315],[6.260998,50.609837],[6.259868,50.608997],[6.258756,50.608376],[6.256317,50.607273],[6.252535,50.605706],[6.250778,50.60492],[6.248188,50.603531],[6.247522,50.603153],[6.246764,50.602577],[6.246227,50.601967],[6.246087,50.601558],[6.246098,50.60117],[6.248364,50.596939],[6.248461,50.596543],[6.248493,50.59618],[6.248402,50.595837],[6.248193,50.595406],[6.246241,50.592587],[6.244911,50.590671],[6.242875,50.587112],[6.241945,50.587326],[6.24021,50.587711],[6.225929,50.590725],[6.221008,50.583428],[6.219782,50.582077],[6.217931,50.580616],[6.216233,50.579613],[6.214061,50.578579],[6.206357,50.576111],[6.204156,50.570637],[6.203369,50.569802],[6.201942,50.569233],[6.192288,50.565582],[6.175043,50.558071],[6.178198,50.553948],[6.178783,50.5416],[6.18522,50.541557],[6.1949,50.536297],[6.196934,50.53587],[6.198672,50.535503],[6.199261,50.534557],[6.198443,50.533577],[6.198218,50.533165],[6.198055,50.532329],[6.198098,50.531383],[6.198169,50.531163],[6.197181,50.531097],[6.195345,50.530983],[6.191934,50.530766],[6.187695,50.52708],[6.192643,50.521236],[6.205457,50.521236],[6.20728,50.521103],[6.207937,50.518345],[6.208516,50.517575],[6.209105,50.517121],[6.211137,50.516071],[6.211888,50.515335],[6.213088,50.513302],[6.215461,50.508953],[6.216852,50.507134],[6.221137,50.502918],[6.221917,50.501858],[6.22191,50.500961],[6.220097,50.498699],[6.226629,50.494824],[6.229772,50.497193],[6.231192,50.497631],[6.237928,50.498822],[6.240288,50.499317],[6.242743,50.500095],[6.251406,50.504074],[6.252973,50.50338],[6.253566,50.502804],[6.254016,50.50198],[6.254349,50.499867],[6.254616,50.499069],[6.261556,50.498871],[6.268619,50.503879],[6.280754,50.50269],[6.28439,50.498818],[6.297612,50.497101],[6.308827,50.500782],[6.31542,50.496982],[6.317251,50.496231],[6.322045,50.494617],[6.323924,50.494225],[6.329044,50.493439],[6.330922,50.493047],[6.332833,50.492298],[6.33461,50.491104],[6.33621,50.489567],[6.341453,50.489624],[6.347443,50.489441],[6.349196,50.489258],[6.349726,50.48912],[6.350671,50.488495],[6.341507,50.483826],[6.340917,50.482994],[6.340778,50.479957],[6.340817,50.478951],[6.340437,50.478058],[6.339046,50.476478],[6.338367,50.475509],[6.338197,50.47456],[6.338484,50.473625],[6.33914,50.47313],[6.340454,50.472687],[6.341353,50.472328],[6.34249,50.471588],[6.343133,50.470669],[6.343315,50.469765],[6.342974,50.469002],[6.340404,50.465782],[6.339674,50.464813],[6.339478,50.463569],[6.339751,50.462799],[6.34027,50.462284],[6.348274,50.457939],[6.358868,50.455337],[6.361199,50.454853],[6.362859,50.454674],[6.364618,50.454654],[6.371392,50.456146],[6.373203,50.453265],[6.374129,50.451496],[6.374829,50.449386],[6.376012,50.443214],[6.376629,50.436196],[6.376305,50.434929],[6.366377,50.421047],[6.365739,50.419792],[6.365888,50.418106],[6.368295,50.413143],[6.368883,50.411656],[6.369095,50.410972],[6.369001,50.410351],[6.364985,50.40279],[6.363656,50.401119],[6.362064,50.400002],[6.359393,50.398037],[6.357884,50.396797],[6.356854,50.395653],[6.356165,50.394531],[6.355844,50.393276],[6.355819,50.39096],[6.355563,50.390487],[6.354851,50.390019],[6.348137,50.386635],[6.346517,50.385636],[6.344965,50.384442],[6.343896,50.383255],[6.340736,50.379017],[6.357914,50.370357],[6.369691,50.359627],[6.371084,50.358501],[6.371931,50.357891],[6.372902,50.357288],[6.380477,50.353218],[6.384659,50.350991],[6.395693,50.344612],[6.397671,50.34309],[6.398143,50.342334],[6.398313,50.34172],[6.398681,50.338394],[6.39974,50.336879],[6.400932,50.336144],[6.406391,50.335045],[6.406329,50.334423],[6.403885,50.323273],[6.38259,50.321434],[6.376152,50.313889],[6.375544,50.313293],[6.374464,50.31276],[6.371093,50.312241],[6.369531,50.312332],[6.363161,50.314312],[6.355775,50.307945],[6.354495,50.308769],[6.353148,50.309494],[6.351935,50.310417],[6.350458,50.311763],[6.34924,50.312737],[6.347961,50.313556],[6.346317,50.314224],[6.344421,50.314686],[6.34107,50.315251],[6.33892,50.317295],[6.333214,50.323181],[6.327453,50.324047],[6.306209,50.319271],[6.308455,50.312626],[6.308645,50.311455],[6.308153,50.310204],[6.307065,50.309654],[6.297369,50.309136],[6.296596,50.304913],[6.296511,50.303287],[6.296063,50.301872],[6.291936,50.295532],[6.2866,50.293922],[6.285513,50.285641],[6.285526,50.284539],[6.286147,50.283352],[6.286995,50.282505],[6.2914,50.27956],[6.292926,50.278881],[6.291155,50.277179],[6.289296,50.27554],[6.288095,50.274582],[6.286089,50.273041],[6.284248,50.271622],[6.28229,50.270092],[6.280872,50.268971],[6.278198,50.266388],[6.259225,50.267205],[6.237003,50.261917],[6.215036,50.255604],[6.208876,50.253513],[6.207067,50.251468],[6.206338,50.250511],[6.200261,50.239582],[6.199506,50.238682],[6.198118,50.237801],[6.196391,50.237011],[6.196408,50.236961],[6.193659,50.236507],[6.19307,50.236447],[6.192083,50.236423],[6.191077,50.236462],[6.185671,50.236885],[6.184852,50.236855],[6.183347,50.236717],[6.181977,50.236527],[6.180196,50.236187],[6.179715,50.236088],[6.177981,50.235584],[6.176924,50.23515],[6.17615,50.234635],[6.175075,50.233558],[6.174536,50.232575],[6.174426,50.231877],[6.174652,50.231323],[6.175018,50.230755],[6.177091,50.229107],[6.177535,50.228492],[6.177694,50.227875],[6.177683,50.227036],[6.177364,50.226326],[6.176688,50.22578],[6.17575,50.225258],[6.174519,50.224964],[6.1731,50.224823],[6.170169,50.224777],[6.169174,50.224583],[6.168401,50.224239],[6.167824,50.223683],[6.167612,50.222954],[6.167338,50.220234],[6.167463,50.219631],[6.167784,50.219173],[6.16946,50.218743],[6.172077,50.218579],[6.173959,50.218208],[6.175095,50.21777],[6.176176,50.217193],[6.177046,50.216488],[6.178239,50.21471],[6.182617,50.208751],[6.183546,50.207459],[6.184427,50.206688],[6.186367,50.205628],[6.188207,50.204846],[6.185463,50.194573],[6.185446,50.193149],[6.185703,50.191925],[6.186458,50.19056],[6.19203,50.181572],[6.186761,50.178833],[6.184921,50.178268],[6.183053,50.178016],[6.18137,50.178043],[6.169433,50.179329],[6.162505,50.178104],[6.160255,50.172298],[6.156238,50.172397],[6.152863,50.176514],[6.151828,50.177105],[6.150305,50.177677],[6.147338,50.178437],[6.146018,50.176689],[6.145438,50.175724],[6.145189,50.174759],[6.14521,50.173798],[6.145548,50.172703],[6.146131,50.171894],[6.147246,50.170849],[6.147286,50.170044],[6.146875,50.169724],[6.14605,50.169471],[6.144936,50.169411],[6.142677,50.169258],[6.141782,50.169029],[6.141206,50.168656],[6.14092,50.16808],[6.141032,50.167232],[6.141516,50.166401],[6.142915,50.165215],[6.146127,50.163112],[6.146712,50.162579],[6.147287,50.161774],[6.147606,50.161217],[6.147782,50.160274],[6.146994,50.158634],[6.146193,50.157627],[6.145551,50.157043],[6.14425,50.156082],[6.14308,50.155537],[6.141752,50.155224],[6.140203,50.155098],[6.135268,50.155094],[6.134125,50.154987],[6.133531,50.154812],[6.133241,50.154518],[6.133089,50.154099],[6.13373,50.153031],[6.134449,50.152584],[6.135307,50.152111],[6.138746,50.150872],[6.13997,50.150436],[6.140825,50.149894],[6.141241,50.149365],[6.141096,50.147267],[6.142757,50.147164],[6.149266,50.151729],[6.153063,50.150028],[6.154442,50.141896],[6.150396,50.137199],[6.148587,50.136318],[6.146827,50.135666],[6.138166,50.133892],[6.138213,50.13068],[6.138244,50.130074],[6.138252,50.129905],[6.137781,50.12994],[6.137087,50.129902],[6.131285,50.129974],[6.129058,50.131679],[6.126414,50.133827],[6.120685,50.136303],[6.11443,50.136238],[6.113166,50.136139],[6.112317,50.13612],[6.112185,50.137607],[6.115288,50.144619],[6.117098,50.144832],[6.117292,50.146869],[6.12171,50.149112],[6.124626,50.149669],[6.125871,50.1502],[6.125293,50.150589],[6.123004,50.150776],[6.122118,50.151153],[6.120702,50.151935],[6.119293,50.153522],[6.117666,50.154629],[6.116018,50.155246],[6.114903,50.155205],[6.115054,50.156215],[6.12016,50.16201],[6.119279,50.163479],[6.102445,50.170631],[6.099716,50.170639],[6.097,50.169578],[6.092674,50.169525],[6.086907,50.171558],[6.084011,50.171982],[6.079334,50.170688],[6.079196,50.168628],[6.080353,50.163899],[6.080438,50.161381],[6.079104,50.159824],[6.078542,50.157329],[6.078714,50.156505],[6.073961,50.15744],[6.071945,50.157379],[6.06863,50.1553],[6.06581,50.154087],[6.063478,50.153541],[6.057005,50.154335],[6.055599,50.155098],[6.046664,50.157509],[6.035282,50.161824],[6.030489,50.164188],[6.029897,50.165016],[6.029466,50.172191],[6.026985,50.17707],[6.024899,50.182781],[6.018042,50.181289],[6.017213,50.180488],[6.013395,50.178989],[6.009688,50.178264],[6.005229,50.176693],[6.00112,50.175919],[5.971142,50.174999],[5.969434,50.173263],[5.968329,50.172775],[5.965992,50.172981],[5.964147,50.172333],[5.964646,50.170761],[5.964225,50.164375],[5.961831,50.160919],[5.96363,50.161068],[5.964173,50.158626],[5.967507,50.154979],[5.964896,50.153305],[5.962967,50.153282],[5.958122,50.151413],[5.958883,50.150696],[5.961273,50.149925],[5.960222,50.147671],[5.961366,50.142563],[5.958568,50.138901],[5.961301,50.131386],[5.959704,50.130871],[5.953736,50.130798],[5.95416,50.130199],[5.950684,50.129207],[5.942715,50.128849],[5.936269,50.127044],[5.930785,50.126453],[5.921084,50.122947],[5.917261,50.121567],[5.914367,50.121864],[5.911152,50.120712],[5.91049,50.119751],[5.90088,50.116092],[5.895269,50.112217],[5.895349,50.105446],[5.894403,50.103328],[5.894664,50.101078],[5.892083,50.099376],[5.886296,50.09069],[5.887496,50.080135],[5.886885,50.078789],[5.882404,50.076191],[5.882098,50.076923],[5.875082,50.075191],[5.867814,50.073398],[5.867691,50.071995],[5.865167,50.070377],[5.860674,50.069141],[5.857117,50.064769],[5.856535,50.063011],[5.856647,50.061634],[5.85433,50.058933],[5.856494,50.057869],[5.857736,50.055134],[5.860402,50.054424],[5.861458,50.054783],[5.867634,50.050003],[5.869999,50.045936],[5.867511,50.045318],[5.868659,50.043926],[5.862362,50.041176],[5.862813,50.039798],[5.861021,50.038604],[5.85647,50.036209],[5.856762,50.035629],[5.858002,50.034252],[5.857851,50.033455],[5.858708,50.031357],[5.859922,50.029567],[5.860032,50.029007],[5.853384,50.027725],[5.853827,50.026649],[5.851576,50.02618],[5.85257,50.022838],[5.850415,50.022342],[5.843046,50.019516],[5.840976,50.018467],[5.840469,50.018944],[5.838902,50.018963],[5.832619,50.01802],[5.832981,50.017223],[5.829257,50.015938],[5.830197,50.014782],[5.828154,50.01477],[5.825956,50.014854],[5.824203,50.0149],[5.822366,50.014396],[5.819053,50.012859],[5.819421,50.011226],[5.820006,50.009277],[5.822314,50.005936],[5.821663,50.005432],[5.820513,50.005169],[5.820948,50.003437],[5.821813,50.002769],[5.821693,50.001659],[5.820748,50.000839],[5.824064,49.997005],[5.827889,49.995388],[5.832554,49.990463],[5.83721,49.990715],[5.840236,49.989376],[5.839915,49.989021],[5.839127,49.988159],[5.838762,49.986419],[5.838932,49.985935],[5.839588,49.984054],[5.837455,49.980873],[5.830447,49.975841],[5.827854,49.976059],[5.823264,49.974956],[5.820616,49.973617],[5.819979,49.972301],[5.813085,49.972488],[5.810678,49.970962],[5.811197,49.970085],[5.80975,49.967494],[5.811055,49.965759],[5.810717,49.964214],[5.807261,49.962375],[5.803133,49.963402],[5.800524,49.962852],[5.795874,49.965763],[5.791191,49.963917],[5.791438,49.96183],[5.785042,49.960895],[5.783299,49.962066],[5.780479,49.962734],[5.775042,49.960758],[5.777253,49.957771],[5.773774,49.956547],[5.775068,49.953003],[5.774783,49.952469],[5.771609,49.951076],[5.770832,49.949707],[5.77142,49.946239],[5.772952,49.946544],[5.773324,49.944782],[5.771799,49.944473],[5.774151,49.941459],[5.775312,49.937729],[5.77311,49.937713],[5.77269,49.936558],[5.770585,49.936672],[5.769772,49.933193],[5.771129,49.931743],[5.763592,49.931057],[5.763898,49.930588],[5.763638,49.928829],[5.763903,49.92839],[5.764016,49.927997],[5.763751,49.927479],[5.762157,49.923427],[5.761945,49.922348],[5.762012,49.920887],[5.761789,49.91988],[5.761305,49.918552],[5.761222,49.917637],[5.762432,49.91613],[5.763352,49.91542],[5.748188,49.909473],[5.746557,49.908329],[5.746115,49.907757],[5.746646,49.906369],[5.73976,49.904079],[5.740497,49.90327],[5.740611,49.902385],[5.738152,49.90128],[5.736143,49.899036],[5.736867,49.898235],[5.735759,49.89698],[5.739836,49.895271],[5.743619,49.895031],[5.74637,49.894207],[5.747101,49.893184],[5.750039,49.891624],[5.755064,49.891341],[5.756927,49.889663],[5.760688,49.889343],[5.766203,49.888233],[5.768503,49.887058],[5.770518,49.887081],[5.771908,49.88517],[5.772372,49.885059],[5.774932,49.884456],[5.778761,49.88388],[5.779077,49.881962],[5.780101,49.880589],[5.783166,49.879097],[5.783688,49.877758],[5.782789,49.875774],[5.782704,49.875858],[5.781393,49.876755],[5.78011,49.877121],[5.778715,49.876945],[5.77831,49.876404],[5.778307,49.8759],[5.778589,49.875072],[5.779199,49.874531],[5.783461,49.873188],[5.783825,49.87286],[5.78363,49.872383],[5.782796,49.871895],[5.781584,49.871876],[5.778629,49.87212],[5.777408,49.871822],[5.776323,49.870815],[5.775872,49.870182],[5.77549,49.869003],[5.775308,49.868019],[5.774953,49.867295],[5.774282,49.867241],[5.773622,49.867485],[5.773255,49.868679],[5.771696,49.871071],[5.770333,49.872082],[5.76965,49.872417],[5.76919,49.872425],[5.768184,49.870846],[5.767298,49.870037],[5.765755,49.869613],[5.763987,49.869556],[5.762255,49.869819],[5.761299,49.870479],[5.760423,49.871437],[5.75929,49.872169],[5.758562,49.872528],[5.757812,49.873001],[5.756438,49.873119],[5.755128,49.872596],[5.753682,49.871162],[5.753484,49.870067],[5.752965,49.869507],[5.752825,49.86898],[5.753152,49.868221],[5.753515,49.867824],[5.754702,49.867527],[5.755881,49.866882],[5.756822,49.865215],[5.756621,49.864536],[5.754777,49.86235],[5.754989,49.861018],[5.755575,49.860595],[5.756614,49.860027],[5.756854,49.85915],[5.75735,49.858547],[5.757983,49.858326],[5.759468,49.857654],[5.760392,49.856971],[5.760459,49.856308],[5.759918,49.855953],[5.758594,49.855865],[5.757359,49.855915],[5.755934,49.856239],[5.754726,49.856242],[5.753505,49.855923],[5.751842,49.855133],[5.750778,49.8544],[5.749702,49.854259],[5.748647,49.854282],[5.747429,49.854076],[5.746319,49.853595],[5.746268,49.852798],[5.746418,49.852267],[5.746936,49.85189],[5.747829,49.85194],[5.748925,49.851391],[5.750753,49.851585],[5.7522,49.851623],[5.753903,49.851818],[5.755065,49.851612],[5.758099,49.849308],[5.758451,49.848476],[5.758164,49.846283],[5.75751,49.845749],[5.755669,49.8451],[5.75393,49.845066],[5.753019,49.845336],[5.751683,49.846737],[5.750984,49.847069],[5.750273,49.847061],[5.749058,49.846813],[5.748652,49.846248],[5.748438,49.845611],[5.748353,49.844604],[5.748499,49.843391],[5.748838,49.842079],[5.74906,49.841572],[5.749989,49.841049],[5.750375,49.840378],[5.750042,49.839443],[5.749204,49.83889],[5.747345,49.838516],[5.746077,49.838447],[5.743988,49.839248],[5.741925,49.839149],[5.740979,49.838619],[5.740234,49.837787],[5.739922,49.837154],[5.740018,49.83612],[5.739944,49.835483],[5.740182,49.834564],[5.740149,49.833854],[5.739936,49.833633],[5.744023,49.831653],[5.746408,49.827308],[5.748604,49.824348],[5.748335,49.823353],[5.743493,49.820953],[5.747104,49.815197],[5.751086,49.814774],[5.750898,49.812149],[5.749979,49.811947],[5.750062,49.80899],[5.751107,49.805897],[5.752859,49.79747],[5.75359,49.796749],[5.753093,49.796123],[5.753265,49.793464],[5.755378,49.791435],[5.762664,49.793197],[5.764391,49.793163],[5.766149,49.793339],[5.769364,49.794212],[5.772716,49.793255],[5.774013,49.794182],[5.77581,49.794677],[5.777126,49.794548],[5.781369,49.792164],[5.78185,49.792892],[5.782471,49.793812],[5.784168,49.795505],[5.78491,49.795967],[5.786028,49.796303],[5.786709,49.796505],[5.788747,49.796558],[5.790272,49.795608],[5.793447,49.790546],[5.791781,49.788223],[5.792132,49.786773],[5.798425,49.782085],[5.799144,49.779186],[5.799578,49.778045],[5.803841,49.776421],[5.807643,49.771717],[5.808334,49.768478],[5.809504,49.765342],[5.81123,49.765274],[5.815873,49.762222],[5.81791,49.754032],[5.82046,49.753616],[5.820512,49.751346],[5.82393,49.749328],[5.828507,49.750229],[5.830441,49.74947],[5.832262,49.746841],[5.830401,49.743469],[5.832167,49.74123],[5.82699,49.738991],[5.828183,49.733497],[5.827177,49.732612],[5.825485,49.732113],[5.827186,49.728954],[5.82684,49.727009],[5.824544,49.72615],[5.826179,49.72361],[5.831826,49.72454],[5.835287,49.724502],[5.837463,49.724098],[5.837998,49.722873],[5.840969,49.721462],[5.844506,49.721336],[5.851562,49.72435],[5.855537,49.724972],[5.860018,49.727173],[5.861726,49.726173],[5.865395,49.726749],[5.866969,49.726124],[5.870304,49.723469],[5.870856,49.72171],[5.875228,49.721969],[5.875233,49.720695],[5.876681,49.718163],[5.874168,49.717426],[5.874829,49.716095],[5.881539,49.713119],[5.886321,49.709385],[5.881682,49.705391],[5.87812,49.701423],[5.874404,49.699154],[5.871977,49.698547],[5.868326,49.694691],[5.866698,49.694504],[5.865789,49.693012],[5.86679,49.692436],[5.86687,49.691757],[5.863524,49.688442],[5.864357,49.688236],[5.864636,49.687164],[5.862507,49.683902],[5.862857,49.682945],[5.862229,49.680389],[5.865477,49.675983],[5.867854,49.675194],[5.870252,49.67538],[5.873853,49.673195],[5.877507,49.673485],[5.88251,49.67176],[5.882413,49.670883],[5.882728,49.670189],[5.88326,49.67036],[5.883586,49.670555],[5.88413,49.670681],[5.884727,49.670711],[5.885156,49.670315],[5.885076,49.669975],[5.884886,49.669658],[5.88482,49.669319],[5.885061,49.669037],[5.885445,49.668892],[5.886103,49.668281],[5.886485,49.668022],[5.886941,49.668033],[5.887271,49.668369],[5.887025,49.668922],[5.887011,49.669334],[5.887818,49.669864],[5.888394,49.670128],[5.888649,49.670303],[5.889262,49.670402],[5.890221,49.670109],[5.890419,49.669761],[5.890506,49.669483],[5.890869,49.669086],[5.890717,49.668701],[5.890668,49.668476],[5.890965,49.668171],[5.89178,49.668129],[5.892053,49.667988],[5.892168,49.667732],[5.892086,49.667278],[5.892101,49.666912],[5.892214,49.666542],[5.892486,49.666378],[5.893192,49.66629],[5.893725,49.666507],[5.893773,49.666759],[5.893845,49.667282],[5.894273,49.668117],[5.894573,49.668361],[5.894854,49.668491],[5.895398,49.668594],[5.895785,49.668609],[5.896225,49.668461],[5.896604,49.668247],[5.896944,49.667965],[5.897157,49.667274],[5.897589,49.666969],[5.898151,49.666725],[5.898518,49.666488],[5.898989,49.666111],[5.899651,49.666004],[5.900378,49.666218],[5.900665,49.666485],[5.900715,49.666759],[5.90107,49.667503],[5.901713,49.668083],[5.902102,49.668144],[5.902375,49.667976],[5.902528,49.66756],[5.902869,49.667438],[5.903208,49.667225],[5.902884,49.66698],[5.902337,49.66679],[5.901644,49.666347],[5.901273,49.666038],[5.901419,49.665416],[5.901365,49.665004],[5.901272,49.664711],[5.90158,49.664364],[5.901919,49.664127],[5.902835,49.66415],[5.903294,49.664253],[5.90355,49.664455],[5.903963,49.66481],[5.904463,49.664848],[5.905254,49.665233],[5.908046,49.665721],[5.909621,49.664547],[5.910688,49.662388],[5.910332,49.662334],[5.908307,49.662021],[5.904917,49.661056],[5.902941,49.657577],[5.905284,49.654895],[5.903339,49.654205],[5.901771,49.651401],[5.902801,49.651382],[5.902216,49.648662],[5.902744,49.647354],[5.902213,49.645828],[5.904165,49.64553],[5.904316,49.641422],[5.905411,49.640228],[5.907793,49.639054],[5.905452,49.63763],[5.902345,49.635742],[5.899069,49.634449],[5.897685,49.635841],[5.89228,49.636242],[5.887023,49.63491],[5.886508,49.633838],[5.883879,49.632992],[5.882641,49.631012],[5.885556,49.628845],[5.88646,49.627166],[5.885967,49.626945],[5.885384,49.626522],[5.884785,49.626392],[5.884667,49.626167],[5.884248,49.62606],[5.88399,49.625766],[5.883373,49.625458],[5.882838,49.625236],[5.88177,49.624683],[5.881469,49.624321],[5.880803,49.624286],[5.88029,49.623882],[5.880238,49.623516],[5.879737,49.623001],[5.87752,49.621185],[5.876946,49.620918],[5.876571,49.620445],[5.876379,49.620037],[5.875982,49.61977],[5.875564,49.61877],[5.875463,49.615127],[5.875586,49.614338],[5.877087,49.6133],[5.877068,49.612304],[5.875889,49.611309],[5.876645,49.610153],[5.876059,49.608036],[5.87007,49.605808],[5.866049,49.605259],[5.859696,49.601532],[5.848778,49.597374],[5.847803,49.595931],[5.848994,49.590454],[5.850225,49.587024],[5.85948,49.585968],[5.862097,49.586677],[5.864345,49.586445],[5.86583,49.588421],[5.867832,49.589622],[5.86975,49.589077],[5.871046,49.587555],[5.873185,49.583412],[5.870214,49.582973],[5.866415,49.580784],[5.869157,49.579632],[5.871482,49.579601],[5.871991,49.579151],[5.871263,49.577743],[5.869582,49.57666],[5.871712,49.575294],[5.872672,49.574096],[5.868941,49.573159],[5.868358,49.57362],[5.865632,49.571895],[5.863352,49.570453],[5.860687,49.570266],[5.860825,49.567013],[5.85968,49.566375],[5.855791,49.566036],[5.851928,49.56501],[5.850467,49.563106],[5.846983,49.562073],[5.844118,49.560657],[5.845597,49.558666],[5.846273,49.5564],[5.843757,49.555176],[5.842094,49.554508],[5.842378,49.5531],[5.83564,49.552425],[5.82803,49.549869],[5.82595,49.552234],[5.825827,49.552124],[5.82521,49.551861],[5.824498,49.551601],[5.823633,49.550907],[5.823106,49.550369],[5.822682,49.550056],[5.822361,49.549926],[5.821083,49.549698],[5.820548,49.549412],[5.820273,49.548958],[5.820048,49.54837],[5.820156,49.54784],[5.819528,49.54721],[5.818968,49.546924],[5.81863,49.546726],[5.818417,49.546547],[5.818413,49.546467],[5.81674,49.547245],[5.815841,49.548294],[5.814154,49.547477],[5.812253,49.547397],[5.809521,49.549953],[5.807858,49.550781],[5.803947,49.54964],[5.802827,49.550104],[5.772722,49.562577],[5.758492,49.559128],[5.757128,49.542588],[5.742689,49.539306],[5.730042,49.544499]]],"type":"Polygon"}
 }

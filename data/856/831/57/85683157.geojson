@@ -2,492 +2,493 @@
   "id": 85683157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.021508,
-    "geom:area_square_m":175012765.11205,
-    "geom:bbox":"2.145835,48.729385,2.336949,48.950966",
-    "geom:latitude":48.847514,
-    "geom:longitude":2.246066,
-    "iso:country":"FR",
-    "label:eng_x_preferred_longname":[
-        "Hauts-de-Seine Department"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.02150800557500001,
+    "geom:area_square_m": 175012765.11205,
+    "geom:bbox": "2.145835,48.729385,2.336949,48.950966",
+    "geom:latitude": 48.84751434614417,
+    "geom:longitude": 2.24606642528105,
+    "iso:country": "FR",
+    "label:eng_x_preferred_longname": [
+      "Hauts-de-Seine Department"
     ],
-    "label:eng_x_preferred_placetype":[
-        "department"
+    "label:eng_x_preferred_placetype": [
+      "department"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "HD"
+    "label:eng_x_preferred_shortcode": [
+      "HD"
     ],
-    "label:fra_x_preferred_longname":[
-        "D\u00e9partement des Hauts-de-Seine"
+    "label:fra_x_preferred_longname": [
+      "Département des Hauts-de-Seine"
     ],
-    "label:fra_x_preferred_placetype":[
-        "d\u00e9partement"
+    "label:fra_x_preferred_placetype": [
+      "département"
     ],
-    "label:fra_x_variant_longname":[
-        "d\u00e9partement des Hauts-de-Seine"
+    "label:fra_x_variant_longname": [
+      "département des Hauts-de-Seine"
     ],
-    "lbl:latitude":48.792417,
-    "lbl:longitude":2.284379,
-    "mps:latitude":48.792417,
-    "mps:longitude":2.284379,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":9.0,
-    "name:afr_x_preferred":[
-        "Hauts-de-Seine"
+    "lbl:latitude": 48.792417,
+    "lbl:longitude": 2.284379,
+    "mps:latitude": 48.792417,
+    "mps:longitude": 2.284379,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 9,
+    "name:afr_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:ara_x_preferred":[
-        "\u0647\u0648\u062a \u062f\u0648 \u0633\u064a\u0646"
+    "name:ara_x_preferred": [
+      "هوت دو سين"
     ],
-    "name:arg_x_preferred":[
-        "Altos d'o Sena"
+    "name:arg_x_preferred": [
+      "Altos d'o Sena"
     ],
-    "name:aze_x_preferred":[
-        "O-d\u00f6-Sen"
+    "name:aze_x_preferred": [
+      "O-dö-Sen"
     ],
-    "name:aze_x_variant":[
-        "O-de-Sen"
+    "name:aze_x_variant": [
+      "O-de-Sen"
     ],
-    "name:bel_x_preferred":[
-        "\u041e-\u0434\u044d-\u0421\u0435\u043d"
+    "name:bel_x_preferred": [
+      "О-дэ-Сен"
     ],
-    "name:bel_x_variant":[
-        "\u041e-\u0434\u044d-\u0421\u044d\u043d",
-        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041e-\u0434\u044d-\u0421\u0435\u043d"
+    "name:bel_x_variant": [
+      "О-дэ-Сэн",
+      "дэпартамент О-дэ-Сен"
     ],
-    "name:ben_x_preferred":[
-        "\u09b9\u09cb\u09a4\u09b8-\u09a6\u09c7-\u09b8\u09c7\u0987\u09a8"
+    "name:ben_x_preferred": [
+      "হোতস-দে-সেইন"
     ],
-    "name:bre_x_preferred":[
-        "Hauts-de-Seine"
+    "name:bre_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:bul_x_preferred":[
-        "\u041e \u0434\u044c\u043e \u0421\u0435\u043d"
+    "name:bul_x_preferred": [
+      "О дьо Сен"
     ],
-    "name:cat_x_preferred":[
-        "Alts del Sena"
+    "name:cat_x_preferred": [
+      "Alts del Sena"
     ],
-    "name:ceb_x_preferred":[
-        "Hauts-de-Seine"
+    "name:ceb_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:ces_x_preferred":[
-        "Hauts-de-Seine"
+    "name:ces_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:chv_x_preferred":[
-        "\u0422\u0443\u00e7\u0438 \u0421\u0435\u043d\u0430"
+    "name:chv_x_preferred": [
+      "Туçи Сена"
     ],
-    "name:cym_x_preferred":[
-        "Hauts-de-Seine"
+    "name:cym_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:dan_x_preferred":[
-        "Hauts-de-Seine"
+    "name:dan_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:deu_x_preferred":[
-        "D\u00e9partement Hauts-de-Seine"
+    "name:deu_x_preferred": [
+      "Département Hauts-de-Seine"
     ],
-    "name:deu_x_variant":[
-        "Hauts-de-Seine"
+    "name:deu_x_variant": [
+      "Hauts-de-Seine"
     ],
-    "name:ell_x_preferred":[
-        "\u03a9-\u03bd\u03c4\u03b5-\u03a3\u03b5\u03bd"
+    "name:ell_x_preferred": [
+      "Ω-ντε-Σεν"
     ],
-    "name:eng_x_preferred":[
-        "Hauts-de-Seine"
+    "name:eng_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:epo_x_preferred":[
-        "Hauts-de-Seine"
+    "name:epo_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:est_x_preferred":[
-        "Hauts-de-Seine'i departemang"
+    "name:est_x_preferred": [
+      "Hauts-de-Seine'i departemang"
     ],
-    "name:est_x_variant":[
-        "Hauts-de-Seine"
+    "name:est_x_variant": [
+      "Hauts-de-Seine"
     ],
-    "name:eus_x_preferred":[
-        "Hauts-de-Seine"
+    "name:eus_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u0648-\u062f\u0648-\u0633\u0646"
+    "name:fas_x_preferred": [
+      "او-دو-سن"
     ],
-    "name:fin_x_preferred":[
-        "Hauts-de-Seine"
+    "name:fin_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:fra_x_preferred":[
-        "Hauts-de-Seine"
+    "name:fra_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:fra_x_variant":[
-        "D\u00e9partement des Hauts-de-Seine"
+    "name:fra_x_variant": [
+      "Département des Hauts-de-Seine"
     ],
-    "name:frp_x_preferred":[
-        "H\u00f4ts-de-S\u00eana"
+    "name:frp_x_preferred": [
+      "Hôts-de-Sêna"
     ],
-    "name:gla_x_preferred":[
-        "Hauts-de-Seine"
+    "name:gla_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:glg_x_preferred":[
-        "Altos do Sena"
+    "name:glg_x_preferred": [
+      "Altos do Sena"
     ],
-    "name:glg_x_variant":[
-        "Hauts-de-Seine"
+    "name:glg_x_variant": [
+      "Hauts-de-Seine"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab9\u0acb\u0a9f\u0acd\u0ab8-\u0aa6\u0ac7-\u0ab8\u0ac7\u0a87\u0aa8"
+    "name:guj_x_preferred": [
+      "હોટ્સ-દે-સેઇન"
     ],
-    "name:hak_x_preferred":[
-        "Hauts-de-Seine"
+    "name:hak_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:hbs_x_preferred":[
-        "Hauts-de-Seine"
+    "name:hbs_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:heb_x_preferred":[
-        "\u05e8\u05de\u05d5\u05ea \u05d4\u05e1\u05df"
+    "name:heb_x_preferred": [
+      "רמות הסן"
     ],
-    "name:hin_x_preferred":[
-        "\u0913\u091f\u094d\u0938-\u0921\u0940-\u0938\u0940\u0928"
+    "name:hin_x_preferred": [
+      "ओट्स-डी-सीन"
     ],
-    "name:hun_x_preferred":[
-        "Hauts-de-Seine"
+    "name:hun_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:hye_x_preferred":[
-        "\u0555-\u0564\u0568-\u054d\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Օ-դը-Սեն"
     ],
-    "name:ina_x_preferred":[
-        "Departimento Hauts-de-Seine"
+    "name:ina_x_preferred": [
+      "Departimento Hauts-de-Seine"
     ],
-    "name:ind_x_preferred":[
-        "Hauts-de-Seine"
+    "name:ind_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:ita_x_preferred":[
-        "Hauts-de-Seine"
+    "name:ita_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:jav_x_preferred":[
-        "Hauts-de-Seine"
+    "name:jav_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30fc\uff1d\u30c9\uff1d\u30bb\u30fc\u30cc\u770c"
+    "name:jpn_x_preferred": [
+      "オー＝ド＝セーヌ県"
     ],
-    "name:kab_x_preferred":[
-        "Hauts-de-Seine"
+    "name:kab_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb9\u0ccc\u0c9f\u0ccd\u0cb8\u0ccd-\u0ca1\u0cc6-\u0cb8\u0cc0\u0ca8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಹೌಟ್ಸ್-ಡೆ-ಸೀನ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10dd-\u10d3\u10d4-\u10e1\u10d4\u10dc\u10d0"
+    "name:kat_x_preferred": [
+      "ო-დე-სენა"
     ],
-    "name:kaz_x_preferred":[
-        "\u041e-\u0434\u0435-\u0421\u0435\u043d"
+    "name:kaz_x_preferred": [
+      "О-де-Сен"
     ],
-    "name:kon_x_preferred":[
-        "Hauts-de-Seine"
+    "name:kon_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:kor_x_preferred":[
-        "\uc624\ub4dc\uc13c \uc8fc"
+    "name:kor_x_preferred": [
+      "오드센 주"
     ],
-    "name:kor_x_variant":[
-        "\uc624\ub4dc\uc13c\uc8fc"
+    "name:kor_x_variant": [
+      "오드센주"
     ],
-    "name:lad_x_preferred":[
-        "Hauts de Seine"
+    "name:lad_x_preferred": [
+      "Hauts de Seine"
     ],
-    "name:lat_x_preferred":[
-        "Alta Sequanae"
+    "name:lat_x_preferred": [
+      "Alta Sequanae"
     ],
-    "name:lav_x_preferred":[
-        "Odes\u0113na"
+    "name:lav_x_preferred": [
+      "Odesēna"
     ],
-    "name:lim_x_preferred":[
-        "Hauts-de-Seine"
+    "name:lim_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:lit_x_preferred":[
-        "Auk\u0161tutin\u0117 Sena"
+    "name:lit_x_preferred": [
+      "Aukštutinė Sena"
     ],
-    "name:lmo_x_preferred":[
-        "Hauts-de-Seine"
+    "name:lmo_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:ltz_x_preferred":[
-        "Departement Hauts-de-Seine"
+    "name:ltz_x_preferred": [
+      "Departement Hauts-de-Seine"
     ],
-    "name:lzh_x_preferred":[
-        "\u4e0a\u585e\u7d0d\u7701"
+    "name:lzh_x_preferred": [
+      "上塞納省"
     ],
-    "name:mar_x_preferred":[
-        "\u0911\u0924-\u0926\u0947-\u0938\u0940\u0928"
+    "name:mar_x_preferred": [
+      "ऑत-दे-सीन"
     ],
-    "name:mkd_x_preferred":[
-        "\u0421\u0435\u043d\u0441\u043a\u0438 \u0412\u0438\u0441\u043e\u0432\u0438"
+    "name:mkd_x_preferred": [
+      "Сенски Висови"
     ],
-    "name:mlg_x_preferred":[
-        "Hauts-de-Seine"
+    "name:mlg_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:msa_x_preferred":[
-        "Hauts-de-Seine"
+    "name:msa_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nan_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nan_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nds_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nds_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nld_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nld_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nno_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nno_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nob_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nob_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:nor_x_preferred":[
-        "Hauts-de-Seine"
+    "name:nor_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:oci_x_preferred":[
-        "Nauts de S\u00e8ina"
+    "name:oci_x_preferred": [
+      "Nauts de Sèina"
     ],
-    "name:pam_x_preferred":[
-        "Hauts-de-Seine"
+    "name:pam_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:pms_x_preferred":[
-        "Hauts-de-Seine"
+    "name:pms_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:pnb_x_preferred":[
-        "\u0636\u0644\u0639 \u0627\u0648\u0679 \u0688\u06cc \u0633\u06cc\u0646"
+    "name:pnb_x_preferred": [
+      "ضلع اوٹ ڈی سین"
     ],
-    "name:pol_x_preferred":[
-        "Hauts-de-Seine"
+    "name:pol_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:por_x_preferred":[
-        "Altos do Sena"
+    "name:por_x_preferred": [
+      "Altos do Sena"
     ],
-    "name:ron_x_preferred":[
-        "Hauts-de-Seine"
+    "name:ron_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:rus_x_preferred":[
-        "\u041e-\u0434\u0435-\u0421\u0435\u043d"
+    "name:rus_x_preferred": [
+      "О-де-Сен"
     ],
-    "name:sco_x_preferred":[
-        "Hauts-de-Seine"
+    "name:sco_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc4\u0dde\u0da7\u0dca\u0dc3\u0dca-\u0da9\u0dd2 \u0dc3\u0dd9\u0dba\u0dd2\u0db1\u0dda"
+    "name:sin_x_preferred": [
+      "හෞට්ස්-ඩි සෙයිනේ"
     ],
-    "name:slk_x_preferred":[
-        "Hauts-de-Seine"
+    "name:slk_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:slv_x_preferred":[
-        "Hauts-de-Seine"
+    "name:slv_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:sme_x_preferred":[
-        "Hauts-de-Seine"
+    "name:sme_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:spa_x_preferred":[
-        "Altos del Sena"
+    "name:spa_x_preferred": [
+      "Altos del Sena"
     ],
-    "name:spa_x_variant":[
-        "Altos de Sena"
+    "name:spa_x_variant": [
+      "Altos de Sena"
     ],
-    "name:sqi_x_preferred":[
-        "Hauts-de-Seine"
+    "name:sqi_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:srp_x_preferred":[
-        "\u0421\u0435\u043d\u0441\u043a\u0438 \u0432\u0438\u0441\u043e\u0432\u0438"
+    "name:srp_x_preferred": [
+      "Сенски висови"
     ],
-    "name:swa_x_preferred":[
-        "Hauts-de-Seine"
+    "name:swa_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:swe_x_preferred":[
-        "Hauts-de-Seine"
+    "name:swe_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:tel_x_preferred":[
-        "\u0c39\u0c3e\u0c1f\u0c4d\u0c38\u0c4d-\u0c21\u0c3f-\u0c38\u0c3f\u0c2f\u0c46\u0c28\u0c4d"
+    "name:tel_x_preferred": [
+      "హాట్స్-డి-సియెన్"
     ],
-    "name:tgk_x_preferred":[
-        "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0438 \u0411\u043e\u043b\u043e\u0438 \u0421\u0435\u043d"
+    "name:tgk_x_preferred": [
+      "Департаменти Болои Сен"
     ],
-    "name:tha_x_preferred":[
-        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e2d\u0e14\u0e41\u0e0b\u0e19"
+    "name:tha_x_preferred": [
+      "จังหวัดโอดแซน"
     ],
-    "name:tur_x_preferred":[
-        "Hauts-de-Seine"
+    "name:tur_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e-\u0434\u0435-\u0421\u0435\u043d"
+    "name:ukr_x_preferred": [
+      "О-де-Сен"
     ],
-    "name:unk_x_variant":[
-        "D\u00e9partement des Hauts-de-Seine"
+    "name:unk_x_variant": [
+      "Département des Hauts-de-Seine"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0644\u0646\u062f-\u062f\u0648-\u0633\u06cc\u0646"
+    "name:urd_x_preferred": [
+      "بلند-دو-سین"
     ],
-    "name:vec_x_preferred":[
-        "Hauts-de-Seine"
+    "name:vec_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:vie_x_preferred":[
-        "Hauts-de-Seine"
+    "name:vie_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:war_x_preferred":[
-        "Hauts-de-Seine"
+    "name:war_x_preferred": [
+      "Hauts-de-Seine"
     ],
-    "name:yue_x_preferred":[
-        "\u4e0a\u585e\u7d0d\u7701"
-    ],
-    "name:zho_min_nan_x_preferred":[
-        "Hauts-de-Seine"
-    ],
-    "name:zho_x_preferred":[
-        "\u4e0a\u585e\u7eb3\u7701"
-    ],
-    "name:zho_x_variant":[
-        "\u4e0a\u585e\u7d0d\u7701"
-    ],
-    "name:zho_yue_x_preferred":[
-        "\u4e0a\u585e\u7d0d"
-    ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"FRA",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"FRA-5306",
-    "ne:adm1_code":"FRA-5306",
-    "ne:admin":"France",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"FR.HD",
-    "ne:code_local":"",
-    "ne:datarank":"3",
-    "ne:diss_me":"5306",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"FRA8",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"France",
-    "ne:gn_a1_code":"FR.92",
-    "ne:gn_id":"3013657",
-    "ne:gn_level":"2",
-    "ne:gn_name":"Departement des Hauts-de-Seine",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"-1431722",
-    "ne:gns_lang":"",
-    "ne:gns_level":"2",
-    "ne:gns_name":"Hauts-de-Seine, Departement des",
-    "ne:gns_region":"FRA8",
-    "ne:gu_a3":"FXX",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"FR-",
-    "ne:iso_a2":"FR",
-    "ne:labelrank":"3",
-    "ne:latitude":"48.85570000000",
-    "ne:longitude":"2.19706000000",
-    "ne:mapcolor13":11,
-    "ne:mapcolor9":9,
-    "ne:name":"Hauts-de-Seine",
-    "ne:name_alt":"",
-    "ne:name_len":14,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"",
-    "ne:provnum_ne":"10",
-    "ne:region":"\u00cele-de-France",
-    "ne:region_cod":"FR-J",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"5",
-    "ne:sov_a3":"FR1",
-    "ne:sub_code":"",
-    "ne:type":"Metropolitan d\u00e9partement",
-    "ne:type_en":"Metropolitan department",
-    "ne:wikipedia":"",
-    "ne:woe_id":15022631,
-    "ne:woe_label":"",
-    "ne:woe_name":"Hauts-de-Seine",
-    "qs:a0":"France",
-    "qs:a0_lc":"FR0000000000",
-    "qs:a1":"Hauts-de-Seine",
-    "qs:a1_alt":"Hauts-de-Seine",
-    "qs:a1_lc":"FR1192000000",
-    "qs:a1r":"\u00cele-de-France",
-    "qs:a1r_alt":"Ile-de-France",
-    "qs:a1r_lc":"FR1100000000",
-    "qs:adm0":"France",
-    "qs:adm0_a3":"FRA",
-    "qs:level":"adm1",
-    "qs:source":"EuroGlobalMap",
-    "qs:type":"D\u00e9partement",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-01-01",
-    "statoids:area_km":"176",
-    "statoids:as_of_date":"2010-01-01",
-    "statoids:capital":"Nanterre",
-    "statoids:country":"FR",
-    "statoids:hasc":"FR.IF",
-    "statoids:name":"Hauts-de-Seine",
-    "statoids:population":"1590749",
-    "statoids:statoid":"FR.IF.HD",
-    "statoids:timezone":"+1~",
-    "statoids:type":"department",
-    "unlc:subdivision":"FR-92",
-    "wd:wordcount":318,
-    "wof:belongsto":[
-        102191581,
-        85633147,
-        404227465
-    ],
-    "wof:breaches":[
-        85683497
-    ],
-    "wof:concordances":{
-        "digitalenvoy:metro_code":250092,
-        "fips:code":"FRA8",
-        "gn:id":3013657,
-        "gp:id":15022631,
-        "hasc:id":"FR.IF.HD",
-        "unlc:id":"FR-92",
-        "wd:id":"Q12543"
+    "name:yue_x_preferred": [
+      "上塞納省"
+    ],
+    "name:zho_min_nan_x_preferred": [
+      "Hauts-de-Seine"
+    ],
+    "name:zho_x_preferred": [
+      "上塞纳省"
+    ],
+    "name:zho_x_variant": [
+      "上塞納省"
+    ],
+    "name:zho_yue_x_preferred": [
+      "上塞納"
+    ],
+    "ne:abbrev": "",
+    "ne:adm0_a3": "FRA",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "FRA-5306",
+    "ne:adm1_code": "FRA-5306",
+    "ne:admin": "France",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "FR.HD",
+    "ne:code_local": "",
+    "ne:datarank": "3",
+    "ne:diss_me": "5306",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "FRA8",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "France",
+    "ne:gn_a1_code": "FR.92",
+    "ne:gn_id": "3013657",
+    "ne:gn_level": "2",
+    "ne:gn_name": "Departement des Hauts-de-Seine",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "-1431722",
+    "ne:gns_lang": "",
+    "ne:gns_level": "2",
+    "ne:gns_name": "Hauts-de-Seine, Departement des",
+    "ne:gns_region": "FRA8",
+    "ne:gu_a3": "FXX",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "FR-",
+    "ne:iso_a2": "FR",
+    "ne:labelrank": "3",
+    "ne:latitude": "48.85570000000",
+    "ne:longitude": "2.19706000000",
+    "ne:mapcolor13": 11,
+    "ne:mapcolor9": 9,
+    "ne:name": "Hauts-de-Seine",
+    "ne:name_alt": "",
+    "ne:name_len": 14,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "",
+    "ne:provnum_ne": "10",
+    "ne:region": "Île-de-France",
+    "ne:region_cod": "FR-J",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "5",
+    "ne:sov_a3": "FR1",
+    "ne:sub_code": "",
+    "ne:type": "Metropolitan département",
+    "ne:type_en": "Metropolitan department",
+    "ne:wikipedia": "",
+    "ne:woe_id": 15022631,
+    "ne:woe_label": "",
+    "ne:woe_name": "Hauts-de-Seine",
+    "qs:a0": "France",
+    "qs:a0_lc": "FR0000000000",
+    "qs:a1": "Hauts-de-Seine",
+    "qs:a1_alt": "Hauts-de-Seine",
+    "qs:a1_lc": "FR1192000000",
+    "qs:a1r": "Île-de-France",
+    "qs:a1r_alt": "Ile-de-France",
+    "qs:a1r_lc": "FR1100000000",
+    "qs:adm0": "France",
+    "qs:adm0_a3": "FRA",
+    "qs:level": "adm1",
+    "qs:source": "EuroGlobalMap",
+    "qs:type": "Département",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl:centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population:date": "2010-01-01",
+    "statoids:area_km": "176",
+    "statoids:as_of_date": "2010-01-01",
+    "statoids:capital": "Nanterre",
+    "statoids:country": "FR",
+    "statoids:hasc": "FR.IF",
+    "statoids:name": "Hauts-de-Seine",
+    "statoids:population": "1590749",
+    "statoids:statoid": "FR.IF.HD",
+    "statoids:timezone": "+1~",
+    "statoids:type": "department",
+    "unlc:subdivision": "FR-92",
+    "wd:wordcount": 318,
+    "wof:belongsto": [
+      102191581,
+      85633147,
+      404227465
+    ],
+    "wof:breaches": [
+      85683497
+    ],
+    "wof:concordances": {
+      "digitalenvoy:metro_code": 250092,
+      "fips:code": "FRA8",
+      "gn:id": 3013657,
+      "gp:id": 15022631,
+      "hasc:id": "FR.IF.HD",
+      "unlc:id": "FR-92",
+      "wd:id": "Q12543"
     },
-    "wof:country":"FR",
-    "wof:geomhash":"97889eb3e91628abaa6cd6ee6cf379df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "macroregion_id":404227465,
-            "region_id":85683157
-        }
+    "wof:country": "FR",
+    "wof:created": 1624906881,
+    "wof:geomhash": "97889eb3e91628abaa6cd6ee6cf379df",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "macroregion_id": 404227465,
+        "region_id": 85683157
+      }
     ],
-    "wof:id":85683157,
-    "wof:lang_x_official":[
-        "fra"
+    "wof:id": 85683157,
+    "wof:lang_x_official": [
+      "fra"
     ],
-    "wof:lang_x_spoken":[
-        "fra"
+    "wof:lang_x_spoken": [
+      "fra"
     ],
-    "wof:lastmodified":1611601096,
-    "wof:name":"Hauts-de-Seine",
-    "wof:parent_id":404227465,
-    "wof:placetype":"region",
-    "wof:placetype_local":"department",
-    "wof:population":1590749,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-fr",
-    "wof:shortcode":"HD",
-    "wof:subdivision":"FR-92",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906881,
+    "wof:name": "Hauts-de-Seine",
+    "wof:parent_id": 404227465,
+    "wof:placetype": "region",
+    "wof:placetype_local": "department",
+    "wof:population": 1590749,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:shortcode": "HD",
+    "wof:subdivision": "FR-92",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.145835,
     48.729385,
     2.336949,
     48.950966
-],
+  ],
   "geometry": {"coordinates":[[[2.319887,48.900459],[2.318296,48.899563],[2.308043,48.896141],[2.295166,48.889927],[2.291045,48.889244],[2.28446,48.885639],[2.280827,48.882503],[2.279949,48.878574],[2.276864,48.878048],[2.258949,48.880325],[2.258214,48.879875],[2.255528,48.8745],[2.254674,48.874115],[2.245703,48.876461],[2.241174,48.872478],[2.231736,48.869068],[2.228435,48.865463],[2.224429,48.856174],[2.224219,48.853515],[2.239503,48.849922],[2.242275,48.847744],[2.250311,48.845634],[2.252455,48.845443],[2.25124,48.842701],[2.251668,48.839142],[2.254684,48.835354],[2.255329,48.834785],[2.262791,48.833923],[2.267025,48.834602],[2.269523,48.833343],[2.269516,48.832782],[2.267295,48.831318],[2.267956,48.8279],[2.27321,48.828228],[2.279155,48.832409],[2.292105,48.827179],[2.332166,48.818313],[2.331904,48.817013],[2.325388,48.809532],[2.319065,48.809971],[2.317945,48.808033],[2.31864,48.806041],[2.323778,48.805576],[2.32503,48.808143],[2.325976,48.808338],[2.326025,48.80698],[2.318681,48.787983],[2.32494,48.786045],[2.324598,48.782757],[2.324865,48.782139],[2.325814,48.781906],[2.324935,48.779182],[2.326414,48.778343],[2.325607,48.777069],[2.323328,48.775993],[2.319922,48.770717],[2.315878,48.766765],[2.314509,48.762729],[2.313333,48.761905],[2.313051,48.75988],[2.309016,48.755733],[2.311088,48.754474],[2.311397,48.753246],[2.310504,48.752159],[2.319101,48.74966],[2.32072,48.748756],[2.319665,48.747528],[2.319988,48.746391],[2.319353,48.745819],[2.317971,48.744751],[2.314504,48.743328],[2.316753,48.740986],[2.31336,48.738331],[2.313463,48.737827],[2.315027,48.737049],[2.318,48.737808],[2.318525,48.73732],[2.316577,48.734092],[2.315289,48.733112],[2.314323,48.730396],[2.308104,48.729385],[2.30384,48.729492],[2.301646,48.735725],[2.30238,48.740623],[2.293402,48.73674],[2.279675,48.73304],[2.276939,48.736061],[2.274512,48.740719],[2.276482,48.741077],[2.284582,48.745529],[2.285105,48.747459],[2.279965,48.752746],[2.275711,48.754814],[2.275134,48.755409],[2.276143,48.756656],[2.270005,48.757755],[2.270749,48.760326],[2.269218,48.760685],[2.268953,48.761875],[2.26804,48.762176],[2.266996,48.762245],[2.261811,48.759884],[2.259126,48.761036],[2.255937,48.761337],[2.25181,48.760841],[2.249116,48.761696],[2.247234,48.761047],[2.245128,48.76247],[2.241248,48.763649],[2.23813,48.766392],[2.232854,48.765987],[2.232963,48.769478],[2.232029,48.77074],[2.230517,48.771602],[2.230533,48.773678],[2.226554,48.7761],[2.224872,48.776836],[2.224044,48.778068],[2.223899,48.780693],[2.226632,48.781585],[2.223077,48.785942],[2.218902,48.785484],[2.211287,48.788093],[2.20923,48.787689],[2.206556,48.785011],[2.211392,48.79129],[2.209677,48.793854],[2.205019,48.795509],[2.204706,48.796802],[2.202639,48.798397],[2.198407,48.798576],[2.195719,48.797523],[2.182937,48.797226],[2.186832,48.800594],[2.18501,48.801002],[2.181901,48.800758],[2.180646,48.804844],[2.182671,48.805217],[2.180159,48.808281],[2.176594,48.810783],[2.175883,48.812721],[2.176743,48.814007],[2.175086,48.814934],[2.16983,48.815796],[2.166558,48.812401],[2.161277,48.812782],[2.154489,48.816066],[2.151728,48.81691],[2.150747,48.818844],[2.15147,48.821403],[2.148481,48.828487],[2.145867,48.836899],[2.145835,48.841804],[2.151729,48.848568],[2.152683,48.848816],[2.156691,48.847839],[2.159873,48.847721],[2.158684,48.849621],[2.154479,48.852741],[2.150211,48.857422],[2.151224,48.858516],[2.150773,48.860176],[2.153129,48.861522],[2.154598,48.863979],[2.153759,48.864403],[2.157197,48.8694],[2.152386,48.868305],[2.14923,48.868438],[2.148309,48.868755],[2.148109,48.869415],[2.150391,48.870861],[2.158319,48.880604],[2.162017,48.881962],[2.163378,48.882999],[2.162946,48.887142],[2.163383,48.888504],[2.169348,48.895813],[2.176782,48.900448],[2.182538,48.902469],[2.19278,48.904846],[2.200591,48.90868],[2.208622,48.912281],[2.23114,48.927734],[2.241489,48.93277],[2.247591,48.936733],[2.255629,48.940243],[2.260251,48.943165],[2.268485,48.946468],[2.281527,48.949707],[2.290969,48.950966],[2.301553,48.950207],[2.311668,48.947948],[2.327223,48.945286],[2.331959,48.943638],[2.335357,48.94096],[2.336949,48.935425],[2.336743,48.933311],[2.333925,48.927986],[2.325911,48.920719],[2.322015,48.918674],[2.319818,48.915935],[2.313753,48.914016],[2.320805,48.90459],[2.319887,48.900459]]],"type":"Polygon"}
 }

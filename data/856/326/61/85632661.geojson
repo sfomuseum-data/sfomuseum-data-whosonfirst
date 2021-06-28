@@ -2,1022 +2,1023 @@
   "id": 85632661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.039574,
-    "geom:area_square_m":485549836.302206,
-    "geom:bbox":"46.199528,-10.219611,56.298752,-3.712055",
-    "geom:latitude":-6.722486,
-    "geom:longitude":51.818593,
-    "gn:id":"",
-    "gn:population":88340,
-    "iso:country":"SC",
-    "itu:country_code":[
-        "248"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.039573615524999856,
+    "geom:area_square_m": 485549836.302206,
+    "geom:bbox": "46.199528,-10.219611,56.298752,-3.712055",
+    "geom:latitude": -6.722486044096321,
+    "geom:longitude": 51.81859304128802,
+    "gn:id": "",
+    "gn:population": 88340,
+    "iso:country": "SC",
+    "itu:country_code": [
+      "248"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "SC"
+    "label:eng_x_preferred_shortcode": [
+      "SC"
     ],
-    "lbl:latitude":-4.681046,
-    "lbl:longitude":55.482794,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":-4.681046,
-    "mps:longitude":55.482794,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":10.0,
-    "mz:min_zoom":5.0,
-    "name:afr_x_preferred":[
-        "Seychelle"
+    "lbl:latitude": -4.681046,
+    "lbl:longitude": 55.482794,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": -4.681046,
+    "mps:longitude": 55.482794,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 10,
+    "mz:min_zoom": 5,
+    "name:afr_x_preferred": [
+      "Seychelle"
     ],
-    "name:aka_x_preferred":[
-        "Seyhy\u025bl"
+    "name:aka_x_preferred": [
+      "Seyhyɛl"
     ],
-    "name:als_x_preferred":[
-        "Seychellen"
+    "name:als_x_preferred": [
+      "Seychellen"
     ],
-    "name:amh_x_preferred":[
-        "\u1232\u1238\u120d\u1235"
+    "name:amh_x_preferred": [
+      "ሲሸልስ"
     ],
-    "name:amh_x_variant":[
-        "\u1232\u123c\u120d\u1235"
+    "name:amh_x_variant": [
+      "ሲሼልስ"
     ],
-    "name:ara_x_preferred":[
-        "\u0633\u064a\u0634\u0644"
+    "name:ara_x_preferred": [
+      "سيشل"
     ],
-    "name:ara_x_variant":[
-        "\u0633\u064a\u0634\u064a\u0644"
+    "name:ara_x_variant": [
+      "سيشيل"
     ],
-    "name:arg_x_preferred":[
-        "Seychelles"
+    "name:arg_x_preferred": [
+      "Seychelles"
     ],
-    "name:arz_x_preferred":[
-        "\u0633\u064a\u0634\u064a\u0644"
+    "name:arz_x_preferred": [
+      "سيشيل"
     ],
-    "name:ast_x_preferred":[
-        "Seychelles"
+    "name:ast_x_preferred": [
+      "Seychelles"
     ],
-    "name:ast_x_variant":[
-        "Seixeles"
+    "name:ast_x_variant": [
+      "Seixeles"
     ],
-    "name:azb_x_preferred":[
-        "\u0633\u06cc\u0634\u0644"
+    "name:azb_x_preferred": [
+      "سیشل"
     ],
-    "name:aze_x_preferred":[
-        "Sey\u015fel adalar\u0131"
+    "name:aze_x_preferred": [
+      "Seyşel adaları"
     ],
-    "name:aze_x_variant":[
-        "Sey\u00e7els"
+    "name:aze_x_variant": [
+      "Seyçels"
     ],
-    "name:bak_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0423\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    "name:bak_x_preferred": [
+      "Сейшел Утрауҙары"
     ],
-    "name:bak_x_variant":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c \u0423\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    "name:bak_x_variant": [
+      "Сейшель Утрауҙары"
     ],
-    "name:bam_x_preferred":[
-        "Seshel"
+    "name:bam_x_preferred": [
+      "Seshel"
     ],
-    "name:bam_x_variant":[
-        "Ses\u025bli"
+    "name:bam_x_variant": [
+      "Sesɛli"
     ],
-    "name:bar_x_preferred":[
-        "Seychelln"
+    "name:bar_x_preferred": [
+      "Seychelln"
     ],
-    "name:bcl_x_preferred":[
-        "Seytsilyes"
+    "name:bcl_x_preferred": [
+      "Seytsilyes"
     ],
-    "name:bel_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u044d\u043b\u044c\u0441\u043a\u0456\u044f \u0410\u0441\u0442\u0440\u0430\u0432\u044b"
+    "name:bel_x_preferred": [
+      "Сейшэльскія Астравы"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u044d\u0439\u0448\u044d\u043b\u044b"
+    "name:bel_x_variant": [
+      "Сэйшэлы"
     ],
-    "name:ben_x_preferred":[
-        "\u09b8\u09c7\u09b6\u09c7\u09b2"
+    "name:ben_x_preferred": [
+      "সেশেল"
     ],
-    "name:ben_x_variant":[
-        "\u09b8\u09bf\u09b8\u09bf\u09b2\u09bf"
+    "name:ben_x_variant": [
+      "সিসিলি"
     ],
-    "name:bho_x_preferred":[
-        "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
+    "name:bho_x_preferred": [
+      "सेशेल्स"
     ],
-    "name:bjn_x_preferred":[
-        "Seychelles"
+    "name:bjn_x_preferred": [
+      "Seychelles"
     ],
-    "name:bod_x_preferred":[
-        "\u0f66\u0f7a\u0f0b\u0f5e\u0f7a\u0f63\u0f0d"
+    "name:bod_x_preferred": [
+      "སེ་ཞེལ།"
     ],
-    "name:bod_x_variant":[
-        "\u0f66\u0f71\u0f0b\u0f64\u0f7b\u0f63\u0f0d"
+    "name:bod_x_variant": [
+      "སཱ་ཤཻལ།"
     ],
-    "name:bos_x_preferred":[
-        "Sej\u0161eli"
+    "name:bos_x_preferred": [
+      "Sejšeli"
     ],
-    "name:bpy_x_preferred":[
-        "\u09b8\u09c7\u0987\u09b6\u09c7\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    "name:bpy_x_preferred": [
+      "সেইশেল দ্বীপপুঞ্জ"
     ],
-    "name:bre_x_preferred":[
-        "Sechelez"
+    "name:bre_x_preferred": [
+      "Sechelez"
     ],
-    "name:bul_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0438"
+    "name:bul_x_preferred": [
+      "Сейшели"
     ],
-    "name:bul_x_variant":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0441\u043a\u0438 \u041e-\u0432\u0438"
+    "name:bul_x_variant": [
+      "Сейшелски острови",
+      "Сейшелски О-ви"
     ],
-    "name:bxr_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0438\u0439\u043d \u0430\u0440\u043b\u0443\u0443\u0434"
+    "name:bxr_x_preferred": [
+      "Сейшелийн арлууд"
     ],
-    "name:cat_x_preferred":[
-        "Seychelles"
+    "name:cat_x_preferred": [
+      "Seychelles"
     ],
-    "name:cdo_x_preferred":[
-        "Seychelles"
+    "name:cdo_x_preferred": [
+      "Seychelles"
     ],
-    "name:ceb_x_preferred":[
-        "Seychelles"
+    "name:ceb_x_preferred": [
+      "Seychelles"
     ],
-    "name:ces_x_preferred":[
-        "Seychely"
+    "name:ces_x_preferred": [
+      "Seychely"
     ],
-    "name:che_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
+    "name:che_x_preferred": [
+      "Сейшелан гӀайренаш"
     ],
-    "name:che_x_variant":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0430\u043d \u0433l\u0430\u0439\u0440\u0435\u0448"
+    "name:che_x_variant": [
+      "Сейшелан гlайреш"
     ],
-    "name:chv_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
+    "name:chv_x_preferred": [
+      "Сейшел утравĕсем"
     ],
-    "name:ckb_x_preferred":[
-        "\u0633\u06cc\u0634\u06ce\u0644"
+    "name:ckb_x_preferred": [
+      "سیشێل"
     ],
-    "name:cor_x_preferred":[
-        "Seychellys"
+    "name:cor_x_preferred": [
+      "Seychellys"
     ],
-    "name:cre_x_preferred":[
-        "Repiblik Sesel"
+    "name:cre_x_preferred": [
+      "Repiblik Sesel"
     ],
-    "name:crh_x_preferred":[
-        "Sey\u015feller"
+    "name:crh_x_preferred": [
+      "Seyşeller"
     ],
-    "name:cym_x_preferred":[
-        "Seychelles"
+    "name:cym_x_preferred": [
+      "Seychelles"
     ],
-    "name:dan_x_preferred":[
-        "Seychellerne"
+    "name:dan_x_preferred": [
+      "Seychellerne"
     ],
-    "name:deu_x_preferred":[
-        "Seychellen"
+    "name:deu_x_preferred": [
+      "Seychellen"
     ],
-    "name:deu_x_variant":[
-        "Republik Seychellen"
+    "name:deu_x_variant": [
+      "Republik Seychellen"
     ],
-    "name:diq_x_preferred":[
-        "Sey\u015feli"
+    "name:diq_x_preferred": [
+      "Seyşeli"
     ],
-    "name:div_x_preferred":[
-        "\u078c\u07ad\u0782\u07b0\u078e\u07a6\u078b\u07a9\u0784\u07aa"
+    "name:div_x_preferred": [
+      "ތޭންގަދީބު"
     ],
-    "name:dsb_x_preferred":[
-        "Seychelle"
+    "name:dsb_x_preferred": [
+      "Seychelle"
     ],
-    "name:dty_x_preferred":[
-        "\u0938\u0947\u0938\u0947\u0932\u094d\u0938"
+    "name:dty_x_preferred": [
+      "सेसेल्स"
     ],
-    "name:ell_x_preferred":[
-        "\u03a3\u03b5\u03cb\u03c7\u03ad\u03bb\u03bb\u03b5\u03c2"
+    "name:ell_x_preferred": [
+      "Σεϋχέλλες"
     ],
-    "name:eng_x_preferred":[
-        "Seychelles"
+    "name:eng_x_preferred": [
+      "Seychelles"
     ],
-    "name:eng_x_unknown":[
-        "SC",
-        "SYC"
+    "name:eng_x_unknown": [
+      "SC",
+      "SYC"
     ],
-    "name:eng_x_variant":[
-        "Rep. Seychelles",
-        "Republic of Seychelles",
-        "Seychelles Islands",
-        "Seychelles Rep.",
-        "Seychellois"
+    "name:eng_x_variant": [
+      "Rep. Seychelles",
+      "Republic of Seychelles",
+      "Seychelles Islands",
+      "Seychelles Rep.",
+      "Seychellois"
     ],
-    "name:epo_x_preferred":[
-        "Sej\u015deloj"
+    "name:epo_x_preferred": [
+      "Sejŝeloj"
     ],
-    "name:est_x_preferred":[
-        "Sei\u0161ellid"
+    "name:est_x_preferred": [
+      "Seišellid"
     ],
-    "name:est_x_variant":[
-        "Seiiellid"
+    "name:est_x_variant": [
+      "Seiiellid"
     ],
-    "name:eus_x_preferred":[
-        "Seychelleak"
+    "name:eus_x_preferred": [
+      "Seychelleak"
     ],
-    "name:ewe_x_preferred":[
-        "Sesh\u025bls nutome"
+    "name:ewe_x_preferred": [
+      "Seshɛls nutome"
     ],
-    "name:ext_x_preferred":[
-        "Seychelles"
+    "name:ext_x_preferred": [
+      "Seychelles"
     ],
-    "name:fao_x_preferred":[
-        "Seyskelloyggjar"
+    "name:fao_x_preferred": [
+      "Seyskelloyggjar"
     ],
-    "name:fao_x_variant":[
-        "Seyskelloyggjarnar"
+    "name:fao_x_variant": [
+      "Seyskelloyggjarnar"
     ],
-    "name:fas_x_preferred":[
-        "\u0633\u06cc\u0634\u0644"
+    "name:fas_x_preferred": [
+      "سیشل"
     ],
-    "name:fas_x_variant":[
-        "\u0633\u06cc\u0686\u0644\u0632"
+    "name:fas_x_variant": [
+      "سیچلز"
     ],
-    "name:fin_x_preferred":[
-        "Seychellit"
+    "name:fin_x_preferred": [
+      "Seychellit"
     ],
-    "name:fra_x_preferred":[
-        "Seychelles"
+    "name:fra_x_preferred": [
+      "Seychelles"
     ],
-    "name:fre_x_colloquial":[
-        "Iles Seychelles"
+    "name:fre_x_colloquial": [
+      "Iles Seychelles"
     ],
-    "name:fre_x_variant":[
-        "\u00celes Seychelles"
+    "name:fre_x_variant": [
+      "Îles Seychelles"
     ],
-    "name:frp_x_preferred":[
-        "S\u00each\u00b7\u00e8les"
+    "name:frp_x_preferred": [
+      "Sêch·èles"
     ],
-    "name:frr_x_preferred":[
-        "Seschelen"
+    "name:frr_x_preferred": [
+      "Seschelen"
     ],
-    "name:fry_x_preferred":[
-        "Seysjellen"
+    "name:fry_x_preferred": [
+      "Seysjellen"
     ],
-    "name:ful_x_preferred":[
-        "Seysel"
+    "name:ful_x_preferred": [
+      "Seysel"
     ],
-    "name:gag_x_preferred":[
-        "Sey\u015feller"
+    "name:gag_x_preferred": [
+      "Seyşeller"
     ],
-    "name:gla_x_preferred":[
-        "Na h-Eileanan Sheiseall"
+    "name:gla_x_preferred": [
+      "Na h-Eileanan Sheiseall"
     ],
-    "name:gle_x_preferred":[
-        "Na S\u00e9is\u00e9il"
+    "name:gle_x_preferred": [
+      "Na Séiséil"
     ],
-    "name:glg_x_preferred":[
-        "Seixeles",
-        "Seychelles"
+    "name:glg_x_preferred": [
+      "Seixeles",
+      "Seychelles"
     ],
-    "name:glg_x_variant":[
-        "Seixeles - Seychelles"
+    "name:glg_x_variant": [
+      "Seixeles - Seychelles"
     ],
-    "name:glv_x_preferred":[
-        "Ny h-Ellanyn Heshell"
+    "name:glv_x_preferred": [
+      "Ny h-Ellanyn Heshell"
     ],
-    "name:grn_x_preferred":[
-        "S\u00e9ichele"
+    "name:grn_x_preferred": [
+      "Séichele"
     ],
-    "name:gsw_x_preferred":[
-        "Seychellen"
+    "name:gsw_x_preferred": [
+      "Seychellen"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab6\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
+    "name:guj_x_preferred": [
+      "શેશેલ્સ"
     ],
-    "name:guj_x_variant":[
-        "\u0ab8\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
+    "name:guj_x_variant": [
+      "સેશેલ્સ"
     ],
-    "name:hak_x_preferred":[
-        "Seychelles"
+    "name:hak_x_preferred": [
+      "Seychelles"
     ],
-    "name:hat_x_preferred":[
-        "Sech\u00e8l"
+    "name:hat_x_preferred": [
+      "Sechèl"
     ],
-    "name:hau_x_preferred":[
-        "Saishal"
+    "name:hau_x_preferred": [
+      "Saishal"
     ],
-    "name:hau_x_variant":[
-        "Seychelles"
+    "name:hau_x_variant": [
+      "Seychelles"
     ],
-    "name:hbs_x_preferred":[
-        "Sej\u0161eli"
+    "name:hbs_x_preferred": [
+      "Sejšeli"
     ],
-    "name:heb_x_preferred":[
-        "\u05e1\u05d9\u05d9\u05e9\u05dc"
+    "name:heb_x_preferred": [
+      "סיישל"
     ],
-    "name:heb_x_variant":[
-        "\u05d0\u05d9\u05d9 \u05e1\u05d9\u05d9\u05e9\u05dc"
+    "name:heb_x_variant": [
+      "איי סיישל"
     ],
-    "name:hif_x_preferred":[
-        "Seychelles"
+    "name:hif_x_preferred": [
+      "Seychelles"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
+    "name:hin_x_preferred": [
+      "सेशेल्स"
     ],
-    "name:hrv_x_preferred":[
-        "Sej\u0161eli"
+    "name:hrv_x_preferred": [
+      "Sejšeli"
     ],
-    "name:hsb_x_preferred":[
-        "Seychelle"
+    "name:hsb_x_preferred": [
+      "Seychelle"
     ],
-    "name:hun_x_preferred":[
-        "Seychelle-Szigetek",
-        "Seychelle-szigetek"
+    "name:hun_x_preferred": [
+      "Seychelle-Szigetek",
+      "Seychelle-szigetek"
     ],
-    "name:hun_x_variant":[
-        "Seychelles"
+    "name:hun_x_variant": [
+      "Seychelles"
     ],
-    "name:hye_x_preferred":[
-        "\u054d\u0565\u0575\u0577\u0565\u056c\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    "name:hye_x_preferred": [
+      "Սեյշելյան կղզիներ"
     ],
-    "name:hye_x_variant":[
-        "\u054d\u0565\u0575\u0577\u0565\u056c\u0576\u0565\u0580"
+    "name:hye_x_variant": [
+      "Սեյշելներ"
     ],
-    "name:ibo_x_preferred":[
-        "Seychelles"
+    "name:ibo_x_preferred": [
+      "Seychelles"
     ],
-    "name:ido_x_preferred":[
-        "Seycheli"
+    "name:ido_x_preferred": [
+      "Seycheli"
     ],
-    "name:ile_x_preferred":[
-        "Seychelles"
+    "name:ile_x_preferred": [
+      "Seychelles"
     ],
-    "name:ilo_x_preferred":[
-        "Seychelles"
+    "name:ilo_x_preferred": [
+      "Seychelles"
     ],
-    "name:ina_x_preferred":[
-        "Seychelles"
+    "name:ina_x_preferred": [
+      "Seychelles"
     ],
-    "name:ind_x_preferred":[
-        "Seychelles"
+    "name:ind_x_preferred": [
+      "Seychelles"
     ],
-    "name:isl_x_preferred":[
-        "Seychelles-eyjar"
+    "name:isl_x_preferred": [
+      "Seychelles-eyjar"
     ],
-    "name:isl_x_variant":[
-        "Seychelleseyjar"
+    "name:isl_x_variant": [
+      "Seychelleseyjar"
     ],
-    "name:ita_x_preferred":[
-        "Seychelles"
+    "name:ita_x_preferred": [
+      "Seychelles"
     ],
-    "name:ita_x_variant":[
-        "Seicelle"
+    "name:ita_x_variant": [
+      "Seicelle"
     ],
-    "name:jam_x_preferred":[
-        "Seishelz"
+    "name:jam_x_preferred": [
+      "Seishelz"
     ],
-    "name:jav_x_preferred":[
-        "S\u00e8ych\u00e8lles"
+    "name:jav_x_preferred": [
+      "Sèychèlles"
     ],
-    "name:jav_x_variant":[
-        "Seychelles"
+    "name:jav_x_variant": [
+      "Seychelles"
     ],
-    "name:jpn_x_preferred":[
-        "\u30bb\u30fc\u30b7\u30a7\u30eb"
+    "name:jpn_x_preferred": [
+      "セーシェル"
     ],
-    "name:jpn_x_variant":[
-        "\u30bb\u30a4\u30b7\u30a7\u30eb",
-        "\u30bb\u30fc\u30b7\u30a7\u30eb\u5171\u548c\u56fd"
+    "name:jpn_x_variant": [
+      "セイシェル",
+      "セーシェル共和国"
     ],
-    "name:kaa_x_preferred":[
-        "Seyshel atawlar\u0131"
+    "name:kaa_x_preferred": [
+      "Seyshel atawları"
     ],
-    "name:kab_x_preferred":[
-        "Seychelles"
+    "name:kab_x_preferred": [
+      "Seychelles"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb8\u0cc6\u0cb6\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಸೆಶೆಲ್ಸ್"
     ],
-    "name:kan_x_variant":[
-        "\u0cb8\u0cc0\u0cb6\u0cc6\u0cb2\u0ccd\u0cb2\u0cc6\u0cb8\u0ccd"
+    "name:kan_x_variant": [
+      "ಸೀಶೆಲ್ಲೆಸ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e1\u10d4\u10d8\u10e8\u10d4\u10da\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    "name:kat_x_preferred": [
+      "სეიშელის კუნძულები"
     ],
-    "name:kaz_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c \u0410\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    "name:kaz_x_preferred": [
+      "Сейшель Аралдары"
     ],
-    "name:khm_x_preferred":[
-        "\u179f\u17b8\u179f\u17c2\u179b"
+    "name:khm_x_preferred": [
+      "សីសែល"
     ],
-    "name:kik_x_preferred":[
-        "Seychelles"
+    "name:kik_x_preferred": [
+      "Seychelles"
     ],
-    "name:kik_x_variant":[
-        "Shelisheli"
+    "name:kik_x_variant": [
+      "Shelisheli"
     ],
-    "name:kin_x_preferred":[
-        "Seyishele"
+    "name:kin_x_preferred": [
+      "Seyishele"
     ],
-    "name:kir_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0410\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    "name:kir_x_preferred": [
+      "Сейшел Аралдары"
     ],
-    "name:kon_x_preferred":[
-        "Seychell"
+    "name:kon_x_preferred": [
+      "Seychell"
     ],
-    "name:kor_x_preferred":[
-        "\uc138\uc774\uc178"
+    "name:kor_x_preferred": [
+      "세이셸"
     ],
-    "name:kor_x_variant":[
-        "\uc138\uc774\uc258",
-        "\uc250\uc774\uc258"
+    "name:kor_x_variant": [
+      "세이쉘",
+      "쉐이쉘"
     ],
-    "name:kur_x_preferred":[
-        "Sey\u015fel"
+    "name:kur_x_preferred": [
+      "Seyşel"
     ],
-    "name:kur_x_variant":[
-        "\u0633\u06cc\u0634\u06ce\u0644"
+    "name:kur_x_variant": [
+      "سیشێل"
     ],
-    "name:lao_x_preferred":[
-        "\u0ec0\u0e8a\u0ec1\u0e8a\u0ea7"
+    "name:lao_x_preferred": [
+      "ເຊແຊວ"
     ],
-    "name:lat_x_preferred":[
-        "Insulae Seisellenses"
+    "name:lat_x_preferred": [
+      "Insulae Seisellenses"
     ],
-    "name:lav_x_preferred":[
-        "Sei\u0161elas"
+    "name:lav_x_preferred": [
+      "Seišelas"
     ],
-    "name:lav_x_variant":[
-        "Sei\u0161e\u013cu salas"
+    "name:lav_x_variant": [
+      "Seišeļu salas"
     ],
-    "name:lfn_x_preferred":[
-        "Sexeles"
+    "name:lfn_x_preferred": [
+      "Sexeles"
     ],
-    "name:lij_x_preferred":[
-        "Seychelles"
+    "name:lij_x_preferred": [
+      "Seychelles"
     ],
-    "name:lim_x_preferred":[
-        "Seychelle"
+    "name:lim_x_preferred": [
+      "Seychelle"
     ],
-    "name:lin_x_preferred":[
-        "Seyshel"
+    "name:lin_x_preferred": [
+      "Seyshel"
     ],
-    "name:lin_x_variant":[
-        "S\u025bsh\u025bl\u025b"
+    "name:lin_x_variant": [
+      "Sɛshɛlɛ"
     ],
-    "name:lit_x_preferred":[
-        "Sei\u0161eliai"
+    "name:lit_x_preferred": [
+      "Seišeliai"
     ],
-    "name:lmo_x_preferred":[
-        "Seychelles"
+    "name:lmo_x_preferred": [
+      "Seychelles"
     ],
-    "name:lrc_x_preferred":[
-        "\u0633\u06cc\u0634\u0626\u0644"
+    "name:lrc_x_preferred": [
+      "سیشئل"
     ],
-    "name:ltz_x_preferred":[
-        "Seychellen"
+    "name:ltz_x_preferred": [
+      "Seychellen"
     ],
-    "name:lub_x_preferred":[
-        "Seshele"
+    "name:lub_x_preferred": [
+      "Seshele"
     ],
-    "name:lug_x_preferred":[
-        "Seychelles"
+    "name:lug_x_preferred": [
+      "Seychelles"
     ],
-    "name:lug_x_variant":[
-        "Sesere"
+    "name:lug_x_variant": [
+      "Sesere"
     ],
-    "name:lzh_x_preferred":[
-        "\u585e\u5e2d\u723e"
+    "name:lzh_x_preferred": [
+      "塞席爾"
     ],
-    "name:mal_x_preferred":[
-        "\u0d38\u0d46\u0d2f\u0d4d\u200c\u0d37\u0d46\u0d7d\u0d38\u0d4d"
+    "name:mal_x_preferred": [
+      "സെയ്‌ഷെൽസ്"
     ],
-    "name:mal_x_variant":[
-        "\u0d38\u0d46\u0d2f\u0d4d\u0d37\u0d46\u0d32\u0d4d\u200d\u0d38\u0d4d",
-        "\u0d38\u0d46\u0d2f\u0d4d \u0d37\u0d46\u0d7d\u0d38\u0d4d"
+    "name:mal_x_variant": [
+      "സെയ്ഷെല്‍സ്",
+      "സെയ് ഷെൽസ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
+    "name:mar_x_preferred": [
+      "सेशेल्स"
     ],
-    "name:mhr_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b-\u0432\u043b\u0430\u043a"
+    "name:mhr_x_preferred": [
+      "Сейшел-влак"
     ],
-    "name:mkd_x_preferred":[
-        "\u0421\u0435\u0458\u0448\u0435\u043b\u0438"
+    "name:mkd_x_preferred": [
+      "Сејшели"
     ],
-    "name:mlg_x_preferred":[
-        "Seychelles"
+    "name:mlg_x_preferred": [
+      "Seychelles"
     ],
-    "name:mlg_x_variant":[
-        "Seyshela"
+    "name:mlg_x_variant": [
+      "Seyshela"
     ],
-    "name:mlt_x_preferred":[
-        "Seychelles"
+    "name:mlt_x_preferred": [
+      "Seychelles"
     ],
-    "name:mrj_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0432\u043b\u04d3"
+    "name:mrj_x_preferred": [
+      "Сейшелвлӓ"
     ],
-    "name:msa_x_preferred":[
-        "Seychelles"
+    "name:msa_x_preferred": [
+      "Seychelles"
     ],
-    "name:mya_x_preferred":[
-        "\u1006\u1031\u1038\u101b\u103e\u1032\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "ဆေးရှဲနိုင်ငံ"
     ],
-    "name:mzn_x_preferred":[
-        "\u0633\u06cc\u0634\u0644"
+    "name:mzn_x_preferred": [
+      "سیشل"
     ],
-    "name:nah_x_preferred":[
-        "Seychelles"
+    "name:nah_x_preferred": [
+      "Seychelles"
     ],
-    "name:nan_x_preferred":[
-        "Seychelles"
+    "name:nan_x_preferred": [
+      "Seychelles"
     ],
-    "name:nav_x_preferred":[
-        "Seishel"
+    "name:nav_x_preferred": [
+      "Seishel"
     ],
-    "name:nde_x_preferred":[
-        "Seychelles"
+    "name:nde_x_preferred": [
+      "Seychelles"
     ],
-    "name:nds_nld_x_preferred":[
-        "Seychellen"
+    "name:nds_nld_x_preferred": [
+      "Seychellen"
     ],
-    "name:nds_x_preferred":[
-        "Seychellen"
+    "name:nds_x_preferred": [
+      "Seychellen"
     ],
-    "name:nep_x_preferred":[
-        "\u0938\u0947\u091a\u0947\u0932\u0947\u0938"
+    "name:nep_x_preferred": [
+      "सेचेलेस"
     ],
-    "name:nld_x_preferred":[
-        "Seychellen"
+    "name:nld_x_preferred": [
+      "Seychellen"
     ],
-    "name:nno_x_preferred":[
-        "Seychellane"
+    "name:nno_x_preferred": [
+      "Seychellane"
     ],
-    "name:nno_x_variant":[
-        "Seychellene"
+    "name:nno_x_variant": [
+      "Seychellene"
     ],
-    "name:nob_x_preferred":[
-        "Seychellene"
+    "name:nob_x_preferred": [
+      "Seychellene"
     ],
-    "name:nor_x_preferred":[
-        "Seychellene"
+    "name:nor_x_preferred": [
+      "Seychellene"
     ],
-    "name:nov_x_preferred":[
-        "Seyshels"
+    "name:nov_x_preferred": [
+      "Seyshels"
     ],
-    "name:nso_x_preferred":[
-        "Seychelles"
+    "name:nso_x_preferred": [
+      "Seychelles"
     ],
-    "name:oci_x_preferred":[
-        "Seich\u00e8las"
+    "name:oci_x_preferred": [
+      "Seichèlas"
     ],
-    "name:olo_x_preferred":[
-        "Sei\u0161ellit"
+    "name:olo_x_preferred": [
+      "Seišellit"
     ],
-    "name:ori_x_preferred":[
-        "\u0b38\u0b47\u0b36\u0b47\u0b32\u0b1c"
+    "name:ori_x_preferred": [
+      "ସେଶେଲଜ"
     ],
-    "name:ori_x_variant":[
-        "\u0b38\u0b47\u0b1a\u0b47\u0b32\u0b38\u0b4d",
-        "\u0b38\u0b47\u0b38\u0b47\u0b32\u0b1c"
+    "name:ori_x_variant": [
+      "ସେଚେଲସ୍",
+      "ସେସେଲଜ"
     ],
-    "name:orm_x_preferred":[
-        "Siishelsi"
+    "name:orm_x_preferred": [
+      "Siishelsi"
     ],
-    "name:oss_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0442\u00e6"
+    "name:oss_x_preferred": [
+      "Сейшелтæ"
     ],
-    "name:pam_x_preferred":[
-        "Seychelles"
+    "name:pam_x_preferred": [
+      "Seychelles"
     ],
-    "name:pan_x_preferred":[
-        "\u0a38\u0a47\u0a38\u0a3c\u0a48\u0a32"
+    "name:pan_x_preferred": [
+      "ਸੇਸ਼ੈਲ"
     ],
-    "name:pih_x_preferred":[
-        "Sieshels"
+    "name:pih_x_preferred": [
+      "Sieshels"
     ],
-    "name:pli_x_preferred":[
-        "\u0938\u0947\u0936\u0947\u0932"
+    "name:pli_x_preferred": [
+      "सेशेल"
     ],
-    "name:pms_x_preferred":[
-        "Seychelles"
+    "name:pms_x_preferred": [
+      "Seychelles"
     ],
-    "name:pnb_x_preferred":[
-        "\u0633\u0634\u0644\u0632"
+    "name:pnb_x_preferred": [
+      "سشلز"
     ],
-    "name:pol_x_preferred":[
-        "Seszele"
+    "name:pol_x_preferred": [
+      "Seszele"
     ],
-    "name:por_x_preferred":[
-        "Seicheles"
+    "name:por_x_preferred": [
+      "Seicheles"
     ],
-    "name:por_x_variant":[
-        "Ilhas Seychelles",
-        "Seychelles"
+    "name:por_x_variant": [
+      "Ilhas Seychelles",
+      "Seychelles"
     ],
-    "name:pus_x_preferred":[
-        "\u0633\u06cc\u0634\u0644"
+    "name:pus_x_preferred": [
+      "سیشل"
     ],
-    "name:que_x_preferred":[
-        "Sichillakuna"
+    "name:que_x_preferred": [
+      "Sichillakuna"
     ],
-    "name:roh_x_preferred":[
-        "Seychellas"
+    "name:roh_x_preferred": [
+      "Seychellas"
     ],
-    "name:ron_x_preferred":[
-        "Seychelles"
+    "name:ron_x_preferred": [
+      "Seychelles"
     ],
-    "name:run_x_preferred":[
-        "Amazinga ya Seyisheli"
+    "name:run_x_preferred": [
+      "Amazinga ya Seyisheli"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"
+    "name:rus_x_preferred": [
+      "Сейшельские Острова"
     ],
-    "name:rus_x_variant":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u043e-\u0432\u0430"
+    "name:rus_x_variant": [
+      "Сейшельские о-ва"
     ],
-    "name:sag_x_preferred":[
-        "S\u00ebysh\u00eale"
+    "name:sag_x_preferred": [
+      "Sëyshêle"
     ],
-    "name:sah_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u043b\u0430\u0440"
+    "name:sah_x_preferred": [
+      "Сейшеллар"
     ],
-    "name:san_x_preferred":[
-        "\u0938\u0947\u0936\u0947\u0932"
+    "name:san_x_preferred": [
+      "सेशेल"
     ],
-    "name:scn_x_preferred":[
-        "Seicelli"
+    "name:scn_x_preferred": [
+      "Seicelli"
     ],
-    "name:sco_x_preferred":[
-        "Seychelles"
+    "name:sco_x_preferred": [
+      "Seychelles"
     ],
-    "name:sgs_x_preferred":[
-        "Sei\u0161iel\u0113"
+    "name:sgs_x_preferred": [
+      "Seišielē"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc3\u0dd3\u0dc2\u0dd9\u0dbd\u0dca\u0dc3\u0dca"
+    "name:sin_x_preferred": [
+      "සීෂෙල්ස්"
     ],
-    "name:slk_x_preferred":[
-        "Seychely"
+    "name:slk_x_preferred": [
+      "Seychely"
     ],
-    "name:slk_x_variant":[
-        "Seychelsk\u00e9 ostrovy"
+    "name:slk_x_variant": [
+      "Seychelské ostrovy"
     ],
-    "name:slv_x_preferred":[
-        "Sej\u0161eli"
+    "name:slv_x_preferred": [
+      "Sejšeli"
     ],
-    "name:sme_x_preferred":[
-        "Seychellsullot"
+    "name:sme_x_preferred": [
+      "Seychellsullot"
     ],
-    "name:smo_x_preferred":[
-        "Seychelles"
+    "name:smo_x_preferred": [
+      "Seychelles"
     ],
-    "name:sna_x_preferred":[
-        "Seychelles"
+    "name:sna_x_preferred": [
+      "Seychelles"
     ],
-    "name:som_x_preferred":[
-        "Siishilis"
+    "name:som_x_preferred": [
+      "Siishilis"
     ],
-    "name:som_x_variant":[
-        "Sishelis",
-        "Seyshelles"
+    "name:som_x_variant": [
+      "Sishelis",
+      "Seyshelles"
     ],
-    "name:sot_x_preferred":[
-        "Seychelles"
+    "name:sot_x_preferred": [
+      "Seychelles"
     ],
-    "name:spa_x_preferred":[
-        "Seychelles"
+    "name:spa_x_preferred": [
+      "Seychelles"
     ],
-    "name:sqi_x_preferred":[
-        "Sejshellet"
+    "name:sqi_x_preferred": [
+      "Sejshellet"
     ],
-    "name:sqi_x_variant":[
-        "Sishel"
+    "name:sqi_x_variant": [
+      "Sishel"
     ],
-    "name:srd_x_preferred":[
-        "Seychelles"
+    "name:srd_x_preferred": [
+      "Seychelles"
     ],
-    "name:srp_x_preferred":[
-        "\u0421\u0435\u0458\u0448\u0435\u043b\u0438"
+    "name:srp_x_preferred": [
+      "Сејшели"
     ],
-    "name:ssw_x_preferred":[
-        "ISeyishelesi"
+    "name:ssw_x_preferred": [
+      "ISeyishelesi"
     ],
-    "name:stq_x_preferred":[
-        "Seychelle"
+    "name:stq_x_preferred": [
+      "Seychelle"
     ],
-    "name:sun_x_preferred":[
-        "Seych\u00e9ll"
+    "name:sun_x_preferred": [
+      "Seychéll"
     ],
-    "name:swa_x_preferred":[
-        "Shelisheli"
+    "name:swa_x_preferred": [
+      "Shelisheli"
     ],
-    "name:swa_x_variant":[
-        "Visiwa vya Shelisheli"
+    "name:swa_x_variant": [
+      "Visiwa vya Shelisheli"
     ],
-    "name:swe_x_preferred":[
-        "Seychellerna"
+    "name:swe_x_preferred": [
+      "Seychellerna"
     ],
-    "name:szl_x_preferred":[
-        "Seszele"
+    "name:szl_x_preferred": [
+      "Seszele"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9a\u0bc0\u0b9a\u0bc6\u0bb2\u0bcd\u0b9a\u0bc1"
+    "name:tam_x_preferred": [
+      "சீசெல்சு"
     ],
-    "name:tam_x_variant":[
-        "\u0bb8\u0bc7\u0b9a\u0bc7\u0bb2\u0bcd\u0bb8\u0bcd"
+    "name:tam_x_variant": [
+      "ஸேசேல்ஸ்"
     ],
-    "name:tat_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    "name:tat_x_preferred": [
+      "Сейшел утраулары"
     ],
-    "name:tel_x_preferred":[
-        "\u0c38\u0c40\u0c37\u0c46\u0c32\u0c4d\u0c38\u0c4d"
+    "name:tel_x_preferred": [
+      "సీషెల్స్"
     ],
-    "name:tel_x_variant":[
-        "\u0c38\u0c47\u0c37\u0c46\u0c32\u0c4d\u0c38\u0c4d"
+    "name:tel_x_variant": [
+      "సేషెల్స్"
     ],
-    "name:tgk_x_preferred":[
-        "\u04b6\u0430\u0437\u0438\u0440\u0430\u04b3\u043e\u0438 \u0421\u0435\u0439\u0448\u0435\u043b"
+    "name:tgk_x_preferred": [
+      "Ҷазираҳои Сейшел"
     ],
-    "name:tgl_x_preferred":[
-        "Seychelles"
+    "name:tgl_x_preferred": [
+      "Seychelles"
     ],
-    "name:tgl_x_variant":[
-        "Seyshels"
+    "name:tgl_x_variant": [
+      "Seyshels"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e40\u0e0a\u0e25\u0e2a\u0e4c"
+    "name:tha_x_preferred": [
+      "ประเทศเซเชลส์"
     ],
-    "name:tha_x_variant":[
-        "\u0e40\u0e0b\u0e40\u0e0a\u0e25\u0e2a\u0e4c"
+    "name:tha_x_variant": [
+      "เซเชลส์"
     ],
-    "name:tir_x_preferred":[
-        "\u1232\u123c\u120d\u1235"
+    "name:tir_x_preferred": [
+      "ሲሼልስ"
     ],
-    "name:ton_x_preferred":[
-        "\u02bbOtumotu Seiseli"
+    "name:ton_x_preferred": [
+      "ʻOtumotu Seiseli"
     ],
-    "name:tso_x_preferred":[
-        "Seychelles"
+    "name:tso_x_preferred": [
+      "Seychelles"
     ],
-    "name:tuk_x_preferred":[
-        "Se\u00fd\u015fel Adalary"
+    "name:tuk_x_preferred": [
+      "Seýşel Adalary"
     ],
-    "name:tur_x_preferred":[
-        "Sey\u015feller"
+    "name:tur_x_preferred": [
+      "Seyşeller"
     ],
-    "name:tur_x_variant":[
-        "Sey\u015fel Adalar\u0131",
-        "Seychelles"
+    "name:tur_x_variant": [
+      "Seyşel Adaları",
+      "Seychelles"
     ],
-    "name:udm_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0448\u043e\u0440\u043c\u0443\u04f5\u044a\u0451\u0441"
+    "name:udm_x_preferred": [
+      "Сейшел шормуӵъёс"
     ],
-    "name:uig_x_preferred":[
-        "\u0633\u06d0\u064a\u0634\u06d0\u0644 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    "name:uig_x_preferred": [
+      "سېيشېل ئاراللىرى"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    "name:ukr_x_preferred": [
+      "Сейшельські Острови"
     ],
-    "name:ukr_x_variant":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b\u0438"
+    "name:ukr_x_variant": [
+      "Сейшели"
     ],
-    "name:und_x_variant":[
-        "Colony of the Seychelles"
+    "name:und_x_variant": [
+      "Colony of the Seychelles"
     ],
-    "name:urd_x_preferred":[
-        "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"
+    "name:urd_x_preferred": [
+      "سیچیلیس"
     ],
-    "name:urd_x_variant":[
-        "\u0633\u0634\u0644\u06cc\u0632"
+    "name:urd_x_variant": [
+      "سشلیز"
     ],
-    "name:uzb_x_preferred":[
-        "Seyshell orollari"
+    "name:uzb_x_preferred": [
+      "Seyshell orollari"
     ],
-    "name:vec_x_preferred":[
-        "Seychelles"
+    "name:vec_x_preferred": [
+      "Seychelles"
     ],
-    "name:vep_x_preferred":[
-        "Sei\u0161elan Sared"
+    "name:vep_x_preferred": [
+      "Seišelan Sared"
     ],
-    "name:vie_x_preferred":[
-        "Seychelles"
+    "name:vie_x_preferred": [
+      "Seychelles"
     ],
-    "name:vie_x_variant":[
-        "X\u00e2y-sen",
-        "X\u00e2y sen (Seychelles)"
+    "name:vie_x_variant": [
+      "Xây-sen",
+      "Xây sen (Seychelles)"
     ],
-    "name:vol_x_preferred":[
-        "S\u00e4celu\u00e4ns"
+    "name:vol_x_preferred": [
+      "Säceluäns"
     ],
-    "name:war_x_preferred":[
-        "Seychelles"
+    "name:war_x_preferred": [
+      "Seychelles"
     ],
-    "name:wol_x_preferred":[
-        "Seysel"
+    "name:wol_x_preferred": [
+      "Seysel"
     ],
-    "name:wuu_x_preferred":[
-        "\u585e\u820c\u5c14"
+    "name:wuu_x_preferred": [
+      "塞舌尔"
     ],
-    "name:xal_x_preferred":[
-        "\u0421\u0435\u0439\u0448\u0435\u043b \u0410\u0440\u043b\u0438\u043d \u041e\u0440\u043d"
+    "name:xal_x_preferred": [
+      "Сейшел Арлин Орн"
     ],
-    "name:xmf_x_preferred":[
-        "\u10e1\u10d4\u10d8\u10e8\u10d4\u10da\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
+    "name:xmf_x_preferred": [
+      "სეიშელიშ კოკეფი"
     ],
-    "name:yid_x_preferred":[
-        "\u05e1\u05d9\u05d9\u05e9\u05e2\u05dc"
+    "name:yid_x_preferred": [
+      "סיישעל"
     ],
-    "name:yor_x_preferred":[
-        "\u1e62\u00e8\u00edh\u1eb9\u0301l\u1eb9\u0301s\u00ec"
+    "name:yor_x_preferred": [
+      "Ṣèíhẹ́lẹ́sì"
     ],
-    "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de se\u1e63\u1eb9l\u1eb9si"
+    "name:yor_x_variant": [
+      "Orílẹ́ède seṣẹlẹsi"
     ],
-    "name:yue_x_preferred":[
-        "\u585e\u820c\u723e"
+    "name:yue_x_preferred": [
+      "塞舌爾"
     ],
-    "name:zea_x_preferred":[
-        "Seychell'n"
+    "name:zea_x_preferred": [
+      "Seychell'n"
     ],
-    "name:zha_x_preferred":[
-        "Seychelles"
+    "name:zha_x_preferred": [
+      "Seychelles"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Sesel"
+    "name:zho_min_nan_x_preferred": [
+      "Sesel"
     ],
-    "name:zho_x_preferred":[
-        "\u585e\u820c\u5c14"
+    "name:zho_x_preferred": [
+      "塞舌尔"
     ],
-    "name:zho_x_variant":[
-        "\u585e\u5e2d\u723e",
-        "\u585e\u820c\u5c14\u7fa4\u5c9b"
+    "name:zho_x_variant": [
+      "塞席爾",
+      "塞舌尔群岛"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u585e\u820c\u723e"
+    "name:zho_yue_x_preferred": [
+      "塞舌爾"
     ],
-    "name:zul_x_preferred":[
-        "IsiSeyisheli"
+    "name:zul_x_preferred": [
+      "IsiSeyisheli"
     ],
-    "name:zul_x_variant":[
-        "i-Seychelles"
+    "name:zul_x_variant": [
+      "i-Seychelles"
     ],
-    "ne:abbrev":"Syc.",
-    "ne:abbrev_len":4,
-    "ne:adm0_a3":"SYC",
-    "ne:adm0_a3_is":"SYC",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"SYC",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":0,
-    "ne:admin":"Seychelles",
-    "ne:brk_a3":"SYC",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Seychelles",
-    "ne:continent":"Seven seas (open ocean)",
-    "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"SE",
-    "ne:formal_en":"Republic of Seychelles",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":1715,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Seychelles",
-    "ne:gu_a3":"SYC",
-    "ne:homepart":1,
-    "ne:income_grp":"3. Upper middle income",
-    "ne:iso_a2":"SC",
-    "ne:iso_a3":"SYC",
-    "ne:iso_n3":690,
-    "ne:labelrank":6,
-    "ne:lastcensus":2010,
-    "ne:level":2,
-    "ne:long_len":10,
-    "ne:mapcolor13":1,
-    "ne:mapcolor7":5,
-    "ne:mapcolor8":8,
-    "ne:mapcolor9":3,
-    "ne:name":"Seychelles",
-    "ne:name_alt":null,
-    "ne:name_len":10,
-    "ne:name_long":"Seychelles",
-    "ne:name_sort":"Seychelles",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":87476,
-    "ne:pop_year":-99,
-    "ne:postal":"SC",
-    "ne:region_un":"Africa",
-    "ne:region_wb":"Sub-Saharan Africa",
-    "ne:scalerank":5,
-    "ne:sov_a3":"SYC",
-    "ne:sovereignt":"Seychelles",
-    "ne:su_a3":"SYC",
-    "ne:su_dif":0,
-    "ne:subregion":"Eastern Africa",
-    "ne:subunit":"Seychelles",
-    "ne:tiny":2,
-    "ne:type":"Sovereign country",
-    "ne:un_a3":"690",
-    "ne:wb_a2":"SC",
-    "ne:wb_a3":"SYC",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":23424941,
-    "ne:woe_id_eh":23424941,
-    "ne:woe_note":"Exact WOE match as country",
-    "qs:a0":"Seychelles",
-    "qs:a0_alt":"Seychelles",
-    "qs:adm0":"Seychelles",
-    "qs:adm0_a3":"SYC",
-    "qs:level":"adm0",
-    "qs:scale":200000,
-    "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "naturalearth"
+    "ne:abbrev": "Syc.",
+    "ne:abbrev_len": 4,
+    "ne:adm0_a3": "SYC",
+    "ne:adm0_a3_is": "SYC",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "SYC",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 0,
+    "ne:admin": "Seychelles",
+    "ne:brk_a3": "SYC",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Seychelles",
+    "ne:continent": "Seven seas (open ocean)",
+    "ne:economy": "6. Developing region",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "SE",
+    "ne:formal_en": "Republic of Seychelles",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 1715,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Seychelles",
+    "ne:gu_a3": "SYC",
+    "ne:homepart": 1,
+    "ne:income_grp": "3. Upper middle income",
+    "ne:iso_a2": "SC",
+    "ne:iso_a3": "SYC",
+    "ne:iso_n3": 690,
+    "ne:labelrank": 6,
+    "ne:lastcensus": 2010,
+    "ne:level": 2,
+    "ne:long_len": 10,
+    "ne:mapcolor13": 1,
+    "ne:mapcolor7": 5,
+    "ne:mapcolor8": 8,
+    "ne:mapcolor9": 3,
+    "ne:name": "Seychelles",
+    "ne:name_alt": null,
+    "ne:name_len": 10,
+    "ne:name_long": "Seychelles",
+    "ne:name_sort": "Seychelles",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 87476,
+    "ne:pop_year": -99,
+    "ne:postal": "SC",
+    "ne:region_un": "Africa",
+    "ne:region_wb": "Sub-Saharan Africa",
+    "ne:scalerank": 5,
+    "ne:sov_a3": "SYC",
+    "ne:sovereignt": "Seychelles",
+    "ne:su_a3": "SYC",
+    "ne:su_dif": 0,
+    "ne:subregion": "Eastern Africa",
+    "ne:subunit": "Seychelles",
+    "ne:tiny": 2,
+    "ne:type": "Sovereign country",
+    "ne:un_a3": "690",
+    "ne:wb_a2": "SC",
+    "ne:wb_a3": "SYC",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": 23424941,
+    "ne:woe_id_eh": 23424941,
+    "ne:woe_note": "Exact WOE match as country",
+    "qs:a0": "Seychelles",
+    "qs:a0_alt": "Seychelles",
+    "qs:adm0": "Seychelles",
+    "qs:adm0_a3": "SYC",
+    "qs:level": "adm0",
+    "qs:scale": 200000,
+    "qs:source": "US State Department, with Natural Earth mods",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "naturalearth"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "statoids:dial":"248",
-    "statoids:ds":"SY",
-    "statoids:fifa":"SEY",
-    "statoids:gaul":"220",
-    "statoids:gec":"SE",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"SEY",
-    "statoids:iso_a2":"SC",
-    "statoids:iso_a3":"SYC",
-    "statoids:iso_num":"690",
-    "statoids:itu":"SEY",
-    "statoids:marc":"se",
-    "statoids:name":"Seychelles",
-    "statoids:wmo":"SC",
-    "wd:latitude":-7.1,
-    "wd:longitude":52.766667,
-    "wd:wordcount":5398,
-    "wof:belongsto":[
-        102193527
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "statoids:dial": "248",
+    "statoids:ds": "SY",
+    "statoids:fifa": "SEY",
+    "statoids:gaul": "220",
+    "statoids:gec": "SE",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "SEY",
+    "statoids:iso_a2": "SC",
+    "statoids:iso_a3": "SYC",
+    "statoids:iso_num": "690",
+    "statoids:itu": "SEY",
+    "statoids:marc": "se",
+    "statoids:name": "Seychelles",
+    "statoids:wmo": "SC",
+    "wd:latitude": -7.1,
+    "wd:longitude": 52.766667,
+    "wd:wordcount": 5398,
+    "wof:belongsto": [
+      102193527
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        421202159
+    "wof:breaches": [],
+    "wof:capital": [
+      421202159
     ],
-    "wof:concordances":{
-        "digitalenvoy:country_code":690,
-        "fifa:id":"SEY",
-        "fips:code":"SE",
-        "gaul:id":"220",
-        "gn:id":241170,
-        "gp:id":23424941,
-        "hasc:id":"SC",
-        "icao:code":"S7",
-        "ioc:id":"SEY",
-        "itu:id":"SEY",
-        "loc:id":"n79071099",
-        "m49:code":"690",
-        "marc:id":"se",
-        "mzb:id":"seychelles",
-        "ne:adm0_a3":"SYC",
-        "qs_pg:id":224792,
-        "uncrt:id":"SY",
-        "wd:id":"Q1042",
-        "wk:page":"Seychelles",
-        "wmo:id":"SC"
+    "wof:concordances": {
+      "digitalenvoy:country_code": 690,
+      "fifa:id": "SEY",
+      "fips:code": "SE",
+      "gaul:id": "220",
+      "gn:id": 241170,
+      "gp:id": 23424941,
+      "hasc:id": "SC",
+      "icao:code": "S7",
+      "ioc:id": "SEY",
+      "itu:id": "SEY",
+      "loc:id": "n79071099",
+      "m49:code": "690",
+      "marc:id": "se",
+      "mzb:id": "seychelles",
+      "ne:adm0_a3": "SYC",
+      "qs_pg:id": 224792,
+      "uncrt:id": "SY",
+      "wd:id": "Q1042",
+      "wk:page": "Seychelles",
+      "wmo:id": "SC"
     },
-    "wof:country":"SC",
-    "wof:country_alpha3":"SYC",
-    "wof:geom_alt":[
-        "naturalearth-display-terrestrial-zoom6",
-        "naturalearth"
+    "wof:country": "SC",
+    "wof:country_alpha3": "SYC",
+    "wof:created": 1624906759,
+    "wof:geom_alt": [
+      "naturalearth-display-terrestrial-zoom6",
+      "naturalearth"
     ],
-    "wof:geomhash":"c66e63847d010748d087d412384b68a7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102193527,
-            "country_id":85632661
-        }
+    "wof:geomhash": "c66e63847d010748d087d412384b68a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102193527,
+        "country_id": 85632661
+      }
     ],
-    "wof:id":85632661,
-    "wof:lang_x_official":[
-        "fra",
-        "eng"
+    "wof:id": 85632661,
+    "wof:lang_x_official": [
+      "fra",
+      "eng"
     ],
-    "wof:lang_x_spoken":[
-        "fra",
-        "eng"
+    "wof:lang_x_spoken": [
+      "fra",
+      "eng"
     ],
-    "wof:lastmodified":1583797463,
-    "wof:name":"Seychelles",
-    "wof:parent_id":102193527,
-    "wof:placetype":"country",
-    "wof:population":88340,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-sc",
-    "wof:shortcode":"SC",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906759,
+    "wof:name": "Seychelles",
+    "wof:parent_id": 102193527,
+    "wof:placetype": "country",
+    "wof:population": 88340,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-sc",
+    "wof:shortcode": "SC",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     46.199528,
     -10.219611,
     56.298752,
     -3.712055
-],
+  ],
   "geometry": {"coordinates":[[[[51.136665,-10.219611],[51.135807,-10.219611],[51.134583,-10.218333],[51.136665,-10.216278],[51.137474,-10.216278],[51.138748,-10.217527],[51.136665,-10.219611]]],[[[51.164139,-10.196278],[51.16164,-10.196278],[51.160416,-10.195],[51.160416,-10.191667],[51.161221,-10.19],[51.167084,-10.184222],[51.167084,-10.183361],[51.169582,-10.179222],[51.169582,-10.177555],[51.172054,-10.173361],[51.172054,-10.170834],[51.172916,-10.170028],[51.172916,-10.166695],[51.177113,-10.159223],[51.179195,-10.157084],[51.180805,-10.157084],[51.182083,-10.158361],[51.182083,-10.160028],[51.180416,-10.1625],[51.180416,-10.164222],[51.177917,-10.169222],[51.177917,-10.170834],[51.175415,-10.175028],[51.175415,-10.176695],[51.172054,-10.183333],[51.167084,-10.193334],[51.164139,-10.196278]]],[[[51.18578,-10.15375],[51.184971,-10.15375],[51.18375,-10.1525],[51.184166,-10.152083],[51.184971,-10.152083],[51.186195,-10.153361],[51.18578,-10.15375]]],[[[51.18578,-10.150416],[51.184971,-10.150416],[51.184582,-10.150028],[51.184582,-10.149167],[51.184971,-10.14875],[51.18578,-10.14875],[51.186249,-10.149167],[51.186249,-10.150028],[51.18578,-10.150416]]],[[[51.076637,-10.14375],[51.075832,-10.14375],[51.075417,-10.143361],[51.075417,-10.142555],[51.075832,-10.142083],[51.076637,-10.142083],[51.07711,-10.142555],[51.07711,-10.143361],[51.076637,-10.14375]]],[[[51.085804,-10.142944],[51.084972,-10.142944],[51.084583,-10.142555],[51.084583,-10.141694],[51.084972,-10.141277],[51.085804,-10.141277],[51.086193,-10.141694],[51.086193,-10.142555],[51.085804,-10.142944]]],[[[51.0975,-10.142083],[51.096638,-10.142083],[51.096222,-10.141694],[51.096222,-10.140889],[51.096638,-10.140472],[51.0975,-10.140472],[51.097916,-10.140889],[51.097916,-10.141666],[51.0975,-10.142083]]],[[[51.187027,-10.106667],[51.193779,-10.119972],[51.193722,-10.135834],[51.192055,-10.140028],[51.188332,-10.143778],[51.184971,-10.145445],[51.183361,-10.145445],[51.182083,-10.143361],[51.188721,-10.1375],[51.18961,-10.134973],[51.190418,-10.134167],[51.190418,-10.121722],[51.186222,-10.111667],[51.182472,-10.108806],[51.180027,-10.108806],[51.173306,-10.115472],[51.171696,-10.114611],[51.167915,-10.114195],[51.171223,-10.107528],[51.173306,-10.106277],[51.174973,-10.106277],[51.179554,-10.101666],[51.179554,-10.100862],[51.180832,-10.100472],[51.187027,-10.106667]]],[[[47.744583,-10.075889],[47.74411,-10.076278],[47.743752,-10.075889],[47.743752,-10.075027],[47.744167,-10.074555],[47.744556,-10.075027],[47.744583,-10.075889]]],[[[47.739971,-10.04625],[47.745419,-10.051666],[47.748749,-10.057472],[47.748722,-10.06],[47.749554,-10.060862],[47.750446,-10.070027],[47.749554,-10.070833],[47.748722,-10.074166],[47.744583,-10.083333],[47.739971,-10.087111],[47.73,-10.089583],[47.729557,-10.086667],[47.727112,-10.084167],[47.727085,-10.0825],[47.728306,-10.081278],[47.728722,-10.082556],[47.727917,-10.083361],[47.729195,-10.084611],[47.732471,-10.083777],[47.733334,-10.082916],[47.736637,-10.08375],[47.740444,-10.080055],[47.741638,-10.077111],[47.744141,-10.077945],[47.745388,-10.076667],[47.744583,-10.070027],[47.74625,-10.0675],[47.74625,-10.061694],[47.747055,-10.060028],[47.744999,-10.057111],[47.7425,-10.057138],[47.740833,-10.056278],[47.738724,-10.053389],[47.73875,-10.050861],[47.739555,-10.049194],[47.738335,-10.048805],[47.733749,-10.054167],[47.731251,-10.060833],[47.732056,-10.061694],[47.732029,-10.064167],[47.727917,-10.069195],[47.727917,-10.071722],[47.726196,-10.074195],[47.725418,-10.076722],[47.723751,-10.078333],[47.723721,-10.081667],[47.727055,-10.085834],[47.726665,-10.087111],[47.723305,-10.086278],[47.719555,-10.0825],[47.717888,-10.077528],[47.715389,-10.075027],[47.717056,-10.074223],[47.716221,-10.071694],[47.719555,-10.067528],[47.719555,-10.066667],[47.723362,-10.064584],[47.726223,-10.061694],[47.730389,-10.054194],[47.731224,-10.050861],[47.733749,-10.048306],[47.732887,-10.043333],[47.734112,-10.042916],[47.739971,-10.04625]]],[[[47.592918,-9.755834],[47.590778,-9.757916],[47.588306,-9.757944],[47.587502,-9.757083],[47.584946,-9.758778],[47.582474,-9.758722],[47.581665,-9.759611],[47.575001,-9.759583],[47.574139,-9.760445],[47.573334,-9.759611],[47.566696,-9.759583],[47.564583,-9.7575],[47.564972,-9.756278],[47.567528,-9.75625],[47.569973,-9.758778],[47.57164,-9.757083],[47.575001,-9.757055],[47.575806,-9.757916],[47.577473,-9.757916],[47.578335,-9.757112],[47.581638,-9.757139],[47.586666,-9.754556],[47.589138,-9.754611],[47.589943,-9.755417],[47.592918,-9.755834]]],[[[47.506248,-9.721723],[47.505833,-9.722111],[47.504555,-9.720861],[47.504612,-9.719194],[47.505001,-9.718805],[47.506222,-9.72],[47.506248,-9.721723]]],[[[47.653305,-9.718778],[47.652473,-9.718778],[47.652084,-9.718389],[47.652054,-9.717527],[47.652473,-9.717112],[47.653332,-9.717112],[47.653751,-9.7175],[47.653751,-9.718361],[47.653305,-9.718778]]],[[[47.605362,-9.751667],[47.604168,-9.752944],[47.602501,-9.752889],[47.602085,-9.751695],[47.601196,-9.750834],[47.601196,-9.749972],[47.601665,-9.749583],[47.603333,-9.749611],[47.604137,-9.750417],[47.605362,-9.750806],[47.605362,-9.751667]]],[[[47.644165,-9.72125],[47.646641,-9.72375],[47.647499,-9.722944],[47.649166,-9.723805],[47.652443,-9.722917],[47.652889,-9.725028],[47.652084,-9.725833],[47.651249,-9.730833],[47.647888,-9.737528],[47.643776,-9.742528],[47.643776,-9.743333],[47.636665,-9.750389],[47.633305,-9.751278],[47.631668,-9.749583],[47.629581,-9.749194],[47.629581,-9.748333],[47.631638,-9.74625],[47.632526,-9.74625],[47.634972,-9.74375],[47.639137,-9.742917],[47.641224,-9.740833],[47.642918,-9.736694],[47.645443,-9.734138],[47.644554,-9.732555],[47.644611,-9.730833],[47.64539,-9.730028],[47.645363,-9.726694],[47.643333,-9.724584],[47.638748,-9.723361],[47.639137,-9.722083],[47.64164,-9.722083],[47.642502,-9.72125],[47.644165,-9.72125]]],[[[47.640804,-9.687944],[47.639168,-9.687944],[47.63789,-9.686694],[47.63789,-9.685833],[47.638332,-9.685445],[47.640026,-9.685416],[47.641251,-9.686666],[47.641251,-9.687528],[47.640804,-9.687944]]],[[[47.548279,-9.68375],[47.547474,-9.683778],[47.547085,-9.683361],[47.547054,-9.6825],[47.547527,-9.682111],[47.549137,-9.682083],[47.549557,-9.6825],[47.548279,-9.68375]]],[[[47.624973,-9.677972],[47.624168,-9.677972],[47.623722,-9.677527],[47.623695,-9.676666],[47.624168,-9.67625],[47.624973,-9.67625],[47.625389,-9.676695],[47.625389,-9.6775],[47.624973,-9.677972]]],[[[47.559166,-9.659583],[47.558334,-9.659583],[47.557945,-9.659194],[47.557919,-9.658334],[47.558334,-9.657917],[47.559139,-9.657917],[47.559555,-9.658389],[47.559555,-9.659166],[47.559166,-9.659583]]],[[[47.585388,-9.650833],[47.584999,-9.652972],[47.582527,-9.652111],[47.580002,-9.654612],[47.578777,-9.653361],[47.579556,-9.650833],[47.581665,-9.64875],[47.58411,-9.649583],[47.585388,-9.650833]]],[[[47.576637,-9.64625],[47.575832,-9.64625],[47.575417,-9.645861],[47.575417,-9.645],[47.575806,-9.644611],[47.576611,-9.644584],[47.577084,-9.645],[47.577084,-9.645861],[47.576637,-9.64625]]],[[[47.568695,-9.6525],[47.567501,-9.652917],[47.566277,-9.651722],[47.56625,-9.65],[47.567917,-9.647528],[47.56789,-9.645861],[47.569168,-9.644584],[47.569973,-9.644639],[47.571251,-9.646694],[47.568748,-9.650861],[47.568695,-9.6525]]],[[[50.98914,-9.545472],[50.990807,-9.547083],[50.992474,-9.547083],[50.993752,-9.548361],[50.990002,-9.551278],[50.98914,-9.551278],[50.987499,-9.55375],[50.985416,-9.553333],[50.986221,-9.550028],[50.987057,-9.549167],[50.987057,-9.546695],[50.988304,-9.545472],[50.98914,-9.545472]]],[[[50.995834,-9.54375],[50.994972,-9.54375],[50.994556,-9.543361],[50.994556,-9.542556],[50.995834,-9.541278],[50.997471,-9.541278],[50.997917,-9.541695],[50.995834,-9.54375]]],[[[50.989582,-9.534166],[50.991665,-9.534611],[50.992474,-9.53375],[50.992889,-9.535028],[50.991222,-9.536695],[50.989582,-9.540889],[50.990807,-9.542084],[50.992474,-9.541278],[50.993752,-9.541695],[50.991665,-9.54375],[50.990002,-9.54375],[50.987057,-9.540889],[50.987057,-9.527555],[50.992085,-9.5175],[50.994972,-9.514639],[50.995834,-9.514639],[50.99625,-9.515833],[50.995388,-9.5175],[50.990391,-9.525833],[50.991222,-9.530027],[50.990391,-9.530833],[50.989582,-9.534166]]],[[[46.504166,-9.752084],[46.493362,-9.752139],[46.492474,-9.751278],[46.489166,-9.750417],[46.487083,-9.748362],[46.487915,-9.7425],[46.487057,-9.741639],[46.487083,-9.737528],[46.492443,-9.732944],[46.495804,-9.731277],[46.498306,-9.731277],[46.499168,-9.730389],[46.502499,-9.729584],[46.50872,-9.723361],[46.509583,-9.721694],[46.51125,-9.717556],[46.512859,-9.715861],[46.512917,-9.711695],[46.512085,-9.710834],[46.512085,-9.708361],[46.511196,-9.707556],[46.51125,-9.700833],[46.51289,-9.697556],[46.514973,-9.695416],[46.517471,-9.695472],[46.519554,-9.697528],[46.519554,-9.698389],[46.522057,-9.700833],[46.522888,-9.705028],[46.52375,-9.705833],[46.523724,-9.725805],[46.520416,-9.734222],[46.517887,-9.737556],[46.513695,-9.745028],[46.50914,-9.749583],[46.506668,-9.750472],[46.504166,-9.752084]]],[[[47.653332,-9.715445],[47.652443,-9.715445],[47.652054,-9.714194],[47.651222,-9.713333],[47.651196,-9.710861],[47.652916,-9.707528],[47.652916,-9.705861],[47.649555,-9.700833],[47.649555,-9.700027],[47.650833,-9.699639],[47.654556,-9.702528],[47.653751,-9.704194],[47.654583,-9.705],[47.654583,-9.713361],[47.653332,-9.715445]]],[[[47.51289,-9.706695],[47.512501,-9.707084],[47.511276,-9.705833],[47.511276,-9.705028],[47.511665,-9.704638],[47.512474,-9.704638],[47.51289,-9.705028],[47.51289,-9.706695]]],[[[47.517471,-9.690416],[47.523724,-9.693361],[47.519165,-9.693778],[47.516224,-9.695833],[47.516251,-9.698334],[47.515388,-9.700027],[47.512501,-9.70125],[47.508335,-9.706278],[47.507057,-9.706667],[47.50539,-9.709167],[47.50539,-9.710028],[47.507027,-9.711667],[47.507057,-9.715],[47.505001,-9.717083],[47.503307,-9.717083],[47.502029,-9.715834],[47.500389,-9.712528],[47.500389,-9.705],[47.501251,-9.704194],[47.501251,-9.702528],[47.502888,-9.699195],[47.502083,-9.697528],[47.505001,-9.69625],[47.507473,-9.692972],[47.50914,-9.692083],[47.511696,-9.692111],[47.514973,-9.690444],[47.517471,-9.690416]]],[[[50.715805,-9.310389],[50.718304,-9.312111],[50.719166,-9.312111],[50.721249,-9.314195],[50.722916,-9.317528],[50.722916,-9.320861],[50.720028,-9.324583],[50.718334,-9.325444],[50.714169,-9.325444],[50.711224,-9.323305],[50.709557,-9.320056],[50.709557,-9.313334],[50.711639,-9.31125],[50.715805,-9.310389]]],[[[51.040417,-9.2475],[51.038334,-9.24875],[51.036194,-9.245889],[51.036194,-9.2425],[51.037056,-9.241694],[51.037056,-9.235833],[51.036251,-9.235027],[51.035446,-9.230833],[51.034584,-9.230028],[51.034584,-9.228361],[51.033695,-9.2275],[51.033695,-9.223361],[51.034584,-9.2225],[51.035446,-9.2175],[51.03664,-9.21625],[51.037529,-9.21625],[51.038723,-9.2175],[51.038723,-9.221639],[51.039612,-9.2225],[51.039612,-9.225028],[51.041222,-9.228361],[51.041222,-9.234167],[51.040417,-9.235027],[51.040417,-9.2475]]],[[[56.243279,-7.192111],[56.242474,-7.192111],[56.242085,-7.191639],[56.242085,-7.190861],[56.243305,-7.189583],[56.245029,-7.189583],[56.245419,-7.190055],[56.243279,-7.192111]]],[[[52.735363,-7.157528],[52.73164,-7.157945],[52.728748,-7.155889],[52.72789,-7.154167],[52.727917,-7.149167],[52.73,-7.147972],[52.731194,-7.149167],[52.731224,-7.1525],[52.732082,-7.154222],[52.734974,-7.155416],[52.735363,-7.157528]]],[[[56.260387,-7.176694],[56.258335,-7.17875],[56.257057,-7.178361],[56.257057,-7.174222],[56.257862,-7.173361],[56.258751,-7.168361],[56.260418,-7.165028],[56.263748,-7.161695],[56.268723,-7.153389],[56.268723,-7.150861],[56.269585,-7.15],[56.269585,-7.140861],[56.270416,-7.14],[56.270416,-7.135861],[56.272083,-7.133333],[56.272888,-7.129167],[56.274555,-7.126695],[56.274555,-7.125028],[56.276249,-7.122556],[56.276249,-7.120833],[56.280388,-7.113361],[56.282082,-7.1075],[56.282944,-7.106722],[56.282944,-7.105055],[56.283749,-7.104195],[56.283749,-7.101722],[56.284557,-7.1],[56.286221,-7.097528],[56.286221,-7.095861],[56.287918,-7.092528],[56.291637,-7.089611],[56.294971,-7.088806],[56.296638,-7.087083],[56.298721,-7.0875],[56.29789,-7.096694],[56.298695,-7.0975],[56.298752,-7.105861],[56.297085,-7.109194],[56.297085,-7.111667],[56.296196,-7.112528],[56.296249,-7.115861],[56.294582,-7.119195],[56.294582,-7.121722],[56.293724,-7.122528],[56.293777,-7.125056],[56.292057,-7.128334],[56.292057,-7.130055],[56.289555,-7.133361],[56.28875,-7.135833],[56.285416,-7.140833],[56.278332,-7.147944],[56.277527,-7.147944],[56.272057,-7.154194],[56.268749,-7.16],[56.268749,-7.163389],[56.267082,-7.164972],[56.262085,-7.173361],[56.262085,-7.174222],[56.260387,-7.175833],[56.260387,-7.176694]]],[[[52.734974,-7.050445],[52.732498,-7.050472],[52.731224,-7.049194],[52.73164,-7.047945],[52.735832,-7.047917],[52.736221,-7.048389],[52.736221,-7.049194],[52.734974,-7.050445]]],[[[52.729973,-7.002917],[52.73164,-7.004639],[52.733723,-7.005028],[52.732056,-7.008306],[52.73,-7.010445],[52.728333,-7.010445],[52.725807,-7.008806],[52.721668,-7.008806],[52.72086,-7.007945],[52.719971,-7.007972],[52.719112,-7.007111],[52.718304,-7.007111],[52.717918,-7.006694],[52.721638,-7.002972],[52.723362,-7.002944],[52.726639,-7.004611],[52.729973,-7.002917]]],[[[53.05164,-6.242917],[53.048306,-6.242944],[53.043694,-6.239167],[53.044556,-6.236694],[53.046665,-6.234556],[53.048332,-6.234556],[53.053749,-6.239194],[53.054554,-6.241722],[53.05164,-6.242917]]],[[[53.152473,-6.187944],[53.150833,-6.187944],[53.150417,-6.186666],[53.149555,-6.185889],[53.149582,-6.1825],[53.150391,-6.181695],[53.151222,-6.176694],[53.153332,-6.17375],[53.154945,-6.173806],[53.156223,-6.175],[53.156223,-6.178333],[53.154583,-6.181667],[53.154583,-6.183333],[53.153721,-6.184195],[53.153751,-6.186666],[53.152473,-6.187944]]],[[[52.839973,-6.09125],[52.838333,-6.09125],[52.837055,-6.09],[52.837055,-6.089194],[52.838306,-6.087917],[52.839973,-6.087917],[52.841251,-6.089167],[52.841251,-6.090028],[52.839973,-6.09125]]],[[[53.032501,-5.885417],[53.030834,-5.885417],[53.029556,-5.884222],[53.030834,-5.882945],[53.031639,-5.882945],[53.03289,-5.884194],[53.03289,-5.885056],[53.032501,-5.885417]]],[[[46.451611,-9.370417],[46.452499,-9.371278],[46.455833,-9.371278],[46.458279,-9.372916],[46.461693,-9.372916],[46.462444,-9.373777],[46.465862,-9.37375],[46.469166,-9.375472],[46.473331,-9.375444],[46.476639,-9.377111],[46.477501,-9.377889],[46.480804,-9.377944],[46.481667,-9.37875],[46.489113,-9.379583],[46.490002,-9.380445],[46.493305,-9.381278],[46.495777,-9.382944],[46.497471,-9.382916],[46.50164,-9.38625],[46.503307,-9.386222],[46.504139,-9.387083],[46.506668,-9.387083],[46.509167,-9.389584],[46.512474,-9.391306],[46.514137,-9.391306],[46.515835,-9.392944],[46.517502,-9.392944],[46.520416,-9.396667],[46.520443,-9.399195],[46.521252,-9.400056],[46.521221,-9.405861],[46.520416,-9.406667],[46.52039,-9.414166],[46.515388,-9.423333],[46.513721,-9.427527],[46.504166,-9.436306],[46.499138,-9.438778],[46.496666,-9.43875],[46.494141,-9.440473],[46.490833,-9.440416],[46.487473,-9.442111],[46.482445,-9.442945],[46.480778,-9.444612],[46.477501,-9.444612],[46.474998,-9.446305],[46.47086,-9.447111],[46.465832,-9.449611],[46.459999,-9.450444],[46.459141,-9.451305],[46.452473,-9.451278],[46.451668,-9.452084],[46.443279,-9.452111],[46.442471,-9.45125],[46.440861,-9.45125],[46.439972,-9.450389],[46.434139,-9.450417],[46.433334,-9.449555],[46.429111,-9.448778],[46.421638,-9.444612],[46.416668,-9.444583],[46.415833,-9.443778],[46.410805,-9.44375],[46.41,-9.444612],[46.404167,-9.444639],[46.403305,-9.445444],[46.397472,-9.445416],[46.394165,-9.447945],[46.39164,-9.447945],[46.390835,-9.44875],[46.38586,-9.449583],[46.382446,-9.451278],[46.380833,-9.452945],[46.379166,-9.452945],[46.378307,-9.45375],[46.374138,-9.453777],[46.371639,-9.455444],[46.369972,-9.455444],[46.366638,-9.457916],[46.364944,-9.457945],[46.361668,-9.459611],[46.358307,-9.459639],[46.357498,-9.460444],[46.35247,-9.460444],[46.351665,-9.46125],[46.3475,-9.461278],[46.346638,-9.462083],[46.344139,-9.462083],[46.343277,-9.462944],[46.340805,-9.462973],[46.327473,-9.469611],[46.325779,-9.469639],[46.324165,-9.471306],[46.320835,-9.472111],[46.320026,-9.472917],[46.318333,-9.472917],[46.31414,-9.475472],[46.312443,-9.477083],[46.308304,-9.478778],[46.300804,-9.485389],[46.296638,-9.487083],[46.294971,-9.487083],[46.294167,-9.487945],[46.292473,-9.487945],[46.287472,-9.490444],[46.268307,-9.490444],[46.267502,-9.49125],[46.256638,-9.49125],[46.255833,-9.490444],[46.249168,-9.490417],[46.248306,-9.489611],[46.245804,-9.488806],[46.241638,-9.485444],[46.234974,-9.484612],[46.232498,-9.482944],[46.230804,-9.482944],[46.226223,-9.478361],[46.226223,-9.4775],[46.223721,-9.475],[46.222027,-9.471666],[46.221222,-9.468333],[46.22039,-9.467556],[46.22039,-9.464167],[46.219582,-9.463361],[46.219555,-9.458361],[46.216251,-9.454166],[46.216251,-9.451694],[46.215363,-9.450861],[46.214611,-9.446722],[46.210415,-9.440889],[46.210415,-9.439222],[46.208721,-9.435889],[46.208721,-9.433361],[46.207916,-9.4325],[46.20789,-9.430028],[46.207085,-9.429167],[46.206249,-9.424167],[46.205387,-9.423388],[46.205387,-9.420861],[46.204556,-9.420055],[46.204556,-9.416667],[46.206223,-9.415055],[46.206223,-9.414194],[46.203724,-9.412528],[46.203724,-9.407528],[46.202888,-9.406667],[46.203751,-9.404195],[46.202888,-9.402555],[46.20414,-9.401278],[46.208305,-9.40125],[46.209583,-9.402528],[46.207916,-9.403334],[46.208721,-9.405056],[46.207054,-9.408334],[46.20789,-9.409194],[46.207085,-9.411667],[46.209583,-9.414166],[46.210388,-9.4175],[46.213696,-9.420028],[46.213696,-9.420889],[46.212082,-9.4225],[46.212082,-9.424222],[46.215,-9.427083],[46.21703,-9.428333],[46.217499,-9.429584],[46.22039,-9.430861],[46.22039,-9.432528],[46.221668,-9.432917],[46.223305,-9.435445],[46.224972,-9.435416],[46.225834,-9.436277],[46.226665,-9.436277],[46.230026,-9.440473],[46.232445,-9.44125],[46.234554,-9.443389],[46.234138,-9.444583],[46.232861,-9.445],[46.233749,-9.446722],[46.232887,-9.449195],[46.234974,-9.449583],[46.235832,-9.448778],[46.238335,-9.44875],[46.240002,-9.451278],[46.241695,-9.451278],[46.242916,-9.452528],[46.242916,-9.455],[46.241249,-9.456667],[46.241665,-9.457945],[46.243332,-9.457916],[46.244999,-9.45625],[46.247501,-9.45625],[46.249168,-9.457973],[46.253334,-9.455417],[46.255001,-9.452945],[46.255806,-9.452945],[46.257084,-9.454194],[46.25872,-9.458333],[46.259998,-9.460444],[46.261665,-9.459583],[46.263748,-9.460028],[46.263748,-9.461695],[46.262085,-9.464167],[46.262501,-9.465445],[46.264168,-9.465445],[46.265862,-9.46375],[46.271641,-9.462944],[46.272499,-9.463805],[46.275806,-9.463778],[46.278332,-9.462111],[46.279945,-9.462111],[46.281612,-9.460444],[46.284973,-9.460417],[46.28664,-9.457945],[46.288334,-9.457945],[46.2925,-9.46125],[46.294971,-9.457973],[46.296665,-9.457973],[46.299137,-9.459611],[46.300804,-9.457945],[46.304165,-9.458805],[46.304585,-9.457472],[46.302891,-9.455889],[46.303276,-9.454611],[46.306641,-9.454611],[46.309139,-9.457111],[46.310417,-9.456722],[46.310417,-9.455055],[46.311668,-9.453777],[46.318333,-9.454611],[46.32,-9.452084],[46.321667,-9.451278],[46.328335,-9.451305],[46.330002,-9.449583],[46.334141,-9.449611],[46.33503,-9.447945],[46.343334,-9.447972],[46.345806,-9.443778],[46.348362,-9.44375],[46.349972,-9.444612],[46.353333,-9.442945],[46.355,-9.439611],[46.356667,-9.438778],[46.359974,-9.438778],[46.363724,-9.441694],[46.36375,-9.444167],[46.365028,-9.447083],[46.366222,-9.445861],[46.365417,-9.442555],[46.367474,-9.440473],[46.370777,-9.44125],[46.371639,-9.439584],[46.373333,-9.438778],[46.375,-9.438778],[46.377499,-9.441305],[46.378361,-9.441278],[46.37875,-9.440028],[46.377083,-9.438361],[46.378334,-9.436306],[46.380833,-9.437083],[46.383305,-9.435416],[46.386665,-9.435445],[46.38789,-9.436666],[46.38789,-9.439195],[46.388306,-9.439584],[46.389973,-9.438778],[46.390835,-9.439584],[46.391251,-9.4375],[46.388748,-9.435056],[46.389999,-9.433778],[46.392502,-9.433778],[46.394974,-9.432083],[46.397472,-9.432083],[46.4025,-9.434584],[46.404194,-9.43625],[46.404167,-9.432111],[46.409138,-9.432083],[46.410831,-9.434611],[46.412498,-9.43375],[46.414139,-9.434611],[46.414585,-9.432528],[46.412029,-9.430889],[46.412888,-9.429167],[46.41497,-9.42875],[46.416668,-9.430445],[46.417526,-9.430445],[46.419998,-9.427917],[46.422474,-9.427917],[46.423306,-9.428778],[46.424557,-9.428361],[46.422054,-9.424167],[46.425415,-9.420834],[46.425388,-9.4175],[46.424583,-9.416695],[46.425835,-9.415444],[46.429138,-9.414611],[46.429974,-9.417139],[46.431694,-9.415417],[46.43914,-9.415444],[46.442501,-9.417084],[46.447472,-9.416278],[46.448334,-9.415472],[46.450832,-9.415444],[46.452499,-9.41625],[46.452915,-9.415028],[46.452026,-9.414166],[46.454113,-9.413777],[46.454971,-9.412111],[46.456665,-9.412084],[46.458752,-9.414139],[46.458752,-9.415],[46.463333,-9.419583],[46.46661,-9.417916],[46.470779,-9.417945],[46.473331,-9.419611],[46.474945,-9.417139],[46.478306,-9.417111],[46.479973,-9.418777],[46.480804,-9.418777],[46.482056,-9.4175],[46.479168,-9.414583],[46.478333,-9.414583],[46.47747,-9.413777],[46.471638,-9.41375],[46.468334,-9.409639],[46.46664,-9.409583],[46.465363,-9.408389],[46.466221,-9.406722],[46.465416,-9.405],[46.465416,-9.404195],[46.467888,-9.401722],[46.467918,-9.398389],[46.467529,-9.397917],[46.464973,-9.399611],[46.463749,-9.397528],[46.463749,-9.395861],[46.46125,-9.391694],[46.46125,-9.390028],[46.462917,-9.388361],[46.462112,-9.387555],[46.462891,-9.385889],[46.462502,-9.385417],[46.458332,-9.385445],[46.456249,-9.384194],[46.455833,-9.382916],[46.452499,-9.386278],[46.451221,-9.385889],[46.449585,-9.3825],[46.451668,-9.381278],[46.453278,-9.381278],[46.455418,-9.379194],[46.452862,-9.379222],[46.452526,-9.377944],[46.449974,-9.380417],[46.447498,-9.380445],[46.445,-9.377111],[46.443333,-9.377111],[46.442112,-9.375861],[46.442081,-9.374194],[46.439556,-9.371695],[46.439999,-9.370417],[46.451611,-9.370417]]],[[[46.244999,-9.420417],[46.245804,-9.421278],[46.248333,-9.421278],[46.251251,-9.424194],[46.251251,-9.425056],[46.247501,-9.427139],[46.244946,-9.427139],[46.242111,-9.423361],[46.242111,-9.421695],[46.243305,-9.420444],[46.244999,-9.420417]]],[[[46.254581,-9.423388],[46.254139,-9.423778],[46.253334,-9.423722],[46.252918,-9.423333],[46.253334,-9.422916],[46.254139,-9.422973],[46.254581,-9.423388]]],[[[46.434971,-9.411278],[46.433277,-9.411278],[46.432888,-9.410861],[46.432888,-9.41],[46.43375,-9.409194],[46.43375,-9.408334],[46.434139,-9.407945],[46.435001,-9.407945],[46.435417,-9.408334],[46.43536,-9.410861],[46.434971,-9.411278]]],[[[46.430805,-9.410417],[46.428307,-9.410417],[46.427029,-9.409223],[46.427029,-9.408361],[46.42836,-9.407111],[46.429111,-9.407084],[46.429585,-9.4075],[46.429585,-9.408361],[46.431194,-9.409223],[46.431194,-9.410028],[46.430805,-9.410417]]],[[[46.457474,-9.387111],[46.45789,-9.390028],[46.460388,-9.391694],[46.460388,-9.393361],[46.462891,-9.397555],[46.462891,-9.399138],[46.464584,-9.402528],[46.463333,-9.40375],[46.459972,-9.40375],[46.458305,-9.405416],[46.456276,-9.404166],[46.457085,-9.403361],[46.45789,-9.401694],[46.457863,-9.399167],[46.459583,-9.395833],[46.458305,-9.394639],[46.455029,-9.394639],[46.45414,-9.392917],[46.453335,-9.392917],[46.450359,-9.39],[46.454166,-9.387139],[46.45586,-9.387917],[46.457474,-9.387111]]],[[[46.228306,-9.392917],[46.22747,-9.392917],[46.227085,-9.392528],[46.228279,-9.39125],[46.229168,-9.39125],[46.229557,-9.391723],[46.228306,-9.392917]]],[[[46.235832,-9.36625],[46.237915,-9.369166],[46.237946,-9.3725],[46.236668,-9.373777],[46.235806,-9.373777],[46.234165,-9.372111],[46.229137,-9.372139],[46.228279,-9.371278],[46.227055,-9.371667],[46.228279,-9.372945],[46.233307,-9.372916],[46.235001,-9.374639],[46.236668,-9.374639],[46.237888,-9.375834],[46.238724,-9.378361],[46.240391,-9.380889],[46.240391,-9.383361],[46.242027,-9.385],[46.241249,-9.39],[46.239971,-9.391277],[46.23875,-9.390889],[46.23875,-9.389167],[46.239555,-9.388333],[46.239529,-9.385028],[46.238335,-9.38375],[46.236668,-9.386222],[46.233749,-9.380834],[46.233723,-9.378305],[46.232471,-9.377111],[46.232056,-9.379194],[46.232944,-9.380055],[46.232944,-9.3825],[46.230804,-9.384583],[46.228333,-9.384583],[46.224972,-9.382944],[46.223278,-9.382944],[46.220417,-9.386695],[46.221695,-9.388805],[46.224167,-9.389611],[46.225388,-9.390862],[46.223721,-9.394195],[46.224998,-9.395416],[46.227501,-9.395445],[46.228722,-9.396722],[46.227501,-9.398778],[46.226639,-9.398778],[46.224167,-9.40125],[46.221611,-9.400416],[46.216694,-9.396305],[46.212502,-9.394584],[46.209972,-9.392111],[46.209141,-9.392138],[46.208752,-9.394195],[46.209557,-9.395861],[46.208721,-9.397528],[46.205833,-9.400473],[46.20414,-9.400416],[46.201248,-9.396694],[46.201248,-9.394222],[46.199554,-9.390833],[46.199528,-9.385834],[46.202057,-9.3825],[46.202057,-9.381695],[46.204529,-9.379222],[46.204529,-9.376695],[46.208332,-9.372945],[46.209999,-9.372945],[46.213306,-9.370417],[46.214973,-9.370472],[46.217445,-9.368722],[46.219196,-9.368778],[46.221668,-9.367111],[46.226639,-9.367084],[46.227501,-9.366278],[46.235832,-9.36625]]],[[[46.271667,-9.380417],[46.270805,-9.380417],[46.27039,-9.380028],[46.27039,-9.379167],[46.272472,-9.377084],[46.273335,-9.377084],[46.27375,-9.3775],[46.27375,-9.378361],[46.271667,-9.380417]]],[[[46.392502,-9.362917],[46.393307,-9.363778],[46.398335,-9.36375],[46.399166,-9.364611],[46.401638,-9.364611],[46.402527,-9.365472],[46.409168,-9.365444],[46.409973,-9.366278],[46.416637,-9.366278],[46.419998,-9.367917],[46.425835,-9.36875],[46.42664,-9.369611],[46.432472,-9.368778],[46.437054,-9.370833],[46.437054,-9.374222],[46.435806,-9.375444],[46.434971,-9.372916],[46.433777,-9.373362],[46.431667,-9.380445],[46.429974,-9.380445],[46.427502,-9.378805],[46.425804,-9.376278],[46.424999,-9.380472],[46.421638,-9.37875],[46.420444,-9.380028],[46.420387,-9.383361],[46.418304,-9.383778],[46.414139,-9.38125],[46.41375,-9.382527],[46.410805,-9.384611],[46.409195,-9.384611],[46.407501,-9.382944],[46.406639,-9.382944],[46.405834,-9.384611],[46.405029,-9.384583],[46.404556,-9.3825],[46.403332,-9.38125],[46.401669,-9.382916],[46.399166,-9.382916],[46.397499,-9.381278],[46.396694,-9.382139],[46.391666,-9.382083],[46.390804,-9.382916],[46.387501,-9.382916],[46.383335,-9.381278],[46.379166,-9.381278],[46.377472,-9.378778],[46.375805,-9.380445],[46.373333,-9.380445],[46.371639,-9.379583],[46.368305,-9.382944],[46.365807,-9.382944],[46.365002,-9.382083],[46.362526,-9.382083],[46.360832,-9.380445],[46.354195,-9.380472],[46.352501,-9.37875],[46.34914,-9.379611],[46.346611,-9.381306],[46.34539,-9.380834],[46.346249,-9.379167],[46.34586,-9.377916],[46.343304,-9.377916],[46.342499,-9.377111],[46.340832,-9.378778],[46.339138,-9.378805],[46.334972,-9.376278],[46.3325,-9.377973],[46.326637,-9.377916],[46.324165,-9.381278],[46.322498,-9.379611],[46.317471,-9.379556],[46.316666,-9.380445],[46.314972,-9.379583],[46.310806,-9.379583],[46.310001,-9.378722],[46.306641,-9.37875],[46.305832,-9.379611],[46.304554,-9.379222],[46.304165,-9.377944],[46.30336,-9.379611],[46.302471,-9.377944],[46.301693,-9.379639],[46.300804,-9.379639],[46.299999,-9.377916],[46.299137,-9.380445],[46.295776,-9.378778],[46.292473,-9.378805],[46.290806,-9.379611],[46.288307,-9.375417],[46.286694,-9.375444],[46.283333,-9.372916],[46.282055,-9.373333],[46.284611,-9.375834],[46.284557,-9.376695],[46.282471,-9.377111],[46.280804,-9.37625],[46.279583,-9.374194],[46.278362,-9.373806],[46.275833,-9.376278],[46.274944,-9.376278],[46.273335,-9.37375],[46.271252,-9.3725],[46.27211,-9.370889],[46.271641,-9.370444],[46.270027,-9.37125],[46.267471,-9.37125],[46.266666,-9.370444],[46.264168,-9.370472],[46.262444,-9.372139],[46.259972,-9.372139],[46.259556,-9.374194],[46.258305,-9.375417],[46.255806,-9.376278],[46.255001,-9.375417],[46.252529,-9.375444],[46.248333,-9.368806],[46.247055,-9.369194],[46.246666,-9.370472],[46.245804,-9.370472],[46.242085,-9.367556],[46.243279,-9.366278],[46.244972,-9.366278],[46.245834,-9.365472],[46.258335,-9.365417],[46.25914,-9.366278],[46.27,-9.36625],[46.270805,-9.367111],[46.272499,-9.366305],[46.280804,-9.366278],[46.281612,-9.365389],[46.285831,-9.364639],[46.28664,-9.363778],[46.304974,-9.363778],[46.305779,-9.364611],[46.313305,-9.364583],[46.31411,-9.365444],[46.317471,-9.365444],[46.319168,-9.367111],[46.32,-9.365444],[46.326668,-9.365417],[46.327473,-9.364611],[46.339943,-9.36375],[46.340832,-9.364611],[46.359138,-9.364583],[46.360027,-9.365444],[46.367474,-9.365417],[46.368332,-9.364611],[46.374138,-9.364583],[46.375,-9.363778],[46.377472,-9.363778],[46.378277,-9.362917],[46.392502,-9.362917]]],[[[46.440388,-9.409166],[46.43914,-9.410444],[46.437916,-9.410055],[46.437889,-9.406667],[46.437084,-9.405861],[46.437473,-9.404583],[46.438305,-9.404583],[46.440388,-9.4075],[46.440388,-9.409166]]],[[[46.44622,-9.41],[46.444168,-9.410417],[46.442944,-9.409166],[46.442917,-9.4075],[46.442055,-9.406694],[46.442917,-9.405027],[46.44125,-9.404166],[46.441223,-9.403361],[46.444584,-9.400028],[46.444557,-9.3975],[46.445835,-9.397083],[46.44622,-9.403361],[46.445389,-9.404166],[46.445415,-9.406694],[46.44622,-9.407473],[46.44622,-9.41]]],[[[55.37875,-5.878361],[55.377499,-5.879583],[55.375832,-5.879556],[55.375362,-5.879167],[55.375362,-5.8775],[55.374584,-5.876695],[55.374584,-5.870833],[55.375389,-5.870028],[55.375389,-5.868361],[55.376667,-5.86625],[55.379139,-5.865445],[55.38039,-5.866667],[55.38039,-5.870861],[55.379581,-5.871666],[55.37875,-5.878361]]],[[[53.306641,-5.774583],[53.304974,-5.774611],[53.304554,-5.774194],[53.304554,-5.773334],[53.305832,-5.772139],[53.306694,-5.772139],[53.307888,-5.773334],[53.306641,-5.774583]]],[[[53.313332,-5.759639],[53.312473,-5.760445],[53.305832,-5.760417],[53.304554,-5.759167],[53.304554,-5.756694],[53.305805,-5.754556],[53.307472,-5.753806],[53.313305,-5.753778],[53.314167,-5.754583],[53.321609,-5.754611],[53.323696,-5.755861],[53.323307,-5.757083],[53.319973,-5.75875],[53.317471,-5.758778],[53.316666,-5.759639],[53.313332,-5.759639]]],[[[53.705776,-5.675472],[53.707111,-5.676722],[53.705387,-5.68],[53.702499,-5.682944],[53.700832,-5.682944],[53.696667,-5.685417],[53.691696,-5.68625],[53.688305,-5.687944],[53.686668,-5.687944],[53.680832,-5.691306],[53.674946,-5.697111],[53.670834,-5.69875],[53.668304,-5.69875],[53.667526,-5.699611],[53.665001,-5.699584],[53.661667,-5.70125],[53.656639,-5.701278],[53.654972,-5.699611],[53.652916,-5.699167],[53.652889,-5.6975],[53.65461,-5.694167],[53.658306,-5.690417],[53.66164,-5.690472],[53.662472,-5.689611],[53.668335,-5.689583],[53.671638,-5.687889],[53.673306,-5.687944],[53.679138,-5.685444],[53.683304,-5.681305],[53.685806,-5.680417],[53.68914,-5.677945],[53.692501,-5.677945],[53.693306,-5.677111],[53.699139,-5.677083],[53.700001,-5.676222],[53.702473,-5.676278],[53.703335,-5.675472],[53.705776,-5.675472]]],[[[53.350807,-5.454611],[53.349998,-5.454611],[53.348721,-5.453333],[53.349972,-5.452139],[53.350834,-5.452139],[53.352055,-5.453333],[53.350807,-5.454611]]],[[[53.312862,-5.7725],[53.31414,-5.77375],[53.315388,-5.772555],[53.315388,-5.770833],[53.314583,-5.770028],[53.314972,-5.767972],[53.315834,-5.767944],[53.318306,-5.771278],[53.320835,-5.768806],[53.322887,-5.77],[53.32375,-5.771722],[53.323723,-5.775833],[53.322918,-5.776722],[53.322083,-5.779972],[53.317444,-5.784584],[53.315834,-5.784611],[53.314556,-5.779167],[53.31036,-5.775833],[53.309555,-5.774194],[53.309582,-5.765861],[53.310833,-5.764583],[53.312916,-5.765833],[53.312862,-5.7725]]],[[[53.359943,-5.451278],[53.359138,-5.451305],[53.358749,-5.450889],[53.358749,-5.450028],[53.359138,-5.449584],[53.360001,-5.449555],[53.36039,-5.450028],[53.360416,-5.450889],[53.359943,-5.451278]]],[[[53.341667,-5.449584],[53.340805,-5.449584],[53.340416,-5.449194],[53.340416,-5.448389],[53.341667,-5.447111],[53.342529,-5.447111],[53.342918,-5.4475],[53.342918,-5.448361],[53.341667,-5.449584]]],[[[53.34914,-5.44375],[53.348362,-5.44375],[53.347889,-5.443361],[53.347889,-5.441694],[53.348331,-5.441278],[53.34914,-5.441278],[53.350418,-5.442555],[53.34914,-5.44375]]],[[[53.355804,-5.432139],[53.360806,-5.435444],[53.362473,-5.435444],[53.364529,-5.438361],[53.364555,-5.440028],[53.362888,-5.4425],[53.36211,-5.445889],[53.359138,-5.448778],[53.356667,-5.447972],[53.355415,-5.446667],[53.355804,-5.445445],[53.357471,-5.445445],[53.358723,-5.444167],[53.360416,-5.440834],[53.360416,-5.439167],[53.358334,-5.437111],[53.355835,-5.436278],[53.354137,-5.43375],[53.35289,-5.433361],[53.354137,-5.432139],[53.355804,-5.432139]]],[[[53.320835,-5.435417],[53.319168,-5.435444],[53.318748,-5.435028],[53.318748,-5.434166],[53.319168,-5.433778],[53.320835,-5.43375],[53.32122,-5.434166],[53.32122,-5.435028],[53.320835,-5.435417]]],[[[53.347084,-5.426722],[53.345833,-5.427917],[53.341251,-5.427556],[53.341251,-5.426694],[53.342499,-5.425472],[53.345806,-5.425472],[53.347084,-5.426722]]],[[[53.304943,-5.419583],[53.303307,-5.420444],[53.298306,-5.420417],[53.296638,-5.41875],[53.293335,-5.417972],[53.292057,-5.416722],[53.292057,-5.415],[53.294971,-5.412111],[53.299137,-5.412083],[53.303307,-5.409611],[53.304974,-5.409611],[53.307026,-5.410861],[53.308723,-5.414166],[53.308723,-5.415833],[53.306667,-5.418778],[53.304943,-5.419583]]],[[[53.330418,-5.4125],[53.329166,-5.41375],[53.327888,-5.413361],[53.327888,-5.411695],[53.328751,-5.410889],[53.328751,-5.409167],[53.330807,-5.40875],[53.331196,-5.410028],[53.330418,-5.410889],[53.330418,-5.4125]]],[[[53.315861,-5.114583],[53.311611,-5.114611],[53.309555,-5.112556],[53.309528,-5.110028],[53.312443,-5.105472],[53.315834,-5.105472],[53.31789,-5.107528],[53.317917,-5.1125],[53.315861,-5.114583]]],[[[53.390778,-4.905416],[53.389194,-4.906278],[53.387085,-4.905833],[53.387054,-4.905028],[53.390835,-4.901278],[53.392887,-4.901694],[53.392887,-4.903361],[53.390778,-4.905416]]],[[[53.395832,-4.877917],[53.394974,-4.877917],[53.393723,-4.876667],[53.393723,-4.875861],[53.394974,-4.874583],[53.395832,-4.874583],[53.397026,-4.875834],[53.397026,-4.876695],[53.395832,-4.877917]]],[[[55.435806,-4.685472],[55.434139,-4.685472],[55.43375,-4.685],[55.43375,-4.684195],[55.434139,-4.68375],[55.435806,-4.68375],[55.436195,-4.684139],[55.436195,-4.685],[55.435806,-4.685472]]],[[[55.909138,-4.600444],[55.906696,-4.600444],[55.906223,-4.600028],[55.907471,-4.598778],[55.908279,-4.598778],[55.909611,-4.600028],[55.909138,-4.600444]]],[[[55.952888,-4.587528],[55.950832,-4.587917],[55.949585,-4.589194],[55.950359,-4.59],[55.949974,-4.59125],[55.940807,-4.592111],[55.9375,-4.587889],[55.936638,-4.587889],[55.932919,-4.584222],[55.932861,-4.581695],[55.9375,-4.577917],[55.942501,-4.577111],[55.945805,-4.578778],[55.948723,-4.581666],[55.95039,-4.585],[55.952888,-4.586667],[55.952888,-4.587528]]],[[[55.766666,-4.580444],[55.764999,-4.582111],[55.762859,-4.581695],[55.763748,-4.580833],[55.763748,-4.578306],[55.764999,-4.577111],[55.765804,-4.577111],[55.767918,-4.58],[55.766666,-4.580444]]],[[[55.490776,-4.530416],[55.490002,-4.530416],[55.489582,-4.53],[55.490807,-4.52875],[55.491665,-4.52875],[55.492054,-4.529167],[55.490776,-4.530416]]],[[[55.400806,-4.667917],[55.40414,-4.669611],[55.405861,-4.669611],[55.407055,-4.670805],[55.40625,-4.672528],[55.408749,-4.675],[55.408749,-4.675806],[55.406223,-4.677528],[55.407082,-4.678333],[55.406696,-4.679584],[55.405834,-4.679584],[55.397083,-4.671639],[55.397888,-4.670055],[55.396252,-4.668305],[55.397499,-4.66625],[55.399166,-4.66625],[55.400806,-4.667917]]],[[[55.441639,-4.55875],[55.444138,-4.562139],[55.446667,-4.562139],[55.447472,-4.562944],[55.449974,-4.561278],[55.451637,-4.561278],[55.452499,-4.562083],[55.454166,-4.561278],[55.457474,-4.565444],[55.458332,-4.564583],[55.459583,-4.564972],[55.459583,-4.565834],[55.463749,-4.570833],[55.467056,-4.5775],[55.468723,-4.579972],[55.46875,-4.583361],[55.467499,-4.584583],[55.465832,-4.583778],[55.464584,-4.584167],[55.465443,-4.584972],[55.462917,-4.5875],[55.462055,-4.590833],[55.460804,-4.591278],[55.459999,-4.590416],[55.458721,-4.591667],[55.458721,-4.593333],[55.460445,-4.595028],[55.459583,-4.595806],[55.459583,-4.597528],[55.462891,-4.601695],[55.462082,-4.609194],[55.459557,-4.610861],[55.459583,-4.615861],[55.458721,-4.616667],[55.458721,-4.620056],[55.459583,-4.621666],[55.457916,-4.623389],[55.459167,-4.624583],[55.462502,-4.624583],[55.464169,-4.623722],[55.465416,-4.625],[55.464138,-4.627111],[55.461639,-4.627111],[55.460835,-4.62625],[55.459583,-4.626667],[55.461639,-4.627917],[55.467918,-4.635],[55.467918,-4.636667],[55.471222,-4.64],[55.471222,-4.640861],[55.47414,-4.64375],[55.475445,-4.644195],[55.475445,-4.645805],[55.477028,-4.649194],[55.479137,-4.649611],[55.482861,-4.6525],[55.482056,-4.654222],[55.482471,-4.654611],[55.484974,-4.655416],[55.486637,-4.65375],[55.487499,-4.65375],[55.48914,-4.657084],[55.491665,-4.657111],[55.495834,-4.662111],[55.49789,-4.663361],[55.499138,-4.665444],[55.502472,-4.667056],[55.506638,-4.667056],[55.509167,-4.669611],[55.509972,-4.669611],[55.511223,-4.668334],[55.510418,-4.665861],[55.512501,-4.66375],[55.515804,-4.665417],[55.520832,-4.669639],[55.529167,-4.674583],[55.530834,-4.67625],[55.531696,-4.67625],[55.53289,-4.675],[55.53289,-4.673333],[55.534168,-4.672056],[55.536221,-4.672528],[55.536221,-4.678333],[55.535416,-4.68],[55.533279,-4.68125],[55.531223,-4.684166],[55.531223,-4.685833],[55.52961,-4.689167],[55.527889,-4.690834],[55.527889,-4.6925],[55.526222,-4.694167],[55.525417,-4.697556],[55.524612,-4.698333],[55.524612,-4.702528],[55.52375,-4.703333],[55.523724,-4.708333],[55.524582,-4.709139],[55.524582,-4.710861],[55.526249,-4.713333],[55.526222,-4.720861],[55.527863,-4.724195],[55.527863,-4.726666],[55.527054,-4.728389],[55.529972,-4.730472],[55.531639,-4.730472],[55.53289,-4.732528],[55.531639,-4.732944],[55.530834,-4.732083],[55.529167,-4.732917],[55.526638,-4.73625],[55.524193,-4.73625],[55.522472,-4.737111],[55.519585,-4.740028],[55.518723,-4.744222],[55.51786,-4.745028],[55.517918,-4.749222],[55.518723,-4.750028],[55.518723,-4.753361],[55.520416,-4.756694],[55.522083,-4.758361],[55.522083,-4.760833],[55.522915,-4.7625],[55.524582,-4.764222],[55.524582,-4.7675],[55.527084,-4.770028],[55.527084,-4.7725],[55.526222,-4.773361],[55.526222,-4.775028],[55.527084,-4.775833],[55.527084,-4.776694],[55.525417,-4.778333],[55.525417,-4.781667],[55.532501,-4.787889],[55.535805,-4.78875],[55.538723,-4.7925],[55.538723,-4.793361],[55.537056,-4.795028],[55.540417,-4.7975],[55.539555,-4.799167],[55.541222,-4.800833],[55.541222,-4.801694],[55.539165,-4.80375],[55.537498,-4.80375],[55.533333,-4.801278],[55.527473,-4.80125],[55.525833,-4.800445],[55.522888,-4.802528],[55.523361,-4.805444],[55.519974,-4.805444],[55.518723,-4.804167],[55.519585,-4.8025],[55.517056,-4.800833],[55.515804,-4.798778],[55.510834,-4.799556],[55.509556,-4.798361],[55.509583,-4.796694],[55.507446,-4.794556],[55.504139,-4.794611],[55.502945,-4.793334],[55.501221,-4.79],[55.501221,-4.788333],[55.503307,-4.787083],[55.503693,-4.785889],[55.499195,-4.781278],[55.498333,-4.782084],[55.496666,-4.782084],[55.495804,-4.781278],[55.494141,-4.78125],[55.492889,-4.78],[55.492889,-4.778333],[55.496223,-4.775861],[55.496223,-4.774194],[55.494972,-4.772944],[55.48914,-4.770389],[55.486221,-4.767528],[55.485832,-4.76625],[55.483776,-4.765861],[55.484974,-4.763778],[55.487083,-4.762528],[55.48711,-4.759194],[55.485832,-4.757916],[55.483334,-4.757111],[55.482471,-4.755389],[55.478306,-4.755445],[55.475029,-4.759639],[55.472111,-4.760028],[55.472889,-4.762556],[55.470028,-4.764611],[55.468723,-4.764139],[55.468723,-4.762556],[55.462891,-4.756667],[55.462029,-4.755],[55.462029,-4.754139],[55.46336,-4.752944],[55.464943,-4.75375],[55.466278,-4.752555],[55.466221,-4.750028],[55.463722,-4.747556],[55.463722,-4.745028],[55.467918,-4.7425],[55.467056,-4.740833],[55.468304,-4.739639],[55.471638,-4.740445],[55.4725,-4.739583],[55.474945,-4.739583],[55.476665,-4.740389],[55.478333,-4.74125],[55.482498,-4.738806],[55.488335,-4.73875],[55.490002,-4.737945],[55.492085,-4.735833],[55.492085,-4.734167],[55.490417,-4.731694],[55.490417,-4.730028],[55.486252,-4.725833],[55.485806,-4.724555],[55.484138,-4.724555],[55.483334,-4.72375],[55.480835,-4.72375],[55.479557,-4.722472],[55.478722,-4.72],[55.481251,-4.7175],[55.481251,-4.716694],[55.479137,-4.715416],[55.477917,-4.713361],[55.480835,-4.712945],[55.482498,-4.71375],[55.484585,-4.711639],[55.484585,-4.709167],[55.482918,-4.7075],[55.482918,-4.706639],[55.478306,-4.702944],[55.475834,-4.702944],[55.474583,-4.704167],[55.475361,-4.705028],[55.473305,-4.707083],[55.469971,-4.707083],[55.467083,-4.704195],[55.467945,-4.702472],[55.465832,-4.700389],[55.462112,-4.698333],[55.46125,-4.696722],[55.46125,-4.694194],[55.457085,-4.690861],[55.457027,-4.688334],[55.458752,-4.686722],[55.45789,-4.684195],[55.455002,-4.682111],[55.453335,-4.683778],[55.452526,-4.683778],[55.451221,-4.680833],[55.452915,-4.68],[55.451221,-4.677528],[55.447498,-4.675445],[55.444195,-4.675445],[55.442471,-4.677083],[55.440861,-4.676222],[55.43914,-4.676278],[55.438278,-4.675416],[55.436638,-4.677083],[55.435028,-4.677083],[55.430805,-4.67375],[55.429195,-4.674583],[55.427471,-4.672917],[55.424973,-4.672111],[55.422054,-4.669167],[55.421196,-4.665861],[55.419998,-4.665444],[55.41914,-4.663778],[55.417473,-4.662917],[55.41497,-4.662917],[55.414165,-4.662111],[55.412056,-4.660833],[55.410862,-4.657889],[55.405804,-4.657945],[55.405418,-4.658333],[55.406223,-4.660028],[55.404556,-4.661667],[55.405418,-4.662528],[55.404999,-4.662944],[55.401638,-4.662139],[55.400833,-4.661278],[55.399582,-4.660861],[55.398304,-4.658722],[55.395,-4.657917],[55.392887,-4.655861],[55.394554,-4.655056],[55.392887,-4.653333],[55.39336,-4.652916],[55.394943,-4.652916],[55.395805,-4.652111],[55.399193,-4.652945],[55.400391,-4.651667],[55.400391,-4.65],[55.399139,-4.64875],[55.394974,-4.647917],[55.393307,-4.64625],[55.388332,-4.644583],[55.388332,-4.647111],[55.38414,-4.649583],[55.380833,-4.649556],[55.379971,-4.64875],[55.377445,-4.649556],[55.376667,-4.647944],[55.375,-4.647944],[55.374138,-4.647083],[55.370804,-4.646278],[55.367111,-4.642528],[55.366249,-4.640861],[55.367474,-4.637139],[55.369167,-4.637944],[55.371639,-4.637944],[55.374168,-4.640417],[55.375805,-4.639555],[55.379139,-4.640417],[55.380001,-4.641222],[55.381248,-4.640028],[55.381248,-4.638361],[55.376221,-4.634167],[55.377888,-4.6325],[55.375832,-4.632083],[55.374584,-4.630889],[55.374973,-4.629556],[55.378307,-4.628778],[55.380833,-4.624583],[55.383335,-4.625444],[55.384998,-4.622917],[55.386665,-4.624583],[55.387917,-4.622528],[55.386612,-4.622139],[55.386223,-4.620861],[55.389137,-4.61875],[55.390862,-4.61875],[55.392471,-4.617084],[55.394165,-4.617084],[55.394974,-4.617889],[55.397499,-4.615445],[55.399971,-4.615445],[55.400806,-4.616305],[55.402473,-4.61625],[55.403278,-4.615445],[55.409973,-4.615472],[55.410831,-4.614611],[55.413361,-4.614611],[55.416668,-4.612945],[55.418335,-4.612083],[55.419998,-4.612083],[55.420807,-4.612972],[55.42664,-4.612916],[55.428307,-4.612111],[55.432945,-4.606667],[55.432919,-4.598333],[55.433693,-4.597472],[55.433723,-4.595],[55.432919,-4.594194],[55.432919,-4.591667],[55.432056,-4.590861],[55.432861,-4.589167],[55.432888,-4.585028],[55.432083,-4.583361],[55.433334,-4.582944],[55.43375,-4.581695],[55.432888,-4.580889],[55.434555,-4.5775],[55.434555,-4.575028],[55.432919,-4.5725],[55.434582,-4.570833],[55.433723,-4.5675],[55.432919,-4.566639],[55.435444,-4.565028],[55.433723,-4.561639],[55.436668,-4.559583],[55.439972,-4.559583],[55.441639,-4.55875]]],[[[55.524166,-4.665444],[55.523304,-4.665444],[55.522915,-4.665028],[55.522915,-4.663306],[55.524166,-4.662111],[55.525833,-4.662111],[55.526222,-4.662528],[55.526222,-4.664195],[55.525833,-4.664583],[55.525028,-4.664583],[55.524166,-4.665444]]],[[[55.373749,-4.665861],[55.371693,-4.66625],[55.370834,-4.665444],[55.365002,-4.664639],[55.361221,-4.660833],[55.361221,-4.660028],[55.363304,-4.657917],[55.365002,-4.657917],[55.368332,-4.659639],[55.372028,-4.663333],[55.372082,-4.664195],[55.373749,-4.665],[55.373749,-4.665861]]],[[[55.410831,-4.66375],[55.409973,-4.66375],[55.409584,-4.663361],[55.409584,-4.6625],[55.410831,-4.661278],[55.411251,-4.661695],[55.411251,-4.663361],[55.410831,-4.66375]]],[[[55.50914,-4.622917],[55.509998,-4.623778],[55.511665,-4.623778],[55.513779,-4.625861],[55.513779,-4.626722],[55.512444,-4.627917],[55.51086,-4.627917],[55.506222,-4.625028],[55.507473,-4.622917],[55.50914,-4.622917]]],[[[55.463696,-4.621666],[55.463306,-4.622139],[55.462502,-4.622111],[55.462112,-4.621666],[55.463306,-4.620389],[55.463696,-4.620861],[55.463696,-4.621666]]],[[[55.505028,-4.62125],[55.504166,-4.622111],[55.503693,-4.621695],[55.503723,-4.620028],[55.504166,-4.619639],[55.505833,-4.619639],[55.506222,-4.620028],[55.506222,-4.620833],[55.505833,-4.62125],[55.505028,-4.62125]]],[[[55.506638,-4.639611],[55.505833,-4.639611],[55.50539,-4.639167],[55.505833,-4.63875],[55.506638,-4.63875],[55.507057,-4.639167],[55.506638,-4.639611]]],[[[55.499168,-4.627944],[55.500832,-4.629611],[55.50164,-4.62875],[55.503307,-4.62875],[55.506248,-4.631694],[55.506248,-4.633361],[55.507915,-4.635028],[55.507915,-4.635833],[55.505859,-4.637944],[55.504139,-4.63875],[55.501667,-4.63875],[55.5,-4.637944],[55.498306,-4.635472],[55.494972,-4.633806],[55.494167,-4.633806],[55.493332,-4.632916],[55.492474,-4.632916],[55.492054,-4.632528],[55.492054,-4.63],[55.494999,-4.626278],[55.499168,-4.627944]]],[[[55.509998,-4.619583],[55.50914,-4.619583],[55.507889,-4.618306],[55.507889,-4.6175],[55.509167,-4.61625],[55.510807,-4.61625],[55.512085,-4.617528],[55.509998,-4.619583]]],[[[55.525806,-4.612945],[55.525002,-4.612945],[55.524555,-4.6125],[55.524555,-4.611694],[55.525028,-4.611278],[55.525806,-4.611278],[55.526222,-4.611694],[55.526222,-4.6125],[55.525806,-4.612945]]],[[[55.499943,-4.612945],[55.497501,-4.612945],[55.496223,-4.611694],[55.496223,-4.610028],[55.498749,-4.6075],[55.498749,-4.605834],[55.497055,-4.604167],[55.497917,-4.603361],[55.497055,-4.600833],[55.499111,-4.598778],[55.499973,-4.598778],[55.502888,-4.596722],[55.503307,-4.595389],[55.504971,-4.595389],[55.513306,-4.600417],[55.514557,-4.600861],[55.514557,-4.603333],[55.51125,-4.605861],[55.509167,-4.608778],[55.505779,-4.610445],[55.503334,-4.610445],[55.501667,-4.612111],[55.500805,-4.612111],[55.499943,-4.612945]]],[[[55.242474,-4.38125],[55.244972,-4.382916],[55.246639,-4.382916],[55.248749,-4.385],[55.24789,-4.387528],[55.251251,-4.390861],[55.251251,-4.391667],[55.252499,-4.392944],[55.253307,-4.392083],[55.255417,-4.392528],[55.255417,-4.395861],[55.254166,-4.397056],[55.252499,-4.39625],[55.252029,-4.398334],[55.249111,-4.400445],[55.244141,-4.400445],[55.242889,-4.399167],[55.243752,-4.3975],[55.240391,-4.394222],[55.239582,-4.3925],[55.239529,-4.390028],[55.241249,-4.386694],[55.239529,-4.384972],[55.239555,-4.384167],[55.23875,-4.383361],[55.240807,-4.38125],[55.242474,-4.38125]]],[[[55.651249,-4.35],[55.653751,-4.352528],[55.651638,-4.352917],[55.650833,-4.352056],[55.649113,-4.352056],[55.646667,-4.349583],[55.645416,-4.349195],[55.645416,-4.348389],[55.647472,-4.34625],[55.649139,-4.34625],[55.651249,-4.348333],[55.651249,-4.35]]],[[[55.925415,-4.348361],[55.924168,-4.349583],[55.922054,-4.348361],[55.922054,-4.3475],[55.919582,-4.344167],[55.919613,-4.335834],[55.922527,-4.332111],[55.924137,-4.332111],[55.925446,-4.333333],[55.927029,-4.336667],[55.926224,-4.342528],[55.925415,-4.343361],[55.925415,-4.345833],[55.924557,-4.346639],[55.925415,-4.348361]]],[[[55.869167,-4.31125],[55.866665,-4.31125],[55.866249,-4.310833],[55.867474,-4.309639],[55.868332,-4.309639],[55.869583,-4.310833],[55.869167,-4.31125]]],[[[55.747082,-4.310028],[55.746693,-4.310417],[55.746223,-4.310028],[55.746223,-4.309166],[55.746613,-4.30875],[55.747082,-4.309166],[55.747082,-4.310028]]],[[[55.874168,-4.297111],[55.873306,-4.297111],[55.870388,-4.294194],[55.870419,-4.291722],[55.867889,-4.289195],[55.867027,-4.287528],[55.867027,-4.285],[55.866249,-4.284194],[55.866249,-4.283333],[55.868305,-4.28125],[55.870804,-4.28125],[55.87289,-4.283333],[55.873722,-4.285861],[55.875389,-4.287528],[55.873722,-4.289195],[55.873722,-4.290861],[55.874973,-4.292917],[55.876251,-4.293334],[55.876221,-4.295],[55.874168,-4.297111]]],[[[55.854168,-4.282972],[55.855835,-4.284639],[55.857498,-4.284639],[55.860806,-4.28625],[55.862057,-4.290028],[55.860806,-4.29125],[55.857471,-4.290444],[55.856224,-4.288306],[55.852055,-4.284167],[55.852444,-4.282972],[55.854168,-4.282972]]],[[[55.728306,-4.275417],[55.730835,-4.277945],[55.73164,-4.277083],[55.738335,-4.277083],[55.73914,-4.276222],[55.746223,-4.276694],[55.742889,-4.279167],[55.742889,-4.280028],[55.740833,-4.282084],[55.737446,-4.282084],[55.735001,-4.28375],[55.729557,-4.284194],[55.731609,-4.287944],[55.732471,-4.287083],[55.734585,-4.287528],[55.730804,-4.290472],[55.726639,-4.289583],[55.724167,-4.287917],[55.721668,-4.287917],[55.71664,-4.283778],[55.714169,-4.282917],[55.712917,-4.281694],[55.712917,-4.2775],[55.714138,-4.27625],[55.715832,-4.275445],[55.717499,-4.27625],[55.718304,-4.275445],[55.720833,-4.275445],[55.722473,-4.277056],[55.723331,-4.277056],[55.725807,-4.275472],[55.728306,-4.275417]]],[[[55.857944,-4.363389],[55.856609,-4.365445],[55.853306,-4.364583],[55.852112,-4.365833],[55.85289,-4.369167],[55.851639,-4.369583],[55.850834,-4.368778],[55.849167,-4.36875],[55.847916,-4.370028],[55.847916,-4.373361],[55.8475,-4.37375],[55.845806,-4.372889],[55.844582,-4.375028],[55.844582,-4.3775],[55.842861,-4.378334],[55.843723,-4.380805],[55.841667,-4.382945],[55.84,-4.382139],[55.838333,-4.382945],[55.834167,-4.378722],[55.831249,-4.377528],[55.830387,-4.374195],[55.827084,-4.369195],[55.827084,-4.365861],[55.824585,-4.362528],[55.824585,-4.359194],[55.82539,-4.358333],[55.82539,-4.355],[55.826248,-4.354195],[55.826248,-4.350806],[55.827057,-4.349195],[55.828335,-4.34875],[55.830387,-4.345806],[55.830387,-4.342472],[55.829529,-4.341667],[55.831249,-4.340028],[55.832054,-4.335834],[55.833332,-4.335417],[55.835835,-4.337083],[55.837502,-4.337111],[55.840805,-4.340445],[55.844971,-4.342916],[55.847027,-4.345833],[55.847027,-4.3475],[55.849556,-4.349972],[55.85125,-4.353361],[55.85125,-4.355834],[55.853722,-4.359972],[55.855026,-4.360445],[55.857944,-4.363389]]],[[[55.790859,-4.342945],[55.789139,-4.342945],[55.787945,-4.341667],[55.787945,-4.34],[55.790806,-4.337945],[55.793335,-4.33875],[55.794582,-4.340028],[55.794582,-4.340889],[55.793304,-4.342083],[55.791668,-4.342083],[55.790859,-4.342945]]],[[[55.664139,-4.333778],[55.663334,-4.333778],[55.660416,-4.330833],[55.660416,-4.330028],[55.663361,-4.327111],[55.665806,-4.327111],[55.667057,-4.328306],[55.667057,-4.330833],[55.664139,-4.333778]]],[[[55.875805,-4.318778],[55.877445,-4.319639],[55.879166,-4.319583],[55.879581,-4.320861],[55.882084,-4.323333],[55.882084,-4.325],[55.884609,-4.327528],[55.884583,-4.330861],[55.887054,-4.332528],[55.887054,-4.335],[55.884109,-4.337917],[55.880806,-4.337917],[55.879612,-4.336694],[55.879612,-4.335028],[55.878307,-4.333778],[55.875832,-4.333778],[55.871277,-4.330028],[55.870419,-4.3275],[55.868752,-4.325833],[55.868694,-4.323361],[55.867111,-4.321694],[55.867111,-4.320028],[55.868694,-4.318361],[55.868721,-4.316694],[55.869972,-4.315444],[55.871639,-4.315444],[55.872501,-4.314639],[55.875389,-4.3175],[55.875805,-4.318778]]],[[[55.712029,-4.293361],[55.713749,-4.294972],[55.716251,-4.300028],[55.721222,-4.305833],[55.721222,-4.308361],[55.722473,-4.309583],[55.72414,-4.310444],[55.725861,-4.309583],[55.729168,-4.309583],[55.730835,-4.307917],[55.735001,-4.307917],[55.736221,-4.306667],[55.735416,-4.304194],[55.737473,-4.302945],[55.741249,-4.305861],[55.741249,-4.307528],[55.742054,-4.308333],[55.741249,-4.31],[55.7425,-4.310472],[55.755028,-4.31875],[55.756611,-4.31875],[55.757473,-4.319639],[55.76086,-4.319639],[55.763306,-4.317111],[55.764584,-4.316694],[55.763721,-4.314972],[55.764973,-4.313778],[55.770805,-4.313778],[55.774139,-4.315389],[55.778305,-4.314611],[55.782082,-4.319194],[55.780418,-4.321667],[55.780418,-4.323333],[55.784973,-4.327944],[55.78664,-4.327944],[55.790806,-4.330417],[55.792084,-4.3325],[55.790001,-4.334611],[55.788307,-4.334611],[55.785831,-4.337083],[55.783306,-4.337083],[55.782501,-4.336278],[55.778332,-4.33625],[55.774555,-4.333333],[55.774555,-4.331722],[55.775417,-4.330861],[55.774582,-4.329195],[55.775444,-4.327528],[55.774971,-4.327111],[55.771667,-4.325444],[55.77,-4.325444],[55.769138,-4.32625],[55.764973,-4.327917],[55.762085,-4.330833],[55.76289,-4.335028],[55.761223,-4.336694],[55.760361,-4.339167],[55.759556,-4.340833],[55.761223,-4.341694],[55.762085,-4.345028],[55.76836,-4.347084],[55.772083,-4.350833],[55.772083,-4.3525],[55.770805,-4.352889],[55.769943,-4.354611],[55.76664,-4.354611],[55.765835,-4.35375],[55.763306,-4.354611],[55.761665,-4.35375],[55.759583,-4.355861],[55.76125,-4.357528],[55.76125,-4.359139],[55.759998,-4.359611],[55.75914,-4.35875],[55.757473,-4.357944],[55.755806,-4.360472],[55.754139,-4.360445],[55.75375,-4.358333],[55.752499,-4.357056],[55.749973,-4.35625],[55.745804,-4.352917],[55.744141,-4.352917],[55.7425,-4.35125],[55.740833,-4.351305],[55.737473,-4.349583],[55.733334,-4.349611],[55.732471,-4.34875],[55.729168,-4.349611],[55.727917,-4.3475],[55.722889,-4.343333],[55.721222,-4.336667],[55.722889,-4.335028],[55.722889,-4.333361],[55.715027,-4.326278],[55.713306,-4.325417],[55.710777,-4.325417],[55.709972,-4.324611],[55.708332,-4.324611],[55.707474,-4.323722],[55.699974,-4.323778],[55.699165,-4.324584],[55.693333,-4.324584],[55.689167,-4.322083],[55.686249,-4.318361],[55.686249,-4.314167],[55.684555,-4.310833],[55.684555,-4.308361],[55.682083,-4.305028],[55.68211,-4.3025],[55.681252,-4.300833],[55.68,-4.299556],[55.679195,-4.299556],[55.677891,-4.298361],[55.679585,-4.2975],[55.678722,-4.296694],[55.678749,-4.295028],[55.68,-4.293778],[55.681667,-4.293778],[55.682056,-4.2925],[55.684193,-4.29125],[55.688305,-4.29125],[55.690807,-4.292917],[55.694138,-4.294583],[55.695835,-4.292944],[55.700832,-4.29375],[55.702888,-4.291667],[55.702888,-4.290805],[55.700359,-4.287528],[55.703304,-4.287083],[55.70414,-4.287889],[55.707527,-4.28875],[55.71125,-4.290833],[55.712029,-4.293361]]],[[[55.675835,-4.258778],[55.674973,-4.258778],[55.674557,-4.258389],[55.674557,-4.257528],[55.674973,-4.257111],[55.675835,-4.257111],[55.676224,-4.257528],[55.676224,-4.258333],[55.675835,-4.258778]]],[[[55.671665,-4.207944],[55.675388,-4.211694],[55.675388,-4.213361],[55.674194,-4.214611],[55.672474,-4.214611],[55.669945,-4.212945],[55.6675,-4.214611],[55.662529,-4.213722],[55.661667,-4.212917],[55.660805,-4.212917],[55.660389,-4.212528],[55.660416,-4.210861],[55.663334,-4.207944],[55.66497,-4.20875],[55.665833,-4.207944],[55.6675,-4.207944],[55.668362,-4.20875],[55.671665,-4.207944]]],[[[55.666668,-3.812917],[55.664944,-3.812917],[55.66375,-3.811722],[55.663776,-3.807528],[55.659611,-3.802528],[55.659611,-3.800861],[55.660805,-3.799583],[55.663307,-3.799583],[55.66497,-3.797945],[55.6675,-3.797945],[55.672054,-3.804194],[55.668724,-3.809194],[55.668724,-3.810861],[55.666668,-3.812917]]],[[[55.204113,-3.726305],[55.202526,-3.726305],[55.201195,-3.725028],[55.202057,-3.720833],[55.202915,-3.720028],[55.202888,-3.715833],[55.203724,-3.714972],[55.203751,-3.713389],[55.205002,-3.712111],[55.206665,-3.712055],[55.207916,-3.713389],[55.207916,-3.715],[55.210415,-3.717528],[55.209557,-3.720861],[55.204113,-3.726305]]],[[[55.22414,-4.462917],[55.230835,-4.463806],[55.23164,-4.462945],[55.234138,-4.462945],[55.237473,-4.464611],[55.243305,-4.467083],[55.247055,-4.470833],[55.250416,-4.4775],[55.251278,-4.479167],[55.250416,-4.480834],[55.251667,-4.48125],[55.254971,-4.484583],[55.256638,-4.482917],[55.257889,-4.483333],[55.257889,-4.485055],[55.257084,-4.485861],[55.257889,-4.489194],[55.2575,-4.489583],[55.256638,-4.488778],[55.253693,-4.490833],[55.252888,-4.495028],[55.254555,-4.498361],[55.25164,-4.499556],[55.250416,-4.502472],[55.249554,-4.508333],[55.247471,-4.510389],[55.244167,-4.510445],[55.243305,-4.509583],[55.239971,-4.512111],[55.237473,-4.510445],[55.236668,-4.51125],[55.234943,-4.511222],[55.23336,-4.509611],[55.23164,-4.511222],[55.229973,-4.510417],[55.227501,-4.511278],[55.226196,-4.51],[55.226223,-4.505],[55.227085,-4.504139],[55.227085,-4.502555],[55.220001,-4.495472],[55.214554,-4.493389],[55.213722,-4.490861],[55.212917,-4.489194],[55.208752,-4.485833],[55.207916,-4.480861],[55.206249,-4.479167],[55.206196,-4.477528],[55.209583,-4.470861],[55.209583,-4.469194],[55.212502,-4.467945],[55.214973,-4.465416],[55.218361,-4.46375],[55.219971,-4.463778],[55.222473,-4.465445],[55.22414,-4.462917]]],[[[55.541637,-4.482917],[55.5425,-4.483778],[55.543304,-4.483778],[55.543751,-4.484167],[55.543304,-4.484583],[55.5425,-4.484583],[55.541637,-4.485445],[55.540833,-4.485445],[55.54039,-4.485028],[55.54039,-4.483305],[55.540833,-4.482917],[55.541637,-4.482917]]]],"type":"MultiPolygon"}
 }

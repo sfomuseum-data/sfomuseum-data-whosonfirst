@@ -2,693 +2,694 @@
   "id": 85667983,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1971-12-02",
-    "date:inception_upper":"1971-12-02",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1971-12-02",
-    "geom:area":0.376148,
-    "geom:area_square_m":4217541251.496333,
-    "geom:bbox":"54.949153,24.595088,56.204439,25.358089",
-    "geom:latitude":24.936385,
-    "geom:longitude":55.371022,
-    "gn:population":1141963,
-    "iso:country":"AE",
-    "label:ara_x_preferred_longname":[
-        "\u0625\u0645\u0627\u0631\u0629 \u062f\u0628\u064a\u0651"
+    "date:inception_lower": "1971-12-02",
+    "date:inception_upper": "1971-12-02",
+    "edtf:cessation": "",
+    "edtf:inception": "1971-12-02",
+    "geom:area": 0.3761477716559991,
+    "geom:area_square_m": 4217541251.496333,
+    "geom:bbox": "54.949153,24.595088,56.204439,25.358089",
+    "geom:latitude": 24.93638539756206,
+    "geom:longitude": 55.37102204228801,
+    "gn:population": 1141963,
+    "iso:country": "AE",
+    "label:ara_x_preferred_longname": [
+      "إمارة دبيّ"
     ],
-    "label:ara_x_preferred_placetype":[
-        "\u0625\u0645\u0627\u0631\u0629"
+    "label:ara_x_preferred_placetype": [
+      "إمارة"
     ],
-    "label:eng_x_preferred_longname":[
-        "Dubai Emirate"
+    "label:eng_x_preferred_longname": [
+      "Dubai Emirate"
     ],
-    "label:eng_x_preferred_placetype":[
-        "emirate"
+    "label:eng_x_preferred_placetype": [
+      "emirate"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "DU"
+    "label:eng_x_preferred_shortcode": [
+      "DU"
     ],
-    "lbl:latitude":24.891256,
-    "lbl:longitude":55.348249,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":24.891256,
-    "mps:longitude":55.348249,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":8.7,
-    "name:ace_x_preferred":[
-        "Dubai"
+    "lbl:latitude": 24.891256,
+    "lbl:longitude": 55.348249,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 24.891256,
+    "mps:longitude": 55.348249,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8.7,
+    "name:ace_x_preferred": [
+      "Dubai"
     ],
-    "name:afr_x_preferred":[
-        "Doebai"
+    "name:afr_x_preferred": [
+      "Doebai"
     ],
-    "name:als_x_preferred":[
-        "Dubai"
+    "name:als_x_preferred": [
+      "Dubai"
     ],
-    "name:amh_x_preferred":[
-        "\u12f1\u1263\u12ed"
+    "name:amh_x_preferred": [
+      "ዱባይ"
     ],
-    "name:ang_x_preferred":[
-        "Dubai"
+    "name:ang_x_preferred": [
+      "Dubai"
     ],
-    "name:ara_x_preferred":[
-        "\u062f\u0628\u064a"
+    "name:ara_x_preferred": [
+      "دبي"
     ],
-    "name:ara_x_variant":[
-        "\u0625\u0645\u0627\u0631\u0629 \u062f\u0628\u064a"
+    "name:ara_x_variant": [
+      "إمارة دبي"
     ],
-    "name:arg_x_preferred":[
-        "Dubai"
+    "name:arg_x_preferred": [
+      "Dubai"
     ],
-    "name:arz_x_preferred":[
-        "\u062f\u0628\u0649"
+    "name:arz_x_preferred": [
+      "دبى"
     ],
-    "name:asm_x_preferred":[
-        "\u09a1\u09c1\u09ac\u09be\u0987"
+    "name:asm_x_preferred": [
+      "ডুবাই"
     ],
-    "name:ast_x_preferred":[
-        "Dubai"
+    "name:ast_x_preferred": [
+      "Dubai"
     ],
-    "name:aze_x_preferred":[
-        "Dubay"
+    "name:aze_x_preferred": [
+      "Dubay"
     ],
-    "name:aze_x_variant":[
-        "Dubay \u0259mirliyi"
+    "name:aze_x_variant": [
+      "Dubay əmirliyi"
     ],
-    "name:bak_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:bak_x_preferred": [
+      "Дубай"
     ],
-    "name:bcl_x_preferred":[
-        "Dubai"
+    "name:bcl_x_preferred": [
+      "Dubai"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0431\u0430\u0439"
+    "name:bel_x_preferred": [
+      "Горад Дубай"
     ],
-    "name:bel_x_variant":[
-        "\u0414\u0443\u0431\u0430\u0439",
-        "\u042d\u043c\u0456\u0440\u0430\u0442 \u0414\u0443\u0431\u0430\u0439"
+    "name:bel_x_variant": [
+      "Дубай",
+      "Эмірат Дубай"
     ],
-    "name:ben_x_preferred":[
-        "\u09a6\u09c1\u09ac\u09be\u0987"
+    "name:ben_x_preferred": [
+      "দুবাই"
     ],
-    "name:ben_x_variant":[
-        "\u09a6\u09c1\u09ac\u09be\u0987 \u0986\u09ae\u09bf\u09b0\u09be\u09a4"
+    "name:ben_x_variant": [
+      "দুবাই আমিরাত"
     ],
-    "name:bos_x_preferred":[
-        "Dubai"
+    "name:bos_x_preferred": [
+      "Dubai"
     ],
-    "name:bre_x_preferred":[
-        "Dubai"
+    "name:bre_x_preferred": [
+      "Dubai"
     ],
-    "name:bul_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:bul_x_preferred": [
+      "Дубай"
     ],
-    "name:bxr_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:bxr_x_preferred": [
+      "Дубай"
     ],
-    "name:cat_x_preferred":[
-        "Dubai"
+    "name:cat_x_preferred": [
+      "Dubai"
     ],
-    "name:ceb_x_preferred":[
-        "Dubai"
+    "name:ceb_x_preferred": [
+      "Dubai"
     ],
-    "name:ces_x_preferred":[
-        "Dubaj"
+    "name:ces_x_preferred": [
+      "Dubaj"
     ],
-    "name:che_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:che_x_preferred": [
+      "Дубай"
     ],
-    "name:ckb_x_preferred":[
-        "\u062f\u0648\u0628\u06d5\u06cc"
+    "name:ckb_x_preferred": [
+      "دوبەی"
     ],
-    "name:cor_x_preferred":[
-        "Dubai"
+    "name:cor_x_preferred": [
+      "Dubai"
     ],
-    "name:cym_x_preferred":[
-        "Dubai"
+    "name:cym_x_preferred": [
+      "Dubai"
     ],
-    "name:dan_x_preferred":[
-        "Dubai"
+    "name:dan_x_preferred": [
+      "Dubai"
     ],
-    "name:deu_x_preferred":[
-        "Dubai"
+    "name:deu_x_preferred": [
+      "Dubai"
     ],
-    "name:diq_x_preferred":[
-        "Dubai"
+    "name:diq_x_preferred": [
+      "Dubai"
     ],
-    "name:ell_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9"
+    "name:ell_x_preferred": [
+      "Ντουμπάι"
     ],
-    "name:ell_x_variant":[
-        "\u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03bf \u03c4\u03bf\u03c5 \u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9"
+    "name:ell_x_variant": [
+      "Εμιράτο του Ντουμπάι"
     ],
-    "name:eng_x_preferred":[
-        "Dubai"
+    "name:eng_x_preferred": [
+      "Dubai"
     ],
-    "name:eng_x_variant":[
-        "Dubayy",
-        "Dubay",
-        "Emirate of Dubai"
+    "name:eng_x_variant": [
+      "Dubayy",
+      "Dubay",
+      "Emirate of Dubai"
     ],
-    "name:epo_x_preferred":[
-        "Dubajurbo"
+    "name:epo_x_preferred": [
+      "Dubajurbo"
     ],
-    "name:epo_x_variant":[
-        "Dubajo"
+    "name:epo_x_variant": [
+      "Dubajo"
     ],
-    "name:est_x_preferred":[
-        "Dubai"
+    "name:est_x_preferred": [
+      "Dubai"
     ],
-    "name:est_x_variant":[
-        "Dubai emiraat"
+    "name:est_x_variant": [
+      "Dubai emiraat"
     ],
-    "name:eus_x_preferred":[
-        "Dubai"
+    "name:eus_x_preferred": [
+      "Dubai"
     ],
-    "name:ext_x_preferred":[
-        "Dubai"
+    "name:ext_x_preferred": [
+      "Dubai"
     ],
-    "name:fao_x_preferred":[
-        "Dubai"
+    "name:fao_x_preferred": [
+      "Dubai"
     ],
-    "name:fas_x_preferred":[
-        "\u062f\u0628\u06cc"
+    "name:fas_x_preferred": [
+      "دبی"
     ],
-    "name:fas_x_variant":[
-        "\u062f\u0628\u06cc\u060c \u0627\u0645\u0627\u0631\u0627\u062a",
-        "\u0634\u06cc\u062e\u200c\u0646\u0634\u06cc\u0646 \u062f\u0628\u06cc"
+    "name:fas_x_variant": [
+      "دبی، امارات",
+      "شیخ‌نشین دبی"
     ],
-    "name:fin_x_preferred":[
-        "Dubai"
+    "name:fin_x_preferred": [
+      "Dubai"
     ],
-    "name:fra_x_preferred":[
-        "Duba\u00ef"
+    "name:fra_x_preferred": [
+      "Dubaï"
     ],
-    "name:frp_x_preferred":[
-        "Doubayi"
+    "name:frp_x_preferred": [
+      "Doubayi"
     ],
-    "name:fry_x_preferred":[
-        "D\u00fbbai"
+    "name:fry_x_preferred": [
+      "Dûbai"
     ],
-    "name:fry_x_variant":[
-        "Dubai",
-        "Emiraat D\u00fbbai"
+    "name:fry_x_variant": [
+      "Dubai",
+      "Emiraat Dûbai"
     ],
-    "name:gle_x_preferred":[
-        "Dubai"
+    "name:gle_x_preferred": [
+      "Dubai"
     ],
-    "name:glg_x_preferred":[
-        "Dubai"
+    "name:glg_x_preferred": [
+      "Dubai"
     ],
-    "name:grn_x_preferred":[
-        "Nduv\u00e1i"
+    "name:grn_x_preferred": [
+      "Nduvái"
     ],
-    "name:gsw_x_preferred":[
-        "Dubai"
+    "name:gsw_x_preferred": [
+      "Dubai"
     ],
-    "name:hak_x_preferred":[
-        "Dubai"
+    "name:hak_x_preferred": [
+      "Dubai"
     ],
-    "name:hbs_x_preferred":[
-        "Dubai"
+    "name:hbs_x_preferred": [
+      "Dubai"
     ],
-    "name:heb_x_preferred":[
-        "\u05d3\u05d5\u05d1\u05d0\u05d9"
+    "name:heb_x_preferred": [
+      "דובאי"
     ],
-    "name:hif_x_preferred":[
-        "Dubai"
+    "name:hif_x_preferred": [
+      "Dubai"
     ],
-    "name:hin_x_preferred":[
-        "\u0926\u0941\u092c\u0908"
+    "name:hin_x_preferred": [
+      "दुबई"
     ],
-    "name:hrv_x_preferred":[
-        "Dubai"
+    "name:hrv_x_preferred": [
+      "Dubai"
     ],
-    "name:hun_x_preferred":[
-        "Dubaj"
+    "name:hun_x_preferred": [
+      "Dubaj"
     ],
-    "name:hye_x_preferred":[
-        "\u0534\u0578\u0582\u0562\u0561\u0575"
+    "name:hye_x_preferred": [
+      "Դուբայ"
     ],
-    "name:hye_x_variant":[
-        "\u0534\u0578\u0582\u0562\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    "name:hye_x_variant": [
+      "Դուբայի Էմիրություն"
     ],
-    "name:hyw_x_preferred":[
-        "\u054f\u0578\u0582\u057a\u0561\u0575\u056b \u0537\u0574\u056b\u0580\u0578\u0582\u0569\u056b\u0582\u0576"
+    "name:hyw_x_preferred": [
+      "Տուպայի Էմիրութիւն"
     ],
-    "name:ido_x_preferred":[
-        "Dubai"
+    "name:ido_x_preferred": [
+      "Dubai"
     ],
-    "name:ilo_x_preferred":[
-        "Dubai"
+    "name:ilo_x_preferred": [
+      "Dubai"
     ],
-    "name:ind_x_preferred":[
-        "Dubai"
+    "name:ind_x_preferred": [
+      "Dubai"
     ],
-    "name:ind_x_variant":[
-        "Keamiran Dubai"
+    "name:ind_x_variant": [
+      "Keamiran Dubai"
     ],
-    "name:inh_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:inh_x_preferred": [
+      "Дубай"
     ],
-    "name:isl_x_preferred":[
-        "D\u00faba\u00ed"
+    "name:isl_x_preferred": [
+      "Dúbaí"
     ],
-    "name:ita_x_preferred":[
-        "Dubai"
+    "name:ita_x_preferred": [
+      "Dubai"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c9\u30d0\u30a4"
+    "name:jpn_x_preferred": [
+      "ドバイ"
     ],
-    "name:jpn_x_variant":[
-        "\u30c9\u30d0\u30a4\u9996\u9577\u56fd"
+    "name:jpn_x_variant": [
+      "ドバイ首長国"
     ],
-    "name:kaa_x_preferred":[
-        "Dubai"
+    "name:kaa_x_preferred": [
+      "Dubai"
     ],
-    "name:kab_x_preferred":[
-        "Dubay"
+    "name:kab_x_preferred": [
+      "Dubay"
     ],
-    "name:kab_x_variant":[
-        "Limara n Dubay"
+    "name:kab_x_variant": [
+      "Limara n Dubay"
     ],
-    "name:kal_x_preferred":[
-        "Dubai"
+    "name:kal_x_preferred": [
+      "Dubai"
     ],
-    "name:kat_x_preferred":[
-        "\u10d3\u10e3\u10d1\u10d0\u10d8"
+    "name:kat_x_preferred": [
+      "დუბაი"
     ],
-    "name:kat_x_variant":[
-        "\u10d3\u10e3\u10d1\u10d0\u10d8\u10e1 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
+    "name:kat_x_variant": [
+      "დუბაის საამირო"
     ],
-    "name:kaz_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:kaz_x_preferred": [
+      "Дубай"
     ],
-    "name:kik_x_preferred":[
-        "Dubai"
+    "name:kik_x_preferred": [
+      "Dubai"
     ],
-    "name:kir_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:kir_x_preferred": [
+      "Дубай"
     ],
-    "name:kor_x_preferred":[
-        "\ub450\ubc14\uc774"
+    "name:kor_x_preferred": [
+      "두바이"
     ],
-    "name:kor_x_variant":[
-        "\ub450\ubc14\uc774 \ud1a0\ud6c4\uad6d"
+    "name:kor_x_variant": [
+      "두바이 토후국"
     ],
-    "name:kur_x_preferred":[
-        "Dubai"
+    "name:kur_x_preferred": [
+      "Dubai"
     ],
-    "name:lat_x_preferred":[
-        "Dubai"
+    "name:lat_x_preferred": [
+      "Dubai"
     ],
-    "name:lav_x_preferred":[
-        "Dubaija"
+    "name:lav_x_preferred": [
+      "Dubaija"
     ],
-    "name:lav_x_variant":[
-        "Dubaijas emir\u0101ts"
+    "name:lav_x_variant": [
+      "Dubaijas emirāts"
     ],
-    "name:lit_x_preferred":[
-        "Dubajus"
+    "name:lit_x_preferred": [
+      "Dubajus"
     ],
-    "name:lmo_x_preferred":[
-        "Dubai"
+    "name:lmo_x_preferred": [
+      "Dubai"
     ],
-    "name:ltz_x_preferred":[
-        "Dubai"
+    "name:ltz_x_preferred": [
+      "Dubai"
     ],
-    "name:mal_x_preferred":[
-        "\u0d26\u0d41\u0d2c\u0d3e\u0d2f\u0d4d"
+    "name:mal_x_preferred": [
+      "ദുബായ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0926\u0941\u092c\u0908"
+    "name:mar_x_preferred": [
+      "दुबई"
     ],
-    "name:mkd_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0438"
+    "name:mkd_x_preferred": [
+      "Дубаи"
     ],
-    "name:mon_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439 \u0445\u043e\u0442"
+    "name:mon_x_preferred": [
+      "Дубай хот"
     ],
-    "name:mon_x_variant":[
-        "\u042d\u043c\u0438\u0440\u0442 \u0414\u0443\u0431\u0430\u0439",
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:mon_x_variant": [
+      "Эмирт Дубай",
+      "Дубай"
     ],
-    "name:msa_x_preferred":[
-        "Dubai"
+    "name:msa_x_preferred": [
+      "Dubai"
     ],
-    "name:mya_x_preferred":[
-        "\u1012\u1030\u1018\u102d\u102f\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ဒူဘိုင်းမြို့"
     ],
-    "name:nan_x_preferred":[
-        "Dubai Th\u00e2u-l\u00e2ng-kok"
+    "name:nan_x_preferred": [
+      "Dubai Thâu-lâng-kok"
     ],
-    "name:nep_x_preferred":[
-        "\u0926\u0941\u092c\u0908"
+    "name:nep_x_preferred": [
+      "दुबई"
     ],
-    "name:nep_x_variant":[
-        "\u0926\u0941\u092c\u0908\u0915\u094b \u0905\u092e\u093f\u0930\u093e\u0924"
+    "name:nep_x_variant": [
+      "दुबईको अमिरात"
     ],
-    "name:nld_x_preferred":[
-        "Dubai"
+    "name:nld_x_preferred": [
+      "Dubai"
     ],
-    "name:nno_x_preferred":[
-        "Dubai"
+    "name:nno_x_preferred": [
+      "Dubai"
     ],
-    "name:nno_x_variant":[
-        "Emiratet Dubai"
+    "name:nno_x_variant": [
+      "Emiratet Dubai"
     ],
-    "name:nob_x_preferred":[
-        "Emiratet Dubai"
+    "name:nob_x_preferred": [
+      "Emiratet Dubai"
     ],
-    "name:nor_x_preferred":[
-        "Dubai"
+    "name:nor_x_preferred": [
+      "Dubai"
     ],
-    "name:nya_x_preferred":[
-        "Dubai"
+    "name:nya_x_preferred": [
+      "Dubai"
     ],
-    "name:oci_x_preferred":[
-        "Dubai"
+    "name:oci_x_preferred": [
+      "Dubai"
     ],
-    "name:ori_x_preferred":[
-        "\u0b26\u0b41\u0b2c\u0b3e\u0b07"
+    "name:ori_x_preferred": [
+      "ଦୁବାଇ"
     ],
-    "name:oss_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:oss_x_preferred": [
+      "Дубай"
     ],
-    "name:pan_x_preferred":[
-        "\u0a26\u0a41\u0a2c\u0a08"
+    "name:pan_x_preferred": [
+      "ਦੁਬਈ"
     ],
-    "name:pms_x_preferred":[
-        "Dubai"
+    "name:pms_x_preferred": [
+      "Dubai"
     ],
-    "name:pnb_x_preferred":[
-        "\u062f\u0628\u0626\u06cc"
+    "name:pnb_x_preferred": [
+      "دبئی"
     ],
-    "name:pol_x_preferred":[
-        "Dubaj"
+    "name:pol_x_preferred": [
+      "Dubaj"
     ],
-    "name:por_x_preferred":[
-        "Dubai"
+    "name:por_x_preferred": [
+      "Dubai"
     ],
-    "name:pus_x_preferred":[
-        "\u062f\u0648\u0628\u06cd"
+    "name:pus_x_preferred": [
+      "دوبۍ"
     ],
-    "name:ron_x_preferred":[
-        "Dubai"
+    "name:ron_x_preferred": [
+      "Dubai"
     ],
-    "name:ron_x_variant":[
-        "Emiratul Dubai"
+    "name:ron_x_variant": [
+      "Emiratul Dubai"
     ],
-    "name:rue_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:rue_x_preferred": [
+      "Дубай"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:rus_x_preferred": [
+      "Дубай"
     ],
-    "name:sah_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:sah_x_preferred": [
+      "Дубай"
     ],
-    "name:scn_x_preferred":[
-        "Dubai"
+    "name:scn_x_preferred": [
+      "Dubai"
     ],
-    "name:sco_x_preferred":[
-        "Dubai"
+    "name:sco_x_preferred": [
+      "Dubai"
     ],
-    "name:sco_x_variant":[
-        "Emirate o Dubai"
+    "name:sco_x_variant": [
+      "Emirate o Dubai"
     ],
-    "name:sgs_x_preferred":[
-        "Dubajos"
+    "name:sgs_x_preferred": [
+      "Dubajos"
     ],
-    "name:sin_x_preferred":[
-        "\u0da9\u0dd4\u0db6\u0dcf\u0dba\u0dd2"
+    "name:sin_x_preferred": [
+      "ඩුබායි"
     ],
-    "name:slk_x_preferred":[
-        "Dubaj"
+    "name:slk_x_preferred": [
+      "Dubaj"
     ],
-    "name:slv_x_preferred":[
-        "Dubaj"
+    "name:slv_x_preferred": [
+      "Dubaj"
     ],
-    "name:sme_x_preferred":[
-        "Dubai"
+    "name:sme_x_preferred": [
+      "Dubai"
     ],
-    "name:som_x_preferred":[
-        "Dubay"
+    "name:som_x_preferred": [
+      "Dubay"
     ],
-    "name:spa_x_preferred":[
-        "Dub\u00e1i"
+    "name:spa_x_preferred": [
+      "Dubái"
     ],
-    "name:spa_x_variant":[
-        "Dubai"
+    "name:spa_x_variant": [
+      "Dubai"
     ],
-    "name:sqi_x_preferred":[
-        "Dubai"
+    "name:sqi_x_preferred": [
+      "Dubai"
     ],
-    "name:srp_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0438"
+    "name:srp_x_preferred": [
+      "Дубаи"
     ],
-    "name:swa_x_preferred":[
-        "Dubai"
+    "name:swa_x_preferred": [
+      "Dubai"
     ],
-    "name:swe_x_preferred":[
-        "Dubai"
+    "name:swe_x_preferred": [
+      "Dubai"
     ],
-    "name:swe_x_variant":[
-        "Emiratet Dubai"
+    "name:swe_x_variant": [
+      "Emiratet Dubai"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba4\u0bc1\u0baa\u0bbe\u0baf\u0bcd"
+    "name:tam_x_preferred": [
+      "துபாய்"
     ],
-    "name:tat_x_preferred":[
-        "\u0414\u04e9\u0431\u04d9\u0439"
+    "name:tat_x_preferred": [
+      "Дөбәй"
     ],
-    "name:tel_x_preferred":[
-        "\u0c26\u0c41\u0c2c\u0c3e\u0c2f\u0c4d"
+    "name:tel_x_preferred": [
+      "దుబాయ్"
     ],
-    "name:tgl_x_preferred":[
-        "Dubai"
+    "name:tgl_x_preferred": [
+      "Dubai"
     ],
-    "name:tha_x_preferred":[
-        "\u0e14\u0e39\u0e44\u0e1a"
+    "name:tha_x_preferred": [
+      "ดูไบ"
     ],
-    "name:tha_x_variant":[
-        "\u0e23\u0e31\u0e10\u0e14\u0e39\u0e44\u0e1a"
+    "name:tha_x_variant": [
+      "รัฐดูไบ"
     ],
-    "name:tuk_x_preferred":[
-        "Duba\u00fd"
+    "name:tuk_x_preferred": [
+      "Dubaý"
     ],
-    "name:tur_x_preferred":[
-        "Dubai"
+    "name:tur_x_preferred": [
+      "Dubai"
     ],
-    "name:tur_x_variant":[
-        "Dubai Emirli\u011fi"
+    "name:tur_x_variant": [
+      "Dubai Emirliği"
     ],
-    "name:uig_x_preferred":[
-        "\u062f\u06c7\u0628\u0627\u0626\u0649"
+    "name:uig_x_preferred": [
+      "دۇبائى"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0443\u0431\u0430\u0439"
+    "name:ukr_x_preferred": [
+      "Дубай"
     ],
-    "name:und_x_variant":[
-        "Debai"
+    "name:und_x_variant": [
+      "Debai"
     ],
-    "name:urd_x_preferred":[
-        "\u062f\u0628\u0626\u06cc"
+    "name:urd_x_preferred": [
+      "دبئی"
     ],
-    "name:urd_x_variant":[
-        "\u0627\u0645\u0627\u0631\u062a \u062f\u0628\u0626\u06cc"
+    "name:urd_x_variant": [
+      "امارت دبئی"
     ],
-    "name:uzb_x_preferred":[
-        "Dubay"
+    "name:uzb_x_preferred": [
+      "Dubay"
     ],
-    "name:vep_x_preferred":[
-        "Dubai"
+    "name:vep_x_preferred": [
+      "Dubai"
     ],
-    "name:vie_x_preferred":[
-        "Dubai"
+    "name:vie_x_preferred": [
+      "Dubai"
     ],
-    "name:war_x_preferred":[
-        "Dubai"
+    "name:war_x_preferred": [
+      "Dubai"
     ],
-    "name:wuu_x_preferred":[
-        "\u8fea\u62dc"
+    "name:wuu_x_preferred": [
+      "迪拜"
     ],
-    "name:wuu_x_variant":[
-        "\u8fea\u62dc\u914b\u957f\u56fd"
+    "name:wuu_x_variant": [
+      "迪拜酋长国"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d3\u10e3\u10d1\u10d0\u10d8\u10e8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd"
+    "name:xmf_x_preferred": [
+      "დუბაიშ საამირო"
     ],
-    "name:yid_x_preferred":[
-        "\u05d3\u05d5\u05d1\u05d9\u05d9"
+    "name:yid_x_preferred": [
+      "דוביי"
     ],
-    "name:yor_x_preferred":[
-        "Dubai"
+    "name:yor_x_preferred": [
+      "Dubai"
     ],
-    "name:yue_x_preferred":[
-        "\u675c\u62dc\u914b\u9577\u570b"
+    "name:yue_x_preferred": [
+      "杜拜酋長國"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Dubai"
+    "name:zho_min_nan_x_preferred": [
+      "Dubai"
     ],
-    "name:zho_x_preferred":[
-        "\u675c\u62dc"
+    "name:zho_x_preferred": [
+      "杜拜"
     ],
-    "name:zho_x_variant":[
-        "\u8fea\u62dc\u914b\u957f\u56fd"
+    "name:zho_x_variant": [
+      "迪拜酋长国"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u675c\u62dc"
+    "name:zho_yue_x_preferred": [
+      "杜拜"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"ARE",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"ARE-350",
-    "ne:adm1_code":"ARE-350",
-    "ne:admin":"United Arab Emirates",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"AE.DU",
-    "ne:code_local":"",
-    "ne:datarank":"8",
-    "ne:diss_me":"350",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"AE03",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"United Arab Emirates",
-    "ne:gn_a1_code":"AE.03",
-    "ne:gn_id":"292224",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Dubayy",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"AE03",
-    "ne:gns_id":"-782830",
-    "ne:gns_lang":"ara",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Dubayy",
-    "ne:gns_region":"",
-    "ne:gu_a3":"ARE",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"AE-",
-    "ne:iso_a2":"AE",
-    "ne:labelrank":"7",
-    "ne:latitude":"24.95080000000",
-    "ne:longitude":"55.34360000000",
-    "ne:mapcolor13":3,
-    "ne:mapcolor9":3,
-    "ne:name":"Dubay",
-    "ne:name_alt":"Dibay|Douba\u00ef|Dubai, Dubayy",
-    "ne:name_len":5,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"DU",
-    "ne:provnum_ne":"17",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"7",
-    "ne:scalerank":"9",
-    "ne:sov_a3":"ARE",
-    "ne:sub_code":"",
-    "ne:type":"Emirate",
-    "ne:type_en":"Emirate",
-    "ne:wikipedia":"",
-    "ne:woe_id":2347111,
-    "ne:woe_label":"Dubai, AE, United Arab Emirates",
-    "ne:woe_name":"Dubay",
-    "qs:a0":"United Arab Emirates",
-    "qs:a0_lc":"AE",
-    "qs:a1":"Dubay",
-    "qs:a1_lc":"ARE-350",
-    "qs:adm0":"United Arab Emirates",
-    "qs:adm0_a3":"ARE",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Emirate",
-    "sfomuseum:placetype":"region",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "quattroshapes"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "ARE",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "ARE-350",
+    "ne:adm1_code": "ARE-350",
+    "ne:admin": "United Arab Emirates",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "AE.DU",
+    "ne:code_local": "",
+    "ne:datarank": "8",
+    "ne:diss_me": "350",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "AE03",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "United Arab Emirates",
+    "ne:gn_a1_code": "AE.03",
+    "ne:gn_id": "292224",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Dubayy",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "AE03",
+    "ne:gns_id": "-782830",
+    "ne:gns_lang": "ara",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Dubayy",
+    "ne:gns_region": "",
+    "ne:gu_a3": "ARE",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "AE-",
+    "ne:iso_a2": "AE",
+    "ne:labelrank": "7",
+    "ne:latitude": "24.95080000000",
+    "ne:longitude": "55.34360000000",
+    "ne:mapcolor13": 3,
+    "ne:mapcolor9": 3,
+    "ne:name": "Dubay",
+    "ne:name_alt": "Dibay|Doubaï|Dubai, Dubayy",
+    "ne:name_len": 5,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "DU",
+    "ne:provnum_ne": "17",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "7",
+    "ne:scalerank": "9",
+    "ne:sov_a3": "ARE",
+    "ne:sub_code": "",
+    "ne:type": "Emirate",
+    "ne:type_en": "Emirate",
+    "ne:wikipedia": "",
+    "ne:woe_id": 2347111,
+    "ne:woe_label": "Dubai, AE, United Arab Emirates",
+    "ne:woe_name": "Dubay",
+    "qs:a0": "United Arab Emirates",
+    "qs:a0_lc": "AE",
+    "qs:a1": "Dubay",
+    "qs:a1_lc": "ARE-350",
+    "qs:adm0": "United Arab Emirates",
+    "qs:adm0_a3": "ARE",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Emirate",
+    "sfomuseum:placetype": "region",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "quattroshapes"
     ],
-    "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2011",
-    "statoids:area_km":"3,900",
-    "statoids:area_mi":"1,500",
-    "statoids:as_of_date":"2005-12-05",
-    "statoids:capital":"Dubay",
-    "statoids:country":"AE",
-    "statoids:gec":"AE03",
-    "statoids:hasc":"AE.DU",
-    "statoids:iso":"DU",
-    "statoids:name":"Dubay",
-    "statoids:population":"1210438",
-    "statoids:timezone":"+4",
-    "statoids:type":"emirate",
-    "unlc:subdivision":"AE-DU",
-    "wd:wordcount":13402,
-    "wof:belongsto":[
-        102191569,
-        85632573
+    "src:geom_via": "quattroshapes",
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "src:population_date": "2011",
+    "statoids:area_km": "3,900",
+    "statoids:area_mi": "1,500",
+    "statoids:as_of_date": "2005-12-05",
+    "statoids:capital": "Dubay",
+    "statoids:country": "AE",
+    "statoids:gec": "AE03",
+    "statoids:hasc": "AE.DU",
+    "statoids:iso": "DU",
+    "statoids:name": "Dubay",
+    "statoids:population": "1210438",
+    "statoids:timezone": "+4",
+    "statoids:type": "emirate",
+    "unlc:subdivision": "AE-DU",
+    "wd:wordcount": 13402,
+    "wof:belongsto": [
+      102191569,
+      85632573
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "digitalenvoy:region_code":25153,
-        "fips:code":"AE03",
-        "gn:id":292224,
-        "gp:id":2347111,
-        "hasc:id":"AE.DU",
-        "iso:id":"AE-DU",
-        "qs_pg:id":1278641,
-        "unlc:id":"AE-DU",
-        "wd:id":"Q613",
-        "wk:page":"Emirate of Dubai"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "digitalenvoy:region_code": 25153,
+      "fips:code": "AE03",
+      "gn:id": 292224,
+      "gp:id": 2347111,
+      "hasc:id": "AE.DU",
+      "iso:id": "AE-DU",
+      "qs_pg:id": 1278641,
+      "unlc:id": "AE-DU",
+      "wd:id": "Q613",
+      "wk:page": "Emirate of Dubai"
     },
-    "wof:coterminous":[
-        1376833603
+    "wof:coterminous": [
+      1376833603
     ],
-    "wof:country":"AE",
-    "wof:geom_alt":[
-        "quattroshapes"
+    "wof:country": "AE",
+    "wof:created": 1624906855,
+    "wof:geom_alt": [
+      "quattroshapes"
     ],
-    "wof:geomhash":"22ec8b2a7b423c506af40c05ad03f0a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632573,
-            "region_id":85667983
-        }
+    "wof:geomhash": "22ec8b2a7b423c506af40c05ad03f0a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632573,
+        "region_id": 85667983
+      }
     ],
-    "wof:id":85667983,
-    "wof:lang_x_official":[
-        "ara"
+    "wof:id": 85667983,
+    "wof:lang_x_official": [
+      "ara"
     ],
-    "wof:lang_x_spoken":[
-        "ara"
+    "wof:lang_x_spoken": [
+      "ara"
     ],
-    "wof:lastmodified":1611601031,
-    "wof:name":"Dubai",
-    "wof:parent_id":85632573,
-    "wof:placetype":"region",
-    "wof:population":2502715,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-ae",
-    "wof:shortcode":"DU",
-    "wof:subdivision":"AE-DU",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906855,
+    "wof:name": "Dubai",
+    "wof:parent_id": 85632573,
+    "wof:placetype": "region",
+    "wof:population": 2502715,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-ae",
+    "wof:shortcode": "DU",
+    "wof:subdivision": "AE-DU",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     54.949153,
     24.595088,
     56.204439,
     25.358089
-],
+  ],
   "geometry": {"coordinates":[[[[56.075913,24.751363],[56.075885,24.751668],[56.082396,24.771589],[56.105702,24.820372],[56.170866,24.824041],[56.171366,24.824069],[56.171176,24.82399],[56.186265,24.830243],[56.204439,24.832301],[56.203956,24.825373],[56.203075,24.811584],[56.20253,24.804907],[56.201214,24.786725],[56.201126,24.784754],[56.180832,24.774194],[56.16458,24.765737],[56.145465,24.755425],[56.127251,24.7457],[56.127084,24.74551],[56.112912,24.737865],[56.081299,24.743313],[56.075913,24.751363]]],[[[55.066605,24.823606],[55.041458,24.889495],[54.981446,24.947086],[54.96177,24.965896],[54.955765,24.973709],[54.951018,24.986791],[54.949153,24.997946],[54.94933,25.009508],[54.954418,25.021301],[54.962293,25.031287],[54.971453,25.037818],[54.98132,25.040309],[54.993556,25.04057],[55.00879,25.035952],[55.018657,25.030121],[55.026094,25.024224],[55.033735,25.01973],[55.042972,25.021845],[55.038841,25.031702],[55.035673,25.036834],[55.057795,25.051352],[55.061166,25.044232],[55.068806,25.046458],[55.073931,25.031065],[55.089008,25.035938],[55.134565,25.084553],[55.133087,25.093621],[55.1206,25.093751],[55.108729,25.10157],[55.104403,25.109278],[55.104201,25.118233],[55.107626,25.126458],[55.113513,25.134819],[55.122743,25.141162],[55.13277,25.14486],[55.14212,25.144267],[55.150916,25.141025],[55.156769,25.132898],[55.157899,25.121293],[55.16375,25.115697],[55.188891,25.146708],[55.197259,25.160143],[55.186585,25.172917],[55.169929,25.181313],[55.156423,25.180749],[55.142037,25.181936],[55.12656,25.193571],[55.120814,25.205778],[55.120642,25.220724],[55.125531,25.238967],[55.13565,25.253827],[55.154263,25.265171],[55.169754,25.268275],[55.184134,25.267372],[55.197589,25.260479],[55.204902,25.251449],[55.209101,25.239493],[55.213073,25.224819],[55.220259,25.212187],[55.219844,25.226708],[55.234627,25.224843],[55.240093,25.217734],[55.24435,25.214266],[55.252038,25.223669],[55.25902,25.236779],[55.25253,25.243543],[55.255234,25.24877],[55.248499,25.255916],[55.248099,25.271043],[55.256057,25.271097],[55.257569,25.284203],[55.26441,25.286311],[55.269467,25.28196],[55.286433,25.293098],[55.279219,25.304238],[55.283396,25.316818],[55.299836,25.305457],[55.30611,25.316753],[55.290929,25.331358],[55.292225,25.338633],[55.295742,25.343567],[55.293201,25.346919],[55.292194,25.352208],[55.293402,25.358089],[55.300749,25.351149],[55.309777,25.346268],[55.316514,25.337384],[55.325058,25.33283],[55.332452,25.327084],[55.362312,25.298104],[55.375608,25.296445],[55.386618,25.301884],[55.505826,25.256922],[55.564224,25.234149],[55.632675,25.207389],[55.640145,25.161876],[55.657719,25.054802],[55.658029,25.048342],[55.656169,25.042193],[55.652138,25.03594],[55.646661,25.030359],[55.634103,25.020308],[55.629142,25.015269],[55.625732,25.011109],[55.619996,25.000206],[55.61953,24.999327],[55.627437,24.976434],[55.6448,24.943775],[55.656169,24.91556],[55.659735,24.902925],[55.66113,24.895432],[55.66082,24.871945],[55.664386,24.84236],[55.676013,24.80058],[55.680974,24.769264],[55.681284,24.752288],[55.680354,24.739214],[55.678493,24.728233],[55.676323,24.720481],[55.670897,24.708983],[55.647901,24.695185],[55.537727,24.653948],[55.470392,24.618549],[55.440162,24.608317],[55.41236,24.60284],[55.200538,24.595088],[55.179919,24.597414],[55.160385,24.602969],[55.148086,24.617542],[55.137854,24.63692],[55.066605,24.823606]]]],"type":"MultiPolygon"}
 }

@@ -2,156 +2,157 @@
   "id": 102531811,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1911-01-01",
-    "date:inception_upper":"1911-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1911",
-    "geom:area":0.000673,
-    "geom:area_square_m":6783982.504558,
-    "geom:bbox":"-97.618622,35.379379,-97.577988,35.413219",
-    "geom:latitude":35.397754,
-    "geom:longitude":-97.593581,
-    "gn:elevation":393,
-    "iso:country":"US",
-    "lbl:latitude":35.396691,
-    "lbl:longitude":-97.593893,
-    "mps:latitude":35.396691,
-    "mps:longitude":-97.593893,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Will Rogers World Airport"
+    "date:inception_lower": "1911-01-01",
+    "date:inception_upper": "1911-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1911",
+    "geom:area": 0.0006730471399999502,
+    "geom:area_square_m": 6783982.504558,
+    "geom:bbox": "-97.618622,35.379379,-97.577988,35.413219",
+    "geom:latitude": 35.397754486842025,
+    "geom:longitude": -97.59358083949046,
+    "gn:elevation": 393,
+    "iso:country": "US",
+    "lbl:latitude": 35.396691,
+    "lbl:longitude": -97.593893,
+    "mps:latitude": 35.396691,
+    "mps:longitude": -97.593893,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Will Rogers World Airport"
     ],
-    "name:deu_x_preferred":[
-        "Will Rogers World Airport"
+    "name:deu_x_preferred": [
+      "Will Rogers World Airport"
     ],
-    "name:eng_x_preferred":[
-        "Will Rogers World Airport"
+    "name:eng_x_preferred": [
+      "Will Rogers World Airport"
     ],
-    "name:eng_x_variant":[
-        "OKC",
-        "KOKC"
+    "name:eng_x_variant": [
+      "OKC",
+      "KOKC"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644 \u0631\u0627\u062c\u0631\u0632"
+    "name:fas_x_preferred": [
+      "فرودگاه ویل راجرز"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport Will Rogers-World"
+    "name:fra_x_preferred": [
+      "Aéroport Will Rogers-World"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport Will Rogers-World"
+    "name:fra_x_variant": [
+      "aéroport Will Rogers-World"
     ],
-    "name:hin_x_preferred":[
-        "\u0913\u0915\u0947\u0938\u0940 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    "name:hin_x_preferred": [
+      "ओकेसी हवाई अड्डा"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto di Oklahoma City Will Rogers World"
+    "name:ita_x_preferred": [
+      "Aeroporto di Oklahoma City Will Rogers World"
     ],
-    "name:jpn_x_preferred":[
-        "\u30a6\u30a3\u30eb\u30fb\u30ed\u30b8\u30e3\u30fc\u30b9\u30fb\u30ef\u30fc\u30eb\u30c9\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ウィル・ロジャース・ワールド空港"
     ],
-    "name:mar_x_preferred":[
-        "\u0935\u093f\u0932 \u0930\u0949\u091c\u0930\u094d\u0938 \u091c\u093e\u0917\u0924\u093f\u0915 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "विल रॉजर्स जागतिक विमानतळ"
     ],
-    "name:nld_x_preferred":[
-        "Will Rogers World Airport"
+    "name:nld_x_preferred": [
+      "Will Rogers World Airport"
     ],
-    "name:nob_x_preferred":[
-        "Will Rogers lufthavn"
+    "name:nob_x_preferred": [
+      "Will Rogers lufthavn"
     ],
-    "name:nor_x_preferred":[
-        "Will Rogers lufthavn"
+    "name:nor_x_preferred": [
+      "Will Rogers lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Will Rogers"
+    "name:pol_x_preferred": [
+      "Port lotniczy Will Rogers"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Will Rogers World"
+    "name:ron_x_preferred": [
+      "Aeroportul Will Rogers World"
     ],
-    "name:rus_x_preferred":[
-        "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430-\u0421\u0438\u0442\u0438"
+    "name:rus_x_preferred": [
+      "Оклахома-Сити"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Will Rogers World"
+    "name:spa_x_preferred": [
+      "Aeropuerto Will Rogers World"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0435\u043b \u0440\u043e\u04b7\u0440\u0437"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи вел роҷрз"
     ],
-    "name:urd_x_preferred":[
-        "\u0648\u06c1\u06cc\u0644\u0631-\u0633\u06cc\u06a9 \u0622\u0631\u0645\u06cc \u0627\u06cc\u0626\u0631\u0641\u06cc\u0644\u0688"
+    "name:urd_x_preferred": [
+      "وہیلر-سیک آرمی ایئرفیلڈ"
     ],
-    "name:urd_x_variant":[
-        "\u0648\u0644 \u0631\u0627\u062c\u0631\u0632 \u0648\u0631\u0644\u0688 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_variant": [
+      "ول راجرز ورلڈ ہوائی اڈا"
     ],
-    "name:zho_x_preferred":[
-        "\u5a01\u5c14\u00b7\u7f57\u6770\u65af\u4e16\u754c\u673a\u573a"
+    "name:zho_x_preferred": [
+      "威尔·罗杰斯世界机场"
     ],
-    "oa:elevation_ft":"1295",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":286,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Will Rogers World Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":3130,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12589669,
-        "planet_id":1,
-        "state_id":2347595,
-        "suburb_id":55805858
+    "oa:elevation_ft": "1295",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 286,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Will Rogers World Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 3130,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589669,
+      "planet_id": 1,
+      "state_id": 2347595,
+      "suburb_id": 55805858
     },
-    "wof:belongsto":[
-        85688585,
-        102191575,
-        85633793,
-        101714461,
-        102082577
+    "wof:belongsto": [
+      85688585,
+      102191575,
+      85633793,
+      101714461,
+      102082577
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"OKC",
-        "gn:id":4555726,
-        "gp:id":12522444,
-        "iata:code":"OKC",
-        "icao:code":"KOKC",
-        "oa:id":"3747",
-        "wd:id":"Q1499872",
-        "wk:page":"Will_Rogers_World_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "OKC",
+      "gn:id": 4555726,
+      "gp:id": 12522444,
+      "iata:code": "OKC",
+      "icao:code": "KOKC",
+      "oa:id": "3747",
+      "wd:id": "Q1499872",
+      "wk:page": "Will_Rogers_World_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ddc7ca612b24693cf31f5e8c9ea4cd9d",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531811,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "region_id":85688585
-        }
+    "wof:country": "US",
+    "wof:created": 1624906954,
+    "wof:geomhash": "ddc7ca612b24693cf31f5e8c9ea4cd9d",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531811,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082577,
+        "locality_id": 101714461,
+        "region_id": 85688585
+      }
     ],
-    "wof:id":102531811,
-    "wof:lastmodified":1611601232,
-    "wof:name":"Will Rogers World Airport",
-    "wof:parent_id":101714461,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102531811,
+    "wof:lastmodified": 1624906954,
+    "wof:name": "Will Rogers World Airport",
+    "wof:parent_id": 101714461,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -97.618622,
     35.379379,
     -97.577988,
     35.413219
-],
-  "geometry": {"coordinates":[[[[-97.57859000000001,35.412487],[-97.578163,35.41135],[-97.577988,35.409882],[-97.577988,35.409584],[-97.577988,35.409565],[-97.579109,35.40752],[-97.583,35.401333],[-97.578506,35.394855],[-97.583099,35.385693],[-97.58395400000001,35.386356],[-97.59498600000001,35.38401],[-97.60006,35.379379],[-97.60347,35.389534],[-97.60584299999999,35.394138],[-97.60932200000001,35.398144],[-97.618622,35.398712],[-97.60734600000001,35.402554],[-97.605797,35.407066],[-97.605873,35.409691],[-97.60013600000001,35.407169],[-97.592606,35.409546],[-97.583122,35.412502],[-97.57885,35.413219],[-97.57859000000001,35.412487]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-97.57859,35.412487],[-97.578163,35.41135],[-97.577988,35.409882],[-97.577988,35.409584],[-97.577988,35.409565],[-97.579109,35.40752],[-97.583,35.401333],[-97.578506,35.394855],[-97.583099,35.385693],[-97.583954,35.386356],[-97.594986,35.38401],[-97.60006,35.379379],[-97.60347,35.389534],[-97.605843,35.394138],[-97.609322,35.398144],[-97.618622,35.398712],[-97.607346,35.402554],[-97.605797,35.407066],[-97.605873,35.409691],[-97.600136,35.407169],[-97.592606,35.409546],[-97.583122,35.412502],[-97.57885,35.413219],[-97.57859,35.412487]]]],"type":"MultiPolygon"}
 }

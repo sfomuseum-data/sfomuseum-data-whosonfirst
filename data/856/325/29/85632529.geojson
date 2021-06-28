@@ -2,1063 +2,1064 @@
   "id": 85632529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.038467,
-    "geom:area_square_m":454188366.125681,
-    "geom:bbox":"-62.353027,16.932028,-61.657555,17.730417",
-    "geom:latitude":17.27815,
-    "geom:longitude":-61.799121,
-    "gn:id":"",
-    "gn:population":86754,
-    "iso:country":"AG",
-    "itu:country_code":[
-        "1-268"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.03846747375550019,
+    "geom:area_square_m": 454188366.125681,
+    "geom:bbox": "-62.353027,16.932028,-61.657555,17.730417",
+    "geom:latitude": 17.27814975016967,
+    "geom:longitude": -61.7991208687742,
+    "gn:id": "",
+    "gn:population": 86754,
+    "iso:country": "AG",
+    "itu:country_code": [
+      "1-268"
     ],
-    "itu:region":"1",
-    "label:eng_x_preferred_shortcode":[
-        "AG"
+    "itu:region": "1",
+    "label:eng_x_preferred_shortcode": [
+      "AG"
     ],
-    "lbl:latitude":17.06938,
-    "lbl:longitude":-61.809739,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":17.06938,
-    "mps:longitude":-61.809739,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":9.5,
-    "mz:min_zoom":4.5,
-    "name:ace_x_preferred":[
-        "Antigua ngon Barbuda"
+    "lbl:latitude": 17.06938,
+    "lbl:longitude": -61.809739,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 17.06938,
+    "mps:longitude": -61.809739,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 9.5,
+    "mz:min_zoom": 4.5,
+    "name:ace_x_preferred": [
+      "Antigua ngon Barbuda"
     ],
-    "name:afr_x_preferred":[
-        "Antigua en Barbuda"
+    "name:afr_x_preferred": [
+      "Antigua en Barbuda"
     ],
-    "name:aka_x_preferred":[
-        "Antigua ne Baabuda"
+    "name:aka_x_preferred": [
+      "Antigua ne Baabuda"
     ],
-    "name:als_x_preferred":[
-        "Antigua und Barbuda"
+    "name:als_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:amh_x_preferred":[
-        "\u12a0\u1295\u1272\u130b \u12a5\u1293 \u1263\u122d\u1261\u12f3"
+    "name:amh_x_preferred": [
+      "አንቲጋ እና ባርቡዳ"
     ],
-    "name:amh_x_variant":[
-        "\u12a0\u1295\u1272\u1313 \u12a5\u1293 \u1263\u1229\u12f3"
+    "name:amh_x_variant": [
+      "አንቲጓ እና ባሩዳ"
     ],
-    "name:ang_x_preferred":[
-        "Antigua and Barbuda"
+    "name:ang_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:ara_x_preferred":[
-        "\u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:ara_x_preferred": [
+      "أنتيغوا وباربودا"
     ],
-    "name:ara_x_variant":[
-        "\u0627\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627",
-        "\u0623\u0646\u062a\u064a\u063a\u0627 \u0648\u0628\u0627\u0631\u0628\u0648\u062f\u0627",
-        "\u0623\u0646\u062a\u064a\u063a\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627",
-        "\u0623\u0646\u062a\u064a\u062c\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627"
+    "name:ara_x_variant": [
+      "انتيغوا وبربودا",
+      "أنتيغا وباربودا",
+      "أنتيغا وبربودا",
+      "أنتيجوا وبربودا"
     ],
-    "name:arg_x_preferred":[
-        "Antigua y Barbuda"
+    "name:arg_x_preferred": [
+      "Antigua y Barbuda"
     ],
-    "name:ary_x_preferred":[
-        "\u0623\u0646\u062a\u064a\u06ad\u0648\u0627 \u0624\u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:ary_x_preferred": [
+      "أنتيڭوا ؤباربودا"
     ],
-    "name:arz_x_preferred":[
-        "\u0627\u0646\u062a\u064a\u062c\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:arz_x_preferred": [
+      "انتيجا و باربودا"
     ],
-    "name:arz_x_variant":[
-        "\u0623\u0646\u062a\u064a\u062c\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:arz_x_variant": [
+      "أنتيجا و باربودا"
     ],
-    "name:asm_x_preferred":[
-        "\u098f\u09a3\u09cd\u099f\u09bf\u0997\u09c1\u09f1\u09be \u0986\u09f0\u09c1 \u09ac\u09be\u09f0\u09cd\u09ac\u09c1\u09a1\u09be"
+    "name:asm_x_preferred": [
+      "এণ্টিগুৱা আৰু বাৰ্বুডা"
     ],
-    "name:ast_x_preferred":[
-        "Antigua y Barbuda"
+    "name:ast_x_preferred": [
+      "Antigua y Barbuda"
     ],
-    "name:aym_x_preferred":[
-        "Antiwa wan Barbuda"
+    "name:aym_x_preferred": [
+      "Antiwa wan Barbuda"
     ],
-    "name:azb_x_preferred":[
-        "\u0622\u0646\u062a\u06cc\u06af\u0648\u0622 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:azb_x_preferred": [
+      "آنتیگوآ و باربودا"
     ],
-    "name:aze_x_preferred":[
-        "Antiqua v\u0259 Barbuda"
+    "name:aze_x_preferred": [
+      "Antiqua və Barbuda"
     ],
-    "name:bak_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u04bb\u04d9\u043c \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:bak_x_preferred": [
+      "Антигуа һәм Барбуда"
     ],
-    "name:bam_x_preferred":[
-        "Antiga-ni-Barbuda"
+    "name:bam_x_preferred": [
+      "Antiga-ni-Barbuda"
     ],
-    "name:bar_x_preferred":[
-        "Antigua und Barbuda"
+    "name:bar_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:bcl_x_preferred":[
-        "Antigwa asin Barbuda"
+    "name:bcl_x_preferred": [
+      "Antigwa asin Barbuda"
     ],
-    "name:bel_x_preferred":[
-        "\u0410\u043d\u0442\u044b\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:bel_x_preferred": [
+      "Антыгуа і Барбуда"
     ],
-    "name:ben_x_preferred":[
-        "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0997\u09c1\u09af\u09bc\u09be \u0993 \u09ac\u09be\u09b0\u09cd\u09ac\u09c1\u09a1\u09be"
+    "name:ben_x_preferred": [
+      "অ্যান্টিগুয়া ও বার্বুডা"
     ],
-    "name:ben_x_variant":[
-        "\u098f\u09a8\u09cd\u099f\u09bf\u0997\u09c1\u09af\u09bc\u09be \u098f\u09ac\u0982 \u09ac\u09be\u09b0\u09cd\u09ac\u09c1\u09a1\u09be",
-        "\u098f\u09a8\u09cd\u099f\u09bf\u0997\u09c1\u09af\u09bc\u09be \u0993 \u09ac\u09be\u09b0\u09ac\u09c1\u09a1\u09be",
-        "\u0986\u09a8\u09cd\u099f\u09bf\u0997\u09c1\u09af\u09bc\u09be \u0993 \u09ac\u09be\u09b0\u09cd\u09ac\u09c1\u09a1\u09be"
+    "name:ben_x_variant": [
+      "এন্টিগুয়া এবং বার্বুডা",
+      "এন্টিগুয়া ও বারবুডা",
+      "আন্টিগুয়া ও বার্বুডা"
     ],
-    "name:bgn_x_preferred":[
-        "\u0627\u0646\u062a\u06cc\u0627\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:bgn_x_preferred": [
+      "انتیاگوا و باربودا"
     ],
-    "name:bho_x_preferred":[
-        "\u090f\u0902\u091f\u0940\u0917\u0941\u0906 \u0906 \u092c\u093e\u0930\u092c\u0942\u0921\u093e"
+    "name:bho_x_preferred": [
+      "एंटीगुआ आ बारबूडा"
     ],
-    "name:bod_x_preferred":[
-        "\u0f68\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f42\u0f74\u0f60\u0f0b\u0f51\u0f44\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0f74\u0f0b\u0f4c\u0f0d"
+    "name:bod_x_preferred": [
+      "ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།"
     ],
-    "name:bod_x_variant":[
-        "\u0f68\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f42\u0f74\u0f0b\u0f51\u0f44\u0f0b\u0f0d \u0f56\u0fb7\u0f62\u0f0b\u0f56\u0f74\u0f0b\u0f4c\u0f0d"
+    "name:bod_x_variant": [
+      "ཨེན་ཊི་གུ་དང་། བྷར་བུ་ཌ།"
     ],
-    "name:bos_x_preferred":[
-        "Antigva i Barbuda"
+    "name:bos_x_preferred": [
+      "Antigva i Barbuda"
     ],
-    "name:bpy_x_preferred":[
-        "\u098f\u09a8\u09cd\u099f\u09bf\u0997\u09c1\u09af\u09bc\u09be \u09ac\u09be\u09b0\u09cb \u09ac\u09be\u09b0\u09cd\u09ac\u09c1\u09a1\u09be"
+    "name:bpy_x_preferred": [
+      "এন্টিগুয়া বারো বার্বুডা"
     ],
-    "name:bre_x_preferred":[
-        "Antigua ha Barbuda"
+    "name:bre_x_preferred": [
+      "Antigua ha Barbuda"
     ],
-    "name:bul_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:bul_x_preferred": [
+      "Антигуа и Барбуда"
     ],
-    "name:bxr_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0431\u0430 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:bxr_x_preferred": [
+      "Антигуа ба Барбуда"
     ],
-    "name:cat_x_preferred":[
-        "Antigua i Barbuda"
+    "name:cat_x_preferred": [
+      "Antigua i Barbuda"
     ],
-    "name:cdo_x_preferred":[
-        "Antigua g\u00e2e\u0324ng Barbuda"
+    "name:cdo_x_preferred": [
+      "Antigua gâe̤ng Barbuda"
     ],
-    "name:ceb_x_preferred":[
-        "Antigua ug Barbuda"
+    "name:ceb_x_preferred": [
+      "Antigua ug Barbuda"
     ],
-    "name:ces_x_preferred":[
-        "Antigua a Barbuda"
+    "name:ces_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:che_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0430, \u0411\u0430\u0440\u0431\u0443\u0434\u0430 \u0430",
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0430"
+    "name:che_x_preferred": [
+      "Антигуа а, Барбуда а",
+      "Антигуа а"
     ],
-    "name:chr_x_preferred":[
-        "\u13a4\u13ea\u13d8 \u13a0\u13b4 \u13c6\u13ca\u13d3"
+    "name:chr_x_preferred": [
+      "ᎤᏪᏘ ᎠᎴ ᏆᏊᏓ"
     ],
-    "name:ckb_x_preferred":[
-        "\u0626\u0627\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0648\u062f\u0627"
+    "name:ckb_x_preferred": [
+      "ئانتیگوا و باربوودا"
     ],
-    "name:cor_x_preferred":[
-        "Antiga ha Barbuda"
+    "name:cor_x_preferred": [
+      "Antiga ha Barbuda"
     ],
-    "name:crh_x_preferred":[
-        "Antigua ve Barbuda"
+    "name:crh_x_preferred": [
+      "Antigua ve Barbuda"
     ],
-    "name:cym_x_preferred":[
-        "Antigwa a Barbiwda"
+    "name:cym_x_preferred": [
+      "Antigwa a Barbiwda"
     ],
-    "name:cym_x_variant":[
-        "Antigwa a Barbuda",
-        "Antigua a Barbuda"
+    "name:cym_x_variant": [
+      "Antigwa a Barbuda",
+      "Antigua a Barbuda"
     ],
-    "name:dan_x_preferred":[
-        "Antigua og Barbuda"
+    "name:dan_x_preferred": [
+      "Antigua og Barbuda"
     ],
-    "name:deu_at_x_preferred":[
-        "Antigua und Barbuda"
+    "name:deu_at_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:deu_ch_x_preferred":[
-        "Antigua und Barbuda"
+    "name:deu_ch_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:deu_x_preferred":[
-        "Antigua und Barbuda"
+    "name:deu_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:diq_x_preferred":[
-        "Antigua u Barbuda"
+    "name:diq_x_preferred": [
+      "Antigua u Barbuda"
     ],
-    "name:div_x_preferred":[
-        "\u0787\u07ac\u0782\u07b0\u0793\u07a8\u078e\u07aa\u0787\u07a7 \u0787\u07a6\u078b\u07a8 \u0784\u07a7\u0784\u07a8\u0787\u07aa\u0791\u07a7"
+    "name:div_x_preferred": [
+      "އެންޓިގުއާ އަދި ބާބިއުޑާ"
     ],
-    "name:dsb_x_preferred":[
-        "Antigua a Barbuda"
+    "name:dsb_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:dty_x_preferred":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0930 \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:dty_x_preferred": [
+      "एन्टिगुआ र बर्बुडा"
     ],
-    "name:ell_x_preferred":[
-        "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u03ba\u03b1\u03b9 \u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1"
+    "name:ell_x_preferred": [
+      "Αντίγκουα και Μπαρμπούντα"
     ],
-    "name:eng_ca_x_preferred":[
-        "Antigua and Barbuda"
+    "name:eng_ca_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:eng_gb_x_preferred":[
-        "Antigua and Barbuda"
+    "name:eng_gb_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:eng_x_preferred":[
-        "Antigua and Barbuda"
+    "name:eng_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:eng_x_unknown":[
-        "AG",
-        "ATG"
+    "name:eng_x_unknown": [
+      "AG",
+      "ATG"
     ],
-    "name:eng_x_variant":[
-        "Antigua",
-        "Antigua & Barbuda",
-        "Antiguan",
-        "Barbuda",
-        "Barbudan"
+    "name:eng_x_variant": [
+      "Antigua",
+      "Antigua \u0026 Barbuda",
+      "Antiguan",
+      "Barbuda",
+      "Barbudan"
     ],
-    "name:epo_x_preferred":[
-        "Antigvo-Barbudo"
+    "name:epo_x_preferred": [
+      "Antigvo-Barbudo"
     ],
-    "name:epo_x_variant":[
-        "Antigvo kaj Barbudo"
+    "name:epo_x_variant": [
+      "Antigvo kaj Barbudo"
     ],
-    "name:est_x_preferred":[
-        "Antigua ja Barbuda"
+    "name:est_x_preferred": [
+      "Antigua ja Barbuda"
     ],
-    "name:eus_x_preferred":[
-        "Antigua eta Barbuda"
+    "name:eus_x_preferred": [
+      "Antigua eta Barbuda"
     ],
-    "name:ewe_x_preferred":[
-        "Antigua and Barbuda"
+    "name:ewe_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:ewe_x_variant":[
-        "\u0301Antigua kple Barbuda nutome"
+    "name:ewe_x_variant": [
+      "́Antigua kple Barbuda nutome"
     ],
-    "name:ext_x_preferred":[
-        "Ant\u00edgua i Barbua"
+    "name:ext_x_preferred": [
+      "Antígua i Barbua"
     ],
-    "name:fao_x_preferred":[
-        "Antigua og Barbuda"
+    "name:fao_x_preferred": [
+      "Antigua og Barbuda"
     ],
-    "name:fas_x_preferred":[
-        "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:fas_x_preferred": [
+      "آنتیگوا و باربودا"
     ],
-    "name:fin_x_preferred":[
-        "Antigua ja Barbuda"
+    "name:fin_x_preferred": [
+      "Antigua ja Barbuda"
     ],
-    "name:fra_x_preferred":[
-        "Antigua-et-Barbuda"
+    "name:fra_x_preferred": [
+      "Antigua-et-Barbuda"
     ],
-    "name:fra_x_variant":[
-        "Antigua et Barbuda"
+    "name:fra_x_variant": [
+      "Antigua et Barbuda"
     ],
-    "name:frp_x_preferred":[
-        "Antigoa-et-Barbuda"
+    "name:frp_x_preferred": [
+      "Antigoa-et-Barbuda"
     ],
-    "name:frr_x_preferred":[
-        "Antiigua an Barbuuda"
+    "name:frr_x_preferred": [
+      "Antiigua an Barbuuda"
     ],
-    "name:fry_x_preferred":[
-        "Antig\u00fba en Barb\u00fbda"
+    "name:fry_x_preferred": [
+      "Antigûa en Barbûda"
     ],
-    "name:fry_x_variant":[
-        "Antigua en Barb\u00fbda"
+    "name:fry_x_variant": [
+      "Antigua en Barbûda"
     ],
-    "name:ful_x_preferred":[
-        "Antiguwaa e Barbudaa"
+    "name:ful_x_preferred": [
+      "Antiguwaa e Barbudaa"
     ],
-    "name:gag_x_preferred":[
-        "Antigua hem Barbuda"
+    "name:gag_x_preferred": [
+      "Antigua hem Barbuda"
     ],
-    "name:gcr_x_preferred":[
-        "Antigua-\u00e9-Barbuda"
+    "name:gcr_x_preferred": [
+      "Antigua-é-Barbuda"
     ],
-    "name:gla_x_preferred":[
-        "Antigua agus Barbuda"
+    "name:gla_x_preferred": [
+      "Antigua agus Barbuda"
     ],
-    "name:gle_x_preferred":[
-        "Antigua agus Barb\u00fada"
+    "name:gle_x_preferred": [
+      "Antigua agus Barbúda"
     ],
-    "name:gle_x_variant":[
-        "Aint\u00edge agus Barb\u00fada"
+    "name:gle_x_variant": [
+      "Aintíge agus Barbúda"
     ],
-    "name:glg_x_preferred":[
-        "Antiga e Barbuda"
+    "name:glg_x_preferred": [
+      "Antiga e Barbuda"
     ],
-    "name:glg_x_variant":[
-        "Antiga e Barbuda - Antigua and Barbuda"
+    "name:glg_x_variant": [
+      "Antiga e Barbuda - Antigua and Barbuda"
     ],
-    "name:glv_x_preferred":[
-        "Antigua as Barbuda"
+    "name:glv_x_preferred": [
+      "Antigua as Barbuda"
     ],
-    "name:gom_x_preferred":[
-        "\u0905\u0901\u091f\u093f\u0917\u093e \u0906\u0923\u093f \u092c\u093e\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:gom_x_preferred": [
+      "अँटिगा आणि बार्बुडा"
     ],
-    "name:grn_x_preferred":[
-        "Antigua ha Barbuda"
+    "name:grn_x_preferred": [
+      "Antigua ha Barbuda"
     ],
-    "name:gsw_x_preferred":[
-        "Antigua und Barbuda"
+    "name:gsw_x_preferred": [
+      "Antigua und Barbuda"
     ],
-    "name:guj_x_preferred":[
-        "\u0a8f\u0aa8\u0acd\u0a9f\u0ac0\u0a97\u0ac1\u0a86 \u0a85\u0aa8\u0ac7 \u0aac\u0ab0\u0aac\u0ac1\u0aa1\u0abe"
+    "name:guj_x_preferred": [
+      "એન્ટીગુઆ અને બરબુડા"
     ],
-    "name:guj_x_variant":[
-        "\u0a8f\u0aa8\u0acd\u0a9f\u0abf\u0a97\u0ac1\u0a86 \u0a8f\u0aa8\u0acd\u0aa1 \u0aac\u0abe\u0ab0\u0acd\u0aac\u0ac1\u0aa1\u0abe"
+    "name:guj_x_variant": [
+      "એન્ટિગુઆ એન્ડ બાર્બુડા"
     ],
-    "name:hak_x_preferred":[
-        "Antigua l\u00e2u Barbuda"
+    "name:hak_x_preferred": [
+      "Antigua lâu Barbuda"
     ],
-    "name:hat_x_preferred":[
-        "Antigwa ak Babouda"
+    "name:hat_x_preferred": [
+      "Antigwa ak Babouda"
     ],
-    "name:hau_x_preferred":[
-        "Antigwa da Barbuba"
+    "name:hau_x_preferred": [
+      "Antigwa da Barbuba"
     ],
-    "name:hbs_x_preferred":[
-        "Antigva i Barbuda"
+    "name:hbs_x_preferred": [
+      "Antigva i Barbuda"
     ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05e0\u05d8\u05d9\u05d2\u05d5\u05d0\u05d4 \u05d5\u05d1\u05e8\u05d1\u05d5\u05d3\u05d4"
+    "name:heb_x_preferred": [
+      "אנטיגואה וברבודה"
     ],
-    "name:heb_x_variant":[
-        "\u05d0\u05e0\u05d8\u05d9\u05d2\u05d5\u05d5\u05d4 \u05d5\u05d1\u05e8\u05d1\u05d5\u05d3\u05d4"
+    "name:heb_x_variant": [
+      "אנטיגווה וברבודה"
     ],
-    "name:hif_x_preferred":[
-        "Antigua and Barbuda"
+    "name:hif_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:hin_x_preferred":[
-        "\u0905\u0923\u094d\u091f\u0940\u0917\u0941\u0906 \u0914\u0930 \u092c\u093e\u0930\u092c\u0942\u0921\u093e"
+    "name:hin_x_preferred": [
+      "अण्टीगुआ और बारबूडा"
     ],
-    "name:hin_x_variant":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0935\u093e \u0914\u0930 \u092c\u093e\u0930\u092c\u0942\u0921\u093e",
-        "\u090f\u0902\u091f\u093f\u0917\u0941\u0906 \u0914\u0930 \u092c\u093e\u0930\u092c\u0941\u0921\u093e"
+    "name:hin_x_variant": [
+      "एन्टिगुवा और बारबूडा",
+      "एंटिगुआ और बारबुडा"
     ],
-    "name:hrv_x_preferred":[
-        "Antigva i Barbuda"
+    "name:hrv_x_preferred": [
+      "Antigva i Barbuda"
     ],
-    "name:hrv_x_variant":[
-        "Antigua i Barbuda"
+    "name:hrv_x_variant": [
+      "Antigua i Barbuda"
     ],
-    "name:hsb_x_preferred":[
-        "Antigua a Barbuda"
+    "name:hsb_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:hun_x_preferred":[
-        "Antigua \u00c9s Barbuda",
-        "Antigua \u00e9s Barbuda"
+    "name:hun_x_preferred": [
+      "Antigua És Barbuda",
+      "Antigua és Barbuda"
     ],
-    "name:hye_x_preferred":[
-        "\u0531\u0576\u057f\u056b\u0563\u0578\u0582\u0561 \u0587 \u0532\u0561\u0580\u0562\u0578\u0582\u0564\u0561"
+    "name:hye_x_preferred": [
+      "Անտիգուա և Բարբուդա"
     ],
-    "name:hye_x_variant":[
-        "\u0531\u0576\u057f\u056b\u0563\u0578\u0582\u0561-\u0532\u0561\u0580\u0562\u0578\u0582\u0564\u0561"
+    "name:hye_x_variant": [
+      "Անտիգուա-Բարբուդա"
     ],
-    "name:ido_x_preferred":[
-        "Antigua e Barbuda"
+    "name:ido_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:ido_x_variant":[
-        "Antiga e Barbuda"
+    "name:ido_x_variant": [
+      "Antiga e Barbuda"
     ],
-    "name:ile_x_preferred":[
-        "Antigua e Barbuda"
+    "name:ile_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:ilo_x_preferred":[
-        "Antigua ken Barbuda"
+    "name:ilo_x_preferred": [
+      "Antigua ken Barbuda"
     ],
-    "name:ina_x_preferred":[
-        "Antigua e Barbuda"
+    "name:ina_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:ind_x_preferred":[
-        "Antigua dan Barbuda"
+    "name:ind_x_preferred": [
+      "Antigua dan Barbuda"
     ],
-    "name:isl_x_preferred":[
-        "Ant\u00edgva og Barb\u00fada"
+    "name:isl_x_preferred": [
+      "Antígva og Barbúda"
     ],
-    "name:ita_x_preferred":[
-        "Antigua e Barbuda"
+    "name:ita_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:jam_x_preferred":[
-        "Antiiga ah Baabyuuda"
+    "name:jam_x_preferred": [
+      "Antiiga ah Baabyuuda"
     ],
-    "name:jav_x_preferred":[
-        "Antigua lan Barbuda"
+    "name:jav_x_preferred": [
+      "Antigua lan Barbuda"
     ],
-    "name:jpn_x_preferred":[
-        "\u30a2\u30f3\u30c1\u30b0\u30a2\u30d0\u30fc\u30d6\u30fc\u30c0",
-        "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0"
+    "name:jpn_x_preferred": [
+      "アンチグアバーブーダ",
+      "アンティグア・バーブーダ"
     ],
-    "name:jpn_x_variant":[
-        "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30d0\u30d6\u30fc\u30c0"
+    "name:jpn_x_variant": [
+      "アンティグアバブーダ"
     ],
-    "name:kaa_x_preferred":[
-        "Antigua ha'm Barbuda"
+    "name:kaa_x_preferred": [
+      "Antigua ha'm Barbuda"
     ],
-    "name:kab_x_preferred":[
-        "Antigua ed Barbuda"
+    "name:kab_x_preferred": [
+      "Antigua ed Barbuda"
     ],
-    "name:kal_x_preferred":[
-        "Antigua aamma Barbuda"
+    "name:kal_x_preferred": [
+      "Antigua aamma Barbuda"
     ],
-    "name:kan_x_preferred":[
-        "\u0c86\u0c82\u0c9f\u0cbf\u0c97\u0cc1\u0cb5 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cac\u0cbe\u0cb0\u0ccd\u0cac\u0cc1\u0ca1"
+    "name:kan_x_preferred": [
+      "ಆಂಟಿಗುವ ಮತ್ತು ಬಾರ್ಬುಡ"
     ],
-    "name:kan_x_variant":[
-        "\u0c86\u0c82\u0c9f\u0cbf\u0c97\u0cc1\u0cb5\u0cbe \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cac\u0cb0\u0ccd\u0cac\u0cc1\u0ca1\u0cbe"
+    "name:kan_x_variant": [
+      "ಆಂಟಿಗುವಾ ಮತ್ತು ಬರ್ಬುಡಾ"
     ],
-    "name:kat_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0 \u10d3\u10d0 \u10d1\u10d0\u10e0\u10d1\u10e3\u10d3\u10d0"
+    "name:kat_x_preferred": [
+      "ანტიგუა და ბარბუდა"
     ],
-    "name:kaz_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0436\u04d9\u043d\u0435 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:kaz_x_preferred": [
+      "Антигуа және Барбуда"
     ],
-    "name:kbd_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u044d\u0440\u044d \u0411\u0430\u0440\u0431\u0443\u0434\u044d\u0440\u044d"
+    "name:kbd_x_preferred": [
+      "Антигуэрэ Барбудэрэ"
     ],
-    "name:kik_x_preferred":[
-        "Antigua na Barbuda"
+    "name:kik_x_preferred": [
+      "Antigua na Barbuda"
     ],
-    "name:kin_x_preferred":[
-        "Antigwa na Baribuda"
+    "name:kin_x_preferred": [
+      "Antigwa na Baribuda"
     ],
-    "name:kir_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0436\u0430\u043d\u0430 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:kir_x_preferred": [
+      "Антигуа жана Барбуда"
     ],
-    "name:kor_x_preferred":[
-        "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+    "name:kor_x_preferred": [
+      "앤티가 바부다"
     ],
-    "name:kor_x_variant":[
-        "\uc548\ud2f0\uac00 \ubc14\ubd80\ub2e4",
-        "\uc564\ud2f0\uac00\ubc14\ubd80\ub2e4"
+    "name:kor_x_variant": [
+      "안티가 바부다",
+      "앤티가바부다"
     ],
-    "name:kur_x_preferred":[
-        "Ant\u00eegua \u00fb Berb\u00fbda"
+    "name:kur_x_preferred": [
+      "Antîgua û Berbûda"
     ],
-    "name:kur_x_variant":[
-        "Antig\u00fba \u00fb Berb\u00fbda",
-        "\u0626\u0627\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:kur_x_variant": [
+      "Antigûa û Berbûda",
+      "ئانتیگوا و باربودا"
     ],
-    "name:lad_x_preferred":[
-        "Antigua i Barbuda"
+    "name:lad_x_preferred": [
+      "Antigua i Barbuda"
     ],
-    "name:lat_x_preferred":[
-        "Antiqua et Barbuda"
+    "name:lat_x_preferred": [
+      "Antiqua et Barbuda"
     ],
-    "name:lav_x_preferred":[
-        "Antigva un Barbuda"
+    "name:lav_x_preferred": [
+      "Antigva un Barbuda"
     ],
-    "name:lfn_x_preferred":[
-        "Antigua e Barbuda"
+    "name:lfn_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:lij_x_preferred":[
-        "Antigua e Barbuda"
+    "name:lij_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:lim_x_preferred":[
-        "Antigua en Barbuda"
+    "name:lim_x_preferred": [
+      "Antigua en Barbuda"
     ],
-    "name:lin_x_preferred":[
-        "Antigua mp\u00e9 Barbuda"
+    "name:lin_x_preferred": [
+      "Antigua mpé Barbuda"
     ],
-    "name:lin_x_variant":[
-        "Antiga mp\u00e9 Barbuda"
+    "name:lin_x_variant": [
+      "Antiga mpé Barbuda"
     ],
-    "name:lit_x_preferred":[
-        "Antigva ir Barbuda"
+    "name:lit_x_preferred": [
+      "Antigva ir Barbuda"
     ],
-    "name:lmo_x_preferred":[
-        "Antigua e Barbuda"
+    "name:lmo_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:ltz_x_preferred":[
-        "Antigua a Barbuda"
+    "name:ltz_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:lub_x_preferred":[
-        "Antiga ne Barbuda"
+    "name:lub_x_preferred": [
+      "Antiga ne Barbuda"
     ],
-    "name:lug_x_preferred":[
-        "Antigwa ne Barabuda"
+    "name:lug_x_preferred": [
+      "Antigwa ne Barabuda"
     ],
-    "name:lzh_x_preferred":[
-        "\u5b89\u5730\u5361\u53ca\u5df4\u5e03\u9054"
+    "name:lzh_x_preferred": [
+      "安地卡及巴布達"
     ],
-    "name:mai_x_preferred":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0906 \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:mai_x_preferred": [
+      "एन्टिगुआ आ बर्बुडा"
     ],
-    "name:mal_x_preferred":[
-        "\u0d06\u0d28\u0d4d\u0d31\u0d3f\u0d17\u0d4d\u0d35 \u0d2c\u0d7c\u0d2c\u0d41\u0d21"
+    "name:mal_x_preferred": [
+      "ആന്റിഗ്വ ബർബുഡ"
     ],
-    "name:mal_x_variant":[
-        "\u0d06\u0d28\u0d4d\u200d\u0d31\u0d3f\u0d17\u0d4d\u0d35\u0d2f\u0d41\u0d02 \u0d2c\u0d30\u0d4d\u200d\u0d2c\u0d41\u0d21\u0d2f\u0d41\u0d02"
+    "name:mal_x_variant": [
+      "ആന്‍റിഗ്വയും ബര്‍ബുഡയും"
     ],
-    "name:mar_x_preferred":[
-        "\u0905\u0901\u091f\u093f\u0917\u093e \u0906\u0923\u093f \u092c\u093e\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:mar_x_preferred": [
+      "अँटिगा आणि बार्बुडा"
     ],
-    "name:mar_x_variant":[
-        "\u0905\u0901\u091f\u093f\u0917\u094d\u0935\u093e \u0906\u0923\u093f \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:mar_x_variant": [
+      "अँटिग्वा आणि बर्बुडा"
     ],
-    "name:min_x_preferred":[
-        "Antigua jo Barbuda"
+    "name:min_x_preferred": [
+      "Antigua jo Barbuda"
     ],
-    "name:mkd_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:mkd_x_preferred": [
+      "Антигва и Барбуда"
     ],
-    "name:mlg_x_preferred":[
-        "Antigua sy Barbuda"
+    "name:mlg_x_preferred": [
+      "Antigua sy Barbuda"
     ],
-    "name:mlg_x_variant":[
-        "Antiga sy Barboda"
+    "name:mlg_x_variant": [
+      "Antiga sy Barboda"
     ],
-    "name:mlt_x_preferred":[
-        "Antigwa u Barbuda"
+    "name:mlt_x_preferred": [
+      "Antigwa u Barbuda"
     ],
-    "name:mlt_x_variant":[
-        "Antigua and Barbuda"
+    "name:mlt_x_variant": [
+      "Antigua and Barbuda"
     ],
-    "name:mon_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0431\u0430 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:mon_x_preferred": [
+      "Антигуа ба Барбуда"
     ],
-    "name:mrj_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0434\u04d3 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:mrj_x_preferred": [
+      "Антигуа дӓ Барбуда"
     ],
-    "name:msa_x_preferred":[
-        "Antigua dan Barbuda"
+    "name:msa_x_preferred": [
+      "Antigua dan Barbuda"
     ],
-    "name:mya_x_preferred":[
-        "\u1021\u1004\u103a\u1010\u102e\u1002\u103d\u102b\u1014\u103e\u1004\u1037\u103a \u1018\u102c\u1018\u1030\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "အင်တီဂွါနှင့် ဘာဘူဒါနိုင်ငံ"
     ],
-    "name:myv_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0434\u044b \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:myv_x_preferred": [
+      "Антигуа ды Барбуда"
     ],
-    "name:nah_x_preferred":[
-        "Antigua \u012bhu\u0101n Barbuda"
+    "name:nah_x_preferred": [
+      "Antigua īhuān Barbuda"
     ],
-    "name:nan_x_preferred":[
-        "Antigua kap Barbuda"
+    "name:nan_x_preferred": [
+      "Antigua kap Barbuda"
     ],
-    "name:nau_x_preferred":[
-        "Antigua me Barbuda"
+    "name:nau_x_preferred": [
+      "Antigua me Barbuda"
     ],
-    "name:nav_x_preferred":[
-        "Ant\u00ed\u00edgwa d\u00f3\u00f3 Hashk\u02bcaan Bik\u00e9yah Y\u00e1zh\u00ed"
+    "name:nav_x_preferred": [
+      "Antíígwa dóó Hashkʼaan Bikéyah Yázhí"
     ],
-    "name:nde_x_preferred":[
-        "Antigua le Barbuda"
+    "name:nde_x_preferred": [
+      "Antigua le Barbuda"
     ],
-    "name:nds_x_preferred":[
-        "Antigua un Barbuda"
+    "name:nds_x_preferred": [
+      "Antigua un Barbuda"
     ],
-    "name:nep_x_preferred":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0930 \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:nep_x_preferred": [
+      "एन्टिगुआ र बर्बुडा"
     ],
-    "name:nep_x_variant":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0930 \u092c\u093e\u0930\u092c\u0941\u0921\u093e"
+    "name:nep_x_variant": [
+      "एन्टिगुआ र बारबुडा"
     ],
-    "name:new_x_preferred":[
-        "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0935\u093e \u0935 \u092c\u093e\u0930\u094d\u092c\u0941\u0921\u093e"
+    "name:new_x_preferred": [
+      "एन्टिगुवा व बार्बुडा"
     ],
-    "name:nld_x_preferred":[
-        "Antigua en Barbuda"
+    "name:nld_x_preferred": [
+      "Antigua en Barbuda"
     ],
-    "name:nld_x_variant":[
-        "Antigua-en-Barbuda"
+    "name:nld_x_variant": [
+      "Antigua-en-Barbuda"
     ],
-    "name:nno_x_preferred":[
-        "Antigua og Barbuda"
+    "name:nno_x_preferred": [
+      "Antigua og Barbuda"
     ],
-    "name:nob_x_preferred":[
-        "Antigua og Barbuda"
+    "name:nob_x_preferred": [
+      "Antigua og Barbuda"
     ],
-    "name:nor_x_preferred":[
-        "Antigua og Barbuda"
+    "name:nor_x_preferred": [
+      "Antigua og Barbuda"
     ],
-    "name:nov_x_preferred":[
-        "Antigua e Barbuda"
+    "name:nov_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:oci_x_preferred":[
-        "Antigua e Barbuda"
+    "name:oci_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:olo_x_preferred":[
-        "Antigua-Barbuda"
+    "name:olo_x_preferred": [
+      "Antigua-Barbuda"
     ],
-    "name:ori_x_preferred":[
-        "\u0b06\u0b23\u0b4d\u0b1f\u0b3f\u0b17\u0b41\u0b06 \u0b13 \u0b2c\u0b30\u0b2c\u0b41\u0b21\u0b3e"
+    "name:ori_x_preferred": [
+      "ଆଣ୍ଟିଗୁଆ ଓ ବରବୁଡା"
     ],
-    "name:ori_x_variant":[
-        "\u0b06\u0b23\u0b4d\u0b1f\u0b3f\u0b17\u0b41\u0b06 \u0b0f\u0b2c\u0b02 \u0b2c\u0b3e\u0b30\u0b2c\u0b41\u0b26\u0b3e"
+    "name:ori_x_variant": [
+      "ଆଣ୍ଟିଗୁଆ ଏବଂ ବାରବୁଦା"
     ],
-    "name:orm_x_preferred":[
-        "Antiiguwaa fi Baarbuudaa"
+    "name:orm_x_preferred": [
+      "Antiiguwaa fi Baarbuudaa"
     ],
-    "name:oss_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u00e6 \u00e6\u043c\u00e6 \u0411\u0430\u0440\u0431\u0443\u0434\u00e6"
+    "name:oss_x_preferred": [
+      "Антигуæ æмæ Барбудæ"
     ],
-    "name:pam_x_preferred":[
-        "Antigua at Barbuda"
+    "name:pam_x_preferred": [
+      "Antigua at Barbuda"
     ],
-    "name:pam_x_variant":[
-        "Antigua and Barbuda"
+    "name:pam_x_variant": [
+      "Antigua and Barbuda"
     ],
-    "name:pan_x_preferred":[
-        "\u0a10\u0a02\u0a1f\u0a40\u0a17\u0a41\u0a06 \u0a05\u0a24\u0a47 \u0a2c\u0a30\u0a2c\u0a42\u0a21\u0a3e"
+    "name:pan_x_preferred": [
+      "ਐਂਟੀਗੁਆ ਅਤੇ ਬਰਬੂਡਾ"
     ],
-    "name:pap_x_preferred":[
-        "Antigua y Barbuda"
+    "name:pap_x_preferred": [
+      "Antigua y Barbuda"
     ],
-    "name:pih_x_preferred":[
-        "Antigua a' Barbuda"
+    "name:pih_x_preferred": [
+      "Antigua a' Barbuda"
     ],
-    "name:pms_x_preferred":[
-        "Antigua e Barbuda"
+    "name:pms_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:pnb_x_preferred":[
-        "\u0627\u0646\u0679\u06cc\u06af\u0648\u0627 \u062a\u06d2 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:pnb_x_preferred": [
+      "انٹیگوا تے باربودا"
     ],
-    "name:pol_x_preferred":[
-        "Antigua I Barbuda",
-        "Antigua i Barbuda"
+    "name:pol_x_preferred": [
+      "Antigua I Barbuda",
+      "Antigua i Barbuda"
     ],
-    "name:por_br_x_preferred":[
-        "Ant\u00edgua e Barbuda"
+    "name:por_br_x_preferred": [
+      "Antígua e Barbuda"
     ],
-    "name:por_x_preferred":[
-        "Ant\u00edgua e Barbuda"
+    "name:por_x_preferred": [
+      "Antígua e Barbuda"
     ],
-    "name:pus_x_preferred":[
-        "\u0627\u0646\u067c\u064a\u06ab \u0627\u0648 \u0628\u0631\u0628\u0648\u062f\u0627"
+    "name:pus_x_preferred": [
+      "انټيګ او بربودا"
     ],
-    "name:que_x_preferred":[
-        "Antiwa Barbudawan"
+    "name:que_x_preferred": [
+      "Antiwa Barbudawan"
     ],
-    "name:roh_x_preferred":[
-        "Antigua e Barbuda"
+    "name:roh_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:ron_x_preferred":[
-        "Antigua \u0219i Barbuda"
+    "name:ron_x_preferred": [
+      "Antigua și Barbuda"
     ],
-    "name:ron_x_variant":[
-        "Antigua \u015ei Barbuda"
+    "name:ron_x_variant": [
+      "Antigua Şi Barbuda"
     ],
-    "name:rue_x_preferred":[
-        "\u0410\u043d\u0442\u0456\u0491\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:rue_x_preferred": [
+      "Антіґуа і Барбуда"
     ],
-    "name:rum_x_variant":[
-        "Antigua \u0219i Barbuda"
+    "name:rum_x_variant": [
+      "Antigua și Barbuda"
     ],
-    "name:run_x_preferred":[
-        "Antigwa na Baribuda"
+    "name:run_x_preferred": [
+      "Antigwa na Baribuda"
     ],
-    "name:rup_x_preferred":[
-        "Antigua shi Barbuda"
+    "name:rup_x_preferred": [
+      "Antigua shi Barbuda"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:rus_x_preferred": [
+      "Антигуа и Барбуда"
     ],
-    "name:sag_x_preferred":[
-        "Ant\u00eegua na Barb\u00fbda"
+    "name:sag_x_preferred": [
+      "Antîgua na Barbûda"
     ],
-    "name:sah_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0443\u043e\u043d\u043d\u0430 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:sah_x_preferred": [
+      "Антигуа уонна Барбуда"
     ],
-    "name:san_x_preferred":[
-        "\u0905\u0923\u094d\u091f\u0940\u0917\u094d\u0935\u093e"
+    "name:san_x_preferred": [
+      "अण्टीग्वा"
     ],
-    "name:san_x_variant":[
-        "\u0905\u0902\u091f\u0940\u0917\u094d\u0935\u093e"
+    "name:san_x_variant": [
+      "अंटीग्वा"
     ],
-    "name:scn_x_preferred":[
-        "Antigua e Barbuda"
+    "name:scn_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:sco_x_preferred":[
-        "Antigua an Barbuda"
+    "name:sco_x_preferred": [
+      "Antigua an Barbuda"
     ],
-    "name:sgs_x_preferred":[
-        "Ant\u0117gva \u0117 Barbuda"
+    "name:sgs_x_preferred": [
+      "Antėgva ė Barbuda"
     ],
-    "name:sin_x_preferred":[
-        "\u0d87\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dd4\u0dc0\u0dcf \u0dc3\u0dc4 \u0db6\u0dcf\u0db6\u0dd2\u0dba\u0dd4\u0da9\u0dcf"
+    "name:sin_x_preferred": [
+      "ඇන්ටිගුවා සහ බාබියුඩා"
     ],
-    "name:sin_x_variant":[
-        "\u0d87\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dd4\u0dc0\u0dcf\u0dc0 \u0dc3\u0dc4 \u0db6\u0dcf\u0db6\u0dd4\u0da9\u0dcf\u0dc0"
+    "name:sin_x_variant": [
+      "ඇන්ටිගුවාව සහ බාබුඩාව"
     ],
-    "name:slk_x_preferred":[
-        "Antigua a Barbuda"
+    "name:slk_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:slk_x_variant":[
-        "Antigua a Barbados"
+    "name:slk_x_variant": [
+      "Antigua a Barbados"
     ],
-    "name:slv_x_preferred":[
-        "Antigva in Barbuda"
+    "name:slv_x_preferred": [
+      "Antigva in Barbuda"
     ],
-    "name:slv_x_variant":[
-        "Antigua in Barbuda"
+    "name:slv_x_variant": [
+      "Antigua in Barbuda"
     ],
-    "name:sme_x_preferred":[
-        "Antigua ja Barbuda"
+    "name:sme_x_preferred": [
+      "Antigua ja Barbuda"
     ],
-    "name:smo_x_preferred":[
-        "Antigua ma Barbuda"
+    "name:smo_x_preferred": [
+      "Antigua ma Barbuda"
     ],
-    "name:sna_x_preferred":[
-        "Antigua and Barbuda"
+    "name:sna_x_preferred": [
+      "Antigua and Barbuda"
     ],
-    "name:sna_x_variant":[
-        "Antigua ne Barbuda"
+    "name:sna_x_variant": [
+      "Antigua ne Barbuda"
     ],
-    "name:snd_x_preferred":[
-        "\u0627\u064a\u0646\u067d\u064a\u06af\u0627 \u06fd \u0628\u0627\u0631\u0628\u0648\u068a\u0627"
+    "name:snd_x_preferred": [
+      "اينٽيگا ۽ باربوڊا"
     ],
-    "name:som_x_preferred":[
-        "Antigua iyo Barbuda"
+    "name:som_x_preferred": [
+      "Antigua iyo Barbuda"
     ],
-    "name:spa_x_preferred":[
-        "Antigua y Barbuda"
+    "name:spa_x_preferred": [
+      "Antigua y Barbuda"
     ],
-    "name:sqi_x_preferred":[
-        "Antigua dhe Barbuda"
+    "name:sqi_x_preferred": [
+      "Antigua dhe Barbuda"
     ],
-    "name:sqi_x_variant":[
-        "Antigua e Barbuda"
+    "name:sqi_x_variant": [
+      "Antigua e Barbuda"
     ],
-    "name:srd_x_preferred":[
-        "Antigua e Barbuda"
+    "name:srd_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:srp_ec_x_preferred": [
+      "Антигва и Барбуда"
     ],
-    "name:srp_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:srp_x_preferred": [
+      "Антигва и Барбуда"
     ],
-    "name:srp_x_variant":[
-        "\u0410\u043d\u0442\u0438\u0433\u0432\u0435 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:srp_x_variant": [
+      "Антигве и Барбуда"
     ],
-    "name:ssw_x_preferred":[
-        "IBhabudi ne Anithikhu"
+    "name:ssw_x_preferred": [
+      "IBhabudi ne Anithikhu"
     ],
-    "name:stq_x_preferred":[
-        "Antigua un Barbuda"
+    "name:stq_x_preferred": [
+      "Antigua un Barbuda"
     ],
-    "name:sun_x_preferred":[
-        "Antigua jeung Barbuda"
+    "name:sun_x_preferred": [
+      "Antigua jeung Barbuda"
     ],
-    "name:swa_x_preferred":[
-        "Antigua na Barbuda"
+    "name:swa_x_preferred": [
+      "Antigua na Barbuda"
     ],
-    "name:swe_x_preferred":[
-        "Antigua och Barbuda"
+    "name:swe_x_preferred": [
+      "Antigua och Barbuda"
     ],
-    "name:szl_x_preferred":[
-        "Antigua a Barbuda"
+    "name:szl_x_preferred": [
+      "Antigua a Barbuda"
     ],
-    "name:szy_x_preferred":[
-        "Antigua and barbuda"
+    "name:szy_x_preferred": [
+      "Antigua and barbuda"
     ],
-    "name:tah_x_preferred":[
-        "Antigua e Barbuda"
+    "name:tah_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:tam_x_preferred":[
-        "\u0b85\u0ba9\u0bcd\u0b9f\u0bbf\u0b95\u0bc1\u0bb5\u0bbe \u0baa\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bbe"
+    "name:tam_x_preferred": [
+      "அன்டிகுவா பர்புடா"
     ],
-    "name:tam_x_variant":[
-        "\u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bc1\u0bb5\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bbe"
+    "name:tam_x_variant": [
+      "ஆண்டிகுவா மற்றும் பார்புடா"
     ],
-    "name:tat_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u04bb\u04d9\u043c \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:tat_x_preferred": [
+      "Антигуа һәм Барбуда"
     ],
-    "name:tel_x_preferred":[
-        "\u0c06\u0c02\u0c1f\u0c3f\u0c17\u0c4d\u0c35\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2c\u0c3e\u0c30\u0c4d\u0c2c\u0c41\u0c21\u0c3e"
+    "name:tel_x_preferred": [
+      "ఆంటిగ్వా మరియు బార్బుడా"
     ],
-    "name:tet_x_preferred":[
-        "Ant\u00edgua no Barbuda"
+    "name:tet_x_preferred": [
+      "Antígua no Barbuda"
     ],
-    "name:tgk_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430\u044e \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:tgk_x_preferred": [
+      "Антигуаю Барбуда"
     ],
-    "name:tgl_x_preferred":[
-        "Antigua at Barbuda"
+    "name:tgl_x_preferred": [
+      "Antigua at Barbuda"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e01\u0e32\u0e41\u0e25\u0e30\u0e1a\u0e32\u0e23\u0e4c\u0e1a\u0e39\u0e14\u0e32"
+    "name:tha_x_preferred": [
+      "ประเทศแอนติกาและบาร์บูดา"
     ],
-    "name:tha_x_variant":[
-        "\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e01\u0e32\u0e41\u0e25\u0e30\u0e1a\u0e32\u0e23\u0e4c\u0e1a\u0e39\u0e14\u0e32"
+    "name:tha_x_variant": [
+      "แอนติกาและบาร์บูดา"
     ],
-    "name:tir_x_preferred":[
-        "\u12a0\u1295\u1272\u1313 \u12a5\u1293 \u1263\u1229\u12f3"
+    "name:tir_x_preferred": [
+      "አንቲጓ እና ባሩዳ"
     ],
-    "name:ton_x_preferred":[
-        "Anitikua mo Palaputa"
+    "name:ton_x_preferred": [
+      "Anitikua mo Palaputa"
     ],
-    "name:tuk_x_preferred":[
-        "Antigua we Barbuda"
+    "name:tuk_x_preferred": [
+      "Antigua we Barbuda"
     ],
-    "name:tur_x_preferred":[
-        "Antigua ve Barbuda"
+    "name:tur_x_preferred": [
+      "Antigua ve Barbuda"
     ],
-    "name:udm_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u043d\u043e \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:udm_x_preferred": [
+      "Антигуа но Барбуда"
     ],
-    "name:uig_x_preferred":[
-        "\u0626\u0627\u0646\u062a\u0649\u06af\u06c7\u0626\u0627 \u06cb\u06d5 \u0628\u0627\u0631\u0628\u06c7\u062f\u0627"
+    "name:uig_x_preferred": [
+      "ئانتىگۇئا ۋە باربۇدا"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:ukr_x_preferred": [
+      "Антигуа і Барбуда"
     ],
-    "name:ukr_x_variant":[
-        "\u0410\u043d\u0442\u0438\u0491\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
-        "\u0410\u043d\u0442\u0456\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    "name:ukr_x_variant": [
+      "Антиґуа і Барбуда",
+      "Антігуа і Барбуда"
     ],
-    "name:und_x_variant":[
-        "Antigua Presidency"
+    "name:und_x_variant": [
+      "Antigua Presidency"
     ],
-    "name:urd_x_preferred":[
-        "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
+    "name:urd_x_preferred": [
+      "اینٹیگوا و باربوڈا"
     ],
-    "name:urd_x_variant":[
-        "\u0627\u0646\u0679\u06cc\u06af\u0648\u0627 \u0627\u0648\u0631 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+    "name:urd_x_variant": [
+      "انٹیگوا اور باربودا"
     ],
-    "name:uzb_x_preferred":[
-        "Antigua va Barbuda"
+    "name:uzb_x_preferred": [
+      "Antigua va Barbuda"
     ],
-    "name:vec_x_preferred":[
-        "Antigua e Barbuda"
+    "name:vec_x_preferred": [
+      "Antigua e Barbuda"
     ],
-    "name:vep_x_preferred":[
-        "Antigua da Barbud"
+    "name:vep_x_preferred": [
+      "Antigua da Barbud"
     ],
-    "name:vie_x_preferred":[
-        "Antigua v\u00e0 Barbuda"
+    "name:vie_x_preferred": [
+      "Antigua và Barbuda"
     ],
-    "name:vie_x_variant":[
-        "An-ti-gu-a v\u00e0 Ba-bu-\u0111a",
-        "An-ti-gu-a v\u00e0 Ba-bu-\u0111a (Antigua v\u00e0 Barbuda)"
+    "name:vie_x_variant": [
+      "An-ti-gu-a và Ba-bu-đa",
+      "An-ti-gu-a và Ba-bu-đa (Antigua và Barbuda)"
     ],
-    "name:vol_x_preferred":[
-        "Lantige\u00e4n e Barbude\u00e4n"
+    "name:vol_x_preferred": [
+      "Lantigeän e Barbudeän"
     ],
-    "name:vro_x_preferred":[
-        "Antigua ja Barbuda"
+    "name:vro_x_preferred": [
+      "Antigua ja Barbuda"
     ],
-    "name:war_x_preferred":[
-        "Antigua ngan Barbuda"
+    "name:war_x_preferred": [
+      "Antigua ngan Barbuda"
     ],
-    "name:wol_x_preferred":[
-        "Antigua ak Barbuda"
+    "name:wol_x_preferred": [
+      "Antigua ak Barbuda"
     ],
-    "name:wuu_x_preferred":[
-        "\u5b89\u63d0\u74dc\u642d\u5df4\u5e03\u8fbe"
+    "name:wuu_x_preferred": [
+      "安提瓜搭巴布达"
     ],
-    "name:xal_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0443\u0434 \u0431\u043e\u043b\u043d \u0411\u0430\u0440\u0431\u0443\u0434"
+    "name:xal_x_preferred": [
+      "Антигуд болн Барбуд"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0 \u10d3\u10dd \u10d1\u10d0\u10e0\u10d1\u10e3\u10d3\u10d0"
+    "name:xmf_x_preferred": [
+      "ანტიგუა დო ბარბუდა"
     ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05e0\u05d8\u05d9\u05d2\u05d5\u05e2 \u05d0\u05d5\u05df \u05d1\u05d0\u05e8\u05d1\u05d5\u05d3\u05e2"
+    "name:yid_x_preferred": [
+      "אנטיגוע און בארבודע"
     ],
-    "name:yor_x_preferred":[
-        "\u00c1nt\u00edg\u00fa\u00e0 \u00e0ti B\u00e0rb\u00fad\u00e0"
+    "name:yor_x_preferred": [
+      "Ántígúà àti Bàrbúdà"
     ],
-    "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de \u00c0\u00e0nt\u00edg\u00fa\u00e0 \u00e0ti B\u00e1r\u00edb\u00fad\u00e0"
+    "name:yor_x_variant": [
+      "Orílẹ́ède Ààntígúà àti Báríbúdà"
     ],
-    "name:yue_x_preferred":[
-        "\u5b89\u63d0\u74dc\u5df4\u5e03\u9054"
+    "name:yue_x_preferred": [
+      "安提瓜巴布達"
     ],
-    "name:zea_x_preferred":[
-        "Antigua en Barbuda"
+    "name:zea_x_preferred": [
+      "Antigua en Barbuda"
     ],
-    "name:zha_x_preferred":[
-        "Antigua caeuq Barbuda"
+    "name:zha_x_preferred": [
+      "Antigua caeuq Barbuda"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
+    "name:zho_cn_x_preferred": [
+      "安提瓜和巴布达"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
+    "name:zho_hk_x_preferred": [
+      "安提瓜和巴布達"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Antigua kap Barbuda"
+    "name:zho_min_nan_x_preferred": [
+      "Antigua kap Barbuda"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u5b89\u5730\u5361\u53ca\u5df4\u5e03\u9054"
+    "name:zho_tw_x_preferred": [
+      "安地卡及巴布達"
     ],
-    "name:zho_x_preferred":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
+    "name:zho_x_preferred": [
+      "安提瓜和巴布达"
     ],
-    "name:zho_x_variant":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
+    "name:zho_x_variant": [
+      "安提瓜和巴布達"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u5b89\u63d0\u74dc\u5df4\u5e03\u9054"
+    "name:zho_yue_x_preferred": [
+      "安提瓜巴布達"
     ],
-    "name:zul_x_preferred":[
-        "i-Antigua and Barbuda"
+    "name:zul_x_preferred": [
+      "i-Antigua and Barbuda"
     ],
-    "ne:abbrev":"Ant.B.",
-    "ne:abbrev_len":6,
-    "ne:adm0_a3":"ATG",
-    "ne:adm0_a3_is":"ATG",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"ATG",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":0,
-    "ne:admin":"Antigua and Barbuda",
-    "ne:brk_a3":"ATG",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Antigua and Barb.",
-    "ne:continent":"North America",
-    "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"AC",
-    "ne:formal_en":"Antigua and Barbuda",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":1657,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Antigua and Barbuda",
-    "ne:gu_a3":"ATG",
-    "ne:homepart":1,
-    "ne:income_grp":"3. Upper middle income",
-    "ne:iso_a2":"AG",
-    "ne:iso_a3":"ATG",
-    "ne:iso_n3":28,
-    "ne:labelrank":6,
-    "ne:lastcensus":2011,
-    "ne:level":2,
-    "ne:long_len":19,
-    "ne:mapcolor13":5,
-    "ne:mapcolor7":2,
-    "ne:mapcolor8":2,
-    "ne:mapcolor9":5,
-    "ne:name":"Antigua and Barb.",
-    "ne:name_alt":null,
-    "ne:name_len":17,
-    "ne:name_long":"Antigua and Barbuda",
-    "ne:name_sort":"Antigua and Barbuda",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":85632,
-    "ne:pop_year":-99,
-    "ne:postal":"AG",
-    "ne:region_un":"Americas",
-    "ne:region_wb":"Latin America & Caribbean",
-    "ne:scalerank":3,
-    "ne:sov_a3":"ATG",
-    "ne:sovereignt":"Antigua and Barbuda",
-    "ne:su_a3":"ATG",
-    "ne:su_dif":0,
-    "ne:subregion":"Caribbean",
-    "ne:subunit":"Antigua and Barbuda",
-    "ne:tiny":4,
-    "ne:type":"Sovereign country",
-    "ne:un_a3":"028",
-    "ne:wb_a2":"AG",
-    "ne:wb_a3":"ATG",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":23424737,
-    "ne:woe_id_eh":23424737,
-    "ne:woe_note":"Exact WOE match as country",
-    "qs:a0":"Antigua and Barbuda",
-    "qs:a0_alt":"Antigua and Barbuda",
-    "qs:adm0":"Antigua and Barbuda",
-    "qs:adm0_a3":"ATG",
-    "qs:level":"adm0",
-    "qs:scale":200000,
-    "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "naturalearth"
+    "ne:abbrev": "Ant.B.",
+    "ne:abbrev_len": 6,
+    "ne:adm0_a3": "ATG",
+    "ne:adm0_a3_is": "ATG",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "ATG",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 0,
+    "ne:admin": "Antigua and Barbuda",
+    "ne:brk_a3": "ATG",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Antigua and Barb.",
+    "ne:continent": "North America",
+    "ne:economy": "6. Developing region",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "AC",
+    "ne:formal_en": "Antigua and Barbuda",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 1657,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Antigua and Barbuda",
+    "ne:gu_a3": "ATG",
+    "ne:homepart": 1,
+    "ne:income_grp": "3. Upper middle income",
+    "ne:iso_a2": "AG",
+    "ne:iso_a3": "ATG",
+    "ne:iso_n3": 28,
+    "ne:labelrank": 6,
+    "ne:lastcensus": 2011,
+    "ne:level": 2,
+    "ne:long_len": 19,
+    "ne:mapcolor13": 5,
+    "ne:mapcolor7": 2,
+    "ne:mapcolor8": 2,
+    "ne:mapcolor9": 5,
+    "ne:name": "Antigua and Barb.",
+    "ne:name_alt": null,
+    "ne:name_len": 17,
+    "ne:name_long": "Antigua and Barbuda",
+    "ne:name_sort": "Antigua and Barbuda",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 85632,
+    "ne:pop_year": -99,
+    "ne:postal": "AG",
+    "ne:region_un": "Americas",
+    "ne:region_wb": "Latin America \u0026 Caribbean",
+    "ne:scalerank": 3,
+    "ne:sov_a3": "ATG",
+    "ne:sovereignt": "Antigua and Barbuda",
+    "ne:su_a3": "ATG",
+    "ne:su_dif": 0,
+    "ne:subregion": "Caribbean",
+    "ne:subunit": "Antigua and Barbuda",
+    "ne:tiny": 4,
+    "ne:type": "Sovereign country",
+    "ne:un_a3": "028",
+    "ne:wb_a2": "AG",
+    "ne:wb_a3": "ATG",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": 23424737,
+    "ne:woe_id_eh": 23424737,
+    "ne:woe_note": "Exact WOE match as country",
+    "qs:a0": "Antigua and Barbuda",
+    "qs:a0_alt": "Antigua and Barbuda",
+    "qs:adm0": "Antigua and Barbuda",
+    "qs:adm0_a3": "ATG",
+    "qs:level": "adm0",
+    "qs:scale": 200000,
+    "qs:source": "US State Department, with Natural Earth mods",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "naturalearth"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "statoids:dial":"1-268",
-    "statoids:ds":"",
-    "statoids:fifa":"ATG",
-    "statoids:gaul":"11",
-    "statoids:gec":"AC",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"ANT",
-    "statoids:iso_a2":"AG",
-    "statoids:iso_a3":"ATG",
-    "statoids:iso_num":"28",
-    "statoids:itu":"ATG",
-    "statoids:marc":"aq",
-    "statoids:name":"Antigua and Barbuda",
-    "statoids:wmo":"AT",
-    "wd:latitude":17.116667,
-    "wd:longitude":-61.85,
-    "wd:population":89985,
-    "wd:wordcount":3494,
-    "wof:belongsto":[
-        102191575
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "statoids:dial": "1-268",
+    "statoids:ds": "",
+    "statoids:fifa": "ATG",
+    "statoids:gaul": "11",
+    "statoids:gec": "AC",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "ANT",
+    "statoids:iso_a2": "AG",
+    "statoids:iso_a3": "ATG",
+    "statoids:iso_num": "28",
+    "statoids:itu": "ATG",
+    "statoids:marc": "aq",
+    "statoids:name": "Antigua and Barbuda",
+    "statoids:wmo": "AT",
+    "wd:latitude": 17.116667,
+    "wd:longitude": -61.85,
+    "wd:population": 89985,
+    "wd:wordcount": 3494,
+    "wof:belongsto": [
+      102191575
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        890445621
+    "wof:breaches": [],
+    "wof:capital": [
+      890445621
     ],
-    "wof:concordances":{
-        "dbp:id":"Antigua_and_Barbuda",
-        "digitalenvoy:country_code":28,
-        "fb:id":"en.antigua_and_barbuda",
-        "fifa:id":"ATG",
-        "fips:code":"AC",
-        "gaul:id":"11",
-        "gn:id":3576396,
-        "gp:id":23424737,
-        "hasc:id":"AG",
-        "icao:code":"V2",
-        "ioc:id":"ANT",
-        "itu:id":"ATG",
-        "loc:id":"n83129820",
-        "m49:code":"028",
-        "marc:id":"aq",
-        "mzb:id":"antigua-and-barbuda",
-        "ne:adm0_a3":"ATG",
-        "nyt:id":"N67228395880060515531",
-        "qs_pg:id":219929,
-        "wd:id":"Q781",
-        "wk:page":"Antigua and Barbuda",
-        "wmo:id":"AT"
+    "wof:concordances": {
+      "dbp:id": "Antigua_and_Barbuda",
+      "digitalenvoy:country_code": 28,
+      "fb:id": "en.antigua_and_barbuda",
+      "fifa:id": "ATG",
+      "fips:code": "AC",
+      "gaul:id": "11",
+      "gn:id": 3576396,
+      "gp:id": 23424737,
+      "hasc:id": "AG",
+      "icao:code": "V2",
+      "ioc:id": "ANT",
+      "itu:id": "ATG",
+      "loc:id": "n83129820",
+      "m49:code": "028",
+      "marc:id": "aq",
+      "mzb:id": "antigua-and-barbuda",
+      "ne:adm0_a3": "ATG",
+      "nyt:id": "N67228395880060515531",
+      "qs_pg:id": 219929,
+      "wd:id": "Q781",
+      "wk:page": "Antigua and Barbuda",
+      "wmo:id": "AT"
     },
-    "wof:country":"AG",
-    "wof:country_alpha3":"ATG",
-    "wof:geom_alt":[
-        "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+    "wof:country": "AG",
+    "wof:country_alpha3": "ATG",
+    "wof:created": 1624906538,
+    "wof:geom_alt": [
+      "naturalearth",
+      "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"0b4755bbc328f55a1df66e8339e5c3d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632529
-        }
+    "wof:geomhash": "55723908b91e546beab1c64b91d74d3f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85632529
+      }
     ],
-    "wof:id":85632529,
-    "wof:lang_x_official":[
-        "eng"
+    "wof:id": 85632529,
+    "wof:lang_x_official": [
+      "eng"
     ],
-    "wof:lang_x_spoken":[
-        "eng"
+    "wof:lang_x_spoken": [
+      "eng"
     ],
-    "wof:lastmodified":1587427670,
-    "wof:name":"Antigua and Barbuda",
-    "wof:parent_id":102191575,
-    "wof:placetype":"country",
-    "wof:population":89985,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-ag",
-    "wof:shortcode":"AG",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906538,
+    "wof:name": "Antigua and Barbuda",
+    "wof:parent_id": 102191575,
+    "wof:placetype": "country",
+    "wof:population": 89985,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-ag",
+    "wof:shortcode": "AG",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -62.353027,
     16.932028,
     -61.657555,
     17.730417
-],
-  "geometry": {"coordinates":[[[[-62.348389,16.932861],[-62.350056,16.932028],[-62.350887,16.932888],[-62.353027,16.933277],[-62.353001,16.944944],[-62.350887,16.945333],[-62.349224,16.944529],[-62.346333,16.940777],[-62.346333,16.937416],[-62.346333,16.935778],[-62.348389,16.932861]]],[[[-61.667583,17.052055],[-61.66925,17.052055],[-61.670502,17.053333],[-61.669224,17.055389],[-61.666721,17.055361],[-61.666306,17.054972],[-61.666306,17.054167],[-61.667168,17.053305],[-61.667583,17.052055]]],[[[-61.910889,17.08036],[-61.914249,17.080305],[-61.914665,17.080778],[-61.913387,17.082027],[-61.910889,17.082027],[-61.910526,17.081556],[-61.910889,17.08036]]],[[[-61.907555,17.078667],[-61.90839,17.078667],[-61.909637,17.079945],[-61.90839,17.081194],[-61.907555,17.081194],[-61.907139,17.080805],[-61.907139,17.079082],[-61.907555,17.078667]]],[[[-61.885918,17.095362],[-61.887585,17.095333],[-61.888,17.095722],[-61.887165,17.096582],[-61.887165,17.097445],[-61.886749,17.097834],[-61.885502,17.096582],[-61.885502,17.095778],[-61.885918,17.095362]]],[[[-61.722584,17.098722],[-61.723415,17.098722],[-61.723835,17.099112],[-61.723804,17.099972],[-61.72261,17.101223],[-61.72089,17.101223],[-61.720528,17.100834],[-61.72047,17.099972],[-61.72089,17.099556],[-61.721722,17.099556],[-61.722584,17.098722]]],[[[-61.705082,17.10125],[-61.706749,17.10125],[-61.707165,17.101667],[-61.707195,17.103306],[-61.705944,17.104584],[-61.704224,17.104555],[-61.703804,17.103306],[-61.704639,17.102501],[-61.704639,17.101639],[-61.705082,17.10125]]],[[[-61.700085,17.105389],[-61.705944,17.105389],[-61.706696,17.106251],[-61.708862,17.106667],[-61.707584,17.108778],[-61.705917,17.108749],[-61.703415,17.107084],[-61.698833,17.106638],[-61.700085,17.105389]]],[[[-61.678806,17.040806],[-61.679249,17.040417],[-61.680473,17.041639],[-61.680473,17.0425],[-61.680054,17.042889],[-61.679222,17.042889],[-61.678806,17.042473],[-61.678806,17.040806]]],[[[-61.669277,17.07375],[-61.668388,17.072889],[-61.664276,17.072916],[-61.663387,17.072056],[-61.660946,17.072083],[-61.659279,17.070417],[-61.657555,17.070389],[-61.657555,17.067862],[-61.659248,17.067888],[-61.660057,17.06875],[-61.661751,17.067028],[-61.663418,17.067055],[-61.665054,17.070389],[-61.666752,17.070389],[-61.668415,17.067888],[-61.669666,17.069973],[-61.670918,17.071222],[-61.671749,17.070389],[-61.674252,17.070389],[-61.674667,17.070862],[-61.672554,17.074583],[-61.669277,17.07375]]],[[[-61.845917,17.729584],[-61.833832,17.716667],[-61.830471,17.709972],[-61.828861,17.7075],[-61.826363,17.705833],[-61.826363,17.705029],[-61.822971,17.701611],[-61.823002,17.699139],[-61.826778,17.697916],[-61.829224,17.696251],[-61.833416,17.696222],[-61.834667,17.6975],[-61.834667,17.699167],[-61.833389,17.701279],[-61.832195,17.701666],[-61.833,17.708334],[-61.835918,17.70875],[-61.836304,17.706638],[-61.8405,17.70414],[-61.8405,17.695807],[-61.839668,17.695],[-61.839695,17.691668],[-61.836777,17.688723],[-61.83511,17.687916],[-61.832584,17.687889],[-61.831749,17.687027],[-61.825111,17.687111],[-61.824223,17.686251],[-61.823418,17.687111],[-61.821751,17.687084],[-61.819637,17.689138],[-61.820057,17.689556],[-61.823418,17.687889],[-61.824665,17.689972],[-61.819668,17.695],[-61.819637,17.698334],[-61.821362,17.700001],[-61.821362,17.701666],[-61.82214,17.702473],[-61.820915,17.703722],[-61.813446,17.703751],[-61.808445,17.698723],[-61.805916,17.69875],[-61.805084,17.700417],[-61.803391,17.700417],[-61.802555,17.70125],[-61.801723,17.700388],[-61.795918,17.700417],[-61.791332,17.695],[-61.791279,17.694139],[-61.785946,17.688749],[-61.784695,17.688305],[-61.780472,17.680805],[-61.776749,17.676195],[-61.775917,17.67625],[-61.773834,17.67411],[-61.772999,17.671638],[-61.770916,17.670416],[-61.770084,17.668751],[-61.769249,17.668751],[-61.76675,17.66625],[-61.765083,17.66625],[-61.752167,17.653305],[-61.752193,17.652445],[-61.750526,17.651638],[-61.748806,17.648306],[-61.746307,17.645834],[-61.745472,17.643278],[-61.743,17.639999],[-61.740501,17.635],[-61.740471,17.630806],[-61.739639,17.629999],[-61.739666,17.627472],[-61.738834,17.626667],[-61.738804,17.622473],[-61.736332,17.616667],[-61.736332,17.610001],[-61.7355,17.609138],[-61.7355,17.607471],[-61.733002,17.605806],[-61.733028,17.602528],[-61.73386,17.601667],[-61.733807,17.6],[-61.732971,17.599138],[-61.733028,17.594139],[-61.733807,17.593277],[-61.733833,17.589167],[-61.736305,17.585833],[-61.736332,17.581667],[-61.738861,17.57914],[-61.738861,17.573305],[-61.737141,17.57],[-61.737946,17.564167],[-61.740501,17.560806],[-61.740501,17.558332],[-61.739613,17.556667],[-61.736332,17.554167],[-61.737141,17.550777],[-61.737999,17.549999],[-61.737167,17.549194],[-61.737167,17.546667],[-61.73428,17.543722],[-61.733002,17.543306],[-61.733028,17.541639],[-61.734222,17.540388],[-61.735916,17.540388],[-61.740055,17.545416],[-61.740891,17.545416],[-61.743389,17.54789],[-61.745888,17.548721],[-61.746723,17.549583],[-61.749249,17.549612],[-61.750084,17.550417],[-61.755112,17.550388],[-61.755943,17.55125],[-61.759224,17.550417],[-61.762585,17.548721],[-61.764637,17.546667],[-61.767166,17.542473],[-61.767555,17.540417],[-61.769279,17.540417],[-61.768806,17.548361],[-61.771362,17.553362],[-61.772999,17.557501],[-61.778416,17.562916],[-61.779251,17.56286],[-61.78175,17.565416],[-61.782585,17.565416],[-61.784248,17.567083],[-61.790085,17.569529],[-61.795887,17.569584],[-61.797611,17.571251],[-61.800888,17.572083],[-61.805111,17.577028],[-61.809223,17.579584],[-61.812557,17.581223],[-61.814251,17.581223],[-61.81675,17.58375],[-61.822582,17.587055],[-61.824249,17.588751],[-61.828445,17.588694],[-61.833389,17.591249],[-61.839249,17.591249],[-61.841721,17.589582],[-61.843445,17.589611],[-61.846748,17.587889],[-61.849277,17.58625],[-61.852585,17.585417],[-61.856777,17.581249],[-61.860085,17.579584],[-61.863445,17.579556],[-61.866333,17.583305],[-61.866306,17.589167],[-61.865528,17.589945],[-61.865501,17.591667],[-61.862972,17.594999],[-61.861332,17.601639],[-61.859695,17.604166],[-61.857166,17.617445],[-61.855526,17.620832],[-61.855446,17.630806],[-61.856335,17.631695],[-61.856304,17.639999],[-61.857193,17.640806],[-61.857166,17.645],[-61.858002,17.645805],[-61.858833,17.654139],[-61.868832,17.665833],[-61.869667,17.672445],[-61.873001,17.679111],[-61.8755,17.681667],[-61.875473,17.682472],[-61.879223,17.686222],[-61.880085,17.686222],[-61.88089,17.687889],[-61.881721,17.687889],[-61.889637,17.695],[-61.889637,17.698334],[-61.888416,17.699583],[-61.882111,17.702473],[-61.882168,17.703333],[-61.879639,17.705833],[-61.87886,17.708305],[-61.872581,17.715389],[-61.868389,17.715416],[-61.86636,17.713333],[-61.866306,17.711611],[-61.867168,17.710833],[-61.867138,17.704166],[-61.866306,17.702499],[-61.864666,17.699972],[-61.864666,17.6975],[-61.868832,17.692472],[-61.868862,17.687471],[-61.863804,17.681667],[-61.863834,17.68],[-61.865528,17.677473],[-61.864693,17.676666],[-61.863804,17.672472],[-61.861305,17.670805],[-61.862167,17.666666],[-61.861332,17.665806],[-61.861332,17.664139],[-61.85511,17.657888],[-61.853863,17.657499],[-61.854694,17.655834],[-61.854668,17.642529],[-61.853832,17.641666],[-61.853832,17.639139],[-61.853001,17.638334],[-61.853027,17.635805],[-61.852139,17.635],[-61.852165,17.630806],[-61.851334,17.629999],[-61.852165,17.621666],[-61.854637,17.616638],[-61.855499,17.614973],[-61.855526,17.610834],[-61.852554,17.607889],[-61.846748,17.607916],[-61.843361,17.610445],[-61.840084,17.610416],[-61.837196,17.613333],[-61.837196,17.614195],[-61.835499,17.614973],[-61.835499,17.616638],[-61.834641,17.6175],[-61.835472,17.619167],[-61.835499,17.625029],[-61.836334,17.625834],[-61.836334,17.627501],[-61.838001,17.629168],[-61.837971,17.630833],[-61.837139,17.631639],[-61.836334,17.635805],[-61.830471,17.6425],[-61.831306,17.644167],[-61.831306,17.645834],[-61.834694,17.649973],[-61.834667,17.654167],[-61.835918,17.654583],[-61.837971,17.657444],[-61.84211,17.665806],[-61.842167,17.667473],[-61.839638,17.669167],[-61.840473,17.670834],[-61.840473,17.672445],[-61.842972,17.674999],[-61.843834,17.678333],[-61.848835,17.684139],[-61.848835,17.684999],[-61.850082,17.685417],[-61.850918,17.687084],[-61.851749,17.687084],[-61.852165,17.688305],[-61.855915,17.69125],[-61.859249,17.692083],[-61.861752,17.69375],[-61.863861,17.694166],[-61.863834,17.695833],[-61.862141,17.698334],[-61.862141,17.700806],[-61.865528,17.704971],[-61.865501,17.709944],[-61.864639,17.710806],[-61.864613,17.715],[-61.863834,17.716667],[-61.861721,17.717112],[-61.860889,17.716249],[-61.860054,17.717112],[-61.858444,17.717083],[-61.857166,17.718334],[-61.856335,17.719999],[-61.856304,17.723333],[-61.85714,17.724138],[-61.856335,17.726667],[-61.852554,17.727888],[-61.850082,17.730417],[-61.845917,17.729584]]],[[[-61.830112,17.174612],[-61.828388,17.172916],[-61.826721,17.172916],[-61.824223,17.170444],[-61.820889,17.168751],[-61.82011,17.169556],[-61.814251,17.169584],[-61.811749,17.171223],[-61.805054,17.171249],[-61.804222,17.172083],[-61.801693,17.172083],[-61.799694,17.17],[-61.798832,17.165806],[-61.79425,17.161249],[-61.790916,17.160418],[-61.788834,17.158333],[-61.789639,17.155834],[-61.788807,17.154167],[-61.78714,17.153334],[-61.787167,17.149944],[-61.785915,17.14875],[-61.779251,17.144556],[-61.776749,17.144556],[-61.77425,17.142944],[-61.772167,17.142471],[-61.772141,17.139139],[-61.773029,17.138334],[-61.772999,17.136667],[-61.775082,17.135416],[-61.776749,17.135416],[-61.778416,17.137917],[-61.780083,17.137056],[-61.780445,17.135805],[-61.778805,17.133307],[-61.782585,17.129555],[-61.784248,17.129555],[-61.78714,17.127527],[-61.7855,17.121639],[-61.785084,17.12125],[-61.780888,17.124556],[-61.775917,17.125389],[-61.775471,17.121639],[-61.774639,17.120777],[-61.774666,17.1175],[-61.775501,17.116667],[-61.775528,17.114195],[-61.774277,17.112917],[-61.773445,17.113722],[-61.771778,17.113695],[-61.770084,17.116222],[-61.766304,17.115862],[-61.766335,17.11414],[-61.767166,17.113333],[-61.76675,17.112917],[-61.765083,17.112917],[-61.764252,17.113777],[-61.75964,17.11414],[-61.759666,17.120001],[-61.760502,17.121666],[-61.763832,17.122499],[-61.763805,17.124166],[-61.762554,17.125416],[-61.760944,17.125416],[-61.751335,17.133333],[-61.751305,17.137501],[-61.750111,17.138721],[-61.749222,17.137888],[-61.747612,17.13875],[-61.746361,17.137472],[-61.746307,17.135],[-61.74464,17.134138],[-61.744667,17.132473],[-61.746777,17.129555],[-61.752167,17.125805],[-61.752945,17.12414],[-61.749638,17.119139],[-61.748833,17.115805],[-61.745083,17.114584],[-61.74086,17.110416],[-61.731724,17.111221],[-61.730888,17.112083],[-61.727554,17.112055],[-61.727196,17.110777],[-61.728001,17.109138],[-61.725498,17.1075],[-61.727612,17.104584],[-61.729637,17.104139],[-61.730473,17.102501],[-61.730499,17.099972],[-61.731335,17.099167],[-61.731304,17.095833],[-61.73214,17.094973],[-61.73175,17.092056],[-61.729279,17.096222],[-61.727585,17.097084],[-61.725082,17.097055],[-61.724251,17.097918],[-61.721748,17.097889],[-61.719223,17.099556],[-61.715889,17.100389],[-61.715084,17.10125],[-61.713833,17.100834],[-61.71386,17.099167],[-61.717999,17.095806],[-61.716751,17.094528],[-61.714249,17.095388],[-61.711723,17.097889],[-61.71011,17.097084],[-61.706779,17.097055],[-61.706749,17.099527],[-61.705082,17.099583],[-61.703804,17.100834],[-61.701694,17.10461],[-61.696751,17.103722],[-61.694221,17.100416],[-61.688416,17.10125],[-61.687584,17.102112],[-61.685081,17.102083],[-61.684223,17.102945],[-61.681778,17.102917],[-61.680916,17.100389],[-61.678391,17.102917],[-61.676777,17.102888],[-61.676304,17.101694],[-61.678833,17.097445],[-61.681305,17.094999],[-61.680473,17.093334],[-61.682167,17.090027],[-61.683029,17.088306],[-61.683418,17.083723],[-61.685917,17.083723],[-61.687584,17.084528],[-61.689667,17.086666],[-61.68964,17.088333],[-61.691723,17.088751],[-61.692165,17.0875],[-61.691334,17.085833],[-61.695057,17.081194],[-61.700085,17.081223],[-61.700916,17.080389],[-61.702583,17.080389],[-61.702946,17.07914],[-61.702194,17.078333],[-61.702972,17.076666],[-61.708363,17.072111],[-61.710472,17.071667],[-61.71011,17.070389],[-61.709221,17.070389],[-61.70425,17.072945],[-61.703415,17.074556],[-61.701721,17.075388],[-61.699223,17.075388],[-61.697971,17.074167],[-61.698002,17.0725],[-61.695499,17.070807],[-61.695084,17.069555],[-61.694248,17.070417],[-61.692585,17.070389],[-61.69175,17.067917],[-61.688416,17.067917],[-61.685055,17.069555],[-61.683445,17.069584],[-61.680946,17.071251],[-61.680084,17.072889],[-61.677582,17.072945],[-61.677193,17.069139],[-61.675472,17.068333],[-61.675472,17.067472],[-61.677139,17.065834],[-61.677166,17.064167],[-61.672165,17.062471],[-61.676361,17.060028],[-61.676334,17.056639],[-61.673832,17.054138],[-61.673832,17.0525],[-61.675529,17.050833],[-61.675472,17.048306],[-61.673,17.046638],[-61.674252,17.044556],[-61.675945,17.043722],[-61.677612,17.043722],[-61.680111,17.045416],[-61.68214,17.0425],[-61.682583,17.040445],[-61.68425,17.040388],[-61.685081,17.039583],[-61.685917,17.040388],[-61.688026,17.039139],[-61.687973,17.037472],[-61.683861,17.035805],[-61.685081,17.033722],[-61.687584,17.033751],[-61.689251,17.032888],[-61.690029,17.03125],[-61.695057,17.031221],[-61.695889,17.032084],[-61.712582,17.032084],[-61.715084,17.033751],[-61.716751,17.033777],[-61.720085,17.035389],[-61.723415,17.037945],[-61.725082,17.037889],[-61.726723,17.039557],[-61.731777,17.042055],[-61.735054,17.042028],[-61.735889,17.042889],[-61.736752,17.042028],[-61.740082,17.042055],[-61.742584,17.043751],[-61.743832,17.0425],[-61.742943,17.040001],[-61.74136,17.038279],[-61.741306,17.035],[-61.738834,17.031666],[-61.738861,17.028278],[-61.735889,17.025389],[-61.732555,17.024555],[-61.728832,17.019945],[-61.728779,17.0175],[-61.731304,17.014973],[-61.733418,17.011194],[-61.733807,17.015806],[-61.737141,17.015806],[-61.737167,17.013277],[-61.732193,17.007528],[-61.73214,17.006666],[-61.732971,17.005806],[-61.733002,17.003277],[-61.734249,17.002083],[-61.735863,17.002083],[-61.738415,17.005388],[-61.73925,17.005388],[-61.743057,17.0],[-61.743332,16.999472],[-61.748333,16.9995],[-61.748665,17.0],[-61.748943,17.000334],[-61.749611,17.0],[-61.751667,16.998638],[-61.754665,17.0],[-61.756748,17.001249],[-61.759251,17.001194],[-61.760918,17.00375],[-61.763416,17.00375],[-61.765083,17.004555],[-61.768391,17.001249],[-61.771778,17.001223],[-61.775055,17.004583],[-61.778027,17.004999],[-61.778,17.007444],[-61.775112,17.011223],[-61.77261,17.011223],[-61.769665,17.013306],[-61.769638,17.017445],[-61.767971,17.019167],[-61.769196,17.021223],[-61.771721,17.02125],[-61.77261,17.022055],[-61.777557,17.022083],[-61.780499,17.019167],[-61.780499,17.018305],[-61.785473,17.013361],[-61.7855,17.011639],[-61.782196,17.007473],[-61.78339,17.006222],[-61.785057,17.007029],[-61.787556,17.007055],[-61.792526,17.011223],[-61.794277,17.011223],[-61.795029,17.012083],[-61.798443,17.012056],[-61.800083,17.014528],[-61.807556,17.014584],[-61.808807,17.013334],[-61.808807,17.011667],[-61.810081,17.009527],[-61.813416,17.009556],[-61.814278,17.008751],[-61.818443,17.008722],[-61.820889,17.007084],[-61.825085,17.007055],[-61.825916,17.00625],[-61.82925,17.005417],[-61.830891,17.00375],[-61.831722,17.003695],[-61.833027,17.004972],[-61.833,17.0075],[-61.832165,17.008278],[-61.832584,17.015417],[-61.834194,17.015417],[-61.836723,17.012056],[-61.83839,17.011999],[-61.839222,17.012806],[-61.843418,17.012833],[-61.843807,17.015751],[-61.845055,17.016972],[-61.850887,17.017],[-61.851723,17.017805],[-61.85675,17.017027],[-61.860054,17.021194],[-61.863388,17.021139],[-61.864223,17.022028],[-61.868389,17.022833],[-61.869221,17.023666],[-61.872581,17.023666],[-61.87339,17.024529],[-61.875084,17.023695],[-61.883415,17.023666],[-61.885082,17.025333],[-61.887585,17.025362],[-61.888416,17.026167],[-61.890499,17.027445],[-61.890472,17.031639],[-61.894665,17.03911],[-61.893806,17.042444],[-61.896305,17.044916],[-61.8955,17.04911],[-61.896332,17.050777],[-61.897999,17.051584],[-61.897999,17.052389],[-61.894222,17.055361],[-61.890862,17.056139],[-61.889668,17.059055],[-61.889694,17.062445],[-61.888805,17.06325],[-61.888832,17.068306],[-61.889668,17.069916],[-61.890915,17.071167],[-61.894665,17.071611],[-61.894279,17.074528],[-61.889694,17.074888],[-61.889668,17.077417],[-61.890915,17.0795],[-61.896778,17.078667],[-61.898418,17.080334],[-61.902557,17.080305],[-61.904278,17.078722],[-61.906307,17.079916],[-61.906307,17.081583],[-61.902557,17.086166],[-61.894222,17.086166],[-61.89175,17.0895],[-61.885887,17.089527],[-61.885082,17.088638],[-61.880943,17.088694],[-61.877998,17.094917],[-61.874695,17.098223],[-61.874668,17.10075],[-61.873833,17.10161],[-61.873806,17.104084],[-61.874638,17.104944],[-61.875111,17.107834],[-61.87672,17.107834],[-61.878418,17.105305],[-61.881748,17.103666],[-61.88839,17.10364],[-61.890888,17.101999],[-61.895916,17.102028],[-61.899223,17.098667],[-61.904221,17.099556],[-61.904694,17.102417],[-61.902168,17.104055],[-61.902195,17.109056],[-61.899666,17.112444],[-61.899666,17.113306],[-61.897141,17.115749],[-61.897972,17.116611],[-61.898029,17.119944],[-61.897167,17.121611],[-61.894249,17.122862],[-61.892555,17.122833],[-61.89011,17.12536],[-61.885502,17.125778],[-61.885502,17.127388],[-61.886749,17.128723],[-61.888832,17.129084],[-61.887554,17.131195],[-61.884277,17.131166],[-61.88089,17.129555],[-61.878445,17.129528],[-61.876778,17.127001],[-61.874279,17.127056],[-61.873444,17.12789],[-61.870029,17.127083],[-61.866722,17.122055],[-61.862556,17.12211],[-61.861778,17.121222],[-61.85675,17.122055],[-61.855026,17.12125],[-61.852554,17.118778],[-61.849251,17.11875],[-61.848446,17.117889],[-61.844666,17.118334],[-61.844666,17.120001],[-61.847557,17.122889],[-61.852612,17.12536],[-61.855915,17.125389],[-61.85714,17.126667],[-61.855888,17.128778],[-61.850918,17.12875],[-61.849667,17.130806],[-61.85339,17.134556],[-61.855915,17.134583],[-61.856335,17.134167],[-61.855083,17.132917],[-61.853832,17.1325],[-61.854252,17.130362],[-61.857613,17.130388],[-61.858387,17.13125],[-61.860889,17.131222],[-61.861721,17.130417],[-61.864223,17.130417],[-61.864639,17.131639],[-61.863861,17.133307],[-61.859638,17.137472],[-61.859695,17.140862],[-61.85886,17.14164],[-61.858833,17.144167],[-61.856304,17.146694],[-61.853806,17.155001],[-61.846306,17.161667],[-61.846359,17.165001],[-61.847168,17.165806],[-61.846333,17.167473],[-61.845085,17.168722],[-61.843388,17.168694],[-61.842556,17.170416],[-61.840057,17.170416],[-61.83675,17.172916],[-61.834251,17.17289],[-61.832554,17.174555],[-61.830112,17.174612]]],[[[-61.726723,17.112917],[-61.727612,17.112917],[-61.727974,17.113333],[-61.727943,17.114111],[-61.727585,17.114584],[-61.726696,17.114584],[-61.726334,17.114111],[-61.72636,17.113306],[-61.726723,17.112917]]],[[[-61.71711,17.128334],[-61.719223,17.126223],[-61.722584,17.124584],[-61.724251,17.122084],[-61.726776,17.120417],[-61.72839,17.120445],[-61.73175,17.11875],[-61.736752,17.118778],[-61.739223,17.116249],[-61.742554,17.116222],[-61.744251,17.115444],[-61.746334,17.116638],[-61.745918,17.12211],[-61.737583,17.122055],[-61.732582,17.127056],[-61.730083,17.126249],[-61.727554,17.12789],[-61.726334,17.132473],[-61.724251,17.133722],[-61.721748,17.132111],[-61.718418,17.131222],[-61.717167,17.129999],[-61.71711,17.128334]]],[[[-61.713001,17.110001],[-61.715946,17.107916],[-61.719223,17.107861],[-61.723415,17.106222],[-61.724667,17.106638],[-61.723446,17.111221],[-61.720112,17.109528],[-61.712555,17.11375],[-61.712139,17.113333],[-61.713001,17.110001]]],[[[-61.761723,17.142916],[-61.762611,17.142916],[-61.762974,17.144112],[-61.763863,17.145],[-61.763863,17.146667],[-61.763416,17.147055],[-61.760918,17.147028],[-61.760502,17.146639],[-61.760502,17.145834],[-61.76136,17.144972],[-61.76136,17.143305],[-61.761723,17.142916]]],[[[-61.722137,17.144167],[-61.722557,17.143694],[-61.724224,17.143723],[-61.726307,17.145],[-61.725945,17.147055],[-61.725056,17.147112],[-61.723415,17.148695],[-61.722168,17.148277],[-61.722137,17.144167]]],[[[-61.750084,17.160389],[-61.749249,17.159527],[-61.74675,17.159584],[-61.744667,17.157499],[-61.745056,17.15539],[-61.746777,17.15539],[-61.749249,17.152945],[-61.750084,17.152945],[-61.752609,17.149584],[-61.75386,17.149973],[-61.75425,17.152111],[-61.755943,17.152056],[-61.758389,17.149555],[-61.759224,17.149555],[-61.761307,17.1525],[-61.76136,17.154167],[-61.759666,17.156666],[-61.75964,17.158333],[-61.760471,17.15914],[-61.758446,17.162056],[-61.756748,17.162056],[-61.754276,17.160418],[-61.750084,17.160389]]],[[[-61.863861,17.162445],[-61.865112,17.161249],[-61.865471,17.161667],[-61.865471,17.162472],[-61.865112,17.162916],[-61.864277,17.162916],[-61.863861,17.162445]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-62.348389,16.932861],[-62.350056,16.932028],[-62.350887,16.932888],[-62.353027,16.933277],[-62.353001,16.944944],[-62.350887,16.945333],[-62.349224,16.944529],[-62.346333,16.940777],[-62.346333,16.937416],[-62.346333,16.935778],[-62.348389,16.932861]]],[[[-61.667583,17.052055],[-61.66925,17.052055],[-61.670502,17.053333],[-61.669224,17.055389],[-61.666721,17.055361],[-61.666306,17.054972],[-61.666306,17.054167],[-61.667168,17.053305],[-61.667583,17.052055]]],[[[-61.910889,17.08036],[-61.914249,17.080305],[-61.914665,17.080778],[-61.913387,17.082027],[-61.910889,17.082027],[-61.910526,17.081556],[-61.910889,17.08036]]],[[[-61.907555,17.078667],[-61.90839,17.078667],[-61.909637,17.079945],[-61.90839,17.081194],[-61.907555,17.081194],[-61.907139,17.080805],[-61.907139,17.079082],[-61.907555,17.078667]]],[[[-61.885918,17.095362],[-61.887585,17.095333],[-61.888,17.095722],[-61.887165,17.096582],[-61.887165,17.097445],[-61.886749,17.097834],[-61.885502,17.096582],[-61.885502,17.095778],[-61.885918,17.095362]]],[[[-61.722584,17.098722],[-61.723415,17.098722],[-61.723835,17.099112],[-61.723804,17.099972],[-61.72261,17.101223],[-61.72089,17.101223],[-61.720528,17.100834],[-61.72047,17.099972],[-61.72089,17.099556],[-61.721722,17.099556],[-61.722584,17.098722]]],[[[-61.705082,17.10125],[-61.706749,17.10125],[-61.707165,17.101667],[-61.707195,17.103306],[-61.705944,17.104584],[-61.704224,17.104555],[-61.703804,17.103306],[-61.704639,17.102501],[-61.704639,17.101639],[-61.705082,17.10125]]],[[[-61.700085,17.105389],[-61.705944,17.105389],[-61.706696,17.106251],[-61.708862,17.106667],[-61.707584,17.108778],[-61.705917,17.108749],[-61.703415,17.107084],[-61.698833,17.106638],[-61.700085,17.105389]]],[[[-61.678806,17.040806],[-61.679249,17.040417],[-61.680473,17.041639],[-61.680473,17.0425],[-61.680054,17.042889],[-61.679222,17.042889],[-61.678806,17.042473],[-61.678806,17.040806]]],[[[-61.669277,17.07375],[-61.668388,17.072889],[-61.664276,17.072916],[-61.663387,17.072056],[-61.660946,17.072083],[-61.659279,17.070417],[-61.657555,17.070389],[-61.657555,17.067862],[-61.659248,17.067888],[-61.660057,17.06875],[-61.661751,17.067028],[-61.663418,17.067055],[-61.665054,17.070389],[-61.666752,17.070389],[-61.668415,17.067888],[-61.669666,17.069973],[-61.670918,17.071222],[-61.671749,17.070389],[-61.674252,17.070389],[-61.674667,17.070862],[-61.672554,17.074583],[-61.669277,17.07375]]],[[[-61.845917,17.729584],[-61.833832,17.716667],[-61.830471,17.709972],[-61.828861,17.7075],[-61.826363,17.705833],[-61.826363,17.705029],[-61.822971,17.701611],[-61.823002,17.699139],[-61.826778,17.697916],[-61.829224,17.696251],[-61.833416,17.696222],[-61.834667,17.6975],[-61.834667,17.699167],[-61.833389,17.701279],[-61.832195,17.701666],[-61.833,17.708334],[-61.835918,17.70875],[-61.836304,17.706638],[-61.8405,17.70414],[-61.8405,17.695807],[-61.839668,17.695],[-61.839695,17.691668],[-61.836777,17.688723],[-61.83511,17.687916],[-61.832584,17.687889],[-61.831749,17.687027],[-61.825111,17.687111],[-61.824223,17.686251],[-61.823418,17.687111],[-61.821751,17.687084],[-61.819637,17.689138],[-61.820057,17.689556],[-61.823418,17.687889],[-61.824665,17.689972],[-61.819668,17.695],[-61.819637,17.698334],[-61.821362,17.700001],[-61.821362,17.701666],[-61.82214,17.702473],[-61.820915,17.703722],[-61.813446,17.703751],[-61.808445,17.698723],[-61.805916,17.69875],[-61.805084,17.700417],[-61.803391,17.700417],[-61.802555,17.70125],[-61.801723,17.700388],[-61.795918,17.700417],[-61.791332,17.695],[-61.791279,17.694139],[-61.785946,17.688749],[-61.784695,17.688305],[-61.780472,17.680805],[-61.776749,17.676195],[-61.775917,17.67625],[-61.773834,17.67411],[-61.772999,17.671638],[-61.770916,17.670416],[-61.770084,17.668751],[-61.769249,17.668751],[-61.76675,17.66625],[-61.765083,17.66625],[-61.752167,17.653305],[-61.752193,17.652445],[-61.750526,17.651638],[-61.748806,17.648306],[-61.746307,17.645834],[-61.745472,17.643278],[-61.743,17.639999],[-61.740501,17.635],[-61.740471,17.630806],[-61.739639,17.629999],[-61.739666,17.627472],[-61.738834,17.626667],[-61.738804,17.622473],[-61.736332,17.616667],[-61.736332,17.610001],[-61.7355,17.609138],[-61.7355,17.607471],[-61.733002,17.605806],[-61.733028,17.602528],[-61.73386,17.601667],[-61.733807,17.6],[-61.732971,17.599138],[-61.733028,17.594139],[-61.733807,17.593277],[-61.733833,17.589167],[-61.736305,17.585833],[-61.736332,17.581667],[-61.738861,17.57914],[-61.738861,17.573305],[-61.737141,17.57],[-61.737946,17.564167],[-61.740501,17.560806],[-61.740501,17.558332],[-61.739613,17.556667],[-61.736332,17.554167],[-61.737141,17.550777],[-61.737999,17.549999],[-61.737167,17.549194],[-61.737167,17.546667],[-61.73428,17.543722],[-61.733002,17.543306],[-61.733028,17.541639],[-61.734222,17.540388],[-61.735916,17.540388],[-61.740055,17.545416],[-61.740891,17.545416],[-61.743389,17.54789],[-61.745888,17.548721],[-61.746723,17.549583],[-61.749249,17.549612],[-61.750084,17.550417],[-61.755112,17.550388],[-61.755943,17.55125],[-61.759224,17.550417],[-61.762585,17.548721],[-61.764637,17.546667],[-61.767166,17.542473],[-61.767555,17.540417],[-61.769279,17.540417],[-61.768806,17.548361],[-61.771362,17.553362],[-61.772999,17.557501],[-61.778416,17.562916],[-61.779251,17.56286],[-61.78175,17.565416],[-61.782585,17.565416],[-61.784248,17.567083],[-61.790085,17.569529],[-61.795887,17.569584],[-61.797611,17.571251],[-61.800888,17.572083],[-61.805111,17.577028],[-61.809223,17.579584],[-61.812557,17.581223],[-61.814251,17.581223],[-61.81675,17.58375],[-61.822582,17.587055],[-61.824249,17.588751],[-61.828445,17.588694],[-61.833389,17.591249],[-61.839249,17.591249],[-61.841721,17.589582],[-61.843445,17.589611],[-61.846748,17.587889],[-61.849277,17.58625],[-61.852585,17.585417],[-61.856777,17.581249],[-61.860085,17.579584],[-61.863445,17.579556],[-61.866333,17.583305],[-61.866306,17.589167],[-61.865528,17.589945],[-61.865501,17.591667],[-61.862972,17.594999],[-61.861332,17.601639],[-61.859695,17.604166],[-61.857166,17.617445],[-61.855526,17.620832],[-61.855446,17.630806],[-61.856335,17.631695],[-61.856304,17.639999],[-61.857193,17.640806],[-61.857166,17.645],[-61.858002,17.645805],[-61.858833,17.654139],[-61.868832,17.665833],[-61.869667,17.672445],[-61.873001,17.679111],[-61.8755,17.681667],[-61.875473,17.682472],[-61.879223,17.686222],[-61.880085,17.686222],[-61.88089,17.687889],[-61.881721,17.687889],[-61.889637,17.695],[-61.889637,17.698334],[-61.888416,17.699583],[-61.882111,17.702473],[-61.882168,17.703333],[-61.879639,17.705833],[-61.87886,17.708305],[-61.872581,17.715389],[-61.868389,17.715416],[-61.86636,17.713333],[-61.866306,17.711611],[-61.867168,17.710833],[-61.867138,17.704166],[-61.866306,17.702499],[-61.864666,17.699972],[-61.864666,17.6975],[-61.868832,17.692472],[-61.868862,17.687471],[-61.863804,17.681667],[-61.863834,17.68],[-61.865528,17.677473],[-61.864693,17.676666],[-61.863804,17.672472],[-61.861305,17.670805],[-61.862167,17.666666],[-61.861332,17.665806],[-61.861332,17.664139],[-61.85511,17.657888],[-61.853863,17.657499],[-61.854694,17.655834],[-61.854668,17.642529],[-61.853832,17.641666],[-61.853832,17.639139],[-61.853001,17.638334],[-61.853027,17.635805],[-61.852139,17.635],[-61.852165,17.630806],[-61.851334,17.629999],[-61.852165,17.621666],[-61.854637,17.616638],[-61.855499,17.614973],[-61.855526,17.610834],[-61.852554,17.607889],[-61.846748,17.607916],[-61.843361,17.610445],[-61.840084,17.610416],[-61.837196,17.613333],[-61.837196,17.614195],[-61.835499,17.614973],[-61.835499,17.616638],[-61.834641,17.6175],[-61.835472,17.619167],[-61.835499,17.625029],[-61.836334,17.625834],[-61.836334,17.627501],[-61.838001,17.629168],[-61.837971,17.630833],[-61.837139,17.631639],[-61.836334,17.635805],[-61.830471,17.6425],[-61.831306,17.644167],[-61.831306,17.645834],[-61.834694,17.649973],[-61.834667,17.654167],[-61.835918,17.654583],[-61.837971,17.657444],[-61.84211,17.665806],[-61.842167,17.667473],[-61.839638,17.669167],[-61.840473,17.670834],[-61.840473,17.672445],[-61.842972,17.674999],[-61.843834,17.678333],[-61.848835,17.684139],[-61.848835,17.684999],[-61.850082,17.685417],[-61.850918,17.687084],[-61.851749,17.687084],[-61.852165,17.688305],[-61.855915,17.69125],[-61.859249,17.692083],[-61.861752,17.69375],[-61.863861,17.694166],[-61.863834,17.695833],[-61.862141,17.698334],[-61.862141,17.700806],[-61.865528,17.704971],[-61.865501,17.709944],[-61.864639,17.710806],[-61.864613,17.715],[-61.863834,17.716667],[-61.861721,17.717112],[-61.860889,17.716249],[-61.860054,17.717112],[-61.858444,17.717083],[-61.857166,17.718334],[-61.856335,17.719999],[-61.856304,17.723333],[-61.85714,17.724138],[-61.856335,17.726667],[-61.852554,17.727888],[-61.850082,17.730417],[-61.845917,17.729584]]],[[[-61.830112,17.174612],[-61.828388,17.172916],[-61.826721,17.172916],[-61.824223,17.170444],[-61.820889,17.168751],[-61.82011,17.169556],[-61.814251,17.169584],[-61.811749,17.171223],[-61.805054,17.171249],[-61.804222,17.172083],[-61.801693,17.172083],[-61.799694,17.17],[-61.798832,17.165806],[-61.79425,17.161249],[-61.790916,17.160418],[-61.788834,17.158333],[-61.789639,17.155834],[-61.788807,17.154167],[-61.78714,17.153334],[-61.787167,17.149944],[-61.785915,17.14875],[-61.779251,17.144556],[-61.776749,17.144556],[-61.77425,17.142944],[-61.772167,17.142471],[-61.772141,17.139139],[-61.773029,17.138334],[-61.772999,17.136667],[-61.775082,17.135416],[-61.776749,17.135416],[-61.778416,17.137917],[-61.780083,17.137056],[-61.780445,17.135805],[-61.778805,17.133307],[-61.782585,17.129555],[-61.784248,17.129555],[-61.78714,17.127527],[-61.7855,17.121639],[-61.785084,17.12125],[-61.780888,17.124556],[-61.775917,17.125389],[-61.775471,17.121639],[-61.774639,17.120777],[-61.774666,17.1175],[-61.775501,17.116667],[-61.775528,17.114195],[-61.774277,17.112917],[-61.773445,17.113722],[-61.771778,17.113695],[-61.770084,17.116222],[-61.766304,17.115862],[-61.766335,17.11414],[-61.767166,17.113333],[-61.76675,17.112917],[-61.765083,17.112917],[-61.764252,17.113777],[-61.75964,17.11414],[-61.759666,17.120001],[-61.760502,17.121666],[-61.763832,17.122499],[-61.763805,17.124166],[-61.762554,17.125416],[-61.760944,17.125416],[-61.751335,17.133333],[-61.751305,17.137501],[-61.750111,17.138721],[-61.749222,17.137888],[-61.747612,17.13875],[-61.746361,17.137472],[-61.746307,17.135],[-61.74464,17.134138],[-61.744667,17.132473],[-61.746777,17.129555],[-61.752167,17.125805],[-61.752945,17.12414],[-61.749638,17.119139],[-61.748833,17.115805],[-61.745083,17.114584],[-61.74086,17.110416],[-61.731724,17.111221],[-61.730888,17.112083],[-61.727554,17.112055],[-61.727196,17.110777],[-61.728001,17.109138],[-61.725498,17.1075],[-61.727612,17.104584],[-61.729637,17.104139],[-61.730473,17.102501],[-61.730499,17.099972],[-61.731335,17.099167],[-61.731304,17.095833],[-61.73214,17.094973],[-61.73175,17.092056],[-61.729279,17.096222],[-61.727585,17.097084],[-61.725082,17.097055],[-61.724251,17.097918],[-61.721748,17.097889],[-61.719223,17.099556],[-61.715889,17.100389],[-61.715084,17.10125],[-61.713833,17.100834],[-61.71386,17.099167],[-61.717999,17.095806],[-61.716751,17.094528],[-61.714249,17.095388],[-61.711723,17.097889],[-61.71011,17.097084],[-61.706779,17.097055],[-61.706749,17.099527],[-61.705082,17.099583],[-61.703804,17.100834],[-61.701694,17.10461],[-61.696751,17.103722],[-61.694221,17.100416],[-61.688416,17.10125],[-61.687584,17.102112],[-61.685081,17.102083],[-61.684223,17.102945],[-61.681778,17.102917],[-61.680916,17.100389],[-61.678391,17.102917],[-61.676777,17.102888],[-61.676304,17.101694],[-61.678833,17.097445],[-61.681305,17.094999],[-61.680473,17.093334],[-61.682167,17.090027],[-61.683029,17.088306],[-61.683418,17.083723],[-61.685917,17.083723],[-61.687584,17.084528],[-61.689667,17.086666],[-61.68964,17.088333],[-61.691723,17.088751],[-61.692165,17.0875],[-61.691334,17.085833],[-61.695057,17.081194],[-61.700085,17.081223],[-61.700916,17.080389],[-61.702583,17.080389],[-61.702946,17.07914],[-61.702194,17.078333],[-61.702972,17.076666],[-61.708363,17.072111],[-61.710472,17.071667],[-61.71011,17.070389],[-61.709221,17.070389],[-61.70425,17.072945],[-61.703415,17.074556],[-61.701721,17.075388],[-61.699223,17.075388],[-61.697971,17.074167],[-61.698002,17.0725],[-61.695499,17.070807],[-61.695084,17.069555],[-61.694248,17.070417],[-61.692585,17.070389],[-61.69175,17.067917],[-61.688416,17.067917],[-61.685055,17.069555],[-61.683445,17.069584],[-61.680946,17.071251],[-61.680084,17.072889],[-61.677582,17.072945],[-61.677193,17.069139],[-61.675472,17.068333],[-61.675472,17.067472],[-61.677139,17.065834],[-61.677166,17.064167],[-61.672165,17.062471],[-61.676361,17.060028],[-61.676334,17.056639],[-61.673832,17.054138],[-61.673832,17.0525],[-61.675529,17.050833],[-61.675472,17.048306],[-61.673,17.046638],[-61.674252,17.044556],[-61.675945,17.043722],[-61.677612,17.043722],[-61.680111,17.045416],[-61.68214,17.0425],[-61.682583,17.040445],[-61.68425,17.040388],[-61.685081,17.039583],[-61.685917,17.040388],[-61.688026,17.039139],[-61.687973,17.037472],[-61.683861,17.035805],[-61.685081,17.033722],[-61.687584,17.033751],[-61.689251,17.032888],[-61.690029,17.03125],[-61.695057,17.031221],[-61.695889,17.032084],[-61.712582,17.032084],[-61.715084,17.033751],[-61.716751,17.033777],[-61.720085,17.035389],[-61.723415,17.037945],[-61.725082,17.037889],[-61.726723,17.039557],[-61.731777,17.042055],[-61.735054,17.042028],[-61.735889,17.042889],[-61.736752,17.042028],[-61.740082,17.042055],[-61.742584,17.043751],[-61.743832,17.0425],[-61.742943,17.040001],[-61.74136,17.038279],[-61.741306,17.035],[-61.738834,17.031666],[-61.738861,17.028278],[-61.735889,17.025389],[-61.732555,17.024555],[-61.728832,17.019945],[-61.728779,17.0175],[-61.731304,17.014973],[-61.733418,17.011194],[-61.733807,17.015806],[-61.737141,17.015806],[-61.737167,17.013277],[-61.732193,17.007528],[-61.73214,17.006666],[-61.732971,17.005806],[-61.733002,17.003277],[-61.734249,17.002083],[-61.735863,17.002083],[-61.738415,17.005388],[-61.73925,17.005388],[-61.743057,17],[-61.743332,16.999472],[-61.748333,16.9995],[-61.748665,17],[-61.748943,17.000334],[-61.749611,17],[-61.751667,16.998638],[-61.754665,17],[-61.756748,17.001249],[-61.759251,17.001194],[-61.760918,17.00375],[-61.763416,17.00375],[-61.765083,17.004555],[-61.768391,17.001249],[-61.771778,17.001223],[-61.775055,17.004583],[-61.778027,17.004999],[-61.778,17.007444],[-61.775112,17.011223],[-61.77261,17.011223],[-61.769665,17.013306],[-61.769638,17.017445],[-61.767971,17.019167],[-61.769196,17.021223],[-61.771721,17.02125],[-61.77261,17.022055],[-61.777557,17.022083],[-61.780499,17.019167],[-61.780499,17.018305],[-61.785473,17.013361],[-61.7855,17.011639],[-61.782196,17.007473],[-61.78339,17.006222],[-61.785057,17.007029],[-61.787556,17.007055],[-61.792526,17.011223],[-61.794277,17.011223],[-61.795029,17.012083],[-61.798443,17.012056],[-61.800083,17.014528],[-61.807556,17.014584],[-61.808807,17.013334],[-61.808807,17.011667],[-61.810081,17.009527],[-61.813416,17.009556],[-61.814278,17.008751],[-61.818443,17.008722],[-61.820889,17.007084],[-61.825085,17.007055],[-61.825916,17.00625],[-61.82925,17.005417],[-61.830891,17.00375],[-61.831722,17.003695],[-61.833027,17.004972],[-61.833,17.0075],[-61.832165,17.008278],[-61.832584,17.015417],[-61.834194,17.015417],[-61.836723,17.012056],[-61.83839,17.011999],[-61.839222,17.012806],[-61.843418,17.012833],[-61.843807,17.015751],[-61.845055,17.016972],[-61.850887,17.017],[-61.851723,17.017805],[-61.85675,17.017027],[-61.860054,17.021194],[-61.863388,17.021139],[-61.864223,17.022028],[-61.868389,17.022833],[-61.869221,17.023666],[-61.872581,17.023666],[-61.87339,17.024529],[-61.875084,17.023695],[-61.883415,17.023666],[-61.885082,17.025333],[-61.887585,17.025362],[-61.888416,17.026167],[-61.890499,17.027445],[-61.890472,17.031639],[-61.894665,17.03911],[-61.893806,17.042444],[-61.896305,17.044916],[-61.8955,17.04911],[-61.896332,17.050777],[-61.897999,17.051584],[-61.897999,17.052389],[-61.894222,17.055361],[-61.890862,17.056139],[-61.889668,17.059055],[-61.889694,17.062445],[-61.888805,17.06325],[-61.888832,17.068306],[-61.889668,17.069916],[-61.890915,17.071167],[-61.894665,17.071611],[-61.894279,17.074528],[-61.889694,17.074888],[-61.889668,17.077417],[-61.890915,17.0795],[-61.896778,17.078667],[-61.898418,17.080334],[-61.902557,17.080305],[-61.904278,17.078722],[-61.906307,17.079916],[-61.906307,17.081583],[-61.902557,17.086166],[-61.894222,17.086166],[-61.89175,17.0895],[-61.885887,17.089527],[-61.885082,17.088638],[-61.880943,17.088694],[-61.877998,17.094917],[-61.874695,17.098223],[-61.874668,17.10075],[-61.873833,17.10161],[-61.873806,17.104084],[-61.874638,17.104944],[-61.875111,17.107834],[-61.87672,17.107834],[-61.878418,17.105305],[-61.881748,17.103666],[-61.88839,17.10364],[-61.890888,17.101999],[-61.895916,17.102028],[-61.899223,17.098667],[-61.904221,17.099556],[-61.904694,17.102417],[-61.902168,17.104055],[-61.902195,17.109056],[-61.899666,17.112444],[-61.899666,17.113306],[-61.897141,17.115749],[-61.897972,17.116611],[-61.898029,17.119944],[-61.897167,17.121611],[-61.894249,17.122862],[-61.892555,17.122833],[-61.89011,17.12536],[-61.885502,17.125778],[-61.885502,17.127388],[-61.886749,17.128723],[-61.888832,17.129084],[-61.887554,17.131195],[-61.884277,17.131166],[-61.88089,17.129555],[-61.878445,17.129528],[-61.876778,17.127001],[-61.874279,17.127056],[-61.873444,17.12789],[-61.870029,17.127083],[-61.866722,17.122055],[-61.862556,17.12211],[-61.861778,17.121222],[-61.85675,17.122055],[-61.855026,17.12125],[-61.852554,17.118778],[-61.849251,17.11875],[-61.848446,17.117889],[-61.844666,17.118334],[-61.844666,17.120001],[-61.847557,17.122889],[-61.852612,17.12536],[-61.855915,17.125389],[-61.85714,17.126667],[-61.855888,17.128778],[-61.850918,17.12875],[-61.849667,17.130806],[-61.85339,17.134556],[-61.855915,17.134583],[-61.856335,17.134167],[-61.855083,17.132917],[-61.853832,17.1325],[-61.854252,17.130362],[-61.857613,17.130388],[-61.858387,17.13125],[-61.860889,17.131222],[-61.861721,17.130417],[-61.864223,17.130417],[-61.864639,17.131639],[-61.863861,17.133307],[-61.859638,17.137472],[-61.859695,17.140862],[-61.85886,17.14164],[-61.858833,17.144167],[-61.856304,17.146694],[-61.853806,17.155001],[-61.846306,17.161667],[-61.846359,17.165001],[-61.847168,17.165806],[-61.846333,17.167473],[-61.845085,17.168722],[-61.843388,17.168694],[-61.842556,17.170416],[-61.840057,17.170416],[-61.83675,17.172916],[-61.834251,17.17289],[-61.832554,17.174555],[-61.830112,17.174612]]],[[[-61.726723,17.112917],[-61.727612,17.112917],[-61.727974,17.113333],[-61.727943,17.114111],[-61.727585,17.114584],[-61.726696,17.114584],[-61.726334,17.114111],[-61.72636,17.113306],[-61.726723,17.112917]]],[[[-61.71711,17.128334],[-61.719223,17.126223],[-61.722584,17.124584],[-61.724251,17.122084],[-61.726776,17.120417],[-61.72839,17.120445],[-61.73175,17.11875],[-61.736752,17.118778],[-61.739223,17.116249],[-61.742554,17.116222],[-61.744251,17.115444],[-61.746334,17.116638],[-61.745918,17.12211],[-61.737583,17.122055],[-61.732582,17.127056],[-61.730083,17.126249],[-61.727554,17.12789],[-61.726334,17.132473],[-61.724251,17.133722],[-61.721748,17.132111],[-61.718418,17.131222],[-61.717167,17.129999],[-61.71711,17.128334]]],[[[-61.713001,17.110001],[-61.715946,17.107916],[-61.719223,17.107861],[-61.723415,17.106222],[-61.724667,17.106638],[-61.723446,17.111221],[-61.720112,17.109528],[-61.712555,17.11375],[-61.712139,17.113333],[-61.713001,17.110001]]],[[[-61.761723,17.142916],[-61.762611,17.142916],[-61.762974,17.144112],[-61.763863,17.145],[-61.763863,17.146667],[-61.763416,17.147055],[-61.760918,17.147028],[-61.760502,17.146639],[-61.760502,17.145834],[-61.76136,17.144972],[-61.76136,17.143305],[-61.761723,17.142916]]],[[[-61.722137,17.144167],[-61.722557,17.143694],[-61.724224,17.143723],[-61.726307,17.145],[-61.725945,17.147055],[-61.725056,17.147112],[-61.723415,17.148695],[-61.722168,17.148277],[-61.722137,17.144167]]],[[[-61.750084,17.160389],[-61.749249,17.159527],[-61.74675,17.159584],[-61.744667,17.157499],[-61.745056,17.15539],[-61.746777,17.15539],[-61.749249,17.152945],[-61.750084,17.152945],[-61.752609,17.149584],[-61.75386,17.149973],[-61.75425,17.152111],[-61.755943,17.152056],[-61.758389,17.149555],[-61.759224,17.149555],[-61.761307,17.1525],[-61.76136,17.154167],[-61.759666,17.156666],[-61.75964,17.158333],[-61.760471,17.15914],[-61.758446,17.162056],[-61.756748,17.162056],[-61.754276,17.160418],[-61.750084,17.160389]]],[[[-61.863861,17.162445],[-61.865112,17.161249],[-61.865471,17.161667],[-61.865471,17.162472],[-61.865112,17.162916],[-61.864277,17.162916],[-61.863861,17.162445]]]],"type":"MultiPolygon"}
 }

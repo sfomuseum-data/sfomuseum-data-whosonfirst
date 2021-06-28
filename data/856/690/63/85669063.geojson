@@ -2,265 +2,266 @@
   "id": 85669063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.017276,
-    "geom:area_square_m":193550542.980693,
-    "geom:bbox":"-77.5618790357,24.9870059274,-77.2638240226,25.0840518251",
-    "geom:latitude":25.039366,
-    "geom:longitude":-77.421614,
-    "gn:population":228334,
-    "iso:country":"BS",
-    "label:eng_x_preferred_longname":[
-        "New Providence District"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.01727641290616931,
+    "geom:area_square_m": 193550542.980693,
+    "geom:bbox": "-77.561879,24.987006,-77.263824,25.084052",
+    "geom:latitude": 25.039366389131455,
+    "geom:longitude": -77.42161373880606,
+    "gn:population": 228334,
+    "iso:country": "BS",
+    "label:eng_x_preferred_longname": [
+      "New Providence District"
     ],
-    "label:eng_x_preferred_placetype":[
-        "district"
+    "label:eng_x_preferred_placetype": [
+      "district"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NW"
+    "label:eng_x_preferred_shortcode": [
+      "NW"
     ],
-    "lbl:latitude":25.039728,
-    "lbl:longitude":-77.394647,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":25.039728,
-    "mps:longitude":-77.394647,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":8.0,
-    "name:ara_x_preferred":[
-        "\u0628\u0631\u0648\u0641\u064a\u062f\u0627\u0646\u0633 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    "lbl:latitude": 25.039728,
+    "lbl:longitude": -77.394647,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 25.039728,
+    "mps:longitude": -77.394647,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8,
+    "name:ara_x_preferred": [
+      "بروفيدانس الجديدة"
     ],
-    "name:ben_x_preferred":[
-        "\u09a8\u09bf\u0989 \u09aa\u09cd\u09b0\u09ad\u09bf\u09a1\u09c7\u09a8\u09cd\u09b8"
+    "name:ben_x_preferred": [
+      "নিউ প্রভিডেন্স"
     ],
-    "name:cat_x_preferred":[
-        "Nova Provid\u00e8ncia"
+    "name:cat_x_preferred": [
+      "Nova Providència"
     ],
-    "name:ceb_x_preferred":[
-        "New Providence Island"
+    "name:ceb_x_preferred": [
+      "New Providence Island"
     ],
-    "name:ces_x_preferred":[
-        "New Providence"
+    "name:ces_x_preferred": [
+      "New Providence"
     ],
-    "name:deu_x_preferred":[
-        "New Providence"
+    "name:deu_x_preferred": [
+      "New Providence"
     ],
-    "name:ell_x_preferred":[
-        "\u039d\u03b9\u03bf\u03c5 \u03a0\u03c1\u03cc\u03b2\u03b9\u03bd\u03c4\u03b5\u03bd\u03c2"
+    "name:ell_x_preferred": [
+      "Νιου Πρόβιντενς"
     ],
-    "name:eng_x_preferred":[
-        "New Providence"
+    "name:eng_x_preferred": [
+      "New Providence"
     ],
-    "name:eus_x_preferred":[
-        "New Providence"
+    "name:eus_x_preferred": [
+      "New Providence"
     ],
-    "name:fas_x_preferred":[
-        "\u0646\u06cc\u0648 \u067e\u0631\u0627\u0648\u06cc\u062f\u0646\u0633"
+    "name:fas_x_preferred": [
+      "نیو پراویدنس"
     ],
-    "name:fin_x_preferred":[
-        "New Providence"
+    "name:fin_x_preferred": [
+      "New Providence"
     ],
-    "name:fra_x_preferred":[
-        "New Providence"
+    "name:fra_x_preferred": [
+      "New Providence"
     ],
-    "name:glg_x_preferred":[
-        "Nova Providencia"
+    "name:glg_x_preferred": [
+      "Nova Providencia"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05d9\u05d5 \u05e4\u05e8\u05d5\u05d1\u05d9\u05d3\u05e0\u05e1"
+    "name:heb_x_preferred": [
+      "ניו פרובידנס"
     ],
-    "name:isl_x_preferred":[
-        "New Providence"
+    "name:isl_x_preferred": [
+      "New Providence"
     ],
-    "name:ita_x_preferred":[
-        "New Providence"
+    "name:ita_x_preferred": [
+      "New Providence"
     ],
-    "name:jpn_x_preferred":[
-        "\u30cb\u30e5\u30fc\u30d7\u30ed\u30d3\u30c7\u30f3\u30b9\u5cf6"
+    "name:jpn_x_preferred": [
+      "ニュープロビデンス島"
     ],
-    "name:kat_x_preferred":[
-        "\u10dc\u10d8\u10e3-\u10de\u10e0\u10dd\u10d5\u10d8\u10d3\u10d4\u10dc\u10e1\u10d8"
+    "name:kat_x_preferred": [
+      "ნიუ-პროვიდენსი"
     ],
-    "name:kor_x_preferred":[
-        "\ub274\ud504\ub85c\ube44\ub358\uc2a4 \uc12c"
+    "name:kor_x_preferred": [
+      "뉴프로비던스 섬"
     ],
-    "name:kor_x_variant":[
-        "\ub274\ud504\ub85c\ube44\ub358\uc2a4\uc12c"
+    "name:kor_x_variant": [
+      "뉴프로비던스섬"
     ],
-    "name:lit_x_preferred":[
-        "Naujasis Providensas"
+    "name:lit_x_preferred": [
+      "Naujasis Providensas"
     ],
-    "name:msa_x_preferred":[
-        "New Providence"
+    "name:msa_x_preferred": [
+      "New Providence"
     ],
-    "name:nld_x_preferred":[
-        "New Providence"
+    "name:nld_x_preferred": [
+      "New Providence"
     ],
-    "name:nor_x_preferred":[
-        "New Providence"
+    "name:nor_x_preferred": [
+      "New Providence"
     ],
-    "name:pol_x_preferred":[
-        "New Providence"
+    "name:pol_x_preferred": [
+      "New Providence"
     ],
-    "name:por_x_preferred":[
-        "Nova Provid\u00eancia"
+    "name:por_x_preferred": [
+      "Nova Providência"
     ],
-    "name:ron_x_preferred":[
-        "New Providence"
+    "name:ron_x_preferred": [
+      "New Providence"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u044c\u044e-\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441"
+    "name:rus_x_preferred": [
+      "Нью-Провиденс"
     ],
-    "name:spa_x_preferred":[
-        "Nueva Providencia"
+    "name:spa_x_preferred": [
+      "Nueva Providencia"
     ],
-    "name:swe_x_preferred":[
-        "New Providence Island"
+    "name:swe_x_preferred": [
+      "New Providence Island"
     ],
-    "name:tgl_x_preferred":[
-        "New Providence"
+    "name:tgl_x_preferred": [
+      "New Providence"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u044c\u044e-\u041f\u0440\u043e\u0432\u0456\u0434\u0435\u043d\u0441"
+    "name:ukr_x_preferred": [
+      "Нью-Провіденс"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u06cc\u0648 \u067e\u0631\u0648\u0648\u06cc\u0688\u0646\u0633"
+    "name:urd_x_preferred": [
+      "نیو پروویڈنس"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u666e\u7f57\u7ef4\u767b\u65af\u5c9b"
+    "name:zho_x_preferred": [
+      "新普罗维登斯岛"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"BHS",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"4",
-    "ne:adm1_cod_1":"BHS-5009",
-    "ne:adm1_code":"BHS-5009",
-    "ne:admin":"The Bahamas",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"BS.NW",
-    "ne:code_local":"",
-    "ne:datarank":"10",
-    "ne:diss_me":"5009",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"0",
-    "ne:geonunit":"The Bahamas",
-    "ne:gn_a1_code":"BS.23",
-    "ne:gn_id":"3571815",
-    "ne:gn_level":"1",
-    "ne:gn_name":"New Providence District",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"0",
-    "ne:gns_lang":"",
-    "ne:gns_level":"0",
-    "ne:gns_name":"",
-    "ne:gns_region":"",
-    "ne:gu_a3":"BHS",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"BS-",
-    "ne:iso_a2":"BS",
-    "ne:labelrank":"20",
-    "ne:latitude":"25.01490000000",
-    "ne:longitude":"-77.43560000000",
-    "ne:mapcolor13":5,
-    "ne:mapcolor9":2,
-    "ne:name":"New Providence",
-    "ne:name_alt":"",
-    "ne:name_len":14,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"NW",
-    "ne:provnum_ne":"0",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"8",
-    "ne:sov_a3":"BHS",
-    "ne:sub_code":"",
-    "ne:type":"First Schedule District",
-    "ne:type_en":"Capital",
-    "ne:wikipedia":"http://en.wikipedia.org/wiki/New_Providence",
-    "ne:woe_id":2344777,
-    "ne:woe_label":"New Providence, BS, The Bahamas",
-    "ne:woe_name":"New Providence",
-    "qs:a0":"The Bahamas",
-    "qs:a0_lc":"BS",
-    "qs:a1":"New Providence",
-    "qs:a1_lc":"BHS-5009",
-    "qs:adm0":"The Bahamas",
-    "qs:adm0_a3":"BHS",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Capital",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "statoids:area_km":"",
-    "statoids:area_mi":"",
-    "statoids:as_of_date":"",
-    "statoids:capital":"Nassau",
-    "statoids:country":"BS",
-    "statoids:gec":"",
-    "statoids:hasc":"BS.NW",
-    "statoids:iso":"",
-    "statoids:name":"New Providence",
-    "statoids:population":"",
-    "statoids:timezone":"-5~",
-    "statoids:type":"district",
-    "wof:belongsto":[
-        102191575,
-        85632339
+    "ne:abbrev": "",
+    "ne:adm0_a3": "BHS",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "4",
+    "ne:adm1_cod_1": "BHS-5009",
+    "ne:adm1_code": "BHS-5009",
+    "ne:admin": "The Bahamas",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "BS.NW",
+    "ne:code_local": "",
+    "ne:datarank": "10",
+    "ne:diss_me": "5009",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "0",
+    "ne:geonunit": "The Bahamas",
+    "ne:gn_a1_code": "BS.23",
+    "ne:gn_id": "3571815",
+    "ne:gn_level": "1",
+    "ne:gn_name": "New Providence District",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "0",
+    "ne:gns_lang": "",
+    "ne:gns_level": "0",
+    "ne:gns_name": "",
+    "ne:gns_region": "",
+    "ne:gu_a3": "BHS",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "BS-",
+    "ne:iso_a2": "BS",
+    "ne:labelrank": "20",
+    "ne:latitude": "25.01490000000",
+    "ne:longitude": "-77.43560000000",
+    "ne:mapcolor13": 5,
+    "ne:mapcolor9": 2,
+    "ne:name": "New Providence",
+    "ne:name_alt": "",
+    "ne:name_len": 14,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "NW",
+    "ne:provnum_ne": "0",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "8",
+    "ne:sov_a3": "BHS",
+    "ne:sub_code": "",
+    "ne:type": "First Schedule District",
+    "ne:type_en": "Capital",
+    "ne:wikipedia": "http://en.wikipedia.org/wiki/New_Providence",
+    "ne:woe_id": 2344777,
+    "ne:woe_label": "New Providence, BS, The Bahamas",
+    "ne:woe_name": "New Providence",
+    "qs:a0": "The Bahamas",
+    "qs:a0_lc": "BS",
+    "qs:a1": "New Providence",
+    "qs:a1_lc": "BHS-5009",
+    "qs:adm0": "The Bahamas",
+    "qs:adm0_a3": "BHS",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Capital",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "statoids:area_km": "",
+    "statoids:area_mi": "",
+    "statoids:as_of_date": "",
+    "statoids:capital": "Nassau",
+    "statoids:country": "BS",
+    "statoids:gec": "",
+    "statoids:hasc": "BS.NW",
+    "statoids:iso": "",
+    "statoids:name": "New Providence",
+    "statoids:population": "",
+    "statoids:timezone": "-5~",
+    "statoids:type": "district",
+    "wof:belongsto": [
+      102191575,
+      85632339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"",
-        "gn:id":3571815,
-        "gp:id":2344777,
-        "hasc:id":"BS.NW",
-        "qs_pg:id":493602
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "",
+      "gn:id": 3571815,
+      "gp:id": 2344777,
+      "hasc:id": "BS.NW",
+      "qs_pg:id": 493602
     },
-    "wof:country":"BS",
-    "wof:geomhash":"feada09b3a132e2d6a026251722708cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632339,
-            "region_id":85669063
-        }
+    "wof:country": "BS",
+    "wof:created": 1624906856,
+    "wof:geomhash": "feada09b3a132e2d6a026251722708cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85632339,
+        "region_id": 85669063
+      }
     ],
-    "wof:id":85669063,
-    "wof:lang_x_official":[
-        "eng"
+    "wof:id": 85669063,
+    "wof:lang_x_official": [
+      "eng"
     ],
-    "wof:lang_x_spoken":[
-        "eng"
+    "wof:lang_x_spoken": [
+      "eng"
     ],
-    "wof:lastmodified":1566629922,
-    "wof:name":"New Providence",
-    "wof:parent_id":85632339,
-    "wof:placetype":"region",
-    "wof:placetype_local":"district",
-    "wof:population":228334,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-bs",
-    "wof:shortcode":"NW",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906856,
+    "wof:name": "New Providence",
+    "wof:parent_id": 85632339,
+    "wof:placetype": "region",
+    "wof:placetype_local": "district",
+    "wof:population": 228334,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-bs",
+    "wof:shortcode": "NW",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -77.56187903568889,
     24.98700592738169,
     -77.26382402256053,
     25.08405182513167
-],
+  ],
   "geometry": {"coordinates":[[[-77.47996985572422,24.9913597684386],[-77.49510657530817,24.99933502828895],[-77.51447506377315,25.00116608304836],[-77.53294837067074,25.00071849226464],[-77.5454809243052,25.00189850531183],[-77.56187903568889,25.01886627785649],[-77.55101477750992,25.03803131719161],[-77.52717037671147,25.05438873964869],[-77.5045059889602,25.063299872691],[-77.48985755088523,25.06561920806007],[-77.45604407527384,25.0769717468487],[-77.4408259760379,25.07851797102757],[-77.39806067575955,25.0769717468487],[-77.35562089768626,25.08405182513167],[-77.33999589749266,25.08380768437718],[-77.32607988168115,25.07933177294302],[-77.30207271978014,25.06610748956905],[-77.26382402256053,25.05809153899338],[-77.27472896966617,25.04608795849254],[-77.37950598920997,25.00153229418009],[-77.40367591131422,25.002142645167],[-77.43561764234028,25.01487864793131],[-77.44139563719887,25.00653717694922],[-77.45287024546542,24.99461497610031],[-77.46678626217624,24.98700592738169],[-77.47996985572422,24.9913597684386]]],"type":"Polygon"}
 }

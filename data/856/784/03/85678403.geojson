@@ -2,738 +2,739 @@
   "id": 85678403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.010106,
-    "geom:area_square_m":104185730.376906,
-    "geom:bbox":"36.197303,33.462504,36.35181,33.56536",
-    "geom:latitude":33.515847,
-    "geom:longitude":36.281452,
-    "gn:id":"",
-    "iso:country":"SY",
-    "label:eng_x_preferred_longname":[
-        "Damascus Province"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.01010602072999994,
+    "geom:area_square_m": 104185730.376906,
+    "geom:bbox": "36.197303,33.462504,36.351810,33.565360",
+    "geom:latitude": 33.515846631231945,
+    "geom:longitude": 36.28145211042698,
+    "gn:id": "",
+    "iso:country": "SY",
+    "label:eng_x_preferred_longname": [
+      "Damascus Province"
     ],
-    "label:eng_x_preferred_placetype":[
-        "province"
+    "label:eng_x_preferred_placetype": [
+      "province"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "DI"
+    "label:eng_x_preferred_shortcode": [
+      "DI"
     ],
-    "lbl:latitude":33.512671,
-    "lbl:longitude":36.28292,
-    "lbl:min_zoom":8.0,
-    "meso:name_loc":"\u0645\u062f\u064a\u0646\u0629 \u062f\u0645\u0634\u0642",
-    "mps:latitude":33.513369,
-    "mps:longitude":36.288615,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":7.0,
-    "name:ace_x_preferred":[
-        "Dimasq"
+    "lbl:latitude": 33.512671,
+    "lbl:longitude": 36.28292,
+    "lbl:min_zoom": 8,
+    "meso:name_loc": "مدينة دمشق",
+    "mps:latitude": 33.513369,
+    "mps:longitude": 36.288615,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 7,
+    "name:ace_x_preferred": [
+      "Dimasq"
     ],
-    "name:ady_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:ady_x_preferred": [
+      "Дамаск"
     ],
-    "name:afr_x_preferred":[
-        "Damaskus"
+    "name:afr_x_preferred": [
+      "Damaskus"
     ],
-    "name:als_x_preferred":[
-        "Damaskus"
+    "name:als_x_preferred": [
+      "Damaskus"
     ],
-    "name:amh_x_preferred":[
-        "\u12f0\u121b\u1235\u1246"
+    "name:amh_x_preferred": [
+      "ደማስቆ"
     ],
-    "name:ara_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:ara_x_preferred": [
+      "دمشق"
     ],
-    "name:ara_x_variant":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0645\u0634\u0642"
+    "name:ara_x_variant": [
+      "محافظة دمشق"
     ],
-    "name:arc_x_preferred":[
-        "\u0715\u072a\u0721\u0723\u0718\u0729"
+    "name:arc_x_preferred": [
+      "ܕܪܡܣܘܩ"
     ],
-    "name:arg_x_preferred":[
-        "Dom\u00e1s"
+    "name:arg_x_preferred": [
+      "Domás"
     ],
-    "name:arz_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:arz_x_preferred": [
+      "دمشق"
     ],
-    "name:asm_x_preferred":[
-        "\u09a1\u09be\u09ae\u09be\u09b8\u09cd\u0995\u09be\u099b"
+    "name:asm_x_preferred": [
+      "ডামাস্কাছ"
     ],
-    "name:ast_x_preferred":[
-        "Damascu"
+    "name:ast_x_preferred": [
+      "Damascu"
     ],
-    "name:ava_x_preferred":[
-        "\u0414\u0438\u043c\u0438\u0448\u043a\u044a"
+    "name:ava_x_preferred": [
+      "Димишкъ"
     ],
-    "name:azb_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:azb_x_preferred": [
+      "دمشق"
     ],
-    "name:aze_x_preferred":[
-        "D\u0259m\u0259\u015fq"
+    "name:aze_x_preferred": [
+      "Dəməşq"
     ],
-    "name:bak_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:bak_x_preferred": [
+      "Дамаск"
     ],
-    "name:bcl_x_preferred":[
-        "Damascus"
+    "name:bcl_x_preferred": [
+      "Damascus"
     ],
-    "name:bel_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:bel_x_preferred": [
+      "Дамаск"
     ],
-    "name:ben_x_preferred":[
-        "\u09a6\u09be\u09ae\u09c7\u09b8\u09cd\u0995"
+    "name:ben_x_preferred": [
+      "দামেস্ক"
     ],
-    "name:bjn_x_preferred":[
-        "Damsyik"
+    "name:bjn_x_preferred": [
+      "Damsyik"
     ],
-    "name:bod_x_preferred":[
-        "\u0f51\u0fb7\u0f0b\u0f58\u0f0b\u0f66\u0f72\u0f0b\u0f41\u0f7c\u0f0b\u0f66\u0f72\u0f0d"
+    "name:bod_x_preferred": [
+      "དྷ་མ་སི་ཁོ་སི།"
     ],
-    "name:bos_x_preferred":[
-        "Damask"
+    "name:bos_x_preferred": [
+      "Damask"
     ],
-    "name:bre_x_preferred":[
-        "Damask"
+    "name:bre_x_preferred": [
+      "Damask"
     ],
-    "name:bul_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:bul_x_preferred": [
+      "Дамаск"
     ],
-    "name:bxr_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:bxr_x_preferred": [
+      "Дамаск"
     ],
-    "name:cat_x_preferred":[
-        "Damasc"
+    "name:cat_x_preferred": [
+      "Damasc"
     ],
-    "name:cdo_x_preferred":[
-        "D\u00e2i-m\u0101-s\u00e1ik"
+    "name:cdo_x_preferred": [
+      "Dâi-mā-sáik"
     ],
-    "name:ceb_x_preferred":[
-        "Damascus"
+    "name:ceb_x_preferred": [
+      "Damascus"
     ],
-    "name:ces_x_preferred":[
-        "Dama\u0161ek"
+    "name:ces_x_preferred": [
+      "Damašek"
     ],
-    "name:che_x_preferred":[
-        "\u0414\u0438\u043c\u0430\u0448\u043a\u044a"
+    "name:che_x_preferred": [
+      "Димашкъ"
     ],
-    "name:chu_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a\u044a"
+    "name:chu_x_preferred": [
+      "Дамаскъ"
     ],
-    "name:chv_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:chv_x_preferred": [
+      "Дамаск"
     ],
-    "name:ckb_x_preferred":[
-        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062f\u06cc\u0645\u06d5\u0634\u0642"
+    "name:ckb_x_preferred": [
+      "پارێزگای دیمەشق"
     ],
-    "name:ckb_x_variant":[
-        "\u062f\u06cc\u0645\u06d5\u0634\u0642"
+    "name:ckb_x_variant": [
+      "دیمەشق"
     ],
-    "name:cor_x_preferred":[
-        "Damask"
+    "name:cor_x_preferred": [
+      "Damask"
     ],
-    "name:cym_x_preferred":[
-        "Damascus"
+    "name:cym_x_preferred": [
+      "Damascus"
     ],
-    "name:dan_x_preferred":[
-        "Damaskus"
+    "name:dan_x_preferred": [
+      "Damaskus"
     ],
-    "name:deu_x_preferred":[
-        "Damaskus"
+    "name:deu_x_preferred": [
+      "Damaskus"
     ],
-    "name:diq_x_preferred":[
-        "\u015eam"
+    "name:diq_x_preferred": [
+      "Şam"
     ],
-    "name:div_x_preferred":[
-        "\u078b\u07a8\u0789\u07a8\u079d\u07b0\u07a4\u07aa"
+    "name:div_x_preferred": [
+      "ދިމިޝްޤު"
     ],
-    "name:ell_x_preferred":[
-        "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03cc\u03c2"
+    "name:ell_x_preferred": [
+      "Δαμασκός"
     ],
-    "name:eng_x_preferred":[
-        "Dimashq"
+    "name:eng_x_preferred": [
+      "Dimashq"
     ],
-    "name:eng_x_variant":[
-        "Damascus City",
-        "Damascus Governorate",
-        "Damascus"
+    "name:eng_x_variant": [
+      "Damascus City",
+      "Damascus Governorate",
+      "Damascus"
     ],
-    "name:epo_x_preferred":[
-        "Damasko"
+    "name:epo_x_preferred": [
+      "Damasko"
     ],
-    "name:est_x_preferred":[
-        "Damaskus"
+    "name:est_x_preferred": [
+      "Damaskus"
     ],
-    "name:eus_x_preferred":[
-        "Damasko eskualdea"
+    "name:eus_x_preferred": [
+      "Damasko eskualdea"
     ],
-    "name:eus_x_variant":[
-        "Damasko"
+    "name:eus_x_variant": [
+      "Damasko"
     ],
-    "name:ext_x_preferred":[
-        "Damascu"
+    "name:ext_x_preferred": [
+      "Damascu"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0645\u0634\u0642"
+    "name:fas_x_preferred": [
+      "استان دمشق"
     ],
-    "name:fas_x_variant":[
-        "\u062f\u0645\u0634\u0642"
+    "name:fas_x_variant": [
+      "دمشق"
     ],
-    "name:fin_x_preferred":[
-        "Damaskoksen maakunta"
+    "name:fin_x_preferred": [
+      "Damaskoksen maakunta"
     ],
-    "name:fin_x_variant":[
-        "Damaskos"
+    "name:fin_x_variant": [
+      "Damaskos"
     ],
-    "name:fra_x_preferred":[
-        "Damas"
+    "name:fra_x_preferred": [
+      "Damas"
     ],
-    "name:frp_x_preferred":[
-        "Damas"
+    "name:frp_x_preferred": [
+      "Damas"
     ],
-    "name:fry_x_preferred":[
-        "Damaskus"
+    "name:fry_x_preferred": [
+      "Damaskus"
     ],
-    "name:gla_x_preferred":[
-        "Damascus"
+    "name:gla_x_preferred": [
+      "Damascus"
     ],
-    "name:gle_x_preferred":[
-        "An Damaisc"
+    "name:gle_x_preferred": [
+      "An Damaisc"
     ],
-    "name:glg_x_preferred":[
-        "Damasco"
+    "name:glg_x_preferred": [
+      "Damasco"
     ],
-    "name:glk_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:glk_x_preferred": [
+      "دمشق"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf33\ud800\udf30\ud800\udf3c\ud800\udf30\ud800\udf43\ud800\udf3a\ud800\udf49"
+    "name:got_x_preferred": [
+      "𐌳𐌰𐌼𐌰𐍃𐌺𐍉"
     ],
-    "name:grn_x_preferred":[
-        "Ndam\u00e1ko"
+    "name:grn_x_preferred": [
+      "Ndamáko"
     ],
-    "name:hak_x_preferred":[
-        "Damascus"
+    "name:hak_x_preferred": [
+      "Damascus"
     ],
-    "name:hat_x_preferred":[
-        "Damas"
+    "name:hat_x_preferred": [
+      "Damas"
     ],
-    "name:haw_x_preferred":[
-        "Kamakeko"
+    "name:haw_x_preferred": [
+      "Kamakeko"
     ],
-    "name:heb_x_preferred":[
-        "\u05d3\u05de\u05e9\u05e7"
+    "name:heb_x_preferred": [
+      "דמשק"
     ],
-    "name:hif_x_preferred":[
-        "Damascus"
+    "name:hif_x_preferred": [
+      "Damascus"
     ],
-    "name:hin_x_preferred":[
-        "\u0926\u092e\u093f\u0936\u094d\u0915\u093c \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    "name:hin_x_preferred": [
+      "दमिश्क़ प्रान्त"
     ],
-    "name:hin_x_variant":[
-        "\u0926\u092e\u093f\u0936\u094d\u0915"
+    "name:hin_x_variant": [
+      "दमिश्क"
     ],
-    "name:hrv_x_preferred":[
-        "Damask"
+    "name:hrv_x_preferred": [
+      "Damask"
     ],
-    "name:hsb_x_preferred":[
-        "Damask"
+    "name:hsb_x_preferred": [
+      "Damask"
     ],
-    "name:hun_x_preferred":[
-        "Damaszkusz"
+    "name:hun_x_preferred": [
+      "Damaszkusz"
     ],
-    "name:hye_x_preferred":[
-        "\u0534\u0561\u0574\u0561\u057d\u056f\u0578\u057d\u056b \u0574\u0561\u0580\u0566"
+    "name:hye_x_preferred": [
+      "Դամասկոսի մարզ"
     ],
-    "name:hye_x_variant":[
-        "\u0534\u0561\u0574\u0561\u057d\u056f\u0578\u057d"
+    "name:hye_x_variant": [
+      "Դամասկոս"
     ],
-    "name:hyw_x_preferred":[
-        "\u0534\u0561\u0574\u0561\u057d\u056f\u0578\u057d"
+    "name:hyw_x_preferred": [
+      "Դամասկոս"
     ],
-    "name:ido_x_preferred":[
-        "Damaskus"
+    "name:ido_x_preferred": [
+      "Damaskus"
     ],
-    "name:ile_x_preferred":[
-        "Damascus"
+    "name:ile_x_preferred": [
+      "Damascus"
     ],
-    "name:ilo_x_preferred":[
-        "Damascus"
+    "name:ilo_x_preferred": [
+      "Damascus"
     ],
-    "name:ina_x_preferred":[
-        "Damasco"
+    "name:ina_x_preferred": [
+      "Damasco"
     ],
-    "name:ind_x_preferred":[
-        "Kegubernuran Damaskus"
+    "name:ind_x_preferred": [
+      "Kegubernuran Damaskus"
     ],
-    "name:ind_x_variant":[
-        "Damaskus"
+    "name:ind_x_variant": [
+      "Damaskus"
     ],
-    "name:inh_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:inh_x_preferred": [
+      "Дамаск"
     ],
-    "name:isl_x_preferred":[
-        "Damaskus"
+    "name:isl_x_preferred": [
+      "Damaskus"
     ],
-    "name:ita_x_preferred":[
-        "Governatorato di Damasco"
+    "name:ita_x_preferred": [
+      "Governatorato di Damasco"
     ],
-    "name:ita_x_variant":[
-        "Damasco"
+    "name:ita_x_variant": [
+      "Damasco"
     ],
-    "name:jav_x_preferred":[
-        "Damaskus"
+    "name:jav_x_preferred": [
+      "Damaskus"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c0\u30de\u30b9\u30ab\u30b9"
+    "name:jpn_x_preferred": [
+      "ダマスカス"
     ],
-    "name:kaa_x_preferred":[
-        "Damashq"
+    "name:kaa_x_preferred": [
+      "Damashq"
     ],
-    "name:kab_x_preferred":[
-        "Dimecq"
+    "name:kab_x_preferred": [
+      "Dimecq"
     ],
-    "name:kal_x_preferred":[
-        "Damascus"
+    "name:kal_x_preferred": [
+      "Damascus"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca1\u0cae\u0cbe\u0cb8\u0ccd\u0c95\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಡಮಾಸ್ಕಸ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d3\u10d0\u10db\u10d0\u10e1\u10d9\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    "name:kat_x_preferred": [
+      "დამასკის მუჰაფაზა"
     ],
-    "name:kat_x_variant":[
-        "\u10d3\u10d0\u10db\u10d0\u10e1\u10d9\u10dd"
+    "name:kat_x_variant": [
+      "დამასკო"
     ],
-    "name:kaz_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:kaz_x_preferred": [
+      "Дамаск"
     ],
-    "name:kbd_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:kbd_x_preferred": [
+      "Дамаск"
     ],
-    "name:kbp_x_preferred":[
-        "Tamas\u0269"
+    "name:kbp_x_preferred": [
+      "Tamasɩ"
     ],
-    "name:kik_x_preferred":[
-        "Damascus"
+    "name:kik_x_preferred": [
+      "Damascus"
     ],
-    "name:kin_x_preferred":[
-        "Damasiko"
+    "name:kin_x_preferred": [
+      "Damasiko"
     ],
-    "name:kir_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:kir_x_preferred": [
+      "Дамаск"
     ],
-    "name:kor_x_preferred":[
-        "\ub2e4\ub9c8\uc2a4\ucfe0\uc2a4 \uc8fc"
+    "name:kor_x_preferred": [
+      "다마스쿠스 주"
     ],
-    "name:kor_x_variant":[
-        "\ub2e4\ub9c8\uc2a4\ucfe0\uc2a4"
+    "name:kor_x_variant": [
+      "다마스쿠스"
     ],
-    "name:kur_x_preferred":[
-        "\u015eam"
+    "name:kur_x_preferred": [
+      "Şam"
     ],
-    "name:lad_x_preferred":[
-        "Damesek"
+    "name:lad_x_preferred": [
+      "Damesek"
     ],
-    "name:lat_x_preferred":[
-        "Damascus"
+    "name:lat_x_preferred": [
+      "Damascus"
     ],
-    "name:lav_x_preferred":[
-        "Damaska"
+    "name:lav_x_preferred": [
+      "Damaska"
     ],
-    "name:lez_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:lez_x_preferred": [
+      "Дамаск"
     ],
-    "name:lij_x_preferred":[
-        "Damasco"
+    "name:lij_x_preferred": [
+      "Damasco"
     ],
-    "name:lim_x_preferred":[
-        "Damascus"
+    "name:lim_x_preferred": [
+      "Damascus"
     ],
-    "name:lin_x_preferred":[
-        "Damas"
+    "name:lin_x_preferred": [
+      "Damas"
     ],
-    "name:lit_x_preferred":[
-        "Damaskas"
+    "name:lit_x_preferred": [
+      "Damaskas"
     ],
-    "name:lmo_x_preferred":[
-        "Damasch"
+    "name:lmo_x_preferred": [
+      "Damasch"
     ],
-    "name:lrc_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:lrc_x_preferred": [
+      "دمشق"
     ],
-    "name:ltz_x_preferred":[
-        "Damaskus"
+    "name:ltz_x_preferred": [
+      "Damaskus"
     ],
-    "name:mal_x_preferred":[
-        "\u0d26\u0d2e\u0d3e\u0d38\u0d4d\u0d15\u0d38\u0d4d"
+    "name:mal_x_preferred": [
+      "ദമാസ്കസ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0926\u092e\u093e\u0938\u094d\u0915\u0938"
+    "name:mar_x_preferred": [
+      "दमास्कस"
     ],
-    "name:mhr_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:mhr_x_preferred": [
+      "Дамаск"
     ],
-    "name:mkd_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:mkd_x_preferred": [
+      "Дамаск"
     ],
-    "name:mlg_x_preferred":[
-        "Damaskosy"
+    "name:mlg_x_preferred": [
+      "Damaskosy"
     ],
-    "name:mon_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:mon_x_preferred": [
+      "Дамаск"
     ],
-    "name:msa_x_preferred":[
-        "Damsyik"
+    "name:msa_x_preferred": [
+      "Damsyik"
     ],
-    "name:mya_x_preferred":[
-        "\u1012\u1019\u102c\u1038\u1005\u1000\u1015\u103a\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ဒမားစကပ်မြို့"
     ],
-    "name:mzn_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:mzn_x_preferred": [
+      "دمشق"
     ],
-    "name:nah_x_preferred":[
-        "Damasco"
+    "name:nah_x_preferred": [
+      "Damasco"
     ],
-    "name:nep_x_preferred":[
-        "\u0926\u092e\u093e\u0938\u094d\u0915\u0938"
+    "name:nep_x_preferred": [
+      "दमास्कस"
     ],
-    "name:new_x_preferred":[
-        "\u0926\u092e\u093e\u0938\u094d\u0915\u0938"
+    "name:new_x_preferred": [
+      "दमास्कस"
     ],
-    "name:nld_x_preferred":[
-        "Damascus"
+    "name:nld_x_preferred": [
+      "Damascus"
     ],
-    "name:nno_x_preferred":[
-        "Damaskus"
+    "name:nno_x_preferred": [
+      "Damaskus"
     ],
-    "name:nor_x_preferred":[
-        "Damaskus"
+    "name:nor_x_preferred": [
+      "Damaskus"
     ],
-    "name:nov_x_preferred":[
-        "Damaskus"
+    "name:nov_x_preferred": [
+      "Damaskus"
     ],
-    "name:nya_x_preferred":[
-        "Damascus"
+    "name:nya_x_preferred": [
+      "Damascus"
     ],
-    "name:oci_x_preferred":[
-        "Damasc"
+    "name:oci_x_preferred": [
+      "Damasc"
     ],
-    "name:olo_x_preferred":[
-        "Damask"
+    "name:olo_x_preferred": [
+      "Damask"
     ],
-    "name:ori_x_preferred":[
-        "\u0b21\u0b3e\u0b2e\u0b3e\u0b38\u0b15\u0b38"
+    "name:ori_x_preferred": [
+      "ଡାମାସକସ"
     ],
-    "name:oss_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:oss_x_preferred": [
+      "Дамаск"
     ],
-    "name:pan_x_preferred":[
-        "\u0a26\u0a2e\u0a38\u0a3c\u0a15"
+    "name:pan_x_preferred": [
+      "ਦਮਸ਼ਕ"
     ],
-    "name:pap_x_preferred":[
-        "Damasco"
+    "name:pap_x_preferred": [
+      "Damasco"
     ],
-    "name:pcd_x_preferred":[
-        "Damasch"
+    "name:pcd_x_preferred": [
+      "Damasch"
     ],
-    "name:pms_x_preferred":[
-        "Damasch"
+    "name:pms_x_preferred": [
+      "Damasch"
     ],
-    "name:pnb_x_preferred":[
-        "\u062f\u0645\u0634\u0642"
+    "name:pnb_x_preferred": [
+      "دمشق"
     ],
-    "name:pol_x_preferred":[
-        "Damaszek"
+    "name:pol_x_preferred": [
+      "Damaszek"
     ],
-    "name:por_x_preferred":[
-        "Damasco"
+    "name:por_x_preferred": [
+      "Damasco"
     ],
-    "name:pus_x_preferred":[
-        "\u062f \u0645\u0634\u0642"
+    "name:pus_x_preferred": [
+      "د مشق"
     ],
-    "name:que_x_preferred":[
-        "Dimashq"
+    "name:que_x_preferred": [
+      "Dimashq"
     ],
-    "name:ron_x_preferred":[
-        "Guvernoratul Damasc"
+    "name:ron_x_preferred": [
+      "Guvernoratul Damasc"
     ],
-    "name:ron_x_variant":[
-        "Damasc"
+    "name:ron_x_variant": [
+      "Damasc"
     ],
-    "name:rue_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:rue_x_preferred": [
+      "Дамаск"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:rus_x_preferred": [
+      "Дамаск"
     ],
-    "name:sah_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a\u0443\u0441"
+    "name:sah_x_preferred": [
+      "Дамаскус"
     ],
-    "name:sat_x_preferred":[
-        "\u1c70\u1c5f\u1c62\u1c5f\u1c65\u1c60\u1c5a\u1c65"
+    "name:sat_x_preferred": [
+      "ᱰᱟᱢᱟᱥᱠᱚᱥ"
     ],
-    "name:scn_x_preferred":[
-        "Damascu"
+    "name:scn_x_preferred": [
+      "Damascu"
     ],
-    "name:sco_x_preferred":[
-        "Damascus"
+    "name:sco_x_preferred": [
+      "Damascus"
     ],
-    "name:sin_x_preferred":[
-        "\u0daf\u0db8\u0dc3\u0dca\u0d9a\u0dc3\u0dca"
+    "name:sin_x_preferred": [
+      "දමස්කස්"
     ],
-    "name:slk_x_preferred":[
-        "Damask"
+    "name:slk_x_preferred": [
+      "Damask"
     ],
-    "name:slv_x_preferred":[
-        "Damask"
+    "name:slv_x_preferred": [
+      "Damask"
     ],
-    "name:sna_x_preferred":[
-        "Damascus"
+    "name:sna_x_preferred": [
+      "Damascus"
     ],
-    "name:som_x_preferred":[
-        "Dimishiq"
+    "name:som_x_preferred": [
+      "Dimishiq"
     ],
-    "name:spa_x_preferred":[
-        "Gobernaci\u00f3n de Damasco"
+    "name:spa_x_preferred": [
+      "Gobernación de Damasco"
     ],
-    "name:spa_x_variant":[
-        "Damasco"
+    "name:spa_x_variant": [
+      "Damasco"
     ],
-    "name:sqi_x_preferred":[
-        "Damasku"
+    "name:sqi_x_preferred": [
+      "Damasku"
     ],
-    "name:srd_x_preferred":[
-        "Damasco"
+    "name:srd_x_preferred": [
+      "Damasco"
     ],
-    "name:srp_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:srp_x_preferred": [
+      "Дамаск"
     ],
-    "name:swa_x_preferred":[
-        "Dameski"
+    "name:swa_x_preferred": [
+      "Dameski"
     ],
-    "name:swe_x_preferred":[
-        "Damaskus"
+    "name:swe_x_preferred": [
+      "Damaskus"
     ],
-    "name:szl_x_preferred":[
-        "Damaszek"
+    "name:szl_x_preferred": [
+      "Damaszek"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba4\u0bbf\u0bae\u0bbf\u0bb7\u0bcd\u0b95\u0bc1"
+    "name:tam_x_preferred": [
+      "திமிஷ்கு"
     ],
-    "name:tat_x_preferred":[
-        "Dim\u00e4\u015fq"
+    "name:tat_x_preferred": [
+      "Dimäşq"
     ],
-    "name:tgk_x_preferred":[
-        "\u0414\u0438\u043c\u0438\u0448\u049b"
+    "name:tgk_x_preferred": [
+      "Димишқ"
     ],
-    "name:tgl_x_preferred":[
-        "Damasco"
+    "name:tgl_x_preferred": [
+      "Damasco"
     ],
-    "name:tha_x_preferred":[
-        "\u0e14\u0e32\u0e21\u0e31\u0e2a\u0e01\u0e31\u0e2a"
+    "name:tha_x_preferred": [
+      "ดามัสกัส"
     ],
-    "name:tuk_x_preferred":[
-        "Damask"
+    "name:tuk_x_preferred": [
+      "Damask"
     ],
-    "name:tur_x_preferred":[
-        "\u015eam"
+    "name:tur_x_preferred": [
+      "Şam"
     ],
-    "name:twi_x_preferred":[
-        "Damask\u0254s"
+    "name:twi_x_preferred": [
+      "Damaskɔs"
     ],
-    "name:uig_x_preferred":[
-        "\u062f\u06d5\u0645\u06d5\u0634\u0649\u0642"
+    "name:uig_x_preferred": [
+      "دەمەشىق"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0430\u043c\u0430\u0441\u043a"
+    "name:ukr_x_preferred": [
+      "Дамаск"
     ],
-    "name:und_x_variant":[
-        "\u0645\u062f\u064a\u0646\u0629 \u062f\u0645\u0634\u0642",
-        "Mu\u1e29\u0101faz\u0327at Mad\u012bnat Dimashq"
+    "name:und_x_variant": [
+      "مدينة دمشق",
+      "Muḩāfaz̧at Madīnat Dimashq"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062f\u0645\u0634\u0642"
+    "name:urd_x_preferred": [
+      "محافظہ دمشق"
     ],
-    "name:urd_x_variant":[
-        "\u062f\u0645\u0634\u0642"
+    "name:urd_x_variant": [
+      "دمشق"
     ],
-    "name:uzb_x_preferred":[
-        "Damashq"
+    "name:uzb_x_preferred": [
+      "Damashq"
     ],
-    "name:vep_x_preferred":[
-        "Damask"
+    "name:vep_x_preferred": [
+      "Damask"
     ],
-    "name:vie_x_preferred":[
-        "Damascus"
+    "name:vie_x_preferred": [
+      "Damascus"
     ],
-    "name:vol_x_preferred":[
-        "Dim\u00e4jk"
+    "name:vol_x_preferred": [
+      "Dimäjk"
     ],
-    "name:war_x_preferred":[
-        "Damasko"
+    "name:war_x_preferred": [
+      "Damasko"
     ],
-    "name:wuu_x_preferred":[
-        "\u5927\u9a6c\u58eb\u9769"
+    "name:wuu_x_preferred": [
+      "大马士革"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d3\u10d0\u10db\u10d0\u10e1\u10d9\u10dd"
+    "name:xmf_x_preferred": [
+      "დამასკო"
     ],
-    "name:yid_x_preferred":[
-        "\u05d3\u05de\u05e9\u05e7"
+    "name:yid_x_preferred": [
+      "דמשק"
     ],
-    "name:yor_x_preferred":[
-        "D\u00e0m\u00e1sk\u00f9"
+    "name:yor_x_preferred": [
+      "Dàmáskù"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u9a6c\u58eb\u9769"
+    "name:zho_x_preferred": [
+      "大马士革"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"SYR",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"SYR-4843",
-    "ne:adm1_code":"SYR-4843",
-    "ne:admin":"Syria",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"10",
-    "ne:code_hasc":"SY.DI",
-    "ne:code_local":"",
-    "ne:datarank":"6",
-    "ne:diss_me":"4843",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"SY13",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Syria",
-    "ne:gn_a1_code":"SY.13",
-    "ne:gn_id":"167541",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Muhafazat Dimashq",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"SY13",
-    "ne:gns_id":"-2544397",
-    "ne:gns_lang":"ara",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Dimashq, Muhafazat",
-    "ne:gns_region":"",
-    "ne:gu_a3":"SYX",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"SY-DI",
-    "ne:iso_a2":"SY",
-    "ne:labelrank":"7",
-    "ne:latitude":"33.51010000000",
-    "ne:longitude":"36.28970000000",
-    "ne:mapcolor13":6,
-    "ne:mapcolor9":2,
-    "ne:name":"Damascus",
-    "ne:name_alt":"",
-    "ne:name_len":8,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"DI",
-    "ne:provnum_ne":"1",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"7",
-    "ne:scalerank":"6",
-    "ne:sov_a3":"SYR",
-    "ne:sub_code":"",
-    "ne:type":"Governorate|Muhafazah",
-    "ne:type_en":"Province",
-    "ne:wikipedia":"http://en.wikipedia.org/wiki/Damascus",
-    "ne:woe_id":2347081,
-    "ne:woe_label":"Dimashq, SY, Syria",
-    "ne:woe_name":"Dimashq",
-    "qs:a0":"Syria",
-    "qs:a0_lc":"SY",
-    "qs:a1":"Damascus",
-    "qs:a1_lc":"SYR-4843",
-    "qs:adm0":"Syria",
-    "qs:adm0_a3":"SYR",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Province",
-    "sfomuseum:placetype":"region",
-    "src:geom":"meso",
-    "src:geom_alt":[
-        "quattroshapes"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "SYR",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "SYR-4843",
+    "ne:adm1_code": "SYR-4843",
+    "ne:admin": "Syria",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "10",
+    "ne:code_hasc": "SY.DI",
+    "ne:code_local": "",
+    "ne:datarank": "6",
+    "ne:diss_me": "4843",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "SY13",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Syria",
+    "ne:gn_a1_code": "SY.13",
+    "ne:gn_id": "167541",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Muhafazat Dimashq",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "SY13",
+    "ne:gns_id": "-2544397",
+    "ne:gns_lang": "ara",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Dimashq, Muhafazat",
+    "ne:gns_region": "",
+    "ne:gu_a3": "SYX",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "SY-DI",
+    "ne:iso_a2": "SY",
+    "ne:labelrank": "7",
+    "ne:latitude": "33.51010000000",
+    "ne:longitude": "36.28970000000",
+    "ne:mapcolor13": 6,
+    "ne:mapcolor9": 2,
+    "ne:name": "Damascus",
+    "ne:name_alt": "",
+    "ne:name_len": 8,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "DI",
+    "ne:provnum_ne": "1",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "7",
+    "ne:scalerank": "6",
+    "ne:sov_a3": "SYR",
+    "ne:sub_code": "",
+    "ne:type": "Governorate|Muhafazah",
+    "ne:type_en": "Province",
+    "ne:wikipedia": "http://en.wikipedia.org/wiki/Damascus",
+    "ne:woe_id": 2347081,
+    "ne:woe_label": "Dimashq, SY, Syria",
+    "ne:woe_name": "Dimashq",
+    "qs:a0": "Syria",
+    "qs:a0_lc": "SY",
+    "qs:a1": "Damascus",
+    "qs:a1_lc": "SYR-4843",
+    "qs:adm0": "Syria",
+    "qs:adm0_a3": "SYR",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Province",
+    "sfomuseum:placetype": "region",
+    "src:geom": "meso",
+    "src:geom_alt": [
+      "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2004-09-22",
-    "statoids:area_km":"118",
-    "statoids:area_mi":"46",
-    "statoids:as_of_date":"2004-09-22",
-    "statoids:capital":"Damascus",
-    "statoids:country":"SY",
-    "statoids:gec":"SY13",
-    "statoids:hasc":"SY.DI",
-    "statoids:iso":"DI",
-    "statoids:name":"Damascus",
-    "statoids:population":"1552161",
-    "statoids:timezone":"+2~",
-    "statoids:type":"province",
-    "wof:belongsto":[
-        102191569,
-        85632413
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2004-09-22",
+    "statoids:area_km": "118",
+    "statoids:area_mi": "46",
+    "statoids:as_of_date": "2004-09-22",
+    "statoids:capital": "Damascus",
+    "statoids:country": "SY",
+    "statoids:gec": "SY13",
+    "statoids:hasc": "SY.DI",
+    "statoids:iso": "DI",
+    "statoids:name": "Damascus",
+    "statoids:population": "1552161",
+    "statoids:timezone": "+2~",
+    "statoids:type": "province",
+    "wof:belongsto": [
+      102191569,
+      85632413
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"SY13",
-        "gn:id":167541,
-        "gp:id":2347081,
-        "hasc:id":"SY.DI",
-        "iso:id":"SY-DI",
-        "qs_pg:id":215764
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "SY13",
+      "gn:id": 167541,
+      "gp:id": 2347081,
+      "hasc:id": "SY.DI",
+      "iso:id": "SY-DI",
+      "qs_pg:id": 215764
     },
-    "wof:coterminous":[
-        421202165
+    "wof:coterminous": [
+      421202165
     ],
-    "wof:country":"SY",
-    "wof:geom_alt":[
-        "quattroshapes"
+    "wof:country": "SY",
+    "wof:created": 1624906864,
+    "wof:geom_alt": [
+      "quattroshapes"
     ],
-    "wof:geomhash":"8b80cbcebc1eb4d758ddc10a8f634237",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632413,
-            "region_id":85678403
-        }
+    "wof:geomhash": "8b80cbcebc1eb4d758ddc10a8f634237",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632413,
+        "region_id": 85678403
+      }
     ],
-    "wof:id":85678403,
-    "wof:lang_x_official":[
-        "ara",
-        "fra"
+    "wof:id": 85678403,
+    "wof:lang_x_official": [
+      "ara",
+      "fra"
     ],
-    "wof:lang_x_spoken":[
-        "ara",
-        "fra"
+    "wof:lang_x_spoken": [
+      "ara",
+      "fra"
     ],
-    "wof:lastmodified":1611601096,
-    "wof:name":"Damascus",
-    "wof:parent_id":85632413,
-    "wof:placetype":"region",
-    "wof:placetype_local":"province",
-    "wof:population":1552161,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-sy",
-    "wof:shortcode":"DI",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906864,
+    "wof:name": "Damascus",
+    "wof:parent_id": 85632413,
+    "wof:placetype": "region",
+    "wof:placetype_local": "province",
+    "wof:population": 1552161,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-sy",
+    "wof:shortcode": "DI",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     36.197303,
     33.462504,
     36.35181,
     33.56536
-],
+  ],
   "geometry": {"coordinates":[[[36.198189,33.524218],[36.199961,33.525452],[36.202619,33.527302],[36.205208,33.529027],[36.207156,33.529841],[36.20958,33.530653],[36.211843,33.531513],[36.21366,33.532006],[36.215731,33.532185],[36.218439,33.532171],[36.221038,33.532346],[36.222952,33.533039],[36.224581,33.533799],[36.226507,33.534509],[36.228543,33.535479],[36.230295,33.536678],[36.231899,33.537805],[36.23387,33.539072],[36.235318,33.539967],[36.235965,33.540281],[36.237019,33.540815],[36.238742,33.541805],[36.240663,33.543267],[36.242689,33.545039],[36.245781,33.547629],[36.249529,33.549852],[36.252735,33.550861],[36.255285,33.551062],[36.258348,33.550622],[36.261029,33.550744],[36.262565,33.551546],[36.264819,33.552924],[36.267485,33.554527],[36.273148,33.557643],[36.28257,33.560912],[36.287965,33.56249],[36.291658,33.563935],[36.294361,33.565207],[36.296906,33.56536],[36.300269,33.565023],[36.302945,33.564919],[36.305256,33.564597],[36.308113,33.564209],[36.310591,33.564227],[36.312287,33.564416],[36.314445,33.564448],[36.316686,33.564355],[36.317916,33.564278],[36.319287,33.564384],[36.321453,33.56444],[36.323457,33.564316],[36.325011,33.564359],[36.327001,33.564293],[36.328931,33.564048],[36.330062,33.563892],[36.331091,33.563196],[36.332757,33.561703],[36.335024,33.560039],[36.33687,33.558828],[36.3381,33.558021],[36.338716,33.557617],[36.339628,33.556475],[36.340541,33.555334],[36.342309,33.553351],[36.344598,33.55111],[36.346752,33.549126],[36.349793,33.546282],[36.35181,33.544402],[36.351639,33.543725],[36.351297,33.542372],[36.350784,33.540342],[36.349794,33.537597],[36.348455,33.535223],[36.347561,33.53307],[36.347305,33.53022],[36.347488,33.527139],[36.348054,33.524384],[36.348157,33.522431],[36.34757,33.521532],[36.3465,33.520636],[36.344774,33.51932],[36.342468,33.517465],[36.340141,33.514881],[36.338612,33.512179],[36.337814,33.509952],[36.336968,33.507309],[36.334845,33.503669],[36.332177,33.500515],[36.330589,33.498693],[36.329125,33.496896],[36.327142,33.494307],[36.325007,33.491343],[36.322316,33.489253],[36.319376,33.487761],[36.316865,33.485303],[36.315737,33.482973],[36.315967,33.481003],[36.316573,33.477954],[36.317136,33.474542],[36.316682,33.472177],[36.314852,33.469864],[36.310816,33.465244],[36.31003,33.465406],[36.308458,33.46573],[36.3061,33.466216],[36.303222,33.466764],[36.300824,33.467252],[36.298522,33.467464],[36.296399,33.467068],[36.294505,33.466107],[36.292645,33.464665],[36.290581,33.463144],[36.288634,33.462504],[36.286907,33.462884],[36.28404,33.463856],[36.280377,33.465394],[36.277708,33.466145],[36.275921,33.466015],[36.274064,33.46617],[36.271481,33.466713],[36.268635,33.468306],[36.265899,33.470594],[36.263556,33.472028],[36.26172,33.472696],[36.25936,33.473701],[36.257519,33.474621],[36.256502,33.475031],[36.255091,33.475441],[36.253301,33.476031],[36.251902,33.476565],[36.251031,33.476853],[36.24996,33.477129],[36.247988,33.477658],[36.245262,33.478713],[36.243096,33.479535],[36.241345,33.47954],[36.239407,33.479084],[36.237379,33.478391],[36.235747,33.477726],[36.234232,33.476832],[36.231734,33.475599],[36.229896,33.47481],[36.22894,33.474415],[36.227493,33.473923],[36.225273,33.473294],[36.222319,33.472095],[36.219751,33.470588],[36.217627,33.46921],[36.215157,33.468929],[36.21146,33.470673],[36.208947,33.473564],[36.209561,33.476801],[36.211299,33.479487],[36.213413,33.481394],[36.215069,33.482592],[36.216529,33.483419],[36.2183,33.484363],[36.220041,33.485081],[36.222434,33.485979],[36.225262,33.487625],[36.22766,33.489714],[36.229417,33.492501],[36.22994,33.496233],[36.229227,33.499038],[36.227643,33.500747],[36.225797,33.50242],[36.224201,33.503955],[36.222558,33.505608],[36.220936,33.507508],[36.218776,33.510056],[36.216885,33.512809],[36.21531,33.51494],[36.213301,33.51617],[36.211276,33.516409],[36.208822,33.516118],[36.206609,33.515792],[36.204843,33.515948],[36.202551,33.516688],[36.19998,33.518467],[36.197303,33.523601],[36.198189,33.524218]]],"type":"Polygon"}
 }

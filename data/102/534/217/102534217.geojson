@@ -2,135 +2,136 @@
   "id": 102534217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-110.737999,43.6073,-110.737999,43.6073",
-    "geom:latitude":43.6073,
-    "geom:longitude":-110.737999,
-    "gn:elevation":1959,
-    "iso:country":"US",
-    "lbl:latitude":43.6066,
-    "lbl:longitude":-110.73854,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Jackson Hole Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-110.737999,43.607300,-110.737999,43.607300",
+    "geom:latitude": 43.6073,
+    "geom:longitude": -110.737999,
+    "gn:elevation": 1959,
+    "iso:country": "US",
+    "lbl:latitude": 43.6066,
+    "lbl:longitude": -110.73854,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Jackson Hole Airport"
     ],
-    "name:deu_x_preferred":[
-        "Jackson Hole Airport"
+    "name:deu_x_preferred": [
+      "Jackson Hole Airport"
     ],
-    "name:eng_x_preferred":[
-        "Jackson Hole Airport"
+    "name:eng_x_preferred": [
+      "Jackson Hole Airport"
     ],
-    "name:eng_x_variant":[
-        "JAC",
-        "KJAC"
+    "name:eng_x_variant": [
+      "JAC",
+      "KJAC"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u06a9\u0633\u0646 \u0647\u0648\u0644"
+    "name:fas_x_preferred": [
+      "فرودگاه جکسن هول"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport de Jackson Hole"
+    "name:fra_x_preferred": [
+      "Aéroport de Jackson Hole"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport de Jackson Hole"
+    "name:fra_x_variant": [
+      "aéroport de Jackson Hole"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto di Jackson-Hole"
+    "name:ita_x_preferred": [
+      "Aeroporto di Jackson-Hole"
     ],
-    "name:ita_x_variant":[
-        "Aeroporto di Jackson Hole"
+    "name:ita_x_variant": [
+      "Aeroporto di Jackson Hole"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b8\u30e3\u30af\u30bd\u30f3\u30db\u30fc\u30eb\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ジャクソンホール空港"
     ],
-    "name:mar_x_preferred":[
-        "\u091c\u0945\u0915\u094d\u0938\u0928 \u0939\u094b\u0932 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "जॅक्सन होल विमानतळ"
     ],
-    "name:nld_x_preferred":[
-        "Jackson Hole Airport"
+    "name:nld_x_preferred": [
+      "Jackson Hole Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Jackson Hole"
+    "name:pol_x_preferred": [
+      "Port lotniczy Jackson Hole"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Jackson Hole"
+    "name:ron_x_preferred": [
+      "Aeroportul Jackson Hole"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto de Jackson Hole"
+    "name:spa_x_preferred": [
+      "Aeropuerto de Jackson Hole"
     ],
-    "name:swe_x_preferred":[
-        "Jackson Hole Airport"
+    "name:swe_x_preferred": [
+      "Jackson Hole Airport"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u043a\u0441\u043d \u04b3\u0443\u043b"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи ҷксн ҳул"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u06cc\u06a9\u0633\u0646 \u06c1\u0648\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "جیکسن ہول ہوائی اڈا"
     ],
-    "name:zho_x_preferred":[
-        "\u5091\u514b\u905c"
+    "name:zho_x_preferred": [
+      "傑克遜"
     ],
-    "oa:elevation_ft":"6451",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:centroid_lbl":"geonames",
-    "src:geom":"ourairports",
-    "src:geom_alt":[],
-    "wd:wordcount":929,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12590625,
-        "planet_id":1,
-        "state_id":2347609
+    "oa:elevation_ft": "6451",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 929,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12590625,
+      "planet_id": 1,
+      "state_id": 2347609
     },
-    "wof:belongsto":[
-        85633793,
-        85688475
+    "wof:belongsto": [
+      85633793,
+      85688475
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"JAC",
-        "gn:id":5828662,
-        "gp:id":12520335,
-        "iata:code":"JAC",
-        "icao:code":"KJAC",
-        "oa:id":"3618",
-        "wd:id":"Q1754749",
-        "wk:page":"Jackson_Hole_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "JAC",
+      "gn:id": 5828662,
+      "gp:id": 12520335,
+      "iata:code": "JAC",
+      "icao:code": "KJAC",
+      "oa:id": "3618",
+      "wd:id": "Q1754749",
+      "wk:page": "Jackson_Hole_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4d3d1d5c77fb752e7f67fbcba57cfefe",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534217,
-            "country_id":85633793,
-            "region_id":85688475
-        }
+    "wof:country": "US",
+    "wof:created": 1624906954,
+    "wof:geomhash": "4d3d1d5c77fb752e7f67fbcba57cfefe",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534217,
+        "country_id": 85633793,
+        "region_id": 85688475
+      }
     ],
-    "wof:id":102534217,
-    "wof:lastmodified":1611601239,
-    "wof:name":"Jackson Hole Airport",
-    "wof:parent_id":85688475,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102534217,
+    "wof:lastmodified": 1624906954,
+    "wof:name": "Jackson Hole Airport",
+    "wof:parent_id": 85688475,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -110.737999,
     43.6073,
     -110.737999,
     43.6073
-],
+  ],
   "geometry": {"coordinates":[-110.737999,43.6073],"type":"Point"}
 }

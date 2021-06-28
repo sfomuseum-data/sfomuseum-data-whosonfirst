@@ -2,95 +2,96 @@
   "id": 102524995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.671667,32.829167,-115.671667,32.829167",
-    "geom:latitude":32.829167,
-    "geom:longitude":-115.671667,
-    "gn:elevation":-12,
-    "iso:country":"US",
-    "lbl:latitude":32.82922,
-    "lbl:longitude":-115.67167,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:eng_x_preferred":[
-        "El Centro Naval Air Facility"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.671667,32.829167,-115.671667,32.829167",
+    "geom:latitude": 32.829167,
+    "geom:longitude": -115.671667,
+    "gn:elevation": -12,
+    "iso:country": "US",
+    "lbl:latitude": 32.82922,
+    "lbl:longitude": -115.67167,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "El Centro Naval Air Facility"
     ],
-    "name:eng_x_variant":[
-        "NJK",
-        "KNJK",
-        "Naval Air Facility El Centro"
+    "name:eng_x_variant": [
+      "NJK",
+      "KNJK",
+      "Naval Air Facility El Centro"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a \u0647\u0648\u0627\u06cc\u06cc \u0627\u0644 \u0633\u0646\u062a\u0631\u0648"
+    "name:fas_x_preferred": [
+      "پایگاه امکانات هوایی ال سنترو"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9rodrome d'El Centro Naf"
+    "name:fra_x_preferred": [
+      "aérodrome d'El Centro Naf"
     ],
-    "name:tgk_x_preferred":[
-        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u0438\u043c\u043a\u043e\u043d\u043e\u0442 \u04b3\u0430\u0432\u043e \u0438\u043b \u0441\u043d\u0442\u0440\u0443"
+    "name:tgk_x_preferred": [
+      "Пойгоҳи имконот ҳаво ил снтру"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u06cc\u0648\u0644 \u0627\u06cc\u0626\u0631\u0641\u0633\u06cc\u0644\u06cc\u0679\u06cc \u0627\u06cc\u0644 \u0633\u06cc\u0646\u0679\u0631\u0648"
+    "name:urd_x_preferred": [
+      "نیول ایئرفسیلیٹی ایل سینٹرو"
     ],
-    "oa:elevation_ft":"-42",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:centroid_lbl":"geonames",
-    "src:geom":"wikidata",
-    "src:geom_alt":[],
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587682,
-        "planet_id":1,
-        "state_id":2347563
+    "oa:elevation_ft": "-42",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "wikidata",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587682,
+      "planet_id": 1,
+      "state_id": 2347563
     },
-    "wof:belongsto":[
-        85633793,
-        85688637
+    "wof:belongsto": [
+      85633793,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"NJK",
-        "gn:id":6301667,
-        "gp:id":12519604,
-        "iata:code":"NJK",
-        "icao:code":"KNJK",
-        "oa:id":"3731",
-        "wd:id":"Q3016449",
-        "wk:page":"Naval Air Facility El Centro"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "NJK",
+      "gn:id": 6301667,
+      "gp:id": 12519604,
+      "iata:code": "NJK",
+      "icao:code": "KNJK",
+      "oa:id": "3731",
+      "wd:id": "Q3016449",
+      "wk:page": "Naval Air Facility El Centro"
     },
-    "wof:country":"US",
-    "wof:geomhash":"17c3e7735f0c662c96d6129298a88d69",
-    "wof:hierarchy":[
-        {
-            "campus_id":102524995,
-            "country_id":85633793,
-            "region_id":85688637
-        }
+    "wof:country": "US",
+    "wof:created": 1624906905,
+    "wof:geomhash": "17c3e7735f0c662c96d6129298a88d69",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102524995,
+        "country_id": 85633793,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":102524995,
-    "wof:lastmodified":1611601236,
-    "wof:name":"El Centro Naval Air Facility",
-    "wof:parent_id":85688637,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102524995,
+    "wof:lastmodified": 1624906905,
+    "wof:name": "El Centro Naval Air Facility",
+    "wof:parent_id": 85688637,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -115.671667,
     32.829167,
     -115.671667,
     32.829167
-],
+  ],
   "geometry": {"coordinates":[-115.671667,32.829167],"type":"Point"}
 }

@@ -2,605 +2,606 @@
   "id": 102020435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000011,
-    "geom:area_square_m":139316.959483,
-    "geom:bbox":"106.774071,-6.210186,106.777496,-6.205408",
-    "geom:latitude":-6.207841,
-    "geom:longitude":106.776017,
-    "gn:latitude":-6.2182,
-    "gn:longitude":106.8584,
-    "gn:population":9953016,
-    "iso:country":"ID",
-    "lbl:latitude":-6.208054,
-    "lbl:longitude":106.77605,
-    "mps:latitude":-6.208054,
-    "mps:longitude":106.77605,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "name:ace_x_preferred":[
-        "Jakarta"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000011333318500000741,
+    "geom:area_square_m": 139316.959483,
+    "geom:bbox": "106.774071,-6.210186,106.777496,-6.205408",
+    "geom:latitude": -6.207840543042814,
+    "geom:longitude": 106.77601747177359,
+    "gn:latitude": -6.2182,
+    "gn:longitude": 106.8584,
+    "gn:population": 9953016,
+    "iso:country": "ID",
+    "lbl:latitude": -6.208054,
+    "lbl:longitude": 106.77605,
+    "mps:latitude": -6.208054,
+    "mps:longitude": 106.77605,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:ace_x_preferred": [
+      "Jakarta"
     ],
-    "name:ady_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u044d"
+    "name:ady_x_preferred": [
+      "Джакартэ"
     ],
-    "name:afr_x_preferred":[
-        "Djakarta"
+    "name:afr_x_preferred": [
+      "Djakarta"
     ],
-    "name:amh_x_preferred":[
-        "\u1303\u12ab\u122d\u1273"
+    "name:amh_x_preferred": [
+      "ጃካርታ"
     ],
-    "name:ara_x_preferred":[
-        "\u062c\u0627\u0643\u0631\u062a\u0627"
+    "name:ara_x_preferred": [
+      "جاكرتا"
     ],
-    "name:arg_x_preferred":[
-        "Jakarta"
+    "name:arg_x_preferred": [
+      "Jakarta"
     ],
-    "name:arz_x_preferred":[
-        "\u062c\u0627\u0643\u0627\u0631\u062a\u0627"
+    "name:arz_x_preferred": [
+      "جاكارتا"
     ],
-    "name:asm_x_preferred":[
-        "\u099c\u09be\u0995\u09be\u09f0\u09cd\u099f\u09be"
+    "name:asm_x_preferred": [
+      "জাকাৰ্টা"
     ],
-    "name:ast_x_preferred":[
-        "Xakarta"
+    "name:ast_x_preferred": [
+      "Xakarta"
     ],
-    "name:azb_x_preferred":[
-        "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+    "name:azb_x_preferred": [
+      "جاکارتا"
     ],
-    "name:aze_x_preferred":[
-        "Cakarta"
+    "name:aze_x_preferred": [
+      "Cakarta"
     ],
-    "name:bak_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:bak_x_preferred": [
+      "Джакарта"
     ],
-    "name:bam_x_preferred":[
-        "Jakarta"
+    "name:bam_x_preferred": [
+      "Jakarta"
     ],
-    "name:bel_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:bel_x_preferred": [
+      "Джакарта"
     ],
-    "name:ben_x_preferred":[
-        "\u099c\u09be\u0995\u09be\u09b0\u09cd\u09a4\u09be"
+    "name:ben_x_preferred": [
+      "জাকার্তা"
     ],
-    "name:bho_x_preferred":[
-        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:bho_x_preferred": [
+      "जकार्ता"
     ],
-    "name:bod_x_preferred":[
-        "\u0f4a\u0f0b\u0f41\u0f62\u0f0b\u0f4f\u0f0d"
+    "name:bod_x_preferred": [
+      "ཊ་ཁར་ཏ།"
     ],
-    "name:bos_x_preferred":[
-        "D\u017eakarta"
+    "name:bos_x_preferred": [
+      "Džakarta"
     ],
-    "name:bre_x_preferred":[
-        "Jakarta"
+    "name:bre_x_preferred": [
+      "Jakarta"
     ],
-    "name:bul_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:bul_x_preferred": [
+      "Джакарта"
     ],
-    "name:bxr_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:bxr_x_preferred": [
+      "Джакарта"
     ],
-    "name:cat_x_preferred":[
-        "Jakarta"
+    "name:cat_x_preferred": [
+      "Jakarta"
     ],
-    "name:cdo_x_preferred":[
-        "Jakarta"
+    "name:cdo_x_preferred": [
+      "Jakarta"
     ],
-    "name:ceb_x_preferred":[
-        "Daerah Khusus Ibukota Jakarta"
+    "name:ceb_x_preferred": [
+      "Daerah Khusus Ibukota Jakarta"
     ],
-    "name:ces_x_preferred":[
-        "Jakarta"
+    "name:ces_x_preferred": [
+      "Jakarta"
     ],
-    "name:che_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:che_x_preferred": [
+      "Джакарта"
     ],
-    "name:chr_x_preferred":[
-        "\u13a0\u13e4\u13d9"
+    "name:chr_x_preferred": [
+      "ᎠᏤᏙ"
     ],
-    "name:ckb_x_preferred":[
-        "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+    "name:ckb_x_preferred": [
+      "جاکارتا"
     ],
-    "name:cor_x_preferred":[
-        "Jakarta"
+    "name:cor_x_preferred": [
+      "Jakarta"
     ],
-    "name:cym_x_preferred":[
-        "Jakarta"
+    "name:cym_x_preferred": [
+      "Jakarta"
     ],
-    "name:dan_x_preferred":[
-        "Jakarta"
+    "name:dan_x_preferred": [
+      "Jakarta"
     ],
-    "name:deu_x_preferred":[
-        "Jakarta"
+    "name:deu_x_preferred": [
+      "Jakarta"
     ],
-    "name:dsb_x_preferred":[
-        "Jakarta"
+    "name:dsb_x_preferred": [
+      "Jakarta"
     ],
-    "name:dty_x_preferred":[
-        "\u091c\u093e\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:dty_x_preferred": [
+      "जाकार्ता"
     ],
-    "name:ell_x_preferred":[
-        "\u03a4\u03b6\u03b1\u03ba\u03ac\u03c1\u03c4\u03b1"
+    "name:ell_x_preferred": [
+      "Τζακάρτα"
     ],
-    "name:eng_x_preferred":[
-        "DKI Jakarta"
+    "name:eng_x_preferred": [
+      "DKI Jakarta"
     ],
-    "name:epo_x_preferred":[
-        "\u011cakarto"
+    "name:epo_x_preferred": [
+      "Ĝakarto"
     ],
-    "name:est_x_preferred":[
-        "Jakarta"
+    "name:est_x_preferred": [
+      "Jakarta"
     ],
-    "name:eus_x_preferred":[
-        "Jakarta"
+    "name:eus_x_preferred": [
+      "Jakarta"
     ],
-    "name:ext_x_preferred":[
-        "Yakarta"
+    "name:ext_x_preferred": [
+      "Yakarta"
     ],
-    "name:fao_x_preferred":[
-        "Jakarta"
+    "name:fao_x_preferred": [
+      "Jakarta"
     ],
-    "name:fas_x_preferred":[
-        "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+    "name:fas_x_preferred": [
+      "جاکارتا"
     ],
-    "name:fij_x_preferred":[
-        "Jakarta"
+    "name:fij_x_preferred": [
+      "Jakarta"
     ],
-    "name:fin_x_preferred":[
-        "Jakarta"
+    "name:fin_x_preferred": [
+      "Jakarta"
     ],
-    "name:fra_x_preferred":[
-        "Jakarta"
+    "name:fra_x_preferred": [
+      "Jakarta"
     ],
-    "name:fry_x_preferred":[
-        "Jakarta"
+    "name:fry_x_preferred": [
+      "Jakarta"
     ],
-    "name:gla_x_preferred":[
-        "Jakarta"
+    "name:gla_x_preferred": [
+      "Jakarta"
     ],
-    "name:gle_x_preferred":[
-        "Iac\u00e1rta"
+    "name:gle_x_preferred": [
+      "Iacárta"
     ],
-    "name:glg_x_preferred":[
-        "Iacarta"
+    "name:glg_x_preferred": [
+      "Iacarta"
     ],
-    "name:gor_x_preferred":[
-        "DKI Jakarta"
+    "name:gor_x_preferred": [
+      "DKI Jakarta"
     ],
-    "name:gsw_x_preferred":[
-        "Jakarta"
+    "name:gsw_x_preferred": [
+      "Jakarta"
     ],
-    "name:guj_x_preferred":[
-        "\u0a9c\u0abe\u0a95\u0abe\u0ab0\u0acd\u0aa4\u0abe"
+    "name:guj_x_preferred": [
+      "જાકાર્તા"
     ],
-    "name:hak_x_preferred":[
-        "Ng\u00e2-k\u00e2-tha\u030dt S\u00fa-t\u00fb Thi\u030dt-kh\u00ee"
+    "name:hak_x_preferred": [
+      "Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî"
     ],
-    "name:hat_x_preferred":[
-        "Jakarta"
+    "name:hat_x_preferred": [
+      "Jakarta"
     ],
-    "name:hau_x_preferred":[
-        "Jakarta"
+    "name:hau_x_preferred": [
+      "Jakarta"
     ],
-    "name:heb_x_preferred":[
-        "\u05d2'\u05e7\u05e8\u05d8\u05d4"
+    "name:heb_x_preferred": [
+      "ג'קרטה"
     ],
-    "name:hif_x_preferred":[
-        "Jakarta"
+    "name:hif_x_preferred": [
+      "Jakarta"
     ],
-    "name:hin_x_preferred":[
-        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:hin_x_preferred": [
+      "जकार्ता"
     ],
-    "name:hrv_x_preferred":[
-        "Jakarta"
+    "name:hrv_x_preferred": [
+      "Jakarta"
     ],
-    "name:hsb_x_preferred":[
-        "Jakarta"
+    "name:hsb_x_preferred": [
+      "Jakarta"
     ],
-    "name:hun_x_preferred":[
-        "Jakarta"
+    "name:hun_x_preferred": [
+      "Jakarta"
     ],
-    "name:hye_x_preferred":[
-        "\u054b\u0561\u056f\u0561\u0580\u057f\u0561"
+    "name:hye_x_preferred": [
+      "Ջակարտա"
     ],
-    "name:ido_x_preferred":[
-        "Jakarta"
+    "name:ido_x_preferred": [
+      "Jakarta"
     ],
-    "name:ile_x_preferred":[
-        "Jakarta"
+    "name:ile_x_preferred": [
+      "Jakarta"
     ],
-    "name:ilo_x_preferred":[
-        "Jakarta"
+    "name:ilo_x_preferred": [
+      "Jakarta"
     ],
-    "name:ina_x_preferred":[
-        "Jakarta"
+    "name:ina_x_preferred": [
+      "Jakarta"
     ],
-    "name:ind_x_preferred":[
-        "Daerah Khusus Ibukota Jakarta"
+    "name:ind_x_preferred": [
+      "Daerah Khusus Ibukota Jakarta"
     ],
-    "name:isl_x_preferred":[
-        "Djakarta"
+    "name:isl_x_preferred": [
+      "Djakarta"
     ],
-    "name:ita_x_preferred":[
-        "Giacarta"
+    "name:ita_x_preferred": [
+      "Giacarta"
     ],
-    "name:jav_x_preferred":[
-        "Jakarta"
+    "name:jav_x_preferred": [
+      "Jakarta"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b8\u30e3\u30ab\u30eb\u30bf"
+    "name:jpn_x_preferred": [
+      "ジャカルタ"
     ],
-    "name:kaa_x_preferred":[
-        "Jakarta"
+    "name:kaa_x_preferred": [
+      "Jakarta"
     ],
-    "name:kal_x_preferred":[
-        "Jakarta"
+    "name:kal_x_preferred": [
+      "Jakarta"
     ],
-    "name:kan_x_preferred":[
-        "\u0c9c\u0c95\u0cbe\u0cb0\u0ccd\u0ca4"
+    "name:kan_x_preferred": [
+      "ಜಕಾರ್ತ"
     ],
-    "name:kat_x_preferred":[
-        "\u10ef\u10d0\u10d9\u10d0\u10e0\u10e2\u10d0"
+    "name:kat_x_preferred": [
+      "ჯაკარტა"
     ],
-    "name:kaz_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:kaz_x_preferred": [
+      "Джакарта"
     ],
-    "name:kbp_x_preferred":[
-        "Jakarita"
+    "name:kbp_x_preferred": [
+      "Jakarita"
     ],
-    "name:khm_x_preferred":[
-        "\u1785\u17b6\u1780\u17b6\u179a\u178f\u17b6"
+    "name:khm_x_preferred": [
+      "ចាការតា"
     ],
-    "name:kin_x_preferred":[
-        "Jakarta"
+    "name:kin_x_preferred": [
+      "Jakarta"
     ],
-    "name:kir_x_preferred":[
-        "\u0416\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:kir_x_preferred": [
+      "Жакарта"
     ],
-    "name:kom_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:kom_x_preferred": [
+      "Джакарта"
     ],
-    "name:kon_x_preferred":[
-        "Jakarta"
+    "name:kon_x_preferred": [
+      "Jakarta"
     ],
-    "name:kor_x_preferred":[
-        "\uc790\uce74\ub974\ud0c0"
+    "name:kor_x_preferred": [
+      "자카르타"
     ],
-    "name:kur_x_preferred":[
-        "Cakarta"
+    "name:kur_x_preferred": [
+      "Cakarta"
     ],
-    "name:lad_x_preferred":[
-        "Djakarta"
+    "name:lad_x_preferred": [
+      "Djakarta"
     ],
-    "name:lat_x_preferred":[
-        "Jakarta"
+    "name:lat_x_preferred": [
+      "Jakarta"
     ],
-    "name:lav_x_preferred":[
-        "D\u017eakarta"
+    "name:lav_x_preferred": [
+      "Džakarta"
     ],
-    "name:lim_x_preferred":[
-        "Jakarta"
+    "name:lim_x_preferred": [
+      "Jakarta"
     ],
-    "name:lit_x_preferred":[
-        "D\u017eakarta"
+    "name:lit_x_preferred": [
+      "Džakarta"
     ],
-    "name:lmo_x_preferred":[
-        "Giacarta"
+    "name:lmo_x_preferred": [
+      "Giacarta"
     ],
-    "name:lrc_x_preferred":[
-        "\u0622\u0633\u062a\u0648\u0646 \u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+    "name:lrc_x_preferred": [
+      "آستون جاکارتا"
     ],
-    "name:ltz_x_preferred":[
-        "Jakarta"
+    "name:ltz_x_preferred": [
+      "Jakarta"
     ],
-    "name:lzh_x_preferred":[
-        "\u96c5\u52a0\u9054"
+    "name:lzh_x_preferred": [
+      "雅加達"
     ],
-    "name:mal_x_preferred":[
-        "\u0d1c\u0d15\u0d4d\u0d15\u0d3e\u0d7c\u0d24\u0d4d\u0d24"
+    "name:mal_x_preferred": [
+      "ജക്കാർത്ത"
     ],
-    "name:mar_x_preferred":[
-        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:mar_x_preferred": [
+      "जकार्ता"
     ],
-    "name:mhr_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:mhr_x_preferred": [
+      "Джакарта"
     ],
-    "name:min_x_preferred":[
-        "Daerah Kusuih Ibukota Jakarta"
+    "name:min_x_preferred": [
+      "Daerah Kusuih Ibukota Jakarta"
     ],
-    "name:mkd_x_preferred":[
-        "\u040f\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:mkd_x_preferred": [
+      "Џакарта"
     ],
-    "name:mlg_x_preferred":[
-        "Jakarta"
+    "name:mlg_x_preferred": [
+      "Jakarta"
     ],
-    "name:mon_x_preferred":[
-        "\u0416\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:mon_x_preferred": [
+      "Жакарта"
     ],
-    "name:mri_x_preferred":[
-        "Jakarta"
+    "name:mri_x_preferred": [
+      "Jakarta"
     ],
-    "name:msa_x_preferred":[
-        "Jakarta"
+    "name:msa_x_preferred": [
+      "Jakarta"
     ],
-    "name:mwl_x_preferred":[
-        "Jacarta"
+    "name:mwl_x_preferred": [
+      "Jacarta"
     ],
-    "name:mya_x_preferred":[
-        "\u1002\u103b\u1000\u102c\u1010\u102c\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ဂျကာတာမြို့"
     ],
-    "name:mzn_x_preferred":[
-        "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+    "name:mzn_x_preferred": [
+      "جاکارتا"
     ],
-    "name:nah_x_preferred":[
-        "Yakarta"
+    "name:nah_x_preferred": [
+      "Yakarta"
     ],
-    "name:nan_x_preferred":[
-        "Jakarta"
+    "name:nan_x_preferred": [
+      "Jakarta"
     ],
-    "name:nau_x_preferred":[
-        "Jakarta"
+    "name:nau_x_preferred": [
+      "Jakarta"
     ],
-    "name:nep_x_preferred":[
-        "\u091c\u093e\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:nep_x_preferred": [
+      "जाकार्ता"
     ],
-    "name:new_x_preferred":[
-        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:new_x_preferred": [
+      "जकार्ता"
     ],
-    "name:nld_x_preferred":[
-        "Jakarta"
+    "name:nld_x_preferred": [
+      "Jakarta"
     ],
-    "name:nno_x_preferred":[
-        "Jakarta"
+    "name:nno_x_preferred": [
+      "Jakarta"
     ],
-    "name:nob_x_preferred":[
-        "Jakarta"
+    "name:nob_x_preferred": [
+      "Jakarta"
     ],
-    "name:nov_x_preferred":[
-        "Jakarta"
+    "name:nov_x_preferred": [
+      "Jakarta"
     ],
-    "name:nya_x_preferred":[
-        "Jakarta"
+    "name:nya_x_preferred": [
+      "Jakarta"
     ],
-    "name:oci_x_preferred":[
-        "Jakarta"
+    "name:oci_x_preferred": [
+      "Jakarta"
     ],
-    "name:ori_x_preferred":[
-        "\u0b1c\u0b3e\u0b15\u0b30\u0b4d\u0b24\u0b3e"
+    "name:ori_x_preferred": [
+      "ଜାକର୍ତା"
     ],
-    "name:oss_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u00e6"
+    "name:oss_x_preferred": [
+      "Джакартæ"
     ],
-    "name:pan_x_preferred":[
-        "\u0a1c\u0a15\u0a3e\u0a30\u0a24\u0a3e"
+    "name:pan_x_preferred": [
+      "ਜਕਾਰਤਾ"
     ],
-    "name:pap_x_preferred":[
-        "Jakarta"
+    "name:pap_x_preferred": [
+      "Jakarta"
     ],
-    "name:pih_x_preferred":[
-        "Jakarta"
+    "name:pih_x_preferred": [
+      "Jakarta"
     ],
-    "name:pms_x_preferred":[
-        "Giacarta"
+    "name:pms_x_preferred": [
+      "Giacarta"
     ],
-    "name:pnb_x_preferred":[
-        "\u062c\u06a9\u0627\u0631\u062a\u06c1"
+    "name:pnb_x_preferred": [
+      "جکارتہ"
     ],
-    "name:pol_x_preferred":[
-        "D\u017cakarta"
+    "name:pol_x_preferred": [
+      "Dżakarta"
     ],
-    "name:por_x_preferred":[
-        "Jacarta"
+    "name:por_x_preferred": [
+      "Jacarta"
     ],
-    "name:pus_x_preferred":[
-        "\u062c\u06a9\u0627\u0631\u062a\u0627"
+    "name:pus_x_preferred": [
+      "جکارتا"
     ],
-    "name:que_x_preferred":[
-        "Jakarta"
+    "name:que_x_preferred": [
+      "Jakarta"
     ],
-    "name:ron_x_preferred":[
-        "Jakarta"
+    "name:ron_x_preferred": [
+      "Jakarta"
     ],
-    "name:rue_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:rue_x_preferred": [
+      "Джакарта"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:rus_x_preferred": [
+      "Джакарта"
     ],
-    "name:sah_x_preferred":[
-        "\u0414\u044c\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:sah_x_preferred": [
+      "Дьакарта"
     ],
-    "name:san_x_preferred":[
-        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    "name:san_x_preferred": [
+      "जकार्ता"
     ],
-    "name:scn_x_preferred":[
-        "Giacarta"
+    "name:scn_x_preferred": [
+      "Giacarta"
     ],
-    "name:sco_x_preferred":[
-        "Jakarta"
+    "name:sco_x_preferred": [
+      "Jakarta"
     ],
-    "name:sgs_x_preferred":[
-        "D\u017eakarta"
+    "name:sgs_x_preferred": [
+      "Džakarta"
     ],
-    "name:sin_x_preferred":[
-        "\u0da2\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dcf"
+    "name:sin_x_preferred": [
+      "ජකාර්තා"
     ],
-    "name:slk_x_preferred":[
-        "Jakarta"
+    "name:slk_x_preferred": [
+      "Jakarta"
     ],
-    "name:slv_x_preferred":[
-        "D\u017eakarta"
+    "name:slv_x_preferred": [
+      "Džakarta"
     ],
-    "name:sna_x_preferred":[
-        "Jakarta"
+    "name:sna_x_preferred": [
+      "Jakarta"
     ],
-    "name:spa_x_preferred":[
-        "Yakarta"
+    "name:spa_x_preferred": [
+      "Yakarta"
     ],
-    "name:sqi_x_preferred":[
-        "Xhakarta"
+    "name:sqi_x_preferred": [
+      "Xhakarta"
     ],
-    "name:srn_x_preferred":[
-        "Jakarta"
+    "name:srn_x_preferred": [
+      "Jakarta"
     ],
-    "name:srp_x_preferred":[
-        "\u040f\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:srp_x_preferred": [
+      "Џакарта"
     ],
-    "name:sun_x_preferred":[
-        "Jakarta"
+    "name:sun_x_preferred": [
+      "Jakarta"
     ],
-    "name:swa_x_preferred":[
-        "Jakarta"
+    "name:swa_x_preferred": [
+      "Jakarta"
     ],
-    "name:swe_x_preferred":[
-        "Jakarta"
+    "name:swe_x_preferred": [
+      "Jakarta"
     ],
-    "name:szl_x_preferred":[
-        "D\u017cakarta"
+    "name:szl_x_preferred": [
+      "Dżakarta"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9c\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    "name:tam_x_preferred": [
+      "ஜகார்த்தா"
     ],
-    "name:tat_x_preferred":[
-        "Cakarta"
+    "name:tat_x_preferred": [
+      "Cakarta"
     ],
-    "name:tel_x_preferred":[
-        "\u0c1c\u0c15\u0c3e\u0c30\u0c4d\u0c24\u0c3e"
+    "name:tel_x_preferred": [
+      "జకార్తా"
     ],
-    "name:tet_x_preferred":[
-        "Jakarta"
+    "name:tet_x_preferred": [
+      "Jakarta"
     ],
-    "name:tgk_x_preferred":[
-        "\u04b6\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:tgk_x_preferred": [
+      "Ҷакарта"
     ],
-    "name:tgl_x_preferred":[
-        "Jakarta"
+    "name:tgl_x_preferred": [
+      "Jakarta"
     ],
-    "name:tha_x_preferred":[
-        "\u0e08\u0e32\u0e01\u0e32\u0e23\u0e4c\u0e15\u0e32"
+    "name:tha_x_preferred": [
+      "จาการ์ตา"
     ],
-    "name:tuk_x_preferred":[
-        "Jakarta"
+    "name:tuk_x_preferred": [
+      "Jakarta"
     ],
-    "name:tur_x_preferred":[
-        "Cakarta"
+    "name:tur_x_preferred": [
+      "Cakarta"
     ],
-    "name:twi_x_preferred":[
-        "Jakarta"
+    "name:twi_x_preferred": [
+      "Jakarta"
     ],
-    "name:uig_x_preferred":[
-        "\u062c\u0627\u0643\u0627\u0631\u062a\u0627"
+    "name:uig_x_preferred": [
+      "جاكارتا"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    "name:ukr_x_preferred": [
+      "Джакарта"
     ],
-    "name:und_x_preferred":[
-        "Jakarta Raya"
+    "name:und_x_preferred": [
+      "Jakarta Raya"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u06a9\u0627\u0631\u062a\u06c1"
+    "name:urd_x_preferred": [
+      "جکارتہ"
     ],
-    "name:uzb_x_preferred":[
-        "Jakarta"
+    "name:uzb_x_preferred": [
+      "Jakarta"
     ],
-    "name:vec_x_preferred":[
-        "Xacarta"
+    "name:vec_x_preferred": [
+      "Xacarta"
     ],
-    "name:vep_x_preferred":[
-        "D\u017eakart"
+    "name:vep_x_preferred": [
+      "Džakart"
     ],
-    "name:vie_x_preferred":[
-        "Jakarta"
+    "name:vie_x_preferred": [
+      "Jakarta"
     ],
-    "name:vol_x_preferred":[
-        "Jakarta"
+    "name:vol_x_preferred": [
+      "Jakarta"
     ],
-    "name:war_x_preferred":[
-        "Jakarta"
+    "name:war_x_preferred": [
+      "Jakarta"
     ],
-    "name:wuu_x_preferred":[
-        "\u96c5\u52a0\u9054"
+    "name:wuu_x_preferred": [
+      "雅加達"
     ],
-    "name:xmf_x_preferred":[
-        "\u10ef\u10d0\u10d9\u10d0\u10e0\u10e2\u10d0"
+    "name:xmf_x_preferred": [
+      "ჯაკარტა"
     ],
-    "name:yid_x_preferred":[
-        "\u05d3\u05d6\u05e9\u05d0\u05e7\u05d0\u05e8\u05d8\u05d0"
+    "name:yid_x_preferred": [
+      "דזשאקארטא"
     ],
-    "name:yor_x_preferred":[
-        "Jakarta"
+    "name:yor_x_preferred": [
+      "Jakarta"
     ],
-    "name:yue_x_preferred":[
-        "\u8036\u52a0\u9054"
+    "name:yue_x_preferred": [
+      "耶加達"
     ],
-    "name:zha_x_preferred":[
-        "Yajgyadaz"
+    "name:zha_x_preferred": [
+      "Yajgyadaz"
     ],
-    "name:zho_x_preferred":[
-        "\u96c5\u52a0\u8fbe"
+    "name:zho_x_preferred": [
+      "雅加达"
     ],
-    "qs:a0":"Indonesia",
-    "qs:a1":"*Jakarta Raya",
-    "qs:a1r":"*",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Daerah Khusus Ibukota Jakarta",
-    "qs:loc_alt":"Jakarta Raya",
-    "qs:loc_lc":"1642907",
-    "qs:pop":0,
-    "qs:source":"Nquattroshapes",
-    "qs:type":"State",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632203,
-        85672001,
-        102072841
+    "qs:a0": "Indonesia",
+    "qs:a1": "*Jakarta Raya",
+    "qs:a1r": "*",
+    "qs:id": 0,
+    "qs:la_lc": "*",
+    "qs:level": "locality",
+    "qs:loc": "Daerah Khusus Ibukota Jakarta",
+    "qs:loc_alt": "Jakarta Raya",
+    "qs:loc_lc": "1642907",
+    "qs:pop": 0,
+    "qs:source": "Nquattroshapes",
+    "qs:type": "State",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl:centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      102191569,
+      85632203,
+      85672001,
+      102072841
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fct:id":"116865ec-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":1642907,
-        "gp:id":2345713,
-        "loc:id":"n80073867",
-        "wd:id":"Q3630",
-        "wk:page":"Jakarta"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fct:id": "116865ec-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 1642907,
+      "gp:id": 2345713,
+      "loc:id": "n80073867",
+      "wd:id": "Q3630",
+      "wk:page": "Jakarta"
     },
-    "wof:country":"ID",
-    "wof:geomhash":"aa86bb8b82996ebf18d2998264049c5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102072841,
-            "locality_id":102020435,
-            "region_id":85672001
-        }
+    "wof:country": "ID",
+    "wof:created": 1624906904,
+    "wof:geomhash": "aa86bb8b82996ebf18d2998264049c5b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632203,
+        "county_id": 102072841,
+        "locality_id": 102020435,
+        "region_id": 85672001
+      }
     ],
-    "wof:id":102020435,
-    "wof:lastmodified":1611601237,
-    "wof:name":"Daerah Khusus Ibukota Jakarta",
-    "wof:parent_id":102072841,
-    "wof:placetype":"locality",
-    "wof:population":9953016,
-    "wof:population_rank":13,
-    "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 102020435,
+    "wof:lastmodified": 1624906904,
+    "wof:name": "Daerah Khusus Ibukota Jakarta",
+    "wof:parent_id": 102072841,
+    "wof:placetype": "locality",
+    "wof:population": 9953016,
+    "wof:population_rank": 13,
+    "wof:repo": "whosonfirst-data-admin-id",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.774071,
     -6.210186,
     106.777496,
     -6.205408
-],
-  "geometry": {"coordinates":[[[106.776123,-6.210186],[106.776107,-6.210186],[106.77475,-6.208821],[106.77407100000001,-6.208138],[106.77475,-6.207456],[106.77475,-6.20609],[106.77475,-6.205408],[106.776123,-6.205408],[106.77658599999999,-6.205641],[106.77681,-6.20609],[106.77681,-6.206765],[106.777496,-6.207456],[106.777496,-6.208821],[106.777496,-6.210186],[106.776123,-6.210186]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[106.776123,-6.210186],[106.776107,-6.210186],[106.77475,-6.208821],[106.774071,-6.208138],[106.77475,-6.207456],[106.77475,-6.20609],[106.77475,-6.205408],[106.776123,-6.205408],[106.776586,-6.205641],[106.77681,-6.20609],[106.77681,-6.206765],[106.777496,-6.207456],[106.777496,-6.208821],[106.777496,-6.210186],[106.776123,-6.210186]]],"type":"Polygon"}
 }

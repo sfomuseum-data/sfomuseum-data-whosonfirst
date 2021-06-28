@@ -2,333 +2,334 @@
   "id": 85672493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.065703,
-    "geom:area_square_m":354437459.72527,
-    "geom:bbox":"-22.124176,64.00145,-21.606052,64.275673",
-    "geom:latitude":64.135021,
-    "geom:longitude":-21.815048,
-    "gp:id":0,
-    "iso:country":"IS",
-    "label:eng_x_preferred_longname":[
-        "Reykjav\u00edk Region"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.06570255145649996,
+    "geom:area_square_m": 354437459.72527,
+    "geom:bbox": "-22.124176,64.001450,-21.606052,64.275673",
+    "geom:latitude": 64.13502121033123,
+    "geom:longitude": -21.815047885351156,
+    "gp:id": 0,
+    "iso:country": "IS",
+    "label:eng_x_preferred_longname": [
+      "Reykjavík Region"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NE"
+    "label:eng_x_preferred_shortcode": [
+      "NE"
     ],
-    "lbl:latitude":64.09518,
-    "lbl:longitude":-21.861966,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":64.09518,
-    "mps:longitude":-21.861966,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":6.0,
-    "name:ara_x_preferred":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+    "lbl:latitude": 64.09518,
+    "lbl:longitude": -21.861966,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 64.09518,
+    "mps:longitude": -21.861966,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 6,
+    "name:ara_x_preferred": [
+      "إقليم العاصمة"
     ],
-    "name:aze_x_preferred":[
-        "H\u00f6v\u00fcdborqarsvaydid"
+    "name:aze_x_preferred": [
+      "Hövüdborqarsvaydid"
     ],
-    "name:bel_x_preferred":[
-        "\u0425\u0451\u0432\u044e\u0434\u0431\u0430\u0440\u0433\u0430\u0440\u0441\u0432\u0430\u0439\u0434\u044b\u0434"
+    "name:bel_x_preferred": [
+      "Хёвюдбаргарсвайдыд"
     ],
-    "name:ben_x_preferred":[
-        "\u0995\u09be\u09c7\u09aa\u09bf\u099f\u09be\u09b2 \u0985\u099e\u09cd\u099a\u09b2"
+    "name:ben_x_preferred": [
+      "কােপিটাল অঞ্চল"
     ],
-    "name:bre_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:bre_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:cat_x_preferred":[
-        "Gran Reykjavik"
+    "name:cat_x_preferred": [
+      "Gran Reykjavik"
     ],
-    "name:ceb_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:ceb_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:ces_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:ces_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:cym_x_preferred":[
-        "Reykjav\u00edk Fawr"
+    "name:cym_x_preferred": [
+      "Reykjavík Fawr"
     ],
-    "name:dan_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:dan_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:deu_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:deu_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:ell_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03af\u03b1\u03c2"
+    "name:ell_x_preferred": [
+      "Περιφέρεια Πρωτεύουσας της Ισλανδίας"
     ],
-    "name:eng_x_preferred":[
-        "Capital Region"
+    "name:eng_x_preferred": [
+      "Capital Region"
     ],
-    "name:epo_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:epo_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:epo_x_variant":[
-        "\u0108efurba Regiono"
+    "name:epo_x_variant": [
+      "Ĉefurba Regiono"
     ],
-    "name:est_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:est_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:eus_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:eus_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:fas_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0627\u06cc\u062a\u062e\u062a \u0627\u06cc\u0633\u0644\u0646\u062f"
+    "name:fas_x_preferred": [
+      "منطقه پایتخت ایسلند"
     ],
-    "name:fin_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:fin_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:fra_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:fra_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:gle_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:gle_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:glg_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:glg_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:guj_x_preferred":[
-        "\u0a95\u0ac7\u0aaa\u0abf\u0a9f\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    "name:guj_x_preferred": [
+      "કેપિટલ પ્રદેશ"
     ],
-    "name:hin_x_preferred":[
-        "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    "name:hin_x_preferred": [
+      "राजधानी क्षेत्र"
     ],
-    "name:hun_x_preferred":[
-        "Nagy-Reykjav\u00edk"
+    "name:hun_x_preferred": [
+      "Nagy-Reykjavík"
     ],
-    "name:hye_x_preferred":[
-        "\u0540\u0575\u0578\u057e\u0575\u0578\u0582\u0564\u0562\u0578\u0580\u0563\u0561\u0580\u057d\u057e\u0561\u0575\u0564\u056b\u0564"
+    "name:hye_x_preferred": [
+      "Հյովյուդբորգարսվայդիդ"
     ],
-    "name:ind_x_preferred":[
-        "Wilayah Reykjav\u00edk Raya"
+    "name:ind_x_preferred": [
+      "Wilayah Reykjavík Raya"
     ],
-    "name:isl_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:isl_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:ita_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:ita_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:jpn_x_preferred":[
-        "\u5927\u30ec\u30a4\u30ad\u30e3\u30f4\u30a3\u30fc\u30af"
+    "name:jpn_x_preferred": [
+      "大レイキャヴィーク"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb0\u0cbe\u0c9c\u0ca7\u0cbe\u0ca8\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    "name:kan_x_preferred": [
+      "ರಾಜಧಾನಿ ಪ್ರದೇಶ"
     ],
-    "name:kat_x_preferred":[
-        "\u10f0\u10d8\u10dd\u10d5\u10d8\u10e3\u10d3\u10d1\u10dd\u10e0\u10d2\u10d0\u10e0\u10e1\u10d5\u10d0\u10d8\u10d3\u10d8\u10d3\u10d8"
+    "name:kat_x_preferred": [
+      "ჰიოვიუდბორგარსვაიდიდი"
     ],
-    "name:kor_x_preferred":[
-        "\ud68c\ubdd4\ub4dc\ubcf4\ub974\uac00\ub974\uc2a4\ubc14\uc774\ub514"
+    "name:kor_x_preferred": [
+      "회뷔드보르가르스바이디"
     ],
-    "name:lat_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    "name:lat_x_preferred": [
+      "Höfuðborgarsvæðið"
     ],
-    "name:lav_x_preferred":[
-        "Galvaspils\u0113tas re\u0123ions"
+    "name:lav_x_preferred": [
+      "Galvaspilsētas reģions"
     ],
-    "name:lit_x_preferred":[
-        "Sostin\u0117s regionas"
+    "name:lit_x_preferred": [
+      "Sostinės regionas"
     ],
-    "name:mar_x_preferred":[
-        "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    "name:mar_x_preferred": [
+      "राजधानी प्रदेश"
     ],
-    "name:mkd_x_preferred":[
-        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0441\u043a\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
+    "name:mkd_x_preferred": [
+      "Престолнински регион"
     ],
-    "name:msa_x_preferred":[
-        "Capital Region"
+    "name:msa_x_preferred": [
+      "Capital Region"
     ],
-    "name:nan_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    "name:nan_x_preferred": [
+      "Höfuðborgarsvæði"
     ],
-    "name:nld_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
-    ],
-    "name:nob_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
-    ],
-    "name:pol_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
-    ],
-    "name:por_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
-    ],
-    "name:rus_x_preferred":[
-        "\u0425\u0451\u0432\u044e\u0434\u0431\u043e\u0440\u0433\u0430\u0440\u0441\u0432\u0430\u0439\u0434\u0438\u0434"
-    ],
-    "name:sco_x_preferred":[
-        "Greater Reykjav\u00edk Aurie"
-    ],
-    "name:sin_x_preferred":[
-        "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
-    ],
-    "name:sme_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
-    ],
-    "name:spa_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
-    ],
-    "name:sqi_x_preferred":[
-        "Rajoni i Kryeqytetit"
-    ],
-    "name:srp_x_preferred":[
-        "\u0420\u0435\u0458\u043a\u0458\u0430\u0432\u0438\u043a"
-    ],
-    "name:swe_x_preferred":[
-        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
-    ],
-    "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
-    ],
-    "name:tel_x_preferred":[
-        "\u0c15\u0c4d\u0c2f\u0c3e\u0c2a\u0c3f\u0c1f\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
-    ],
-    "name:tha_x_preferred":[
-        "\u0e04\u0e32\u0e1b\u0e34\u0e17\u0e2d\u0e25"
-    ],
-    "name:tur_x_preferred":[
-        "Ba\u015fkent B\u00f6lgesi"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0413\u0435\u0444\u044e\u0434\u0431\u043e\u0440\u0491\u0430\u0440\u0441\u0432\u0430\u0439\u0434\u0456\u0434"
-    ],
-    "name:urd_x_preferred":[
-        "\u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0639\u0644\u0627\u0642\u06c1"
-    ],
-    "name:vie_x_preferred":[
-        "Khu v\u1ef1c Th\u1ee7 \u0111\u00f4"
-    ],
-    "name:xmf_x_preferred":[
-        "\u10f0\u10d8\u10dd\u10d5\u10e3\u10d3\u10d1\u10dd\u10e0\u10d2\u10d0\u10e0\u10e1\u10d5\u10d0\u10d8\u10d3\u10d8\u10d3\u10d8"
-    ],
-    "name:zho_x_preferred":[
-        "\u5927\u96f7\u514b\u96c5\u672a\u514b\u533a"
-    ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"ISL",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"ISL-5131",
-    "ne:adm1_code":"ISL-5131",
-    "ne:admin":"Iceland",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"IS.NE",
-    "ne:code_local":"",
-    "ne:datarank":"8",
-    "ne:diss_me":"5131",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"IC32",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Iceland",
-    "ne:gn_a1_code":"IS.39",
-    "ne:gn_id":"3426182",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Hofudborgarsvadi",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"0",
-    "ne:gns_lang":"",
-    "ne:gns_level":"0",
-    "ne:gns_name":"",
-    "ne:gns_region":"",
-    "ne:gu_a3":"ISL",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"IS-",
-    "ne:iso_a2":"IS",
-    "ne:labelrank":"8",
-    "ne:latitude":"64.08280000000",
-    "ne:longitude":"-21.86460000000",
-    "ne:mapcolor13":9,
-    "ne:mapcolor9":4,
-    "ne:name":"Reykjav\u00edk",
-    "ne:name_alt":"",
-    "ne:name_len":9,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"NE",
-    "ne:provnum_ne":"3",
-    "ne:region":"",
-    "ne:region_cod":"IS.NE",
-    "ne:region_sub":"Reykjav\u00edk",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"8",
-    "ne:sov_a3":"ISL",
-    "ne:sub_code":"IC40",
-    "ne:type":"Landsv\u00e6\u00f0i",
-    "ne:type_en":"Region",
-    "ne:wikipedia":"",
-    "ne:woe_id":-99,
-    "ne:woe_label":"",
-    "ne:woe_name":"",
-    "qs:a0":"Iceland",
-    "qs:a0_lc":"IS",
-    "qs:a1":"Reykjav\u00edk",
-    "qs:a1_lc":"ISL-5131",
-    "qs:a1r_lc":"IS.NE",
-    "qs:adm0":"Iceland",
-    "qs:adm0_a3":"ISL",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Region",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "unlc:subdivision":"IS-0",
-    "wd:wordcount":4363,
-    "wof:belongsto":[
-        102191581,
-        85633249
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"IC32",
-        "gn:id":3426182,
-        "gp:id":-99,
-        "hasc:id":"IS.NE",
-        "unlc:id":"IS-0",
-        "wd:id":"Q203304"
+    "name:nld_x_preferred": [
+      "Höfuðborgarsvæðið"
+    ],
+    "name:nob_x_preferred": [
+      "Höfuðborgarsvæðið"
+    ],
+    "name:pol_x_preferred": [
+      "Höfuðborgarsvæðið"
+    ],
+    "name:por_x_preferred": [
+      "Höfuðborgarsvæði"
+    ],
+    "name:rus_x_preferred": [
+      "Хёвюдборгарсвайдид"
+    ],
+    "name:sco_x_preferred": [
+      "Greater Reykjavík Aurie"
+    ],
+    "name:sin_x_preferred": [
+      "ප්‍රධාන කලාපය"
+    ],
+    "name:sme_x_preferred": [
+      "Höfuðborgarsvæðið"
+    ],
+    "name:spa_x_preferred": [
+      "Höfuðborgarsvæði"
+    ],
+    "name:sqi_x_preferred": [
+      "Rajoni i Kryeqytetit"
+    ],
+    "name:srp_x_preferred": [
+      "Рејкјавик"
+    ],
+    "name:swe_x_preferred": [
+      "Höfuðborgarsvæðið"
+    ],
+    "name:tam_x_preferred": [
+      "கேப்பிடல் பகுதி"
+    ],
+    "name:tel_x_preferred": [
+      "క్యాపిటల్ ప్రాంతం"
+    ],
+    "name:tha_x_preferred": [
+      "คาปิทอล"
+    ],
+    "name:tur_x_preferred": [
+      "Başkent Bölgesi"
+    ],
+    "name:ukr_x_preferred": [
+      "Гефюдборґарсвайдід"
+    ],
+    "name:urd_x_preferred": [
+      "دارالحکومت علاقہ"
+    ],
+    "name:vie_x_preferred": [
+      "Khu vực Thủ đô"
+    ],
+    "name:xmf_x_preferred": [
+      "ჰიოვუდბორგარსვაიდიდი"
+    ],
+    "name:zho_x_preferred": [
+      "大雷克雅未克区"
+    ],
+    "ne:abbrev": "",
+    "ne:adm0_a3": "ISL",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "ISL-5131",
+    "ne:adm1_code": "ISL-5131",
+    "ne:admin": "Iceland",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "IS.NE",
+    "ne:code_local": "",
+    "ne:datarank": "8",
+    "ne:diss_me": "5131",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "IC32",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Iceland",
+    "ne:gn_a1_code": "IS.39",
+    "ne:gn_id": "3426182",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Hofudborgarsvadi",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "0",
+    "ne:gns_lang": "",
+    "ne:gns_level": "0",
+    "ne:gns_name": "",
+    "ne:gns_region": "",
+    "ne:gu_a3": "ISL",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "IS-",
+    "ne:iso_a2": "IS",
+    "ne:labelrank": "8",
+    "ne:latitude": "64.08280000000",
+    "ne:longitude": "-21.86460000000",
+    "ne:mapcolor13": 9,
+    "ne:mapcolor9": 4,
+    "ne:name": "Reykjavík",
+    "ne:name_alt": "",
+    "ne:name_len": 9,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "NE",
+    "ne:provnum_ne": "3",
+    "ne:region": "",
+    "ne:region_cod": "IS.NE",
+    "ne:region_sub": "Reykjavík",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "8",
+    "ne:sov_a3": "ISL",
+    "ne:sub_code": "IC40",
+    "ne:type": "Landsvæði",
+    "ne:type_en": "Region",
+    "ne:wikipedia": "",
+    "ne:woe_id": -99,
+    "ne:woe_label": "",
+    "ne:woe_name": "",
+    "qs:a0": "Iceland",
+    "qs:a0_lc": "IS",
+    "qs:a1": "Reykjavík",
+    "qs:a1_lc": "ISL-5131",
+    "qs:a1r_lc": "IS.NE",
+    "qs:adm0": "Iceland",
+    "qs:adm0_a3": "ISL",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Region",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "unlc:subdivision": "IS-0",
+    "wd:wordcount": 4363,
+    "wof:belongsto": [
+      102191581,
+      85633249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "IC32",
+      "gn:id": 3426182,
+      "gp:id": -99,
+      "hasc:id": "IS.NE",
+      "unlc:id": "IS-0",
+      "wd:id": "Q203304"
     },
-    "wof:country":"IS",
-    "wof:geomhash":"3ef2c1089abda8c93aa7d8db4b1fc5c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633249,
-            "region_id":85672493
-        }
+    "wof:country": "IS",
+    "wof:created": 1624906862,
+    "wof:geomhash": "3ef2c1089abda8c93aa7d8db4b1fc5c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633249,
+        "region_id": 85672493
+      }
     ],
-    "wof:id":85672493,
-    "wof:lang_x_official":[
-        "isl"
+    "wof:id": 85672493,
+    "wof:lang_x_official": [
+      "isl"
     ],
-    "wof:lang_x_spoken":[
-        "isl"
+    "wof:lang_x_spoken": [
+      "isl"
     ],
-    "wof:lastmodified":1611601082,
-    "wof:name":"Reykjav\u00edk",
-    "wof:parent_id":85633249,
-    "wof:placetype":"region",
-    "wof:repo":"whosonfirst-data-admin-is",
-    "wof:shortcode":"NE",
-    "wof:subdivision":"IS-0",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906862,
+    "wof:name": "Reykjavík",
+    "wof:parent_id": 85633249,
+    "wof:placetype": "region",
+    "wof:repo": "whosonfirst-data-admin-is",
+    "wof:shortcode": "NE",
+    "wof:subdivision": "IS-0",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -22.124176,
     64.00145,
     -21.606052,
     64.275673
-],
-  "geometry": {"coordinates":[[[[-21.832753,64.159735],[-21.842112,64.15676499999999],[-21.852366,64.161404],[-21.858713,64.164089],[-21.862335,64.16832100000001],[-21.867991,64.171291],[-21.875885,64.174628],[-21.867055,64.178575],[-21.855865,64.17475],[-21.853749,64.170356],[-21.842193,64.165798],[-21.832753,64.159735]]],[[[-21.61588,64.257245],[-21.606052,64.18598799999999],[-21.655195,64.081559],[-21.837023,64.04715899999999],[-21.9303,64.00406],[-22.035574,64.00145000000001],[-22.124176,64.043891],[-22.040679,64.05109299999999],[-22.01358,64.05927200000001],[-21.990102,64.076117],[-21.981679,64.07038],[-21.975168,64.069281],[-21.96935,64.071479],[-21.963368,64.076117],[-21.963368,64.082261],[-21.980621,64.090237],[-22.00475,64.097724],[-22.028635,64.10102000000001],[-22.045318,64.09658399999999],[-22.034901,64.11273799999999],[-22.010121,64.120592],[-21.982493,64.12164900000001],[-21.963368,64.117092],[-21.971262,64.116034],[-21.990102,64.109565],[-21.971995,64.105373],[-21.951772,64.10423400000001],[-21.931996,64.105902],[-21.915028,64.109565],[-21.915028,64.117092],[-21.935455,64.117092],[-21.921254,64.122626],[-21.915028,64.12392800000001],[-21.977162,64.149156],[-22.010854,64.15705],[-22.045318,64.15802600000001],[-22.015126,64.16828],[-21.864858,64.156317],[-21.857533,64.152289],[-21.852447,64.14769099999999],[-21.846669,64.144355],[-21.815582,64.136623],[-21.799672,64.13727400000001],[-21.784657,64.144355],[-21.796051,64.14345899999999],[-21.806752,64.14398799999999],[-21.816803,64.14646999999999],[-21.826243,64.15119],[-21.81432,64.158922],[-21.806874,64.162177],[-21.798248,64.164862],[-21.818756,64.17169800000001],[-21.792836,64.175971],[-21.757476,64.171088],[-21.744049,64.171251],[-21.723785,64.171454],[-21.702748,64.19155499999999],[-21.737416,64.182847],[-21.756093,64.18178899999999],[-21.76415,64.188422],[-21.757232,64.200344],[-21.7412,64.20628499999999],[-21.709584,64.213202],[-21.729726,64.218817],[-21.759999,64.220404],[-21.790761,64.218411],[-21.812652,64.213202],[-21.806467,64.230211],[-21.81786,64.237982],[-21.837717,64.240058],[-21.865712,64.239569],[-21.875111,64.238105],[-21.883941,64.235175],[-21.891103,64.230373],[-21.928619,64.233791],[-21.899281,64.24494],[-21.889556,64.253119],[-21.894521,64.26788999999999],[-21.875643,64.273719],[-21.73628,64.275673],[-21.61588,64.257245]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-21.832753,64.159735],[-21.842112,64.156765],[-21.852366,64.161404],[-21.858713,64.164089],[-21.862335,64.168321],[-21.867991,64.171291],[-21.875885,64.174628],[-21.867055,64.178575],[-21.855865,64.17475],[-21.853749,64.170356],[-21.842193,64.165798],[-21.832753,64.159735]]],[[[-21.61588,64.257245],[-21.606052,64.185988],[-21.655195,64.081559],[-21.837023,64.047159],[-21.9303,64.00406],[-22.035574,64.00145],[-22.124176,64.043891],[-22.040679,64.051093],[-22.01358,64.059272],[-21.990102,64.076117],[-21.981679,64.07038],[-21.975168,64.069281],[-21.96935,64.071479],[-21.963368,64.076117],[-21.963368,64.082261],[-21.980621,64.090237],[-22.00475,64.097724],[-22.028635,64.10102],[-22.045318,64.096584],[-22.034901,64.112738],[-22.010121,64.120592],[-21.982493,64.121649],[-21.963368,64.117092],[-21.971262,64.116034],[-21.990102,64.109565],[-21.971995,64.105373],[-21.951772,64.104234],[-21.931996,64.105902],[-21.915028,64.109565],[-21.915028,64.117092],[-21.935455,64.117092],[-21.921254,64.122626],[-21.915028,64.123928],[-21.977162,64.149156],[-22.010854,64.15705],[-22.045318,64.158026],[-22.015126,64.16828],[-21.864858,64.156317],[-21.857533,64.152289],[-21.852447,64.147691],[-21.846669,64.144355],[-21.815582,64.136623],[-21.799672,64.137274],[-21.784657,64.144355],[-21.796051,64.143459],[-21.806752,64.143988],[-21.816803,64.14647],[-21.826243,64.15119],[-21.81432,64.158922],[-21.806874,64.162177],[-21.798248,64.164862],[-21.818756,64.171698],[-21.792836,64.175971],[-21.757476,64.171088],[-21.744049,64.171251],[-21.723785,64.171454],[-21.702748,64.191555],[-21.737416,64.182847],[-21.756093,64.181789],[-21.76415,64.188422],[-21.757232,64.200344],[-21.7412,64.206285],[-21.709584,64.213202],[-21.729726,64.218817],[-21.759999,64.220404],[-21.790761,64.218411],[-21.812652,64.213202],[-21.806467,64.230211],[-21.81786,64.237982],[-21.837717,64.240058],[-21.865712,64.239569],[-21.875111,64.238105],[-21.883941,64.235175],[-21.891103,64.230373],[-21.928619,64.233791],[-21.899281,64.24494],[-21.889556,64.253119],[-21.894521,64.26789],[-21.875643,64.273719],[-21.73628,64.275673],[-21.61588,64.257245]]]],"type":"MultiPolygon"}
 }

@@ -2,134 +2,135 @@
   "id": 102526247,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1927-01-01",
-    "date:inception_upper":"1927-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1927",
-    "geom:area":0.000369,
-    "geom:area_square_m":3554005.704355,
-    "geom:bbox":"-104.728172,38.759438,-104.672844,38.809551",
-    "geom:latitude":38.784142,
-    "geom:longitude":-104.697193,
-    "iso:country":"US",
-    "lbl:latitude":38.773626,
-    "lbl:longitude":-104.689858,
-    "mps:latitude":38.773626,
-    "mps:longitude":-104.689858,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Colorado Springs Airport"
+    "date:inception_lower": "1927-01-01",
+    "date:inception_upper": "1927-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1927",
+    "geom:area": 0.00036871620149996987,
+    "geom:area_square_m": 3554005.704355,
+    "geom:bbox": "-104.728172,38.759438,-104.672844,38.809551",
+    "geom:latitude": 38.784142024612954,
+    "geom:longitude": -104.69719292494186,
+    "iso:country": "US",
+    "lbl:latitude": 38.773626,
+    "lbl:longitude": -104.689858,
+    "mps:latitude": 38.773626,
+    "mps:longitude": -104.689858,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Colorado Springs Airport"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Colorado Springs"
+    "name:deu_x_preferred": [
+      "Flughafen Colorado Springs"
     ],
-    "name:eng_x_preferred":[
-        "City of Colorado Springs Airport"
+    "name:eng_x_preferred": [
+      "City of Colorado Springs Airport"
     ],
-    "name:eng_x_variant":[
-        "COS",
-        "KCOS",
-        "Colorado Springs Airport"
+    "name:eng_x_variant": [
+      "COS",
+      "KCOS",
+      "Colorado Springs Airport"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Municipale di Colorado Springs"
+    "name:ita_x_preferred": [
+      "Aeroporto Municipale di Colorado Springs"
     ],
-    "name:mar_x_preferred":[
-        "\u0915\u0949\u0932\u094b\u0930\u093e\u0921\u094b \u0938\u094d\u092a\u094d\u0930\u093f\u0902\u0917\u094d\u091c \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "कॉलोराडो स्प्रिंग्ज विमानतळ"
     ],
-    "name:nav_x_preferred":[
-        "T\u00f3 H\u00e1\u00e1l\u012f\u0301 Hatsohdi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    "name:nav_x_preferred": [
+      "Tó Háálį́ Hatsohdi chidí naatʼaʼí ńdinibįįhígi"
     ],
-    "name:nld_x_preferred":[
-        "Colorado Springs Airport"
+    "name:nld_x_preferred": [
+      "Colorado Springs Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Colorado Springs"
+    "name:pol_x_preferred": [
+      "Port lotniczy Colorado Springs"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Colorado Springs"
+    "name:ron_x_preferred": [
+      "Aeroportul Colorado Springs"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto de Colorado Springs"
+    "name:spa_x_preferred": [
+      "Aeropuerto de Colorado Springs"
     ],
-    "name:urd_x_preferred":[
-        "\u0627\u06cc\u0645 \u0628\u06cc \u0627\u06cc\u0633 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "ایم بی ایس انٹرنیشنل ایئرپورٹ"
     ],
-    "name:urd_x_variant":[
-        "\u06a9\u0648\u0644\u0648\u0631\u0627\u0688\u0648 \u0633\u067e\u0631\u0646\u06af\u0632 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_variant": [
+      "کولوراڈو سپرنگز ہوائی اڈا"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay Colorado Springs"
+    "name:vie_x_preferred": [
+      "Sân bay Colorado Springs"
     ],
-    "name:zho_x_preferred":[
-        "\u79d1\u7f85\u62c9\u591a\u6cc9\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "科羅拉多泉機場"
     ],
-    "oa:elevation_ft":"6187",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":226,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Colorado Springs Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":1042,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587747,
-        "planet_id":1,
-        "state_id":2347564,
-        "suburb_id":55806473
+    "oa:elevation_ft": "6187",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 226,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Colorado Springs Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 1042,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587747,
+      "planet_id": 1,
+      "state_id": 2347564,
+      "suburb_id": 55806473
     },
-    "wof:belongsto":[
-        85688603,
-        102191575,
-        85633793,
-        85929457,
-        102086875
+    "wof:belongsto": [
+      85688603,
+      102191575,
+      85633793,
+      85929457,
+      102086875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"COS",
-        "gp:id":12519208,
-        "iata:code":"COS",
-        "icao:code":"KCOS",
-        "oa:id":"3463",
-        "wd:id":"Q969087",
-        "wk:page":"Colorado_Springs_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "COS",
+      "gp:id": 12519208,
+      "iata:code": "COS",
+      "icao:code": "KCOS",
+      "oa:id": "3463",
+      "wd:id": "Q969087",
+      "wk:page": "Colorado_Springs_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8933c11ab332a48ea566acea6d96443f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102526247,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086875,
-            "locality_id":85929457,
-            "region_id":85688603
-        }
+    "wof:country": "US",
+    "wof:created": 1624906905,
+    "wof:geomhash": "8933c11ab332a48ea566acea6d96443f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102526247,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086875,
+        "locality_id": 85929457,
+        "region_id": 85688603
+      }
     ],
-    "wof:id":102526247,
-    "wof:lastmodified":1611601240,
-    "wof:name":"City of Colorado Springs Airport",
-    "wof:parent_id":85929457,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102526247,
+    "wof:lastmodified": 1624906905,
+    "wof:name": "City of Colorado Springs Airport",
+    "wof:parent_id": 85929457,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -104.728172,
     38.759438,
     -104.672844,
     38.809551
-],
-  "geometry": {"coordinates":[[[[-104.72616600000001,38.806355],[-104.728172,38.806602],[-104.726608,38.807167],[-104.72065000000001,38.808647],[-104.71901699999999,38.809551],[-104.720016,38.806194],[-104.71721599999999,38.799984],[-104.72296900000001,38.806271],[-104.72616600000001,38.806355]]],[[[-104.71721599999999,38.799984],[-104.70433800000001,38.798981],[-104.703003,38.801334],[-104.700706,38.800011],[-104.693871,38.798981],[-104.69506800000001,38.796776],[-104.697334,38.794334],[-104.699532,38.793095],[-104.701691,38.781212],[-104.70433800000001,38.791691],[-104.71199799999999,38.795502],[-104.71721599999999,38.799984]]],[[[-104.701691,38.781212],[-104.690674,38.778954],[-104.682365,38.78072],[-104.672844,38.781143],[-104.684601,38.776569],[-104.684601,38.766933],[-104.685974,38.759438],[-104.689148,38.763386],[-104.688889,38.767536],[-104.699623,38.774059],[-104.701691,38.781212]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-104.726166,38.806355],[-104.728172,38.806602],[-104.726608,38.807167],[-104.72065,38.808647],[-104.719017,38.809551],[-104.720016,38.806194],[-104.717216,38.799984],[-104.722969,38.806271],[-104.726166,38.806355]]],[[[-104.717216,38.799984],[-104.704338,38.798981],[-104.703003,38.801334],[-104.700706,38.800011],[-104.693871,38.798981],[-104.695068,38.796776],[-104.697334,38.794334],[-104.699532,38.793095],[-104.701691,38.781212],[-104.704338,38.791691],[-104.711998,38.795502],[-104.717216,38.799984]]],[[[-104.701691,38.781212],[-104.690674,38.778954],[-104.682365,38.78072],[-104.672844,38.781143],[-104.684601,38.776569],[-104.684601,38.766933],[-104.685974,38.759438],[-104.689148,38.763386],[-104.688889,38.767536],[-104.699623,38.774059],[-104.701691,38.781212]]]],"type":"MultiPolygon"}
 }

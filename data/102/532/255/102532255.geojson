@@ -2,150 +2,151 @@
   "id": 102532255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000067,
-    "geom:area_square_m":633820.587152,
-    "geom:bbox":"-82.89344,39.993824,-82.879486,40.002998",
-    "geom:latitude":39.998519,
-    "geom:longitude":-82.885217,
-    "gn:elevation":248,
-    "iso:country":"US",
-    "lbl:latitude":39.999443,
-    "lbl:longitude":-82.885217,
-    "mps:latitude":39.999443,
-    "mps:longitude":-82.885217,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:deu_x_preferred":[
-        "Flughafen Port Columbus International"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.00006691172150000159,
+    "geom:area_square_m": 633820.587152,
+    "geom:bbox": "-82.893440,39.993824,-82.879486,40.002998",
+    "geom:latitude": 39.99851873479022,
+    "geom:longitude": -82.8852167805985,
+    "gn:elevation": 248,
+    "iso:country": "US",
+    "lbl:latitude": 39.999443,
+    "lbl:longitude": -82.885217,
+    "mps:latitude": 39.999443,
+    "mps:longitude": -82.885217,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:deu_x_preferred": [
+      "Flughafen Port Columbus International"
     ],
-    "name:eng_x_preferred":[
-        "Port Columbus International Airport"
+    "name:eng_x_preferred": [
+      "Port Columbus International Airport"
     ],
-    "name:eng_x_variant":[
-        "CMH",
-        "KCMH",
-        "John Glenn Columbus International Airport"
+    "name:eng_x_variant": [
+      "CMH",
+      "KCMH",
+      "John Glenn Columbus International Airport"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u0631\u062a \u06a9\u0644\u0645\u0628\u0648\u0633"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی پورت کلمبوس"
     ],
-    "name:fin_x_preferred":[
-        "Port Columbuksen kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Port Columbuksen kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international Port Columbus"
+    "name:fra_x_preferred": [
+      "aéroport international Port Columbus"
     ],
-    "name:hin_x_preferred":[
-        "\u0915\u094b\u0932\u0902\u092c\u0938 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    "name:hin_x_preferred": [
+      "कोलंबस हवाई अड्डा"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Port Columbus"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Port Columbus"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale di Port Columbus"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale di Port Columbus"
     ],
-    "name:jpn_x_preferred":[
-        "\u30dd\u30fc\u30c8\u30fb\u30b3\u30ed\u30f3\u30d0\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ポート・コロンバス国際空港"
     ],
-    "name:nld_x_preferred":[
-        "Port Columbus International Airport"
+    "name:nld_x_preferred": [
+      "Port Columbus International Airport"
     ],
-    "name:nob_x_preferred":[
-        "Port Columbus internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Port Columbus internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Port Columbus"
+    "name:pol_x_preferred": [
+      "Port lotniczy Port Columbus"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional John Glenn Columbus"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional John Glenn Columbus"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Puerto Columbus"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Puerto Columbus"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u04ef\u0440 \u043a\u043b\u043c\u0431\u0443\u0441"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ пӯр клмбус"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0627\u0646 \u06af\u0644\u06cc\u0646 \u06a9\u0648\u0644\u0645\u0628\u0633 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "جان گلین کولمبس انٹرنیشنل ایئرپورٹ"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Port Columbus"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Port Columbus"
     ],
-    "name:zho_x_preferred":[
-        "\u54e5\u4f26\u5e03\u56fd\u9645\u673a\u573a"
+    "name:zho_x_preferred": [
+      "哥伦布国际机场"
     ],
-    "oa:elevation_ft":"815",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":29,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Columbus International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":3220,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12589551,
-        "planet_id":1,
-        "state_id":2347594,
-        "suburb_id":29229631
+    "oa:elevation_ft": "815",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 29,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Columbus International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 3220,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589551,
+      "planet_id": 1,
+      "state_id": 2347594,
+      "suburb_id": 29229631
     },
-    "wof:belongsto":[
-        85870311,
-        102191575,
-        404524625,
-        85633793,
-        101712381,
-        102080969,
-        85688485
+    "wof:belongsto": [
+      85870311,
+      102191575,
+      404524625,
+      85633793,
+      101712381,
+      102080969,
+      85688485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"CMH",
-        "gn:id":4521777,
-        "gp:id":12521441,
-        "iata:code":"CMH",
-        "icao:code":"KCMH",
-        "oa:id":"3458",
-        "wd:id":"Q1432440",
-        "wk:page":"Port_Columbus_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "CMH",
+      "gn:id": 4521777,
+      "gp:id": 12521441,
+      "iata:code": "CMH",
+      "icao:code": "KCMH",
+      "oa:id": "3458",
+      "wd:id": "Q1432440",
+      "wk:page": "Port_Columbus_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dca77e62085f8748b3985addf2baea06",
-    "wof:hierarchy":[
-        {
-            "campus_id":102532255,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080969,
-            "localadmin_id":404524625,
-            "locality_id":101712381,
-            "neighbourhood_id":85870311,
-            "region_id":85688485
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "fc978cfd5291352b9e4d796a180ade1a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102532255,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "localadmin_id": 404524625,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85870311,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":102532255,
-    "wof:lastmodified":1611601235,
-    "wof:name":"Port Columbus International Airport",
-    "wof:parent_id":85870311,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102532255,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Port Columbus International Airport",
+    "wof:parent_id": 85870311,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -82.89344,
     39.993824,
     -82.879486,
     40.002998
-],
-  "geometry": {"coordinates":[[[[-82.880043,39.997242],[-82.879486,39.994152],[-82.882492,39.993824],[-82.884827,39.996067],[-82.888336,39.996666],[-82.88987,39.996521],[-82.89344,39.998104],[-82.890816,39.998978],[-82.889999,40.0],[-82.887337,40.002998],[-82.887001,40.002998],[-82.883865,40.002567],[-82.88138600000001,40.000553],[-82.880043,39.997242]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-82.880043,39.997242],[-82.879486,39.994152],[-82.882492,39.993824],[-82.884827,39.996067],[-82.888336,39.996666],[-82.88987,39.996521],[-82.89344,39.998104],[-82.890816,39.998978],[-82.889999,40],[-82.887337,40.002998],[-82.887001,40.002998],[-82.883865,40.002567],[-82.881386,40.000553],[-82.880043,39.997242]]]],"type":"MultiPolygon"}
 }

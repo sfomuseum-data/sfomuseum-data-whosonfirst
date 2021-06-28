@@ -2,125 +2,126 @@
   "id": 102528361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000471,
-    "geom:area_square_m":4252959.788859,
-    "geom:bbox":"-77.68364,43.11013,-77.65712,43.140678",
-    "geom:latitude":43.128021,
-    "geom:longitude":-77.67112,
-    "gn:elevation":170,
-    "iso:country":"US",
-    "lbl:latitude":43.12837,
-    "lbl:longitude":-77.671123,
-    "mps:latitude":43.12837,
-    "mps:longitude":-77.671123,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:deu_x_preferred":[
-        "Greater Rochester International Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0004712703569998613,
+    "geom:area_square_m": 4252959.788859,
+    "geom:bbox": "-77.683640,43.110130,-77.657120,43.140678",
+    "geom:latitude": 43.12802140940384,
+    "geom:longitude": -77.67111998584943,
+    "gn:elevation": 170,
+    "iso:country": "US",
+    "lbl:latitude": 43.12837,
+    "lbl:longitude": -77.671123,
+    "mps:latitude": 43.12837,
+    "mps:longitude": -77.671123,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:deu_x_preferred": [
+      "Greater Rochester International Airport"
     ],
-    "name:eng_x_preferred":[
-        "Greater Rochester International Airport"
+    "name:eng_x_preferred": [
+      "Greater Rochester International Airport"
     ],
-    "name:eng_x_variant":[
-        "ROC",
-        "KROC"
+    "name:eng_x_variant": [
+      "ROC",
+      "KROC"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0631\u06cc\u062a\u0631 \u0631\u0627\u0686\u0633\u062a\u0631"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی گریتر راچستر"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international de Rochester"
+    "name:fra_x_preferred": [
+      "aéroport international de Rochester"
     ],
-    "name:jpn_x_preferred":[
-        "Greater Rochester\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "Greater Rochester国際空港"
     ],
-    "name:mar_x_preferred":[
-        "\u092c\u0943\u0939\u0926\u094d \u0930\u0949\u091a\u0947\u0938\u094d\u091f\u0930 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "बृहद् रॉचेस्टर आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nob_x_preferred":[
-        "Greater Rochester internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Greater Rochester internasjonale lufthavn"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Greater Rochester"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Greater Rochester"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u0440\u0438\u0442\u0440 \u0440\u043e\u0447\u0441\u0442\u0440"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ гритр рочстр"
     ],
-    "name:urd_x_preferred":[
-        "\u06af\u0631\u06cc\u0679\u0631 \u0631\u0648\u0686\u06cc\u0633\u0679\u0631 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "گریٹر روچیسٹر انٹرنیشنل ایئرپورٹ"
     ],
-    "name:zho_x_preferred":[
-        "\u7f85\u5fb9\u65af\u7279"
+    "name:zho_x_preferred": [
+      "羅徹斯特"
     ],
-    "oa:elevation_ft":"559",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":3139,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12589339,
-        "planet_id":1,
-        "state_id":2347591
+    "oa:elevation_ft": "559",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 3139,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589339,
+      "planet_id": 1,
+      "state_id": 2347591
     },
-    "wof:belongsto":[
-        85867089,
-        102191575,
-        404521467,
-        85633793,
-        85977591,
-        102081815,
-        85688543
+    "wof:belongsto": [
+      85867089,
+      102191575,
+      404521467,
+      85633793,
+      85977591,
+      102081815,
+      85688543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"ROC",
-        "gn:id":6298998,
-        "gp:id":12519985,
-        "iata:code":"ROC",
-        "icao:code":"KROC",
-        "oa:id":"3855",
-        "wd:id":"Q3914227",
-        "wk:page":"Greater_Rochester_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "ROC",
+      "gn:id": 6298998,
+      "gp:id": 12519985,
+      "iata:code": "ROC",
+      "icao:code": "KROC",
+      "oa:id": "3855",
+      "wd:id": "Q3914227",
+      "wk:page": "Greater_Rochester_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4b6ab340b1ebbc8c192ec62b188eeb53",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528361,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081815,
-            "localadmin_id":404521467,
-            "locality_id":85977591,
-            "neighbourhood_id":85867089,
-            "region_id":85688543
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "4b6ab340b1ebbc8c192ec62b188eeb53",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528361,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081815,
+        "localadmin_id": 404521467,
+        "locality_id": 85977591,
+        "neighbourhood_id": 85867089,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":102528361,
-    "wof:lastmodified":1611601233,
-    "wof:name":"Greater Rochester International Airport",
-    "wof:parent_id":85867089,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102528361,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Greater Rochester International Airport",
+    "wof:parent_id": 85867089,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -77.68364,
     43.11013,
     -77.65712,
     43.140678
-],
-  "geometry": {"coordinates":[[[[-77.665916,43.140373],[-77.66507,43.14056],[-77.66368900000001,43.140678],[-77.663574,43.140625],[-77.658669,43.136002],[-77.65712000000001,43.132809],[-77.659462,43.12624],[-77.66398599999999,43.123478],[-77.66881600000001,43.11784],[-77.68364,43.11013],[-77.679604,43.128304],[-77.679337,43.139668],[-77.665916,43.140373]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-77.665916,43.140373],[-77.66507,43.14056],[-77.663689,43.140678],[-77.663574,43.140625],[-77.658669,43.136002],[-77.65712,43.132809],[-77.659462,43.12624],[-77.663986,43.123478],[-77.668816,43.11784],[-77.68364,43.11013],[-77.679604,43.128304],[-77.679337,43.139668],[-77.665916,43.140373]]]],"type":"MultiPolygon"}
 }

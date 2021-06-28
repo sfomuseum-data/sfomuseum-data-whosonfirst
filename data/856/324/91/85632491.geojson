@@ -2,989 +2,990 @@
   "id": 85632491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.036804,
-    "geom:area_square_m":443114310.846663,
-    "geom:bbox":"-59.652637,13.044833,-59.42075,13.335861",
-    "geom:latitude":13.172783,
-    "geom:longitude":-59.557497,
-    "gn:id":"",
-    "gn:population":285653,
-    "iso:country":"BB",
-    "itu:country_code":[
-        "1-246"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.036804046186999805,
+    "geom:area_square_m": 443114310.846663,
+    "geom:bbox": "-59.652637,13.044833,-59.420750,13.335861",
+    "geom:latitude": 13.172782613930979,
+    "geom:longitude": -59.5574968333051,
+    "gn:id": "",
+    "gn:population": 285653,
+    "iso:country": "BB",
+    "itu:country_code": [
+      "1-246"
     ],
-    "itu:region":"1",
-    "label:eng_x_preferred_shortcode":[
-        "BB"
+    "itu:region": "1",
+    "label:eng_x_preferred_shortcode": [
+      "BB"
     ],
-    "lbl:latitude":13.144115,
-    "lbl:longitude":-59.555728,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":13.144115,
-    "mps:longitude":-59.555728,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":9.5,
-    "mz:min_zoom":4.5,
-    "name:afr_x_preferred":[
-        "Barbados"
+    "lbl:latitude": 13.144115,
+    "lbl:longitude": -59.555728,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 13.144115,
+    "mps:longitude": -59.555728,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 9.5,
+    "mz:min_zoom": 4.5,
+    "name:afr_x_preferred": [
+      "Barbados"
     ],
-    "name:aka_x_preferred":[
-        "Baabados"
+    "name:aka_x_preferred": [
+      "Baabados"
     ],
-    "name:als_x_preferred":[
-        "Barbados"
+    "name:als_x_preferred": [
+      "Barbados"
     ],
-    "name:amh_x_preferred":[
-        "\u1263\u122d\u1264\u12f6\u1235"
+    "name:amh_x_preferred": [
+      "ባርቤዶስ"
     ],
-    "name:ang_x_preferred":[
-        "Barbados"
+    "name:ang_x_preferred": [
+      "Barbados"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:ara_x_preferred": [
+      "باربادوس"
     ],
-    "name:ara_x_variant":[
-        "\u0628\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:ara_x_variant": [
+      "بربادوس"
     ],
-    "name:arg_x_preferred":[
-        "Barbados"
+    "name:arg_x_preferred": [
+      "Barbados"
     ],
-    "name:ary_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:ary_x_preferred": [
+      "باربادوس"
     ],
-    "name:arz_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u064a\u062f\u0648\u0633"
+    "name:arz_x_preferred": [
+      "باربيدوس"
     ],
-    "name:ast_x_preferred":[
-        "Barbados"
+    "name:ast_x_preferred": [
+      "Barbados"
     ],
-    "name:aym_x_preferred":[
-        "Barbados"
+    "name:aym_x_preferred": [
+      "Barbados"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:azb_x_preferred": [
+      "باربادوس"
     ],
-    "name:aze_x_preferred":[
-        "Barbados"
+    "name:aze_x_preferred": [
+      "Barbados"
     ],
-    "name:bak_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:bak_x_preferred": [
+      "Барбадос"
     ],
-    "name:bam_x_preferred":[
-        "Barbadi"
+    "name:bam_x_preferred": [
+      "Barbadi"
     ],
-    "name:bar_x_preferred":[
-        "Barbados"
+    "name:bar_x_preferred": [
+      "Barbados"
     ],
-    "name:bcl_x_preferred":[
-        "Barbados"
+    "name:bcl_x_preferred": [
+      "Barbados"
     ],
-    "name:bel_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u0430\u0441"
+    "name:bel_x_preferred": [
+      "Барбадас"
     ],
-    "name:ben_x_preferred":[
-        "\u09ac\u09be\u09b0\u09cd\u09ac\u09be\u09a1\u09cb\u09b8"
+    "name:ben_x_preferred": [
+      "বার্বাডোস"
     ],
-    "name:ben_x_variant":[
-        "\u09ac\u09be\u09b0\u09ac\u09be\u09a6\u09cb\u09b8"
+    "name:ben_x_variant": [
+      "বারবাদোস"
     ],
-    "name:bgn_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:bgn_x_preferred": [
+      "باربادوس"
     ],
-    "name:bho_x_preferred":[
-        "\u092c\u093e\u0930\u092c\u093e\u0921\u094b\u0938"
+    "name:bho_x_preferred": [
+      "बारबाडोस"
     ],
-    "name:bod_x_preferred":[
-        "\u0f56\u0f62\u0f0b\u0f56\u0f0b\u0f4c\u0f7c\u0f0b\u0f66\u0f72\u0f0d"
+    "name:bod_x_preferred": [
+      "བར་བ་ཌོ་སི།"
     ],
-    "name:bod_x_variant":[
-        "\u0f56\u0f71\u0f62\u0fa6\u0f0b\u0f4c\u0f7c\u0f66\u0f84\u0f0d"
+    "name:bod_x_variant": [
+      "བཱརྦ་ཌོས྄།"
     ],
-    "name:bos_x_preferred":[
-        "Barbados"
+    "name:bos_x_preferred": [
+      "Barbados"
     ],
-    "name:bpy_x_preferred":[
-        "\u09ac\u09be\u09b0\u09cd\u09ac\u09be\u09a1\u09cb\u09b8"
+    "name:bpy_x_preferred": [
+      "বার্বাডোস"
     ],
-    "name:bre_x_preferred":[
-        "Barbados"
+    "name:bre_x_preferred": [
+      "Barbados"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:bul_x_preferred": [
+      "Барбадос"
     ],
-    "name:bxr_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:bxr_x_preferred": [
+      "Барбадос"
     ],
-    "name:cat_x_preferred":[
-        "Barbados"
+    "name:cat_x_preferred": [
+      "Barbados"
     ],
-    "name:cdo_x_preferred":[
-        "Barbados"
+    "name:cdo_x_preferred": [
+      "Barbados"
     ],
-    "name:ceb_x_preferred":[
-        "Barbados (pagklaro)",
-        "Barbados"
+    "name:ceb_x_preferred": [
+      "Barbados (pagklaro)",
+      "Barbados"
     ],
-    "name:ces_x_preferred":[
-        "Barbados"
+    "name:ces_x_preferred": [
+      "Barbados"
     ],
-    "name:che_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:che_x_preferred": [
+      "Барбадос"
     ],
-    "name:chr_x_preferred":[
-        "\u13c6\u13c7\u13d9\u13cd"
+    "name:chr_x_preferred": [
+      "ᏆᏇᏙᏍ"
     ],
-    "name:ckb_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u06c6\u0633"
+    "name:ckb_x_preferred": [
+      "باربادۆس"
     ],
-    "name:cor_x_preferred":[
-        "Barbados"
+    "name:cor_x_preferred": [
+      "Barbados"
     ],
-    "name:cos_x_preferred":[
-        "Barbados"
+    "name:cos_x_preferred": [
+      "Barbados"
     ],
-    "name:crh_x_preferred":[
-        "Barbados"
+    "name:crh_x_preferred": [
+      "Barbados"
     ],
-    "name:cym_x_preferred":[
-        "Barbados"
+    "name:cym_x_preferred": [
+      "Barbados"
     ],
-    "name:dan_x_preferred":[
-        "Barbados"
+    "name:dan_x_preferred": [
+      "Barbados"
     ],
-    "name:deu_at_x_preferred":[
-        "Barbados"
+    "name:deu_at_x_preferred": [
+      "Barbados"
     ],
-    "name:deu_ch_x_preferred":[
-        "Barbados"
+    "name:deu_ch_x_preferred": [
+      "Barbados"
     ],
-    "name:deu_x_preferred":[
-        "Barbados"
+    "name:deu_x_preferred": [
+      "Barbados"
     ],
-    "name:diq_x_preferred":[
-        "Barbados"
+    "name:diq_x_preferred": [
+      "Barbados"
     ],
-    "name:div_x_preferred":[
-        "\u0784\u07a7\u0784\u07a6\u0791\u07ae\u0790\u07b0"
+    "name:div_x_preferred": [
+      "ބާބަޑޮސް"
     ],
-    "name:dsb_x_preferred":[
-        "Barbados"
+    "name:dsb_x_preferred": [
+      "Barbados"
     ],
-    "name:dty_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:dty_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03ac\u03bd\u03c4\u03bf\u03c2"
+    "name:ell_x_preferred": [
+      "Μπαρμπάντος"
     ],
-    "name:eng_ca_x_preferred":[
-        "Barbados"
+    "name:eng_ca_x_preferred": [
+      "Barbados"
     ],
-    "name:eng_gb_x_preferred":[
-        "Barbados"
+    "name:eng_gb_x_preferred": [
+      "Barbados"
     ],
-    "name:eng_x_preferred":[
-        "Barbados"
+    "name:eng_x_preferred": [
+      "Barbados"
     ],
-    "name:eng_x_unknown":[
-        "BB",
-        "BRB"
+    "name:eng_x_unknown": [
+      "BB",
+      "BRB"
     ],
-    "name:eng_x_variant":[
-        "Bajan",
-        "Barbadian"
+    "name:eng_x_variant": [
+      "Bajan",
+      "Barbadian"
     ],
-    "name:epo_x_preferred":[
-        "Barbado"
+    "name:epo_x_preferred": [
+      "Barbado"
     ],
-    "name:est_x_preferred":[
-        "Barbados"
+    "name:est_x_preferred": [
+      "Barbados"
     ],
-    "name:eus_x_preferred":[
-        "Barbados"
+    "name:eus_x_preferred": [
+      "Barbados"
     ],
-    "name:ewe_x_preferred":[
-        "Barbados"
+    "name:ewe_x_preferred": [
+      "Barbados"
     ],
-    "name:ewe_x_variant":[
-        "Barbados nutome"
+    "name:ewe_x_variant": [
+      "Barbados nutome"
     ],
-    "name:ext_x_preferred":[
-        "Barbaus"
+    "name:ext_x_preferred": [
+      "Barbaus"
     ],
-    "name:fao_x_preferred":[
-        "Barbados"
+    "name:fao_x_preferred": [
+      "Barbados"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:fas_x_preferred": [
+      "باربادوس"
     ],
-    "name:fin_x_preferred":[
-        "Barbados"
+    "name:fin_x_preferred": [
+      "Barbados"
     ],
-    "name:fra_x_preferred":[
-        "Barbade"
+    "name:fra_x_preferred": [
+      "Barbade"
     ],
-    "name:frp_x_preferred":[
-        "Barb\u00e2da"
+    "name:frp_x_preferred": [
+      "Barbâda"
     ],
-    "name:frr_x_preferred":[
-        "Barbados"
+    "name:frr_x_preferred": [
+      "Barbados"
     ],
-    "name:fry_x_preferred":[
-        "Barbados"
+    "name:fry_x_preferred": [
+      "Barbados"
     ],
-    "name:ful_x_preferred":[
-        "Barbadoos"
+    "name:ful_x_preferred": [
+      "Barbadoos"
     ],
-    "name:gag_x_preferred":[
-        "Barbados"
+    "name:gag_x_preferred": [
+      "Barbados"
     ],
-    "name:gcr_x_preferred":[
-        "Barbad"
+    "name:gcr_x_preferred": [
+      "Barbad"
     ],
-    "name:gla_x_preferred":[
-        "Barbados"
+    "name:gla_x_preferred": [
+      "Barbados"
     ],
-    "name:gle_x_preferred":[
-        "Barbad\u00f3s"
+    "name:gle_x_preferred": [
+      "Barbadós"
     ],
-    "name:glg_x_preferred":[
-        "Barbados"
+    "name:glg_x_preferred": [
+      "Barbados"
     ],
-    "name:glv_x_preferred":[
-        "Barbados"
+    "name:glv_x_preferred": [
+      "Barbados"
     ],
-    "name:gom_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:gom_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:grn_x_preferred":[
-        "Varvado"
+    "name:grn_x_preferred": [
+      "Varvado"
     ],
-    "name:gsw_x_preferred":[
-        "Barbados"
+    "name:gsw_x_preferred": [
+      "Barbados"
     ],
-    "name:guj_x_preferred":[
-        "\u0aac\u0abe\u0ab0\u0acd\u0aac\u0abe\u0aa1\u0acb\u0ab8"
+    "name:guj_x_preferred": [
+      "બાર્બાડોસ"
     ],
-    "name:hak_x_preferred":[
-        "Barbados"
+    "name:hak_x_preferred": [
+      "Barbados"
     ],
-    "name:hat_x_preferred":[
-        "Lababad"
+    "name:hat_x_preferred": [
+      "Lababad"
     ],
-    "name:hau_x_preferred":[
-        "Barbadas"
+    "name:hau_x_preferred": [
+      "Barbadas"
     ],
-    "name:hbs_x_preferred":[
-        "Barbados"
+    "name:hbs_x_preferred": [
+      "Barbados"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05e8\u05d1\u05d3\u05d5\u05e1"
+    "name:heb_x_preferred": [
+      "ברבדוס"
     ],
-    "name:hif_x_preferred":[
-        "Barbados"
+    "name:hif_x_preferred": [
+      "Barbados"
     ],
-    "name:hin_x_preferred":[
-        "\u092c\u093e\u0930\u092c\u093e\u0921\u094b\u0938"
+    "name:hin_x_preferred": [
+      "बारबाडोस"
     ],
-    "name:hrv_x_preferred":[
-        "Barbados"
+    "name:hrv_x_preferred": [
+      "Barbados"
     ],
-    "name:hsb_x_preferred":[
-        "Barbados"
+    "name:hsb_x_preferred": [
+      "Barbados"
     ],
-    "name:hun_x_preferred":[
-        "Barbados"
+    "name:hun_x_preferred": [
+      "Barbados"
     ],
-    "name:hye_x_preferred":[
-        "\u0532\u0561\u0580\u0562\u0561\u0564\u0578\u057d"
+    "name:hye_x_preferred": [
+      "Բարբադոս"
     ],
-    "name:ibo_x_preferred":[
-        "Barbados"
+    "name:ibo_x_preferred": [
+      "Barbados"
     ],
-    "name:ido_x_preferred":[
-        "Barbados"
+    "name:ido_x_preferred": [
+      "Barbados"
     ],
-    "name:ile_x_preferred":[
-        "Barbados"
+    "name:ile_x_preferred": [
+      "Barbados"
     ],
-    "name:ilo_x_preferred":[
-        "Barbados"
+    "name:ilo_x_preferred": [
+      "Barbados"
     ],
-    "name:ina_x_preferred":[
-        "Barbados"
+    "name:ina_x_preferred": [
+      "Barbados"
     ],
-    "name:ind_x_preferred":[
-        "Barbados"
+    "name:ind_x_preferred": [
+      "Barbados"
     ],
-    "name:isl_x_preferred":[
-        "Barbados"
+    "name:isl_x_preferred": [
+      "Barbados"
     ],
-    "name:ita_x_preferred":[
-        "Barbados"
+    "name:ita_x_preferred": [
+      "Barbados"
     ],
-    "name:jam_x_preferred":[
-        "Baabiedoz"
+    "name:jam_x_preferred": [
+      "Baabiedoz"
     ],
-    "name:jav_x_preferred":[
-        "Barbadhos"
+    "name:jav_x_preferred": [
+      "Barbadhos"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d0\u30eb\u30d0\u30c9\u30b9"
+    "name:jpn_x_preferred": [
+      "バルバドス"
     ],
-    "name:kaa_x_preferred":[
-        "Barbados"
+    "name:kaa_x_preferred": [
+      "Barbados"
     ],
-    "name:kab_x_preferred":[
-        "Barbados"
+    "name:kab_x_preferred": [
+      "Barbados"
     ],
-    "name:kal_x_preferred":[
-        "Barbados"
+    "name:kal_x_preferred": [
+      "Barbados"
     ],
-    "name:kan_x_preferred":[
-        "\u0cac\u0cbe\u0cb0\u0ccd\u0cac\u0ca1\u0ccb\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಬಾರ್ಬಡೋಸ್"
     ],
-    "name:kas_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:kas_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d1\u10d0\u10d3\u10dd\u10e1\u10d8"
+    "name:kat_x_preferred": [
+      "ბარბადოსი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:kaz_x_preferred": [
+      "Барбадос"
     ],
-    "name:khm_x_preferred":[
-        "\u1794\u17b6\u179a\u1794\u17b6\u178a\u17bc\u179f"
+    "name:khm_x_preferred": [
+      "បារបាដូស"
     ],
-    "name:kik_x_preferred":[
-        "Babadosi"
+    "name:kik_x_preferred": [
+      "Babadosi"
     ],
-    "name:kin_x_preferred":[
-        "Barubadosi"
+    "name:kin_x_preferred": [
+      "Barubadosi"
     ],
-    "name:kir_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:kir_x_preferred": [
+      "Барбадос"
     ],
-    "name:kom_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:kom_x_preferred": [
+      "Барбадос"
     ],
-    "name:kor_x_preferred":[
-        "\ubc14\ubca0\uc774\ub3c4\uc2a4"
+    "name:kor_x_preferred": [
+      "바베이도스"
     ],
-    "name:kur_x_preferred":[
-        "Barbados"
+    "name:kur_x_preferred": [
+      "Barbados"
     ],
-    "name:kur_x_variant":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u06c6\u0633"
+    "name:kur_x_variant": [
+      "باربادۆس"
     ],
-    "name:lad_x_preferred":[
-        "Barbados"
+    "name:lad_x_preferred": [
+      "Barbados"
     ],
-    "name:lao_x_preferred":[
-        "\u0e9a\u0eb2\u0e9a\u0eb2\u0e84\u0eb1\u0ead\u0e94"
+    "name:lao_x_preferred": [
+      "ບາບາຄັອດ"
     ],
-    "name:lat_x_preferred":[
-        "Barbata"
+    "name:lat_x_preferred": [
+      "Barbata"
     ],
-    "name:lav_x_preferred":[
-        "Barbadosa"
+    "name:lav_x_preferred": [
+      "Barbadosa"
     ],
-    "name:lfn_x_preferred":[
-        "Barbados"
+    "name:lfn_x_preferred": [
+      "Barbados"
     ],
-    "name:lij_x_preferred":[
-        "Barbados"
+    "name:lij_x_preferred": [
+      "Barbados"
     ],
-    "name:lim_x_preferred":[
-        "Barbados"
+    "name:lim_x_preferred": [
+      "Barbados"
     ],
-    "name:lin_x_preferred":[
-        "Barbados"
+    "name:lin_x_preferred": [
+      "Barbados"
     ],
-    "name:lin_x_variant":[
-        "Bar\u025bbad\u025b"
+    "name:lin_x_variant": [
+      "Barɛbadɛ"
     ],
-    "name:lit_x_preferred":[
-        "Barbadosas"
+    "name:lit_x_preferred": [
+      "Barbadosas"
     ],
-    "name:lmo_x_preferred":[
-        "Barbados"
+    "name:lmo_x_preferred": [
+      "Barbados"
     ],
-    "name:ltz_x_preferred":[
-        "Barbados"
+    "name:ltz_x_preferred": [
+      "Barbados"
     ],
-    "name:lub_x_preferred":[
-        "Barebade"
+    "name:lub_x_preferred": [
+      "Barebade"
     ],
-    "name:lug_x_preferred":[
-        "Barabadosi"
+    "name:lug_x_preferred": [
+      "Barabadosi"
     ],
-    "name:lzh_x_preferred":[
-        "\u5df4\u8c9d\u591a"
+    "name:lzh_x_preferred": [
+      "巴貝多"
     ],
-    "name:mal_x_preferred":[
-        "\u0d2c\u0d7c\u0d2c\u0d3e\u0d21\u0d4b\u0d38\u0d4d"
+    "name:mal_x_preferred": [
+      "ബർബാഡോസ്"
     ],
-    "name:mal_x_variant":[
-        "\u0d2c\u0d3e\u0d30\u0d4d\u200d\u0d2c\u0d21\u0d4b\u0d38\u0d4d"
+    "name:mal_x_variant": [
+      "ബാര്‍ബഡോസ്"
     ],
-    "name:mar_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:mar_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:mdf_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:mdf_x_preferred": [
+      "Барбадос"
     ],
-    "name:mhr_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:mhr_x_preferred": [
+      "Барбадос"
     ],
-    "name:mkd_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:mkd_x_preferred": [
+      "Барбадос"
     ],
-    "name:mlg_x_preferred":[
-        "Barbady"
+    "name:mlg_x_preferred": [
+      "Barbady"
     ],
-    "name:mlt_x_preferred":[
-        "Barbados"
+    "name:mlt_x_preferred": [
+      "Barbados"
     ],
-    "name:mon_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:mon_x_preferred": [
+      "Барбадос"
     ],
-    "name:mrj_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:mrj_x_preferred": [
+      "Барбадос"
     ],
-    "name:msa_x_preferred":[
-        "Barbados"
+    "name:msa_x_preferred": [
+      "Barbados"
     ],
-    "name:mya_x_preferred":[
-        "\u1018\u102c\u1018\u1031\u1038\u1012\u102d\u102f\u1038\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "ဘာဘေးဒိုးစ်နိုင်ငံ"
     ],
-    "name:myv_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:myv_x_preferred": [
+      "Барбадос"
     ],
-    "name:mzn_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:mzn_x_preferred": [
+      "باربادوس"
     ],
-    "name:nah_x_preferred":[
-        "Barbados"
+    "name:nah_x_preferred": [
+      "Barbados"
     ],
-    "name:nan_x_preferred":[
-        "Barbados"
+    "name:nan_x_preferred": [
+      "Barbados"
     ],
-    "name:nau_x_preferred":[
-        "Barbadot"
+    "name:nau_x_preferred": [
+      "Barbadot"
     ],
-    "name:nav_x_preferred":[
-        "Hashk\u02bcaan Bik\u00e9yah"
+    "name:nav_x_preferred": [
+      "Hashkʼaan Bikéyah"
     ],
-    "name:nde_x_preferred":[
-        "Bhabhadosi"
+    "name:nde_x_preferred": [
+      "Bhabhadosi"
     ],
-    "name:nds_x_preferred":[
-        "Barbados"
+    "name:nds_x_preferred": [
+      "Barbados"
     ],
-    "name:nep_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:nep_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:new_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:new_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:nld_x_preferred":[
-        "Barbados"
+    "name:nld_x_preferred": [
+      "Barbados"
     ],
-    "name:nno_x_preferred":[
-        "Barbados"
+    "name:nno_x_preferred": [
+      "Barbados"
     ],
-    "name:nob_x_preferred":[
-        "Barbados"
+    "name:nob_x_preferred": [
+      "Barbados"
     ],
-    "name:nor_x_preferred":[
-        "Barbados"
+    "name:nor_x_preferred": [
+      "Barbados"
     ],
-    "name:nov_x_preferred":[
-        "Barbados"
+    "name:nov_x_preferred": [
+      "Barbados"
     ],
-    "name:oci_x_preferred":[
-        "Barbados"
+    "name:oci_x_preferred": [
+      "Barbados"
     ],
-    "name:oci_x_variant":[
-        "Barbada"
+    "name:oci_x_variant": [
+      "Barbada"
     ],
-    "name:olo_x_preferred":[
-        "Barbados"
+    "name:olo_x_preferred": [
+      "Barbados"
     ],
-    "name:ori_x_preferred":[
-        "\u0b2c\u0b3e\u0b30\u0b2c\u0b3e\u0b21\u0b38"
+    "name:ori_x_preferred": [
+      "ବାରବାଡସ"
     ],
-    "name:ori_x_variant":[
-        "\u0b2c\u0b3e\u0b30\u0b2c\u0b3e\u0b21\u0b4b\u0b38\u0b4d"
+    "name:ori_x_variant": [
+      "ବାରବାଡୋସ୍"
     ],
-    "name:orm_x_preferred":[
-        "Baarbeedoos"
+    "name:orm_x_preferred": [
+      "Baarbeedoos"
     ],
-    "name:oss_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:oss_x_preferred": [
+      "Барбадос"
     ],
-    "name:pam_x_preferred":[
-        "Barbados"
+    "name:pam_x_preferred": [
+      "Barbados"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2c\u0a3e\u0a30\u0a2c\u0a3e\u0a21\u0a4b\u0a38"
+    "name:pan_x_preferred": [
+      "ਬਾਰਬਾਡੋਸ"
     ],
-    "name:pap_x_preferred":[
-        "Barbados"
+    "name:pap_x_preferred": [
+      "Barbados"
     ],
-    "name:pih_x_preferred":[
-        "Barbados"
+    "name:pih_x_preferred": [
+      "Barbados"
     ],
-    "name:pli_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:pli_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:pms_x_preferred":[
-        "Barbados"
+    "name:pms_x_preferred": [
+      "Barbados"
     ],
-    "name:pms_x_variant":[
-        "Barb\u00e0dos"
+    "name:pms_x_variant": [
+      "Barbàdos"
     ],
-    "name:pnb_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:pnb_x_preferred": [
+      "باربادوس"
     ],
-    "name:pol_x_preferred":[
-        "Barbados"
+    "name:pol_x_preferred": [
+      "Barbados"
     ],
-    "name:por_br_x_preferred":[
-        "Barbados"
+    "name:por_br_x_preferred": [
+      "Barbados"
     ],
-    "name:por_x_preferred":[
-        "Barbados"
+    "name:por_x_preferred": [
+      "Barbados"
     ],
-    "name:pus_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:pus_x_preferred": [
+      "باربادوس"
     ],
-    "name:que_x_preferred":[
-        "Barbatus"
+    "name:que_x_preferred": [
+      "Barbatus"
     ],
-    "name:roh_x_preferred":[
-        "Barbados"
+    "name:roh_x_preferred": [
+      "Barbados"
     ],
-    "name:ron_x_preferred":[
-        "Barbados"
+    "name:ron_x_preferred": [
+      "Barbados"
     ],
-    "name:rue_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:rue_x_preferred": [
+      "Барбадос"
     ],
-    "name:run_x_preferred":[
-        "Barubadosi"
+    "name:run_x_preferred": [
+      "Barubadosi"
     ],
-    "name:rup_x_preferred":[
-        "Barbados"
+    "name:rup_x_preferred": [
+      "Barbados"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:rus_x_preferred": [
+      "Барбадос"
     ],
-    "name:sag_x_preferred":[
-        "Barab\u00e2da"
+    "name:sag_x_preferred": [
+      "Barabâda"
     ],
-    "name:sah_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:sah_x_preferred": [
+      "Барбадос"
     ],
-    "name:san_x_preferred":[
-        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    "name:san_x_preferred": [
+      "बार्बाडोस"
     ],
-    "name:sat_x_preferred":[
-        "\u1c75\u1c5f\u1c68\u1c75\u1c5f\u1c70\u1c5a\u1c65"
+    "name:sat_x_preferred": [
+      "ᱵᱟᱨᱵᱟᱰᱚᱥ"
     ],
-    "name:scn_x_preferred":[
-        "Barbados"
+    "name:scn_x_preferred": [
+      "Barbados"
     ],
-    "name:sco_x_preferred":[
-        "Barbados"
+    "name:sco_x_preferred": [
+      "Barbados"
     ],
-    "name:sgs_x_preferred":[
-        "Barbaduosos"
+    "name:sgs_x_preferred": [
+      "Barbaduosos"
     ],
-    "name:sin_x_preferred":[
-        "\u0db6\u0dcf\u0dbb\u0dca\u0db6\u0da9\u0ddd\u0dc3\u0dca"
+    "name:sin_x_preferred": [
+      "බාර්බඩෝස්"
     ],
-    "name:sin_x_variant":[
-        "\u0db6\u0dcf\u0db6\u0da9\u0ddd\u0dc3\u0dca"
+    "name:sin_x_variant": [
+      "බාබඩෝස්"
     ],
-    "name:slk_x_preferred":[
-        "Barbados"
+    "name:slk_x_preferred": [
+      "Barbados"
     ],
-    "name:slv_x_preferred":[
-        "Barbados"
+    "name:slv_x_preferred": [
+      "Barbados"
     ],
-    "name:sme_x_preferred":[
-        "Barbados"
+    "name:sme_x_preferred": [
+      "Barbados"
     ],
-    "name:smo_x_preferred":[
-        "Barbados"
+    "name:smo_x_preferred": [
+      "Barbados"
     ],
-    "name:sna_x_preferred":[
-        "Barbados"
+    "name:sna_x_preferred": [
+      "Barbados"
     ],
-    "name:snd_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u068a\u0648\u0633"
+    "name:snd_x_preferred": [
+      "بارباڊوس"
     ],
-    "name:som_x_preferred":[
-        "Barbados"
+    "name:som_x_preferred": [
+      "Barbados"
     ],
-    "name:som_x_variant":[
-        "Baarbadoos"
+    "name:som_x_variant": [
+      "Baarbadoos"
     ],
-    "name:spa_x_preferred":[
-        "Barbados"
+    "name:spa_x_preferred": [
+      "Barbados"
     ],
-    "name:sqi_x_preferred":[
-        "Barbadosi"
+    "name:sqi_x_preferred": [
+      "Barbadosi"
     ],
-    "name:srd_x_preferred":[
-        "Barbados"
+    "name:srd_x_preferred": [
+      "Barbados"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:srp_ec_x_preferred": [
+      "Барбадос"
     ],
-    "name:srp_el_x_preferred":[
-        "Barbados"
+    "name:srp_el_x_preferred": [
+      "Barbados"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:srp_x_preferred": [
+      "Барбадос"
     ],
-    "name:ssw_x_preferred":[
-        "IBhadosi"
+    "name:ssw_x_preferred": [
+      "IBhadosi"
     ],
-    "name:stq_x_preferred":[
-        "Barbados"
+    "name:stq_x_preferred": [
+      "Barbados"
     ],
-    "name:sun_x_preferred":[
-        "Barbados"
+    "name:sun_x_preferred": [
+      "Barbados"
     ],
-    "name:swa_x_preferred":[
-        "Barbados"
+    "name:swa_x_preferred": [
+      "Barbados"
     ],
-    "name:swa_x_variant":[
-        "Babadosi"
+    "name:swa_x_variant": [
+      "Babadosi"
     ],
-    "name:swe_x_preferred":[
-        "Barbados"
+    "name:swe_x_preferred": [
+      "Barbados"
     ],
-    "name:szl_x_preferred":[
-        "Barbados"
+    "name:szl_x_preferred": [
+      "Barbados"
     ],
-    "name:szy_x_preferred":[
-        "Barbados"
+    "name:szy_x_preferred": [
+      "Barbados"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0b9f\u0bcb\u0b9a\u0bc1"
+    "name:tam_x_preferred": [
+      "பார்படோசு"
     ],
-    "name:tam_x_variant":[
-        "\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0b9f\u0bcb\u0bb8\u0bcd"
+    "name:tam_x_variant": [
+      "பார்படோஸ்"
     ],
-    "name:tat_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:tat_x_preferred": [
+      "Барбадос"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2c\u0c3e\u0c30\u0c4d\u0c2c\u0c21\u0c4b\u0c38\u0c4d"
+    "name:tel_x_preferred": [
+      "బార్బడోస్"
     ],
-    "name:tet_x_preferred":[
-        "Barbadus"
+    "name:tet_x_preferred": [
+      "Barbadus"
     ],
-    "name:tgk_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:tgk_x_preferred": [
+      "Барбадос"
     ],
-    "name:tgl_x_preferred":[
-        "Barbados"
+    "name:tgl_x_preferred": [
+      "Barbados"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a"
+    "name:tha_x_preferred": [
+      "ประเทศบาร์เบโดส"
     ],
-    "name:tha_x_variant":[
-        "\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a"
+    "name:tha_x_variant": [
+      "บาร์เบโดส"
     ],
-    "name:tir_x_preferred":[
-        "\u1263\u122d\u1264\u12f6\u1235"
+    "name:tir_x_preferred": [
+      "ባርቤዶስ"
     ],
-    "name:ton_x_preferred":[
-        "P\u0101peitosi"
+    "name:ton_x_preferred": [
+      "Pāpeitosi"
     ],
-    "name:tuk_x_preferred":[
-        "Barbados"
+    "name:tuk_x_preferred": [
+      "Barbados"
     ],
-    "name:tur_x_preferred":[
-        "Barbados"
+    "name:tur_x_preferred": [
+      "Barbados"
     ],
-    "name:udm_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:udm_x_preferred": [
+      "Барбадос"
     ],
-    "name:uig_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:uig_x_preferred": [
+      "باربادوس"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    "name:ukr_x_preferred": [
+      "Барбадос"
     ],
-    "name:und_x_variant":[
-        "Barbadoes"
+    "name:und_x_variant": [
+      "Barbadoes"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    "name:urd_x_preferred": [
+      "بارباڈوس"
     ],
-    "name:urd_x_variant":[
-        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    "name:urd_x_variant": [
+      "باربادوس"
     ],
-    "name:uzb_x_preferred":[
-        "Barbados"
+    "name:uzb_x_preferred": [
+      "Barbados"
     ],
-    "name:vec_x_preferred":[
-        "Barbados"
+    "name:vec_x_preferred": [
+      "Barbados"
     ],
-    "name:vep_x_preferred":[
-        "Barbados"
+    "name:vep_x_preferred": [
+      "Barbados"
     ],
-    "name:vie_x_preferred":[
-        "Barbados"
+    "name:vie_x_preferred": [
+      "Barbados"
     ],
-    "name:vie_x_variant":[
-        "B\u00e1c-ba-\u0111\u1ed1t"
+    "name:vie_x_variant": [
+      "Bác-ba-đốt"
     ],
-    "name:vol_x_preferred":[
-        "Barbade\u00e4n"
+    "name:vol_x_preferred": [
+      "Barbadeän"
     ],
-    "name:vro_x_preferred":[
-        "Barbados"
+    "name:vro_x_preferred": [
+      "Barbados"
     ],
-    "name:war_x_preferred":[
-        "Barbados"
+    "name:war_x_preferred": [
+      "Barbados"
     ],
-    "name:wln_x_preferred":[
-        "Barb\u00e5de"
+    "name:wln_x_preferred": [
+      "Barbåde"
     ],
-    "name:wol_x_preferred":[
-        "Barbados"
+    "name:wol_x_preferred": [
+      "Barbados"
     ],
-    "name:wuu_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:wuu_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:xal_x_preferred":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441\u0438\u043d \u041e\u0440\u043d"
+    "name:xal_x_preferred": [
+      "Барбадосин Орн"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d1\u10d0\u10d3\u10dd\u10e1\u10d8"
+    "name:xmf_x_preferred": [
+      "ბარბადოსი"
     ],
-    "name:yid_x_preferred":[
-        "\u05d1\u05d0\u05e8\u05d1\u05d0\u05d3\u05d0\u05e1"
+    "name:yid_x_preferred": [
+      "בארבאדאס"
     ],
-    "name:yor_x_preferred":[
-        "B\u00e1rb\u00e1d\u1ecd\u0300s"
+    "name:yor_x_preferred": [
+      "Bárbádọ̀s"
     ],
-    "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de B\u00e1b\u00e1d\u00f3s\u00ec"
+    "name:yor_x_variant": [
+      "Orílẹ́ède Bábádósì"
     ],
-    "name:yue_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:yue_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zea_x_preferred":[
-        "Barbados"
+    "name:zea_x_preferred": [
+      "Barbados"
     ],
-    "name:zha_x_preferred":[
-        "Barbados"
+    "name:zha_x_preferred": [
+      "Barbados"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_cn_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_hk_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Barbados"
+    "name:zho_min_nan_x_preferred": [
+      "Barbados"
     ],
-    "name:zho_mo_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_mo_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zho_sg_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_sg_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u5df4\u8c9d\u591a"
+    "name:zho_tw_x_preferred": [
+      "巴貝多"
     ],
-    "name:zho_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zho_x_variant":[
-        "\u5df4\u8c9d\u591a"
+    "name:zho_x_variant": [
+      "巴貝多"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u5df4\u5df4\u591a\u65af"
+    "name:zho_yue_x_preferred": [
+      "巴巴多斯"
     ],
-    "name:zul_x_preferred":[
-        "i-Barbados"
+    "name:zul_x_preferred": [
+      "i-Barbados"
     ],
-    "ne:abbrev":"Barb.",
-    "ne:abbrev_len":5,
-    "ne:adm0_a3":"BRB",
-    "ne:adm0_a3_is":"BRB",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"BRB",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":0,
-    "ne:admin":"Barbados",
-    "ne:brk_a3":"BRB",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Barbados",
-    "ne:continent":"North America",
-    "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"BB",
-    "ne:formal_en":"Barbados",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":5425,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Barbados",
-    "ne:gu_a3":"BRB",
-    "ne:homepart":1,
-    "ne:income_grp":"2. High income: nonOECD",
-    "ne:iso_a2":"BB",
-    "ne:iso_a3":"BRB",
-    "ne:iso_n3":52,
-    "ne:labelrank":5,
-    "ne:lastcensus":2010,
-    "ne:level":2,
-    "ne:long_len":8,
-    "ne:mapcolor13":3,
-    "ne:mapcolor7":4,
-    "ne:mapcolor8":1,
-    "ne:mapcolor9":5,
-    "ne:name":"Barbados",
-    "ne:name_alt":null,
-    "ne:name_len":8,
-    "ne:name_long":"Barbados",
-    "ne:name_sort":"Barbados",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":284589,
-    "ne:pop_year":-99,
-    "ne:postal":"BB",
-    "ne:region_un":"Americas",
-    "ne:region_wb":"Latin America & Caribbean",
-    "ne:scalerank":3,
-    "ne:sov_a3":"BRB",
-    "ne:sovereignt":"Barbados",
-    "ne:su_a3":"BRB",
-    "ne:su_dif":0,
-    "ne:subregion":"Caribbean",
-    "ne:subunit":"Barbados",
-    "ne:tiny":3,
-    "ne:type":"Sovereign country",
-    "ne:un_a3":"052",
-    "ne:wb_a2":"BB",
-    "ne:wb_a3":"BRB",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":23424754,
-    "ne:woe_id_eh":23424754,
-    "ne:woe_note":"Exact WOE match as country",
-    "qs:a0":"Barbados",
-    "qs:a0_alt":"Barbados",
-    "qs:adm0":"Barbados",
-    "qs:adm0_a3":"BRB",
-    "qs:level":"adm0",
-    "qs:scale":200000,
-    "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "naturalearth"
+    "ne:abbrev": "Barb.",
+    "ne:abbrev_len": 5,
+    "ne:adm0_a3": "BRB",
+    "ne:adm0_a3_is": "BRB",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "BRB",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 0,
+    "ne:admin": "Barbados",
+    "ne:brk_a3": "BRB",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Barbados",
+    "ne:continent": "North America",
+    "ne:economy": "6. Developing region",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "BB",
+    "ne:formal_en": "Barbados",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 5425,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Barbados",
+    "ne:gu_a3": "BRB",
+    "ne:homepart": 1,
+    "ne:income_grp": "2. High income: nonOECD",
+    "ne:iso_a2": "BB",
+    "ne:iso_a3": "BRB",
+    "ne:iso_n3": 52,
+    "ne:labelrank": 5,
+    "ne:lastcensus": 2010,
+    "ne:level": 2,
+    "ne:long_len": 8,
+    "ne:mapcolor13": 3,
+    "ne:mapcolor7": 4,
+    "ne:mapcolor8": 1,
+    "ne:mapcolor9": 5,
+    "ne:name": "Barbados",
+    "ne:name_alt": null,
+    "ne:name_len": 8,
+    "ne:name_long": "Barbados",
+    "ne:name_sort": "Barbados",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 284589,
+    "ne:pop_year": -99,
+    "ne:postal": "BB",
+    "ne:region_un": "Americas",
+    "ne:region_wb": "Latin America \u0026 Caribbean",
+    "ne:scalerank": 3,
+    "ne:sov_a3": "BRB",
+    "ne:sovereignt": "Barbados",
+    "ne:su_a3": "BRB",
+    "ne:su_dif": 0,
+    "ne:subregion": "Caribbean",
+    "ne:subunit": "Barbados",
+    "ne:tiny": 3,
+    "ne:type": "Sovereign country",
+    "ne:un_a3": "052",
+    "ne:wb_a2": "BB",
+    "ne:wb_a3": "BRB",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": 23424754,
+    "ne:woe_id_eh": 23424754,
+    "ne:woe_note": "Exact WOE match as country",
+    "qs:a0": "Barbados",
+    "qs:a0_alt": "Barbados",
+    "qs:adm0": "Barbados",
+    "qs:adm0_a3": "BRB",
+    "qs:level": "adm0",
+    "qs:scale": 200000,
+    "qs:source": "US State Department, with Natural Earth mods",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "naturalearth"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "statoids:dial":"1-246",
-    "statoids:ds":"BDS",
-    "statoids:fifa":"BRB",
-    "statoids:gaul":"24",
-    "statoids:gec":"BB",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"BAR",
-    "statoids:iso_a2":"BB",
-    "statoids:iso_a3":"BRB",
-    "statoids:iso_num":"52",
-    "statoids:itu":"BRB",
-    "statoids:marc":"bb",
-    "statoids:name":"Barbados",
-    "statoids:wmo":"BR",
-    "wd:latitude":13.166667,
-    "wd:longitude":-59.55,
-    "wd:population":284644,
-    "wd:wordcount":7272,
-    "wof:belongsto":[
-        102191575
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "statoids:dial": "1-246",
+    "statoids:ds": "BDS",
+    "statoids:fifa": "BRB",
+    "statoids:gaul": "24",
+    "statoids:gec": "BB",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "BAR",
+    "statoids:iso_a2": "BB",
+    "statoids:iso_a3": "BRB",
+    "statoids:iso_num": "52",
+    "statoids:itu": "BRB",
+    "statoids:marc": "bb",
+    "statoids:name": "Barbados",
+    "statoids:wmo": "BR",
+    "wd:latitude": 13.166667,
+    "wd:longitude": -59.55,
+    "wd:population": 284644,
+    "wd:wordcount": 7272,
+    "wof:belongsto": [
+      102191575
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        890452811
+    "wof:breaches": [],
+    "wof:capital": [
+      890452811
     ],
-    "wof:concordances":{
-        "dbp:id":"Barbados",
-        "digitalenvoy:country_code":52,
-        "fb:id":"en.barbados",
-        "fifa:id":"BRB",
-        "fips:code":"BB",
-        "gaul:id":"24",
-        "gn:id":3374084,
-        "gp:id":23424754,
-        "hasc:id":"BB",
-        "icao:code":"8P",
-        "ioc:id":"BAR",
-        "itu:id":"BRB",
-        "m49:code":"052",
-        "marc:id":"bb",
-        "mzb:id":"barbados",
-        "ne:adm0_a3":"BRB",
-        "nyt:id":"18385380429006263991",
-        "qs_pg:id":1263198,
-        "uncrt:id":"BDS",
-        "wd:id":"Q244",
-        "wk:page":"Barbados",
-        "wmo:id":"BR"
+    "wof:concordances": {
+      "dbp:id": "Barbados",
+      "digitalenvoy:country_code": 52,
+      "fb:id": "en.barbados",
+      "fifa:id": "BRB",
+      "fips:code": "BB",
+      "gaul:id": "24",
+      "gn:id": 3374084,
+      "gp:id": 23424754,
+      "hasc:id": "BB",
+      "icao:code": "8P",
+      "ioc:id": "BAR",
+      "itu:id": "BRB",
+      "m49:code": "052",
+      "marc:id": "bb",
+      "mzb:id": "barbados",
+      "ne:adm0_a3": "BRB",
+      "nyt:id": "18385380429006263991",
+      "qs_pg:id": 1263198,
+      "uncrt:id": "BDS",
+      "wd:id": "Q244",
+      "wk:page": "Barbados",
+      "wmo:id": "BR"
     },
-    "wof:country":"BB",
-    "wof:country_alpha3":"BRB",
-    "wof:geom_alt":[
-        "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+    "wof:country": "BB",
+    "wof:country_alpha3": "BRB",
+    "wof:created": 1624906541,
+    "wof:geom_alt": [
+      "naturalearth",
+      "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"b7268d44945958940f92a47dee1221aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632491
-        }
+    "wof:geomhash": "b7268d44945958940f92a47dee1221aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85632491
+      }
     ],
-    "wof:id":85632491,
-    "wof:lang_x_official":[
-        "eng"
+    "wof:id": 85632491,
+    "wof:lang_x_official": [
+      "eng"
     ],
-    "wof:lang_x_spoken":[
-        "eng"
+    "wof:lang_x_spoken": [
+      "eng"
     ],
-    "wof:lastmodified":1587427959,
-    "wof:name":"Barbados",
-    "wof:parent_id":102191575,
-    "wof:placetype":"country",
-    "wof:population":284644,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-bb",
-    "wof:shortcode":"BB",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906541,
+    "wof:name": "Barbados",
+    "wof:parent_id": 102191575,
+    "wof:placetype": "country",
+    "wof:population": 284644,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-bb",
+    "wof:shortcode": "BB",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -59.652637,
     13.044833,
     -59.42075,
     13.335861
-],
+  ],
   "geometry": {"coordinates":[[[-59.606583,13.332444],[-59.602444,13.32825],[-59.599918,13.328222],[-59.598251,13.325945],[-59.59547,13.324639],[-59.594971,13.321445],[-59.592499,13.319917],[-59.586113,13.313389],[-59.581417,13.312388],[-59.576805,13.308473],[-59.576721,13.306778],[-59.577694,13.305388],[-59.575279,13.303695],[-59.574028,13.301333],[-59.574085,13.299444],[-59.575165,13.298223],[-59.576584,13.298166],[-59.5765,13.296833],[-59.574612,13.296416],[-59.569248,13.286695],[-59.569168,13.284862],[-59.568279,13.283667],[-59.568165,13.278167],[-59.566639,13.273361],[-59.563473,13.267417],[-59.562248,13.267278],[-59.560833,13.265862],[-59.559971,13.262362],[-59.558445,13.260834],[-59.555027,13.254027],[-59.554832,13.251638],[-59.553638,13.251223],[-59.553223,13.249805],[-59.549973,13.246695],[-59.542557,13.236444],[-59.542332,13.234028],[-59.53611,13.226806],[-59.534054,13.225778],[-59.532444,13.223],[-59.530251,13.220028],[-59.528557,13.219306],[-59.527527,13.217417],[-59.523224,13.214945],[-59.519112,13.214111],[-59.512943,13.211583],[-59.510887,13.211611],[-59.506779,13.208667],[-59.502335,13.202972],[-59.496418,13.199195],[-59.490055,13.199083],[-59.488224,13.198055],[-59.486668,13.196472],[-59.486637,13.193139],[-59.485638,13.192416],[-59.482723,13.192445],[-59.479889,13.191556],[-59.477055,13.188528],[-59.474777,13.188056],[-59.469307,13.181666],[-59.464916,13.181723],[-59.462387,13.184195],[-59.459026,13.184694],[-59.452278,13.176778],[-59.449417,13.17625],[-59.449112,13.174973],[-59.449749,13.174167],[-59.449139,13.171889],[-59.447945,13.169473],[-59.446415,13.169888],[-59.444889,13.169],[-59.443333,13.165861],[-59.438305,13.164972],[-59.437305,13.165861],[-59.432278,13.166583],[-59.431137,13.164416],[-59.429028,13.164111],[-59.426613,13.161528],[-59.426445,13.157972],[-59.424862,13.156667],[-59.421638,13.155916],[-59.422585,13.152056],[-59.420834,13.150861],[-59.42075,13.148111],[-59.421665,13.1465],[-59.421806,13.143222],[-59.425251,13.135612],[-59.42664,13.134806],[-59.427723,13.130555],[-59.429974,13.128],[-59.431778,13.122306],[-59.436001,13.117333],[-59.440945,13.112223],[-59.444138,13.104861],[-59.447166,13.101916],[-59.448555,13.1015],[-59.451363,13.099806],[-59.452446,13.098194],[-59.45425,13.092305],[-59.459,13.087389],[-59.461445,13.086056],[-59.462723,13.083639],[-59.465111,13.082444],[-59.467278,13.082444],[-59.469501,13.081445],[-59.474804,13.075945],[-59.480167,13.073028],[-59.486252,13.067223],[-59.490944,13.067416],[-59.491917,13.066472],[-59.496613,13.06575],[-59.502419,13.057611],[-59.503139,13.053278],[-59.503944,13.051723],[-59.507862,13.051695],[-59.509556,13.05025],[-59.512196,13.050056],[-59.516613,13.046667],[-59.520695,13.045777],[-59.522915,13.046722],[-59.526474,13.045028],[-59.529388,13.044833],[-59.533085,13.046166],[-59.535999,13.04925],[-59.537388,13.053695],[-59.539696,13.057111],[-59.542194,13.061277],[-59.549252,13.064028],[-59.551109,13.063889],[-59.552418,13.064861],[-59.562946,13.064167],[-59.568085,13.064],[-59.570999,13.0665],[-59.5755,13.066639],[-59.588306,13.071555],[-59.592472,13.073361],[-59.599556,13.073167],[-59.600861,13.074139],[-59.613777,13.078527],[-59.61414,13.079889],[-59.611778,13.082222],[-59.61161,13.084473],[-59.611832,13.087889],[-59.611084,13.089],[-59.611694,13.090889],[-59.614918,13.093194],[-59.618832,13.093333],[-59.622276,13.095639],[-59.6245,13.096027],[-59.625751,13.097333],[-59.629307,13.098389],[-59.630806,13.09975],[-59.631001,13.103695],[-59.629223,13.105917],[-59.629307,13.107111],[-59.627499,13.108666],[-59.629166,13.112445],[-59.630112,13.119028],[-59.632252,13.121361],[-59.63575,13.125972],[-59.636665,13.129916],[-59.638222,13.132028],[-59.638416,13.1345],[-59.637722,13.135695],[-59.639168,13.137472],[-59.639194,13.141084],[-59.640694,13.143027],[-59.640862,13.1445],[-59.640945,13.152083],[-59.640083,13.153167],[-59.639362,13.157194],[-59.639252,13.162194],[-59.640026,13.164473],[-59.639111,13.165861],[-59.639999,13.167916],[-59.64011,13.172861],[-59.6395,13.173944],[-59.641499,13.180861],[-59.640945,13.189472],[-59.643166,13.194056],[-59.644165,13.195945],[-59.644279,13.199555],[-59.642693,13.204028],[-59.642529,13.20725],[-59.641724,13.208583],[-59.64336,13.213388],[-59.643391,13.216416],[-59.644474,13.21825],[-59.643391,13.219861],[-59.643333,13.222167],[-59.644306,13.223528],[-59.644249,13.230639],[-59.644859,13.231611],[-59.644222,13.232472],[-59.644279,13.233916],[-59.645973,13.236694],[-59.646446,13.2445],[-59.645889,13.250972],[-59.646862,13.254139],[-59.645832,13.257861],[-59.646057,13.260333],[-59.645306,13.262362],[-59.647472,13.267305],[-59.64761,13.270528],[-59.649166,13.274138],[-59.649502,13.277667],[-59.651722,13.2815],[-59.651638,13.301111],[-59.652527,13.302361],[-59.652637,13.307083],[-59.647446,13.313833],[-59.645832,13.316667],[-59.641666,13.320945],[-59.638695,13.327306],[-59.634998,13.329056],[-59.632973,13.329139],[-59.630112,13.330833],[-59.627888,13.33075],[-59.625973,13.332306],[-59.624863,13.33225],[-59.621529,13.334139],[-59.616028,13.334945],[-59.615112,13.335861],[-59.612999,13.335472],[-59.612,13.334333],[-59.608891,13.333972],[-59.606583,13.332444]]],"type":"Polygon"}
 }

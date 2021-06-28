@@ -2,188 +2,189 @@
   "id": 85681227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-11-15",
-    "edtf:inception":"uuuu",
-    "geom:area":0.047094,
-    "geom:area_square_m":566366708.149048,
-    "geom:bbox":"144.624197,13.241034,144.952159,13.65412",
-    "geom:latitude":13.443793,
-    "geom:longitude":144.771939,
-    "gn:id":"",
-    "iso:country":"GU",
-    "lbl:latitude":13.354173,
-    "lbl:longitude":144.703614,
-    "mps:latitude":13.354173,
-    "mps:longitude":144.703614,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":18.0,
-    "name:dut_x_variant":[
-        "Goeam"
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0.047093764092998903,
+    "geom:area_square_m": 566366708.149048,
+    "geom:bbox": "144.624197,13.241034,144.952159,13.654120",
+    "geom:latitude": 13.443792985817373,
+    "geom:longitude": 144.77193911773884,
+    "gn:id": "",
+    "iso:country": "GU",
+    "lbl:latitude": 13.354173,
+    "lbl:longitude": 144.703614,
+    "mps:latitude": 13.354173,
+    "mps:longitude": 144.703614,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:max_zoom": 18,
+    "mz:min_zoom": 18,
+    "name:dut_x_variant": [
+      "Goeam"
     ],
-    "name:eng_x_preferred":[
-        "Guam"
+    "name:eng_x_preferred": [
+      "Guam"
     ],
-    "name:eng_x_unknown":[
-        "GU",
-        "GUM"
+    "name:eng_x_unknown": [
+      "GU",
+      "GUM"
     ],
-    "name:eng_x_variant":[
-        "Guamanian",
-        "Territory of Guam"
+    "name:eng_x_variant": [
+      "Guamanian",
+      "Territory of Guam"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b0\u30a2\u30e0"
+    "name:jpn_x_preferred": [
+      "グアム"
     ],
-    "name:jpn_x_variant":[
-        "\u30b0\u30a2\u30e0\u5cf6"
+    "name:jpn_x_variant": [
+      "グアム島"
     ],
-    "name:kor_x_preferred":[
-        "\uad0c"
+    "name:kor_x_preferred": [
+      "괌"
     ],
-    "name:kor_x_variant":[
-        "\uad0c\uc12c"
+    "name:kor_x_variant": [
+      "괌섬"
     ],
-    "name:zho_x_preferred":[
-        "\u95dc\u5cf6"
+    "name:zho_x_preferred": [
+      "關島"
     ],
-    "name:zho_x_variant":[
-        "\u5173\u5c9b"
+    "name:zho_x_variant": [
+      "关岛"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"GUM",
-    "ne:adm0_label":"8",
-    "ne:adm0_sr":"3",
-    "ne:adm1_cod_1":"GUM+00?",
-    "ne:adm1_code":"GUM+00?",
-    "ne:admin":"Guam",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"GU",
-    "ne:code_local":"",
-    "ne:datarank":"10",
-    "ne:diss_me":"10073",
-    "ne:featurecla":"Admin-1 aggregation",
-    "ne:fips":"",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"0",
-    "ne:geonunit":"Guam",
-    "ne:gn_a1_code":"GU.",
-    "ne:gn_id":"0",
-    "ne:gn_level":"0",
-    "ne:gn_name":"",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"",
-    "ne:gns_id":"0",
-    "ne:gns_lang":"",
-    "ne:gns_level":"0",
-    "ne:gns_name":"",
-    "ne:gns_region":"",
-    "ne:gu_a3":"GUM",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"GU-",
-    "ne:iso_a2":"GU",
-    "ne:labelrank":"20",
-    "ne:latitude":"13.47330000000",
-    "ne:longitude":"144.78900000000",
-    "ne:mapcolor13":1,
-    "ne:mapcolor9":1,
-    "ne:name":"Guam",
-    "ne:name_alt":"",
-    "ne:name_len":4,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"",
-    "ne:provnum_ne":"0",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"10",
-    "ne:sov_a3":"US1",
-    "ne:sub_code":"",
-    "ne:type":"",
-    "ne:type_en":"",
-    "ne:wikipedia":"",
-    "ne:woe_id":23424832,
-    "ne:woe_label":"",
-    "ne:woe_name":"Guam",
-    "qs:a0":"Guam",
-    "qs:a0_lc":"GU",
-    "qs:a1":"Guam",
-    "qs:a1_lc":"GUM+00?",
-    "qs:adm0":"Guam",
-    "qs:adm0_a3":"GUM",
-    "qs:gn_id":0,
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Admin-1 aggregation",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "uscensus"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "GUM",
+    "ne:adm0_label": "8",
+    "ne:adm0_sr": "3",
+    "ne:adm1_cod_1": "GUM+00?",
+    "ne:adm1_code": "GUM+00?",
+    "ne:admin": "Guam",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "GU",
+    "ne:code_local": "",
+    "ne:datarank": "10",
+    "ne:diss_me": "10073",
+    "ne:featurecla": "Admin-1 aggregation",
+    "ne:fips": "",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "0",
+    "ne:geonunit": "Guam",
+    "ne:gn_a1_code": "GU.",
+    "ne:gn_id": "0",
+    "ne:gn_level": "0",
+    "ne:gn_name": "",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "0",
+    "ne:gns_lang": "",
+    "ne:gns_level": "0",
+    "ne:gns_name": "",
+    "ne:gns_region": "",
+    "ne:gu_a3": "GUM",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "GU-",
+    "ne:iso_a2": "GU",
+    "ne:labelrank": "20",
+    "ne:latitude": "13.47330000000",
+    "ne:longitude": "144.78900000000",
+    "ne:mapcolor13": 1,
+    "ne:mapcolor9": 1,
+    "ne:name": "Guam",
+    "ne:name_alt": "",
+    "ne:name_len": 4,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "",
+    "ne:provnum_ne": "0",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "10",
+    "ne:sov_a3": "US1",
+    "ne:sub_code": "",
+    "ne:type": "",
+    "ne:type_en": "",
+    "ne:wikipedia": "",
+    "ne:woe_id": 23424832,
+    "ne:woe_label": "",
+    "ne:woe_name": "Guam",
+    "qs:a0": "Guam",
+    "qs:a0_lc": "GU",
+    "qs:a1": "Guam",
+    "qs:a1_lc": "GUM+00?",
+    "qs:adm0": "Guam",
+    "qs:adm0_a3": "GUM",
+    "qs:gn_id": 0,
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Admin-1 aggregation",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "uscensus"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wd:wordcount":8355,
-    "wof:belongsto":[
-        102191583,
-        85632163,
-        136253057
+    "src:lbl:centroid": "mapshaper",
+    "wd:wordcount": 8355,
+    "wof:belongsto": [
+      102191583,
+      85632163,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"",
-        "gn:id":0,
-        "gp:id":23424832,
-        "hasc:id":"GU",
-        "qs:id":1263220,
-        "wd:id":"Q16635"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "",
+      "gn:id": 0,
+      "gp:id": 23424832,
+      "hasc:id": "GU",
+      "qs:id": 1263220,
+      "wd:id": "Q16635"
     },
-    "wof:country":"GU",
-    "wof:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+    "wof:country": "GU",
+    "wof:created": 1624906865,
+    "wof:geom_alt": [
+      "uscensus-display-terrestrial-zoom-10"
     ],
-    "wof:geomhash":"8616e91ced420e189537f89389681f70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191583,
-            "country_id":-1,
-            "dependency_id":85632163,
-            "empire_id":136253057,
-            "region_id":85681227
-        }
+    "wof:geomhash": "8616e91ced420e189537f89389681f70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191583,
+        "country_id": -1,
+        "dependency_id": 85632163,
+        "empire_id": 136253057,
+        "region_id": 85681227
+      }
     ],
-    "wof:id":85681227,
-    "wof:lang":[
-        "eng"
+    "wof:id": 85681227,
+    "wof:lang": [
+      "eng"
     ],
-    "wof:lang_x_official":[
-        "eng",
-        "cha"
+    "wof:lang_x_official": [
+      "eng",
+      "cha"
     ],
-    "wof:lang_x_spoken":[
-        "eng",
-        "cha"
+    "wof:lang_x_spoken": [
+      "eng",
+      "cha"
     ],
-    "wof:lastmodified":1611600865,
-    "wof:name":"Guam",
-    "wof:parent_id":85632163,
-    "wof:placetype":"region",
-    "wof:repo":"whosonfirst-data-admin-gu",
-    "wof:superseded_by":[
-        85632163
+    "wof:lastmodified": 1624906865,
+    "wof:name": "Guam",
+    "wof:parent_id": 85632163,
+    "wof:placetype": "region",
+    "wof:repo": "whosonfirst-data-admin-gu",
+    "wof:superseded_by": [
+      85632163
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     144.624197,
     13.241034,
     144.952159,
     13.65412
-],
-  "geometry": {"coordinates":[[[144.886404,13.640204],[144.896658,13.617987],[144.91431700000001,13.605414],[144.93441799999999,13.59984],[144.95191500000001,13.598578],[144.95215899999999,13.586859],[144.93767299999999,13.560533],[144.906993,13.516669],[144.871837,13.485175],[144.808279,13.445787],[144.783458,13.420478],[144.76937899999999,13.379136],[144.76010199999999,13.285631],[144.73560599999999,13.249172],[144.718028,13.241848],[144.69752,13.241034],[144.68067500000001,13.246772],[144.670421,13.264838],[144.65674899999999,13.28205],[144.65357499999999,13.287014],[144.64747199999999,13.324897],[144.64429799999999,13.33161],[144.63949600000001,13.33747],[144.63363699999999,13.342108],[144.62631300000001,13.345364],[144.63656700000001,13.355414],[144.64307700000001,13.365709],[144.64649499999999,13.378485],[144.64747199999999,13.396226],[144.64551800000001,13.404486],[144.64047299999999,13.414781],[144.63477599999999,13.423529],[144.62419700000001,13.43122],[144.62867299999999,13.438788],[144.63648499999999,13.443101],[144.640636,13.437812],[144.65447,13.439154],[144.714854,13.473456],[144.72877,13.485582],[144.783458,13.516669],[144.79411899999999,13.527086],[144.80323300000001,13.53913],[144.81120899999999,13.553616],[144.83220499999999,13.620673],[144.83863400000001,13.632758],[144.85043400000001,13.643744],[144.86671000000001,13.653022],[144.88062600000001,13.65412],[144.886404,13.640204]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[144.886404,13.640204],[144.896658,13.617987],[144.914317,13.605414],[144.934418,13.59984],[144.951915,13.598578],[144.952159,13.586859],[144.937673,13.560533],[144.906993,13.516669],[144.871837,13.485175],[144.808279,13.445787],[144.783458,13.420478],[144.769379,13.379136],[144.760102,13.285631],[144.735606,13.249172],[144.718028,13.241848],[144.69752,13.241034],[144.680675,13.246772],[144.670421,13.264838],[144.656749,13.28205],[144.653575,13.287014],[144.647472,13.324897],[144.644298,13.33161],[144.639496,13.33747],[144.633637,13.342108],[144.626313,13.345364],[144.636567,13.355414],[144.643077,13.365709],[144.646495,13.378485],[144.647472,13.396226],[144.645518,13.404486],[144.640473,13.414781],[144.634776,13.423529],[144.624197,13.43122],[144.628673,13.438788],[144.636485,13.443101],[144.640636,13.437812],[144.65447,13.439154],[144.714854,13.473456],[144.72877,13.485582],[144.783458,13.516669],[144.794119,13.527086],[144.803233,13.53913],[144.811209,13.553616],[144.832205,13.620673],[144.838634,13.632758],[144.850434,13.643744],[144.86671,13.653022],[144.880626,13.65412],[144.886404,13.640204]]],"type":"Polygon"}
 }

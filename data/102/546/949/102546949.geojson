@@ -2,123 +2,124 @@
   "id": 102546949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000806,
-    "geom:area_square_m":8418729.258832,
-    "geom:bbox":"-64.734795,32.332222,-64.677284,32.381992",
-    "geom:latitude":32.356797,
-    "geom:longitude":-64.708181,
-    "iso:country":"",
-    "lbl:latitude":32.356797,
-    "lbl:longitude":-64.708181,
-    "mps:latitude":32.356797,
-    "mps:longitude":-64.708181,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0644. \u0641. \u0648\u064a\u062f \u0627\u0644\u062f\u0648\u0644\u0649"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0008059848289999299,
+    "geom:area_square_m": 8418729.258832,
+    "geom:bbox": "-64.734795,32.332222,-64.677284,32.381992",
+    "geom:latitude": 32.356796737352575,
+    "geom:longitude": -64.70818115916624,
+    "iso:country": "",
+    "lbl:latitude": 32.356797,
+    "lbl:longitude": -64.708181,
+    "mps:latitude": 32.356797,
+    "mps:longitude": -64.708181,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار ل. ف. ويد الدولى"
     ],
-    "name:eng_x_variant":[
-        "BDA",
-        "TXKF"
+    "name:eng_x_variant": [
+      "BDA",
+      "TXKF"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0644.\u0627\u0641. \u0648\u06cc\u062f"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی ال.اف. وید"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international L.F. Wade"
+    "name:fra_x_preferred": [
+      "aéroport international L.F. Wade"
     ],
-    "name:glg_x_preferred":[
-        "Aeroporto L.F. Wade"
+    "name:glg_x_preferred": [
+      "Aeroporto L.F. Wade"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale L.F. Wade"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale L.F. Wade"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d0\u30df\u30e5\u30fc\u30c0\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "バミューダ国際空港"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Antarabangsa Bermuda"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Bermuda"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy L. F. Wade"
+    "name:pol_x_preferred": [
+      "Port lotniczy L. F. Wade"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional L.F. Wade"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional L.F. Wade"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional L.F. Wade"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional L.F. Wade"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional L.F. Wade"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional L.F. Wade"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0438\u043b.\u0443\u0444. \u0432\u0438\u0434"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ ил.уф. вид"
     ],
-    "name:zho_x_preferred":[
-        "\u767e\u6155\u9054\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "百慕達國際機場"
     ],
-    "oa:elevation_ft":"12",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424756,
-        "planet_id":1,
-        "state_id":2344753
+    "oa:elevation_ft": "12",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424756,
+      "planet_id": 1,
+      "state_id": 2344753
     },
-    "wof:belongsto":[
-        85632731,
-        102191575,
-        136253055,
-        85669373
+    "wof:belongsto": [
+      85632731,
+      102191575,
+      136253055,
+      85669373
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12523071,
-        "iata:code":"BDA",
-        "icao:code":"TXKF",
-        "oa:id":"6416",
-        "wd:id":"Q20454632",
-        "wk:page":"Bermuda_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12523071,
+      "iata:code": "BDA",
+      "icao:code": "TXKF",
+      "oa:id": "6416",
+      "wd:id": "Q20454632",
+      "wk:page": "Bermuda_International_Airport"
     },
-    "wof:country":"",
-    "wof:geomhash":"56835d10efa003660ecd01c737bcb77e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102546949,
-            "continent_id":102191575,
-            "country_id":-1,
-            "dependency_id":85632731,
-            "empire_id":136253055,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85669373
-        }
+    "wof:country": "",
+    "wof:created": 1624906851,
+    "wof:geomhash": "56835d10efa003660ecd01c737bcb77e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102546949,
+        "continent_id": 102191575,
+        "country_id": -1,
+        "dependency_id": 85632731,
+        "empire_id": 136253055,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85669373
+      }
     ],
-    "wof:id":102546949,
-    "wof:lastmodified":1611601240,
-    "wof:name":"Bermuda International Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102546949,
+    "wof:lastmodified": 1624906851,
+    "wof:name": "Bermuda International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -64.734795,
     32.332222,
     -64.677284,
     32.381992
-],
-  "geometry": {"coordinates":[[[-64.73479500000001,32.35466],[-64.72801200000001,32.358719],[-64.72732499999999,32.361549],[-64.725266,32.367493],[-64.725525,32.35997],[-64.724709,32.359192],[-64.71970399999999,32.358929],[-64.71642300000001,32.363396],[-64.714546,32.365269],[-64.713936,32.366947],[-64.71101400000001,32.368362],[-64.707329,32.375031],[-64.70483400000001,32.37532],[-64.70192,32.380398],[-64.70174400000001,32.381992],[-64.698616,32.37925],[-64.696594,32.376335],[-64.693939,32.36985],[-64.691277,32.369522],[-64.68647,32.371841],[-64.68450199999999,32.375332],[-64.67823,32.373436],[-64.677284,32.372856],[-64.677368,32.372204],[-64.685608,32.370564],[-64.68499,32.366749],[-64.682693,32.359661],[-64.687927,32.364918],[-64.690308,32.36755],[-64.696251,32.367783],[-64.700249,32.365917],[-64.703293,32.362637],[-64.7062,32.358299],[-64.706352,32.357765],[-64.707542,32.354008],[-64.70768700000001,32.347355],[-64.700714,32.343216],[-64.69924899999999,32.344219],[-64.698486,32.345016],[-64.696594,32.344074],[-64.692474,32.345016],[-64.694023,32.343132],[-64.695999,32.336666],[-64.695999,32.334831],[-64.697784,32.332222],[-64.6996,32.332615],[-64.705009,32.334538],[-64.706383,32.33733],[-64.709732,32.341171],[-64.71264600000001,32.341026],[-64.716339,32.340591],[-64.71711000000001,32.341026],[-64.716599,32.344086],[-64.718056,32.347191],[-64.72268699999999,32.349075],[-64.72389200000001,32.349003],[-64.727226,32.348846],[-64.72827100000001,32.349148],[-64.72869900000001,32.34951],[-64.73479500000001,32.35466]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-64.734795,32.35466],[-64.728012,32.358719],[-64.727325,32.361549],[-64.725266,32.367493],[-64.725525,32.35997],[-64.724709,32.359192],[-64.719704,32.358929],[-64.716423,32.363396],[-64.714546,32.365269],[-64.713936,32.366947],[-64.711014,32.368362],[-64.707329,32.375031],[-64.704834,32.37532],[-64.70192,32.380398],[-64.701744,32.381992],[-64.698616,32.37925],[-64.696594,32.376335],[-64.693939,32.36985],[-64.691277,32.369522],[-64.68647,32.371841],[-64.684502,32.375332],[-64.67823,32.373436],[-64.677284,32.372856],[-64.677368,32.372204],[-64.685608,32.370564],[-64.68499,32.366749],[-64.682693,32.359661],[-64.687927,32.364918],[-64.690308,32.36755],[-64.696251,32.367783],[-64.700249,32.365917],[-64.703293,32.362637],[-64.7062,32.358299],[-64.706352,32.357765],[-64.707542,32.354008],[-64.707687,32.347355],[-64.700714,32.343216],[-64.699249,32.344219],[-64.698486,32.345016],[-64.696594,32.344074],[-64.692474,32.345016],[-64.694023,32.343132],[-64.695999,32.336666],[-64.695999,32.334831],[-64.697784,32.332222],[-64.6996,32.332615],[-64.705009,32.334538],[-64.706383,32.33733],[-64.709732,32.341171],[-64.712646,32.341026],[-64.716339,32.340591],[-64.71711,32.341026],[-64.716599,32.344086],[-64.718056,32.347191],[-64.722687,32.349075],[-64.723892,32.349003],[-64.727226,32.348846],[-64.728271,32.349148],[-64.728699,32.34951],[-64.734795,32.35466]]],"type":"Polygon"}
 }

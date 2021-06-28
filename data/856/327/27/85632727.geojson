@@ -2,959 +2,960 @@
   "id": 85632727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-09-11",
-    "edtf:inception":"uuuu",
-    "geom:area":0.026734,
-    "geom:area_square_m":322213888.43882,
-    "geom:bbox":"-68.419555664,12.028721809,-62.942943573,17.648555756",
-    "geom:latitude":12.80458,
-    "geom:longitude":-67.689731,
-    "gp:id":0,
-    "iso:country":"AN",
-    "label:eng_x_preferred_shortcode":[
-        "AN"
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-09-11",
+    "edtf:inception": "",
+    "geom:area": 0.026734497462777833,
+    "geom:area_square_m": 322213888.43882,
+    "geom:bbox": "-68.419556,12.028722,-62.942944,17.648556",
+    "geom:latitude": 12.804580234190386,
+    "geom:longitude": -67.68973129571052,
+    "gp:id": 0,
+    "iso:country": "AN",
+    "label:eng_x_preferred_shortcode": [
+      "AN"
     ],
-    "lbl:latitude":12.194274,
-    "lbl:longitude":-68.249092,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":12.194274,
-    "mps:longitude":-68.249092,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":0.0,
-    "name:ace_x_preferred":[
-        "Blanda"
+    "lbl:latitude": 12.194274,
+    "lbl:longitude": -68.249092,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 12.194274,
+    "mps:longitude": -68.249092,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 0,
+    "name:ace_x_preferred": [
+      "Blanda"
     ],
-    "name:ace_x_variant":[
-        "Beulanda"
+    "name:ace_x_variant": [
+      "Beulanda"
     ],
-    "name:afr_x_preferred":[
-        "Nederland"
+    "name:afr_x_preferred": [
+      "Nederland"
     ],
-    "name:als_x_preferred":[
-        "Niederlande"
+    "name:als_x_preferred": [
+      "Niederlande"
     ],
-    "name:amh_x_preferred":[
-        "\u1206\u120b\u1295\u12f5"
+    "name:amh_x_preferred": [
+      "ሆላንድ"
     ],
-    "name:ang_x_preferred":[
-        "Ni\u00f0erland"
+    "name:ang_x_preferred": [
+      "Niðerland"
     ],
-    "name:ara_x_preferred":[
-        "\u0647\u0648\u0644\u0646\u062f\u0627"
+    "name:ara_x_preferred": [
+      "هولندا"
     ],
-    "name:arc_x_preferred":[
-        "\u0717\u0718\u0720\u0722\u0715\u0710"
+    "name:arc_x_preferred": [
+      "ܗܘܠܢܕܐ"
     ],
-    "name:arg_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:arg_x_preferred": [
+      "Países Baixos"
     ],
-    "name:arz_x_preferred":[
-        "\u0646\u064a\u062f\u064a\u0631\u0644\u0627\u0646\u062f"
+    "name:arz_x_preferred": [
+      "نيديرلاند"
     ],
-    "name:ast_x_preferred":[
-        "Pa\u00edses Baxos"
+    "name:ast_x_preferred": [
+      "Países Baxos"
     ],
-    "name:ava_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u043b"
+    "name:ava_x_preferred": [
+      "Нидерландал"
     ],
-    "name:aym_x_preferred":[
-        "Aynacha Jach'a Markanaka"
+    "name:aym_x_preferred": [
+      "Aynacha Jach'a Markanaka"
     ],
-    "name:azb_x_preferred":[
-        "\u0647\u0648\u0644\u0646\u062f"
+    "name:azb_x_preferred": [
+      "هولند"
     ],
-    "name:aze_x_preferred":[
-        "Niderland"
+    "name:aze_x_preferred": [
+      "Niderland"
     ],
-    "name:bak_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:bak_x_preferred": [
+      "Нидерланд"
     ],
-    "name:bak_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
+    "name:bak_x_variant": [
+      "Нидерландтар"
     ],
-    "name:bar_x_preferred":[
-        "Holland"
+    "name:bar_x_preferred": [
+      "Holland"
     ],
-    "name:bcl_x_preferred":[
-        "Nederlands"
+    "name:bcl_x_preferred": [
+      "Nederlands"
     ],
-    "name:bel_x_preferred":[
-        "\u041d\u0456\u0434\u044d\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:bel_x_preferred": [
+      "Нідэрланды"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0456\u0434\u044d\u0440\u043b\u044f\u043d\u0434\u044b"
+    "name:bel_x_variant": [
+      "Нідэрлянды"
     ],
-    "name:ben_x_preferred":[
-        "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    "name:ben_x_preferred": [
+      "নেদারল্যান্ডস"
     ],
-    "name:bgn_x_preferred":[
-        "\u0647\u0627\u0644\u0646\u0688"
+    "name:bgn_x_preferred": [
+      "هالنڈ"
     ],
-    "name:bho_x_preferred":[
-        "\u0928\u0940\u0926\u0930\u0932\u0948\u0902\u0921"
+    "name:bho_x_preferred": [
+      "नीदरलैंड"
     ],
-    "name:bis_x_preferred":[
-        "Netherlands"
+    "name:bis_x_preferred": [
+      "Netherlands"
     ],
-    "name:bjn_x_preferred":[
-        "Walanda"
+    "name:bjn_x_preferred": [
+      "Walanda"
     ],
-    "name:bod_x_preferred":[
-        "\u0f67\u0f7c\u0f0b\u0f63\u0f53\u0f0d"
+    "name:bod_x_preferred": [
+      "ཧོ་ལན།"
     ],
-    "name:bos_x_preferred":[
-        "Holandija"
+    "name:bos_x_preferred": [
+      "Holandija"
     ],
-    "name:bpy_x_preferred":[
-        "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    "name:bpy_x_preferred": [
+      "নেদারল্যান্ড"
     ],
-    "name:bre_x_preferred":[
-        "Izelvroio\u00f9"
+    "name:bre_x_preferred": [
+      "Izelvroioù"
     ],
-    "name:bug_x_preferred":[
-        "Belanda"
+    "name:bug_x_preferred": [
+      "Belanda"
     ],
-    "name:bul_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    "name:bul_x_preferred": [
+      "Нидерландия"
     ],
-    "name:bxr_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:bxr_x_preferred": [
+      "Нидерланд"
     ],
-    "name:cat_x_preferred":[
-        "Pa\u00efsos Baixos"
+    "name:cat_x_preferred": [
+      "Països Baixos"
     ],
-    "name:cdo_x_preferred":[
-        "H\u00f2\u0324-l\u00e0ng"
+    "name:cdo_x_preferred": [
+      "Hò̤-làng"
     ],
-    "name:ceb_x_preferred":[
-        "Olanda"
+    "name:ceb_x_preferred": [
+      "Olanda"
     ],
-    "name:ceb_x_variant":[
-        "Netherlands"
+    "name:ceb_x_variant": [
+      "Netherlands"
     ],
-    "name:ces_x_preferred":[
-        "Nizozemsko"
+    "name:ces_x_preferred": [
+      "Nizozemsko"
     ],
-    "name:cha_x_preferred":[
-        "Netherlands"
+    "name:cha_x_preferred": [
+      "Netherlands"
     ],
-    "name:che_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0448"
+    "name:che_x_preferred": [
+      "Нидерландаш"
     ],
-    "name:chr_x_preferred":[
-        "\u13be\u13cd\u13a9 \u13c1\u13db\u13b3\u13c2"
+    "name:chr_x_preferred": [
+      "ᎾᏍᎩ ᏁᏛᎳᏂ"
     ],
-    "name:chr_x_variant":[
-        "\u13db\u13e5\u13f1"
+    "name:chr_x_variant": [
+      "ᏛᏥᏱ"
     ],
-    "name:chu_x_preferred":[
-        "\u041d\u0438\u0434\u0454\u0440\u043b\u0430\u043d\u0434\ua651"
+    "name:chu_x_preferred": [
+      "Нидєрландꙑ"
     ],
-    "name:chv_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u0435\u043c"
+    "name:chv_x_preferred": [
+      "Нидерландсем"
     ],
-    "name:chy_x_preferred":[
-        "Netherlands"
+    "name:chy_x_preferred": [
+      "Netherlands"
     ],
-    "name:ckb_x_preferred":[
-        "\u06be\u06c6\u0644\u06d5\u0646\u062f"
+    "name:ckb_x_preferred": [
+      "ھۆلەند"
     ],
-    "name:cor_x_preferred":[
-        "Iseldiryow"
+    "name:cor_x_preferred": [
+      "Iseldiryow"
     ],
-    "name:cos_x_preferred":[
-        "Paesi Bassi"
+    "name:cos_x_preferred": [
+      "Paesi Bassi"
     ],
-    "name:crh_x_preferred":[
-        "Felemenk"
+    "name:crh_x_preferred": [
+      "Felemenk"
     ],
-    "name:csb_x_preferred":[
-        "N\u00e9derlandzk\u00f4"
+    "name:csb_x_preferred": [
+      "Néderlandzkô"
     ],
-    "name:cym_x_preferred":[
-        "Yr Iseldiroedd"
+    "name:cym_x_preferred": [
+      "Yr Iseldiroedd"
     ],
-    "name:dan_x_preferred":[
-        "Holland"
+    "name:dan_x_preferred": [
+      "Holland"
     ],
-    "name:deu_x_preferred":[
-        "Niederlande"
+    "name:deu_x_preferred": [
+      "Niederlande"
     ],
-    "name:diq_x_preferred":[
-        "Hollanda"
+    "name:diq_x_preferred": [
+      "Hollanda"
     ],
-    "name:div_x_preferred":[
-        "\u0782\u07ac\u078b\u07a6\u078d\u07ad\u0782\u07b0\u0791\u07aa"
+    "name:div_x_preferred": [
+      "ނެދަލޭންޑު"
     ],
-    "name:dsb_x_preferred":[
-        "Ni\u017eozemska"
+    "name:dsb_x_preferred": [
+      "Nižozemska"
     ],
-    "name:dty_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
+    "name:dty_x_preferred": [
+      "नेदरल्यान्ड"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f53\u0f7a\u0f0b\u0f51\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f66\u0f72\u0f0b"
+    "name:dzo_x_preferred": [
+      "ནེ་དར་ལེནཌསི་"
     ],
-    "name:ell_x_preferred":[
-        "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    "name:ell_x_preferred": [
+      "Ολλανδία"
     ],
-    "name:eml_x_preferred":[
-        "Ul\u00e0nda"
+    "name:eml_x_preferred": [
+      "Ulànda"
     ],
-    "name:eng_x_preferred":[
-        "Netherlands"
+    "name:eng_x_preferred": [
+      "Netherlands"
     ],
-    "name:epo_x_preferred":[
-        "Nederlando"
+    "name:epo_x_preferred": [
+      "Nederlando"
     ],
-    "name:est_x_preferred":[
-        "Holland"
+    "name:est_x_preferred": [
+      "Holland"
     ],
-    "name:eus_x_preferred":[
-        "Herbehereak"
+    "name:eus_x_preferred": [
+      "Herbehereak"
     ],
-    "name:ewe_x_preferred":[
-        "Netherlands"
+    "name:ewe_x_preferred": [
+      "Netherlands"
     ],
-    "name:ext_x_preferred":[
-        "Paisis Baxus"
+    "name:ext_x_preferred": [
+      "Paisis Baxus"
     ],
-    "name:fao_x_preferred":[
-        "Ni\u00f0urlond"
+    "name:fao_x_preferred": [
+      "Niðurlond"
     ],
-    "name:fas_x_preferred":[
-        "\u0647\u0644\u0646\u062f"
+    "name:fas_x_preferred": [
+      "هلند"
     ],
-    "name:fij_x_preferred":[
-        "Holland"
+    "name:fij_x_preferred": [
+      "Holland"
     ],
-    "name:fin_x_preferred":[
-        "Alankomaat"
+    "name:fin_x_preferred": [
+      "Alankomaat"
     ],
-    "name:fra_x_preferred":[
-        "Pays-Bas"
+    "name:fra_x_preferred": [
+      "Pays-Bas"
     ],
-    "name:frp_x_preferred":[
-        "Payis-B\u00e2s"
+    "name:frp_x_preferred": [
+      "Payis-Bâs"
     ],
-    "name:frr_x_preferred":[
-        "Nederl\u00f6nje"
+    "name:frr_x_preferred": [
+      "Nederlönje"
     ],
-    "name:fry_x_preferred":[
-        "Nederl\u00e2n"
+    "name:fry_x_preferred": [
+      "Nederlân"
     ],
-    "name:ful_x_preferred":[
-        "Holannda"
+    "name:ful_x_preferred": [
+      "Holannda"
     ],
-    "name:fur_x_preferred":[
-        "Pa\u00ees Bas"
+    "name:fur_x_preferred": [
+      "Paîs Bas"
     ],
-    "name:gag_x_preferred":[
-        "Niderland"
+    "name:gag_x_preferred": [
+      "Niderland"
     ],
-    "name:gan_x_preferred":[
-        "\u8377\u862d"
+    "name:gan_x_preferred": [
+      "荷蘭"
     ],
-    "name:gla_x_preferred":[
-        "Na T\u00ecrean \u00ccsle"
+    "name:gla_x_preferred": [
+      "Na Tìrean Ìsle"
     ],
-    "name:gle_x_preferred":[
-        "An \u00cdsilt\u00edr"
+    "name:gle_x_preferred": [
+      "An Ísiltír"
     ],
-    "name:glg_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:glg_x_preferred": [
+      "Países Baixos"
     ],
-    "name:glv_x_preferred":[
-        "Yn \u00c7heer Injil"
+    "name:glv_x_preferred": [
+      "Yn Çheer Injil"
     ],
-    "name:gom_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0901\u0921\u094d\u0938"
+    "name:gom_x_preferred": [
+      "नेदरलँड्स"
     ],
-    "name:gor_x_preferred":[
-        "Walanta"
+    "name:gor_x_preferred": [
+      "Walanta"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    "name:got_x_preferred": [
+      "𐌽𐌹𐌸𐌰𐍂𐌰𐌻𐌰𐌽𐌳"
     ],
-    "name:got_x_variant":[
-        "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf34\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    "name:got_x_variant": [
+      "𐌽𐌹𐌸𐌴𐍂𐌰𐌻𐌰𐌽𐌳"
     ],
-    "name:grn_x_preferred":[
-        "Tet\u00e3ngu\u00e9ra Yv\u00fdi"
+    "name:grn_x_preferred": [
+      "Tetãnguéra Yvýi"
     ],
-    "name:grn_x_variant":[
-        "Holanda"
+    "name:grn_x_variant": [
+      "Holanda"
     ],
-    "name:gsw_x_preferred":[
-        "Niderland"
+    "name:gsw_x_preferred": [
+      "Niderland"
     ],
-    "name:guj_x_preferred":[
-        "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0a82\u0aa1"
+    "name:guj_x_preferred": [
+      "નેધરલેંડ"
     ],
-    "name:hak_x_preferred":[
-        "H\u00f2-l\u00e0n"
+    "name:hak_x_preferred": [
+      "Hò-làn"
     ],
-    "name:hat_x_preferred":[
-        "Peyiba"
+    "name:hat_x_preferred": [
+      "Peyiba"
     ],
-    "name:hau_x_preferred":[
-        "Holand"
+    "name:hau_x_preferred": [
+      "Holand"
     ],
-    "name:haw_x_preferred":[
-        "H\u014dlani"
+    "name:haw_x_preferred": [
+      "Hōlani"
     ],
-    "name:hbs_x_preferred":[
-        "Nizozemska"
+    "name:hbs_x_preferred": [
+      "Nizozemska"
     ],
-    "name:heb_x_preferred":[
-        "\u05d4\u05d5\u05dc\u05e0\u05d3"
+    "name:heb_x_preferred": [
+      "הולנד"
     ],
-    "name:hif_x_preferred":[
-        "The Netherlands"
+    "name:hif_x_preferred": [
+      "The Netherlands"
     ],
-    "name:hin_x_preferred":[
-        "\u0928\u0940\u0926\u0930\u0932\u0948\u0923\u094d\u0921"
+    "name:hin_x_preferred": [
+      "नीदरलैण्ड"
     ],
-    "name:hrv_x_preferred":[
-        "Nizozemska"
+    "name:hrv_x_preferred": [
+      "Nizozemska"
     ],
-    "name:hsb_x_preferred":[
-        "Ni\u017eozemska"
+    "name:hsb_x_preferred": [
+      "Nižozemska"
     ],
-    "name:hun_x_preferred":[
-        "Hollandia"
+    "name:hun_x_preferred": [
+      "Hollandia"
     ],
-    "name:hye_x_preferred":[
-        "\u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0576\u0565\u0580"
+    "name:hye_x_preferred": [
+      "Նիդերլանդներ"
     ],
-    "name:hyw_x_preferred":[
-        "\u0540\u0578\u056c\u0561\u0576\u057f\u0561"
+    "name:hyw_x_preferred": [
+      "Հոլանտա"
     ],
-    "name:ibo_x_preferred":[
-        "Netherlands"
+    "name:ibo_x_preferred": [
+      "Netherlands"
     ],
-    "name:ido_x_preferred":[
-        "Nederlando"
+    "name:ido_x_preferred": [
+      "Nederlando"
     ],
-    "name:ile_x_preferred":[
-        "Nederland"
+    "name:ile_x_preferred": [
+      "Nederland"
     ],
-    "name:ilo_x_preferred":[
-        "Olanda"
+    "name:ilo_x_preferred": [
+      "Olanda"
     ],
-    "name:ina_x_preferred":[
-        "Pais Basse"
+    "name:ina_x_preferred": [
+      "Pais Basse"
     ],
-    "name:ina_x_variant":[
-        "Nederlandia"
+    "name:ina_x_variant": [
+      "Nederlandia"
     ],
-    "name:ind_x_preferred":[
-        "Belanda"
+    "name:ind_x_preferred": [
+      "Belanda"
     ],
-    "name:inh_x_preferred":[
-        "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438"
+    "name:inh_x_preferred": [
+      "Голланди"
     ],
-    "name:isl_x_preferred":[
-        "Holland"
+    "name:isl_x_preferred": [
+      "Holland"
     ],
-    "name:ita_x_preferred":[
-        "Paesi Bassi"
+    "name:ita_x_preferred": [
+      "Paesi Bassi"
     ],
-    "name:jam_x_preferred":[
-        "Nedalanz"
+    "name:jam_x_preferred": [
+      "Nedalanz"
     ],
-    "name:jav_x_preferred":[
-        "Walanda"
+    "name:jav_x_preferred": [
+      "Walanda"
     ],
-    "name:jbo_x_preferred":[
-        "nederland"
+    "name:jbo_x_preferred": [
+      "nederland"
     ],
-    "name:jbo_x_variant":[
-        "la nederland"
+    "name:jbo_x_variant": [
+      "la nederland"
     ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30e9\u30f3\u30c0"
+    "name:jpn_x_preferred": [
+      "オランダ"
     ],
-    "name:kaa_x_preferred":[
-        "Niderlandiya"
+    "name:kaa_x_preferred": [
+      "Niderlandiya"
     ],
-    "name:kab_x_preferred":[
-        "Timura n Wadda"
+    "name:kab_x_preferred": [
+      "Timura n Wadda"
     ],
-    "name:kal_x_preferred":[
-        "Hollandi"
+    "name:kal_x_preferred": [
+      "Hollandi"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca8\u0cc6\u0ca6\u0cb0\u0ccd\u200d\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ನೆದರ್‍ಲ್ಯಾಂಡ್ಸ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8"
+    "name:kat_x_preferred": [
+      "ნიდერლანდები"
     ],
-    "name:kaz_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:kaz_x_preferred": [
+      "Нидерланд"
     ],
-    "name:kbd_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u044d\u043d\u0434\u0445\u044d\u0440"
+    "name:kbd_x_preferred": [
+      "Нидерлэндхэр"
     ],
-    "name:kbp_x_preferred":[
-        "Peyibaa"
+    "name:kbp_x_preferred": [
+      "Peyibaa"
     ],
-    "name:khm_x_preferred":[
-        "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17bc\u17a1\u1784\u17cb"
+    "name:khm_x_preferred": [
+      "ប្រទេសហូឡង់"
     ],
-    "name:kik_x_preferred":[
-        "Netharandi"
+    "name:kik_x_preferred": [
+      "Netharandi"
     ],
-    "name:kik_x_variant":[
-        "Netherlands"
+    "name:kik_x_variant": [
+      "Netherlands"
     ],
-    "name:kin_x_preferred":[
-        "Ubuholandi"
+    "name:kin_x_preferred": [
+      "Ubuholandi"
     ],
-    "name:kir_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:kir_x_preferred": [
+      "Нидерланд"
     ],
-    "name:kir_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
+    "name:kir_x_variant": [
+      "Нидерландтар"
     ],
-    "name:koi_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:koi_x_preferred": [
+      "Недерланд"
     ],
-    "name:kom_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044a\u044f\u0441"
+    "name:kom_x_preferred": [
+      "Нидерландъяс"
     ],
-    "name:kon_x_preferred":[
-        "Pays-Bas"
+    "name:kon_x_preferred": [
+      "Pays-Bas"
     ],
-    "name:kor_x_preferred":[
-        "\ub124\ub35c\ub780\ub4dc"
+    "name:kor_x_preferred": [
+      "네덜란드"
     ],
-    "name:krc_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u043b\u0430"
+    "name:krc_x_preferred": [
+      "Нидерландла"
     ],
-    "name:ksh_x_preferred":[
-        "Niederlande"
+    "name:ksh_x_preferred": [
+      "Niederlande"
     ],
-    "name:kur_x_preferred":[
-        "Holenda"
+    "name:kur_x_preferred": [
+      "Holenda"
     ],
-    "name:kur_x_variant":[
-        "Holand"
+    "name:kur_x_variant": [
+      "Holand"
     ],
-    "name:lad_x_preferred":[
-        "Payises Bashos"
+    "name:lad_x_preferred": [
+      "Payises Bashos"
     ],
-    "name:lao_x_preferred":[
-        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0eae\u0e99\u0ea5\u0eb1\u0e87"
+    "name:lao_x_preferred": [
+      "ປະເທດໂຮນລັງ"
     ],
-    "name:lat_x_preferred":[
-        "Nederlandia"
+    "name:lat_x_preferred": [
+      "Nederlandia"
     ],
-    "name:lav_x_preferred":[
-        "N\u012bderlande"
+    "name:lav_x_preferred": [
+      "Nīderlande"
     ],
-    "name:lbe_x_preferred":[
-        "\u041d\u0438\u0434\u0438\u0440\u043b\u0430\u043d\u0434"
+    "name:lbe_x_preferred": [
+      "Нидирланд"
     ],
-    "name:lez_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0440"
+    "name:lez_x_preferred": [
+      "Нидерландар"
     ],
-    "name:lfn_x_preferred":[
-        "Nederland"
+    "name:lfn_x_preferred": [
+      "Nederland"
     ],
-    "name:lij_x_preferred":[
-        "Paixi Basci"
+    "name:lij_x_preferred": [
+      "Paixi Basci"
     ],
-    "name:lim_x_preferred":[
-        "Nederland"
+    "name:lim_x_preferred": [
+      "Nederland"
     ],
-    "name:lin_x_preferred":[
-        "Holanda"
+    "name:lin_x_preferred": [
+      "Holanda"
     ],
-    "name:lit_x_preferred":[
-        "Nyderlandai"
+    "name:lit_x_preferred": [
+      "Nyderlandai"
     ],
-    "name:liv_x_preferred":[
-        "Mad\u0101lm\u014dd"
+    "name:liv_x_preferred": [
+      "Madālmōd"
     ],
-    "name:lmo_x_preferred":[
-        "Paes Bass"
+    "name:lmo_x_preferred": [
+      "Paes Bass"
     ],
-    "name:lrc_x_preferred":[
-        "\u06be\u0648\u0644\u0623\u0646\u062f"
+    "name:lrc_x_preferred": [
+      "ھولأند"
     ],
-    "name:lrc_x_variant":[
-        "\u0647\u0644\u0646\u062f"
+    "name:lrc_x_variant": [
+      "هلند"
     ],
-    "name:ltg_x_preferred":[
-        "N\u012bderlandeja"
+    "name:ltg_x_preferred": [
+      "Nīderlandeja"
     ],
-    "name:ltz_x_preferred":[
-        "Holland"
+    "name:ltz_x_preferred": [
+      "Holland"
     ],
-    "name:lzh_x_preferred":[
-        "\u8377\u862d"
+    "name:lzh_x_preferred": [
+      "荷蘭"
     ],
-    "name:mal_x_preferred":[
-        "\u0d28\u0d46\u0d24\u0d7c\u0d32\u0d28\u0d4d\u0d31\u0d4d\u0d38\u0d4d"
+    "name:mal_x_preferred": [
+      "നെതർലന്റ്സ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0901\u0921\u094d\u0938"
+    "name:mar_x_preferred": [
+      "नेदरलँड्स"
     ],
-    "name:mdf_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0442\u0442"
+    "name:mdf_x_preferred": [
+      "Недерлантт"
     ],
-    "name:mhr_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0435"
+    "name:mhr_x_preferred": [
+      "Нидерланде"
     ],
-    "name:min_x_preferred":[
-        "Balando"
+    "name:min_x_preferred": [
+      "Balando"
     ],
-    "name:mkd_x_preferred":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    "name:mkd_x_preferred": [
+      "Холандија"
     ],
-    "name:mlg_x_preferred":[
-        "Nederlandy"
+    "name:mlg_x_preferred": [
+      "Nederlandy"
     ],
-    "name:mlt_x_preferred":[
-        "Pajji\u017ci l-Baxxi"
+    "name:mlt_x_preferred": [
+      "Pajjiżi l-Baxxi"
     ],
-    "name:mon_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:mon_x_preferred": [
+      "Нидерланд"
     ],
-    "name:mri_x_preferred":[
-        "H\u014drana"
+    "name:mri_x_preferred": [
+      "Hōrana"
     ],
-    "name:msa_x_preferred":[
-        "Belanda"
+    "name:msa_x_preferred": [
+      "Belanda"
     ],
-    "name:mya_x_preferred":[
-        "\u1014\u101a\u103a\u101e\u102c\u101c\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "နယ်သာလန်နိုင်ငံ"
     ],
-    "name:myv_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b \u041c\u0430\u0441\u0442\u043e\u0440"
+    "name:myv_x_preferred": [
+      "Нидерланды Мастор"
     ],
-    "name:myv_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:myv_x_variant": [
+      "Нидерланды"
     ],
-    "name:mzn_x_preferred":[
-        "\u0647\u0644\u0646\u062f"
+    "name:mzn_x_preferred": [
+      "هلند"
     ],
-    "name:nah_x_preferred":[
-        "Tlanitl\u0101lpan"
+    "name:nah_x_preferred": [
+      "Tlanitlālpan"
     ],
-    "name:nan_x_preferred":[
-        "H\u00f4-l\u00e2n"
+    "name:nan_x_preferred": [
+      "Hô-lân"
     ],
-    "name:nap_x_preferred":[
-        "Ulanna"
+    "name:nap_x_preferred": [
+      "Ulanna"
     ],
-    "name:nau_x_preferred":[
-        "Niterand"
+    "name:nau_x_preferred": [
+      "Niterand"
     ],
-    "name:nau_x_variant":[
-        "Eben Eyong"
+    "name:nau_x_variant": [
+      "Eben Eyong"
     ],
-    "name:nav_x_preferred":[
-        "Tsin Bikee\u02bc Dine\u02bc\u00e9 Bik\u00e9yah"
+    "name:nav_x_preferred": [
+      "Tsin Bikeeʼ Dineʼé Bikéyah"
     ],
-    "name:nds_nld_x_preferred":[
-        "Nederlaand"
+    "name:nds_nld_x_preferred": [
+      "Nederlaand"
     ],
-    "name:nds_x_preferred":[
-        "Nedderlannen (Europa)"
+    "name:nds_x_preferred": [
+      "Nedderlannen (Europa)"
     ],
-    "name:nds_x_variant":[
-        "Nedderlannen"
+    "name:nds_x_variant": [
+      "Nedderlannen"
     ],
-    "name:nep_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921\u094d\u0938"
+    "name:nep_x_preferred": [
+      "नेदरल्यान्ड्स"
     ],
-    "name:nep_x_variant":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921\u094d\u0938"
+    "name:nep_x_variant": [
+      "नेदरल्याण्ड्स"
     ],
-    "name:new_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0926\u094d\u0938\u094d"
+    "name:new_x_preferred": [
+      "नेदरल्यान्द्स्"
     ],
-    "name:nld_x_preferred":[
-        "Nederland"
+    "name:nld_x_preferred": [
+      "Nederland"
     ],
-    "name:nno_x_preferred":[
-        "Nederland"
+    "name:nno_x_preferred": [
+      "Nederland"
     ],
-    "name:nob_x_preferred":[
-        "Nederland"
+    "name:nob_x_preferred": [
+      "Nederland"
     ],
-    "name:nor_x_preferred":[
-        "Nederland"
+    "name:nor_x_preferred": [
+      "Nederland"
     ],
-    "name:nov_x_preferred":[
-        "Nederlande"
+    "name:nov_x_preferred": [
+      "Nederlande"
     ],
-    "name:nrm_x_preferred":[
-        "Pays Bas"
+    "name:nrm_x_preferred": [
+      "Pays Bas"
     ],
-    "name:nso_x_preferred":[
-        "Netherlands"
+    "name:nso_x_preferred": [
+      "Netherlands"
     ],
-    "name:nya_x_preferred":[
-        "Netherlands"
+    "name:nya_x_preferred": [
+      "Netherlands"
     ],
-    "name:oci_x_preferred":[
-        "Pa\u00efses Basses"
+    "name:oci_x_preferred": [
+      "Païses Basses"
     ],
-    "name:olo_x_preferred":[
-        "Hollandii"
+    "name:olo_x_preferred": [
+      "Hollandii"
     ],
-    "name:ori_x_preferred":[
-        "\u0b28\u0b47\u0b26\u0b30\u0b32\u0b3e\u0b23\u0b4d\u0b21"
+    "name:ori_x_preferred": [
+      "ନେଦରଲାଣ୍ଡ"
     ],
-    "name:orm_x_preferred":[
-        "Neezerlaandi"
+    "name:orm_x_preferred": [
+      "Neezerlaandi"
     ],
-    "name:oss_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u00e6"
+    "name:oss_x_preferred": [
+      "Нидерландтæ"
     ],
-    "name:pag_x_preferred":[
-        "Ol\u00e1nda"
+    "name:pag_x_preferred": [
+      "Olánda"
     ],
-    "name:pam_x_preferred":[
-        "Paises Bahes"
+    "name:pam_x_preferred": [
+      "Paises Bahes"
     ],
-    "name:pan_x_preferred":[
-        "\u0a28\u0a40\u0a26\u0a30\u0a32\u0a48\u0a02\u0a21"
+    "name:pan_x_preferred": [
+      "ਨੀਦਰਲੈਂਡ"
     ],
-    "name:pap_x_preferred":[
-        "Hulanda"
+    "name:pap_x_preferred": [
+      "Hulanda"
     ],
-    "name:pcd_x_preferred":[
-        "Bas-Pa\u00efs"
+    "name:pcd_x_preferred": [
+      "Bas-Païs"
     ],
-    "name:pdc_x_preferred":[
-        "Holland"
+    "name:pdc_x_preferred": [
+      "Holland"
     ],
-    "name:pdt_x_preferred":[
-        "Nadalaunt"
+    "name:pdt_x_preferred": [
+      "Nadalaunt"
     ],
-    "name:pfl_x_preferred":[
-        "Niederlande"
+    "name:pfl_x_preferred": [
+      "Niederlande"
     ],
-    "name:pih_x_preferred":[
-        "Dem Nethiland"
+    "name:pih_x_preferred": [
+      "Dem Nethiland"
     ],
-    "name:pli_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
+    "name:pli_x_preferred": [
+      "नेदरलैंड्स"
     ],
-    "name:pms_x_preferred":[
-        "Pais Bass"
+    "name:pms_x_preferred": [
+      "Pais Bass"
     ],
-    "name:pnb_x_preferred":[
-        "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
+    "name:pnb_x_preferred": [
+      "نیدرلینڈز"
     ],
-    "name:pnt_x_preferred":[
-        "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    "name:pnt_x_preferred": [
+      "Ολλανδία"
     ],
-    "name:pol_x_preferred":[
-        "Holandia"
+    "name:pol_x_preferred": [
+      "Holandia"
     ],
-    "name:por_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:por_x_preferred": [
+      "Países Baixos"
     ],
-    "name:pus_x_preferred":[
-        "\u0647\u0627\u0644\u0646\u0689"
+    "name:pus_x_preferred": [
+      "هالنډ"
     ],
-    "name:que_x_preferred":[
-        "Urasuyu"
+    "name:que_x_preferred": [
+      "Urasuyu"
     ],
-    "name:rmy_x_preferred":[
-        "Olanda"
+    "name:rmy_x_preferred": [
+      "Olanda"
     ],
-    "name:roh_x_preferred":[
-        "Pajais Bass"
+    "name:roh_x_preferred": [
+      "Pajais Bass"
     ],
-    "name:ron_x_preferred":[
-        "\u021a\u0103rile de Jos"
+    "name:ron_x_preferred": [
+      "Țările de Jos"
     ],
-    "name:rue_x_preferred":[
-        "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:rue_x_preferred": [
+      "Нідерланды"
     ],
-    "name:rup_x_preferred":[
-        "Olanda"
+    "name:rup_x_preferred": [
+      "Olanda"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:rus_x_preferred": [
+      "Нидерланды"
     ],
-    "name:sah_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:sah_x_preferred": [
+      "Недерланд"
     ],
-    "name:san_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u094d\u0932\u0947\u0923\u094d\u0921\u094d\u0926\u0947\u0936\u0903"
+    "name:san_x_preferred": [
+      "नेदर्लेण्ड्देशः"
     ],
-    "name:san_x_variant":[
-        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
+    "name:san_x_variant": [
+      "नेदरलैंड्स"
     ],
-    "name:sat_x_preferred":[
-        "\u1c71\u1c6e\u1c6b\u1c5f\u1c68\u1c5e\u1c6e\u1c71\u1c70\u1c65"
+    "name:sat_x_preferred": [
+      "ᱱᱮᱫᱟᱨᱞᱮᱱᱰᱥ"
     ],
-    "name:scn_x_preferred":[
-        "Paisi Vasci"
+    "name:scn_x_preferred": [
+      "Paisi Vasci"
     ],
-    "name:sco_x_preferred":[
-        "Netherlands"
+    "name:sco_x_preferred": [
+      "Netherlands"
     ],
-    "name:sgs_x_preferred":[
-        "N\u012bderland\u0101"
+    "name:sgs_x_preferred": [
+      "Nīderlandā"
     ],
-    "name:sin_x_preferred":[
-        "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
+    "name:sin_x_preferred": [
+      "නෙදර්ලන්තය"
     ],
-    "name:slk_x_preferred":[
-        "Holandsko"
+    "name:slk_x_preferred": [
+      "Holandsko"
     ],
-    "name:slv_x_preferred":[
-        "Nizozemska"
+    "name:slv_x_preferred": [
+      "Nizozemska"
     ],
-    "name:sma_x_preferred":[
-        "Vuelielaanteh"
+    "name:sma_x_preferred": [
+      "Vuelielaanteh"
     ],
-    "name:sme_x_preferred":[
-        "Vuolleeatnamat"
+    "name:sme_x_preferred": [
+      "Vuolleeatnamat"
     ],
-    "name:smo_x_preferred":[
-        "Netalani"
+    "name:smo_x_preferred": [
+      "Netalani"
     ],
-    "name:sna_x_preferred":[
-        "Netherlands"
+    "name:sna_x_preferred": [
+      "Netherlands"
     ],
-    "name:snd_x_preferred":[
-        "\u0646\u064a\u062f\u0631\u0644\u064a\u0646\u068a\u0632"
+    "name:snd_x_preferred": [
+      "نيدرلينڊز"
     ],
-    "name:som_x_preferred":[
-        "Holland"
+    "name:som_x_preferred": [
+      "Holland"
     ],
-    "name:sot_x_preferred":[
-        "H\u00f4lan\u00ea"
+    "name:sot_x_preferred": [
+      "Hôlanê"
     ],
-    "name:spa_x_preferred":[
-        "Pa\u00edses Bajos"
+    "name:spa_x_preferred": [
+      "Países Bajos"
     ],
-    "name:sqi_x_preferred":[
-        "Holanda"
+    "name:sqi_x_preferred": [
+      "Holanda"
     ],
-    "name:srd_x_preferred":[
-        "Logos Bascios"
+    "name:srd_x_preferred": [
+      "Logos Bascios"
     ],
-    "name:srn_x_preferred":[
-        "Bakrakondre"
+    "name:srn_x_preferred": [
+      "Bakrakondre"
     ],
-    "name:srp_x_preferred":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    "name:srp_x_preferred": [
+      "Холандија"
     ],
-    "name:ssw_x_preferred":[
-        "IDashi"
+    "name:ssw_x_preferred": [
+      "IDashi"
     ],
-    "name:stq_x_preferred":[
-        "Niederlounde"
+    "name:stq_x_preferred": [
+      "Niederlounde"
     ],
-    "name:sun_x_preferred":[
-        "Walanda"
+    "name:sun_x_preferred": [
+      "Walanda"
     ],
-    "name:swa_x_preferred":[
-        "Uholanzi"
+    "name:swa_x_preferred": [
+      "Uholanzi"
     ],
-    "name:swe_x_preferred":[
-        "Nederl\u00e4nderna"
+    "name:swe_x_preferred": [
+      "Nederländerna"
     ],
-    "name:szl_x_preferred":[
-        "\u0143iderlandy"
+    "name:szl_x_preferred": [
+      "Ńiderlandy"
     ],
-    "name:tah_x_preferred":[
-        "H\u014drane"
+    "name:tah_x_preferred": [
+      "Hōrane"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    "name:tam_x_preferred": [
+      "நெதர்லாந்து"
     ],
-    "name:tat_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u043b\u0430\u0440"
+    "name:tat_x_preferred": [
+      "Нидерландлар"
     ],
-    "name:tat_x_variant":[
-        "\u041d\u0438\u0434\u0438\u0440\u043b\u0430\u043d"
+    "name:tat_x_variant": [
+      "Нидирлан"
     ],
-    "name:tel_x_preferred":[
-        "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d"
+    "name:tel_x_preferred": [
+      "నెదర్లాండ్స్"
     ],
-    "name:tel_x_variant":[
-        "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+    "name:tel_x_variant": [
+      "నెదర్లాండ్"
     ],
-    "name:tet_x_preferred":[
-        "Olanda"
+    "name:tet_x_preferred": [
+      "Olanda"
     ],
-    "name:tgk_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:tgk_x_preferred": [
+      "Нидерланд"
     ],
-    "name:tgl_x_preferred":[
-        "Netherlands"
+    "name:tgl_x_preferred": [
+      "Netherlands"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    "name:tha_x_preferred": [
+      "ประเทศเนเธอร์แลนด์"
     ],
-    "name:ton_x_preferred":[
-        "Holani"
+    "name:ton_x_preferred": [
+      "Holani"
     ],
-    "name:tpi_x_preferred":[
-        "Netherlands"
+    "name:tpi_x_preferred": [
+      "Netherlands"
     ],
-    "name:tpi_x_variant":[
-        "Ol Nitelan"
+    "name:tpi_x_variant": [
+      "Ol Nitelan"
     ],
-    "name:tso_x_preferred":[
-        "Netherlands"
+    "name:tso_x_preferred": [
+      "Netherlands"
     ],
-    "name:tuk_x_preferred":[
-        "Niderlandlar"
+    "name:tuk_x_preferred": [
+      "Niderlandlar"
     ],
-    "name:tum_x_preferred":[
-        "Netherlands"
+    "name:tum_x_preferred": [
+      "Netherlands"
     ],
-    "name:tur_x_preferred":[
-        "Hollanda"
+    "name:tur_x_preferred": [
+      "Hollanda"
     ],
-    "name:twi_x_preferred":[
-        "Netherlands"
+    "name:twi_x_preferred": [
+      "Netherlands"
     ],
-    "name:udm_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:udm_x_preferred": [
+      "Нидерланд"
     ],
-    "name:uig_x_preferred":[
-        "\u06af\u0648\u0644\u0644\u0627\u0646\u062f\u0649\u064a\u06d5"
+    "name:uig_x_preferred": [
+      "گوللاندىيە"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438"
+    "name:ukr_x_preferred": [
+      "Нідерланди"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
+    "name:urd_x_preferred": [
+      "نیدرلینڈز"
     ],
-    "name:uzb_x_preferred":[
-        "Niderlandlar"
+    "name:uzb_x_preferred": [
+      "Niderlandlar"
     ],
-    "name:vec_x_preferred":[
-        "Pa\u00e9xi Basi"
+    "name:vec_x_preferred": [
+      "Paéxi Basi"
     ],
-    "name:vep_x_preferred":[
-        "Alamad"
+    "name:vep_x_preferred": [
+      "Alamad"
     ],
-    "name:vie_x_preferred":[
-        "H\u00e0 Lan"
+    "name:vie_x_preferred": [
+      "Hà Lan"
     ],
-    "name:vls_x_preferred":[
-        "Holland"
+    "name:vls_x_preferred": [
+      "Holland"
     ],
-    "name:vol_x_preferred":[
-        "Ned\u00e4n"
+    "name:vol_x_preferred": [
+      "Nedän"
     ],
-    "name:vro_x_preferred":[
-        "Holland"
+    "name:vro_x_preferred": [
+      "Holland"
     ],
-    "name:war_x_preferred":[
-        "Nederlandes"
+    "name:war_x_preferred": [
+      "Nederlandes"
     ],
-    "name:wln_x_preferred":[
-        "Bas Payis"
+    "name:wln_x_preferred": [
+      "Bas Payis"
     ],
-    "name:wol_x_preferred":[
-        "Olaand"
+    "name:wol_x_preferred": [
+      "Olaand"
     ],
-    "name:wuu_x_preferred":[
-        "\u5c3c\u5fb7\u5170"
+    "name:wuu_x_preferred": [
+      "尼德兰"
     ],
-    "name:xal_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0435\u043d\u0434\u0438\u043d \u041d\u0443\u0442\u0433"
+    "name:xal_x_preferred": [
+      "Недерлендин Нутг"
     ],
-    "name:xho_x_preferred":[
-        "ENetherlands"
+    "name:xho_x_preferred": [
+      "ENetherlands"
     ],
-    "name:xmf_x_preferred":[
-        "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d8"
+    "name:xmf_x_preferred": [
+      "ნიდერლანდი"
     ],
-    "name:yid_x_preferred":[
-        "\u05d4\u05d0\u05dc\u05d0\u05e0\u05d3"
+    "name:yid_x_preferred": [
+      "האלאנד"
     ],
-    "name:yor_x_preferred":[
-        "N\u1eb9\u0301d\u00e1l\u00e1nd\u00ec"
+    "name:yor_x_preferred": [
+      "Nẹ́dálándì"
     ],
-    "name:yue_x_preferred":[
-        "\u8377\u862d"
+    "name:yue_x_preferred": [
+      "荷蘭"
     ],
-    "name:zea_x_preferred":[
-        "Nederland"
+    "name:zea_x_preferred": [
+      "Nederland"
     ],
-    "name:zha_x_preferred":[
-        "Hwzlanz"
+    "name:zha_x_preferred": [
+      "Hwzlanz"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "O-l\u00e2n"
+    "name:zho_min_nan_x_preferred": [
+      "O-lân"
     ],
-    "name:zho_x_preferred":[
-        "\u8377\u5170"
+    "name:zho_x_preferred": [
+      "荷兰"
     ],
-    "name:zho_x_variant":[
-        "\u8377\u862d"
+    "name:zho_x_variant": [
+      "荷蘭"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u8377\u862d"
+    "name:zho_yue_x_preferred": [
+      "荷蘭"
     ],
-    "name:zul_x_preferred":[
-        "Netherlands"
+    "name:zul_x_preferred": [
+      "Netherlands"
     ],
-    "qs:a0":"Netherlands",
-    "qs:a0_alt":"Caribbean Netherlands",
-    "qs:adm0":"Netherlands",
-    "qs:adm0_a3":"NLD",
-    "qs:id":0,
-    "qs:level":"adm0",
-    "qs:scale":200000,
-    "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":19987,
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "hasc:id":"AN",
-        "icao:code":"PJ",
-        "wd:id":"Q55"
+    "qs:a0": "Netherlands",
+    "qs:a0_alt": "Caribbean Netherlands",
+    "qs:adm0": "Netherlands",
+    "qs:adm0_a3": "NLD",
+    "qs:id": 0,
+    "qs:level": "adm0",
+    "qs:scale": 200000,
+    "qs:source": "US State Department, with Natural Earth mods",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 19987,
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "hasc:id": "AN",
+      "icao:code": "PJ",
+      "wd:id": "Q55"
     },
-    "wof:country":"AN",
-    "wof:country_alpha3":"ANT",
-    "wof:geomhash":"33921ad2f807398b234b6c0a18384599",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632727
-        }
+    "wof:country": "AN",
+    "wof:country_alpha3": "ANT",
+    "wof:created": 1624906756,
+    "wof:geomhash": "33921ad2f807398b234b6c0a18384599",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85632727
+      }
     ],
-    "wof:id":85632727,
-    "wof:lastmodified":1566585624,
-    "wof:name":"Netherlands",
-    "wof:parent_id":-1,
-    "wof:placetype":"country",
-    "wof:repo":"whosonfirst-data-admin-an",
-    "wof:shortcode":"AN",
-    "wof:superseded_by":[
-        136251281
+    "wof:id": 85632727,
+    "wof:lastmodified": 1624906756,
+    "wof:name": "Netherlands",
+    "wof:parent_id": -1,
+    "wof:placetype": "country",
+    "wof:repo": "whosonfirst-data-admin-an",
+    "wof:shortcode": "AN",
+    "wof:superseded_by": [
+      136251281
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -68.41955566399997,
     12.02872180900005,
     -62.94294357299998,
     17.64855575600006
-],
+  ],
   "geometry": {"coordinates":[[[[-68.30330657999997,12.17374992400005],[-68.29994201699998,12.17208290100007],[-68.29747009299996,12.17208290100007],[-68.29491424599996,12.16952800800004],[-68.29369354199997,12.16913890800004],[-68.29369354199997,12.16833305400007],[-68.29119110099998,12.16580581700003],[-68.29119110099998,12.16419410700007],[-68.29039001499996,12.16333293900004],[-68.29039001499996,12.15833377800004],[-68.29122161899994,12.15747261000007],[-68.29122161899994,12.15580558800002],[-68.29497528099995,12.15202808400005],[-68.29830932599998,12.15041637400003],[-68.30339050299995,12.15038871800004],[-68.30419158899997,12.14958286300003],[-68.30833435099998,12.15291690800007],[-68.31002807599998,12.15291690800007],[-68.31253051799996,12.15461158800002],[-68.31666564899996,12.15455532100003],[-68.31755828899998,12.15541648900006],[-68.32086181599993,12.15536117600004],[-68.32169341999997,12.15455532100003],[-68.32583618199993,12.15377807600004],[-68.32705688499993,12.15583324400006],[-68.32711029099994,12.15916633600006],[-68.32289123499999,12.16416645100003],[-68.32119750999993,12.16827774000006],[-68.31996917699996,12.16961097700005],[-68.31575012199994,12.17038917500003],[-68.30833435099998,12.17369461100003],[-68.30330657999997,12.17374992400005]]],[[[-68.23874664299996,12.09663868000007],[-68.23916625999993,12.09624958000006],[-68.23960876499996,12.09663868000007],[-68.23913574199997,12.09705543500007],[-68.23874664299996,12.09663868000007]]],[[[-68.37080383299997,12.31286144300003],[-68.36830902099996,12.31119442000005],[-68.36411285399998,12.31119442000005],[-68.36333465599995,12.30958366400006],[-68.36164092999996,12.30958366400006],[-68.35536193799999,12.30330562600005],[-68.35536193799999,12.29997253400006],[-68.35285949699994,12.29749965700006],[-68.35285949699994,12.29663848900003],[-68.35041809099994,12.29416656500007],[-68.34622192399996,12.28583335900004],[-68.34330749499998,12.28455543500007],[-68.34080505399999,12.28288841200003],[-68.33911132799994,12.28041648900006],[-68.33830261199995,12.28041648900006],[-68.33750152599998,12.27875042000005],[-68.33660888699995,12.27875042000005],[-68.33491516099997,12.27627754200006],[-68.33327484099993,12.27627754200006],[-68.33078002899998,12.27458286300003],[-68.32913970899995,12.27458286300003],[-68.32746887199994,12.27205562600005],[-68.32414245599995,12.27124977100004],[-68.31952667199994,12.26749992400005],[-68.31952667199994,12.26663875600008],[-68.31744384799998,12.26458358800005],[-68.31500244099993,12.26369476300005],[-68.31330871599994,12.26208305400007],[-68.31160736099997,12.26208305400007],[-68.30991363499999,12.26041698500006],[-68.30496978799994,12.25794410700007],[-68.30327606199995,12.25794410700007],[-68.30163574199997,12.25619411500003],[-68.29994201699998,12.25625038100003],[-68.29914092999996,12.25452804600008],[-68.29660797099996,12.25458335900004],[-68.29575347899998,12.25372219100007],[-68.29330444299995,12.25377750400003],[-68.29241943399995,12.25291633600006],[-68.29077911399997,12.25291633600006],[-68.28327941899994,12.24874973300007],[-68.28163909899996,12.24874973300007],[-68.28121948199998,12.24666690800007],[-68.27952575699999,12.24413871800004],[-68.27955627399996,12.24166679400003],[-68.27494811999998,12.23875045800003],[-68.27161407499995,12.23872184800007],[-68.27080535899995,12.23958301500005],[-68.26828002899998,12.23958301500005],[-68.26747131299999,12.24038887000006],[-68.26333618199993,12.24041652700004],[-68.26244354199997,12.23955535900006],[-68.25830841099997,12.23875045800003],[-68.25497436499995,12.23708343500005],[-68.25330352799995,12.23708343500005],[-68.24916839599996,12.23458290100007],[-68.24583435099998,12.23458290100007],[-68.24494171099997,12.23372268700007],[-68.24244689899996,12.23372268700007],[-68.24163818399995,12.23291683200006],[-68.23247528099995,12.23213863400002],[-68.23163604699994,12.23127746600005],[-68.22744750999993,12.23130512200004],[-68.22411346399997,12.22963905300003],[-68.21997070299994,12.22963905300003],[-68.21910858199993,12.23044490800004],[-68.21747589099994,12.23041629800002],[-68.21663665799997,12.23127746600005],[-68.21330261199995,12.23127746600005],[-68.21244811999998,12.23047256500007],[-68.20747375499997,12.23124980900008],[-68.20661163299997,12.23044490800004],[-68.20327758799993,12.23044490800004],[-68.19914245599995,12.22797203100004],[-68.19744110099998,12.22794437400006],[-68.19286346399997,12.22341632800004],[-68.19369506799995,12.21588897700008],[-68.19458007799994,12.21502780900005],[-68.19533538799993,12.21169471700006],[-68.20119476299993,12.20752811400007],[-68.20372009299996,12.20247268700007],[-68.20372009299996,12.19669437400006],[-68.20619201699998,12.19330596900005],[-68.20619201699998,12.19163894700006],[-68.20708465599995,12.19083309200005],[-68.20703124999994,12.18744468700004],[-68.20786285399998,12.18663883200003],[-68.20703124999994,12.18583297700008],[-68.20703124999994,12.18330574000004],[-68.20536041299994,12.18083286300003],[-68.20536041299994,12.17830562600005],[-68.20455932599998,12.17744445800002],[-68.20366668699995,12.17583370200003],[-68.20369720499997,12.17244434400004],[-68.20285797099996,12.17163848900003],[-68.20207977299998,12.16744422900007],[-68.20038604699994,12.16416645100003],[-68.19953155499996,12.15997219100007],[-68.19533538799993,12.15163898500003],[-68.19455718999995,12.14744472500007],[-68.19286346399997,12.14497184800007],[-68.19288635299995,12.13163852700006],[-68.19455718999995,12.12913894700006],[-68.19535827599998,12.12580585500007],[-68.19789123499999,12.12333297700008],[-68.19958496099997,12.12002754200006],[-68.20911407499995,12.11038875600008],[-68.21244811999998,12.10875034300005],[-68.21666717499994,12.10622215300003],[-68.22039031999998,12.10663890800004],[-68.22127532999997,12.10916709900005],[-68.22002410899995,12.10955524400003],[-68.21916961699998,12.10875034300005],[-68.21747589099994,12.11041641200006],[-68.21577453599997,12.10955524400003],[-68.21455383299997,12.11166667900005],[-68.21453094499998,12.11333370200003],[-68.21705627399996,12.11494445800002],[-68.21785736099997,12.11833286300003],[-68.21913909899996,12.11955547300005],[-68.22077941899994,12.11955547300005],[-68.22205352799995,12.12083339700007],[-68.22116851799996,12.12163925200002],[-68.22203063999996,12.12416648900006],[-68.22583007799994,12.12788868000007],[-68.22997283899997,12.12705516800003],[-68.23078155499996,12.12791633600006],[-68.23247528099995,12.12791633600006],[-68.23327636699997,12.12705516800003],[-68.23497009299996,12.12705516800003],[-68.23703002899998,12.125],[-68.23703002899998,12.12327766400006],[-68.23867034899996,12.11999988600007],[-68.23791503899997,12.11827755000007],[-68.23874664299996,12.11747264900004],[-68.23874664299996,12.11413860300007],[-68.23794555699993,12.11327743500004],[-68.23789215099998,12.10669422100005],[-68.23960876499996,12.10497188600004],[-68.24041747999996,12.10083293900004],[-68.23960876499996,12.09997177100007],[-68.23960876499996,12.09744453400003],[-68.24044799799998,12.09583377800004],[-68.23752593999995,12.09455585500007],[-68.23542022699996,12.09497261000007],[-68.23630523699995,12.09583377800004],[-68.23542022699996,12.09749984700005],[-68.23627471899994,12.09830570200006],[-68.23627471899994,12.09997177100007],[-68.23419189499998,12.10041713700002],[-68.23377990699998,12.09994411500003],[-68.23377990699998,12.09827804600008],[-68.23208618199993,12.09666633600006],[-68.23127746599994,12.09413909900007],[-68.22961425799997,12.09327793100005],[-68.22961425799997,12.08747196200005],[-68.22880554199998,12.08666706100007],[-68.22875213599997,12.08169460300007],[-68.22794341999997,12.08080577900006],[-68.22794341999997,12.07750034300005],[-68.22708129899996,12.07669448900003],[-68.22708129899996,12.07497215300003],[-68.22544097899998,12.07327747300008],[-68.22538757299998,12.07169437400006],[-68.22296905499996,12.06747245800005],[-68.22294616699998,12.05669403100006],[-68.22211456299993,12.05583286300003],[-68.22294616699998,12.04916667900005],[-68.22541809099994,12.04330539700004],[-68.22711181599993,12.04166698500006],[-68.22958373999995,12.03580570200006],[-68.23249816899994,12.03288841200003],[-68.23583221399997,12.03208351100005],[-68.23752593999995,12.03036117600004],[-68.24250030499996,12.02958297700008],[-68.24336242699997,12.02872180900005],[-68.24749755899995,12.02872180900005],[-68.25211334199997,12.03333377800004],[-68.25252532999997,12.03455543500007],[-68.25833129899996,12.03702735900004],[-68.26210784899996,12.04083347300008],[-68.26461029099994,12.04583358800005],[-68.26461029099994,12.04749965700006],[-68.26625060999999,12.04997253400006],[-68.26711273199999,12.05249977100004],[-68.27252960199996,12.05791664100008],[-68.27583312999997,12.05958366400006],[-68.27752685499996,12.05958366400006],[-68.27960967999996,12.06166648900006],[-68.27960967999996,12.06247234300002],[-68.28044128399995,12.06333351100005],[-68.28047180199997,12.07252788500006],[-68.27958679199998,12.07333374000007],[-68.27874755899995,12.08330535900006],[-68.27960967999996,12.08411121400007],[-68.27960967999996,12.08663845100006],[-68.28044128399995,12.08749961900003],[-68.28041839599996,12.09083366400006],[-68.28130340599995,12.09163856500004],[-68.28208160399998,12.09663868000007],[-68.28291320799997,12.09749984700005],[-68.28291320799997,12.10083293900004],[-68.28377532999997,12.10163879400005],[-68.28458404499997,12.10583305400007],[-68.28878021199995,12.11083316800006],[-68.28878021199995,12.11163902300007],[-68.29041290299995,12.11250019100004],[-68.29296874999994,12.11663913700005],[-68.29294586199995,12.12163925200002],[-68.29125213599997,12.12411117600004],[-68.28627777099996,12.12994480100002],[-68.28544616699998,12.13333320600003],[-68.27999877899998,12.13872242000002],[-68.27919769299996,12.13872242000002],[-68.27449798599997,12.14416694600004],[-68.27455902099996,12.15002822900004],[-68.27536010699998,12.15083313000002],[-68.27536010699998,12.15416622200007],[-68.27703094499998,12.15750026700005],[-68.27703094499998,12.15916633600006],[-68.27872466999997,12.16250038100003],[-68.28541564899996,12.16830539700004],[-68.28538513199999,12.17416667900005],[-68.29122161899994,12.18163871800004],[-68.29119110099998,12.18416690800007],[-68.29452514599996,12.18997192400008],[-68.29450225799997,12.19250011400004],[-68.29538726799996,12.19330596900005],[-68.29538726799996,12.19577789300007],[-68.30078124999994,12.20125007600006],[-68.30744171099997,12.20452785500004],[-68.31244659399994,12.20955562600005],[-68.31494140599995,12.21041679400003],[-68.31996917699996,12.21541690800007],[-68.32083129899996,12.21541690800007],[-68.32158660899995,12.21622180900005],[-68.32411193799999,12.21544456500004],[-68.32746887199994,12.21705532100003],[-68.32994079599996,12.21705532100003],[-68.33413696299993,12.21958351100005],[-68.33663940399998,12.21875],[-68.34077453599997,12.22208309200005],[-68.34410858199993,12.22208309200005],[-68.34497070299994,12.22288894700006],[-68.34830474899996,12.22288894700006],[-68.35075378399995,12.22458362600003],[-68.37496948199998,12.22458362600003],[-68.37580871599994,12.22372245800005],[-68.37744140599995,12.22372245800005],[-68.37830352799995,12.22458362600003],[-68.39577484099993,12.22455596900005],[-68.39913940399998,12.22702789300007],[-68.40161132799994,12.22702789300007],[-68.40247344999995,12.22791671800007],[-68.40416717499994,12.22791671800007],[-68.40491485599995,12.22872257200004],[-68.40824890099998,12.22958374000007],[-68.41033172599998,12.23166656500007],[-68.41033172599998,12.23411083200006],[-68.41122436499995,12.23499965700006],[-68.41119384799998,12.24750042000005],[-68.41205596899994,12.24830532100003],[-68.41449737499994,12.25330543500007],[-68.41789245599995,12.25663852700006],[-68.41869354199997,12.25830555000005],[-68.41869354199997,12.26249980900008],[-68.41955566399997,12.26330566400003],[-68.41955566399997,12.26583290100007],[-68.41744232199994,12.26788902300007],[-68.41410827599998,12.26875019100004],[-68.41288757299998,12.26997184800007],[-68.41288757299998,12.27333354900003],[-68.41369628899997,12.27413845100006],[-68.41369628899997,12.27747249600003],[-68.41455841099997,12.27913856500004],[-68.41286468499999,12.28166675600005],[-68.41286468499999,12.28747177100007],[-68.41371917699996,12.28833293900004],[-68.41371917699996,12.29080581700003],[-68.41208648699995,12.29419422100005],[-68.41038513199999,12.29580593100007],[-68.41038513199999,12.297472],[-68.40330505399999,12.30455589300004],[-68.40161132799994,12.30455589300004],[-68.39997100799997,12.30708313000002],[-68.39744567899999,12.30794429800005],[-68.39622497599998,12.30913925200002],[-68.39622497599998,12.31080532100003],[-68.39247131299999,12.31291675600005],[-68.38825225799997,12.31705570200006],[-68.38246917699996,12.31708335900004],[-68.38077545199997,12.31536102300004],[-68.37664031999998,12.31455516800003],[-68.37494659399994,12.31288909900007],[-68.37080383299997,12.31286144300003]]],[[[-62.99252700799997,17.52124977100004],[-62.99169540399998,17.52038955700004],[-62.99000167799994,17.52038955700004],[-62.98791503899997,17.51833343500005],[-62.98588943499993,17.51119422900007],[-62.98336029099994,17.51119422900007],[-62.98252868699996,17.51205635100007],[-62.97833251999998,17.51205635100007],[-62.97624969499998,17.50913810700007],[-62.97708511399998,17.50247192400008],[-62.97624969499998,17.50080490100004],[-62.97458267199994,17.5],[-62.97422409099994,17.49875068700004],[-62.97333145099998,17.49875068700004],[-62.97085952799995,17.49622154200006],[-62.96919632,17.49622154200006],[-62.96836090099998,17.49541664100008],[-62.96752929699994,17.49622154200006],[-62.96500015299995,17.49622154200006],[-62.96005630499997,17.49374961900003],[-62.95830535899995,17.49122238200005],[-62.95502853399995,17.48955535900006],[-62.95333480799997,17.48955535900006],[-62.95249938999996,17.48788833600003],[-62.95166778599997,17.48788833600003],[-62.95000076299993,17.48622131300004],[-62.94664001499996,17.48536109900004],[-62.94294357299998,17.48083305400007],[-62.94294357299998,17.47416687000003],[-62.94377899199998,17.47330474900002],[-62.94461059599996,17.46830558800008],[-62.94713973999995,17.46413803100006],[-62.95000076299993,17.46205520600006],[-62.95166778599997,17.46205520600006],[-62.95252609299996,17.46125030500002],[-62.95586013799993,17.46125030500002],[-62.95669555699993,17.46038818400007],[-62.95922088599997,17.45874977100004],[-62.96836090099998,17.45874977100004],[-62.96919632,17.45955467200002],[-62.97333145099998,17.45955467200002],[-62.97583389299996,17.46208381700006],[-62.97752761799995,17.46208381700006],[-62.98127746599994,17.46747207600004],[-62.98288726799996,17.46913909900007],[-62.98288726799996,17.47166633600006],[-62.98377609299996,17.47247314500004],[-62.98463821399997,17.47583389300007],[-62.98749923699995,17.47877693200007],[-62.99085998499999,17.48038864100005],[-62.99544525099998,17.48416709900005],[-62.99708175699993,17.48830604600005],[-62.99708175699993,17.49583244300004],[-62.998806,17.49827766400006],[-62.99911117599999,17.5],[-62.998806,17.50413894700006],[-62.99708175699993,17.50666618300005],[-62.99708175699993,17.51000022900007],[-62.99791717499994,17.51080513000005],[-62.99791717499994,17.51252746600005],[-62.99708175699993,17.51333427400004],[-62.99708175699993,17.51580619800006],[-62.99544525099998,17.52077865600006],[-62.99252700799997,17.52124977100004]]],[[[-63.24261093099994,17.64855575600006],[-63.23841476399997,17.64605522200003],[-63.23427963299997,17.64605522200003],[-63.23344421399997,17.64525032000006],[-63.23091507,17.64525032000006],[-63.23008346599994,17.64438819900005],[-63.22588729899996,17.64519500700004],[-63.22511291499995,17.64605522200003],[-63.22422409099994,17.64519500700004],[-63.22177887,17.64519500700004],[-63.22050094599996,17.64399910000003],[-63.22050094599996,17.64233398400006],[-63.22133254999994,17.64061164900005],[-63.22302627599998,17.63980484000007],[-63.22386169399994,17.63733291600005],[-63.21841812099996,17.63688850400007],[-63.21714019799998,17.63563919100005],[-63.21714019799998,17.63150024400005],[-63.21838760399999,17.62936019900008],[-63.21963882399996,17.62897300700007],[-63.22047042799994,17.62563896200004],[-63.22299957299998,17.62230491600008],[-63.22383499099993,17.62063980100004],[-63.22383499099993,17.61816597000006],[-63.22591781599994,17.61611175500008],[-63.23011016799995,17.61608314500006],[-63.23088836699998,17.61522293100006],[-63.23338699299995,17.61522293100006],[-63.23508453399995,17.61441612200002],[-63.23675155599994,17.61269378700007],[-63.23925018299997,17.61269378700007],[-63.24002838099995,17.61188888500004],[-63.24422073399995,17.61188888500004],[-63.24505615199996,17.61269378700007],[-63.25094604499998,17.61274910000003],[-63.25591659499997,17.61519432100005],[-63.25925064099994,17.61524963400007],[-63.26136016799995,17.61730575600006],[-63.26136016799995,17.62563896200004],[-63.25886154199998,17.63063812300004],[-63.25713729899996,17.63397216800007],[-63.25713729899996,17.63730621300004],[-63.25552749599996,17.63983345000003],[-63.25547409099994,17.64397239700003],[-63.25091552699996,17.64436149600004],[-63.24505615199996,17.64855575600006],[-63.24261093099994,17.64855575600006]]]],"type":"MultiPolygon"}
 }

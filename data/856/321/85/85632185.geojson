@@ -2,544 +2,545 @@
   "id": 85632185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.003184,
-    "geom:area_square_m":37431303.975564,
-    "geom:bbox":"-63.139164,18.00511,-63.013638,18.064115",
-    "geom:latitude":18.038975,
-    "geom:longitude":-63.062679,
-    "gn:population":37429,
-    "iso:country":"SX",
-    "itu:country_code":[
-        "1-721"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.003183627821999963,
+    "geom:area_square_m": 37431303.975564,
+    "geom:bbox": "-63.139164,18.005110,-63.013638,18.064115",
+    "geom:latitude": 18.038975139553013,
+    "geom:longitude": -63.06267900295347,
+    "gn:population": 37429,
+    "iso:country": "SX",
+    "itu:country_code": [
+      "1-721"
     ],
-    "itu:region":"1",
-    "label:eng_x_preferred_shortcode":[
-        "SX"
+    "itu:region": "1",
+    "label:eng_x_preferred_shortcode": [
+      "SX"
     ],
-    "lbl:latitude":18.04235,
-    "lbl:longitude":-63.058383,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":18.04235,
-    "mps:longitude":-63.058383,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":10.0,
-    "mz:min_zoom":5.0,
-    "name:afr_x_preferred":[
-        "Sint Maarten"
+    "lbl:latitude": 18.04235,
+    "lbl:longitude": -63.058383,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 18.04235,
+    "mps:longitude": -63.058383,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 10,
+    "mz:min_zoom": 5,
+    "name:afr_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:als_x_preferred":[
-        "Sint Maarten"
+    "name:als_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ara_x_preferred":[
-        "\u0633\u064a\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    "name:ara_x_preferred": [
+      "سينت مارتن"
     ],
-    "name:ara_x_variant":[
-        "\u0633\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    "name:ara_x_variant": [
+      "سنت مارتن"
     ],
-    "name:arg_x_preferred":[
-        "Sint Maarten"
+    "name:arg_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ast_x_preferred":[
-        "Sint Maarten"
+    "name:ast_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:azb_x_preferred":[
-        "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    "name:azb_x_preferred": [
+      "سینت مارتن"
     ],
-    "name:aze_x_preferred":[
-        "Sint-Marten"
+    "name:aze_x_preferred": [
+      "Sint-Marten"
     ],
-    "name:bak_x_preferred":[
-        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    "name:bak_x_preferred": [
+      "Синт-Мартен"
     ],
-    "name:bel_x_preferred":[
-        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u044d\u043d"
+    "name:bel_x_preferred": [
+      "Сінт-Мартэн"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0430\u0440\u0442\u044d\u043d"
+    "name:bel_x_variant": [
+      "Сінт-Маартэн"
     ],
-    "name:ben_x_preferred":[
-        "\u09b8\u09bf\u09a8\u09cd\u099f \u09ae\u09be\u09b0\u09cd\u099f\u09c7\u09a8"
+    "name:ben_x_preferred": [
+      "সিন্ট মার্টেন"
     ],
-    "name:bos_x_preferred":[
-        "Sint Maarten"
+    "name:bos_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:bre_x_preferred":[
-        "Sint Maarten (stad)",
-        "Sint Maarten"
+    "name:bre_x_preferred": [
+      "Sint Maarten (stad)",
+      "Sint Maarten"
     ],
-    "name:bul_x_preferred":[
-        "\u0421\u0438\u043d\u0442 \u041c\u0430\u0440\u0442\u0435\u043d"
+    "name:bul_x_preferred": [
+      "Синт Мартен"
     ],
-    "name:cat_x_preferred":[
-        "Sint Maarten"
+    "name:cat_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:cdo_x_preferred":[
-        "Sint Maarten"
+    "name:cdo_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ceb_x_preferred":[
-        "Sint Maarten"
+    "name:ceb_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ces_x_preferred":[
-        "Svat\u00fd Martin (nizozemsk\u00e1 \u010d\u00e1st)",
-        "Svat\u00fd Martin"
+    "name:ces_x_preferred": [
+      "Svatý Martin (nizozemská část)",
+      "Svatý Martin"
     ],
-    "name:chy_x_preferred":[
-        "Sint Maarten"
+    "name:chy_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:cym_x_preferred":[
-        "Sint Maarten"
+    "name:cym_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:dan_x_preferred":[
-        "Sint Maarten"
+    "name:dan_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:deu_x_preferred":[
-        "Sint Maarten"
+    "name:deu_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ell_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2 (\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1)",
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2"
+    "name:ell_x_preferred": [
+      "Άγιος Μαρτίνος (Ολλανδία)",
+      "Άγιος Μαρτίνος"
     ],
-    "name:eng_x_preferred":[
-        "Sint Maarten"
+    "name:eng_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:eng_x_unknown":[
-        "SX",
-        "SXM"
+    "name:eng_x_unknown": [
+      "SX",
+      "SXM"
     ],
-    "name:eng_x_variant":[
-        "Country of Sint Maarten",
-        "Sint Maarten (Dutch Part)"
+    "name:eng_x_variant": [
+      "Country of Sint Maarten",
+      "Sint Maarten (Dutch Part)"
     ],
-    "name:epo_x_preferred":[
-        "Sint-Maarten"
+    "name:epo_x_preferred": [
+      "Sint-Maarten"
     ],
-    "name:epo_x_variant":[
-        "Sankt-Marteno Nederlanda"
+    "name:epo_x_variant": [
+      "Sankt-Marteno Nederlanda"
     ],
-    "name:est_x_preferred":[
-        "Sint Maarten"
+    "name:est_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:eus_x_preferred":[
-        "Sint Maarten"
+    "name:eus_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:fao_x_preferred":[
-        "Sint Maarten"
+    "name:fao_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:fas_x_preferred":[
-        "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    "name:fas_x_preferred": [
+      "سینت مارتن"
     ],
-    "name:fin_x_preferred":[
-        "Sint Maarten (Alankomaat)",
-        "Sint Maarten"
+    "name:fin_x_preferred": [
+      "Sint Maarten (Alankomaat)",
+      "Sint Maarten"
     ],
-    "name:fra_x_preferred":[
-        "Saint-Martin (Royaume des Pays-Bas)",
-        "Saint-Martin"
+    "name:fra_x_preferred": [
+      "Saint-Martin (Royaume des Pays-Bas)",
+      "Saint-Martin"
     ],
-    "name:fra_x_variant":[
-        "\u00cele de Saint-Martin",
-        "\u00c9tat de Saint-Martin"
+    "name:fra_x_variant": [
+      "Île de Saint-Martin",
+      "État de Saint-Martin"
     ],
-    "name:frr_x_preferred":[
-        "Sint Maarten"
+    "name:frr_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:fry_x_preferred":[
-        "Sint-Marten (l\u00e2n)",
-        "Sint-Marten"
+    "name:fry_x_preferred": [
+      "Sint-Marten (lân)",
+      "Sint-Marten"
     ],
-    "name:fry_x_variant":[
-        "Sint Marten"
+    "name:fry_x_variant": [
+      "Sint Marten"
     ],
-    "name:gag_x_preferred":[
-        "Sint Maarten"
+    "name:gag_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:glg_x_preferred":[
-        "Sint Maarten"
+    "name:glg_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:gom_x_preferred":[
-        "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
+    "name:gom_x_preferred": [
+      "सिंट मार्टेन"
     ],
-    "name:gsw_x_preferred":[
-        "Sint Maarten"
+    "name:gsw_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab8\u0abf\u0aa8\u0acd\u0a9f \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0aa8"
+    "name:guj_x_preferred": [
+      "સિન્ટ માર્ટન"
     ],
-    "name:hak_x_preferred":[
-        "Sint Maarten"
+    "name:hak_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:hbs_x_preferred":[
-        "Sint Maarten"
+    "name:hbs_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:heb_x_preferred":[
-        "\u05e1\u05e0\u05d8 \u05de\u05d0\u05e8\u05d8\u05df"
+    "name:heb_x_preferred": [
+      "סנט מארטן"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
+    "name:hin_x_preferred": [
+      "सिंट मार्टेन"
     ],
-    "name:hrv_x_preferred":[
-        "Sveti Martin"
+    "name:hrv_x_preferred": [
+      "Sveti Martin"
     ],
-    "name:hun_x_preferred":[
-        "Sint Maarten"
+    "name:hun_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:hye_x_preferred":[
-        "\u054d\u056b\u0576\u057f \u0544\u0561\u0561\u0580\u057f\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Սինտ Մաարտեն"
     ],
-    "name:ina_x_preferred":[
-        "Sint Maarten"
+    "name:ina_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ind_x_preferred":[
-        "Sint Maarten"
+    "name:ind_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:isl_x_preferred":[
-        "Sint Maarten"
+    "name:isl_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:ita_x_preferred":[
-        "Sint Maarten"
+    "name:ita_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:jam_x_preferred":[
-        "Sin Maatn"
+    "name:jam_x_preferred": [
+      "Sin Maatn"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3"
+    "name:jpn_x_preferred": [
+      "シント・マールテン"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb8\u0cbf\u0c82\u0c9f\u0ccd \u0cae\u0cbe\u0cb0\u0ccd\u0c9f\u0cc6\u0ca8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಸಿಂಟ್ ಮಾರ್ಟೆನ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e2-\u10db\u10d0\u10e0\u10e2\u10d4\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "სინტ-მარტენი"
     ],
-    "name:kor_x_preferred":[
-        "\uc2e0\ud2b8\ub9c8\ub974\ud134"
+    "name:kor_x_preferred": [
+      "신트마르턴"
     ],
-    "name:kor_x_variant":[
-        "\uc2e0\ud2b8\ub9c8\ub974\ud150"
+    "name:kor_x_variant": [
+      "신트마르텐"
     ],
-    "name:lad_x_preferred":[
-        "Sint Maarten"
+    "name:lad_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:lav_x_preferred":[
-        "Sintm\u0101rtena"
+    "name:lav_x_preferred": [
+      "Sintmārtena"
     ],
-    "name:lfn_x_preferred":[
-        "San Martin"
+    "name:lfn_x_preferred": [
+      "San Martin"
     ],
-    "name:lim_x_preferred":[
-        "Sint Maarten (Nederlands)",
-        "Sint Maarten"
+    "name:lim_x_preferred": [
+      "Sint Maarten (Nederlands)",
+      "Sint Maarten"
     ],
-    "name:lit_x_preferred":[
-        "Sint Martenas"
+    "name:lit_x_preferred": [
+      "Sint Martenas"
     ],
-    "name:lmo_x_preferred":[
-        "Sint Maarten"
+    "name:lmo_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:mal_x_preferred":[
-        "\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d4d \u0d2e\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d7b"
+    "name:mal_x_preferred": [
+      "സിന്റ് മാർട്ടൻ"
     ],
-    "name:mar_x_preferred":[
-        "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
+    "name:mar_x_preferred": [
+      "सिंट मार्टेन"
     ],
-    "name:mkd_x_preferred":[
-        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d (\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430)",
-        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d"
+    "name:mkd_x_preferred": [
+      "Свети Мартин (Холандија)",
+      "Свети Мартин"
     ],
-    "name:mlt_x_preferred":[
-        "Sint Maarten"
+    "name:mlt_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:msa_x_preferred":[
-        "Sint Maarten"
+    "name:msa_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:myv_x_preferred":[
-        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    "name:myv_x_preferred": [
+      "Синт-Мартен"
     ],
-    "name:nan_x_preferred":[
-        "Sint Maarten"
+    "name:nan_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:nld_x_preferred":[
-        "Sint Maarten (land)",
-        "Sint Maarten"
+    "name:nld_x_preferred": [
+      "Sint Maarten (land)",
+      "Sint Maarten"
     ],
-    "name:nld_x_variant":[
-        "Stmaarten",
-        "St. Maarten",
-        "St Maarten",
-        "Sint Maarten Eiland",
-        "Eilandgebied Sint Maarten",
-        "Land Sint Maarten"
+    "name:nld_x_variant": [
+      "Stmaarten",
+      "St. Maarten",
+      "St Maarten",
+      "Sint Maarten Eiland",
+      "Eilandgebied Sint Maarten",
+      "Land Sint Maarten"
     ],
-    "name:nno_x_preferred":[
-        "Sint Maarten"
+    "name:nno_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:nob_x_preferred":[
-        "Sint Maarten"
+    "name:nob_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:nor_x_preferred":[
-        "Sint Maarten"
+    "name:nor_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:oci_x_preferred":[
-        "Sint Maarten"
+    "name:oci_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:pan_x_preferred":[
-        "\u0a38\u0a3f\u0a70\u0a1f \u0a2e\u0a3e\u0a30\u0a1f\u0a28"
+    "name:pan_x_preferred": [
+      "ਸਿੰਟ ਮਾਰਟਨ"
     ],
-    "name:pap_x_preferred":[
-        "sint maarten"
+    "name:pap_x_preferred": [
+      "sint maarten"
     ],
-    "name:pms_x_preferred":[
-        "Sint Maarten"
+    "name:pms_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:pnb_x_preferred":[
-        "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
+    "name:pnb_x_preferred": [
+      "سینٹ مارٹن"
     ],
-    "name:pol_x_preferred":[
-        "Sint Maarten (terytorium)",
-        "Sint Maarten"
+    "name:pol_x_preferred": [
+      "Sint Maarten (terytorium)",
+      "Sint Maarten"
     ],
-    "name:por_x_preferred":[
-        "S\u00e3o Martinho (Pa\u00edses Baixos)",
-        "S\u00e3o Martinho"
+    "name:por_x_preferred": [
+      "São Martinho (Países Baixos)",
+      "São Martinho"
     ],
-    "name:por_x_variant":[
-        "Ilha de S\u00e3o Martinho"
+    "name:por_x_variant": [
+      "Ilha de São Martinho"
     ],
-    "name:ron_x_preferred":[
-        "Sint Maarten"
+    "name:ron_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    "name:rus_x_preferred": [
+      "Синт-Мартен"
     ],
-    "name:sco_x_preferred":[
-        "Sint Maarten"
+    "name:sco_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc3\u0dd2\u0db1\u0dca\u0da7\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0db1\u0dca"
+    "name:sin_x_preferred": [
+      "සින්ට් මාර්ටෙන්"
     ],
-    "name:slk_x_preferred":[
-        "Sint Maarten"
+    "name:slk_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:spa_x_preferred":[
-        "Sint Maarten"
+    "name:spa_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:spa_x_variant":[
-        "Isla de San Mart\u00edn",
-        "San Mart\u00edn"
+    "name:spa_x_variant": [
+      "Isla de San Martín",
+      "San Martín"
     ],
-    "name:srn_x_preferred":[
-        "Sint Maarten"
+    "name:srn_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:srp_x_preferred":[
-        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d (\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430)",
-        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d"
+    "name:srp_x_preferred": [
+      "Свети Мартин (Холандија)",
+      "Свети Мартин"
     ],
-    "name:sun_x_preferred":[
-        "Sint Maarten"
+    "name:sun_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:swa_x_preferred":[
-        "Sint Maarten"
+    "name:swa_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:swe_x_preferred":[
-        "Sint Maarten"
+    "name:swe_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0ba9\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd"
+    "name:tam_x_preferred": [
+      "சின்டு மார்தின்"
     ],
-    "name:tel_x_preferred":[
-        "\u0c38\u0c3f\u0c02\u0c1f\u0c4d \u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c46\u0c28\u0c4d"
+    "name:tel_x_preferred": [
+      "సింట్ మార్టెన్"
     ],
-    "name:tgl_x_preferred":[
-        "Sint Maarten"
+    "name:tgl_x_preferred": [
+      "Sint Maarten"
     ],
-    "name:tha_x_preferred":[
-        "\u0e0b\u0e34\u0e19\u0e15\u0e4c\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e15\u0e34\u0e19"
+    "name:tha_x_preferred": [
+      "ซินต์มาร์เติน"
     ],
-    "name:tur_x_preferred":[
-        "Sint Maarten"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
-    ],
-    "name:urd_x_preferred":[
-        "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646 (\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632)",
-        "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
-    ],
-    "name:vie_x_preferred":[
-        "Sint Maarten"
-    ],
-    "name:war_x_preferred":[
-        "Sint Maarten"
-    ],
-    "name:wuu_x_preferred":[
-        "\u8377\u5c5e\u5723\u9a6c\u4e01"
-    ],
-    "name:yue_x_preferred":[
-        "\u8377\u5c6c\u8056\u99ac\u4e01"
-    ],
-    "name:zho_x_preferred":[
-        "\u8377\u5c6c\u8056\u99ac\u4e01"
-    ],
-    "name:zho_x_variant":[
-        "\u5723\u9a6c\u4e01\u5c9b"
-    ],
-    "ne:abbrev":"St. M.",
-    "ne:abbrev_len":6,
-    "ne:adm0_a3":"SXM",
-    "ne:adm0_a3_is":"SXM",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"SXM",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":1,
-    "ne:admin":"Sint Maarten",
-    "ne:brk_a3":"SXM",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Sint Maarten",
-    "ne:continent":"North America",
-    "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10_":"NT",
-    "ne:formal_en":"Sint Maarten (Dutch part)",
-    "ne:formal_fr":null,
-    "ne:gdp_md_est":400,
-    "ne:gdp_year":-99,
-    "ne:geou_dif":0,
-    "ne:geounit":"Sint Maarten",
-    "ne:gu_a3":"SXM",
-    "ne:homepart":-99,
-    "ne:income_grp":"2. High income: nonOECD",
-    "ne:iso_a2":"SX",
-    "ne:iso_a3":"SXM",
-    "ne:iso_n3":534,
-    "ne:labelrank":6,
-    "ne:lastcensus":-99,
-    "ne:level":2,
-    "ne:long_len":12,
-    "ne:mapcolor13":9,
-    "ne:mapcolor7":4,
-    "ne:mapcolor8":2,
-    "ne:mapcolor9":2,
-    "ne:name":"Sint Maarten",
-    "ne:name_alt":null,
-    "ne:name_len":12,
-    "ne:name_long":"Sint Maarten",
-    "ne:name_sort":"St. Maarten (Dutch part)",
-    "ne:note_adm0":"Neth.",
-    "ne:note_brk":null,
-    "ne:pop_est":37429,
-    "ne:pop_year":-99,
-    "ne:postal":"SX",
-    "ne:region_un":"Americas",
-    "ne:region_wb":"Latin America & Caribbean",
-    "ne:scalerank":3,
-    "ne:sov_a3":"NL1",
-    "ne:sovereignt":"Netherlands",
-    "ne:su_a3":"SXM",
-    "ne:su_dif":0,
-    "ne:subregion":"Caribbean",
-    "ne:subunit":"Sint Maarten",
-    "ne:tiny":4,
-    "ne:type":"Country",
-    "ne:un_a3":"534",
-    "ne:wb_a2":"SX",
-    "ne:wb_a3":"SXM",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":-90,
-    "ne:woe_id_eh":23425000,
-    "ne:woe_note":"Expired subunits of Netherlands Antilles (23424914).",
-    "qs:a0":"Sint Maarten",
-    "qs:a0_alt":"Sint Maarten",
-    "qs:adm0":"Sint Maarten",
-    "qs:adm0_a3":"SXM",
-    "qs:id":0,
-    "qs:level":"adm0",
-    "qs:scale":200000,
-    "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "naturalearth",
-        "quattroshapes"
-    ],
-    "src:geom_via":"us-dshiu",
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "statoids:dial":"1-721",
-    "statoids:ds":"",
-    "statoids:fifa":"",
-    "statoids:gaul":"",
-    "statoids:gec":"NN",
-    "statoids:independent":"Part of NL",
-    "statoids:ioc":"",
-    "statoids:iso_a2":"SX",
-    "statoids:iso_a3":"SXM",
-    "statoids:iso_num":"534",
-    "statoids:itu":"",
-    "statoids:marc":"sn",
-    "statoids:name":"Sint Maarten",
-    "statoids:wmo":"",
-    "wd:wordcount":3357,
-    "wof:belongsto":[
-        102191575
-    ],
-    "wof:breaches":[],
-    "wof:capital":[
-        890434823
-    ],
-    "wof:concordances":{
-        "digitalenvoy:country_code":534,
-        "fips:code":"NN",
-        "gn:id":7609695,
-        "gp:id":56558058,
-        "hasc:id":"SX",
-        "m49:code":"534",
-        "marc:id":"sn",
-        "ne:adm0_a3":"SXM",
-        "qs_pg:id":693867,
-        "wd:id":"Q26273"
+    "name:tur_x_preferred": [
+      "Sint Maarten"
+    ],
+    "name:ukr_x_preferred": [
+      "Сінт-Мартен"
+    ],
+    "name:urd_x_preferred": [
+      "سنٹ مارٹن (نیدرلینڈز)",
+      "سنٹ مارٹن"
+    ],
+    "name:vie_x_preferred": [
+      "Sint Maarten"
+    ],
+    "name:war_x_preferred": [
+      "Sint Maarten"
+    ],
+    "name:wuu_x_preferred": [
+      "荷属圣马丁"
+    ],
+    "name:yue_x_preferred": [
+      "荷屬聖馬丁"
+    ],
+    "name:zho_x_preferred": [
+      "荷屬聖馬丁"
+    ],
+    "name:zho_x_variant": [
+      "圣马丁岛"
+    ],
+    "ne:abbrev": "St. M.",
+    "ne:abbrev_len": 6,
+    "ne:adm0_a3": "SXM",
+    "ne:adm0_a3_is": "SXM",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "SXM",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 1,
+    "ne:admin": "Sint Maarten",
+    "ne:brk_a3": "SXM",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Sint Maarten",
+    "ne:continent": "North America",
+    "ne:economy": "6. Developing region",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10_": "NT",
+    "ne:formal_en": "Sint Maarten (Dutch part)",
+    "ne:formal_fr": null,
+    "ne:gdp_md_est": 400,
+    "ne:gdp_year": -99,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Sint Maarten",
+    "ne:gu_a3": "SXM",
+    "ne:homepart": -99,
+    "ne:income_grp": "2. High income: nonOECD",
+    "ne:iso_a2": "SX",
+    "ne:iso_a3": "SXM",
+    "ne:iso_n3": 534,
+    "ne:labelrank": 6,
+    "ne:lastcensus": -99,
+    "ne:level": 2,
+    "ne:long_len": 12,
+    "ne:mapcolor13": 9,
+    "ne:mapcolor7": 4,
+    "ne:mapcolor8": 2,
+    "ne:mapcolor9": 2,
+    "ne:name": "Sint Maarten",
+    "ne:name_alt": null,
+    "ne:name_len": 12,
+    "ne:name_long": "Sint Maarten",
+    "ne:name_sort": "St. Maarten (Dutch part)",
+    "ne:note_adm0": "Neth.",
+    "ne:note_brk": null,
+    "ne:pop_est": 37429,
+    "ne:pop_year": -99,
+    "ne:postal": "SX",
+    "ne:region_un": "Americas",
+    "ne:region_wb": "Latin America \u0026 Caribbean",
+    "ne:scalerank": 3,
+    "ne:sov_a3": "NL1",
+    "ne:sovereignt": "Netherlands",
+    "ne:su_a3": "SXM",
+    "ne:su_dif": 0,
+    "ne:subregion": "Caribbean",
+    "ne:subunit": "Sint Maarten",
+    "ne:tiny": 4,
+    "ne:type": "Country",
+    "ne:un_a3": "534",
+    "ne:wb_a2": "SX",
+    "ne:wb_a3": "SXM",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": -90,
+    "ne:woe_id_eh": 23425000,
+    "ne:woe_note": "Expired subunits of Netherlands Antilles (23424914).",
+    "qs:a0": "Sint Maarten",
+    "qs:a0_alt": "Sint Maarten",
+    "qs:adm0": "Sint Maarten",
+    "qs:adm0_a3": "SXM",
+    "qs:id": 0,
+    "qs:level": "adm0",
+    "qs:scale": 200000,
+    "qs:source": "US State Department, with Natural Earth mods",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "naturalearth",
+      "quattroshapes"
+    ],
+    "src:geom_via": "us-dshiu",
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "statoids:dial": "1-721",
+    "statoids:ds": "",
+    "statoids:fifa": "",
+    "statoids:gaul": "",
+    "statoids:gec": "NN",
+    "statoids:independent": "Part of NL",
+    "statoids:ioc": "",
+    "statoids:iso_a2": "SX",
+    "statoids:iso_a3": "SXM",
+    "statoids:iso_num": "534",
+    "statoids:itu": "",
+    "statoids:marc": "sn",
+    "statoids:name": "Sint Maarten",
+    "statoids:wmo": "",
+    "wd:wordcount": 3357,
+    "wof:belongsto": [
+      102191575
+    ],
+    "wof:breaches": [],
+    "wof:capital": [
+      890434823
+    ],
+    "wof:concordances": {
+      "digitalenvoy:country_code": 534,
+      "fips:code": "NN",
+      "gn:id": 7609695,
+      "gp:id": 56558058,
+      "hasc:id": "SX",
+      "m49:code": "534",
+      "marc:id": "sn",
+      "ne:adm0_a3": "SXM",
+      "qs_pg:id": 693867,
+      "wd:id": "Q26273"
     },
-    "wof:country":"SX",
-    "wof:country_alpha3":"SXM",
-    "wof:geom_alt":[
-        "quattroshapes",
-        "naturalearth-display-terrestrial-zoom6"
+    "wof:country": "SX",
+    "wof:country_alpha3": "SXM",
+    "wof:created": 1624906519,
+    "wof:geom_alt": [
+      "quattroshapes",
+      "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a3cde1faf5a61363ff4400ba9e8f9997",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632185
-        }
+    "wof:geomhash": "a3cde1faf5a61363ff4400ba9e8f9997",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85632185
+      }
     ],
-    "wof:id":85632185,
-    "wof:lang_x_official":[
-        "eng",
-        "nld"
+    "wof:id": 85632185,
+    "wof:lang_x_official": [
+      "eng",
+      "nld"
     ],
-    "wof:lang_x_spoken":[
-        "eng",
-        "nld"
+    "wof:lang_x_spoken": [
+      "eng",
+      "nld"
     ],
-    "wof:lastmodified":1583797436,
-    "wof:name":"Sint Maarten",
-    "wof:parent_id":102191575,
-    "wof:placetype":"country",
-    "wof:population":37429,
-    "wof:population_rank":7,
-    "wof:repo":"whosonfirst-data-admin-sx",
-    "wof:shortcode":"SX",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906519,
+    "wof:name": "Sint Maarten",
+    "wof:parent_id": 102191575,
+    "wof:placetype": "country",
+    "wof:population": 37429,
+    "wof:population_rank": 7,
+    "wof:repo": "whosonfirst-data-admin-sx",
+    "wof:shortcode": "SX",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -63.139164,
     18.00511,
     -63.013638,
     18.064115
-],
+  ],
   "geometry": {"coordinates":[[[-63.044532,18.019433],[-63.044463,18.019674],[-63.043527,18.019373],[-63.043299,18.019586],[-63.044039,18.019857],[-63.043754,18.020561],[-63.044039,18.02094],[-63.043868,18.021427],[-63.044836,18.022239],[-63.045804,18.022834],[-63.04717,18.023267],[-63.04848,18.023809],[-63.050017,18.024134],[-63.051668,18.02435],[-63.053205,18.024296],[-63.054287,18.024188],[-63.055585,18.023788],[-63.056023,18.023575],[-63.056481,18.02363],[-63.056841,18.023031],[-63.05748,18.022523],[-63.057525,18.022009],[-63.05786,18.02183],[-63.05832,18.021715],[-63.058746,18.021491],[-63.059344,18.020876],[-63.05966,18.020356],[-63.059696,18.019962],[-63.059507,18.019602],[-63.059204,18.018521],[-63.059055,18.017013],[-63.058516,18.016272],[-63.058681,18.015496],[-63.058762,18.014752],[-63.058931,18.014338],[-63.058909,18.013347],[-63.059285,18.013169],[-63.059589,18.012943],[-63.059833,18.012669],[-63.060174,18.01302],[-63.060486,18.013162],[-63.060372,18.013528],[-63.06049,18.01375],[-63.060411,18.014629],[-63.060334,18.015266],[-63.060523,18.015222],[-63.060664,18.01557],[-63.06023,18.015768],[-63.060264,18.016377],[-63.059831,18.016982],[-63.060221,18.017786],[-63.060897,18.018368],[-63.061775,18.018781],[-63.062719,18.019129],[-63.06349,18.019258],[-63.064097,18.019398],[-63.065275,18.019445],[-63.066144,18.019175],[-63.06705,18.018666],[-63.067872,18.018063],[-63.068917,18.016999],[-63.069489,18.016504],[-63.070333,18.016848],[-63.071034,18.016905],[-63.071495,18.016901],[-63.071574,18.017352],[-63.072674,18.018288],[-63.0732,18.018824],[-63.073783,18.019949],[-63.074235,18.021095],[-63.074762,18.021292],[-63.075691,18.021286],[-63.076247,18.020949],[-63.076842,18.020351],[-63.07717,18.019719],[-63.077478,18.019663],[-63.077352,18.019292],[-63.077409,18.018978],[-63.077815,18.018993],[-63.078279,18.018671],[-63.079022,18.018252],[-63.079785,18.018368],[-63.080156,18.018853],[-63.080263,18.019586],[-63.08033,18.020482],[-63.080318,18.021893],[-63.080124,18.02247],[-63.080068,18.022935],[-63.081173,18.023663],[-63.082727,18.024224],[-63.083535,18.024472],[-63.084336,18.024585],[-63.085985,18.024396],[-63.087604,18.024315],[-63.089864,18.02391],[-63.090539,18.023194],[-63.091034,18.022923],[-63.091392,18.022674],[-63.091975,18.023812],[-63.09209,18.024696],[-63.092367,18.025688],[-63.092823,18.026203],[-63.0933,18.026989],[-63.094938,18.027489],[-63.095915,18.027686],[-63.09662,18.02773],[-63.096728,18.027994],[-63.096676,18.028523],[-63.096905,18.028863],[-63.096189,18.028938],[-63.096212,18.029389],[-63.096423,18.029781],[-63.096991,18.029995],[-63.096435,18.030131],[-63.095745,18.030795],[-63.095339,18.03096],[-63.094222,18.031223],[-63.093441,18.031785],[-63.09341,18.03273],[-63.093483,18.033421],[-63.093852,18.033526],[-63.093976,18.033974],[-63.094343,18.034049],[-63.0948,18.034418],[-63.095309,18.034235],[-63.095644,18.034509],[-63.096018,18.035778],[-63.095591,18.036247],[-63.097319,18.037756],[-63.099415,18.039055],[-63.100868,18.03959],[-63.102672,18.039946],[-63.106005,18.040203],[-63.107923,18.04013],[-63.109835,18.039791],[-63.112469,18.039251],[-63.113895,18.038702],[-63.114392,18.038304],[-63.114129,18.037859],[-63.114257,18.037371],[-63.114698,18.03682],[-63.114913,18.035401],[-63.115112,18.034809],[-63.114862,18.034445],[-63.114826,18.033782],[-63.114877,18.033012],[-63.115181,18.032422],[-63.115567,18.032556],[-63.115787,18.032328],[-63.115929,18.032649],[-63.115831,18.033079],[-63.116018,18.033597],[-63.115906,18.034164],[-63.115728,18.034803],[-63.115831,18.035711],[-63.116551,18.036367],[-63.117433,18.036824],[-63.118286,18.036792],[-63.118901,18.036586],[-63.119249,18.036674],[-63.119693,18.036462],[-63.120131,18.036542],[-63.120589,18.036518],[-63.120685,18.036744],[-63.120612,18.037103],[-63.120337,18.037433],[-63.120647,18.038012],[-63.120513,18.038458],[-63.120512,18.039004],[-63.120825,18.039729],[-63.121394,18.040433],[-63.122128,18.040675],[-63.122431,18.040474],[-63.12268,18.040479],[-63.123004,18.04023],[-63.123357,18.04044],[-63.124018,18.04035],[-63.124303,18.040565],[-63.124756,18.041091],[-63.124936,18.041586],[-63.125273,18.042208],[-63.125569,18.042199],[-63.125889,18.042939],[-63.126335,18.043924],[-63.126013,18.04431],[-63.12536,18.044142],[-63.125297,18.044476],[-63.125351,18.044889],[-63.125776,18.04562],[-63.126515,18.046185],[-63.12714,18.046612],[-63.127778,18.046877],[-63.128135,18.046775],[-63.129087,18.047285],[-63.129685,18.047849],[-63.129849,18.048247],[-63.130347,18.048548],[-63.131027,18.048838],[-63.132184,18.049175],[-63.133559,18.049574],[-63.134762,18.049699],[-63.135038,18.049345],[-63.135882,18.050109],[-63.135577,18.050282],[-63.136014,18.050472],[-63.136435,18.050656],[-63.136867,18.051292],[-63.137501,18.052409],[-63.138119,18.052755],[-63.139164,18.052844],[-63.138803,18.053055],[-63.138311,18.053354],[-63.138227,18.053373],[-63.137998,18.053376],[-63.137785,18.053374],[-63.136375,18.053722],[-63.134902,18.054279],[-63.133305,18.053882],[-63.126138,18.05404],[-63.111403,18.05323],[-63.10144,18.047907],[-63.100128,18.047256],[-63.099254,18.046848],[-63.098569,18.046581],[-63.098,18.046369],[-63.097522,18.046212],[-63.096969,18.046063],[-63.096383,18.04593],[-63.095885,18.045853],[-63.095261,18.045779],[-63.094779,18.045743],[-63.09434,18.045731],[-63.09387,18.045737],[-63.093426,18.045761],[-63.092987,18.045802],[-63.092398,18.045874],[-63.091834,18.045951],[-63.091283,18.046028],[-63.090669,18.046124],[-63.090062,18.046231],[-63.089373,18.046362],[-63.088822,18.04648],[-63.088289,18.046587],[-63.082265,18.048288],[-63.080131,18.048867],[-63.078237,18.04941],[-63.077762,18.050214],[-63.076542,18.050659],[-63.07532,18.051316],[-63.075026,18.051436],[-63.07503,18.052165],[-63.075029,18.052353],[-63.07503,18.05251],[-63.074996,18.052681],[-63.074901,18.05289],[-63.074767,18.053067],[-63.074614,18.053308],[-63.074495,18.053635],[-63.074374,18.054036],[-63.074358,18.054167],[-63.074353,18.054295],[-63.074351,18.054721],[-63.074097,18.054854],[-63.073937,18.05494],[-63.073511,18.055221],[-63.073306,18.055399],[-63.073055,18.055686],[-63.072916,18.0559],[-63.072709,18.056123],[-63.072628,18.05632],[-63.072548,18.056842],[-63.072268,18.056808],[-63.071403,18.05662],[-63.071056,18.056615],[-63.070867,18.05659],[-63.070772,18.05659],[-63.070518,18.056642],[-63.070099,18.056732],[-63.069986,18.056744],[-63.069855,18.05674],[-63.06968,18.056774],[-63.069459,18.056839],[-63.069238,18.056881],[-63.068923,18.056911],[-63.067948,18.05698],[-63.067272,18.057374],[-63.067132,18.057524],[-63.0667,18.057656],[-63.066606,18.057708],[-63.066479,18.057806],[-63.066421,18.057883],[-63.066381,18.05798],[-63.066151,18.058716],[-63.066007,18.059149],[-63.065886,18.059487],[-63.0658,18.059688],[-63.065715,18.059846],[-63.065664,18.059937],[-63.065612,18.060017],[-63.065547,18.060101],[-63.064529,18.061301],[-63.064461,18.061391],[-63.064416,18.061476],[-63.064403,18.06157],[-63.064416,18.061712],[-63.064434,18.062032],[-63.064425,18.062126],[-63.064389,18.062224],[-63.064295,18.062336],[-63.064121,18.062597],[-63.063964,18.062871],[-63.063671,18.063602],[-63.063597,18.063681],[-63.062662,18.063562],[-63.062518,18.063579],[-63.062311,18.063613],[-63.062185,18.063604],[-63.062024,18.063574],[-63.060087,18.063038],[-63.059689,18.062951],[-63.059416,18.062939],[-63.05782,18.063038],[-63.057599,18.063056],[-63.057443,18.06305],[-63.056909,18.062982],[-63.056681,18.062969],[-63.056307,18.063026],[-63.055942,18.063113],[-63.055669,18.06323],[-63.055369,18.063435],[-63.055174,18.063546],[-63.05492,18.063657],[-63.054686,18.063768],[-63.054608,18.063806],[-63.054552,18.063854],[-63.054465,18.063942],[-63.054361,18.064115],[-63.054276,18.064115],[-63.053915,18.064036],[-63.053128,18.063969],[-63.052853,18.063916],[-63.05237,18.063774],[-63.052162,18.063694],[-63.048406,18.061581],[-63.046762,18.060415],[-63.045399,18.059453],[-63.043437,18.058069],[-63.041371,18.056599],[-63.040013,18.055641],[-63.03903,18.05637],[-63.037576,18.057447],[-63.037223,18.057934],[-63.034673,18.056791],[-63.032707,18.055793],[-63.032187,18.055537],[-63.031718,18.055261],[-63.028993,18.054367],[-63.028843,18.054335],[-63.028696,18.054339],[-63.028424,18.054415],[-63.027327,18.054772],[-63.027147,18.054798],[-63.026798,18.05485],[-63.026652,18.054905],[-63.02656,18.054955],[-63.026471,18.055022],[-63.026385,18.055086],[-63.026291,18.055184],[-63.026214,18.055299],[-63.026067,18.055524],[-63.02595,18.055637],[-63.025804,18.055736],[-63.025535,18.0559],[-63.025169,18.056074],[-63.025005,18.056195],[-63.024825,18.056357],[-63.024665,18.056571],[-63.024554,18.056705],[-63.02448,18.056749],[-63.024369,18.056779],[-63.024251,18.056814],[-63.024127,18.056896],[-63.024032,18.057002],[-63.023959,18.05718],[-63.023917,18.057281],[-63.02389,18.057317],[-63.023828,18.057369],[-63.023735,18.057398],[-63.02362,18.057421],[-63.02351,18.057429],[-63.023404,18.057426],[-63.023321,18.057401],[-63.022982,18.057321],[-63.022841,18.057275],[-63.022626,18.057189],[-63.022438,18.057098],[-63.022283,18.056993],[-63.022072,18.056832],[-63.02189,18.05674],[-63.021624,18.056651],[-63.021334,18.05656],[-63.02102,18.056488],[-63.0201,18.05626],[-63.019948,18.05623],[-63.019493,18.056207],[-63.019376,18.056213],[-63.019271,18.056228],[-63.019152,18.056284],[-63.019141,18.056296],[-63.019348,18.055642],[-63.017064,18.052672],[-63.016122,18.052587],[-63.015579,18.053015],[-63.014779,18.053757],[-63.014037,18.053986],[-63.013638,18.053472],[-63.014693,18.052501],[-63.015522,18.051873],[-63.016199,18.051832],[-63.016818,18.050622],[-63.016997,18.049874],[-63.016753,18.049072],[-63.016436,18.047362],[-63.016373,18.046573],[-63.015816,18.046236],[-63.015316,18.045534],[-63.015745,18.044513],[-63.016946,18.04369],[-63.01731,18.043425],[-63.01763,18.043099],[-63.017635,18.04256],[-63.017496,18.042129],[-63.017865,18.041525],[-63.018021,18.040641],[-63.018632,18.040613],[-63.019061,18.04064],[-63.020072,18.040137],[-63.020976,18.039729],[-63.021537,18.039163],[-63.02188,18.038699],[-63.02229,18.037501],[-63.022665,18.036615],[-63.023031,18.036159],[-63.023379,18.035834],[-63.02334,18.035078],[-63.023565,18.034557],[-63.023612,18.033918],[-63.02338,18.033137],[-63.023196,18.03263],[-63.022884,18.032242],[-63.022513,18.032131],[-63.021759,18.032272],[-63.020977,18.032311],[-63.020345,18.032181],[-63.019832,18.031797],[-63.019804,18.031149],[-63.020091,18.030892],[-63.021179,18.030272],[-63.021981,18.02983],[-63.022074,18.029575],[-63.02151,18.02901],[-63.02123,18.02845],[-63.021651,18.028045],[-63.022551,18.027865],[-63.022991,18.027567],[-63.023379,18.027156],[-63.023906,18.026937],[-63.024268,18.026556],[-63.025132,18.026039],[-63.025681,18.025448],[-63.026124,18.024635],[-63.027034,18.024085],[-63.027784,18.023794],[-63.028084,18.023418],[-63.028152,18.022875],[-63.027842,18.022572],[-63.027385,18.022352],[-63.027119,18.021988],[-63.026792,18.021788],[-63.026806,18.021037],[-63.026594,18.020715],[-63.026325,18.020479],[-63.026071,18.020189],[-63.025932,18.019856],[-63.025567,18.019925],[-63.025425,18.01981],[-63.025479,18.019495],[-63.025842,18.019065],[-63.026417,18.018803],[-63.027486,18.018491],[-63.027715,18.018799],[-63.02831,18.018576],[-63.029104,18.018295],[-63.029466,18.017677],[-63.029524,18.017225],[-63.029849,18.017028],[-63.029552,18.016359],[-63.029643,18.015908],[-63.029831,18.015326],[-63.030625,18.014783],[-63.030974,18.014894],[-63.031652,18.014662],[-63.031605,18.014147],[-63.031957,18.013866],[-63.03173,18.013459],[-63.032005,18.013086],[-63.032547,18.012528],[-63.033,18.012454],[-63.033608,18.012255],[-63.034112,18.012348],[-63.034441,18.012209],[-63.035359,18.012017],[-63.035722,18.012137],[-63.035932,18.01239],[-63.036246,18.012469],[-63.03649,18.012145],[-63.036576,18.011728],[-63.036429,18.010969],[-63.036451,18.010445],[-63.036245,18.009885],[-63.036764,18.009556],[-63.037215,18.008959],[-63.037881,18.008456],[-63.038464,18.007999],[-63.038338,18.007544],[-63.03873,18.007328],[-63.038929,18.006904],[-63.039671,18.006556],[-63.039771,18.006278],[-63.039706,18.005869],[-63.039881,18.005563],[-63.040368,18.005595],[-63.040858,18.006014],[-63.0414,18.006024],[-63.042361,18.005844],[-63.042849,18.005662],[-63.043156,18.00511],[-63.043526,18.005117],[-63.043965,18.005688],[-63.044892,18.005457],[-63.045086,18.005814],[-63.044825,18.00596],[-63.044655,18.00754],[-63.044383,18.009616],[-63.044369,18.010435],[-63.043964,18.010644],[-63.043998,18.011004],[-63.043785,18.012129],[-63.045046,18.013036],[-63.048112,18.008956],[-63.048283,18.009113],[-63.045184,18.013267],[-63.04603,18.013852],[-63.049275,18.011216],[-63.049455,18.011414],[-63.046284,18.013983],[-63.046052,18.014636],[-63.044857,18.014691],[-63.04486,18.017408],[-63.045471,18.017376],[-63.045665,18.017833],[-63.044686,18.018156],[-63.04444,18.017751],[-63.044115,18.017557],[-63.043779,18.017581],[-63.043675,18.018295],[-63.04364,18.019221],[-63.044532,18.019433]]],"type":"Polygon"}
 }

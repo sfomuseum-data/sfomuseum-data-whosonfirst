@@ -2,158 +2,159 @@
   "id": 102556815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000244,
-    "geom:area_square_m":1879781.226752,
-    "geom:bbox":"-3.347911,51.382656,-3.311777,51.402687",
-    "geom:latitude":51.390707,
-    "geom:longitude":-3.329048,
-    "iso:country":"",
-    "lbl:latitude":51.389002,
-    "lbl:longitude":-3.330827,
-    "mps:latitude":51.389002,
-    "mps:longitude":-3.330827,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0643\u0627\u0631\u062f\u064a\u0641 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.00024362217550002468,
+    "geom:area_square_m": 1879781.226752,
+    "geom:bbox": "-3.347911,51.382656,-3.311777,51.402687",
+    "geom:latitude": 51.39070693651469,
+    "geom:longitude": -3.329048097405624,
+    "iso:country": "",
+    "lbl:latitude": 51.389002,
+    "lbl:longitude": -3.330827,
+    "mps:latitude": 51.389002,
+    "mps:longitude": -3.330827,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار كارديف الدولي"
     ],
-    "name:ceb_x_preferred":[
-        "Cardiff Airport"
+    "name:ceb_x_preferred": [
+      "Cardiff Airport"
     ],
-    "name:ces_x_preferred":[
-        "Leti\u0161t\u011b Cardiff"
+    "name:ces_x_preferred": [
+      "Letiště Cardiff"
     ],
-    "name:cym_x_preferred":[
-        "Maes Awyr Caerdydd"
+    "name:cym_x_preferred": [
+      "Maes Awyr Caerdydd"
     ],
-    "name:dan_x_preferred":[
-        "Cardiff Airport"
+    "name:dan_x_preferred": [
+      "Cardiff Airport"
     ],
-    "name:deu_x_preferred":[
-        "Cardiff Airport"
+    "name:deu_x_preferred": [
+      "Cardiff Airport"
     ],
-    "name:eng_x_preferred":[
-        "Cardiff Airport"
+    "name:eng_x_preferred": [
+      "Cardiff Airport"
     ],
-    "name:eng_x_variant":[
-        "CWL",
-        "EGFF"
+    "name:eng_x_variant": [
+      "CWL",
+      "EGFF"
     ],
-    "name:epo_x_preferred":[
-        "Flughaveno Kardifo"
+    "name:epo_x_preferred": [
+      "Flughaveno Kardifo"
     ],
-    "name:eus_x_preferred":[
-        "Cardiffko aireportua"
+    "name:eus_x_preferred": [
+      "Cardiffko aireportua"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u062f\u06cc\u0641"
+    "name:fas_x_preferred": [
+      "فرودگاه کاردیف"
     ],
-    "name:fin_x_preferred":[
-        "Cardiffin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Cardiffin kansainvälinen lentoasema"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Cardiff"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Cardiff"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ab\u30fc\u30c7\u30a3\u30d5\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "カーディフ空港"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Cardiff"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Cardiff"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Cardiff"
+    "name:pol_x_preferred": [
+      "Port lotniczy Cardiff"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Cardiff"
+    "name:ron_x_preferred": [
+      "Aeroportul Cardiff"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u0430\u0440\u0434\u0438\u0444\u0444"
+    "name:rus_x_preferred": [
+      "Кардифф"
     ],
-    "name:swe_x_preferred":[
-        "Cardiff Airport"
+    "name:swe_x_preferred": [
+      "Cardiff Airport"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u0434\u0438\u0444"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи кордиф"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0430\u0440\u0434\u0456\u0444\u0444"
+    "name:ukr_x_preferred": [
+      "Кардіфф"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay Cardiff"
+    "name:vie_x_preferred": [
+      "Sân bay Cardiff"
     ],
-    "name:zho_x_preferred":[
-        "\u5361\u5730\u592b\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "卡地夫國際機場"
     ],
-    "oa:elevation_ft":"220",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":152,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Cardiff Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424975,
-        "county_id":12602231,
-        "localadmin_id":12696121,
-        "planet_id":1,
-        "state_id":12578049
+    "oa:elevation_ft": "220",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 152,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Cardiff Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424975,
+      "county_id": 12602231,
+      "localadmin_id": 12696121,
+      "planet_id": 1,
+      "state_id": 12578049
     },
-    "wof:belongsto":[
-        102191581,
-        404452255,
-        85633159,
-        404227475,
-        1125896727,
-        1360698899,
-        1360698627
+    "wof:belongsto": [
+      102191581,
+      404452255,
+      85633159,
+      404227475,
+      1125896727,
+      1360698899,
+      1360698627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":22452963,
-        "iata:code":"CWL",
-        "icao:code":"EGFF",
-        "oa:id":"2415",
-        "wd:id":"Q8994",
-        "wk:page":"Cardiff_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 22452963,
+      "iata:code": "CWL",
+      "icao:code": "EGFF",
+      "oa:id": "2415",
+      "wd:id": "Q8994",
+      "wk:page": "Cardiff_International_Airport"
     },
-    "wof:country":"",
-    "wof:geomhash":"d3db1e6fc34198efc8d1ba730fb61f26",
-    "wof:hierarchy":[
-        {
-            "campus_id":102556815,
-            "continent_id":102191581,
-            "country_id":85633159,
-            "county_id":1360698899,
-            "localadmin_id":404452255,
-            "locality_id":1125896727,
-            "macroregion_id":404227475,
-            "neighbourhood_id":-1,
-            "region_id":1360698627
-        }
+    "wof:country": "",
+    "wof:created": 1624906753,
+    "wof:geomhash": "d3db1e6fc34198efc8d1ba730fb61f26",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102556815,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698899,
+        "localadmin_id": 404452255,
+        "locality_id": 1125896727,
+        "macroregion_id": 404227475,
+        "neighbourhood_id": -1,
+        "region_id": 1360698627
+      }
     ],
-    "wof:id":102556815,
-    "wof:lastmodified":1611601239,
-    "wof:name":"Cardiff International Airport",
-    "wof:parent_id":1125896727,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102556815,
+    "wof:lastmodified": 1624906753,
+    "wof:name": "Cardiff International Airport",
+    "wof:parent_id": 1125896727,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -3.347911,
     51.382656,
     -3.311777,
     51.402687
-],
+  ],
   "geometry": {"coordinates":[[[[-3.311777,51.392056],[-3.311862,51.391602],[-3.316283,51.389271],[-3.325252,51.385174],[-3.331174,51.383781],[-3.340959,51.382656],[-3.335702,51.390408],[-3.34156,51.398026],[-3.343191,51.397598],[-3.347911,51.402687],[-3.341903,51.398457],[-3.339371,51.399349],[-3.335294,51.398041],[-3.330659,51.395699],[-3.32714,51.39278],[-3.325552,51.392536],[-3.31933,51.393635],[-3.312892,51.395348],[-3.312463,51.395069],[-3.311777,51.392056]]]],"type":"MultiPolygon"}
 }

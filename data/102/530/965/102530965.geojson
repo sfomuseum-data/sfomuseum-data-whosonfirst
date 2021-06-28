@@ -2,102 +2,103 @@
   "id": 102530965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000108,
-    "geom:area_square_m":1119762.212447,
-    "geom:bbox":"-114.602509,32.6535,-114.581757,32.672726",
-    "geom:latitude":32.661526,
-    "geom:longitude":-114.592425,
-    "iso:country":"US",
-    "lbl:latitude":32.657107,
-    "lbl:longitude":-114.58771,
-    "mps:latitude":32.657107,
-    "mps:longitude":-114.58771,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
-    "name:eng_x_preferred":[
-        "Yuma International Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.00010756696249988889,
+    "geom:area_square_m": 1119762.212447,
+    "geom:bbox": "-114.602509,32.653500,-114.581757,32.672726",
+    "geom:latitude": 32.661525606189386,
+    "geom:longitude": -114.59242545670728,
+    "iso:country": "US",
+    "lbl:latitude": 32.657107,
+    "lbl:longitude": -114.58771,
+    "mps:latitude": 32.657107,
+    "mps:longitude": -114.58771,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "Yuma International Airport"
     ],
-    "name:eng_x_variant":[
-        "NYL",
-        "YUM",
-        "KNYL"
+    "name:eng_x_variant": [
+      "NYL",
+      "YUM",
+      "KNYL"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06cc\u0648\u0645\u0627"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی یوما"
     ],
-    "name:jpn_x_preferred":[
-        "\u30e6\u30de\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ユマ国際空港"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Yuma"
+    "name:ron_x_preferred": [
+      "Aeroportul Yuma"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u044e\u043c\u043e"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ юмо"
     ],
-    "name:urd_x_preferred":[
-        "\u06cc\u0648\u0645\u0627 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "یوما انٹرنیشنل ہوائی اڈا"
     ],
-    "oa:elevation_ft":"213",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":2823,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587594,
-        "planet_id":1,
-        "state_id":2347561
+    "oa:elevation_ft": "213",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 2823,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587594,
+      "planet_id": 1,
+      "state_id": 2347561
     },
-    "wof:belongsto":[
-        420535897,
-        85633793
+    "wof:belongsto": [
+      420535897,
+      85633793
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"NYL",
-        "gp:id":12522544,
-        "iata:code":"YUM",
-        "icao:code":"KNYL",
-        "oa:id":"3961",
-        "wd:id":"Q6587748",
-        "wk:page":"Yuma_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "NYL",
+      "gp:id": 12522544,
+      "iata:code": "YUM",
+      "icao:code": "KNYL",
+      "oa:id": "3961",
+      "wd:id": "Q6587748",
+      "wk:page": "Yuma_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3510c1db9ddac8d00b082c4b04ef395e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530965,
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":420535897,
-            "region_id":-1
-        }
+    "wof:country": "US",
+    "wof:created": 1624906809,
+    "wof:geomhash": "3510c1db9ddac8d00b082c4b04ef395e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530965,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "locality_id": -1,
+        "neighbourhood_id": 420535897,
+        "region_id": -1
+      }
     ],
-    "wof:id":102530965,
-    "wof:lastmodified":1611601233,
-    "wof:name":"Yuma International Airport",
-    "wof:parent_id":420535897,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102530965,
+    "wof:lastmodified": 1624906809,
+    "wof:name": "Yuma International Airport",
+    "wof:parent_id": 420535897,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -114.602509,
     32.6535,
     -114.581757,
     32.672726
-],
-  "geometry": {"coordinates":[[[-114.602509,32.657513],[-114.597855,32.661697],[-114.598648,32.667053],[-114.594376,32.672726],[-114.594093,32.672035],[-114.593315,32.6702],[-114.59343,32.662682],[-114.588463,32.660954],[-114.581757,32.65588],[-114.588669,32.6535],[-114.589333,32.654999],[-114.59064499999999,32.656395],[-114.59446,32.659798],[-114.594872,32.659901],[-114.595642,32.660332],[-114.602509,32.657513]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-114.602509,32.657513],[-114.597855,32.661697],[-114.598648,32.667053],[-114.594376,32.672726],[-114.594093,32.672035],[-114.593315,32.6702],[-114.59343,32.662682],[-114.588463,32.660954],[-114.581757,32.65588],[-114.588669,32.6535],[-114.589333,32.654999],[-114.590645,32.656395],[-114.59446,32.659798],[-114.594872,32.659901],[-114.595642,32.660332],[-114.602509,32.657513]]],"type":"Polygon"}
 }

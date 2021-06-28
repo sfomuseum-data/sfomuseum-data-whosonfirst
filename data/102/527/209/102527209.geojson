@@ -2,219 +2,220 @@
   "id": 102527209,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1948-12-19",
-    "date:inception_upper":"1948-12-19",
-    "edtf:cessation":"open",
-    "edtf:inception":"1948-12-19",
-    "geom:area":0.000016,
-    "geom:area_square_m":160908.954594,
-    "geom:bbox":"-115.175339,36.108826,-115.170967,36.11961",
-    "geom:latitude":36.112989,
-    "geom:longitude":-115.17299,
-    "gn:elevation":639,
-    "iso:country":"US",
-    "lbl:latitude":36.081003,
-    "lbl:longitude":-115.15644,
-    "mps:latitude":36.081003,
-    "mps:longitude":-115.15644,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0645\u0627\u0643\u0627\u0631\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "date:inception_lower": "1948-12-19",
+    "date:inception_upper": "1948-12-19",
+    "edtf:cessation": "..",
+    "edtf:inception": "1948-12-19",
+    "geom:area": 0.000016108219999998703,
+    "geom:area_square_m": 160908.954594,
+    "geom:bbox": "-115.175339,36.108826,-115.170967,36.119610",
+    "geom:latitude": 36.1129889848008,
+    "geom:longitude": -115.17299022738925,
+    "gn:elevation": 639,
+    "iso:country": "US",
+    "lbl:latitude": 36.081003,
+    "lbl:longitude": -115.15644,
+    "mps:latitude": 36.081003,
+    "mps:longitude": -115.15644,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار ماكاران الدولي"
     ],
-    "name:ast_x_preferred":[
-        "Aeropuertu Internacional McCarran"
+    "name:ast_x_preferred": [
+      "Aeropuertu Internacional McCarran"
     ],
-    "name:cat_x_preferred":[
-        "Aeroport Internacional McCarran"
+    "name:cat_x_preferred": [
+      "Aeroport Internacional McCarran"
     ],
-    "name:dan_x_preferred":[
-        "McCarran International Airport"
+    "name:dan_x_preferred": [
+      "McCarran International Airport"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Las Vegas McCarran"
+    "name:deu_x_preferred": [
+      "Flughafen Las Vegas McCarran"
     ],
-    "name:deu_x_variant":[
-        "Flughafen McCarran International"
+    "name:deu_x_variant": [
+      "Flughafen McCarran International"
     ],
-    "name:eng_x_preferred":[
-        "Mccarran International Airport"
+    "name:eng_x_preferred": [
+      "Mccarran International Airport"
     ],
-    "name:eng_x_variant":[
-        "LAS",
-        "KLAS",
-        "Mc Carran International Airport",
-        "Las Vegas International Airport",
-        "Las Vegas Mc Carran International Airport",
-        "McCarran International Airport"
+    "name:eng_x_variant": [
+      "LAS",
+      "KLAS",
+      "Mc Carran International Airport",
+      "Las Vegas International Airport",
+      "Las Vegas Mc Carran International Airport",
+      "McCarran International Airport"
     ],
-    "name:est_x_preferred":[
-        "McCarrani rahvusvaheline lennujaam"
+    "name:est_x_preferred": [
+      "McCarrani rahvusvaheline lennujaam"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u06a9\u200c\u06a9\u0627\u0631\u0627\u0646"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی مک‌کاران"
     ],
-    "name:fin_x_preferred":[
-        "McCarranin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "McCarranin kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport international McCarran"
+    "name:fra_x_preferred": [
+      "Aéroport international McCarran"
     ],
-    "name:fra_x_variant":[
-        "A\u00e9roport de Las Vegas-McCarran",
-        "a\u00e9roport international McCarran"
+    "name:fra_x_variant": [
+      "Aéroport de Las Vegas-McCarran",
+      "aéroport international McCarran"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05e7\u05e7\u05d0\u05e8\u05df"
+    "name:heb_x_preferred": [
+      "נמל התעופה הבינלאומי מקקארן"
     ],
-    "name:heb_x_variant":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05e7'\u05e7\u05d0\u05e8\u05df"
+    "name:heb_x_variant": [
+      "נמל התעופה הבינלאומי מק'קארן"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional McCarran"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional McCarran"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale McCarran"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale McCarran"
     ],
-    "name:jpn_x_preferred":[
-        "\u30de\u30c3\u30ab\u30e9\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "マッカラン国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\ub9e4\uce90\ub7f0 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "매캐런 국제공항"
     ],
-    "name:mar_x_preferred":[
-        "\u092e\u0945\u0915\u0915\u0945\u0930\u0928 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "मॅककॅरन आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:mar_x_variant":[
-        "\u092e\u0945\u0915\u0915\u0930\u093e\u0928 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_variant": [
+      "मॅककरान आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nau_x_preferred":[
-        "McCarran International Airport"
+    "name:nau_x_preferred": [
+      "McCarran International Airport"
     ],
-    "name:nav_x_preferred":[
-        "Na\u02bcazh\u01eb\u01ebsh Hatsohdi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    "name:nav_x_preferred": [
+      "Naʼazhǫǫsh Hatsohdi chidí naatʼaʼí ńdinibįįhígi"
     ],
-    "name:nld_x_preferred":[
-        "McCarran International Airport"
+    "name:nld_x_preferred": [
+      "McCarran International Airport"
     ],
-    "name:nob_x_preferred":[
-        "McCarran internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "McCarran internasjonale lufthavn"
     ],
-    "name:nor_x_preferred":[
-        "McCarran internasjonale lufthavn"
+    "name:nor_x_preferred": [
+      "McCarran internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Las Vegas-McCarran"
+    "name:pol_x_preferred": [
+      "Port lotniczy Las Vegas-McCarran"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional de Las Vegas"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Las Vegas"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional McCarran"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional McCarran"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0430\u043a\u043a\u0430\u0440\u0430\u043d"
+    "name:rus_x_preferred": [
+      "Международный аэропорт Маккаран"
     ],
-    "name:rus_x_variant":[
-        "\u041c\u0430\u043a\u043a\u0430\u0440\u0430\u043d"
+    "name:rus_x_variant": [
+      "Маккаран"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional McCarran"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional McCarran"
     ],
-    "name:swe_x_preferred":[
-        "McCarran International Airport"
+    "name:swe_x_preferred": [
+      "McCarran International Airport"
     ],
-    "name:tam_x_preferred":[
-        "\u0bae\u0bc6\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0ba9\u0bcd \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    "name:tam_x_preferred": [
+      "மெக்காரன் பன்னாட்டு வானூர்தி நிலையம்"
     ],
-    "name:tha_x_preferred":[
-        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e41\u0e21\u0e04\u0e04\u0e32\u0e23\u0e4c\u0e41\u0e23\u0e19"
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติแมคคาร์แรน"
     ],
-    "name:tur_x_preferred":[
-        "McCarran Uluslararas\u0131 Havaliman\u0131"
+    "name:tur_x_preferred": [
+      "McCarran Uluslararası Havalimanı"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0430\u043a\u041a\u0430\u0440\u0440\u0430\u043d"
+    "name:ukr_x_preferred": [
+      "Міжнародний аеропорт МакКарран"
     ],
-    "name:und_x_variant":[
-        "McCarran Field"
+    "name:und_x_variant": [
+      "McCarran Field"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u06a9\u06a9\u06cc\u0631\u0646 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "مککیرن انٹرنیشنل ایئرپورٹ"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf McCarran"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế McCarran"
     ],
-    "name:zho_x_preferred":[
-        "\u9ea6\u5361\u4f26\u56fd\u9645\u673a\u573a"
+    "name:zho_x_preferred": [
+      "麦卡伦国际机场"
     ],
-    "oa:elevation_ft":"2181",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":65,
-    "sfomuseum:count_objects_public":5,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"McCarran International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12589233,
-        "planet_id":1,
-        "state_id":2347587,
-        "suburb_id":55860969
+    "oa:elevation_ft": "2181",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 65,
+    "sfomuseum:count_objects_public": 5,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "McCarran International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589233,
+      "planet_id": 1,
+      "state_id": 2347587,
+      "suburb_id": 55860969
     },
-    "wof:belongsto":[
-        85840429,
-        102191575,
-        85633793,
-        85975035,
-        102081553,
-        85688531
+    "wof:belongsto": [
+      85840429,
+      102191575,
+      85633793,
+      85975035,
+      102081553,
+      85688531
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"LAS",
-        "gn:id":5507974,
-        "gp:id":12520849,
-        "iata:code":"LAS",
-        "icao:code":"KLAS",
-        "oa:id":"3631",
-        "wd:id":"Q853886",
-        "wk:page":"McCarran_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "LAS",
+      "gn:id": 5507974,
+      "gp:id": 12520849,
+      "iata:code": "LAS",
+      "icao:code": "KLAS",
+      "oa:id": "3631",
+      "wd:id": "Q853886",
+      "wk:page": "McCarran_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e90a812d3d5df85c3dd22e1b7af7d7aa",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527209,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081553,
-            "locality_id":85975035,
-            "neighbourhood_id":85840429,
-            "region_id":85688531
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "e90a812d3d5df85c3dd22e1b7af7d7aa",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081553,
+        "locality_id": 85975035,
+        "neighbourhood_id": 85840429,
+        "region_id": 85688531
+      }
     ],
-    "wof:id":102527209,
-    "wof:lastmodified":1611601234,
-    "wof:name":"McCarran International Airport",
-    "wof:parent_id":85840429,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102527209,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "McCarran International Airport",
+    "wof:parent_id": 85840429,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -115.175339,
     36.108826,
     -115.170967,
     36.11961
-],
-  "geometry": {"coordinates":[[[-115.17319500000001,36.108826],[-115.17533899999999,36.112186],[-115.174347,36.113056],[-115.170967,36.11961],[-115.172089,36.114857],[-115.171539,36.111816],[-115.17319500000001,36.108826]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-115.173195,36.108826],[-115.175339,36.112186],[-115.174347,36.113056],[-115.170967,36.11961],[-115.172089,36.114857],[-115.171539,36.111816],[-115.173195,36.108826]]],"type":"Polygon"}
 }

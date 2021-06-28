@@ -2,349 +2,350 @@
   "id": 85675457,
   "type": "Feature",
   "properties": {
-    "abrv:eng_x_preferred":[
-        "FCTA"
+    "abrv:eng_x_preferred": [
+      "FCTA"
     ],
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.622211,
-    "geom:area_square_m":7600911363.302448,
-    "geom:bbox":"6.77856633973,8.45757136831,7.73006633973,9.43157136831",
-    "geom:latitude":8.906242,
-    "geom:longitude":7.189051,
-    "gn:population":1405201,
-    "iso:country":"NG",
-    "label:eng_x_preferred_longname":[
-        "Federal Capital Territory"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.6222111649999965,
+    "geom:area_square_m": 7600911363.302448,
+    "geom:bbox": "6.778566,8.457571,7.730066,9.431571",
+    "geom:latitude": 8.906242118545034,
+    "geom:longitude": 7.189050733796006,
+    "gn:population": 1405201,
+    "iso:country": "NG",
+    "label:eng_x_preferred_longname": [
+      "Federal Capital Territory"
     ],
-    "label:eng_x_preferred_placetype":[
-        "capital territory"
+    "label:eng_x_preferred_placetype": [
+      "capital territory"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "FC"
+    "label:eng_x_preferred_shortcode": [
+      "FC"
     ],
-    "lbl:latitude":8.804441,
-    "lbl:longitude":7.198126,
-    "lbl:min_zoom":8.0,
-    "meso:name_local":"Federal Capital Territory",
-    "mps:latitude":8.775495,
-    "mps:longitude":7.134249,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":6.6,
-    "name:ara_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062a\u062d\u0627\u062f\u064a\u0629 \u0644\u0646\u064a\u062c\u064a\u0631\u064a\u0627"
+    "lbl:latitude": 8.804441,
+    "lbl:longitude": 7.198126,
+    "lbl:min_zoom": 8,
+    "meso:name_local": "Federal Capital Territory",
+    "mps:latitude": 8.775495,
+    "mps:longitude": 7.134249,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 6.6,
+    "name:ara_x_preferred": [
+      "منطقة العاصمة الإتحادية لنيجيريا"
     ],
-    "name:azb_x_preferred":[
-        "\u062d\u0648\u0632\u0647 \u0641\u062f\u0631\u0627\u0644 \u0645\u0631\u06a9\u0632\u06cc"
+    "name:azb_x_preferred": [
+      "حوزه فدرال مرکزی"
     ],
-    "name:bel_x_preferred":[
-        "\u0424\u0435\u0434\u044d\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0430\u043b\u0456\u0447\u043d\u0430\u044f \u0442\u044d\u0440\u044b\u0442\u043e\u0440\u044b\u044f"
+    "name:bel_x_preferred": [
+      "Федэральная сталічная тэрыторыя"
     ],
-    "name:ben_x_preferred":[
-        "\u09ab\u09c7\u09a1\u09be\u09b0\u09c7\u09b2 \u0995\u09cd\u09af\u09be\u09aa\u09bf\u099f\u09be\u09b2 \u099f\u09c7\u09b0\u09bf\u099f\u09b0\u09bf"
+    "name:ben_x_preferred": [
+      "ফেডারেল ক্যাপিটাল টেরিটরি"
     ],
-    "name:cat_x_preferred":[
-        "Territori de la Capital Federal"
+    "name:cat_x_preferred": [
+      "Territori de la Capital Federal"
     ],
-    "name:ceb_x_preferred":[
-        "Federal Capital Territory"
+    "name:ceb_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:dan_x_preferred":[
-        "Federal Capital Territory"
+    "name:dan_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:deu_x_preferred":[
-        "Federal Capital Territory"
+    "name:deu_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:ell_x_preferred":[
-        "\u03a6\u03b5\u03bf\u03c5\u03b4\u03b1\u03c1\u03c7\u03b9\u03ba\u03cc \u039a\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u0388\u03b4\u03b1\u03c6\u03bf\u03c2"
+    "name:ell_x_preferred": [
+      "Φεουδαρχικό Καπιταλιστικό Έδαφος"
     ],
-    "name:eng_x_preferred":[
-        "Federal Capital Territory"
+    "name:eng_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:eng_x_unknown":[
-        "FCT"
+    "name:eng_x_unknown": [
+      "FCT"
     ],
-    "name:eng_x_variant":[
-        "Abuja Capital Territory",
-        "FCT"
+    "name:eng_x_variant": [
+      "Abuja Capital Territory",
+      "FCT"
     ],
-    "name:epo_x_preferred":[
-        "Federacia \u0108efurba Teritorio"
+    "name:epo_x_preferred": [
+      "Federacia Ĉefurba Teritorio"
     ],
-    "name:est_x_preferred":[
-        "F\u00f6deraalne pealinnaala"
+    "name:est_x_preferred": [
+      "Föderaalne pealinnaala"
     ],
-    "name:fas_x_preferred":[
-        "\u062d\u0648\u0632\u0647 \u0641\u062f\u0631\u0627\u0644 \u0645\u0631\u06a9\u0632\u06cc"
+    "name:fas_x_preferred": [
+      "حوزه فدرال مرکزی"
     ],
-    "name:fin_x_preferred":[
-        "P\u00e4\u00e4kaupunkiterritorio"
+    "name:fin_x_preferred": [
+      "Pääkaupunkiterritorio"
     ],
-    "name:fra_x_preferred":[
-        "Territoire de la capitale f\u00e9d\u00e9rale du Nigeria"
+    "name:fra_x_preferred": [
+      "Territoire de la capitale fédérale du Nigeria"
     ],
-    "name:fre_x_variant":[
-        "Territoire de la capitale F\u00e9d\u00e9rale"
+    "name:fre_x_variant": [
+      "Territoire de la capitale Fédérale"
     ],
-    "name:ger_x_variant":[
-        "Bundeshauptstadtterritorium"
+    "name:ger_x_variant": [
+      "Bundeshauptstadtterritorium"
     ],
-    "name:glg_x_preferred":[
-        "Territorio da Capital Federal de Nixeria"
+    "name:glg_x_preferred": [
+      "Territorio da Capital Federal de Nixeria"
     ],
-    "name:guj_x_preferred":[
-        "\u0aab\u0ac7\u0aa1\u0ab0\u0ab2 \u0a95\u0ac7\u0aaa\u0abf\u0a9f\u0ab2 \u0a9f\u0ac7\u0ab0\u0abf\u0a9f\u0ab0\u0ac0"
+    "name:guj_x_preferred": [
+      "ફેડરલ કેપિટલ ટેરિટરી"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u0902\u0918\u0940\u092f \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    "name:hin_x_preferred": [
+      "संघीय राजधानी क्षेत्र"
     ],
-    "name:ind_x_preferred":[
-        "Wilayah Ibu Kota Federal"
+    "name:ind_x_preferred": [
+      "Wilayah Ibu Kota Federal"
     ],
-    "name:ita_x_preferred":[
-        "Abuja Federal Capital Territory"
+    "name:ita_x_preferred": [
+      "Abuja Federal Capital Territory"
     ],
-    "name:ita_x_variant":[
-        "Territorio della Capitale Federale"
+    "name:ita_x_variant": [
+      "Territorio della Capitale Federale"
     ],
-    "name:jpn_x_preferred":[
-        "\u9023\u90a6\u9996\u90fd\u5730\u533a"
+    "name:jpn_x_preferred": [
+      "連邦首都地区"
     ],
-    "name:kan_x_preferred":[
-        "\u0cab\u0cc6\u0ca1\u0cb0\u0cb2\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0caa\u0cbf\u0c9f\u0cb2\u0ccd \u0c9f\u0cc6\u0cb0\u0cbf\u0c9f\u0cb0\u0cbf"
+    "name:kan_x_preferred": [
+      "ಫೆಡರಲ್ ಕ್ಯಾಪಿಟಲ್ ಟೆರಿಟರಿ"
     ],
-    "name:kat_x_preferred":[
-        "\u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10e4\u10d4\u10d3\u10d4\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e2\u10d4\u10e0\u10d8\u10e2\u10dd\u10e0\u10d8\u10d0"
+    "name:kat_x_preferred": [
+      "დედაქალაქის ფედერალური ტერიტორია"
     ],
-    "name:kor_x_preferred":[
-        "\uc5f0\ubc29 \uc218\ub3c4 \uc9c0\uad6c"
+    "name:kor_x_preferred": [
+      "연방 수도 지구"
     ],
-    "name:lav_x_preferred":[
-        "Feder\u0101l\u0101 galvaspils\u0113tas teritorija"
+    "name:lav_x_preferred": [
+      "Federālā galvaspilsētas teritorija"
     ],
-    "name:lit_x_preferred":[
-        "Federalin\u0117 sostin\u0117s teritorija"
+    "name:lit_x_preferred": [
+      "Federalinė sostinės teritorija"
     ],
-    "name:mar_x_preferred":[
-        "\u092b\u0947\u0921\u0930\u0932 \u0915\u0945\u092a\u093f\u091f\u0932 \u091f\u0947\u0930\u093f\u091f\u0930\u0940"
+    "name:mar_x_preferred": [
+      "फेडरल कॅपिटल टेरिटरी"
     ],
-    "name:msa_x_preferred":[
-        "Federal Capital Territory"
+    "name:msa_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:nld_x_preferred":[
-        "Federal Capital Territory"
+    "name:nld_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:nob_x_preferred":[
-        "Federal Capital Territory"
+    "name:nob_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:pol_x_preferred":[
-        "Federalne Terytorium Sto\u0142eczne"
+    "name:pol_x_preferred": [
+      "Federalne Terytorium Stołeczne"
     ],
-    "name:por_x_preferred":[
-        "Territ\u00f3rio da Capital Federal da Nig\u00e9ria"
+    "name:por_x_preferred": [
+      "Território da Capital Federal da Nigéria"
     ],
-    "name:por_x_variant":[
-        "Territ\u00f3rio da Capital Federal"
+    "name:por_x_variant": [
+      "Território da Capital Federal"
     ],
-    "name:ron_x_preferred":[
-        "Teritoriul Capitalei Federale"
+    "name:ron_x_preferred": [
+      "Teritoriul Capitalei Federale"
     ],
-    "name:rus_x_preferred":[
-        "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f"
+    "name:rus_x_preferred": [
+      "Федеральная столичная территория"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc6\u0dd9\u0da9\u0dbb\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db7\u0dd6\u0db8\u0dd2\u0dba"
+    "name:sin_x_preferred": [
+      "ෆෙඩරල් ප්‍රධාන භූමිය"
     ],
-    "name:spa_x_preferred":[
-        "Territorio de la Capital Federal"
+    "name:spa_x_preferred": [
+      "Territorio de la Capital Federal"
     ],
-    "name:spa_x_variant":[
-        "Territorio de la Capital Federal"
+    "name:spa_x_variant": [
+      "Territorio de la Capital Federal"
     ],
-    "name:swa_x_preferred":[
-        "Federal Capital Territory"
+    "name:swa_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:swe_x_preferred":[
-        "Federal Capital Territory"
+    "name:swe_x_preferred": [
+      "Federal Capital Territory"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0b9f\u0bb0\u0bb2\u0bcd \u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0b9f\u0bc6\u0bb0\u0bbf\u0b9f\u0bbe\u0bb0\u0bbf"
+    "name:tam_x_preferred": [
+      "பெடரல் கேப்பிடல் டெரிடாரி"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2b\u0c46\u0c21\u0c30\u0c32\u0c4d \u0c15\u0c4d\u0c2f\u0c3e\u0c2a\u0c3f\u0c1f\u0c32\u0c4d \u0c1f\u0c46\u0c30\u0c3f\u0c1f\u0c30\u0c40"
+    "name:tel_x_preferred": [
+      "ఫెడరల్ క్యాపిటల్ టెరిటరీ"
     ],
-    "name:tha_x_preferred":[
-        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e41\u0e0a\u0e17\u0e31\u0e21"
+    "name:tha_x_preferred": [
+      "หมู่เกาะแชทัม"
     ],
-    "name:tur_x_preferred":[
-        "Federal Ba\u015fkent B\u00f6lgesi"
+    "name:tur_x_preferred": [
+      "Federal Başkent Bölgesi"
     ],
-    "name:ukr_x_preferred":[
-        "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f"
+    "name:ukr_x_preferred": [
+      "Федеральна столична територія"
     ],
-    "name:urd_x_preferred":[
-        "\u0648\u0641\u0627\u0642\u06cc \u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0639\u0644\u0627\u0642\u06c1\u060c \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"
+    "name:urd_x_preferred": [
+      "وفاقی دارالحکومت علاقہ، نائجیریا"
     ],
-    "name:urd_x_variant":[
-        "\u0648\u0641\u0627\u0642\u06cc \u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0639\u0644\u0627\u0642\u06c1"
+    "name:urd_x_variant": [
+      "وفاقی دارالحکومت علاقہ"
     ],
-    "name:yor_x_preferred":[
-        "Agb\u00e8gb\u00e8 Ol\u00fa\u00ecl\u00fa \u00ccj\u1ecdba \u00c0pap\u1ecd\u0300 Ab\u00f9j\u00e1"
+    "name:yor_x_preferred": [
+      "Agbègbè Olúìlú Ìjọba Àpapọ̀ Abùjá"
     ],
-    "name:yor_x_variant":[
-        "Agb\u00e8gb\u00e8 Ol\u00fa-\u00ecl\u00fa \u00ccj\u1ecdba \u00c0pap\u1ecd\u0300 N\u00e0\u00edj\u00edr\u00ed\u00e0"
+    "name:yor_x_variant": [
+      "Agbègbè Olú-ìlú Ìjọba Àpapọ̀ Nàíjíríà"
     ],
-    "name:zho_x_preferred":[
-        "\u806f\u90a6\u9996\u90fd\u7279\u5340"
+    "name:zho_x_preferred": [
+      "聯邦首都特區"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"NGA",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"NGA-3470",
-    "ne:adm1_code":"NGA-3470",
-    "ne:admin":"Nigeria",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"NG.FC",
-    "ne:code_local":"",
-    "ne:datarank":"2",
-    "ne:diss_me":"3470",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"NI11",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Nigeria",
-    "ne:gn_a1_code":"NG.11",
-    "ne:gn_id":"2352776",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Federal Capital Territory",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"NI11",
-    "ne:gns_id":"-1997015",
-    "ne:gns_lang":"fra",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Abuja Federal Capital Territory",
-    "ne:gns_region":"",
-    "ne:gu_a3":"NGA",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"NG-",
-    "ne:iso_a2":"NG",
-    "ne:labelrank":"3",
-    "ne:latitude":"8.78852000000",
-    "ne:longitude":"7.18889000000",
-    "ne:mapcolor13":2,
-    "ne:mapcolor9":5,
-    "ne:name":"Federal Capital Territory",
-    "ne:name_alt":"Abuja",
-    "ne:name_len":25,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"FC",
-    "ne:provnum_ne":"0",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"3",
-    "ne:sov_a3":"NGA",
-    "ne:sub_code":"",
-    "ne:type":"State",
-    "ne:type_en":"State",
-    "ne:wikipedia":"",
-    "ne:woe_id":2346345,
-    "ne:woe_label":"Abuja Capital Territory, NG, Nigeria",
-    "ne:woe_name":"Federal Capital Territory",
-    "qs:a0":"Nigeria",
-    "qs:a0_lc":"NG",
-    "qs:a1":"Federal Capital Territory",
-    "qs:a1_lc":"NGA-3470",
-    "qs:adm0":"Nigeria",
-    "qs:adm0_a3":"NGA",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"State",
-    "src:geom":"meso",
-    "src:geom_alt":[
-        "quattroshapes"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "NGA",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "NGA-3470",
+    "ne:adm1_code": "NGA-3470",
+    "ne:admin": "Nigeria",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "NG.FC",
+    "ne:code_local": "",
+    "ne:datarank": "2",
+    "ne:diss_me": "3470",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "NI11",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Nigeria",
+    "ne:gn_a1_code": "NG.11",
+    "ne:gn_id": "2352776",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Federal Capital Territory",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "NI11",
+    "ne:gns_id": "-1997015",
+    "ne:gns_lang": "fra",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Abuja Federal Capital Territory",
+    "ne:gns_region": "",
+    "ne:gu_a3": "NGA",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "NG-",
+    "ne:iso_a2": "NG",
+    "ne:labelrank": "3",
+    "ne:latitude": "8.78852000000",
+    "ne:longitude": "7.18889000000",
+    "ne:mapcolor13": 2,
+    "ne:mapcolor9": 5,
+    "ne:name": "Federal Capital Territory",
+    "ne:name_alt": "Abuja",
+    "ne:name_len": 25,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "FC",
+    "ne:provnum_ne": "0",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "3",
+    "ne:sov_a3": "NGA",
+    "ne:sub_code": "",
+    "ne:type": "State",
+    "ne:type_en": "State",
+    "ne:wikipedia": "",
+    "ne:woe_id": 2346345,
+    "ne:woe_label": "Abuja Capital Territory, NG, Nigeria",
+    "ne:woe_name": "Federal Capital Territory",
+    "qs:a0": "Nigeria",
+    "qs:a0_lc": "NG",
+    "qs:a1": "Federal Capital Territory",
+    "qs:a1_lc": "NGA-3470",
+    "qs:adm0": "Nigeria",
+    "qs:adm0_a3": "NGA",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "State",
+    "src:geom": "meso",
+    "src:geom_alt": [
+      "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2006-03-21",
-    "statoids:area_km":"7,569",
-    "statoids:area_mi":"2,922",
-    "statoids:as_of_date":"2006-03-21",
-    "statoids:capital":"Abuja",
-    "statoids:country":"NG",
-    "statoids:gec":"NI11",
-    "statoids:hasc":"NG.FC",
-    "statoids:iso":"FC",
-    "statoids:name":"Federal Capital Territory",
-    "statoids:population":"1405201",
-    "statoids:timezone":"+1",
-    "statoids:type":"capital territory",
-    "unlc:subdivision":"NG-FC",
-    "wd:wordcount":244,
-    "wof:belongsto":[
-        102191573,
-        85632735
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2006-03-21",
+    "statoids:area_km": "7,569",
+    "statoids:area_mi": "2,922",
+    "statoids:as_of_date": "2006-03-21",
+    "statoids:capital": "Abuja",
+    "statoids:country": "NG",
+    "statoids:gec": "NI11",
+    "statoids:hasc": "NG.FC",
+    "statoids:iso": "FC",
+    "statoids:name": "Federal Capital Territory",
+    "statoids:population": "1405201",
+    "statoids:timezone": "+1",
+    "statoids:type": "capital territory",
+    "unlc:subdivision": "NG-FC",
+    "wd:wordcount": 244,
+    "wof:belongsto": [
+      102191573,
+      85632735
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fct:id":"01e9c3d6-8f76-11e1-848f-cfd5bf3ef515",
-        "fips:code":"NI11",
-        "gn:id":2352776,
-        "gp:id":2346345,
-        "hasc:id":"NG.FC",
-        "iso:id":"NG-FC",
-        "qs_pg:id":1135178,
-        "unlc:id":"NG-FC",
-        "wd:id":"Q509300",
-        "wk:page":"Federal Capital Territory, Nigeria"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fct:id": "01e9c3d6-8f76-11e1-848f-cfd5bf3ef515",
+      "fips:code": "NI11",
+      "gn:id": 2352776,
+      "gp:id": 2346345,
+      "hasc:id": "NG.FC",
+      "iso:id": "NG-FC",
+      "qs_pg:id": 1135178,
+      "unlc:id": "NG-FC",
+      "wd:id": "Q509300",
+      "wk:page": "Federal Capital Territory, Nigeria"
     },
-    "wof:country":"NG",
-    "wof:geom_alt":[
-        "quattroshapes"
+    "wof:country": "NG",
+    "wof:created": 1624906863,
+    "wof:geom_alt": [
+      "quattroshapes"
     ],
-    "wof:geomhash":"4a1d5bb9bf37f6710725e496c9cc7183",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632735,
-            "region_id":85675457
-        }
+    "wof:geomhash": "4a1d5bb9bf37f6710725e496c9cc7183",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191573,
+        "country_id": 85632735,
+        "region_id": 85675457
+      }
     ],
-    "wof:id":85675457,
-    "wof:lang_x_official":[
-        "eng",
-        "yor"
+    "wof:id": 85675457,
+    "wof:lang_x_official": [
+      "eng",
+      "yor"
     ],
-    "wof:lang_x_spoken":[
-        "eng",
-        "yor"
+    "wof:lang_x_spoken": [
+      "eng",
+      "yor"
     ],
-    "wof:lastmodified":1582359377,
-    "wof:name":"Federal Capital Territory",
-    "wof:parent_id":85632735,
-    "wof:placetype":"region",
-    "wof:placetype_local":"capital territory",
-    "wof:population":1405201,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-ng",
-    "wof:shortcode":"FC",
-    "wof:subdivision":"NG-FC",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906863,
+    "wof:name": "Federal Capital Territory",
+    "wof:parent_id": 85632735,
+    "wof:placetype": "region",
+    "wof:placetype_local": "capital territory",
+    "wof:population": 1405201,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-ng",
+    "wof:shortcode": "FC",
+    "wof:subdivision": "NG-FC",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     6.77856633973263,
     8.45757136831214,
     7.73006633973258,
     9.43157136831212
-],
+  ],
   "geometry": {"coordinates":[[[7.38816633973257,9.34987136831216],[7.39386633973257,9.35397136831211],[7.3985663397326,9.35747136831216],[7.41766633973261,9.36707136831217],[7.44516633973264,9.36947136831215],[7.46306633973265,9.36827136831216],[7.47626633973263,9.37057136831212],[7.49656633973262,9.36227136831212],[7.50976633973261,9.36107136831213],[7.58986633973261,9.43157136831212],[7.6723663397326,9.41127136831213],[7.71956633973262,9.34637136831212],[7.73006633973258,9.33197136831215],[7.66756633973264,9.3036713683121],[7.60336633973263,9.16147136831212],[7.58866633973262,9.12907136831212],[7.59226633973259,8.92457136831213],[7.59466633973257,8.8563713683121],[7.5916663397326,8.83487136831212],[7.56526633973264,8.78527136831211],[7.54146633973259,8.74037136831214],[7.50196633973258,8.66867136831216],[7.49596633973263,8.6542713683121],[7.49326633973261,8.65077136831214],[7.47826633973264,8.63197136831218],[7.44306633973261,8.5932713683121],[7.41816633973259,8.56987136831211],[7.38916633973262,8.54547136831217],[7.3686663397326,8.52917136831211],[7.34236633973256,8.51047136831216],[7.31236633973263,8.50077136831214],[7.27116633973265,8.49247136831213],[7.21076633973264,8.48097136831212],[7.16296633973263,8.47337136831213],[7.11676633973265,8.46627136831211],[7.08416633973263,8.4636713683121],[7.05716633973258,8.46297136831218],[7.02526633973256,8.46167136831218],[6.99146633973263,8.4598713683121],[6.98416633973259,8.45937136831212],[6.82786633973259,8.45757136831214],[6.77856633973263,8.45757136831214],[6.78476633973261,8.99127136831213],[6.78666633973261,9.15537136831215],[6.78806633973262,9.27017136831212],[7.01526633973258,9.26897136831213],[7.03006633973261,9.25767136831215],[7.16766633973257,9.1530713683121],[7.21976633973257,9.11347136831216],[7.2339663397326,9.13347136831211],[7.24976633973259,9.15577136831212],[7.38816633973257,9.34987136831216]]],"type":"Polygon"}
 }

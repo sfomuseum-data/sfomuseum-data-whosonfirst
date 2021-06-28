@@ -2,130 +2,131 @@
   "id": 102556219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
-    "geom:area":0.000016,
-    "geom:area_square_m":183256.877503,
-    "geom:bbox":"-67.1408,18.489864,-67.135559,18.495832",
-    "geom:latitude":18.492712,
-    "geom:longitude":-67.137565,
-    "iso:country":"PR",
-    "lbl:latitude":18.488081,
-    "lbl:longitude":-67.149684,
-    "mps:latitude":18.488081,
-    "mps:longitude":-67.149684,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Rafael Hernandez Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0.00001562732099999823,
+    "geom:area_square_m": 183256.877503,
+    "geom:bbox": "-67.140800,18.489864,-67.135559,18.495832",
+    "geom:latitude": 18.492711566464656,
+    "geom:longitude": -67.13756493817606,
+    "iso:country": "PR",
+    "lbl:latitude": 18.488081,
+    "lbl:longitude": -67.149684,
+    "mps:latitude": 18.488081,
+    "mps:longitude": -67.149684,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Rafael Hernandez Airport"
     ],
-    "name:deu_x_preferred":[
-        "Rafael Hern\u00e1ndez Airport"
+    "name:deu_x_preferred": [
+      "Rafael Hernández Airport"
     ],
-    "name:eng_x_preferred":[
-        "Rafael Hern\u00e1ndez Airport"
+    "name:eng_x_preferred": [
+      "Rafael Hernández Airport"
     ],
-    "name:eng_x_variant":[
-        "BQN",
-        "TJBQ"
+    "name:eng_x_variant": [
+      "BQN",
+      "TJBQ"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0641\u0627\u0626\u0644 \u0647\u0631\u0646\u0627\u0646\u062f\u0632"
+    "name:fas_x_preferred": [
+      "فرودگاه رافائل هرناندز"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport Rafael Hern\u00e1ndez"
+    "name:fra_x_preferred": [
+      "aéroport Rafael Hernández"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto di Aguadilla-Borinquen"
+    "name:ita_x_preferred": [
+      "Aeroporto di Aguadilla-Borinquen"
     ],
-    "name:jpn_x_preferred":[
-        "\u30e9\u30d5\u30a1\u30a8\u30eb\u30fb\u30a8\u30eb\u30ca\u30f3\u30c7\u30b9\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ラファエル・エルナンデス空港"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Rafael Hernandez"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Rafael Hernandez"
     ],
-    "name:nld_x_preferred":[
-        "Rafael Hern\u00e1ndez Airport"
+    "name:nld_x_preferred": [
+      "Rafael Hernández Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Rafael Hernandez"
+    "name:pol_x_preferred": [
+      "Port lotniczy Rafael Hernandez"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Rafael Hern\u00e1ndez"
+    "name:ron_x_preferred": [
+      "Aeroportul Rafael Hernández"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional Rafael Hern\u00e1ndez"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Rafael Hernández"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043e\u0444\u043e\u0435\u04b3\u043b \u04b3\u0440\u043d\u043e\u043d\u0434\u0437"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи рофоеҳл ҳрнондз"
     ],
-    "name:zho_x_preferred":[
-        "\u963f\u74dc\u8fea\u4e9e"
+    "name:zho_x_preferred": [
+      "阿瓜迪亞"
     ],
-    "oa:elevation_ft":"237",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424935,
-        "county_id":26806004,
-        "planet_id":1,
-        "state_id":2346842
+    "oa:elevation_ft": "237",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424935,
+      "county_id": 26806004,
+      "planet_id": 1,
+      "state_id": 2346842
     },
-    "wof:belongsto":[
-        85633729,
-        102191575,
-        136253057,
-        102080275,
-        85687331
+    "wof:belongsto": [
+      85633729,
+      102191575,
+      136253057,
+      102080275,
+      85687331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12515664,
-        "iata:code":"BQN",
-        "icao:code":"TJBQ",
-        "oa:id":"6379",
-        "wd:id":"Q2276582",
-        "wk:page":"Rafael_Hern%C3%A1ndez_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12515664,
+      "iata:code": "BQN",
+      "icao:code": "TJBQ",
+      "oa:id": "6379",
+      "wd:id": "Q2276582",
+      "wk:page": "Rafael_Hern%C3%A1ndez_Airport"
     },
-    "wof:country":"PR",
-    "wof:geomhash":"273a33ad42d00451e1daebeb22c04e8b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102556219,
-            "continent_id":102191575,
-            "country_id":-1,
-            "county_id":102080275,
-            "dependency_id":85633729,
-            "empire_id":136253057,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687331
-        }
+    "wof:country": "PR",
+    "wof:created": 1624906825,
+    "wof:geomhash": "273a33ad42d00451e1daebeb22c04e8b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102556219,
+        "continent_id": 102191575,
+        "country_id": -1,
+        "county_id": 102080275,
+        "dependency_id": 85633729,
+        "empire_id": 136253057,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85687331
+      }
     ],
-    "wof:id":102556219,
-    "wof:lastmodified":1611601239,
-    "wof:name":"Aeropuerto Rafael Hern\u00edndez",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-pr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102556219,
+    "wof:lastmodified": 1624906825,
+    "wof:name": "Aeropuerto Rafael Herníndez",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-pr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -67.1408,
     18.489864,
     -67.135559,
     18.495832
-],
+  ],
   "geometry": {"coordinates":[[[-67.1408,18.491941],[-67.13633,18.495832],[-67.135559,18.495319],[-67.136337,18.489864],[-67.1408,18.491941]]],"type":"Polygon"}
 }

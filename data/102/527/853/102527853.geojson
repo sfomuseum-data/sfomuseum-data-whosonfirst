@@ -2,141 +2,142 @@
   "id": 102527853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000621,
-    "geom:area_square_m":6507960.35885,
-    "geom:bbox":"-110.960304,32.106674,-110.925346,32.134422",
-    "geom:latitude":32.121314,
-    "geom:longitude":-110.943324,
-    "gn:elevation":792,
-    "iso:country":"US",
-    "lbl:latitude":32.119362,
-    "lbl:longitude":-110.946818,
-    "mps:latitude":32.119362,
-    "mps:longitude":-110.946818,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u062a\u0648\u0633\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0006214396894998915,
+    "geom:area_square_m": 6507960.35885,
+    "geom:bbox": "-110.960304,32.106674,-110.925346,32.134422",
+    "geom:latitude": 32.12131361520006,
+    "geom:longitude": -110.94332445209518,
+    "gn:elevation": 792,
+    "iso:country": "US",
+    "lbl:latitude": 32.119362,
+    "lbl:longitude": -110.946818,
+    "mps:latitude": 32.119362,
+    "mps:longitude": -110.946818,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار توسان الدولي"
     ],
-    "name:deu_x_preferred":[
-        "Tucson International Airport"
+    "name:deu_x_preferred": [
+      "Tucson International Airport"
     ],
-    "name:eng_x_preferred":[
-        "Tucson International Airport"
+    "name:eng_x_preferred": [
+      "Tucson International Airport"
     ],
-    "name:eng_x_variant":[
-        "TUS",
-        "KTUS"
+    "name:eng_x_variant": [
+      "TUS",
+      "KTUS"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062a\u0648\u0633\u0627\u0646"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی توسان"
     ],
-    "name:fin_x_preferred":[
-        "Tucsonin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Tucsonin kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport international de Tucson"
+    "name:fra_x_preferred": [
+      "Aéroport international de Tucson"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport international de Tucson"
+    "name:fra_x_variant": [
+      "aéroport international de Tucson"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale di Tucson"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale di Tucson"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c4\u30fc\u30bd\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ツーソン国際空港"
     ],
-    "name:mar_x_preferred":[
-        "\u0924\u0941\u0938\u0949\u0928 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "तुसॉन आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nld_x_preferred":[
-        "Tucson International Airport"
+    "name:nld_x_preferred": [
+      "Tucson International Airport"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional de Tucson"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Tucson"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Tucson"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Tucson"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Tucson"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Tucson"
     ],
-    "name:urd_x_preferred":[
-        "\u0679\u0648\u0633\u0627\u0646 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ٹوسان انٹرنیشنل ہوائی اڈا"
     ],
-    "name:zho_x_preferred":[
-        "\u571f\u6851\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "土桑國際機場"
     ],
-    "oa:elevation_ft":"2643",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":148,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Tucson International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":2372,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587590,
-        "planet_id":1,
-        "state_id":2347561,
-        "suburb_id":55805879
+    "oa:elevation_ft": "2643",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 148,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Tucson International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 2372,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587590,
+      "planet_id": 1,
+      "state_id": 2347561,
+      "suburb_id": 55805879
     },
-    "wof:belongsto":[
-        85871753,
-        102191575,
-        85633793,
-        85917235,
-        102081135,
-        85688719
+    "wof:belongsto": [
+      85871753,
+      102191575,
+      85633793,
+      85917235,
+      102081135,
+      85688719
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"TUS",
-        "gn:id":5318324,
-        "gp:id":12522214,
-        "iata:code":"TUS",
-        "icao:code":"KTUS",
-        "oa:id":"3932",
-        "wd:id":"Q1433111",
-        "wk:page":"Tucson_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "TUS",
+      "gn:id": 5318324,
+      "gp:id": 12522214,
+      "iata:code": "TUS",
+      "icao:code": "KTUS",
+      "oa:id": "3932",
+      "wd:id": "Q1433111",
+      "wk:page": "Tucson_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7b812395803c841cc2ca38b395399591",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527853,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081135,
-            "locality_id":85917235,
-            "neighbourhood_id":85871753,
-            "region_id":85688719
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "7b812395803c841cc2ca38b395399591",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527853,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081135,
+        "locality_id": 85917235,
+        "neighbourhood_id": 85871753,
+        "region_id": 85688719
+      }
     ],
-    "wof:id":102527853,
-    "wof:lastmodified":1611601234,
-    "wof:name":"Tucson International Airport",
-    "wof:parent_id":85871753,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102527853,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Tucson International Airport",
+    "wof:parent_id": 85871753,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -110.960304,
     32.106674,
     -110.925346,
     32.134422
-],
-  "geometry": {"coordinates":[[[[-110.946251,32.106838],[-110.946304,32.106674],[-110.946426,32.106926],[-110.946831,32.107738],[-110.96030399999999,32.110916],[-110.95927399999999,32.124851],[-110.959244,32.126434],[-110.95925099999999,32.127743],[-110.95935799999999,32.133183],[-110.948784,32.126575],[-110.941574,32.128197],[-110.937332,32.131165],[-110.935181,32.134422],[-110.93000000000001,32.134167],[-110.925392,32.133564],[-110.925346,32.133503],[-110.92598,32.130337],[-110.92600299999999,32.120167],[-110.926765,32.116047],[-110.930779,32.113407],[-110.938377,32.11784],[-110.946251,32.106838]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-110.946251,32.106838],[-110.946304,32.106674],[-110.946426,32.106926],[-110.946831,32.107738],[-110.960304,32.110916],[-110.959274,32.124851],[-110.959244,32.126434],[-110.959251,32.127743],[-110.959358,32.133183],[-110.948784,32.126575],[-110.941574,32.128197],[-110.937332,32.131165],[-110.935181,32.134422],[-110.93,32.134167],[-110.925392,32.133564],[-110.925346,32.133503],[-110.92598,32.130337],[-110.926003,32.120167],[-110.926765,32.116047],[-110.930779,32.113407],[-110.938377,32.11784],[-110.946251,32.106838]]]],"type":"MultiPolygon"}
 }

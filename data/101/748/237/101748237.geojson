@@ -2,541 +2,542 @@
   "id": 101748237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.001988,
-    "geom:area_square_m":18946041.413625,
-    "geom:bbox":"2.612126,39.55402,2.694654,39.605057",
-    "geom:latitude":39.576848,
-    "geom:longitude":2.65738,
-    "gn:population":401270,
-    "iso:country":"ES",
-    "lbl:latitude":39.575748,
-    "lbl:longitude":2.656644,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":39.575748,
-    "mps:longitude":2.656644,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":6.0,
-    "name:afr_x_preferred":[
-        "Palma de Mallorca"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0019878898415000316,
+    "geom:area_square_m": 18946041.413625,
+    "geom:bbox": "2.612126,39.554020,2.694654,39.605057",
+    "geom:latitude": 39.576847683809895,
+    "geom:longitude": 2.657379973281499,
+    "gn:population": 401270,
+    "iso:country": "ES",
+    "lbl:latitude": 39.575748,
+    "lbl:longitude": 2.656644,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 39.575748,
+    "mps:longitude": 2.656644,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 6,
+    "name:afr_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ara_x_preferred":[
-        "\u0645\u064a\u0648\u0631\u0642\u0629"
+    "name:ara_x_preferred": [
+      "ميورقة"
     ],
-    "name:arg_x_preferred":[
-        "Palma de Mallorca"
+    "name:arg_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:arz_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627 \u062f\u0649 \u0645\u0627\u064a\u0648\u0631\u0643\u0627"
+    "name:arz_x_preferred": [
+      "پالما دى مايوركا"
     ],
-    "name:ast_x_preferred":[
-        "Palma de Mallorca"
+    "name:ast_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ast_x_variant":[
-        "Palma"
+    "name:ast_x_variant": [
+      "Palma"
     ],
-    "name:azb_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627 \u062f\u0647 \u0645\u0627\u06cc\u0648\u0631\u06a9\u0627"
+    "name:azb_x_preferred": [
+      "پالما ده مایورکا"
     ],
-    "name:aze_x_preferred":[
-        "Palma-de-Malyorka"
+    "name:aze_x_preferred": [
+      "Palma-de-Malyorka"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u044d-\u041c\u0430\u043b\u044c\u0451\u0440\u043a\u0430"
+    "name:bel_x_preferred": [
+      "Горад Пальма-дэ-Мальёрка"
     ],
-    "name:bel_x_variant":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430",
-        "\u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u044d-\u041c\u0430\u043b\u0451\u0440\u043a\u0430"
+    "name:bel_x_variant": [
+      "Пальма",
+      "Пальма-дэ-Малёрка"
     ],
-    "name:ben_x_preferred":[
-        "\u09aa\u09be\u09b2\u09ae\u09be"
+    "name:ben_x_preferred": [
+      "পালমা"
     ],
-    "name:bos_x_preferred":[
-        "Palma de Mallorca"
+    "name:bos_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:bre_x_preferred":[
-        "Palma"
+    "name:bre_x_preferred": [
+      "Palma"
     ],
-    "name:bul_x_preferred":[
-        "\u041f\u0430\u043b\u043c\u0430 \u0434\u0435 \u041c\u0430\u0439\u043e\u0440\u043a\u0430"
+    "name:bul_x_preferred": [
+      "Палма де Майорка"
     ],
-    "name:cat_x_preferred":[
-        "Palma"
+    "name:cat_x_preferred": [
+      "Palma"
     ],
-    "name:cat_x_variant":[
-        "Ciutat de Mallorca"
+    "name:cat_x_variant": [
+      "Ciutat de Mallorca"
     ],
-    "name:ceb_x_preferred":[
-        "Palma"
+    "name:ceb_x_preferred": [
+      "Palma"
     ],
-    "name:ces_x_preferred":[
-        "Palma de Mallorca"
+    "name:ces_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ckb_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627\u060c \u0645\u0627\u06cc\u06c6\u0631\u06a9\u0627"
+    "name:ckb_x_preferred": [
+      "پالما، مایۆرکا"
     ],
-    "name:ckb_x_variant":[
-        "\u067e\u0627\u0644\u0645\u0627"
+    "name:ckb_x_variant": [
+      "پالما"
     ],
-    "name:cym_x_preferred":[
-        "Palma de Mallorca"
+    "name:cym_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:dan_x_preferred":[
-        "Palma de Mallorca"
+    "name:dan_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:deu_x_preferred":[
-        "Palma de Mallorca"
+    "name:deu_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:deu_x_variant":[
-        "Palma"
+    "name:deu_x_variant": [
+      "Palma"
     ],
-    "name:ell_x_preferred":[
-        "\u03a0\u03ac\u03bb\u03bc\u03b1 \u03bd\u03c4\u03b5 \u039c\u03b1\u03b3\u03b9\u03cc\u03c1\u03ba\u03b1"
+    "name:ell_x_preferred": [
+      "Πάλμα ντε Μαγιόρκα"
     ],
-    "name:eng_x_historical":[
-        "Palma de Mallorca"
+    "name:eng_x_historical": [
+      "Palma de Mallorca"
     ],
-    "name:eng_x_preferred":[
-        "Palma de Mallorca"
+    "name:eng_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:eng_x_variant":[
-        "Palma"
+    "name:eng_x_variant": [
+      "Palma"
     ],
-    "name:epo_x_preferred":[
-        "Palma de Majorko"
+    "name:epo_x_preferred": [
+      "Palma de Majorko"
     ],
-    "name:epo_x_variant":[
-        "Palma"
+    "name:epo_x_variant": [
+      "Palma"
     ],
-    "name:est_x_preferred":[
-        "Palma de Mallorca"
+    "name:est_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:eus_x_preferred":[
-        "Palma Mallorcakoa"
+    "name:eus_x_preferred": [
+      "Palma Mallorcakoa"
     ],
-    "name:ext_x_preferred":[
-        "Palma de Mallorca"
+    "name:ext_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627 \u062f \u0645\u0627\u06cc\u0648\u0631\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "پالما د مایورکا"
     ],
-    "name:fin_x_preferred":[
-        "Palma de Mallorca"
+    "name:fin_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:fin_x_variant":[
-        "Palma"
+    "name:fin_x_variant": [
+      "Palma"
     ],
-    "name:fra_x_preferred":[
-        "Palma de Majorque"
+    "name:fra_x_preferred": [
+      "Palma de Majorque"
     ],
-    "name:fra_x_variant":[
-        "Palma"
+    "name:fra_x_variant": [
+      "Palma"
     ],
-    "name:gla_x_preferred":[
-        "Palma de Mallorca"
+    "name:gla_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:gle_x_preferred":[
-        "Palma de Mallorca"
+    "name:gle_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:glg_x_preferred":[
-        "Palma de Mallorca"
+    "name:glg_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:glg_x_variant":[
-        "Palma"
+    "name:glg_x_variant": [
+      "Palma"
     ],
-    "name:grn_x_preferred":[
-        "Palma"
+    "name:grn_x_preferred": [
+      "Palma"
     ],
-    "name:guj_x_preferred":[
-        "\u0aaa\u0abe\u0ab2\u0acd\u0aae\u0abe"
+    "name:guj_x_preferred": [
+      "પાલ્મા"
     ],
-    "name:hau_x_preferred":[
-        "Palma de Mayorka"
+    "name:hau_x_preferred": [
+      "Palma de Mayorka"
     ],
-    "name:heb_x_preferred":[
-        "\u05e4\u05dc\u05de\u05d4 \u05d3\u05d4 \u05de\u05d9\u05d5\u05e8\u05e7\u05d4"
+    "name:heb_x_preferred": [
+      "פלמה דה מיורקה"
     ],
-    "name:hin_x_preferred":[
-        "\u092a\u093e\u0932\u094d\u092e\u093e"
+    "name:hin_x_preferred": [
+      "पाल्मा"
     ],
-    "name:hrv_x_preferred":[
-        "Palma de Mallorca"
+    "name:hrv_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:hun_x_preferred":[
-        "Palma de Mallorca"
+    "name:hun_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:hye_x_preferred":[
-        "\u054a\u0561\u056c\u0574\u0561 \u0564\u0565 \u0544\u0561\u056c\u0575\u0578\u0580\u056f\u0561"
+    "name:hye_x_preferred": [
+      "Պալմա դե Մալյորկա"
     ],
-    "name:ido_x_preferred":[
-        "Palma de Mallorca"
+    "name:ido_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ile_x_preferred":[
-        "Palma"
+    "name:ile_x_preferred": [
+      "Palma"
     ],
-    "name:ind_x_preferred":[
-        "Palma de Mallorca"
+    "name:ind_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:isl_x_preferred":[
-        "Palma de Mallorca"
+    "name:isl_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ita_x_preferred":[
-        "Palma di Maiorca"
+    "name:ita_x_preferred": [
+      "Palma di Maiorca"
     ],
-    "name:jav_x_preferred":[
-        "Palma de Mallorca"
+    "name:jav_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d1\u30eb\u30de",
-        "\u30d1\u30eb\u30de\u30fb\u30c7\u30fb\u30de\u30e8\u30eb\u30ab"
+    "name:jpn_x_preferred": [
+      "パルマ",
+      "パルマ・デ・マヨルカ"
     ],
-    "name:jpn_x_variant":[
-        "\u30d1\u30eb\u30de\u30fb\u30c7\u30fb\u30de\u30ea\u30e7\u30eb\u30ab"
+    "name:jpn_x_variant": [
+      "パルマ・デ・マリョルカ"
     ],
-    "name:kan_x_preferred":[
-        "\u0caa\u0cbe\u0cb2\u0ccd\u0cae\u0cbe"
+    "name:kan_x_preferred": [
+      "ಪಾಲ್ಮಾ"
     ],
-    "name:kat_x_preferred":[
-        "\u10de\u10d0\u10da\u10db\u10d0"
+    "name:kat_x_preferred": [
+      "პალმა"
     ],
-    "name:kaz_x_preferred":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u0435-\u041c\u0430\u043b\u044c\u043e\u0440\u043a\u0430"
+    "name:kaz_x_preferred": [
+      "Пальма-де-Мальорка"
     ],
-    "name:kaz_x_variant":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u0435-\u041c\u0430\u0439\u043e\u0440\u043a\u0430"
+    "name:kaz_x_variant": [
+      "Пальма-де-Майорка"
     ],
-    "name:kor_x_preferred":[
-        "\ud314\ub9c8",
-        "\ud314\ub9c8\ub370\ub9c8\uc694\ub974\uce74"
+    "name:kor_x_preferred": [
+      "팔마",
+      "팔마데마요르카"
     ],
-    "name:lad_x_preferred":[
-        "Palma de Mayorka"
+    "name:lad_x_preferred": [
+      "Palma de Mayorka"
     ],
-    "name:lat_x_preferred":[
-        "Palma"
+    "name:lat_x_preferred": [
+      "Palma"
     ],
-    "name:lav_x_preferred":[
-        "Palma"
+    "name:lav_x_preferred": [
+      "Palma"
     ],
-    "name:lit_x_preferred":[
-        "Maljorkos Palma"
+    "name:lit_x_preferred": [
+      "Maljorkos Palma"
     ],
-    "name:ltz_x_preferred":[
-        "Palma de Mallorca"
+    "name:ltz_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:mar_x_preferred":[
-        "\u092a\u093e\u0932\u094d\u092e\u093e \u0926\u0947 \u092e\u093e\u092f\u094b\u0930\u094d\u0915\u093e"
+    "name:mar_x_preferred": [
+      "पाल्मा दे मायोर्का"
     ],
-    "name:mkd_x_preferred":[
-        "\u041f\u0430\u043b\u043c\u0430 \u0434\u0435 \u041c\u0430\u0458\u043e\u0440\u043a\u0430"
+    "name:mkd_x_preferred": [
+      "Палма де Мајорка"
     ],
-    "name:msa_x_preferred":[
-        "Palma de Mallorca"
+    "name:msa_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:nah_x_preferred":[
-        "Palma de Mallorca"
+    "name:nah_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:nld_x_preferred":[
-        "Palma de Mallorca"
+    "name:nld_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:nno_x_preferred":[
-        "Palma de Mallorca"
+    "name:nno_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:nob_x_preferred":[
-        "Palma de Mallorca"
+    "name:nob_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:nob_x_variant":[
-        "Palma"
+    "name:nob_x_variant": [
+      "Palma"
     ],
-    "name:nor_x_preferred":[
-        "Palma de Mallorca"
+    "name:nor_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:oci_x_preferred":[
-        "Palma"
+    "name:oci_x_preferred": [
+      "Palma"
     ],
-    "name:oci_x_variant":[
-        "Palma de Malh\u00f2rca",
-        "Palma de Mallorca"
+    "name:oci_x_variant": [
+      "Palma de Malhòrca",
+      "Palma de Mallorca"
     ],
-    "name:oss_x_preferred":[
-        "\u041f\u0430\u043b\u044c\u043c\u00e6"
+    "name:oss_x_preferred": [
+      "Пальмæ"
     ],
-    "name:pnb_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627"
+    "name:pnb_x_preferred": [
+      "پالما"
     ],
-    "name:pol_x_preferred":[
-        "Palma de Mallorca"
+    "name:pol_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:por_x_preferred":[
-        "Palma de Maiorca"
+    "name:por_x_preferred": [
+      "Palma de Maiorca"
     ],
-    "name:ron_x_preferred":[
-        "Palma de Mallorca"
+    "name:ron_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:rup_x_preferred":[
-        "Palma de Mallorca"
+    "name:rup_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:rus_x_preferred":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430"
+    "name:rus_x_preferred": [
+      "Пальма"
     ],
-    "name:scn_x_preferred":[
-        "Palma di Majorca"
+    "name:scn_x_preferred": [
+      "Palma di Majorca"
     ],
-    "name:sco_x_preferred":[
-        "Palma"
+    "name:sco_x_preferred": [
+      "Palma"
     ],
-    "name:sin_x_preferred":[
-        "\u0db4\u0dd0\u0dbd\u0dca\u0db8\u0dcf"
+    "name:sin_x_preferred": [
+      "පැල්මා"
     ],
-    "name:slk_x_preferred":[
-        "Palma de Mallorca"
+    "name:slk_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:slv_x_preferred":[
-        "Majorka"
+    "name:slv_x_preferred": [
+      "Majorka"
     ],
-    "name:spa_x_preferred":[
-        "Palma",
-        "Palma de Mallorca"
+    "name:spa_x_preferred": [
+      "Palma",
+      "Palma de Mallorca"
     ],
-    "name:spa_x_variant":[
-        "Palma de Mallorca",
-        "Palmademallorca"
+    "name:spa_x_variant": [
+      "Palma de Mallorca",
+      "Palmademallorca"
     ],
-    "name:sqi_x_preferred":[
-        "Palma"
+    "name:sqi_x_preferred": [
+      "Palma"
     ],
-    "name:srd_x_preferred":[
-        "Palma de Majorca"
+    "name:srd_x_preferred": [
+      "Palma de Majorca"
     ],
-    "name:srp_x_preferred":[
-        "\u041f\u0430\u043b\u043c\u0430 \u0434\u0435 \u041c\u0430\u0458\u043e\u0440\u043a\u0430"
+    "name:srp_x_preferred": [
+      "Палма де Мајорка"
     ],
-    "name:srp_x_variant":[
-        "\u041f\u0430\u043b\u043c\u0430"
+    "name:srp_x_variant": [
+      "Палма"
     ],
-    "name:swe_x_preferred":[
-        "Palma de Mallorca"
+    "name:swe_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:szl_x_preferred":[
-        "Palma de Mallorca"
+    "name:szl_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbe \u0ba4\u0bc7 \u0bae\u0bb2\u0bcd\u0bb2\u0bcb\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbe"
+    "name:tam_x_preferred": [
+      "பால்மா தே மல்லோர்க்கா"
     ],
-    "name:tat_x_preferred":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u0435-\u041c\u0430\u043b\u044c\u043e\u0440\u043a\u0430"
+    "name:tat_x_preferred": [
+      "Пальма-де-Мальорка"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2a\u0c32\u0c4d\u0c2e"
+    "name:tel_x_preferred": [
+      "పల్మ"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e31\u0e25\u0e21\u0e32"
+    "name:tha_x_preferred": [
+      "ปัลมา"
     ],
-    "name:tur_x_preferred":[
-        "Palma de Mallorca"
+    "name:tur_x_preferred": [
+      "Palma de Mallorca"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0430\u043b\u044c\u043c\u0430"
+    "name:ukr_x_preferred": [
+      "Пальма"
     ],
-    "name:und_x_variant":[
-        "Madina Mayurqa"
+    "name:und_x_variant": [
+      "Madina Mayurqa"
     ],
-    "name:urd_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u0627\u060c \u0645\u0627\u06cc\u0648\u0631\u06a9\u0627"
+    "name:urd_x_preferred": [
+      "پالما، مایورکا"
     ],
-    "name:urd_x_variant":[
-        "\u067e\u0627\u0644\u0645\u0627"
+    "name:urd_x_variant": [
+      "پالما"
     ],
-    "name:uzb_x_preferred":[
-        "Palma"
+    "name:uzb_x_preferred": [
+      "Palma"
     ],
-    "name:vie_x_preferred":[
-        "Palma de Mallorca"
-    ],
-    "name:war_x_preferred":[
-        "Palma de Mallorca"
-    ],
-    "name:xmf_x_preferred":[
-        "\u10de\u10d0\u10da\u10db\u10d0"
-    ],
-    "name:yue_x_preferred":[
-        "\u5df4\u99ac"
-    ],
-    "name:zho_x_preferred":[
-        "\u5e15\u723e\u99ac"
-    ],
-    "name:zho_x_variant":[
-        "\u5e15\u5c14\u9a6c"
-    ],
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Spain",
-    "ne:ADM0_A3":"ESP",
-    "ne:ADM1NAME":"Islas Baleares",
-    "ne:ADMIN1_COD":7,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":1,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":"Changed scale rank.",
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-1 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPLA",
-    "ne:GEONAMEID":2512989,
-    "ne:GEONAMESNO":"GeoNames match general.",
-    "ne:GN_ASCII":"Palma",
-    "ne:GN_POP":375773,
-    "ne:GTOPO30":13.0,
-    "ne:ISO_A2":"ES",
-    "ne:LABELRANK":3,
-    "ne:LATITUDE":39.574263,
-    "ne:LONGITUDE":2.654246,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Palma",
-    "ne:MAX_AREAKM":133.0,
-    "ne:MAX_AREAMI":51.0,
-    "ne:MAX_BBXMAX":2.808333,
-    "ne:MAX_BBXMIN":2.516667,
-    "ne:MAX_BBYMAX":39.658333,
-    "ne:MAX_BBYMIN":39.466667,
-    "ne:MAX_NATSCA":20.0,
-    "ne:MAX_PERKM":168.0,
-    "ne:MAX_PERMI":104.0,
-    "ne:MAX_POP10":264129,
-    "ne:MAX_POP20":264129,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":2.649233,
-    "ne:MEAN_BBYC":39.586629,
-    "ne:MEGACITY":0,
-    "ne:MEGANAME":null,
-    "ne:MIN_AREAKM":133.0,
-    "ne:MIN_AREAMI":51.0,
-    "ne:MIN_BBXMAX":2.808333,
-    "ne:MIN_BBXMIN":2.516667,
-    "ne:MIN_BBYMAX":39.658333,
-    "ne:MIN_BBYMIN":39.466667,
-    "ne:MIN_PERKM":168.0,
-    "ne:MIN_PERMI":104.0,
-    "ne:NAME":"Palma",
-    "ne:NAMEALT":"Palma De Mallorca",
-    "ne:NAMEASCII":"Palma",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":30,
-    "ne:NOTE":null,
-    "ne:POP1950":0,
-    "ne:POP1955":0,
-    "ne:POP1960":0,
-    "ne:POP1965":0,
-    "ne:POP1970":0,
-    "ne:POP1975":0,
-    "ne:POP1980":0,
-    "ne:POP1985":0,
-    "ne:POP1990":0,
-    "ne:POP1995":0,
-    "ne:POP2000":0,
-    "ne:POP2005":0,
-    "ne:POP2010":0,
-    "ne:POP2015":0,
-    "ne:POP2020":0,
-    "ne:POP2025":0,
-    "ne:POP2050":0,
-    "ne:POP_MAX":375773,
-    "ne:POP_MIN":264129,
-    "ne:POP_OTHER":263681,
-    "ne:RANK_MAX":10,
-    "ne:RANK_MIN":10,
-    "ne:SCALERANK":6,
-    "ne:SOV0NAME":"Kingdom of Spain",
-    "ne:SOV_A3":"ESP",
-    "ne:TIMEZONE":"Europe/Madrid",
-    "ne:UN_ADM0":null,
-    "ne:UN_FID":0,
-    "ne:UN_LAT":0.0,
-    "ne:UN_LONG":0.0,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Espa\u00f1a",
-    "qs:a1":"*Illes balears",
-    "qs:a1r":"0Illes Balears",
-    "qs:adm0":"Espa\u00f1a",
-    "qs:la":"Marratx\u00ed",
-    "qs:la_lc":"*ES6407036",
-    "qs:level":"locality",
-    "qs:loc":"Palma de Mallorca",
-    "qs:loc_alt":"Palma de Mallorca",
-    "qs:pop":0,
-    "qs:source":"PCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
-    ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "wd:elevation":13.0,
-    "wd:latitude":39.566667,
-    "wd:longitude":2.649722,
-    "wd:population":400578,
-    "wd:wordcount":3163,
-    "wof:belongsto":[
-        85682647,
-        102191581,
-        404330817,
-        85633129,
-        404227367
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fct:id":"083f0502-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":2512989,
-        "gp:id":769293,
-        "qs_pg:id":1075259,
-        "wd:id":"Q8826"
+    "name:vie_x_preferred": [
+      "Palma de Mallorca"
+    ],
+    "name:war_x_preferred": [
+      "Palma de Mallorca"
+    ],
+    "name:xmf_x_preferred": [
+      "პალმა"
+    ],
+    "name:yue_x_preferred": [
+      "巴馬"
+    ],
+    "name:zho_x_preferred": [
+      "帕爾馬"
+    ],
+    "name:zho_x_variant": [
+      "帕尔马"
+    ],
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Spain",
+    "ne:ADM0_A3": "ESP",
+    "ne:ADM1NAME": "Islas Baleares",
+    "ne:ADMIN1_COD": 7,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 1,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": "Changed scale rank.",
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-1 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLA",
+    "ne:GEONAMEID": 2512989,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Palma",
+    "ne:GN_POP": 375773,
+    "ne:GTOPO30": 13,
+    "ne:ISO_A2": "ES",
+    "ne:LABELRANK": 3,
+    "ne:LATITUDE": 39.574263,
+    "ne:LONGITUDE": 2.654246,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Palma",
+    "ne:MAX_AREAKM": 133,
+    "ne:MAX_AREAMI": 51,
+    "ne:MAX_BBXMAX": 2.808333,
+    "ne:MAX_BBXMIN": 2.516667,
+    "ne:MAX_BBYMAX": 39.658333,
+    "ne:MAX_BBYMIN": 39.466667,
+    "ne:MAX_NATSCA": 20,
+    "ne:MAX_PERKM": 168,
+    "ne:MAX_PERMI": 104,
+    "ne:MAX_POP10": 264129,
+    "ne:MAX_POP20": 264129,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 2.649233,
+    "ne:MEAN_BBYC": 39.586629,
+    "ne:MEGACITY": 0,
+    "ne:MEGANAME": null,
+    "ne:MIN_AREAKM": 133,
+    "ne:MIN_AREAMI": 51,
+    "ne:MIN_BBXMAX": 2.808333,
+    "ne:MIN_BBXMIN": 2.516667,
+    "ne:MIN_BBYMAX": 39.658333,
+    "ne:MIN_BBYMIN": 39.466667,
+    "ne:MIN_PERKM": 168,
+    "ne:MIN_PERMI": 104,
+    "ne:NAME": "Palma",
+    "ne:NAMEALT": "Palma De Mallorca",
+    "ne:NAMEASCII": "Palma",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 30,
+    "ne:NOTE": null,
+    "ne:POP1950": 0,
+    "ne:POP1955": 0,
+    "ne:POP1960": 0,
+    "ne:POP1965": 0,
+    "ne:POP1970": 0,
+    "ne:POP1975": 0,
+    "ne:POP1980": 0,
+    "ne:POP1985": 0,
+    "ne:POP1990": 0,
+    "ne:POP1995": 0,
+    "ne:POP2000": 0,
+    "ne:POP2005": 0,
+    "ne:POP2010": 0,
+    "ne:POP2015": 0,
+    "ne:POP2020": 0,
+    "ne:POP2025": 0,
+    "ne:POP2050": 0,
+    "ne:POP_MAX": 375773,
+    "ne:POP_MIN": 264129,
+    "ne:POP_OTHER": 263681,
+    "ne:RANK_MAX": 10,
+    "ne:RANK_MIN": 10,
+    "ne:SCALERANK": 6,
+    "ne:SOV0NAME": "Kingdom of Spain",
+    "ne:SOV_A3": "ESP",
+    "ne:TIMEZONE": "Europe/Madrid",
+    "ne:UN_ADM0": null,
+    "ne:UN_FID": 0,
+    "ne:UN_LAT": 0,
+    "ne:UN_LONG": 0,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "España",
+    "qs:a1": "*Illes balears",
+    "qs:a1r": "0Illes Balears",
+    "qs:adm0": "España",
+    "qs:la": "Marratxí",
+    "qs:la_lc": "*ES6407036",
+    "qs:level": "locality",
+    "qs:loc": "Palma de Mallorca",
+    "qs:loc_alt": "Palma de Mallorca",
+    "qs:pop": 0,
+    "qs:source": "PCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
+    ],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "wd:elevation": 13,
+    "wd:latitude": 39.566667,
+    "wd:longitude": 2.649722,
+    "wd:population": 400578,
+    "wd:wordcount": 3163,
+    "wof:belongsto": [
+      85682647,
+      102191581,
+      404330817,
+      85633129,
+      404227367
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fct:id": "083f0502-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 2512989,
+      "gp:id": 769293,
+      "qs_pg:id": 1075259,
+      "wd:id": "Q8826"
     },
-    "wof:country":"ES",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "ES",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"b27d7ffb77ee5957328df0563a163454",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "localadmin_id":404330817,
-            "locality_id":101748237,
-            "macroregion_id":404227367,
-            "region_id":85682647
-        }
+    "wof:geomhash": "b27d7ffb77ee5957328df0563a163454",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "localadmin_id": 404330817,
+        "locality_id": 101748237,
+        "macroregion_id": 404227367,
+        "region_id": 85682647
+      }
     ],
-    "wof:id":101748237,
-    "wof:lang":[
-        "spa"
+    "wof:id": 101748237,
+    "wof:lang": [
+      "spa"
     ],
-    "wof:lastmodified":1611601214,
-    "wof:name":"Palma de Mallorca",
-    "wof:parent_id":404330817,
-    "wof:placetype":"locality",
-    "wof:population":400578,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906515,
+    "wof:name": "Palma de Mallorca",
+    "wof:parent_id": 404330817,
+    "wof:placetype": "locality",
+    "wof:population": 400578,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-es",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.612126,
     39.55402,
     2.694654,
     39.605057
-],
+  ],
   "geometry": {"coordinates":[[[2.684023,39.605057],[2.684878,39.604267],[2.685421,39.604366],[2.686461,39.602146],[2.685177,39.601509],[2.683404,39.600628],[2.684515,39.598992],[2.683237,39.598163],[2.683907,39.596958],[2.685344,39.597466],[2.685127,39.597954],[2.687009,39.598751],[2.687876,39.59877],[2.688419,39.598781],[2.688905,39.597955],[2.690002,39.596092],[2.690249,39.595452],[2.69077,39.594101],[2.689456,39.593674],[2.688677,39.593422],[2.688952,39.592544],[2.689037,39.59227],[2.68898,39.591434],[2.68834,39.591172],[2.685644,39.590069],[2.685077,39.589817],[2.685571,39.588225],[2.685942,39.587027],[2.686861,39.587096],[2.687773,39.578987],[2.688927,39.579074],[2.689028,39.578173],[2.685567,39.577912],[2.685668,39.577011],[2.684515,39.576924],[2.684109,39.580528],[2.682956,39.580441],[2.682854,39.581342],[2.678701,39.581029],[2.679699,39.579269],[2.679391,39.577214],[2.678387,39.57674],[2.680087,39.572354],[2.680297,39.571153],[2.681662,39.571256],[2.681763,39.570355],[2.690991,39.571051],[2.691092,39.57015],[2.694553,39.57041],[2.694654,39.569509],[2.691194,39.569249],[2.691598,39.565644],[2.693905,39.565818],[2.694209,39.563115],[2.693055,39.563028],[2.693258,39.561226],[2.692104,39.561139],[2.692003,39.56204],[2.689696,39.561866],[2.689595,39.562767],[2.686135,39.562506],[2.686034,39.563408],[2.68195,39.5631],[2.681824,39.562042],[2.680408,39.562222],[2.679491,39.559674],[2.680436,39.559351],[2.681826,39.559455],[2.681893,39.558853],[2.682081,39.558788],[2.682063,39.558565],[2.68308,39.558641],[2.683151,39.558007],[2.687238,39.55714],[2.686813,39.556471],[2.685742,39.554783],[2.685748,39.554569],[2.686146,39.554325],[2.685911,39.554144],[2.685749,39.55402],[2.68517,39.554255],[2.683586,39.554136],[2.683497,39.554934],[2.683281,39.555021],[2.682332,39.55495],[2.682278,39.555428],[2.681392,39.555788],[2.679924,39.555677],[2.679842,39.556412],[2.679443,39.55655],[2.67867,39.556491],[2.678632,39.55683],[2.677285,39.557295],[2.676262,39.557218],[2.676218,39.557603],[2.675756,39.557804],[2.67577,39.55809],[2.673854,39.557945],[2.67377,39.558687],[2.673419,39.558821],[2.667986,39.558411],[2.667885,39.559312],[2.666731,39.559225],[2.666528,39.561027],[2.665375,39.56094],[2.665273,39.561841],[2.662967,39.561666],[2.662865,39.562567],[2.660559,39.562393],[2.660457,39.563294],[2.65815,39.563119],[2.658049,39.564021],[2.653435,39.563671],[2.653333,39.564572],[2.64872,39.564223],[2.648618,39.565124],[2.642851,39.564687],[2.642953,39.563786],[2.6418,39.563699],[2.642004,39.561896],[2.639697,39.561722],[2.639799,39.560821],[2.636339,39.560558],[2.636441,39.559657],[2.634134,39.559482],[2.634032,39.560383],[2.629419,39.560033],[2.629787,39.556782],[2.62607,39.558472],[2.626012,39.558323],[2.625814,39.557899],[2.624598,39.557599],[2.624379,39.557544],[2.623169,39.557686],[2.623112,39.557697],[2.622799,39.557846],[2.621685,39.558037],[2.621006,39.558125],[2.620003,39.558513],[2.620254,39.55888],[2.619259,39.559227],[2.61834,39.55909],[2.618318,39.559189],[2.61822,39.55962],[2.620093,39.560213],[2.620175,39.560239],[2.620751,39.560421],[2.621178,39.56091],[2.621471,39.561246],[2.621507,39.561287],[2.623703,39.565131],[2.623719,39.569273],[2.623581,39.570494],[2.620728,39.570277],[2.6201,39.570049],[2.61984,39.57021],[2.614354,39.569792],[2.61432,39.57009],[2.613784,39.570049],[2.612603,39.570404],[2.612992,39.571045],[2.612126,39.572281],[2.612155,39.573929],[2.613881,39.574711],[2.616069,39.574577],[2.620219,39.57325],[2.621506,39.573765],[2.623469,39.577755],[2.623856,39.578328],[2.624157,39.578773],[2.626674,39.578823],[2.62684,39.579292],[2.625362,39.57986],[2.623229,39.581241],[2.624451,39.582542],[2.624862,39.583015],[2.625693,39.583374],[2.628287,39.582786],[2.630201,39.583866],[2.6299,39.58432],[2.63146,39.5849],[2.632454,39.585537],[2.633067,39.585346],[2.633993,39.585579],[2.634834,39.585186],[2.635741,39.585766],[2.640199,39.58535],[2.640456,39.585942],[2.640032,39.589309],[2.640316,39.592796],[2.641398,39.593799],[2.642313,39.594311],[2.643173,39.594872],[2.646349,39.595871],[2.646976,39.594562],[2.653005,39.595733],[2.652958,39.596718],[2.655452,39.595913],[2.658128,39.594051],[2.658643,39.593658],[2.658293,39.593368],[2.660303,39.59219],[2.65846,39.589294],[2.65989,39.588699],[2.661057,39.590885],[2.66409,39.588558],[2.667727,39.585789],[2.66775,39.585813],[2.667892,39.58596],[2.672396,39.58916],[2.672622,39.589321],[2.672739,39.590465],[2.672791,39.592804],[2.673655,39.595402],[2.675518,39.596409],[2.675419,39.597187],[2.676397,39.597767],[2.675499,39.598835],[2.675496,39.598839],[2.67551,39.598851],[2.677293,39.60046],[2.679978,39.602417],[2.681195,39.603203],[2.683461,39.604732],[2.684023,39.605057]],[[2.682401,39.567524],[2.683104,39.566822],[2.687936,39.567186],[2.687632,39.569889],[2.681865,39.569454],[2.682,39.568252],[2.682401,39.567524]],[[2.640545,39.564512],[2.640239,39.567215],[2.636779,39.566953],[2.637085,39.56425],[2.640545,39.564512]],[[2.635084,39.561372],[2.634676,39.564976],[2.633523,39.564888],[2.633421,39.565789],[2.629961,39.565526],[2.630471,39.561021],[2.635084,39.561372]]],"type":"Polygon"}
 }

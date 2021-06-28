@@ -2,570 +2,571 @@
   "id": 101748595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.018023,
-    "geom:area_square_m":141140008.26857,
-    "geom:bbox":"7.023486,50.631866,7.210872,50.774435",
-    "geom:latitude":50.705812,
-    "geom:longitude":7.109813,
-    "gn:country":"DE",
-    "gn:fcode":"ADM4",
-    "gn:population":319841,
-    "iso:country":"DE",
-    "lbl:latitude":50.724104,
-    "lbl:longitude":7.114887,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":50.724104,
-    "mps:longitude":7.114887,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":6.0,
-    "name:afr_x_preferred":[
-        "Bonn"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.018023459268500033,
+    "geom:area_square_m": 141140008.26857,
+    "geom:bbox": "7.023486,50.631866,7.210872,50.774435",
+    "geom:latitude": 50.70581226099376,
+    "geom:longitude": 7.109812514227106,
+    "gn:country": "DE",
+    "gn:fcode": "ADM4",
+    "gn:population": 319841,
+    "iso:country": "DE",
+    "lbl:latitude": 50.724104,
+    "lbl:longitude": 7.114887,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 50.724104,
+    "mps:longitude": 7.114887,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 6,
+    "name:afr_x_preferred": [
+      "Bonn"
     ],
-    "name:amh_x_preferred":[
-        "\u1266\u1295"
+    "name:amh_x_preferred": [
+      "ቦን"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0648\u0646"
+    "name:ara_x_preferred": [
+      "بون"
     ],
-    "name:arg_x_preferred":[
-        "Bonn"
+    "name:arg_x_preferred": [
+      "Bonn"
     ],
-    "name:ast_x_preferred":[
-        "Bonn"
+    "name:ast_x_preferred": [
+      "Bonn"
     ],
-    "name:aym_x_preferred":[
-        "Bonn"
+    "name:aym_x_preferred": [
+      "Bonn"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u0648\u0646"
+    "name:azb_x_preferred": [
+      "بون"
     ],
-    "name:aze_x_preferred":[
-        "\u0628\u0646"
+    "name:aze_x_preferred": [
+      "بن"
     ],
-    "name:aze_x_variant":[
-        "Bonn"
+    "name:aze_x_variant": [
+      "Bonn"
     ],
-    "name:bar_x_preferred":[
-        "Bonn"
+    "name:bar_x_preferred": [
+      "Bonn"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0411\u043e\u043d"
+    "name:bel_x_preferred": [
+      "Горад Бон"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u043e\u043d"
+    "name:bel_x_variant": [
+      "Бон"
     ],
-    "name:ben_x_preferred":[
-        "\u09ac\u09a8"
+    "name:ben_x_preferred": [
+      "বন"
     ],
-    "name:bod_x_preferred":[
-        "\u0f56\u0fb7\u0f7c\u0f0b\u0f68\u0f72\u0f53\u0f0d"
+    "name:bod_x_preferred": [
+      "བྷོ་ཨིན།"
     ],
-    "name:bos_x_preferred":[
-        "Bonn"
+    "name:bos_x_preferred": [
+      "Bonn"
     ],
-    "name:bre_x_preferred":[
-        "Bonn"
+    "name:bre_x_preferred": [
+      "Bonn"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u043e\u043d"
+    "name:bul_x_preferred": [
+      "Бон"
     ],
-    "name:cat_x_preferred":[
-        "Bonn"
+    "name:cat_x_preferred": [
+      "Bonn"
     ],
-    "name:ceb_x_preferred":[
-        "Bonn"
+    "name:ceb_x_preferred": [
+      "Bonn"
     ],
-    "name:ces_x_preferred":[
-        "Bonn"
+    "name:ces_x_preferred": [
+      "Bonn"
     ],
-    "name:che_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:che_x_preferred": [
+      "Бонн"
     ],
-    "name:chv_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:chv_x_preferred": [
+      "Бонн"
     ],
-    "name:ckb_x_preferred":[
-        "\u0628\u06c6\u0646\u060c \u0626\u06d5\u06b5\u0645\u0627\u0646\u06cc\u0627"
+    "name:ckb_x_preferred": [
+      "بۆن، ئەڵمانیا"
     ],
-    "name:ckb_x_variant":[
-        "\u0628\u06c6\u0646"
+    "name:ckb_x_variant": [
+      "بۆن"
     ],
-    "name:cos_x_preferred":[
-        "Bonn"
+    "name:cos_x_preferred": [
+      "Bonn"
     ],
-    "name:cym_x_preferred":[
-        "Bonn"
+    "name:cym_x_preferred": [
+      "Bonn"
     ],
-    "name:dan_x_preferred":[
-        "Bonn"
+    "name:dan_x_preferred": [
+      "Bonn"
     ],
-    "name:deu_x_preferred":[
-        "Bonn"
+    "name:deu_x_preferred": [
+      "Bonn"
     ],
-    "name:deu_x_variant":[
-        "Stadt Bonn"
+    "name:deu_x_variant": [
+      "Stadt Bonn"
     ],
-    "name:diq_x_preferred":[
-        "Bonn"
+    "name:diq_x_preferred": [
+      "Bonn"
     ],
-    "name:ell_x_preferred":[
-        "\u0392\u03cc\u03bd\u03bd\u03b7"
+    "name:ell_x_preferred": [
+      "Βόννη"
     ],
-    "name:eng_x_preferred":[
-        "Bonn"
+    "name:eng_x_preferred": [
+      "Bonn"
     ],
-    "name:epo_x_preferred":[
-        "Bonn"
+    "name:epo_x_preferred": [
+      "Bonn"
     ],
-    "name:epo_x_variant":[
-        "Bonno"
+    "name:epo_x_variant": [
+      "Bonno"
     ],
-    "name:est_x_preferred":[
-        "Bonn"
+    "name:est_x_preferred": [
+      "Bonn"
     ],
-    "name:eus_x_preferred":[
-        "Bonn"
+    "name:eus_x_preferred": [
+      "Bonn"
     ],
-    "name:ext_x_preferred":[
-        "Bonn"
+    "name:ext_x_preferred": [
+      "Bonn"
     ],
-    "name:fao_x_preferred":[
-        "Bonn"
+    "name:fao_x_preferred": [
+      "Bonn"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0646"
+    "name:fas_x_preferred": [
+      "بن"
     ],
-    "name:fin_x_preferred":[
-        "Bonn"
+    "name:fin_x_preferred": [
+      "Bonn"
     ],
-    "name:fra_x_preferred":[
-        "Bonn"
+    "name:fra_x_preferred": [
+      "Bonn"
     ],
-    "name:frp_x_preferred":[
-        "Bonn"
+    "name:frp_x_preferred": [
+      "Bonn"
     ],
-    "name:frr_x_preferred":[
-        "Bonn"
+    "name:frr_x_preferred": [
+      "Bonn"
     ],
-    "name:fry_x_preferred":[
-        "Bonn"
+    "name:fry_x_preferred": [
+      "Bonn"
     ],
-    "name:fur_x_preferred":[
-        "Bonn"
+    "name:fur_x_preferred": [
+      "Bonn"
     ],
-    "name:gla_x_preferred":[
-        "Bonn"
+    "name:gla_x_preferred": [
+      "Bonn"
     ],
-    "name:gle_x_preferred":[
-        "Bonn"
+    "name:gle_x_preferred": [
+      "Bonn"
     ],
-    "name:glg_x_preferred":[
-        "Bon"
+    "name:glg_x_preferred": [
+      "Bon"
     ],
-    "name:glv_x_preferred":[
-        "Bonn"
+    "name:glv_x_preferred": [
+      "Bonn"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf31\ud800\udf30\ud800\udf3f\ud800\udf3d\ud800\udf3d"
+    "name:got_x_preferred": [
+      "𐌱𐌰𐌿𐌽𐌽"
     ],
-    "name:gsw_x_preferred":[
-        "Bonn"
+    "name:gsw_x_preferred": [
+      "Bonn"
     ],
-    "name:guj_x_preferred":[
-        "\u0aac\u0acb\u0aa8"
+    "name:guj_x_preferred": [
+      "બોન"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d5\u05df"
+    "name:heb_x_preferred": [
+      "בון"
     ],
-    "name:hin_x_preferred":[
-        "\u092c\u0949\u0928"
+    "name:hin_x_preferred": [
+      "बॉन"
     ],
-    "name:hrv_x_preferred":[
-        "Bonn"
+    "name:hrv_x_preferred": [
+      "Bonn"
     ],
-    "name:hsb_x_preferred":[
-        "Bonn"
+    "name:hsb_x_preferred": [
+      "Bonn"
     ],
-    "name:hun_x_preferred":[
-        "Bonn"
+    "name:hun_x_preferred": [
+      "Bonn"
     ],
-    "name:hye_x_preferred":[
-        "\u0532\u0578\u0576"
+    "name:hye_x_preferred": [
+      "Բոն"
     ],
-    "name:ido_x_preferred":[
-        "Bonn"
+    "name:ido_x_preferred": [
+      "Bonn"
     ],
-    "name:ile_x_preferred":[
-        "Bonn"
+    "name:ile_x_preferred": [
+      "Bonn"
     ],
-    "name:ina_x_preferred":[
-        "Bonn"
+    "name:ina_x_preferred": [
+      "Bonn"
     ],
-    "name:ind_x_preferred":[
-        "Bonn"
+    "name:ind_x_preferred": [
+      "Bonn"
     ],
-    "name:isl_x_preferred":[
-        "Bonn"
+    "name:isl_x_preferred": [
+      "Bonn"
     ],
-    "name:ita_x_preferred":[
-        "Bonn"
+    "name:ita_x_preferred": [
+      "Bonn"
     ],
-    "name:jav_x_preferred":[
-        "Bonn"
+    "name:jav_x_preferred": [
+      "Bonn"
     ],
-    "name:jpn_x_preferred":[
-        "\u30dc\u30f3"
+    "name:jpn_x_preferred": [
+      "ボン"
     ],
-    "name:kan_x_preferred":[
-        "\u0cac\u0cbe\u0ca8\u0ccd\u0ca8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಬಾನ್ನ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10dd\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "ბონი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:kaz_x_preferred": [
+      "Бонн"
     ],
-    "name:kir_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:kir_x_preferred": [
+      "Бонн"
     ],
-    "name:kon_x_preferred":[
-        "Bonn"
+    "name:kon_x_preferred": [
+      "Bonn"
     ],
-    "name:kor_x_preferred":[
-        "\ubcf8"
+    "name:kor_x_preferred": [
+      "본"
     ],
-    "name:ksh_x_preferred":[
-        "Bonn"
+    "name:ksh_x_preferred": [
+      "Bonn"
     ],
-    "name:kur_x_preferred":[
-        "Bonn"
+    "name:kur_x_preferred": [
+      "Bonn"
     ],
-    "name:lat_x_preferred":[
-        "Bonna"
+    "name:lat_x_preferred": [
+      "Bonna"
     ],
-    "name:lav_x_preferred":[
-        "Bonna"
+    "name:lav_x_preferred": [
+      "Bonna"
     ],
-    "name:lij_x_preferred":[
-        "Bonn"
+    "name:lij_x_preferred": [
+      "Bonn"
     ],
-    "name:lim_x_preferred":[
-        "Bonn"
+    "name:lim_x_preferred": [
+      "Bonn"
     ],
-    "name:lit_x_preferred":[
-        "Bona"
+    "name:lit_x_preferred": [
+      "Bona"
     ],
-    "name:lmo_x_preferred":[
-        "Bonn"
+    "name:lmo_x_preferred": [
+      "Bonn"
     ],
-    "name:ltz_x_preferred":[
-        "Bonn"
+    "name:ltz_x_preferred": [
+      "Bonn"
     ],
-    "name:mar_x_preferred":[
-        "\u092c\u0949\u0928"
+    "name:mar_x_preferred": [
+      "बॉन"
     ],
-    "name:min_x_preferred":[
-        "Bonn"
+    "name:min_x_preferred": [
+      "Bonn"
     ],
-    "name:mkd_x_preferred":[
-        "\u0411\u043e\u043d"
+    "name:mkd_x_preferred": [
+      "Бон"
     ],
-    "name:mlg_x_preferred":[
-        "Bonn"
+    "name:mlg_x_preferred": [
+      "Bonn"
     ],
-    "name:mon_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:mon_x_preferred": [
+      "Бонн"
     ],
-    "name:msa_x_preferred":[
-        "Bonn"
+    "name:msa_x_preferred": [
+      "Bonn"
     ],
-    "name:nah_x_preferred":[
-        "Bonn"
+    "name:nah_x_preferred": [
+      "Bonn"
     ],
-    "name:nan_x_preferred":[
-        "Bonn"
+    "name:nan_x_preferred": [
+      "Bonn"
     ],
-    "name:nap_x_preferred":[
-        "Bonn"
+    "name:nap_x_preferred": [
+      "Bonn"
     ],
-    "name:nds_x_preferred":[
-        "Bonn"
+    "name:nds_x_preferred": [
+      "Bonn"
     ],
-    "name:nep_x_preferred":[
-        "\u092c\u094b\u0928"
+    "name:nep_x_preferred": [
+      "बोन"
     ],
-    "name:nld_x_preferred":[
-        "Bonn"
+    "name:nld_x_preferred": [
+      "Bonn"
     ],
-    "name:nno_x_preferred":[
-        "Bonn"
+    "name:nno_x_preferred": [
+      "Bonn"
     ],
-    "name:nob_x_preferred":[
-        "Bonn"
+    "name:nob_x_preferred": [
+      "Bonn"
     ],
-    "name:nrm_x_preferred":[
-        "Bonn"
+    "name:nrm_x_preferred": [
+      "Bonn"
     ],
-    "name:oci_x_preferred":[
-        "Bonn"
+    "name:oci_x_preferred": [
+      "Bonn"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2c\u0a4c\u0a28"
+    "name:pan_x_preferred": [
+      "ਬੌਨ"
     ],
-    "name:pcd_x_preferred":[
-        "Bonn"
+    "name:pcd_x_preferred": [
+      "Bonn"
     ],
-    "name:pms_x_preferred":[
-        "Bonn"
+    "name:pms_x_preferred": [
+      "Bonn"
     ],
-    "name:pnb_x_preferred":[
-        "\u0628\u0648\u0646"
+    "name:pnb_x_preferred": [
+      "بون"
     ],
-    "name:pol_x_preferred":[
-        "Bonn"
+    "name:pol_x_preferred": [
+      "Bonn"
     ],
-    "name:por_x_preferred":[
-        "Bona"
+    "name:por_x_preferred": [
+      "Bona"
     ],
-    "name:que_x_preferred":[
-        "Bonn"
+    "name:que_x_preferred": [
+      "Bonn"
     ],
-    "name:roh_x_preferred":[
-        "Bonn"
+    "name:roh_x_preferred": [
+      "Bonn"
     ],
-    "name:ron_x_preferred":[
-        "Bonn"
+    "name:ron_x_preferred": [
+      "Bonn"
     ],
-    "name:rup_x_preferred":[
-        "Bonn"
+    "name:rup_x_preferred": [
+      "Bonn"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:rus_x_preferred": [
+      "Бонн"
     ],
-    "name:scn_x_preferred":[
-        "Bonn"
+    "name:scn_x_preferred": [
+      "Bonn"
     ],
-    "name:sco_x_preferred":[
-        "Bonn"
+    "name:sco_x_preferred": [
+      "Bonn"
     ],
-    "name:sin_x_preferred":[
-        "\u0db6\u0ddc\u0db1"
+    "name:sin_x_preferred": [
+      "බොන"
     ],
-    "name:slk_x_preferred":[
-        "Bonn"
+    "name:slk_x_preferred": [
+      "Bonn"
     ],
-    "name:slv_x_preferred":[
-        "Bonn"
+    "name:slv_x_preferred": [
+      "Bonn"
     ],
-    "name:spa_x_preferred":[
-        "Bonn"
+    "name:spa_x_preferred": [
+      "Bonn"
     ],
-    "name:sqi_x_preferred":[
-        "Boni"
+    "name:sqi_x_preferred": [
+      "Boni"
     ],
-    "name:srd_x_preferred":[
-        "Bonn"
+    "name:srd_x_preferred": [
+      "Bonn"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u043e\u043d"
+    "name:srp_x_preferred": [
+      "Бон"
     ],
-    "name:stq_x_preferred":[
-        "Bonn"
+    "name:stq_x_preferred": [
+      "Bonn"
     ],
-    "name:swa_x_preferred":[
-        "Bonn"
+    "name:swa_x_preferred": [
+      "Bonn"
     ],
-    "name:swe_x_preferred":[
-        "Bonn"
+    "name:swe_x_preferred": [
+      "Bonn"
     ],
-    "name:szl_x_preferred":[
-        "Bonn"
+    "name:szl_x_preferred": [
+      "Bonn"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0ba9\u0bcd"
+    "name:tam_x_preferred": [
+      "பான்"
     ],
-    "name:tat_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:tat_x_preferred": [
+      "Бонн"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2c\u0c4a\u0c28\u0c4d"
+    "name:tel_x_preferred": [
+      "బొన్"
     ],
-    "name:tet_x_preferred":[
-        "Bonn"
+    "name:tet_x_preferred": [
+      "Bonn"
     ],
-    "name:tgk_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:tgk_x_preferred": [
+      "Бонн"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1a\u0e2d\u0e19\u0e19\u0e4c"
+    "name:tha_x_preferred": [
+      "บอนน์"
     ],
-    "name:tha_x_variant":[
-        "\u0e1a\u0e47\u0e2d\u0e19"
+    "name:tha_x_variant": [
+      "บ็อน"
     ],
-    "name:tur_x_preferred":[
-        "Bonn"
+    "name:tur_x_preferred": [
+      "Bonn"
     ],
-    "name:twi_x_preferred":[
-        "Bonn"
+    "name:twi_x_preferred": [
+      "Bonn"
     ],
-    "name:udm_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:udm_x_preferred": [
+      "Бонн"
     ],
-    "name:uig_x_preferred":[
-        "Bonn"
+    "name:uig_x_preferred": [
+      "Bonn"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u043d\u043d"
+    "name:ukr_x_preferred": [
+      "Бонн"
     ],
-    "name:urd_x_preferred":[
-        "Bonn"
+    "name:urd_x_preferred": [
+      "Bonn"
     ],
-    "name:urd_x_variant":[
-        "\u0628\u0648\u0646"
+    "name:urd_x_variant": [
+      "بون"
     ],
-    "name:uzb_x_preferred":[
-        "Bonn"
+    "name:uzb_x_preferred": [
+      "Bonn"
     ],
-    "name:vec_x_preferred":[
-        "Bonn"
+    "name:vec_x_preferred": [
+      "Bonn"
     ],
-    "name:vep_x_preferred":[
-        "Bonn"
+    "name:vep_x_preferred": [
+      "Bonn"
     ],
-    "name:vie_x_preferred":[
-        "Bonn"
+    "name:vie_x_preferred": [
+      "Bonn"
     ],
-    "name:vls_x_preferred":[
-        "Bonn"
+    "name:vls_x_preferred": [
+      "Bonn"
     ],
-    "name:vol_x_preferred":[
-        "Bonn"
+    "name:vol_x_preferred": [
+      "Bonn"
     ],
-    "name:war_x_preferred":[
-        "Bonn"
+    "name:war_x_preferred": [
+      "Bonn"
     ],
-    "name:wln_x_preferred":[
-        "Bonn"
+    "name:wln_x_preferred": [
+      "Bonn"
     ],
-    "name:wol_x_preferred":[
-        "Bonn"
+    "name:wol_x_preferred": [
+      "Bonn"
     ],
-    "name:yid_x_preferred":[
-        "\u05d1\u05d0\u05df"
+    "name:yid_x_preferred": [
+      "באן"
     ],
-    "name:yue_x_preferred":[
-        "\u6ce2\u6069"
+    "name:yue_x_preferred": [
+      "波恩"
     ],
-    "name:zho_x_preferred":[
-        "\u6ce2\u6069"
+    "name:zho_x_preferred": [
+      "波恩"
     ],
-    "name:zul_x_preferred":[
-        "Bonn"
+    "name:zul_x_preferred": [
+      "Bonn"
     ],
-    "nav:latitude":50.724104,
-    "nav:longitude":7.114887,
-    "qs:a0":"Bundesrepublik Deutschland",
-    "qs:a1":"*Nordrhein-Westfalen",
-    "qs:a1r":"0",
-    "qs:a2":"Bonn",
-    "qs:a2r":"K\u00f6ln",
-    "qs:adm0":"Bundesrepublik Deutschland",
-    "qs:la":"Solingen",
-    "qs:la_lc":"*DE05102200000",
-    "qs:level":"locality",
-    "qs:loc":"Bonn",
-    "qs:loc_alt":"Bonn",
-    "qs:pop":0,
-    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "qs_pg:aaroncc":"DE",
-    "qs_pg:gn_country":"DE",
-    "qs_pg:gn_fcode":"ADM4",
-    "qs_pg:gn_id":6553048,
-    "qs_pg:gn_pop":319841,
-    "qs_pg:name":"Bonn, Stadt",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":10,
-    "qs_pg:qs_id":634102,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "sfomuseum:placetype":"city",
-    "src:geom":"de-bkg",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "nav:latitude": 50.724104,
+    "nav:longitude": 7.114887,
+    "qs:a0": "Bundesrepublik Deutschland",
+    "qs:a1": "*Nordrhein-Westfalen",
+    "qs:a1r": "0",
+    "qs:a2": "Bonn",
+    "qs:a2r": "Köln",
+    "qs:adm0": "Bundesrepublik Deutschland",
+    "qs:la": "Solingen",
+    "qs:la_lc": "*DE05102200000",
+    "qs:level": "locality",
+    "qs:loc": "Bonn",
+    "qs:loc_alt": "Bonn",
+    "qs:pop": 0,
+    "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "qs_pg:aaroncc": "DE",
+    "qs_pg:gn_country": "DE",
+    "qs_pg:gn_fcode": "ADM4",
+    "qs_pg:gn_id": 6553048,
+    "qs_pg:gn_pop": 319841,
+    "qs_pg:name": "Bonn, Stadt",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 10,
+    "qs_pg:qs_id": 634102,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "sfomuseum:placetype": "city",
+    "src:geom": "de-bkg",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "wd:area":141.06,
-    "wd:elevation":60.0,
-    "wd:latitude":50.733889,
-    "wd:longitude":7.099722,
-    "wd:population":311287,
-    "wd:wordcount":4713,
-    "wof:belongsto":[
-        85682513,
-        102191581,
-        85633111,
-        1377689971,
-        404227541,
-        102063661
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "wd:area": 141.06,
+    "wd:elevation": 60,
+    "wd:latitude": 50.733889,
+    "wd:longitude": 7.099722,
+    "wd:population": 311287,
+    "wd:wordcount": 4713,
+    "wof:belongsto": [
+      85682513,
+      102191581,
+      85633111,
+      1377689971,
+      404227541,
+      102063661
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2946447,
-        "gp:id":640161,
-        "qs_pg:id":6,
-        "wd:id":"Q586",
-        "wk:page":"Bonn"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2946447,
+      "gp:id": 640161,
+      "qs_pg:id": 6,
+      "wd:id": "Q586",
+      "wk:page": "Bonn"
     },
-    "wof:concordances_alt":{
-        "qs_pg:id":785914
+    "wof:concordances_alt": {
+      "qs_pg:id": 785914
     },
-    "wof:coterminous":[
-        102063661
+    "wof:coterminous": [
+      102063661
     ],
-    "wof:country":"DE",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "wof:country": "DE",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
     ],
-    "wof:geomhash":"a1d0bdb4dc21c66397e89bbe08363d20",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063661,
-            "localadmin_id":1377689971,
-            "locality_id":101748595,
-            "macrocounty_id":404227541,
-            "region_id":85682513
-        }
+    "wof:geomhash": "a1d0bdb4dc21c66397e89bbe08363d20",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063661,
+        "localadmin_id": 1377689971,
+        "locality_id": 101748595,
+        "macrocounty_id": 404227541,
+        "region_id": 85682513
+      }
     ],
-    "wof:id":101748595,
-    "wof:lastmodified":1611601215,
-    "wof:name":"Bonn",
-    "wof:parent_id":1377689971,
-    "wof:placetype":"locality",
-    "wof:population":311287,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1125334119,
-        101913809
+    "wof:id": 101748595,
+    "wof:lastmodified": 1624906515,
+    "wof:name": "Bonn",
+    "wof:parent_id": 1377689971,
+    "wof:placetype": "locality",
+    "wof:population": 311287,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1125334119,
+      101913809
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     7.023486,
     50.631866,
     7.210872,
     50.774435
-],
+  ],
   "geometry": {"coordinates":[[[[7.207042,50.739456],[7.206992,50.739116],[7.209106,50.736931],[7.204621,50.734748],[7.199711,50.73233],[7.199054,50.730582],[7.198146,50.730187],[7.197113,50.729734],[7.195228,50.728906],[7.193837,50.728307],[7.194392,50.727684],[7.191263,50.726595],[7.195389,50.719219],[7.195969,50.714444],[7.196578,50.713056],[7.194691,50.711123],[7.193541,50.710012],[7.1903,50.710206],[7.187939,50.710657],[7.186152,50.710245],[7.174972,50.7077],[7.174867,50.705779],[7.172015,50.704696],[7.170737,50.704288],[7.168238,50.70349],[7.169314,50.701662],[7.170845,50.698503],[7.172308,50.69436],[7.174074,50.691104],[7.175358,50.688881],[7.176564,50.687114],[7.177789,50.68572],[7.180305,50.683247],[7.181907,50.681606],[7.183429,50.679819],[7.185905,50.676985],[7.191402,50.670226],[7.197323,50.664116],[7.199626,50.661848],[7.206917,50.654691],[7.209072,50.652299],[7.210872,50.649544],[7.204622,50.648655],[7.203787,50.64966],[7.201311,50.64892],[7.198486,50.648209],[7.198998,50.646778],[7.197263,50.64567],[7.195201,50.642723],[7.194149,50.642674],[7.19087,50.645532],[7.18894,50.648377],[7.187051,50.648845],[7.186886,50.64909],[7.186148,50.650188],[7.184028,50.651127],[7.181168,50.652288],[7.178921,50.652016],[7.177539,50.652526],[7.175319,50.651075],[7.173445,50.65112],[7.169693,50.651886],[7.16763,50.652601],[7.16244,50.65346],[7.161339,50.65459],[7.156431,50.654683],[7.152718,50.653503],[7.14754,50.652615],[7.141623,50.650569],[7.13928,50.650133],[7.138318,50.648914],[7.131798,50.648178],[7.128048,50.647265],[7.1256,50.651157],[7.122306,50.653609],[7.124028,50.655074],[7.120594,50.656703],[7.109194,50.658526],[7.106216,50.659002],[7.105342,50.659692],[7.103657,50.657593],[7.101958,50.656949],[7.098863,50.655474],[7.097534,50.653645],[7.093931,50.651416],[7.091201,50.65053],[7.087318,50.64827],[7.08383,50.646561],[7.08284,50.645955],[7.081727,50.64413],[7.08035,50.644108],[7.076664,50.64276],[7.07543,50.641699],[7.074648,50.639578],[7.075382,50.638265],[7.075115,50.637304],[7.068766,50.635507],[7.068802,50.634316],[7.06892,50.633109],[7.067116,50.632569],[7.064028,50.632264],[7.056098,50.631866],[7.05617,50.633419],[7.056286,50.634246],[7.058023,50.636886],[7.060009,50.638881],[7.054767,50.63929],[7.050659,50.639627],[7.048923,50.640815],[7.047563,50.641966],[7.045307,50.644257],[7.040262,50.64737],[7.036116,50.649928],[7.032482,50.6543],[7.031196,50.654442],[7.028926,50.65468],[7.026879,50.654952],[7.024342,50.662009],[7.024779,50.664319],[7.024932,50.665126],[7.02707,50.66561],[7.028686,50.665058],[7.030296,50.663991],[7.034572,50.662146],[7.037747,50.661812],[7.040917,50.663966],[7.041007,50.664569],[7.039867,50.665994],[7.040037,50.667343],[7.04131,50.668382],[7.041999,50.669577],[7.043742,50.672601],[7.044293,50.674277],[7.040728,50.676229],[7.035006,50.676916],[7.031343,50.677839],[7.031506,50.67851],[7.031257,50.680121],[7.032913,50.680857],[7.034679,50.684712],[7.035554,50.686621],[7.037336,50.686767],[7.037004,50.688215],[7.038648,50.687893],[7.039261,50.68874],[7.03745,50.689207],[7.036001,50.68958],[7.036585,50.690877],[7.032237,50.69253],[7.03149,50.694183],[7.03036,50.69469],[7.03165,50.695845],[7.03319,50.697639],[7.032324,50.699074],[7.029588,50.698776],[7.029269,50.699533],[7.028736,50.700338],[7.028084,50.700983],[7.027796,50.702025],[7.027414,50.702564],[7.026427,50.703118],[7.024828,50.704138],[7.023486,50.704725],[7.026196,50.708914],[7.028917,50.713148],[7.033834,50.716235],[7.040284,50.719217],[7.038289,50.720671],[7.037324,50.721245],[7.03541,50.722756],[7.032858,50.724634],[7.032261,50.725605],[7.029793,50.726074],[7.031561,50.728959],[7.031508,50.730844],[7.033109,50.733832],[7.03411,50.734985],[7.035744,50.738513],[7.035874,50.741318],[7.036414,50.743282],[7.034656,50.745912],[7.038458,50.749941],[7.037071,50.750837],[7.0397,50.752726],[7.040359,50.753214],[7.03886,50.754097],[7.037018,50.755186],[7.038602,50.756413],[7.036551,50.757649],[7.040141,50.760368],[7.041535,50.759563],[7.045711,50.762435],[7.048731,50.764228],[7.049223,50.763711],[7.051277,50.764934],[7.051738,50.764659],[7.052437,50.764239],[7.053846,50.764776],[7.054743,50.765118],[7.056525,50.764261],[7.065658,50.771765],[7.069641,50.770203],[7.071004,50.769582],[7.075575,50.767483],[7.076944,50.768578],[7.078218,50.768822],[7.080816,50.76807],[7.082068,50.767648],[7.083121,50.767427],[7.084003,50.76702],[7.085207,50.766488],[7.086466,50.765976],[7.08723,50.765431],[7.088544,50.764749],[7.089619,50.764222],[7.090546,50.763781],[7.091722,50.763249],[7.093023,50.762737],[7.094171,50.762375],[7.096009,50.761906],[7.097432,50.761669],[7.098686,50.761616],[7.099949,50.761626],[7.101097,50.761659],[7.102095,50.761806],[7.103088,50.762006],[7.10405,50.762259],[7.105116,50.762633],[7.106024,50.763038],[7.106758,50.763483],[7.107164,50.764152],[7.107277,50.764741],[7.107767,50.766602],[7.108217,50.767642],[7.108575,50.768373],[7.109158,50.768957],[7.109998,50.769702],[7.110783,50.770239],[7.1116,50.770722],[7.112695,50.771096],[7.113853,50.771382],[7.11487,50.771655],[7.116306,50.771832],[7.117728,50.772018],[7.118904,50.772052],[7.120196,50.772261],[7.121218,50.772462],[7.122313,50.772836],[7.123016,50.773136],[7.123934,50.773595],[7.12463,50.773985],[7.125265,50.774435],[7.12716,50.773374],[7.132213,50.771854],[7.134607,50.770605],[7.135385,50.771066],[7.13973,50.769058],[7.145145,50.76506],[7.144792,50.764857],[7.143809,50.764292],[7.145191,50.762449],[7.145964,50.762194],[7.15249,50.760038],[7.154722,50.756294],[7.155984,50.754679],[7.157273,50.754881],[7.160515,50.75561],[7.162994,50.756371],[7.165244,50.755688],[7.166996,50.754826],[7.167702,50.754479],[7.171993,50.752441],[7.176111,50.752632],[7.177149,50.751815],[7.178203,50.750971],[7.179428,50.751511],[7.182586,50.751734],[7.184113,50.748718],[7.188081,50.748417],[7.189973,50.74776],[7.192214,50.746986],[7.192812,50.744191],[7.194961,50.743766],[7.195086,50.744542],[7.196173,50.746009],[7.198576,50.747564],[7.199145,50.745743],[7.201548,50.745082],[7.203628,50.744582],[7.204582,50.742322],[7.205754,50.741004],[7.207042,50.739456]]]],"type":"MultiPolygon"}
 }

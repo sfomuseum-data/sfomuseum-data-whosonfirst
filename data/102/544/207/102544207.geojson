@@ -2,85 +2,86 @@
   "id": 102544207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.00287,
-    "geom:area_square_m":20034547.834608,
-    "geom:bbox":"12.603167,55.589157,12.70998,55.65575",
-    "geom:latitude":55.622633,
-    "geom:longitude":12.64873,
-    "iso:country":"DK",
-    "lbl:latitude":55.627628,
-    "lbl:longitude":12.649581,
-    "mps:latitude":55.627628,
-    "mps:longitude":12.649581,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:dan_x_preferred":[
-        "K\u00f8benhavns Lufthavn"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0028695000775001353,
+    "geom:area_square_m": 20034547.834608,
+    "geom:bbox": "12.603167,55.589157,12.709980,55.655750",
+    "geom:latitude": 55.622633167404125,
+    "geom:longitude": 12.648729941698818,
+    "iso:country": "DK",
+    "lbl:latitude": 55.627628,
+    "lbl:longitude": 12.649581,
+    "mps:latitude": 55.627628,
+    "mps:longitude": 12.649581,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:dan_x_preferred": [
+      "Københavns Lufthavn"
     ],
-    "name:eng_x_variant":[
-        "ZGH"
+    "name:eng_x_variant": [
+      "ZGH"
     ],
-    "sfomuseum:airport_id":30,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Copenhagen Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424796,
-        "county_id":12582711,
-        "planet_id":1,
-        "state_id":28362583
+    "sfomuseum:airport_id": 30,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Copenhagen Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424796,
+      "county_id": 12582711,
+      "planet_id": 1,
+      "state_id": 28362583
     },
-    "wof:belongsto":[
-        85907903,
-        102191581,
-        1159297727,
-        85633121,
-        101749159,
-        85682581
+    "wof:belongsto": [
+      85907903,
+      102191581,
+      1159297727,
+      85633121,
+      101749159,
+      85682581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":22851127,
-        "iata:code":"CPH",
-        "icao:code":"EKCH"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 22851127,
+      "iata:code": "CPH",
+      "icao:code": "EKCH"
     },
-    "wof:country":"DK",
-    "wof:geomhash":"36dde9ccc5921bda224ec864f1ff3b74",
-    "wof:hierarchy":[
-        {
-            "campus_id":102544207,
-            "continent_id":102191581,
-            "country_id":85633121,
-            "localadmin_id":1159297727,
-            "locality_id":101749159,
-            "neighbourhood_id":85907903,
-            "region_id":85682581
-        }
+    "wof:country": "DK",
+    "wof:created": 1624906954,
+    "wof:geomhash": "36dde9ccc5921bda224ec864f1ff3b74",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102544207,
+        "continent_id": 102191581,
+        "country_id": 85633121,
+        "localadmin_id": 1159297727,
+        "locality_id": 101749159,
+        "neighbourhood_id": 85907903,
+        "region_id": 85682581
+      }
     ],
-    "wof:id":102544207,
-    "wof:lastmodified":1611601236,
-    "wof:name":"Copenhagen Airport",
-    "wof:parent_id":85907903,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102544207,
+    "wof:lastmodified": 1624906954,
+    "wof:name": "Copenhagen Airport",
+    "wof:parent_id": 85907903,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-dk",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     12.603167,
     55.589157,
     12.70998,
     55.65575
-],
+  ],
   "geometry": {"coordinates":[[[[12.604833,55.61758],[12.604686,55.617603],[12.603167,55.620167],[12.603333,55.620499],[12.605083,55.623039],[12.611961,55.625801],[12.617712,55.63134],[12.624406,55.636475],[12.6248,55.638649],[12.624877,55.640919],[12.628333,55.641499],[12.634105,55.638218],[12.64059,55.639278],[12.643718,55.645084],[12.647495,55.649963],[12.647581,55.650909],[12.647752,55.652023],[12.647666,55.653999],[12.647666,55.654541],[12.647795,55.65575],[12.649444,55.655277],[12.652,55.654667],[12.658996,55.649261],[12.660922,55.645809],[12.666721,55.63633],[12.673416,55.641949],[12.676248,55.63158],[12.677267,55.631329],[12.679123,55.631023],[12.687835,55.638508],[12.692298,55.644611],[12.699006,55.636917],[12.692642,55.630901],[12.696332,55.623367],[12.698307,55.622566],[12.699165,55.622375],[12.69247,55.617142],[12.68058,55.617641],[12.672986,55.609337],[12.671152,55.601498],[12.675647,55.593452],[12.669626,55.599529],[12.668411,55.600063],[12.664063,55.600304],[12.659339,55.609772],[12.65316,55.613018],[12.647495,55.609821],[12.638397,55.610451],[12.633762,55.608219],[12.631652,55.601944],[12.636423,55.596012],[12.645821,55.589157],[12.634813,55.589188],[12.63197,55.592896],[12.629384,55.596825],[12.619148,55.59053],[12.613849,55.600948],[12.614536,55.609653],[12.611333,55.613335],[12.6095,55.615501],[12.604833,55.61758]],[[12.69247,55.617142],[12.692127,55.624798],[12.686033,55.627804],[12.68056,55.618622],[12.69247,55.617142]]],[[[12.699165,55.622375],[12.70998,55.628166],[12.704615,55.619854],[12.705688,55.617626],[12.699165,55.622375]]]],"type":"MultiPolygon"}
 }

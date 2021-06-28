@@ -2,644 +2,645 @@
   "id": 101748819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.026956,
-    "geom:area_square_m":203469028.818072,
-    "geom:bbox":"9.604728,52.305911,9.91856,52.453608",
-    "geom:latitude":52.379482,
-    "geom:longitude":9.769625,
-    "gn:country":"DE",
-    "gn:fcode":"ADM4",
-    "gn:population":520966,
-    "iso:country":"DE",
-    "lbl:latitude":52.379952,
-    "lbl:longitude":9.787455,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":7.0,
-    "mps:latitude":52.379952,
-    "mps:longitude":9.787455,
-    "mz:categories":[],
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":5.1,
-    "name:afr_x_preferred":[
-        "Hannover"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.026956427338000126,
+    "geom:area_square_m": 203469028.818072,
+    "geom:bbox": "9.604728,52.305911,9.918560,52.453608",
+    "geom:latitude": 52.37948187761389,
+    "geom:longitude": 9.769625210111457,
+    "gn:country": "DE",
+    "gn:fcode": "ADM4",
+    "gn:population": 520966,
+    "iso:country": "DE",
+    "lbl:latitude": 52.379952,
+    "lbl:longitude": 9.787455,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 7,
+    "mps:latitude": 52.379952,
+    "mps:longitude": 9.787455,
+    "mz:categories": [],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 5.1,
+    "name:afr_x_preferred": [
+      "Hannover"
     ],
-    "name:als_x_preferred":[
-        "Hannover"
+    "name:als_x_preferred": [
+      "Hannover"
     ],
-    "name:amh_x_preferred":[
-        "\u1203\u1296\u1268\u122d"
+    "name:amh_x_preferred": [
+      "ሃኖቨር"
     ],
-    "name:ara_x_preferred":[
-        "\u0647\u0627\u0646\u0648\u0641\u0631"
+    "name:ara_x_preferred": [
+      "هانوفر"
     ],
-    "name:arg_x_preferred":[
-        "Hannover"
+    "name:arg_x_preferred": [
+      "Hannover"
     ],
-    "name:ast_x_preferred":[
-        "Hannover"
+    "name:ast_x_preferred": [
+      "Hannover"
     ],
-    "name:aym_x_preferred":[
-        "Hannover"
+    "name:aym_x_preferred": [
+      "Hannover"
     ],
-    "name:azb_x_preferred":[
-        "\u0647\u0627\u0646\u0648\u0641\u0631"
+    "name:azb_x_preferred": [
+      "هانوفر"
     ],
-    "name:aze_x_preferred":[
-        "Hannover"
+    "name:aze_x_preferred": [
+      "Hannover"
     ],
-    "name:bak_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:bak_x_preferred": [
+      "Ганновер"
     ],
-    "name:bar_x_preferred":[
-        "Hannova"
+    "name:bar_x_preferred": [
+      "Hannova"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:bel_x_preferred": [
+      "Горад Гановер"
     ],
-    "name:bel_x_variant":[
-        "\u0413\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:bel_x_variant": [
+      "Гановер"
     ],
-    "name:ben_x_preferred":[
-        "\u09b9\u09be\u09a8\u09cb\u09ab\u09be\u09b0"
+    "name:ben_x_preferred": [
+      "হানোফার"
     ],
-    "name:bos_x_preferred":[
-        "Hannover"
+    "name:bos_x_preferred": [
+      "Hannover"
     ],
-    "name:bre_x_preferred":[
-        "Hannover"
+    "name:bre_x_preferred": [
+      "Hannover"
     ],
-    "name:bul_x_preferred":[
-        "\u0425\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:bul_x_preferred": [
+      "Хановер"
     ],
-    "name:cat_x_preferred":[
-        "Hannover"
+    "name:cat_x_preferred": [
+      "Hannover"
     ],
-    "name:ceb_x_preferred":[
-        "Hannover"
+    "name:ceb_x_preferred": [
+      "Hannover"
     ],
-    "name:ces_x_preferred":[
-        "Hannover"
+    "name:ces_x_preferred": [
+      "Hannover"
     ],
-    "name:che_x_preferred":[
-        "\u0425\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:che_x_preferred": [
+      "Хановер"
     ],
-    "name:ckb_x_preferred":[
-        "\u06be\u0627\u0646\u06c6\u0641\u06d5\u0631"
+    "name:ckb_x_preferred": [
+      "ھانۆفەر"
     ],
-    "name:ckb_x_variant":[
-        "\u0647\u0627\u0646\u06c6\u06a4\u06d5\u0631"
+    "name:ckb_x_variant": [
+      "هانۆڤەر"
     ],
-    "name:cym_x_preferred":[
-        "Hannover"
+    "name:cym_x_preferred": [
+      "Hannover"
     ],
-    "name:dan_x_preferred":[
-        "Hannover"
+    "name:dan_x_preferred": [
+      "Hannover"
     ],
-    "name:deu_x_preferred":[
-        "Hannover"
+    "name:deu_x_preferred": [
+      "Hannover"
     ],
-    "name:diq_x_preferred":[
-        "Hanover"
+    "name:diq_x_preferred": [
+      "Hanover"
     ],
-    "name:dsb_x_preferred":[
-        "Hannover"
+    "name:dsb_x_preferred": [
+      "Hannover"
     ],
-    "name:ell_x_preferred":[
-        "\u0391\u03bd\u03bd\u03cc\u03b2\u03b5\u03c1\u03bf"
+    "name:ell_x_preferred": [
+      "Αννόβερο"
     ],
-    "name:eml_x_preferred":[
-        "Hannover"
+    "name:eml_x_preferred": [
+      "Hannover"
     ],
-    "name:eng_x_preferred":[
-        "Hanover"
+    "name:eng_x_preferred": [
+      "Hanover"
     ],
-    "name:epo_x_preferred":[
-        "Hanovro"
+    "name:epo_x_preferred": [
+      "Hanovro"
     ],
-    "name:est_x_preferred":[
-        "Hannover"
+    "name:est_x_preferred": [
+      "Hannover"
     ],
-    "name:eus_x_preferred":[
-        "Hannover"
+    "name:eus_x_preferred": [
+      "Hannover"
     ],
-    "name:fas_x_preferred":[
-        "\u0647\u0627\u0646\u0648\u0641\u0631"
+    "name:fas_x_preferred": [
+      "هانوفر"
     ],
-    "name:fin_x_preferred":[
-        "Hannover"
+    "name:fin_x_preferred": [
+      "Hannover"
     ],
-    "name:fra_x_preferred":[
-        "Hanovre"
+    "name:fra_x_preferred": [
+      "Hanovre"
     ],
-    "name:frr_x_preferred":[
-        "Hannover"
+    "name:frr_x_preferred": [
+      "Hannover"
     ],
-    "name:fry_x_preferred":[
-        "Hannover"
+    "name:fry_x_preferred": [
+      "Hannover"
     ],
-    "name:gla_x_preferred":[
-        "H\u00e0nobhar"
+    "name:gla_x_preferred": [
+      "Hànobhar"
     ],
-    "name:gle_x_preferred":[
-        "Hannover"
+    "name:gle_x_preferred": [
+      "Hannover"
     ],
-    "name:glg_x_preferred":[
-        "Hann\u00f3ver"
+    "name:glg_x_preferred": [
+      "Hannóver"
     ],
-    "name:glg_x_variant":[
-        "Hannover"
+    "name:glg_x_variant": [
+      "Hannover"
     ],
-    "name:gsw_x_preferred":[
-        "Hannover"
+    "name:gsw_x_preferred": [
+      "Hannover"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab9\u0ac7\u0aa8\u0acb\u0ab5\u0ab0"
+    "name:guj_x_preferred": [
+      "હેનોવર"
     ],
-    "name:hak_x_preferred":[
-        "Hanover"
+    "name:hak_x_preferred": [
+      "Hanover"
     ],
-    "name:hau_x_preferred":[
-        "Hanover"
+    "name:hau_x_preferred": [
+      "Hanover"
     ],
-    "name:heb_x_preferred":[
-        "\u05d4\u05e0\u05d5\u05d1\u05e8"
+    "name:heb_x_preferred": [
+      "הנובר"
     ],
-    "name:hin_x_preferred":[
-        "\u0939\u0928\u094b\u0935\u0930"
+    "name:hin_x_preferred": [
+      "हनोवर"
     ],
-    "name:hrv_x_preferred":[
-        "Hannover"
+    "name:hrv_x_preferred": [
+      "Hannover"
     ],
-    "name:hsb_x_preferred":[
-        "Hannover"
+    "name:hsb_x_preferred": [
+      "Hannover"
     ],
-    "name:hun_x_preferred":[
-        "Hannover"
+    "name:hun_x_preferred": [
+      "Hannover"
     ],
-    "name:hye_x_preferred":[
-        "\u0540\u0561\u0576\u0576\u0578\u057e\u0565\u0580"
+    "name:hye_x_preferred": [
+      "Հաննովեր"
     ],
-    "name:ido_x_preferred":[
-        "Hannover"
+    "name:ido_x_preferred": [
+      "Hannover"
     ],
-    "name:ile_x_preferred":[
-        "Hannover"
+    "name:ile_x_preferred": [
+      "Hannover"
     ],
-    "name:ina_x_preferred":[
-        "Hannover"
+    "name:ina_x_preferred": [
+      "Hannover"
     ],
-    "name:ind_x_preferred":[
-        "Hannover"
+    "name:ind_x_preferred": [
+      "Hannover"
     ],
-    "name:isl_x_preferred":[
-        "Hannover"
+    "name:isl_x_preferred": [
+      "Hannover"
     ],
-    "name:ita_x_preferred":[
-        "Hannover"
+    "name:ita_x_preferred": [
+      "Hannover"
     ],
-    "name:jam_x_preferred":[
-        "Anuova"
+    "name:jam_x_preferred": [
+      "Anuova"
     ],
-    "name:jav_x_preferred":[
-        "Hanover"
+    "name:jav_x_preferred": [
+      "Hanover"
     ],
-    "name:jpn_x_preferred":[
-        "\u30cf\u30ce\u30fc\u30d5\u30a1\u30fc"
+    "name:jpn_x_preferred": [
+      "ハノーファー"
     ],
-    "name:kaa_x_preferred":[
-        "Ganover"
+    "name:kaa_x_preferred": [
+      "Ganover"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb9\u0ccd\u0caf\u0cbe\u0ca8\u0ccb\u0cb5\u0cb0\u0ccd"
+    "name:kan_x_preferred": [
+      "ಹ್ಯಾನೋವರ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10f0\u10d0\u10dc\u10dd\u10d5\u10d4\u10e0\u10d8"
+    "name:kat_x_preferred": [
+      "ჰანოვერი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:kaz_x_preferred": [
+      "Ганновер"
     ],
-    "name:kir_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:kir_x_preferred": [
+      "Ганновер"
     ],
-    "name:kor_x_preferred":[
-        "\ud558\ub178\ubc84"
+    "name:kor_x_preferred": [
+      "하노버"
     ],
-    "name:kur_x_preferred":[
-        "Hannover"
+    "name:kur_x_preferred": [
+      "Hannover"
     ],
-    "name:lat_x_preferred":[
-        "Hannovera"
+    "name:lat_x_preferred": [
+      "Hannovera"
     ],
-    "name:lav_x_preferred":[
-        "Hannovere"
+    "name:lav_x_preferred": [
+      "Hannovere"
     ],
-    "name:lim_x_preferred":[
-        "Hannover"
+    "name:lim_x_preferred": [
+      "Hannover"
     ],
-    "name:lit_x_preferred":[
-        "Hanoveris"
+    "name:lit_x_preferred": [
+      "Hanoveris"
     ],
-    "name:lmo_x_preferred":[
-        "Hannover"
+    "name:lmo_x_preferred": [
+      "Hannover"
     ],
-    "name:ltz_x_preferred":[
-        "Hannover"
+    "name:ltz_x_preferred": [
+      "Hannover"
     ],
-    "name:mal_x_preferred":[
-        "\u0d39\u0d3e\u0d28\u0d4b\u0d35\u0d7c"
+    "name:mal_x_preferred": [
+      "ഹാനോവർ"
     ],
-    "name:mar_x_preferred":[
-        "\u0939\u093e\u0928\u094b\u092b\u0930"
+    "name:mar_x_preferred": [
+      "हानोफर"
     ],
-    "name:min_x_preferred":[
-        "Hannover"
+    "name:min_x_preferred": [
+      "Hannover"
     ],
-    "name:mkd_x_preferred":[
-        "\u0425\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:mkd_x_preferred": [
+      "Хановер"
     ],
-    "name:mon_x_preferred":[
-        "\u0425\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:mon_x_preferred": [
+      "Ханновер"
     ],
-    "name:msa_x_preferred":[
-        "Hanover"
+    "name:msa_x_preferred": [
+      "Hanover"
     ],
-    "name:mzn_x_preferred":[
-        "\u0647\u0627\u0646\u0648\u0641\u0631"
+    "name:mzn_x_preferred": [
+      "هانوفر"
     ],
-    "name:nah_x_preferred":[
-        "Hannover"
+    "name:nah_x_preferred": [
+      "Hannover"
     ],
-    "name:nan_x_preferred":[
-        "Hannover"
+    "name:nan_x_preferred": [
+      "Hannover"
     ],
-    "name:nds_x_preferred":[
-        "Hannober"
+    "name:nds_x_preferred": [
+      "Hannober"
     ],
-    "name:nds_x_variant":[
-        "Hannauver",
-        "Hannower"
+    "name:nds_x_variant": [
+      "Hannauver",
+      "Hannower"
     ],
-    "name:nld_x_preferred":[
-        "Hannover"
+    "name:nld_x_preferred": [
+      "Hannover"
     ],
-    "name:nno_x_preferred":[
-        "Hannover"
+    "name:nno_x_preferred": [
+      "Hannover"
     ],
-    "name:nob_x_preferred":[
-        "Hannover"
+    "name:nob_x_preferred": [
+      "Hannover"
     ],
-    "name:nor_x_preferred":[
-        "Hannover"
+    "name:nor_x_preferred": [
+      "Hannover"
     ],
-    "name:oci_x_preferred":[
-        "Hannover"
+    "name:oci_x_preferred": [
+      "Hannover"
     ],
-    "name:oss_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:oss_x_preferred": [
+      "Ганновер"
     ],
-    "name:pan_x_preferred":[
-        "\u0a39\u0a48\u0a28\u0a4b\u0a2b\u0a3c\u0a3e"
+    "name:pan_x_preferred": [
+      "ਹੈਨੋਫ਼ਾ"
     ],
-    "name:pfl_x_preferred":[
-        "Hannover"
+    "name:pfl_x_preferred": [
+      "Hannover"
     ],
-    "name:pih_x_preferred":[
-        "Hannover"
+    "name:pih_x_preferred": [
+      "Hannover"
     ],
-    "name:pms_x_preferred":[
-        "Hannover"
+    "name:pms_x_preferred": [
+      "Hannover"
     ],
-    "name:pnb_x_preferred":[
-        "\u06c1\u06cc\u0646\u0648\u0648\u0631"
+    "name:pnb_x_preferred": [
+      "ہینوور"
     ],
-    "name:pol_x_preferred":[
-        "Hanower"
+    "name:pol_x_preferred": [
+      "Hanower"
     ],
-    "name:por_x_preferred":[
-        "Han\u00f4ver"
+    "name:por_x_preferred": [
+      "Hanôver"
     ],
-    "name:por_x_variant":[
-        "Hanover"
+    "name:por_x_variant": [
+      "Hanover"
     ],
-    "name:que_x_preferred":[
-        "Hannover"
+    "name:que_x_preferred": [
+      "Hannover"
     ],
-    "name:ron_x_preferred":[
-        "Hanovra"
+    "name:ron_x_preferred": [
+      "Hanovra"
     ],
-    "name:rus_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:rus_x_preferred": [
+      "Ганновер"
     ],
-    "name:sah_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u044d\u0440"
+    "name:sah_x_preferred": [
+      "Ганновэр"
     ],
-    "name:scn_x_preferred":[
-        "Hannover"
+    "name:scn_x_preferred": [
+      "Hannover"
     ],
-    "name:sco_x_preferred":[
-        "Hanover"
+    "name:sco_x_preferred": [
+      "Hanover"
     ],
-    "name:sgs_x_preferred":[
-        "Hanuoveris"
+    "name:sgs_x_preferred": [
+      "Hanuoveris"
     ],
-    "name:sin_x_preferred":[
-        "\u0dc4\u0dd0\u0db1\u0ddc\u0dc0\u0dbb\u0dca"
+    "name:sin_x_preferred": [
+      "හැනොවර්"
     ],
-    "name:slk_x_preferred":[
-        "Hannover"
+    "name:slk_x_preferred": [
+      "Hannover"
     ],
-    "name:slv_x_preferred":[
-        "Hannover"
+    "name:slv_x_preferred": [
+      "Hannover"
     ],
-    "name:snd_x_preferred":[
-        "\u06be\u0646\u0648\u0631"
+    "name:snd_x_preferred": [
+      "ھنور"
     ],
-    "name:spa_x_preferred":[
-        "Han\u00f3ver"
+    "name:spa_x_preferred": [
+      "Hanóver"
     ],
-    "name:spa_x_variant":[
-        "Hannover"
+    "name:spa_x_variant": [
+      "Hannover"
     ],
-    "name:sqi_x_preferred":[
-        "Hanoveri"
+    "name:sqi_x_preferred": [
+      "Hanoveri"
     ],
-    "name:srp_x_preferred":[
-        "\u0425\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:srp_x_preferred": [
+      "Хановер"
     ],
-    "name:stq_x_preferred":[
-        "Hannover"
+    "name:stq_x_preferred": [
+      "Hannover"
     ],
-    "name:swa_x_preferred":[
-        "Hannover"
+    "name:swa_x_preferred": [
+      "Hannover"
     ],
-    "name:swe_x_preferred":[
-        "Hannover"
+    "name:swe_x_preferred": [
+      "Hannover"
     ],
-    "name:szl_x_preferred":[
-        "Hanowery"
+    "name:szl_x_preferred": [
+      "Hanowery"
     ],
-    "name:tam_x_preferred":[
-        "\u0bb9\u0ba9\u0bcb\u0bb5\u0bb0\u0bcd"
+    "name:tam_x_preferred": [
+      "ஹனோவர்"
     ],
-    "name:tat_x_preferred":[
-        "Hannover"
+    "name:tat_x_preferred": [
+      "Hannover"
     ],
-    "name:tat_x_variant":[
-        "\u04ba\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:tat_x_variant": [
+      "Һанновер"
     ],
-    "name:tel_x_preferred":[
-        "\u0c39\u0c3e\u0c28\u0c4b\u0c35\u0c30\u0c4d"
+    "name:tel_x_preferred": [
+      "హానోవర్"
     ],
-    "name:tgk_x_preferred":[
-        "\u04b2\u0430\u043d\u043e\u0432\u0435\u0440"
+    "name:tgk_x_preferred": [
+      "Ҳановер"
     ],
-    "name:tha_x_preferred":[
-        "\u0e2e\u0e31\u0e19\u0e42\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c"
+    "name:tha_x_preferred": [
+      "ฮันโนเวอร์"
     ],
-    "name:tha_x_variant":[
-        "\u0e2e\u0e31\u0e19\u0e42\u0e19\u0e40\u0e1f\u0e2d\u0e23\u0e4c"
+    "name:tha_x_variant": [
+      "ฮันโนเฟอร์"
     ],
-    "name:tur_x_preferred":[
-        "Hannover"
+    "name:tur_x_preferred": [
+      "Hannover"
     ],
-    "name:twi_x_preferred":[
-        "Hannover"
+    "name:twi_x_preferred": [
+      "Hannover"
     ],
-    "name:uig_x_preferred":[
-        "Hanof\u00e9r"
+    "name:uig_x_preferred": [
+      "Hanofér"
     ],
-    "name:ukr_x_preferred":[
-        "\u0413\u0430\u043d\u043d\u043e\u0432\u0435\u0440"
+    "name:ukr_x_preferred": [
+      "Ганновер"
     ],
-    "name:urd_x_preferred":[
-        "\u06c1\u06cc\u0646\u0648\u0631"
+    "name:urd_x_preferred": [
+      "ہینور"
     ],
-    "name:urd_x_variant":[
-        "\u06c1\u0627\u0646\u0648\u0648\u0631"
+    "name:urd_x_variant": [
+      "ہانوور"
     ],
-    "name:uzb_x_preferred":[
-        "Hannover"
+    "name:uzb_x_preferred": [
+      "Hannover"
     ],
-    "name:vep_x_preferred":[
-        "Gannover"
+    "name:vep_x_preferred": [
+      "Gannover"
     ],
-    "name:vie_x_preferred":[
-        "Hannover"
+    "name:vie_x_preferred": [
+      "Hannover"
     ],
-    "name:vol_x_preferred":[
-        "Hannover"
+    "name:vol_x_preferred": [
+      "Hannover"
     ],
-    "name:war_x_preferred":[
-        "Hanover"
+    "name:war_x_preferred": [
+      "Hanover"
     ],
-    "name:wuu_x_preferred":[
-        "\u6c49\u8bfa\u5a01"
+    "name:wuu_x_preferred": [
+      "汉诺威"
     ],
-    "name:xho_x_preferred":[
-        "IHanoveri"
+    "name:xho_x_preferred": [
+      "IHanoveri"
     ],
-    "name:yid_x_preferred":[
-        "\u05d4\u05d0\u05e0\u05d0\u05d5\u05d5\u05e2\u05e8"
+    "name:yid_x_preferred": [
+      "האנאווער"
     ],
-    "name:yor_x_preferred":[
-        "Hanover"
+    "name:yor_x_preferred": [
+      "Hanover"
     ],
-    "name:yue_x_preferred":[
-        "\u6f22\u8afe\u5a01"
+    "name:yue_x_preferred": [
+      "漢諾威"
     ],
-    "name:zho_x_preferred":[
-        "\u6c49\u8bfa\u5a01"
+    "name:zho_x_preferred": [
+      "汉诺威"
     ],
-    "nav:latitude":52.379952,
-    "nav:longitude":9.787455,
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Germany",
-    "ne:ADM0_A3":"DEU",
-    "ne:ADM1NAME":"Niedersachsen",
-    "ne:ADMIN1_COD":6,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-1 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPLA",
-    "ne:GEONAMEID":2910831,
-    "ne:GEONAMESNO":"GeoNames match general.",
-    "ne:GN_ASCII":"Hannover",
-    "ne:GN_POP":515140,
-    "ne:GTOPO30":54.0,
-    "ne:ISO_A2":"DE",
-    "ne:LABELRANK":3,
-    "ne:LATITUDE":52.36697,
-    "ne:LONGITUDE":9.716657,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Hannover",
-    "ne:MAX_AREAKM":285.0,
-    "ne:MAX_AREAMI":110.0,
-    "ne:MAX_BBXMAX":9.891667,
-    "ne:MAX_BBXMIN":9.55,
-    "ne:MAX_BBYMAX":52.491667,
-    "ne:MAX_BBYMIN":52.208333,
-    "ne:MAX_NATSCA":20.0,
-    "ne:MAX_PERKM":235.0,
-    "ne:MAX_PERMI":146.0,
-    "ne:MAX_POP10":722490,
-    "ne:MAX_POP20":722490,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":9.737716,
-    "ne:MEAN_BBYC":52.388517,
-    "ne:MEGACITY":0,
-    "ne:MEGANAME":null,
-    "ne:MIN_AREAKM":285.0,
-    "ne:MIN_AREAMI":110.0,
-    "ne:MIN_BBXMAX":9.891667,
-    "ne:MIN_BBXMIN":9.55,
-    "ne:MIN_BBYMAX":52.491667,
-    "ne:MIN_BBYMIN":52.208333,
-    "ne:MIN_PERKM":235.0,
-    "ne:MIN_PERMI":146.0,
-    "ne:NAME":"Hannover",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Hannover",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":20,
-    "ne:NOTE":null,
-    "ne:POP1950":0,
-    "ne:POP1955":0,
-    "ne:POP1960":0,
-    "ne:POP1965":0,
-    "ne:POP1970":0,
-    "ne:POP1975":0,
-    "ne:POP1980":0,
-    "ne:POP1985":0,
-    "ne:POP1990":0,
-    "ne:POP1995":0,
-    "ne:POP2000":0,
-    "ne:POP2005":0,
-    "ne:POP2010":0,
-    "ne:POP2015":0,
-    "ne:POP2020":0,
-    "ne:POP2025":0,
-    "ne:POP2050":0,
-    "ne:POP_MAX":722490,
-    "ne:POP_MIN":515140,
-    "ne:POP_OTHER":684611,
-    "ne:RANK_MAX":11,
-    "ne:RANK_MIN":11,
-    "ne:SCALERANK":7,
-    "ne:SOV0NAME":"Germany",
-    "ne:SOV_A3":"DEU",
-    "ne:TIMEZONE":"Europe/Berlin",
-    "ne:UN_ADM0":null,
-    "ne:UN_FID":0,
-    "ne:UN_LAT":0.0,
-    "ne:UN_LONG":0.0,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Bundesrepublik Deutschland",
-    "qs:a1":"*Niedersachsen",
-    "qs:a1r":"0",
-    "qs:a2":"Hannover",
-    "qs:adm0":"Bundesrepublik Deutschland",
-    "qs:la":"Langenhagen",
-    "qs:la_lc":"*DE03024100010",
-    "qs:level":"locality",
-    "qs:loc":"Hannover",
-    "qs:loc_alt":"Hannover",
-    "qs:pop":0,
-    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "qs_pg:aaroncc":"DE",
-    "qs_pg:gn_country":"DE",
-    "qs_pg:gn_fcode":"ADM4",
-    "qs_pg:gn_id":6559065,
-    "qs_pg:gn_pop":520966,
-    "qs_pg:name":"Hannover, Landeshauptstadt",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":11,
-    "qs_pg:qs_id":639082,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "sfomuseum:placetype":"city",
-    "src:geom":"de-bkg",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "wd:latitude":52.374444,
-    "wd:longitude":9.738611,
-    "wd:population":518386,
-    "wd:wordcount":6669,
-    "wof:belongsto":[
-        85682555,
-        102191581,
-        1377686265,
-        85633111,
-        102063941
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "dbp:id":"Hanover",
-        "fb:id":"en.hanover",
-        "gn:id":2910831,
-        "gp:id":657169,
-        "loc:id":"n79093323",
-        "nyt:id":"N78784348614048250341",
-        "qs_pg:id":352609,
-        "wd:id":"Q1715",
-        "wk:page":"Hanover"
+    "nav:latitude": 52.379952,
+    "nav:longitude": 9.787455,
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Germany",
+    "ne:ADM0_A3": "DEU",
+    "ne:ADM1NAME": "Niedersachsen",
+    "ne:ADMIN1_COD": 6,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-1 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLA",
+    "ne:GEONAMEID": 2910831,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Hannover",
+    "ne:GN_POP": 515140,
+    "ne:GTOPO30": 54,
+    "ne:ISO_A2": "DE",
+    "ne:LABELRANK": 3,
+    "ne:LATITUDE": 52.36697,
+    "ne:LONGITUDE": 9.716657,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Hannover",
+    "ne:MAX_AREAKM": 285,
+    "ne:MAX_AREAMI": 110,
+    "ne:MAX_BBXMAX": 9.891667,
+    "ne:MAX_BBXMIN": 9.55,
+    "ne:MAX_BBYMAX": 52.491667,
+    "ne:MAX_BBYMIN": 52.208333,
+    "ne:MAX_NATSCA": 20,
+    "ne:MAX_PERKM": 235,
+    "ne:MAX_PERMI": 146,
+    "ne:MAX_POP10": 722490,
+    "ne:MAX_POP20": 722490,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 9.737716,
+    "ne:MEAN_BBYC": 52.388517,
+    "ne:MEGACITY": 0,
+    "ne:MEGANAME": null,
+    "ne:MIN_AREAKM": 285,
+    "ne:MIN_AREAMI": 110,
+    "ne:MIN_BBXMAX": 9.891667,
+    "ne:MIN_BBXMIN": 9.55,
+    "ne:MIN_BBYMAX": 52.491667,
+    "ne:MIN_BBYMIN": 52.208333,
+    "ne:MIN_PERKM": 235,
+    "ne:MIN_PERMI": 146,
+    "ne:NAME": "Hannover",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Hannover",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 20,
+    "ne:NOTE": null,
+    "ne:POP1950": 0,
+    "ne:POP1955": 0,
+    "ne:POP1960": 0,
+    "ne:POP1965": 0,
+    "ne:POP1970": 0,
+    "ne:POP1975": 0,
+    "ne:POP1980": 0,
+    "ne:POP1985": 0,
+    "ne:POP1990": 0,
+    "ne:POP1995": 0,
+    "ne:POP2000": 0,
+    "ne:POP2005": 0,
+    "ne:POP2010": 0,
+    "ne:POP2015": 0,
+    "ne:POP2020": 0,
+    "ne:POP2025": 0,
+    "ne:POP2050": 0,
+    "ne:POP_MAX": 722490,
+    "ne:POP_MIN": 515140,
+    "ne:POP_OTHER": 684611,
+    "ne:RANK_MAX": 11,
+    "ne:RANK_MIN": 11,
+    "ne:SCALERANK": 7,
+    "ne:SOV0NAME": "Germany",
+    "ne:SOV_A3": "DEU",
+    "ne:TIMEZONE": "Europe/Berlin",
+    "ne:UN_ADM0": null,
+    "ne:UN_FID": 0,
+    "ne:UN_LAT": 0,
+    "ne:UN_LONG": 0,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "Bundesrepublik Deutschland",
+    "qs:a1": "*Niedersachsen",
+    "qs:a1r": "0",
+    "qs:a2": "Hannover",
+    "qs:adm0": "Bundesrepublik Deutschland",
+    "qs:la": "Langenhagen",
+    "qs:la_lc": "*DE03024100010",
+    "qs:level": "locality",
+    "qs:loc": "Hannover",
+    "qs:loc_alt": "Hannover",
+    "qs:pop": 0,
+    "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "qs_pg:aaroncc": "DE",
+    "qs_pg:gn_country": "DE",
+    "qs_pg:gn_fcode": "ADM4",
+    "qs_pg:gn_id": 6559065,
+    "qs_pg:gn_pop": 520966,
+    "qs_pg:name": "Hannover, Landeshauptstadt",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 11,
+    "qs_pg:qs_id": 639082,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "sfomuseum:placetype": "city",
+    "src:geom": "de-bkg",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
+    ],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "wd:latitude": 52.374444,
+    "wd:longitude": 9.738611,
+    "wd:population": 518386,
+    "wd:wordcount": 6669,
+    "wof:belongsto": [
+      85682555,
+      102191581,
+      1377686265,
+      85633111,
+      102063941
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "dbp:id": "Hanover",
+      "fb:id": "en.hanover",
+      "gn:id": 2910831,
+      "gp:id": 657169,
+      "loc:id": "n79093323",
+      "nyt:id": "N78784348614048250341",
+      "qs_pg:id": 352609,
+      "wd:id": "Q1715",
+      "wk:page": "Hanover"
     },
-    "wof:concordances_alt":{
-        "qs_pg:id":1066612
+    "wof:concordances_alt": {
+      "qs_pg:id": 1066612
     },
-    "wof:country":"DE",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "wof:country": "DE",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
     ],
-    "wof:geomhash":"6cdd3987405d6cea06bcce1ec7f8d00d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063941,
-            "localadmin_id":1377686265,
-            "locality_id":101748819,
-            "region_id":85682555
-        }
+    "wof:geomhash": "6cdd3987405d6cea06bcce1ec7f8d00d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063941,
+        "localadmin_id": 1377686265,
+        "locality_id": 101748819,
+        "region_id": 85682555
+      }
     ],
-    "wof:id":101748819,
-    "wof:lastmodified":1611601214,
-    "wof:name":"Hannover",
-    "wof:parent_id":1377686265,
-    "wof:placetype":"locality",
-    "wof:population":518386,
-    "wof:population_rank":11,
-    "wof:repo":"whosonfirst-data-admin-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1125331247
+    "wof:id": 101748819,
+    "wof:lastmodified": 1624906515,
+    "wof:name": "Hannover",
+    "wof:parent_id": 1377686265,
+    "wof:placetype": "locality",
+    "wof:population": 518386,
+    "wof:population_rank": 11,
+    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1125331247
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     9.604728,
     52.305911,
     9.91856,
     52.453608
-],
+  ],
   "geometry": {"coordinates":[[[[9.887229,52.41625],[9.887134,52.415674],[9.886153,52.413151],[9.889323,52.41046],[9.890928,52.410243],[9.895822,52.412995],[9.898878,52.414358],[9.901959,52.414852],[9.903034,52.413705],[9.902113,52.413169],[9.903183,52.411188],[9.90449,52.411088],[9.90813,52.4099],[9.908399,52.409334],[9.906592,52.4078],[9.908859,52.407421],[9.912287,52.406923],[9.915341,52.406389],[9.918167,52.405161],[9.91856,52.403974],[9.918133,52.403316],[9.916305,52.401179],[9.901886,52.400012],[9.894164,52.400448],[9.88829,52.398799],[9.884551,52.396981],[9.889411,52.384377],[9.89063,52.380352],[9.891222,52.376591],[9.891773,52.374984],[9.891781,52.37439],[9.891566,52.373984],[9.891059,52.373264],[9.890583,52.372532],[9.890395,52.372079],[9.890599,52.371319],[9.891119,52.370106],[9.892297,52.368844],[9.894109,52.366272],[9.894337,52.365742],[9.894346,52.365077],[9.894307,52.364508],[9.894467,52.364152],[9.895411,52.3633],[9.895966,52.362518],[9.896411,52.361187],[9.896579,52.360308],[9.896468,52.359879],[9.895832,52.359436],[9.893022,52.357587],[9.88741,52.357595],[9.881614,52.358203],[9.878719,52.356165],[9.874562,52.352977],[9.873484,52.352351],[9.871146,52.350486],[9.876153,52.345278],[9.879351,52.345474],[9.881068,52.345564],[9.881699,52.345603],[9.884136,52.343502],[9.88362,52.341512],[9.881407,52.336078],[9.876332,52.334454],[9.874898,52.331996],[9.875932,52.330455],[9.878991,52.326493],[9.875399,52.326045],[9.872968,52.32549],[9.871282,52.323931],[9.866456,52.322317],[9.863633,52.322961],[9.861597,52.321655],[9.862815,52.32061],[9.862408,52.318242],[9.864354,52.315563],[9.86626,52.312533],[9.865445,52.312106],[9.865039,52.311717],[9.86493,52.31115],[9.865282,52.3101],[9.860577,52.308663],[9.86066,52.305911],[9.858912,52.306063],[9.849721,52.306491],[9.831379,52.30755],[9.831251,52.308305],[9.829269,52.309346],[9.826261,52.310283],[9.823971,52.31036],[9.821977,52.311203],[9.820928,52.311692],[9.819347,52.312429],[9.817151,52.314009],[9.816631,52.315418],[9.810552,52.31657],[9.809137,52.316967],[9.808254,52.319057],[9.804266,52.318764],[9.799203,52.317764],[9.796685,52.322075],[9.795494,52.324092],[9.794336,52.325848],[9.792917,52.32556],[9.788096,52.324582],[9.78721,52.324402],[9.788379,52.32199],[9.786127,52.321419],[9.785617,52.322153],[9.784111,52.321785],[9.779535,52.320669],[9.780015,52.319961],[9.77814,52.319761],[9.776891,52.319835],[9.776358,52.319211],[9.775584,52.31899],[9.774544,52.318849],[9.773955,52.318981],[9.772502,52.31809],[9.772072,52.318357],[9.771438,52.318516],[9.771012,52.318513],[9.770396,52.318509],[9.769692,52.318478],[9.769002,52.318501],[9.768369,52.318614],[9.76775,52.318781],[9.767248,52.31894],[9.766849,52.319135],[9.766462,52.31943],[9.766267,52.319716],[9.766216,52.320148],[9.766283,52.320553],[9.76634,52.320661],[9.766695,52.321392],[9.76685,52.32177],[9.766845,52.322085],[9.766607,52.322291],[9.766135,52.322432],[9.765206,52.322642],[9.765095,52.322272],[9.76483,52.321407],[9.764215,52.321314],[9.76054,52.320805],[9.75902,52.323035],[9.757297,52.321595],[9.75107,52.326278],[9.749984,52.327099],[9.749335,52.329082],[9.749027,52.329917],[9.744936,52.334019],[9.743447,52.334361],[9.743241,52.334395],[9.742118,52.33572],[9.738763,52.335267],[9.739665,52.333168],[9.737615,52.332867],[9.736951,52.331325],[9.737116,52.330228],[9.733713,52.329208],[9.732271,52.328552],[9.729277,52.329594],[9.728062,52.330018],[9.723417,52.330329],[9.720311,52.329709],[9.718223,52.329297],[9.717518,52.328501],[9.717175,52.327932],[9.716679,52.326931],[9.716497,52.326435],[9.716473,52.326102],[9.716538,52.325779],[9.716674,52.32551],[9.716841,52.325232],[9.716918,52.32499],[9.716877,52.324854],[9.716849,52.324746],[9.716691,52.324556],[9.71643,52.324366],[9.716007,52.32421],[9.715145,52.324007],[9.714263,52.323772],[9.713624,52.323691],[9.712717,52.323496],[9.710437,52.32295],[9.709794,52.322766],[9.709078,52.322564],[9.707824,52.322115],[9.707356,52.322013],[9.706858,52.321965],[9.706345,52.321925],[9.70586,52.321922],[9.705552,52.32192],[9.705405,52.321919],[9.705054,52.321881],[9.704659,52.321779],[9.704339,52.321615],[9.70405,52.321388],[9.703573,52.320935],[9.703225,52.320699],[9.702803,52.320499],[9.702366,52.320325],[9.701665,52.320149],[9.700816,52.319991],[9.697204,52.319247],[9.695948,52.318924],[9.695553,52.318831],[9.695392,52.318785],[9.694852,52.318602],[9.694459,52.318419],[9.694125,52.318228],[9.693822,52.317974],[9.693387,52.317665],[9.692396,52.316463],[9.690493,52.314543],[9.690203,52.31437],[9.689985,52.314225],[9.689416,52.314014],[9.68838,52.313701],[9.686099,52.313227],[9.68433,52.312891],[9.683497,52.31267],[9.682841,52.312449],[9.682142,52.312166],[9.68185,52.312056],[9.681303,52.312259],[9.679434,52.31257],[9.679729,52.314869],[9.679974,52.316774],[9.682247,52.316988],[9.679988,52.321661],[9.678899,52.321725],[9.678401,52.323506],[9.676119,52.322967],[9.675687,52.324066],[9.67463,52.325813],[9.673195,52.325684],[9.672617,52.326842],[9.672986,52.327031],[9.675526,52.328914],[9.675281,52.330206],[9.670996,52.330887],[9.670635,52.332974],[9.675877,52.335199],[9.67977,52.336868],[9.678951,52.339147],[9.683145,52.339294],[9.683585,52.340749],[9.680681,52.340856],[9.680362,52.343067],[9.679942,52.345924],[9.676048,52.346059],[9.674668,52.346041],[9.67251,52.346008],[9.671177,52.345027],[9.667021,52.344998],[9.666636,52.34755],[9.665885,52.349245],[9.659586,52.350712],[9.657152,52.351279],[9.654998,52.351786],[9.650824,52.351972],[9.649062,52.351933],[9.648671,52.351642],[9.647646,52.351446],[9.646315,52.351185],[9.646309,52.351473],[9.646207,52.35301],[9.645901,52.353655],[9.64381,52.355448],[9.641369,52.35714],[9.636258,52.360739],[9.641196,52.361796],[9.644548,52.362094],[9.646249,52.361946],[9.649869,52.360581],[9.650859,52.362501],[9.652161,52.36271],[9.652094,52.363795],[9.653904,52.364293],[9.653648,52.36549],[9.655228,52.365816],[9.655885,52.368076],[9.657583,52.369602],[9.660033,52.37007],[9.661342,52.370417],[9.66143,52.371582],[9.661498,52.372671],[9.660882,52.373124],[9.660821,52.374376],[9.659228,52.374341],[9.658494,52.376922],[9.658058,52.378268],[9.655791,52.37845],[9.65532,52.38003],[9.655265,52.380887],[9.653359,52.380921],[9.651959,52.380935],[9.650437,52.382306],[9.647911,52.382193],[9.644739,52.38129],[9.644835,52.382385],[9.646695,52.382732],[9.647696,52.383286],[9.650006,52.383608],[9.650277,52.384041],[9.651982,52.384053],[9.653187,52.384062],[9.655769,52.389009],[9.655613,52.390294],[9.65908,52.392773],[9.659574,52.391509],[9.660053,52.391062],[9.661283,52.391093],[9.663299,52.393558],[9.663007,52.394626],[9.662926,52.395462],[9.664335,52.39642],[9.664631,52.397255],[9.663763,52.397916],[9.662663,52.398479],[9.661527,52.398899],[9.660122,52.399128],[9.659072,52.39912],[9.658581,52.399003],[9.658114,52.398837],[9.657079,52.398335],[9.656484,52.398126],[9.655708,52.398026],[9.655162,52.398093],[9.654846,52.398329],[9.654722,52.398733],[9.654676,52.399113],[9.654513,52.399517],[9.653921,52.399965],[9.653216,52.400221],[9.652529,52.400291],[9.651932,52.400212],[9.651471,52.399924],[9.651247,52.399398],[9.651334,52.398899],[9.651885,52.39857],[9.652548,52.39848],[9.653055,52.398412],[9.653524,52.398176],[9.653648,52.397853],[9.653778,52.397227],[9.653557,52.396559],[9.653176,52.396128],[9.652519,52.395933],[9.651701,52.395975],[9.650957,52.396231],[9.650284,52.396822],[9.649608,52.397602],[9.649519,52.39822],[9.649431,52.398767],[9.64911,52.399264],[9.648754,52.399595],[9.648278,52.400068],[9.648269,52.400543],[9.648418,52.400901],[9.648956,52.401238],[9.650037,52.401674],[9.650922,52.402204],[9.65157,52.402923],[9.651675,52.403542],[9.651143,52.404918],[9.650973,52.405679],[9.651106,52.406869],[9.650893,52.407844],[9.65053,52.408531],[9.649465,52.409866],[9.648493,52.41074],[9.647481,52.41139],[9.646633,52.411896],[9.645876,52.412233],[9.64515,52.412524],[9.64447,52.412717],[9.643909,52.41283],[9.64326,52.412898],[9.64282,52.412823],[9.64266,52.412759],[9.64247,52.412676],[9.642239,52.412477],[9.641768,52.411718],[9.64142,52.411184],[9.641096,52.410688],[9.640463,52.409955],[9.639937,52.409744],[9.639335,52.409483],[9.638452,52.40922],[9.638156,52.409164],[9.637661,52.409071],[9.636634,52.409093],[9.636288,52.409101],[9.6357,52.409114],[9.634815,52.408994],[9.634309,52.40859],[9.63376,52.407987],[9.633582,52.407529],[9.633734,52.406901],[9.63407,52.406418],[9.634269,52.405792],[9.634065,52.405265],[9.633448,52.404815],[9.632659,52.404552],[9.631585,52.404573],[9.630788,52.40471],[9.629995,52.404704],[9.629772,52.404671],[9.62939,52.404614],[9.62893,52.40424],[9.628937,52.403868],[9.629273,52.403385],[9.62975,52.402875],[9.630132,52.402421],[9.630564,52.401824],[9.630668,52.401254],[9.630633,52.400654],[9.630316,52.400166],[9.629998,52.399707],[9.629476,52.399314],[9.628968,52.399067],[9.628341,52.398863],[9.627549,52.398786],[9.626592,52.398807],[9.625846,52.398773],[9.625103,52.398568],[9.624829,52.398238],[9.62493,52.397839],[9.625218,52.397413],[9.625508,52.396929],[9.625704,52.396445],[9.625714,52.39596],[9.625536,52.395502],[9.625027,52.395241],[9.624377,52.395065],[9.623445,52.394965],[9.622682,52.394923],[9.621564,52.394915],[9.620815,52.394883],[9.620259,52.39478],[9.619732,52.394632],[9.619222,52.39443],[9.618828,52.394239],[9.618388,52.394182],[9.617992,52.394179],[9.61755,52.394229],[9.616752,52.394394],[9.615585,52.394674],[9.614878,52.394758],[9.614259,52.394835],[9.613745,52.394813],[9.613188,52.394746],[9.612632,52.394607],[9.612239,52.394406],[9.611295,52.393787],[9.610887,52.393614],[9.610491,52.393566],[9.610138,52.393581],[9.609739,52.393704],[9.609205,52.393943],[9.608032,52.394492],[9.606577,52.395219],[9.605832,52.395717],[9.605308,52.396198],[9.604992,52.396565],[9.604779,52.396905],[9.604728,52.397246],[9.604809,52.397643],[9.604993,52.397959],[9.606535,52.398051],[9.610424,52.400103],[9.612254,52.402555],[9.612685,52.403097],[9.614142,52.403077],[9.616097,52.403042],[9.616439,52.404384],[9.616575,52.404916],[9.617658,52.405922],[9.618915,52.407101],[9.617703,52.409628],[9.617721,52.411987],[9.617835,52.41472],[9.617059,52.41546],[9.616382,52.416265],[9.614619,52.417619],[9.613379,52.418581],[9.61262,52.420509],[9.613993,52.421778],[9.615698,52.423365],[9.620394,52.423174],[9.622324,52.425311],[9.625244,52.42571],[9.62614,52.426371],[9.627251,52.427067],[9.631286,52.427127],[9.634708,52.427183],[9.635513,52.429174],[9.637611,52.432813],[9.64517,52.433324],[9.653884,52.432015],[9.660909,52.433606],[9.662029,52.433671],[9.662191,52.432473],[9.6635,52.432453],[9.670011,52.431352],[9.669259,52.429062],[9.672106,52.429468],[9.673808,52.42975],[9.674621,52.430313],[9.67835,52.430788],[9.686002,52.431533],[9.69137,52.431704],[9.698795,52.432014],[9.704375,52.431827],[9.708266,52.431448],[9.714974,52.430682],[9.718618,52.430112],[9.717145,52.425165],[9.719675,52.425182],[9.719813,52.424004],[9.721908,52.422786],[9.731346,52.42317],[9.73106,52.424684],[9.728723,52.424812],[9.727968,52.42522],[9.727407,52.425871],[9.726914,52.429007],[9.728834,52.429154],[9.735485,52.428911],[9.738285,52.428979],[9.744164,52.428915],[9.749192,52.428796],[9.759004,52.42842],[9.76381,52.428416],[9.767708,52.432436],[9.767705,52.432607],[9.767698,52.43302],[9.767447,52.433731],[9.766982,52.435044],[9.765962,52.437926],[9.76576,52.438329],[9.765795,52.438615],[9.766061,52.438997],[9.766716,52.439818],[9.767511,52.440815],[9.768456,52.442534],[9.768742,52.444453],[9.768878,52.445368],[9.769104,52.445797],[9.769607,52.446336],[9.769899,52.44723],[9.770125,52.44766],[9.770703,52.448044],[9.77128,52.448476],[9.77178,52.448907],[9.77299,52.451104],[9.773021,52.451627],[9.773015,52.451984],[9.772276,52.452802],[9.772055,52.452922],[9.77174,52.453262],[9.781451,52.453608],[9.781703,52.449371],[9.787537,52.449858],[9.787528,52.449094],[9.790374,52.448769],[9.79045,52.44957],[9.791392,52.449584],[9.80115,52.44965],[9.801414,52.450677],[9.803375,52.450455],[9.805558,52.450143],[9.805942,52.450083],[9.808657,52.449631],[9.810987,52.449356],[9.812787,52.449088],[9.814807,52.448865],[9.817093,52.448582],[9.818449,52.448418],[9.819849,52.448336],[9.820143,52.448329],[9.819114,52.447307],[9.818708,52.446909],[9.820727,52.446714],[9.822673,52.441625],[9.822335,52.441569],[9.817008,52.440613],[9.817341,52.439994],[9.817598,52.439528],[9.820323,52.439364],[9.821262,52.438587],[9.822395,52.437622],[9.823677,52.436559],[9.822935,52.43466],[9.826774,52.434082],[9.829295,52.43421],[9.829537,52.433669],[9.826926,52.433341],[9.827116,52.432873],[9.82615,52.432108],[9.823121,52.431634],[9.821742,52.433094],[9.820671,52.432963],[9.820779,52.431992],[9.819706,52.43066],[9.819491,52.429461],[9.82755,52.426549],[9.833334,52.423881],[9.835437,52.423774],[9.838421,52.422053],[9.84015,52.420897],[9.841555,52.421212],[9.842955,52.422929],[9.844606,52.421819],[9.846137,52.423612],[9.846244,52.424303],[9.84701,52.424763],[9.850643,52.426944],[9.853261,52.426268],[9.856698,52.425239],[9.862422,52.424125],[9.863656,52.424004],[9.867897,52.423588],[9.884873,52.422255],[9.887488,52.422296],[9.887608,52.421918],[9.888805,52.419325],[9.887229,52.41625]]]],"type":"MultiPolygon"}
 }

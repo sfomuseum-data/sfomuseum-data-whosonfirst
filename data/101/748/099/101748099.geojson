@@ -2,588 +2,589 @@
   "id": 101748099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.027305,
-    "geom:area_square_m":211529336.087123,
-    "geom:bbox":"4.28272,51.069689,4.559664,51.342031",
-    "geom:latitude":51.20622,
-    "geom:longitude":4.3985,
-    "gn:population":459805,
-    "iso:country":"BE",
-    "lbl:latitude":51.199993,
-    "lbl:longitude":4.431101,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":51.199993,
-    "mps:longitude":4.431101,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":6.0,
-    "name:afr_x_preferred":[
-        "Antwerpen"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.02730458767450028,
+    "geom:area_square_m": 211529336.087123,
+    "geom:bbox": "4.282720,51.069689,4.559664,51.342031",
+    "geom:latitude": 51.20622027295072,
+    "geom:longitude": 4.398500110278338,
+    "gn:population": 459805,
+    "iso:country": "BE",
+    "lbl:latitude": 51.199993,
+    "lbl:longitude": 4.431101,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 51.199993,
+    "mps:longitude": 4.431101,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 6,
+    "name:afr_x_preferred": [
+      "Antwerpen"
     ],
-    "name:als_x_preferred":[
-        "Antwerpen"
+    "name:als_x_preferred": [
+      "Antwerpen"
     ],
-    "name:amh_x_preferred":[
-        "\u12a0\u1295\u1275\u12c8\u122d\u1355"
+    "name:amh_x_preferred": [
+      "አንትወርፕ"
     ],
-    "name:ang_x_preferred":[
-        "Antwerpen"
+    "name:ang_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ara_x_preferred":[
-        "\u0623\u0646\u062a\u0648\u064a\u0631\u0628"
+    "name:ara_x_preferred": [
+      "أنتويرب"
     ],
-    "name:arg_x_preferred":[
-        "Anvers"
+    "name:arg_x_preferred": [
+      "Anvers"
     ],
-    "name:arz_x_preferred":[
-        "\u0627\u0646\u062a\u0648\u064a\u0631\u0628"
+    "name:arz_x_preferred": [
+      "انتويرب"
     ],
-    "name:ast_x_preferred":[
-        "Amberes"
+    "name:ast_x_preferred": [
+      "Amberes"
     ],
-    "name:aze_x_preferred":[
-        "Antverpen"
+    "name:aze_x_preferred": [
+      "Antverpen"
     ],
-    "name:bak_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:bak_x_preferred": [
+      "Антверпен"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:bel_x_preferred": [
+      "Горад Антверпен"
     ],
-    "name:bel_x_variant":[
-        "\u0410\u043d\u0442\u0432\u044d\u0440\u043f\u044d\u043d",
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:bel_x_variant": [
+      "Антвэрпэн",
+      "Антверпен"
     ],
-    "name:ben_x_preferred":[
-        "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u0993\u09af\u09bc\u09c7\u09aa"
+    "name:ben_x_preferred": [
+      "অ্যান্টওয়েপ"
     ],
-    "name:bos_x_preferred":[
-        "Antwerpen"
+    "name:bos_x_preferred": [
+      "Antwerpen"
     ],
-    "name:bre_x_preferred":[
-        "Antwerpen"
+    "name:bre_x_preferred": [
+      "Antwerpen"
     ],
-    "name:bul_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:bul_x_preferred": [
+      "Антверпен"
     ],
-    "name:cat_x_preferred":[
-        "Anvers"
+    "name:cat_x_preferred": [
+      "Anvers"
     ],
-    "name:cbk_zam_x_preferred":[
-        "Antwerpen"
+    "name:cbk_zam_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ceb_x_preferred":[
-        "Antwerpen"
+    "name:ceb_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ces_x_preferred":[
-        "Antverpy"
+    "name:ces_x_preferred": [
+      "Antverpy"
     ],
-    "name:che_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:che_x_preferred": [
+      "Антверпен"
     ],
-    "name:chv_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:chv_x_preferred": [
+      "Антверпен"
     ],
-    "name:cos_x_preferred":[
-        "Anversu"
+    "name:cos_x_preferred": [
+      "Anversu"
     ],
-    "name:csb_x_preferred":[
-        "Antwerpa"
+    "name:csb_x_preferred": [
+      "Antwerpa"
     ],
-    "name:cym_x_preferred":[
-        "Antwerp"
+    "name:cym_x_preferred": [
+      "Antwerp"
     ],
-    "name:dan_x_preferred":[
-        "Antwerpen"
+    "name:dan_x_preferred": [
+      "Antwerpen"
     ],
-    "name:deu_x_preferred":[
-        "Antwerpen"
+    "name:deu_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ell_x_preferred":[
-        "\u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1"
+    "name:ell_x_preferred": [
+      "Αμβέρσα"
     ],
-    "name:eng_x_colloquial":[
-        "The Metropole"
+    "name:eng_x_colloquial": [
+      "The Metropole"
     ],
-    "name:eng_x_preferred":[
-        "Antwerp"
+    "name:eng_x_preferred": [
+      "Antwerp"
     ],
-    "name:epo_x_preferred":[
-        "Antverpeno"
+    "name:epo_x_preferred": [
+      "Antverpeno"
     ],
-    "name:est_x_preferred":[
-        "Antwerpen"
+    "name:est_x_preferred": [
+      "Antwerpen"
     ],
-    "name:eus_x_preferred":[
-        "Anberes"
+    "name:eus_x_preferred": [
+      "Anberes"
     ],
-    "name:ext_x_preferred":[
-        "Amberis"
+    "name:ext_x_preferred": [
+      "Amberis"
     ],
-    "name:fas_x_preferred":[
-        "\u0622\u0646\u062a\u0648\u0631\u067e"
+    "name:fas_x_preferred": [
+      "آنتورپ"
     ],
-    "name:fin_x_preferred":[
-        "Antwerpen"
+    "name:fin_x_preferred": [
+      "Antwerpen"
     ],
-    "name:fra_x_preferred":[
-        "Anvers"
+    "name:fra_x_preferred": [
+      "Anvers"
     ],
-    "name:fry_x_preferred":[
-        "Antwerpen"
+    "name:fry_x_preferred": [
+      "Antwerpen"
     ],
-    "name:gle_x_preferred":[
-        "Antuairp"
+    "name:gle_x_preferred": [
+      "Antuairp"
     ],
-    "name:glg_x_preferred":[
-        "Antuerpen"
+    "name:glg_x_preferred": [
+      "Antuerpen"
     ],
-    "name:gsw_x_preferred":[
-        "Antw\u00e4rpe"
+    "name:gsw_x_preferred": [
+      "Antwärpe"
     ],
-    "name:guj_x_preferred":[
-        "\u0a8f\u0aa8\u0acd\u0a9f\u0ab5\u0ab0\u0acd\u0aaa"
+    "name:guj_x_preferred": [
+      "એન્ટવર્પ"
     ],
-    "name:hak_x_preferred":[
-        "\u00d4n-thi\u030dt-v\u00ed-ph\u00fa"
+    "name:hak_x_preferred": [
+      "Ôn-thi̍t-ví-phú"
     ],
-    "name:hbs_x_preferred":[
-        "Antwerpen"
+    "name:hbs_x_preferred": [
+      "Antwerpen"
     ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05e0\u05d8\u05d5\u05d5\u05e8\u05e4\u05df"
+    "name:heb_x_preferred": [
+      "אנטוורפן"
     ],
-    "name:hin_x_preferred":[
-        "\u090f\u0902\u091f\u0935\u0930\u094d\u092a"
+    "name:hin_x_preferred": [
+      "एंटवर्प"
     ],
-    "name:hrv_x_preferred":[
-        "Antwerpen"
+    "name:hrv_x_preferred": [
+      "Antwerpen"
     ],
-    "name:hsb_x_preferred":[
-        "Antwerpen"
+    "name:hsb_x_preferred": [
+      "Antwerpen"
     ],
-    "name:hun_x_preferred":[
-        "Antwerpen"
+    "name:hun_x_preferred": [
+      "Antwerpen"
     ],
-    "name:hye_x_preferred":[
-        "\u0531\u0576\u057f\u057e\u0565\u0580\u057a\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Անտվերպեն"
     ],
-    "name:ido_x_preferred":[
-        "Antwerpen"
+    "name:ido_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ile_x_preferred":[
-        "Antwerpen"
+    "name:ile_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ina_x_preferred":[
-        "Antwerpen"
+    "name:ina_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ind_x_preferred":[
-        "Antwerpen"
+    "name:ind_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ind_x_variant":[
-        "Kota Antwerpen"
+    "name:ind_x_variant": [
+      "Kota Antwerpen"
     ],
-    "name:isl_x_preferred":[
-        "Antwerpen"
+    "name:isl_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ita_x_preferred":[
-        "Anversa"
+    "name:ita_x_preferred": [
+      "Anversa"
     ],
-    "name:jav_x_preferred":[
-        "Antwerpen"
+    "name:jav_x_preferred": [
+      "Antwerpen"
     ],
-    "name:jpn_x_preferred":[
-        "\u30a2\u30f3\u30c8\u30ef\u30fc\u30d7",
-        "\u30a2\u30f3\u30c8\u30a6\u30a7\u30eb\u30da\u30f3"
+    "name:jpn_x_preferred": [
+      "アントワープ",
+      "アントウェルペン"
     ],
-    "name:kan_x_preferred":[
-        "\u0c86\u0c82\u0c9f\u0ccd\u0cb5\u0cb0\u0ccd\u0caa\u0ccd"
+    "name:kan_x_preferred": [
+      "ಆಂಟ್ವರ್ಪ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d5\u10d4\u10e0\u10de\u10d4\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "ანტვერპენი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:kaz_x_preferred": [
+      "Антверпен"
     ],
-    "name:kir_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:kir_x_preferred": [
+      "Антверпен"
     ],
-    "name:kor_x_preferred":[
-        "\uc564\ud2b8\uc6cc\ud504",
-        "\uc548\ud2b8\ubca0\ub974\ud39c"
+    "name:kor_x_preferred": [
+      "앤트워프",
+      "안트베르펜"
     ],
-    "name:lat_x_preferred":[
-        "Antverpia"
+    "name:lat_x_preferred": [
+      "Antverpia"
     ],
-    "name:lat_x_variant":[
-        "Antwerpium"
+    "name:lat_x_variant": [
+      "Antwerpium"
     ],
-    "name:lav_x_preferred":[
-        "Antverpene"
+    "name:lav_x_preferred": [
+      "Antverpene"
     ],
-    "name:lim_x_preferred":[
-        "Antwerpe"
+    "name:lim_x_preferred": [
+      "Antwerpe"
     ],
-    "name:lit_x_preferred":[
-        "Antverpenas"
+    "name:lit_x_preferred": [
+      "Antverpenas"
     ],
-    "name:lmo_x_preferred":[
-        "Anversa"
+    "name:lmo_x_preferred": [
+      "Anversa"
     ],
-    "name:ltz_x_preferred":[
-        "Antwerpen"
+    "name:ltz_x_preferred": [
+      "Antwerpen"
     ],
-    "name:mal_x_preferred":[
-        "\u0d06\u0d28\u0d4d\u0d31\u0d4d\u200c\u0d35\u0d46\u0d7c\u0d2a\u0d4d"
+    "name:mal_x_preferred": [
+      "ആന്റ്‌വെർപ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0905\u0901\u091f\u0935\u0930\u094d\u092a"
+    "name:mar_x_preferred": [
+      "अँटवर्प"
     ],
-    "name:mkd_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:mkd_x_preferred": [
+      "Антверпен"
     ],
-    "name:msa_x_preferred":[
-        "Antwerp"
+    "name:msa_x_preferred": [
+      "Antwerp"
     ],
-    "name:mya_x_preferred":[
-        "\u1021\u1014\u1037\u103a\u1010\u103d\u1015\u103a\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "အန့်တွပ်မြို့"
     ],
-    "name:nah_x_preferred":[
-        "Antwerpen"
+    "name:nah_x_preferred": [
+      "Antwerpen"
     ],
-    "name:nan_x_preferred":[
-        "Antwerpen"
+    "name:nan_x_preferred": [
+      "Antwerpen"
     ],
-    "name:nap_x_preferred":[
-        "Anversa"
+    "name:nap_x_preferred": [
+      "Anversa"
     ],
-    "name:nds_x_preferred":[
-        "Antwarp"
+    "name:nds_x_preferred": [
+      "Antwarp"
     ],
-    "name:nld_x_preferred":[
-        "Antwerpen"
+    "name:nld_x_preferred": [
+      "Antwerpen"
     ],
-    "name:nno_x_preferred":[
-        "Antwerpen"
+    "name:nno_x_preferred": [
+      "Antwerpen"
     ],
-    "name:nob_x_preferred":[
-        "Antwerpen"
+    "name:nob_x_preferred": [
+      "Antwerpen"
     ],
-    "name:nor_x_preferred":[
-        "Antwerpen"
+    "name:nor_x_preferred": [
+      "Antwerpen"
     ],
-    "name:oci_x_preferred":[
-        "Anv\u00e8rs"
+    "name:oci_x_preferred": [
+      "Anvèrs"
     ],
-    "name:oss_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:oss_x_preferred": [
+      "Антверпен"
     ],
-    "name:pcd_x_preferred":[
-        "Anv\u00e9rse"
+    "name:pcd_x_preferred": [
+      "Anvérse"
     ],
-    "name:pnb_x_preferred":[
-        "\u0627\u0646\u0679\u06cc\u0648\u0631\u067e"
+    "name:pnb_x_preferred": [
+      "انٹیورپ"
     ],
-    "name:pol_x_preferred":[
-        "Antwerpia"
+    "name:pol_x_preferred": [
+      "Antwerpia"
     ],
-    "name:por_x_colloquial":[
-        "Antuerpia"
+    "name:por_x_colloquial": [
+      "Antuerpia"
     ],
-    "name:por_x_preferred":[
-        "Antu\u00e9rpia"
+    "name:por_x_preferred": [
+      "Antuérpia"
     ],
-    "name:que_x_preferred":[
-        "Antwerpen"
+    "name:que_x_preferred": [
+      "Antwerpen"
     ],
-    "name:ron_x_preferred":[
-        "Anvers"
+    "name:ron_x_preferred": [
+      "Anvers"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:rus_x_preferred": [
+      "Антверпен"
     ],
-    "name:scn_x_preferred":[
-        "Anversa"
+    "name:scn_x_preferred": [
+      "Anversa"
     ],
-    "name:sco_x_preferred":[
-        "Antwerp"
+    "name:sco_x_preferred": [
+      "Antwerp"
     ],
-    "name:sgs_x_preferred":[
-        "Antverpens"
+    "name:sgs_x_preferred": [
+      "Antverpens"
     ],
-    "name:sin_x_preferred":[
-        "\u0d85\u0db1\u0dca\u0da7\u0dca\u0dc0\u0dbb\u0dca\u0db4\u0dca"
+    "name:sin_x_preferred": [
+      "අන්ට්වර්ප්"
     ],
-    "name:slk_x_preferred":[
-        "Antverpy"
+    "name:slk_x_preferred": [
+      "Antverpy"
     ],
-    "name:slv_x_preferred":[
-        "Antwerpen"
+    "name:slv_x_preferred": [
+      "Antwerpen"
     ],
-    "name:spa_x_preferred":[
-        "Amberes"
+    "name:spa_x_preferred": [
+      "Amberes"
     ],
-    "name:sqi_x_preferred":[
-        "Antwerp"
+    "name:sqi_x_preferred": [
+      "Antwerp"
     ],
-    "name:srp_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:srp_x_preferred": [
+      "Антверпен"
     ],
-    "name:swa_x_preferred":[
-        "Antwerpen"
+    "name:swa_x_preferred": [
+      "Antwerpen"
     ],
-    "name:swe_x_preferred":[
-        "Anvers",
-        "Antwerpen"
+    "name:swe_x_preferred": [
+      "Anvers",
+      "Antwerpen"
     ],
-    "name:szl_x_preferred":[
-        "Antwyrpijo"
+    "name:szl_x_preferred": [
+      "Antwyrpijo"
     ],
-    "name:tam_x_preferred":[
-        "\u0b86\u0ba3\u0bcd\u0b9f\u0bcd\u0bb5\u0bc6\u0bb0\u0bcd\u0baa\u0bcd"
+    "name:tam_x_preferred": [
+      "ஆண்ட்வெர்ப்"
     ],
-    "name:tat_x_preferred":[
-        "Antwerpen"
+    "name:tat_x_preferred": [
+      "Antwerpen"
     ],
-    "name:tat_x_variant":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:tat_x_variant": [
+      "Антверпен"
     ],
-    "name:tel_x_preferred":[
-        "\u0c06\u0c02\u0c1f\u0c4d\u0c35\u0c46\u0c30\u0c4d\u0c2a\u0c4d"
+    "name:tel_x_preferred": [
+      "ఆంట్వెర్ప్"
     ],
-    "name:tgl_x_preferred":[
-        "Amberes"
+    "name:tgl_x_preferred": [
+      "Amberes"
     ],
-    "name:tha_x_preferred":[
-        "\u0e41\u0e2d\u0e19\u0e15\u0e4c\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e1b"
+    "name:tha_x_preferred": [
+      "แอนต์เวิร์ป"
     ],
-    "name:tur_x_preferred":[
-        "Anvers"
+    "name:tur_x_preferred": [
+      "Anvers"
     ],
-    "name:tur_x_variant":[
-        "Antwerp"
+    "name:tur_x_variant": [
+      "Antwerp"
     ],
-    "name:uig_x_preferred":[
-        "Antw\u00e9rp"
+    "name:uig_x_preferred": [
+      "Antwérp"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    "name:ukr_x_preferred": [
+      "Антверпен"
     ],
-    "name:urd_x_preferred":[
-        "\u0627\u0646\u062a\u0648\u0631\u0628"
+    "name:urd_x_preferred": [
+      "انتورب"
     ],
-    "name:uzb_x_preferred":[
-        "Antverpen"
+    "name:uzb_x_preferred": [
+      "Antverpen"
     ],
-    "name:vie_x_preferred":[
-        "Antwerpen"
+    "name:vie_x_preferred": [
+      "Antwerpen"
     ],
-    "name:vls_x_preferred":[
-        "Antwerpn"
+    "name:vls_x_preferred": [
+      "Antwerpn"
     ],
-    "name:vls_x_variant":[
-        "Antwerpen"
+    "name:vls_x_variant": [
+      "Antwerpen"
     ],
-    "name:vol_x_preferred":[
-        "Antwerpen"
+    "name:vol_x_preferred": [
+      "Antwerpen"
     ],
-    "name:war_x_preferred":[
-        "Antwerp"
+    "name:war_x_preferred": [
+      "Antwerp"
     ],
-    "name:wln_x_preferred":[
-        "Anverse"
+    "name:wln_x_preferred": [
+      "Anverse"
     ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05e0\u05d8\u05d5\u05d5\u05e2\u05e8\u05e4\u05df"
+    "name:yid_x_preferred": [
+      "אנטווערפן"
     ],
-    "name:yue_x_preferred":[
-        "\u5b89\u7279\u885e\u666e"
+    "name:yue_x_preferred": [
+      "安特衞普"
     ],
-    "name:zea_x_preferred":[
-        "Antwerpen"
+    "name:zea_x_preferred": [
+      "Antwerpen"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Antwerpen"
+    "name:zho_min_nan_x_preferred": [
+      "Antwerpen"
     ],
-    "name:zho_x_preferred":[
-        "\u5b89\u7279\u536b\u666e"
+    "name:zho_x_preferred": [
+      "安特卫普"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u5b89\u7279\u885e\u666e"
+    "name:zho_yue_x_preferred": [
+      "安特衞普"
     ],
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Belgium",
-    "ne:ADM0_A3":"BEL",
-    "ne:ADM1NAME":"Antwerp",
-    "ne:ADMIN1_COD":0,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-1 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPL",
-    "ne:GEONAMEID":2803138,
-    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
-    "ne:GN_ASCII":"Antwerp",
-    "ne:GN_POP":459805,
-    "ne:GTOPO30":3.0,
-    "ne:ISO_A2":"BE",
-    "ne:LABELRANK":8,
-    "ne:LATITUDE":51.220374,
-    "ne:LONGITUDE":4.415017,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Antwerpen",
-    "ne:MAX_AREAKM":738.0,
-    "ne:MAX_AREAMI":285.0,
-    "ne:MAX_BBXMAX":4.883333,
-    "ne:MAX_BBXMIN":4.184805,
-    "ne:MAX_BBYMAX":51.408333,
-    "ne:MAX_BBYMIN":50.941667,
-    "ne:MAX_NATSCA":20.0,
-    "ne:MAX_PERKM":940.0,
-    "ne:MAX_PERMI":584.0,
-    "ne:MAX_POP10":1121505,
-    "ne:MAX_POP20":1121172,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":4.534281,
-    "ne:MEAN_BBYC":51.142275,
-    "ne:MEGACITY":1,
-    "ne:MEGANAME":"Antwerpen",
-    "ne:MIN_AREAKM":737.0,
-    "ne:MIN_AREAMI":285.0,
-    "ne:MIN_BBXMAX":4.883333,
-    "ne:MIN_BBXMIN":4.184805,
-    "ne:MIN_BBYMAX":51.408333,
-    "ne:MIN_BBYMIN":50.941667,
-    "ne:MIN_PERKM":0.0,
-    "ne:MIN_PERMI":0.0,
-    "ne:NAME":"Antwerpen",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Antwerpen",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":"Anvers",
-    "ne:NATSCALE":30,
-    "ne:NOTE":null,
-    "ne:POP1950":759,
-    "ne:POP1955":786,
-    "ne:POP1960":813,
-    "ne:POP1965":835,
-    "ne:POP1970":855,
-    "ne:POP1975":868,
-    "ne:POP1980":880,
-    "ne:POP1985":881,
-    "ne:POP1990":893,
-    "ne:POP1995":906,
-    "ne:POP2000":912,
-    "ne:POP2005":918,
-    "ne:POP2010":920,
-    "ne:POP2015":920,
-    "ne:POP2020":920,
-    "ne:POP2025":920,
-    "ne:POP2050":920,
-    "ne:POP_MAX":920000,
-    "ne:POP_MIN":459805,
-    "ne:POP_OTHER":928302,
-    "ne:RANK_MAX":11,
-    "ne:RANK_MIN":10,
-    "ne:SCALERANK":6,
-    "ne:SOV0NAME":"Belgium",
-    "ne:SOV_A3":"BEL",
-    "ne:TIMEZONE":"Europe/Brussels",
-    "ne:UN_ADM0":"Belgium",
-    "ne:UN_FID":383,
-    "ne:UN_LAT":51.2,
-    "ne:UN_LONG":4.42,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
-    "qs:a1":"*Antwerpen",
-    "qs:a1r":"0Vlaams Gewest",
-    "qs:a2":"Antwerpen",
-    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
-    "qs:la":"Kalmthout",
-    "qs:la_lc":"*BE211022",
-    "qs:level":"locality",
-    "qs:loc":"Antwerpen",
-    "qs:loc_alt":"Antwerpen",
-    "qs:pop":0,
-    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
-    ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85681715,
-        102191581,
-        1108830423,
-        85632997,
-        404227357,
-        102050005
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "dbp:id":"Antwerp",
-        "fb:id":"en.antwerp",
-        "fct:id":"036a1260-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":2803138,
-        "gp:id":966591,
-        "nyt:id":"51450942640668750871",
-        "qs_pg:id":474759,
-        "wd:id":"Q12892",
-        "wk:page":"Antwerp"
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Belgium",
+    "ne:ADM0_A3": "BEL",
+    "ne:ADM1NAME": "Antwerp",
+    "ne:ADMIN1_COD": 0,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-1 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPL",
+    "ne:GEONAMEID": 2803138,
+    "ne:GEONAMESNO": "GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII": "Antwerp",
+    "ne:GN_POP": 459805,
+    "ne:GTOPO30": 3,
+    "ne:ISO_A2": "BE",
+    "ne:LABELRANK": 8,
+    "ne:LATITUDE": 51.220374,
+    "ne:LONGITUDE": 4.415017,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Antwerpen",
+    "ne:MAX_AREAKM": 738,
+    "ne:MAX_AREAMI": 285,
+    "ne:MAX_BBXMAX": 4.883333,
+    "ne:MAX_BBXMIN": 4.184805,
+    "ne:MAX_BBYMAX": 51.408333,
+    "ne:MAX_BBYMIN": 50.941667,
+    "ne:MAX_NATSCA": 20,
+    "ne:MAX_PERKM": 940,
+    "ne:MAX_PERMI": 584,
+    "ne:MAX_POP10": 1121505,
+    "ne:MAX_POP20": 1121172,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 4.534281,
+    "ne:MEAN_BBYC": 51.142275,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "Antwerpen",
+    "ne:MIN_AREAKM": 737,
+    "ne:MIN_AREAMI": 285,
+    "ne:MIN_BBXMAX": 4.883333,
+    "ne:MIN_BBXMIN": 4.184805,
+    "ne:MIN_BBYMAX": 51.408333,
+    "ne:MIN_BBYMIN": 50.941667,
+    "ne:MIN_PERKM": 0,
+    "ne:MIN_PERMI": 0,
+    "ne:NAME": "Antwerpen",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Antwerpen",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": "Anvers",
+    "ne:NATSCALE": 30,
+    "ne:NOTE": null,
+    "ne:POP1950": 759,
+    "ne:POP1955": 786,
+    "ne:POP1960": 813,
+    "ne:POP1965": 835,
+    "ne:POP1970": 855,
+    "ne:POP1975": 868,
+    "ne:POP1980": 880,
+    "ne:POP1985": 881,
+    "ne:POP1990": 893,
+    "ne:POP1995": 906,
+    "ne:POP2000": 912,
+    "ne:POP2005": 918,
+    "ne:POP2010": 920,
+    "ne:POP2015": 920,
+    "ne:POP2020": 920,
+    "ne:POP2025": 920,
+    "ne:POP2050": 920,
+    "ne:POP_MAX": 920000,
+    "ne:POP_MIN": 459805,
+    "ne:POP_OTHER": 928302,
+    "ne:RANK_MAX": 11,
+    "ne:RANK_MIN": 10,
+    "ne:SCALERANK": 6,
+    "ne:SOV0NAME": "Belgium",
+    "ne:SOV_A3": "BEL",
+    "ne:TIMEZONE": "Europe/Brussels",
+    "ne:UN_ADM0": "Belgium",
+    "ne:UN_FID": 383,
+    "ne:UN_LAT": 51.2,
+    "ne:UN_LONG": 4.42,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "België#Belgique#Belgien",
+    "qs:a1": "*Antwerpen",
+    "qs:a1r": "0Vlaams Gewest",
+    "qs:a2": "Antwerpen",
+    "qs:adm0": "België#Belgique#Belgien",
+    "qs:la": "Kalmthout",
+    "qs:la_lc": "*BE211022",
+    "qs:level": "locality",
+    "qs:loc": "Antwerpen",
+    "qs:loc_alt": "Antwerpen",
+    "qs:pop": 0,
+    "qs:source": "LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
+    ],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85681715,
+      102191581,
+      1108830423,
+      85632997,
+      404227357,
+      102050005
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "dbp:id": "Antwerp",
+      "fb:id": "en.antwerp",
+      "fct:id": "036a1260-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 2803138,
+      "gp:id": 966591,
+      "nyt:id": "51450942640668750871",
+      "qs_pg:id": 474759,
+      "wd:id": "Q12892",
+      "wk:page": "Antwerp"
     },
-    "wof:country":"BE",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "BE",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b23ffaec48010e017f130f003dbaf14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997,
-            "county_id":102050005,
-            "localadmin_id":1108830423,
-            "locality_id":101748099,
-            "macroregion_id":404227357,
-            "region_id":85681715
-        }
+    "wof:geomhash": "0b23ffaec48010e017f130f003dbaf14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "county_id": 102050005,
+        "localadmin_id": 1108830423,
+        "locality_id": 101748099,
+        "macroregion_id": 404227357,
+        "region_id": 85681715
+      }
     ],
-    "wof:id":101748099,
-    "wof:lang":[
-        "dut"
+    "wof:id": 101748099,
+    "wof:lang": [
+      "dut"
     ],
-    "wof:lastmodified":1611601213,
-    "wof:megacity":1,
-    "wof:name":"Antwerpen",
-    "wof:parent_id":1108830423,
-    "wof:placetype":"locality",
-    "wof:population":459805,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-be",
-    "wof:scale":6,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906515,
+    "wof:megacity": 1,
+    "wof:name": "Antwerpen",
+    "wof:parent_id": 1108830423,
+    "wof:placetype": "locality",
+    "wof:population": 459805,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-be",
+    "wof:scale": 6,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     4.28272,
     51.069689,
     4.559664,
     51.342031
-],
+  ],
   "geometry": {"coordinates":[[[4.388507,51.114914],[4.388616,51.114018],[4.386048,51.113894],[4.385785,51.113732],[4.38613,51.110901],[4.383462,51.109271],[4.383354,51.110159],[4.371959,51.109606],[4.372287,51.106919],[4.373712,51.106988],[4.373821,51.106092],[4.375245,51.106161],[4.375346,51.105336],[4.375658,51.10528],[4.378203,51.105404],[4.378275,51.104816],[4.379599,51.10458],[4.379625,51.104571],[4.381161,51.104646],[4.381236,51.104026],[4.384283,51.102995],[4.390305,51.100957],[4.38895,51.100518],[4.388831,51.100479],[4.388936,51.099616],[4.386088,51.099478],[4.386197,51.098582],[4.385995,51.098572],[4.386021,51.098512],[4.384855,51.097834],[4.3851,51.095826],[4.386524,51.095895],[4.386742,51.094103],[4.383894,51.093965],[4.384221,51.091277],[4.382797,51.091208],[4.382827,51.090961],[4.38709,51.088829],[4.390797,51.088829],[4.390417,51.08941],[4.391635,51.091888],[4.388821,51.092968],[4.391773,51.093285],[4.395787,51.092358],[4.393763,51.08995],[4.39699,51.089829],[4.397967,51.089517],[4.403003,51.090701],[4.412363,51.092106],[4.418447,51.091169],[4.419383,51.086021],[4.418821,51.08574],[4.420355,51.085814],[4.420537,51.087043],[4.420251,51.089413],[4.420893,51.089444],[4.420985,51.090063],[4.421608,51.090029],[4.421566,51.090378],[4.42299,51.090446],[4.423207,51.088654],[4.42463,51.088723],[4.424739,51.087827],[4.423315,51.087759],[4.423423,51.086863],[4.422657,51.086826],[4.42275,51.084265],[4.422314,51.084193],[4.420792,51.083943],[4.419038,51.081086],[4.417659,51.080556],[4.419529,51.079192],[4.417565,51.077685],[4.417364,51.077765],[4.41377,51.079189],[4.412901,51.079147],[4.412852,51.079553],[4.412421,51.079724],[4.408583,51.07934],[4.408631,51.078941],[4.407257,51.078875],[4.405887,51.077956],[4.405893,51.077908],[4.40581,51.077904],[4.404563,51.077067],[4.404578,51.076943],[4.404363,51.076933],[4.403239,51.076179],[4.403263,51.075979],[4.402915,51.075962],[4.402587,51.075741],[4.400247,51.075455],[4.399406,51.075792],[4.39757,51.075704],[4.397464,51.07657],[4.397399,51.076596],[4.394614,51.076462],[4.394505,51.077358],[4.393082,51.077289],[4.392973,51.078185],[4.39155,51.078116],[4.391444,51.078982],[4.391379,51.079009],[4.390017,51.078943],[4.389939,51.079585],[4.389372,51.079812],[4.388485,51.07977],[4.388434,51.080188],[4.387366,51.080616],[4.385529,51.080527],[4.385424,51.081395],[4.385367,51.081418],[4.385348,51.08142],[4.383997,51.081354],[4.383967,51.081595],[4.380212,51.082072],[4.379617,51.082043],[4.379604,51.082149],[4.375078,51.082724],[4.37239,51.082593],[4.372609,51.080802],[4.369762,51.080664],[4.369871,51.079768],[4.368448,51.079699],[4.368776,51.077011],[4.367352,51.076942],[4.36768,51.074254],[4.369104,51.074324],[4.369213,51.073428],[4.370636,51.073497],[4.370745,51.072601],[4.373592,51.072739],[4.373919,51.070052],[4.36644,51.069689],[4.365761,51.070755],[4.363618,51.075041],[4.35872,51.079634],[4.35076,51.08545],[4.344637,51.089737],[4.339739,51.092492],[4.334228,51.094023],[4.329023,51.09586],[4.324718,51.097621],[4.324526,51.099183],[4.32595,51.099253],[4.32584,51.100149],[4.327264,51.100219],[4.326965,51.102643],[4.326485,51.102884],[4.325509,51.102836],[4.325438,51.10341],[4.32485,51.103705],[4.323975,51.103662],[4.323911,51.104177],[4.323215,51.104526],[4.32244,51.104488],[4.322384,51.104948],[4.316886,51.10521],[4.311738,51.106146],[4.310334,51.109422],[4.312206,51.112699],[4.31361,51.115975],[4.312206,51.118783],[4.31127,51.123931],[4.318758,51.126271],[4.324843,51.130015],[4.32499,51.13033],[4.324971,51.130485],[4.324601,51.130516],[4.324914,51.13095],[4.324829,51.13164],[4.325435,51.13167],[4.325967,51.132404],[4.328399,51.137573],[4.328332,51.138119],[4.328645,51.138135],[4.330927,51.144524],[4.331549,51.145147],[4.330642,51.14506],[4.331381,51.148295],[4.331064,51.150869],[4.331979,51.150914],[4.332313,51.152374],[4.331828,51.156313],[4.332251,51.156334],[4.331428,51.161701],[4.331166,51.161688],[4.330283,51.168854],[4.330943,51.168886],[4.331092,51.173936],[4.330716,51.176985],[4.331405,51.177019],[4.331878,51.179199],[4.331591,51.181534],[4.332394,51.181573],[4.332482,51.181979],[4.332822,51.181934],[4.332799,51.181966],[4.334203,51.188051],[4.338883,51.192731],[4.344197,51.19572],[4.344094,51.196562],[4.345521,51.196631],[4.345411,51.197527],[4.349692,51.197735],[4.349582,51.198631],[4.353863,51.198839],[4.353753,51.199735],[4.359461,51.200012],[4.359351,51.200908],[4.363633,51.201116],[4.363523,51.202012],[4.369232,51.202289],[4.369122,51.203185],[4.371977,51.203323],[4.371867,51.204219],[4.374721,51.204357],[4.374612,51.205253],[4.377466,51.205391],[4.377357,51.206287],[4.380212,51.206425],[4.380102,51.207321],[4.381529,51.20739],[4.38142,51.208286],[4.382847,51.208355],[4.382738,51.20925],[4.385593,51.209389],[4.385483,51.210284],[4.386911,51.210353],[4.386801,51.211249],[4.388229,51.211318],[4.388119,51.212214],[4.389307,51.212271],[4.389523,51.212483],[4.389328,51.214074],[4.390756,51.214143],[4.390646,51.215039],[4.392074,51.215108],[4.391855,51.2169],[4.393283,51.216969],[4.393064,51.21876],[4.394492,51.218829],[4.394274,51.220621],[4.395701,51.22069],[4.395483,51.222481],[4.396911,51.22255],[4.396692,51.224342],[4.39812,51.224411],[4.397902,51.226202],[4.39933,51.226271],[4.399111,51.228063],[4.400539,51.228132],[4.400321,51.229923],[4.401749,51.229992],[4.400657,51.23895],[4.396372,51.238744],[4.396262,51.23964],[4.391977,51.239433],[4.391868,51.240329],[4.387583,51.240122],[4.387473,51.241018],[4.381759,51.240742],[4.38165,51.241637],[4.375936,51.241361],[4.375826,51.242257],[4.367256,51.241842],[4.367146,51.242737],[4.360003,51.242391],[4.359893,51.243287],[4.357037,51.243148],[4.356926,51.244044],[4.354069,51.243905],[4.353959,51.244801],[4.351102,51.244662],[4.350992,51.245558],[4.349564,51.245488],[4.349453,51.246384],[4.348025,51.246315],[4.347914,51.247211],[4.346486,51.247141],[4.346376,51.248037],[4.344947,51.247967],[4.344837,51.248863],[4.343408,51.248794],[4.343298,51.249689],[4.341869,51.24962],[4.341759,51.250516],[4.34033,51.250446],[4.340219,51.251342],[4.338791,51.251272],[4.33868,51.252168],[4.337252,51.252098],[4.337141,51.252994],[4.334284,51.252855],[4.334173,51.253751],[4.332744,51.253681],[4.332634,51.254577],[4.331205,51.254507],[4.331094,51.255403],[4.328237,51.255263],[4.328126,51.256159],[4.325268,51.25602],[4.325157,51.256915],[4.3223,51.256776],[4.322189,51.257672],[4.317902,51.257462],[4.317791,51.258358],[4.314934,51.258218],[4.314823,51.259114],[4.313394,51.259044],[4.313283,51.25994],[4.311854,51.25987],[4.311743,51.260765],[4.310314,51.260696],[4.309981,51.263383],[4.31141,51.263453],[4.311076,51.26614],[4.312506,51.26621],[4.312394,51.267105],[4.313824,51.267175],[4.313713,51.268071],[4.315142,51.268141],[4.31492,51.269932],[4.316349,51.270002],[4.316238,51.270898],[4.317667,51.270968],[4.317556,51.271863],[4.318986,51.271933],[4.318764,51.273725],[4.320193,51.273795],[4.320082,51.27469],[4.322941,51.27483],[4.32283,51.275726],[4.324259,51.275795],[4.324038,51.277587],[4.326897,51.277726],[4.326564,51.280413],[4.329423,51.280553],[4.329091,51.28324],[4.327661,51.28317],[4.32755,51.284066],[4.326121,51.283996],[4.325788,51.286684],[4.324358,51.286614],[4.324137,51.288405],[4.322707,51.288335],[4.322596,51.289231],[4.321166,51.289161],[4.320944,51.290953],[4.319514,51.290883],[4.319317,51.292471],[4.318718,51.292646],[4.317862,51.292605],[4.317825,51.292907],[4.309866,51.295228],[4.296293,51.300844],[4.285997,51.303653],[4.284592,51.309737],[4.28272,51.318161],[4.28272,51.32799],[4.283188,51.336882],[4.287401,51.342031],[4.293953,51.341094],[4.305654,51.325182],[4.313888,51.322148],[4.314195,51.322163],[4.314084,51.323059],[4.3241,51.323548],[4.323989,51.324443],[4.338298,51.32514],[4.337966,51.327827],[4.325087,51.3272],[4.324309,51.33347],[4.320016,51.333261],[4.319905,51.334156],[4.327061,51.334505],[4.32695,51.335401],[4.339831,51.336028],[4.340053,51.334237],[4.341484,51.334306],[4.341595,51.33341],[4.343026,51.33348],[4.343137,51.332584],[4.344568,51.332654],[4.344789,51.330862],[4.346221,51.330932],[4.346442,51.32914],[4.349304,51.329279],[4.349415,51.328384],[4.353417,51.328578],[4.355176,51.326451],[4.355402,51.326528],[4.355581,51.325078],[4.351288,51.32487],[4.352061,51.3186],[4.353492,51.318669],[4.353713,51.316878],[4.35202,51.316796],[4.360853,51.310991],[4.373683,51.305801],[4.390839,51.299025],[4.405544,51.293115],[4.406002,51.292371],[4.407418,51.292439],[4.406792,51.292069],[4.412434,51.28954],[4.411496,51.292572],[4.412704,51.293424],[4.412793,51.292697],[4.414223,51.292766],[4.414854,51.287583],[4.412298,51.287854],[4.4127,51.286671],[4.411086,51.285748],[4.406916,51.279595],[4.406912,51.274541],[4.406105,51.274121],[4.405836,51.273446],[4.408655,51.271592],[4.408252,51.271085],[4.411506,51.267857],[4.412413,51.266957],[4.414681,51.265756],[4.414964,51.265606],[4.418724,51.265435],[4.418988,51.265435],[4.419688,51.265435],[4.419703,51.265096],[4.421892,51.265201],[4.422001,51.264305],[4.427718,51.264579],[4.427609,51.265475],[4.429038,51.265544],[4.429147,51.264648],[4.432005,51.264785],[4.432223,51.262993],[4.43651,51.263198],[4.436076,51.266782],[4.440364,51.266987],[4.441015,51.261612],[4.442504,51.261683],[4.444373,51.261967],[4.444894,51.261797],[4.445302,51.261817],[4.445322,51.261657],[4.449704,51.260225],[4.455797,51.258233],[4.459327,51.25708],[4.465041,51.255212],[4.471747,51.251168],[4.471744,51.249814],[4.466374,51.25007],[4.468802,51.246136],[4.468398,51.245305],[4.475423,51.245358],[4.480284,51.2431],[4.48338,51.243412],[4.484747,51.244385],[4.491294,51.242286],[4.497403,51.242343],[4.495728,51.241191],[4.496586,51.240837],[4.499165,51.240922],[4.499959,51.242044],[4.50182,51.241771],[4.502288,51.243052],[4.500194,51.244389],[4.498312,51.243718],[4.497242,51.244985],[4.493347,51.244397],[4.488115,51.246007],[4.484088,51.246262],[4.486109,51.24904],[4.48544,51.249882],[4.481409,51.248624],[4.479797,51.248795],[4.478789,51.250904],[4.481377,51.251336],[4.480165,51.254117],[4.482507,51.255235],[4.48242,51.256165],[4.485198,51.258309],[4.488195,51.258023],[4.489428,51.255539],[4.494614,51.255513],[4.496868,51.25706],[4.497561,51.257536],[4.497506,51.257992],[4.498277,51.258028],[4.498889,51.258448],[4.498828,51.258955],[4.499686,51.258996],[4.500217,51.25936],[4.50015,51.259919],[4.501096,51.259964],[4.501545,51.260272],[4.501793,51.260442],[4.507541,51.262853],[4.511888,51.260995],[4.510856,51.258794],[4.514011,51.259453],[4.513522,51.256173],[4.511774,51.255753],[4.511362,51.252469],[4.517132,51.25145],[4.518204,51.250436],[4.517792,51.24791],[4.513361,51.247495],[4.51255,51.245809],[4.508792,51.246068],[4.507913,51.244969],[4.507717,51.244724],[4.507796,51.244062],[4.507163,51.244032],[4.505691,51.242192],[4.505114,51.242465],[4.505305,51.240872],[4.508975,51.240586],[4.509,51.240515],[4.510448,51.236525],[4.510623,51.236379],[4.5102,51.235181],[4.512673,51.234428],[4.511231,51.233247],[4.515006,51.234162],[4.521742,51.232066],[4.522118,51.232404],[4.522151,51.232126],[4.525007,51.232261],[4.525114,51.231365],[4.526543,51.231432],[4.526649,51.23054],[4.526659,51.230536],[4.527247,51.230564],[4.527304,51.230336],[4.548602,51.223709],[4.54877,51.223491],[4.548819,51.223477],[4.55647,51.221291],[4.556702,51.219334],[4.559558,51.219468],[4.559664,51.218572],[4.558236,51.218505],[4.558342,51.217609],[4.554058,51.217408],[4.554165,51.216512],[4.551309,51.216378],[4.551203,51.217274],[4.542635,51.216872],[4.542529,51.217768],[4.543957,51.217835],[4.543636,51.220533],[4.543067,51.220993],[4.537435,51.222264],[4.537635,51.222944],[4.531894,51.222674],[4.532001,51.221778],[4.524861,51.221442],[4.524647,51.223234],[4.523219,51.223166],[4.523154,51.223713],[4.522677,51.222558],[4.513184,51.222023],[4.509271,51.219717],[4.508867,51.219479],[4.507775,51.220703],[4.502943,51.220204],[4.50406,51.223035],[4.502343,51.223563],[4.500786,51.223909],[4.503012,51.224014],[4.502369,51.22939],[4.498085,51.229187],[4.498029,51.229654],[4.495542,51.229968],[4.493693,51.22988],[4.4938,51.228984],[4.492372,51.228916],[4.492587,51.227125],[4.486874,51.226854],[4.487088,51.225073],[4.489782,51.226403],[4.491958,51.221689],[4.494659,51.221817],[4.494552,51.222713],[4.495918,51.222777],[4.496985,51.21744],[4.493852,51.211173],[4.494063,51.211197],[4.495398,51.209172],[4.495389,51.205632],[4.493243,51.205804],[4.491763,51.204205],[4.489348,51.203786],[4.490283,51.202267],[4.488671,51.201512],[4.496574,51.197457],[4.496304,51.196953],[4.49952,51.195938],[4.499912,51.192315],[4.501789,51.192143],[4.502323,51.191216],[4.497495,51.191136],[4.497598,51.190421],[4.497693,51.189763],[4.495308,51.187609],[4.495881,51.187636],[4.495988,51.18674],[4.49028,51.18647],[4.490495,51.184678],[4.487641,51.184542],[4.487856,51.182751],[4.485003,51.182615],[4.484788,51.184407],[4.480507,51.184203],[4.480615,51.183308],[4.477761,51.183172],[4.477224,51.187651],[4.472943,51.187448],[4.473051,51.186552],[4.471624,51.186484],[4.471839,51.184692],[4.470412,51.184624],[4.47052,51.183728],[4.469093,51.18366],[4.469201,51.182764],[4.467774,51.182696],[4.468097,51.180009],[4.469524,51.180077],[4.469632,51.179181],[4.471058,51.179249],[4.471166,51.178353],[4.472593,51.178421],[4.472808,51.176629],[4.474235,51.176697],[4.474342,51.175801],[4.475769,51.175869],[4.475948,51.174371],[4.476387,51.174096],[4.47741,51.174145],[4.4775,51.1734],[4.477725,51.173259],[4.478944,51.173317],[4.479051,51.172429],[4.479063,51.172421],[4.490463,51.172963],[4.49057,51.172067],[4.491997,51.172135],[4.492211,51.170343],[4.497917,51.170614],[4.497703,51.172405],[4.499129,51.172473],[4.499236,51.171577],[4.503515,51.17178],[4.503408,51.172676],[4.507688,51.172878],[4.508009,51.17019],[4.512288,51.170393],[4.512074,51.172185],[4.513501,51.172252],[4.513607,51.171356],[4.519313,51.171626],[4.519633,51.168938],[4.508222,51.168399],[4.508543,51.165711],[4.515674,51.166048],[4.516101,51.162464],[4.518954,51.162599],[4.51906,51.161703],[4.523339,51.161905],[4.523445,51.161009],[4.527724,51.161211],[4.52783,51.160315],[4.529256,51.160382],[4.529363,51.159486],[4.533641,51.159688],[4.533747,51.158792],[4.526617,51.158456],[4.526511,51.159351],[4.525085,51.159284],[4.524978,51.16018],[4.517848,51.159844],[4.517634,51.161636],[4.513356,51.161433],[4.513676,51.158745],[4.517954,51.158948],[4.518168,51.157156],[4.519594,51.157223],[4.5197,51.156327],[4.521126,51.156394],[4.521233,51.155498],[4.524085,51.155633],[4.524298,51.153841],[4.521446,51.153707],[4.521553,51.152811],[4.520127,51.152743],[4.52002,51.153639],[4.518594,51.153572],[4.518488,51.154468],[4.51421,51.154266],[4.514317,51.15337],[4.511465,51.153235],[4.511358,51.154131],[4.512784,51.154198],[4.512357,51.157782],[4.505227,51.157445],[4.50512,51.158341],[4.503694,51.158273],[4.50348,51.160065],[4.499202,51.159862],[4.499309,51.158966],[4.497883,51.158899],[4.498204,51.156211],[4.501056,51.156346],[4.50127,51.154554],[4.502696,51.154622],[4.50291,51.15283],[4.504336,51.152897],[4.504442,51.152002],[4.50872,51.152204],[4.508827,51.151308],[4.507401,51.151241],[4.507722,51.148553],[4.506296,51.148485],[4.506189,51.149381],[4.504763,51.149314],[4.504656,51.15021],[4.501805,51.150075],[4.501591,51.151866],[4.495888,51.151596],[4.495995,51.1507],[4.493143,51.150565],[4.493036,51.151461],[4.49161,51.151393],[4.491289,51.154081],[4.489863,51.154013],[4.489748,51.154973],[4.485609,51.153612],[4.485653,51.153243],[4.486399,51.151963],[4.484475,51.151103],[4.48478,51.148561],[4.485377,51.147493],[4.486336,51.147539],[4.486551,51.145747],[4.487976,51.145814],[4.488191,51.144023],[4.489616,51.14409],[4.489831,51.142298],[4.489526,51.142284],[4.491059,51.140583],[4.488644,51.139069],[4.485568,51.140927],[4.48398,51.141119],[4.48281,51.141064],[4.482918,51.140168],[4.480679,51.140061],[4.480396,51.139752],[4.477876,51.139756],[4.477717,51.13992],[4.475523,51.142201],[4.470029,51.141362],[4.466279,51.14145],[4.462465,51.142845],[4.464988,51.146827],[4.459303,51.14484],[4.453426,51.145505],[4.452089,51.146939],[4.447503,51.145753],[4.446412,51.145692],[4.437081,51.145176],[4.436407,51.146957],[4.434798,51.14688],[4.43469,51.147776],[4.433264,51.147708],[4.433156,51.148603],[4.428879,51.148398],[4.428554,51.151086],[4.424277,51.15088],[4.424169,51.151776],[4.422743,51.151708],[4.422704,51.152029],[4.422085,51.152012],[4.421285,51.15344],[4.4211,51.153431],[4.421048,51.153862],[4.420301,51.155195],[4.419457,51.155154],[4.419349,51.15605],[4.415071,51.155844],[4.41518,51.154948],[4.412328,51.154811],[4.412111,51.156603],[4.409259,51.156465],[4.40915,51.157361],[4.407724,51.157292],[4.407507,51.159084],[4.403664,51.158899],[4.39905,51.157861],[4.399169,51.15688],[4.397743,51.156811],[4.397961,51.155019],[4.396536,51.15495],[4.396645,51.154055],[4.395219,51.153986],[4.395328,51.15309],[4.393902,51.153021],[4.394107,51.151338],[4.39847,51.150763],[4.401294,51.15087],[4.401289,51.150674],[4.401358,51.150678],[4.401684,51.14799],[4.397848,51.147805],[4.397411,51.147759],[4.397735,51.145096],[4.406287,51.145509],[4.406396,51.144613],[4.409247,51.144751],[4.409356,51.143855],[4.415058,51.144129],[4.415166,51.143233],[4.416592,51.143302],[4.4167,51.142406],[4.418126,51.142475],[4.418234,51.141579],[4.425362,51.141922],[4.425578,51.14013],[4.422728,51.139993],[4.422619,51.140889],[4.418343,51.140683],[4.41856,51.138891],[4.411434,51.138548],[4.411325,51.139444],[4.405968,51.139186],[4.402889,51.138074],[4.404079,51.128282],[4.399804,51.128075],[4.399695,51.128971],[4.40112,51.12904],[4.400467,51.134415],[4.398014,51.134297],[4.398357,51.134156],[4.396881,51.130196],[4.395289,51.129847],[4.395311,51.129661],[4.39419,51.129606],[4.393801,51.129521],[4.393743,51.129585],[4.392461,51.129523],[4.39257,51.128627],[4.391294,51.128565],[4.391657,51.127499],[4.391316,51.127159],[4.391619,51.124664],[4.392854,51.124135],[4.401664,51.124561],[4.401773,51.123665],[4.404623,51.123802],[4.404732,51.122907],[4.405902,51.122963],[4.405441,51.12204],[4.401991,51.121873],[4.401882,51.122769],[4.396183,51.122494],[4.396836,51.117119],[4.402535,51.117394],[4.402644,51.116498],[4.402671,51.1165],[4.402209,51.115576],[4.398479,51.115396],[4.39837,51.116292],[4.392671,51.116016],[4.39278,51.115121],[4.388507,51.114914]],[[4.388507,51.114914],[4.388451,51.115372],[4.387638,51.114872],[4.388507,51.114914]],[[4.392562,51.116912],[4.392516,51.117297],[4.391497,51.116861],[4.392562,51.116912]],[[4.391247,51.115948],[4.391154,51.116713],[4.38943,51.115975],[4.389227,51.11585],[4.391247,51.115948]],[[4.354393,51.194521],[4.354303,51.195256],[4.352876,51.195187],[4.352766,51.196083],[4.349714,51.195934],[4.354393,51.194521]],[[4.330751,51.304709],[4.330721,51.304947],[4.330535,51.304938],[4.330751,51.304709]],[[4.329094,51.306467],[4.329069,51.306668],[4.328911,51.306661],[4.329094,51.306467]]],"type":"Polygon"}
 }

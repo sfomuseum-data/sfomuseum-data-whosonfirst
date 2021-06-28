@@ -2,150 +2,151 @@
   "id": 102533567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000459,
-    "geom:area_square_m":5070725.803604,
-    "geom:bbox":"-80.10966,26.677147,-80.074332,26.693958",
-    "geom:latitude":26.684441,
-    "geom:longitude":-80.093424,
-    "gn:elevation":5,
-    "iso:country":"US",
-    "lbl:latitude":26.688269,
-    "lbl:longitude":-80.092553,
-    "mps:latitude":26.688269,
-    "mps:longitude":-80.092553,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0628\u0627\u0644\u0645 \u0628\u064a\u062a\u0634 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0004589631225000684,
+    "geom:area_square_m": 5070725.803604,
+    "geom:bbox": "-80.109660,26.677147,-80.074332,26.693958",
+    "geom:latitude": 26.68444090250138,
+    "geom:longitude": -80.09342433423217,
+    "gn:elevation": 5,
+    "iso:country": "US",
+    "lbl:latitude": 26.688269,
+    "lbl:longitude": -80.092553,
+    "mps:latitude": 26.688269,
+    "mps:longitude": -80.092553,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار بالم بيتش الدولي"
     ],
-    "name:bos_x_preferred":[
-        "Me\u0111unarodni aerodrom Palm Beach"
+    "name:bos_x_preferred": [
+      "Međunarodni aerodrom Palm Beach"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Palm Beach"
+    "name:deu_x_preferred": [
+      "Flughafen Palm Beach"
     ],
-    "name:eng_x_preferred":[
-        "Palm Beach International Airport"
+    "name:eng_x_preferred": [
+      "Palm Beach International Airport"
     ],
-    "name:eng_x_variant":[
-        "PBI",
-        "KPBI"
+    "name:eng_x_variant": [
+      "PBI",
+      "KPBI"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u0644\u0645 \u0628\u06cc\u0686"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی پالم بیچ"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport international de Palm Beach"
+    "name:fra_x_preferred": [
+      "Aéroport international de Palm Beach"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport international de Palm Beach"
+    "name:fra_x_variant": [
+      "aéroport international de Palm Beach"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale di Palm Beach"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale di Palm Beach"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d1\u30fc\u30e0\u30d3\u30fc\u30c1\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "パームビーチ国際空港"
     ],
-    "name:nld_x_preferred":[
-        "Palm Beach International Airport"
+    "name:nld_x_preferred": [
+      "Palm Beach International Airport"
     ],
-    "name:nob_x_preferred":[
-        "Palm Beach internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Palm Beach internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Palm Beach"
+    "name:pol_x_preferred": [
+      "Port lotniczy Palm Beach"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional de Palm Beach"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Palm Beach"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Palm Beach"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Palm Beach"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Palm Beach"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Palm Beach"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u043e\u043b\u043c \u0431\u0438\u0447"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ полм бич"
     ],
-    "name:urd_x_preferred":[
-        "\u067e\u0627\u0645 \u0628\u06cc\u0686 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "پام بیچ انٹرنیشنل ایئرپورٹ"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Palm Beach"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Palm Beach"
     ],
-    "name:zho_x_preferred":[
-        "\u68d5\u6ada\u7058\uff08\u897f\uff09"
+    "name:zho_x_preferred": [
+      "棕櫚灘（西）"
     ],
-    "oa:elevation_ft":"19",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":184,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Palm Beach International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":2351,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587852,
-        "planet_id":1,
-        "state_id":2347568,
-        "suburb_id":2467668
+    "oa:elevation_ft": "19",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 184,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Palm Beach International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 2351,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587852,
+      "planet_id": 1,
+      "state_id": 2347568,
+      "suburb_id": 2467668
     },
-    "wof:belongsto":[
-        85811465,
-        102191575,
-        85633793,
-        85932065,
-        102085845,
-        85688651
+    "wof:belongsto": [
+      85811465,
+      102191575,
+      85633793,
+      85932065,
+      102085845,
+      85688651
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"PBI",
-        "gn:id":6298874,
-        "gp:id":12521288,
-        "iata:code":"PBI",
-        "icao:code":"KPBI",
-        "oa:id":"3766",
-        "wd:id":"Q1432310",
-        "wk:page":"Palm_Beach_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "PBI",
+      "gn:id": 6298874,
+      "gp:id": 12521288,
+      "iata:code": "PBI",
+      "icao:code": "KPBI",
+      "oa:id": "3766",
+      "wd:id": "Q1432310",
+      "wk:page": "Palm_Beach_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8ebe07acfbf96d83cc6ff506d144309b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533567,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085845,
-            "locality_id":85932065,
-            "neighbourhood_id":85811465,
-            "region_id":85688651
-        }
+    "wof:country": "US",
+    "wof:created": 1624906850,
+    "wof:geomhash": "8ebe07acfbf96d83cc6ff506d144309b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533567,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085845,
+        "locality_id": 85932065,
+        "neighbourhood_id": 85811465,
+        "region_id": 85688651
+      }
     ],
-    "wof:id":102533567,
-    "wof:lastmodified":1611601235,
-    "wof:name":"Palm Beach International Airport",
-    "wof:parent_id":85811465,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102533567,
+    "wof:lastmodified": 1624906850,
+    "wof:name": "Palm Beach International Airport",
+    "wof:parent_id": 85811465,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -80.10966,
     26.677147,
     -80.074332,
     26.693958
-],
-  "geometry": {"coordinates":[[[[-80.078537,26.690608],[-80.078514,26.685927],[-80.074332,26.685306],[-80.074579,26.681152],[-80.07653999999999,26.678595],[-80.0857,26.677147],[-80.104322,26.677654],[-80.10966000000001,26.67847],[-80.109565,26.691493],[-80.10475099999999,26.693958],[-80.10056299999999,26.691205],[-80.091787,26.691233],[-80.078537,26.690608]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-80.078537,26.690608],[-80.078514,26.685927],[-80.074332,26.685306],[-80.074579,26.681152],[-80.07654,26.678595],[-80.0857,26.677147],[-80.104322,26.677654],[-80.10966,26.67847],[-80.109565,26.691493],[-80.104751,26.693958],[-80.100563,26.691205],[-80.091787,26.691233],[-80.078537,26.690608]]]],"type":"MultiPolygon"}
 }

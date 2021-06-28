@@ -2,696 +2,697 @@
   "id": 85676611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.183271,
-    "geom:area_square_m":1759227969.655388,
-    "geom:bbox":"125.575918,38.894989,126.389143,39.283522",
-    "geom:latitude":39.077338,
-    "geom:longitude":125.921317,
-    "gn:id":"",
-    "iso:country":"KP",
-    "label:eng_x_preferred_longname":[
-        "P'y\u014fngyang Special City"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.18327124784799972,
+    "geom:area_square_m": 1759227969.655388,
+    "geom:bbox": "125.575918,38.894989,126.389143,39.283522",
+    "geom:latitude": 39.077337868939324,
+    "geom:longitude": 125.92131697600944,
+    "gn:id": "",
+    "iso:country": "KP",
+    "label:eng_x_preferred_longname": [
+      "P'yŏngyang Special City"
     ],
-    "label:eng_x_preferred_placetype":[
-        "special city"
+    "label:eng_x_preferred_placetype": [
+      "special city"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "PY"
+    "label:eng_x_preferred_shortcode": [
+      "PY"
     ],
-    "lbl:latitude":39.07094,
-    "lbl:longitude":125.819733,
-    "lbl:min_zoom":8.0,
-    "meso:name_alt1":"",
-    "meso:name_loc":"\ud3c9\uc591\uc9c1\ud560\uc2dc",
-    "mps:latitude":38.989525,
-    "mps:longitude":125.93006,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":8.0,
-    "name:ace_x_preferred":[
-        "Pyeongyang"
+    "lbl:latitude": 39.07094,
+    "lbl:longitude": 125.819733,
+    "lbl:min_zoom": 8,
+    "meso:name_alt1": "",
+    "meso:name_loc": "평양직할시",
+    "mps:latitude": 38.989525,
+    "mps:longitude": 125.93006,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8,
+    "name:ace_x_preferred": [
+      "Pyeongyang"
     ],
-    "name:afr_x_preferred":[
-        "Pjongjang"
+    "name:afr_x_preferred": [
+      "Pjongjang"
     ],
-    "name:amh_x_preferred":[
-        "\u1355\u12ee\u1295\u130d\u12eb\u1295\u130d"
+    "name:amh_x_preferred": [
+      "ፕዮንግያንግ"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u064a\u0648\u0646\u063a\u064a\u0627\u0646\u063a"
+    "name:ara_x_preferred": [
+      "بيونغيانغ"
     ],
-    "name:arg_x_preferred":[
-        "Pyongyang"
+    "name:arg_x_preferred": [
+      "Pyongyang"
     ],
-    "name:arz_x_preferred":[
-        "\u0628\u064a\u0648\u0646\u063a\u064a\u0627\u0646\u063a"
+    "name:arz_x_preferred": [
+      "بيونغيانغ"
     ],
-    "name:asm_x_preferred":[
-        "\u09aa\u09bf\u09af\u09bc\u0982 \u0987\u09af\u09bc\u09be\u0982"
+    "name:asm_x_preferred": [
+      "পিয়ং ইয়াং"
     ],
-    "name:ast_x_preferred":[
-        "Pyongyang"
+    "name:ast_x_preferred": [
+      "Pyongyang"
     ],
-    "name:azb_x_preferred":[
-        "\u067e\u06cc\u0648\u0646\u06af\u200c\u06cc\u0627\u0646\u06af"
+    "name:azb_x_preferred": [
+      "پیونگ‌یانگ"
     ],
-    "name:aze_x_preferred":[
-        "Pxenyan"
+    "name:aze_x_preferred": [
+      "Pxenyan"
     ],
-    "name:bak_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:bak_x_preferred": [
+      "Пхеньян"
     ],
-    "name:bcl_x_preferred":[
-        "Pyongyang"
+    "name:bcl_x_preferred": [
+      "Pyongyang"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:bel_x_preferred": [
+      "Горад Пхеньян"
     ],
-    "name:bel_x_variant":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:bel_x_variant": [
+      "Пхеньян"
     ],
-    "name:ben_x_preferred":[
-        "\u09aa\u09bf\u09af\u09bc\u0982 \u0987\u09af\u09bc\u09be\u0982"
+    "name:ben_x_preferred": [
+      "পিয়ং ইয়াং"
     ],
-    "name:bod_x_preferred":[
-        "\u0f55\u0f7c\u0f44\u0f0b\u0f61\u0f44\u0f0b\u0f0d"
+    "name:bod_x_preferred": [
+      "ཕོང་ཡང་།"
     ],
-    "name:bos_x_preferred":[
-        "Pyongyang"
+    "name:bos_x_preferred": [
+      "Pyongyang"
     ],
-    "name:bos_x_variant":[
-        "Pjongjang"
+    "name:bos_x_variant": [
+      "Pjongjang"
     ],
-    "name:bre_x_preferred":[
-        "Pyongyang"
+    "name:bre_x_preferred": [
+      "Pyongyang"
     ],
-    "name:bul_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044f\u043d"
+    "name:bul_x_preferred": [
+      "Пхенян"
     ],
-    "name:bxr_x_preferred":[
-        "\u041f\u0445\u0451\u043d\u044a\u044f\u043d"
+    "name:bxr_x_preferred": [
+      "Пхёнъян"
     ],
-    "name:bxr_x_variant":[
-        "\u041f\u0451\u043d\u044a\u044f\u043d"
+    "name:bxr_x_variant": [
+      "Пёнъян"
     ],
-    "name:cat_x_preferred":[
-        "Pyongyang"
+    "name:cat_x_preferred": [
+      "Pyongyang"
     ],
-    "name:cdo_x_preferred":[
-        "B\u00ecng-i\u014dng"
+    "name:cdo_x_preferred": [
+      "Bìng-iōng"
     ],
-    "name:ceb_x_preferred":[
-        "Pyongyang"
+    "name:ceb_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ces_x_preferred":[
-        "Pchjongjang"
+    "name:ces_x_preferred": [
+      "Pchjongjang"
     ],
-    "name:che_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:che_x_preferred": [
+      "Пхеньян"
     ],
-    "name:ckb_x_preferred":[
-        "\u067e\u06cc\u06c6\u0646\u06af\u06cc\u0627\u0646\u06af"
+    "name:ckb_x_preferred": [
+      "پیۆنگیانگ"
     ],
-    "name:crh_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:crh_x_preferred": [
+      "Пхеньян"
     ],
-    "name:csb_x_preferred":[
-        "P'y\u014fngyang"
+    "name:csb_x_preferred": [
+      "P'yŏngyang"
     ],
-    "name:cym_x_preferred":[
-        "P'y\u014fngyang"
+    "name:cym_x_preferred": [
+      "P'yŏngyang"
     ],
-    "name:dan_x_preferred":[
-        "Pyongyang"
+    "name:dan_x_preferred": [
+      "Pyongyang"
     ],
-    "name:deu_x_preferred":[
-        "Pj\u00f6ngjang"
+    "name:deu_x_preferred": [
+      "Pjöngjang"
     ],
-    "name:diq_x_preferred":[
-        "Pyongyang"
+    "name:diq_x_preferred": [
+      "Pyongyang"
     ],
-    "name:dsb_x_preferred":[
-        "Pchjongjang"
+    "name:dsb_x_preferred": [
+      "Pchjongjang"
     ],
-    "name:ell_x_preferred":[
-        "\u03a0\u03b9\u03bf\u03bd\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
+    "name:ell_x_preferred": [
+      "Πιονγιάνγκ"
     ],
-    "name:eng_x_colloquial":[
-        "Pryongyang-si"
+    "name:eng_x_colloquial": [
+      "Pryongyang-si"
     ],
-    "name:eng_x_preferred":[
-        "P\u00b4yongyang-si"
+    "name:eng_x_preferred": [
+      "P´yongyang-si"
     ],
-    "name:eng_x_variant":[
-        "P'y\u014fngyang",
-        "P'y\u014fngyang-si",
-        "Pyongyang-si",
-        "Pyongyang",
-        "P'yongyang-si"
+    "name:eng_x_variant": [
+      "P'yŏngyang",
+      "P'yŏngyang-si",
+      "Pyongyang-si",
+      "Pyongyang",
+      "P'yongyang-si"
     ],
-    "name:epo_x_preferred":[
-        "Pjongjango"
+    "name:epo_x_preferred": [
+      "Pjongjango"
     ],
-    "name:est_x_preferred":[
-        "Pyongyang"
+    "name:est_x_preferred": [
+      "Pyongyang"
     ],
-    "name:est_x_variant":[
-        "P'y\u014fngyang"
+    "name:est_x_variant": [
+      "P'yŏngyang"
     ],
-    "name:eus_x_preferred":[
-        "Piongiang"
+    "name:eus_x_preferred": [
+      "Piongiang"
     ],
-    "name:ext_x_preferred":[
-        "Pyongyang"
+    "name:ext_x_preferred": [
+      "Pyongyang"
     ],
-    "name:fao_x_preferred":[
-        "Pyongyang"
+    "name:fao_x_preferred": [
+      "Pyongyang"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u06cc\u0648\u0646\u06af\u200c\u06cc\u0627\u0646\u06af"
+    "name:fas_x_preferred": [
+      "پیونگ‌یانگ"
     ],
-    "name:fin_x_preferred":[
-        "Pjongjang"
+    "name:fin_x_preferred": [
+      "Pjongjang"
     ],
-    "name:fra_x_preferred":[
-        "Pyongyang"
+    "name:fra_x_preferred": [
+      "Pyongyang"
     ],
-    "name:fry_x_preferred":[
-        "Pyongyang"
+    "name:fry_x_preferred": [
+      "Pyongyang"
     ],
-    "name:gla_x_preferred":[
-        "Pyongyang"
+    "name:gla_x_preferred": [
+      "Pyongyang"
     ],
-    "name:gle_x_preferred":[
-        "Pyongyang"
+    "name:gle_x_preferred": [
+      "Pyongyang"
     ],
-    "name:glg_x_preferred":[
-        "Pyongyang"
+    "name:glg_x_preferred": [
+      "Pyongyang"
     ],
-    "name:guj_x_preferred":[
-        "\u0aab\u0abf\u0aaf\u0acb\u0a82\u0a97\u0aaf\u0abe\u0a82\u0a97"
+    "name:guj_x_preferred": [
+      "ફિયોંગયાંગ"
     ],
-    "name:hak_x_preferred":[
-        "P'y\u014fngyang"
+    "name:hak_x_preferred": [
+      "P'yŏngyang"
     ],
-    "name:hat_x_preferred":[
-        "Pyongyang"
+    "name:hat_x_preferred": [
+      "Pyongyang"
     ],
-    "name:hbs_x_preferred":[
-        "Pjongjang"
+    "name:hbs_x_preferred": [
+      "Pjongjang"
     ],
-    "name:heb_x_preferred":[
-        "\u05e4\u05d9\u05d5\u05e0\u05d2\u05d9\u05d0\u05e0\u05d2"
+    "name:heb_x_preferred": [
+      "פיונגיאנג"
     ],
-    "name:hif_x_preferred":[
-        "Pyongyang"
+    "name:hif_x_preferred": [
+      "Pyongyang"
     ],
-    "name:hin_x_preferred":[
-        "\u092a\u094d\u092f\u094b\u0902\u0917\u092f\u093e\u0902\u0917"
+    "name:hin_x_preferred": [
+      "प्योंगयांग"
     ],
-    "name:hrv_x_preferred":[
-        "Pjongjang"
+    "name:hrv_x_preferred": [
+      "Pjongjang"
     ],
-    "name:hun_x_preferred":[
-        "Phenjan"
+    "name:hun_x_preferred": [
+      "Phenjan"
     ],
-    "name:hye_x_preferred":[
-        "\u0553\u0570\u0565\u0576\u0575\u0561\u0576"
+    "name:hye_x_preferred": [
+      "Փհենյան"
     ],
-    "name:ido_x_preferred":[
-        "Pyongyang"
+    "name:ido_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ile_x_preferred":[
-        "Pyongyang"
+    "name:ile_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ilo_x_preferred":[
-        "Pyongyang"
+    "name:ilo_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ina_x_preferred":[
-        "Pyongyang"
+    "name:ina_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ind_x_preferred":[
-        "Pyongyang"
+    "name:ind_x_preferred": [
+      "Pyongyang"
     ],
-    "name:isl_x_preferred":[
-        "Pjongjang"
+    "name:isl_x_preferred": [
+      "Pjongjang"
     ],
-    "name:ita_x_preferred":[
-        "Pyongyang"
+    "name:ita_x_preferred": [
+      "Pyongyang"
     ],
-    "name:jam_x_preferred":[
-        "Pyongyang"
+    "name:jam_x_preferred": [
+      "Pyongyang"
     ],
-    "name:jav_x_preferred":[
-        "Pyongyang"
+    "name:jav_x_preferred": [
+      "Pyongyang"
     ],
-    "name:jpn_x_preferred":[
-        "\u5e73\u58cc"
+    "name:jpn_x_preferred": [
+      "平壌"
     ],
-    "name:kaa_x_preferred":[
-        "Pxenyan"
+    "name:kaa_x_preferred": [
+      "Pxenyan"
     ],
-    "name:kal_x_preferred":[
-        "Pyongyang"
+    "name:kal_x_preferred": [
+      "Pyongyang"
     ],
-    "name:kan_x_preferred":[
-        "\u0caa\u0ccd\u0caf\u0cca\u0ca8\u0ccd\u0c97\u0ccd\u0caf\u0cbe\u0c82\u0c97\u0ccd"
+    "name:kan_x_preferred": [
+      "ಪ್ಯೊನ್ಗ್ಯಾಂಗ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e4\u10ee\u10d4\u10dc\u10d8\u10d0\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "ფხენიანი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:kaz_x_preferred": [
+      "Пхеньян"
     ],
-    "name:khm_x_preferred":[
-        "\u1796\u17d2\u1799\u17bb\u1784\u1799\u17c9\u17b6\u1784"
+    "name:khm_x_preferred": [
+      "ព្យុងយ៉ាង"
     ],
-    "name:kir_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:kir_x_preferred": [
+      "Пхеньян"
     ],
-    "name:kon_x_preferred":[
-        "Pyongyang"
+    "name:kon_x_preferred": [
+      "Pyongyang"
     ],
-    "name:kor_x_preferred":[
-        "\ud3c9\uc591\uc9c1\ud560\uc2dc"
+    "name:kor_x_preferred": [
+      "평양직할시"
     ],
-    "name:kor_x_variant":[
-        "\ud3c9\uc591\uc2dc",
-        "\ud3c9\uc591"
+    "name:kor_x_variant": [
+      "평양시",
+      "평양"
     ],
-    "name:kur_x_preferred":[
-        "Pyongyang"
+    "name:kur_x_preferred": [
+      "Pyongyang"
     ],
-    "name:lat_x_preferred":[
-        "Pyeongyang"
+    "name:lat_x_preferred": [
+      "Pyeongyang"
     ],
-    "name:lav_x_preferred":[
-        "Phenjana"
+    "name:lav_x_preferred": [
+      "Phenjana"
     ],
-    "name:lez_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:lez_x_preferred": [
+      "Пхеньян"
     ],
-    "name:lit_x_preferred":[
-        "Pchenjanas"
+    "name:lit_x_preferred": [
+      "Pchenjanas"
     ],
-    "name:lmo_x_preferred":[
-        "Pyongyang"
+    "name:lmo_x_preferred": [
+      "Pyongyang"
     ],
-    "name:lrc_x_preferred":[
-        "\u067e\u06cc\u0648\u0659\u0646\u06af \u06cc\u0627\u0646\u06af"
+    "name:lrc_x_preferred": [
+      "پیوٙنگ یانگ"
     ],
-    "name:lrc_x_variant":[
-        "\u067e\u06cc\u0648\u0646\u06af \u06cc\u0627\u0646\u06af"
+    "name:lrc_x_variant": [
+      "پیونگ یانگ"
     ],
-    "name:ltz_x_preferred":[
-        "Pj\u00f6ngjang"
+    "name:ltz_x_preferred": [
+      "Pjöngjang"
     ],
-    "name:lzh_x_preferred":[
-        "\u5e73\u58e4"
+    "name:lzh_x_preferred": [
+      "平壤"
     ],
-    "name:mai_x_preferred":[
-        "\u092a\u094d\u092f\u094b\u0919\u092f\u093e\u0919"
+    "name:mai_x_preferred": [
+      "प्योङयाङ"
     ],
-    "name:mal_x_preferred":[
-        "\u0d2a\u0d4d\u0d2f\u0d4b\u0d02\u0d19\u0d4d\u0d2f\u0d3e\u0d02\u0d17\u0d4d"
+    "name:mal_x_preferred": [
+      "പ്യോംങ്യാംഗ്"
     ],
-    "name:mar_x_preferred":[
-        "\u092a\u094d\u092f\u093e\u0901\u0917\u092f\u093e\u0902\u0917"
+    "name:mar_x_preferred": [
+      "प्याँगयांग"
     ],
-    "name:mhr_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:mhr_x_preferred": [
+      "Пхеньян"
     ],
-    "name:mkd_x_preferred":[
-        "\u041f\u0458\u043e\u043d\u0433\u0458\u0430\u043d\u0433"
+    "name:mkd_x_preferred": [
+      "Пјонгјанг"
     ],
-    "name:mon_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:mon_x_preferred": [
+      "Пхеньян"
     ],
-    "name:mri_x_preferred":[
-        "Pyongyang"
+    "name:mri_x_preferred": [
+      "Pyongyang"
     ],
-    "name:msa_x_preferred":[
-        "Pyongyang"
+    "name:msa_x_preferred": [
+      "Pyongyang"
     ],
-    "name:mya_x_preferred":[
-        "\u1015\u103c\u102f\u1036\u101a\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ပြုံယမ်းမြို့"
     ],
-    "name:mzn_x_preferred":[
-        "\u067e\u064a\u0648\u0646\u06af \u064a\u0627\u0646\u06af"
+    "name:mzn_x_preferred": [
+      "پيونگ يانگ"
     ],
-    "name:nah_x_preferred":[
-        "Pionyang"
+    "name:nah_x_preferred": [
+      "Pionyang"
     ],
-    "name:nan_x_preferred":[
-        "P\u00eang-ji\u00e1ng Ti\u030dt-hat-chh\u012b"
+    "name:nan_x_preferred": [
+      "Pêng-jiáng Ti̍t-hat-chhī"
     ],
-    "name:nap_x_preferred":[
-        "Pyongyang"
+    "name:nap_x_preferred": [
+      "Pyongyang"
     ],
-    "name:nds_x_preferred":[
-        "Pj\u00f6ngjang"
+    "name:nds_x_preferred": [
+      "Pjöngjang"
     ],
-    "name:nep_x_preferred":[
-        "\u092a\u094d\u092f\u094b\u0919\u094d\u0917\u092f\u093e\u0919\u094d\u0917"
+    "name:nep_x_preferred": [
+      "प्योङ्गयाङ्ग"
     ],
-    "name:nld_x_preferred":[
-        "Pyongyang"
+    "name:nld_x_preferred": [
+      "Pyongyang"
     ],
-    "name:nno_x_preferred":[
-        "Pyongyang"
+    "name:nno_x_preferred": [
+      "Pyongyang"
     ],
-    "name:nob_x_preferred":[
-        "Pyongyang"
+    "name:nob_x_preferred": [
+      "Pyongyang"
     ],
-    "name:nor_x_preferred":[
-        "Pyongyang"
+    "name:nor_x_preferred": [
+      "Pyongyang"
     ],
-    "name:nov_x_preferred":[
-        "Pyongyang"
+    "name:nov_x_preferred": [
+      "Pyongyang"
     ],
-    "name:oci_x_preferred":[
-        "Pyeongyang"
+    "name:oci_x_preferred": [
+      "Pyeongyang"
     ],
-    "name:olo_x_preferred":[
-        "Phenjan"
+    "name:olo_x_preferred": [
+      "Phenjan"
     ],
-    "name:oss_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:oss_x_preferred": [
+      "Пхеньян"
     ],
-    "name:pam_x_preferred":[
-        "Pyongyang"
+    "name:pam_x_preferred": [
+      "Pyongyang"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2a\u0a3f\u0a13\u0a02\u0a17\u0a2f\u0a3e\u0a02\u0a17"
+    "name:pan_x_preferred": [
+      "ਪਿਓਂਗਯਾਂਗ"
     ],
-    "name:pap_x_preferred":[
-        "Pyongyang"
+    "name:pap_x_preferred": [
+      "Pyongyang"
     ],
-    "name:pms_x_preferred":[
-        "Pyongyang"
+    "name:pms_x_preferred": [
+      "Pyongyang"
     ],
-    "name:pnb_x_preferred":[
-        "\u067e\u06cc\u0627\u0646\u06af \u06cc\u0627\u0646\u06af"
+    "name:pnb_x_preferred": [
+      "پیانگ یانگ"
     ],
-    "name:pol_x_preferred":[
-        "Pjongjang"
+    "name:pol_x_preferred": [
+      "Pjongjang"
     ],
-    "name:por_x_preferred":[
-        "Pyongyang"
+    "name:por_x_preferred": [
+      "Pyongyang"
     ],
-    "name:por_x_variant":[
-        "Pionguiangue"
+    "name:por_x_variant": [
+      "Pionguiangue"
     ],
-    "name:pus_x_preferred":[
-        "\u067e\u064a\u0648\u0646\u06af\u064a\u0627\u0646\u06af"
+    "name:pus_x_preferred": [
+      "پيونگيانگ"
     ],
-    "name:pus_x_variant":[
-        "\u067e\u064a\u0648\u0646\u06ab\u064a\u0627\u0646\u06ab"
+    "name:pus_x_variant": [
+      "پيونګيانګ"
     ],
-    "name:que_x_preferred":[
-        "Pyongyang"
+    "name:que_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ron_x_preferred":[
-        "Phenian"
+    "name:ron_x_preferred": [
+      "Phenian"
     ],
-    "name:rus_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:rus_x_preferred": [
+      "Пхеньян"
     ],
-    "name:sah_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:sah_x_preferred": [
+      "Пхеньян"
     ],
-    "name:scn_x_preferred":[
-        "Pyongyang"
+    "name:scn_x_preferred": [
+      "Pyongyang"
     ],
-    "name:sco_x_preferred":[
-        "Pyongyang"
+    "name:sco_x_preferred": [
+      "Pyongyang"
     ],
-    "name:sgs_x_preferred":[
-        "Pchenjans"
+    "name:sgs_x_preferred": [
+      "Pchenjans"
     ],
-    "name:sin_x_preferred":[
-        "\u0db4\u0dd2\u0dba\u0ddc\u0db1\u0dca\u0dba\u0dd1\u0d82"
+    "name:sin_x_preferred": [
+      "පියොන්යෑං"
     ],
-    "name:slk_x_preferred":[
-        "Pchjongjang"
+    "name:slk_x_preferred": [
+      "Pchjongjang"
     ],
-    "name:slv_x_preferred":[
-        "Pjongjang"
+    "name:slv_x_preferred": [
+      "Pjongjang"
     ],
-    "name:sna_x_preferred":[
-        "Pyongyang"
+    "name:sna_x_preferred": [
+      "Pyongyang"
     ],
-    "name:spa_x_preferred":[
-        "Pionyang"
+    "name:spa_x_preferred": [
+      "Pionyang"
     ],
-    "name:sqi_x_preferred":[
-        "Pheniani"
+    "name:sqi_x_preferred": [
+      "Pheniani"
     ],
-    "name:sqi_x_variant":[
-        "Pjongian"
+    "name:sqi_x_variant": [
+      "Pjongian"
     ],
-    "name:srd_x_preferred":[
-        "Pyongyang"
+    "name:srd_x_preferred": [
+      "Pyongyang"
     ],
-    "name:srp_x_preferred":[
-        "\u041f\u0458\u043e\u043d\u0433\u0458\u0430\u043d\u0433"
+    "name:srp_x_preferred": [
+      "Пјонгјанг"
     ],
-    "name:swa_x_preferred":[
-        "Pyongyang"
+    "name:swa_x_preferred": [
+      "Pyongyang"
     ],
-    "name:swe_x_preferred":[
-        "Pyongyang"
+    "name:swe_x_preferred": [
+      "Pyongyang"
     ],
-    "name:szl_x_preferred":[
-        "Pjongjang"
+    "name:szl_x_preferred": [
+      "Pjongjang"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0baf\u0bca\u0b99\u0bcd\u0baf\u0bbe\u0b99\u0bcd"
+    "name:tam_x_preferred": [
+      "பியொங்யாங்"
     ],
-    "name:tat_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:tat_x_preferred": [
+      "Пхеньян"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2a\u0c4d\u0c2f\u0c4b\u0c02\u0c17\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
+    "name:tel_x_preferred": [
+      "ప్యోంగ్యాంగ్"
     ],
-    "name:tgk_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044f\u043d"
+    "name:tgk_x_preferred": [
+      "Пхенян"
     ],
-    "name:tgl_x_preferred":[
-        "Pyongyang"
+    "name:tgl_x_preferred": [
+      "Pyongyang"
     ],
-    "name:tha_x_preferred":[
-        "\u0e40\u0e1b\u0e35\u0e22\u0e07\u0e22\u0e32\u0e07"
+    "name:tha_x_preferred": [
+      "เปียงยาง"
     ],
-    "name:tpi_x_preferred":[
-        "Pyongyang"
+    "name:tpi_x_preferred": [
+      "Pyongyang"
     ],
-    "name:tuk_x_preferred":[
-        "Phen\u00fdan"
+    "name:tuk_x_preferred": [
+      "Phenýan"
     ],
-    "name:tur_x_preferred":[
-        "Pyongyang"
+    "name:tur_x_preferred": [
+      "Pyongyang"
     ],
-    "name:uig_x_preferred":[
-        "Pyongyang"
+    "name:uig_x_preferred": [
+      "Pyongyang"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    "name:ukr_x_preferred": [
+      "Пхеньян"
     ],
-    "name:und_x_variant":[
-        "Heij\u014d-fu"
+    "name:und_x_variant": [
+      "Heijō-fu"
     ],
-    "name:urd_x_preferred":[
-        "\u067e\u06cc\u0627\u0646\u06af \u06cc\u0627\u0646\u06af"
+    "name:urd_x_preferred": [
+      "پیانگ یانگ"
     ],
-    "name:uzb_x_preferred":[
-        "Pxenyan"
+    "name:uzb_x_preferred": [
+      "Pxenyan"
     ],
-    "name:vep_x_preferred":[
-        "Phen'jan"
+    "name:vep_x_preferred": [
+      "Phen'jan"
     ],
-    "name:vep_x_variant":[
-        "Ph\u00f6njan"
+    "name:vep_x_variant": [
+      "Phönjan"
     ],
-    "name:vie_x_preferred":[
-        "B\u00ecnh Nh\u01b0\u1ee1ng"
+    "name:vie_x_preferred": [
+      "Bình Nhưỡng"
     ],
-    "name:vol_x_preferred":[
-        "Py\u00f6ngyang"
+    "name:vol_x_preferred": [
+      "Pyöngyang"
     ],
-    "name:vro_x_preferred":[
-        "Pyongyang"
+    "name:vro_x_preferred": [
+      "Pyongyang"
     ],
-    "name:war_x_preferred":[
-        "Pyongyang"
+    "name:war_x_preferred": [
+      "Pyongyang"
     ],
-    "name:wuu_x_preferred":[
-        "\u5e73\u58e4\u5e02"
+    "name:wuu_x_preferred": [
+      "平壤市"
     ],
-    "name:yid_x_preferred":[
-        "\u05e4\u05d9\u05d0\u05e0\u05d2\u05d9\u05d0\u05e0\u05d2"
+    "name:yid_x_preferred": [
+      "פיאנגיאנג"
     ],
-    "name:yor_x_preferred":[
-        "Pyongyang"
+    "name:yor_x_preferred": [
+      "Pyongyang"
     ],
-    "name:yue_x_preferred":[
-        "\u5e73\u58e4"
+    "name:yue_x_preferred": [
+      "平壤"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "P\u00eang-ji\u00e1ng Ti\u030dt-hat-chh\u012b"
+    "name:zho_min_nan_x_preferred": [
+      "Pêng-jiáng Ti̍t-hat-chhī"
     ],
-    "name:zho_x_preferred":[
-        "\u5e73\u58e4"
+    "name:zho_x_preferred": [
+      "平壤"
     ],
-    "name:zho_x_variant":[
-        "\u5e73\u58e4\u76f4\u8f44\u5e02"
+    "name:zho_x_variant": [
+      "平壤直轄市"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u5e73\u58e4"
+    "name:zho_yue_x_preferred": [
+      "平壤"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"PRK",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"PRK-3305",
-    "ne:adm1_code":"PRK-3305",
-    "ne:admin":"North Korea",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"KP.PY",
-    "ne:code_local":"",
-    "ne:datarank":"6",
-    "ne:diss_me":"3305",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"KN12",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"North Korea",
-    "ne:gn_a1_code":"KP.12",
-    "ne:gn_id":"1871856",
-    "ne:gn_level":"1",
-    "ne:gn_name":"P'yongyang-si",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"KN12",
-    "ne:gns_id":"-183462",
-    "ne:gns_lang":"kor",
-    "ne:gns_level":"1",
-    "ne:gns_name":"P'yongyang-si",
-    "ne:gns_region":"",
-    "ne:gu_a3":"PRK",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"KP-",
-    "ne:iso_a2":"KP",
-    "ne:labelrank":"6",
-    "ne:latitude":"38.98080000000",
-    "ne:longitude":"125.95500000000",
-    "ne:mapcolor13":9,
-    "ne:mapcolor9":3,
-    "ne:name":"P'y\u014fngyang",
-    "ne:name_alt":"Pyongyang|Pj\u00f6ngjang|P'y\u014fngyang-t\u016dkpy\u014flsi",
-    "ne:name_len":10,
-    "ne:name_local":"\t\ud3c9\uc591\uc9c1\ud560\uc2dc",
-    "ne:note":"",
-    "ne:postal":"PY",
-    "ne:provnum_ne":"20010",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"6",
-    "ne:sov_a3":"PRK",
-    "ne:sub_code":"",
-    "ne:type":"Si",
-    "ne:type_en":"Special City",
-    "ne:wikipedia":"",
-    "ne:woe_id":20070115,
-    "ne:woe_label":"P\u00c2\u00b4yongyang-si, KP, North Korea",
-    "ne:woe_name":"P'y\u014fngyang",
-    "qs:a0":"North Korea",
-    "qs:a0_lc":"KP",
-    "qs:a1":"P'y\u014fngyang",
-    "qs:a1_lc":"PRK-3305",
-    "qs:adm0":"North Korea",
-    "qs:adm0_a3":"PRK",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Special City",
-    "sfomuseum:placetype":"region",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "PRK",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "PRK-3305",
+    "ne:adm1_code": "PRK-3305",
+    "ne:admin": "North Korea",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "KP.PY",
+    "ne:code_local": "",
+    "ne:datarank": "6",
+    "ne:diss_me": "3305",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "KN12",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "North Korea",
+    "ne:gn_a1_code": "KP.12",
+    "ne:gn_id": "1871856",
+    "ne:gn_level": "1",
+    "ne:gn_name": "P'yongyang-si",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "KN12",
+    "ne:gns_id": "-183462",
+    "ne:gns_lang": "kor",
+    "ne:gns_level": "1",
+    "ne:gns_name": "P'yongyang-si",
+    "ne:gns_region": "",
+    "ne:gu_a3": "PRK",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "KP-",
+    "ne:iso_a2": "KP",
+    "ne:labelrank": "6",
+    "ne:latitude": "38.98080000000",
+    "ne:longitude": "125.95500000000",
+    "ne:mapcolor13": 9,
+    "ne:mapcolor9": 3,
+    "ne:name": "P'yŏngyang",
+    "ne:name_alt": "Pyongyang|Pjöngjang|P'yŏngyang-tŭkpyŏlsi",
+    "ne:name_len": 10,
+    "ne:name_local": "\t평양직할시",
+    "ne:note": "",
+    "ne:postal": "PY",
+    "ne:provnum_ne": "20010",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "6",
+    "ne:sov_a3": "PRK",
+    "ne:sub_code": "",
+    "ne:type": "Si",
+    "ne:type_en": "Special City",
+    "ne:wikipedia": "",
+    "ne:woe_id": 20070115,
+    "ne:woe_label": "PÂ´yongyang-si, KP, North Korea",
+    "ne:woe_name": "P'yŏngyang",
+    "qs:a0": "North Korea",
+    "qs:a0_lc": "KP",
+    "qs:a1": "P'yŏngyang",
+    "qs:a1_lc": "PRK-3305",
+    "qs:adm0": "North Korea",
+    "qs:adm0_a3": "PRK",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Special City",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2008-10-01",
-    "statoids:area_km":"2,113",
-    "statoids:area_mi":"816",
-    "statoids:as_of_date":"2008-10-01",
-    "statoids:capital":"P'yongyang",
-    "statoids:country":"KP",
-    "statoids:gec":"KN12",
-    "statoids:hasc":"KP.PY",
-    "statoids:iso":"01",
-    "statoids:name":"P'yongyang-si",
-    "statoids:population":"3255288",
-    "statoids:timezone":"+8:30",
-    "statoids:type":"special city",
-    "wd:wordcount":5039,
-    "wof:belongsto":[
-        102191569,
-        85632639
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2008-10-01",
+    "statoids:area_km": "2,113",
+    "statoids:area_mi": "816",
+    "statoids:as_of_date": "2008-10-01",
+    "statoids:capital": "P'yongyang",
+    "statoids:country": "KP",
+    "statoids:gec": "KN12",
+    "statoids:hasc": "KP.PY",
+    "statoids:iso": "01",
+    "statoids:name": "P'yongyang-si",
+    "statoids:population": "3255288",
+    "statoids:timezone": "+8:30",
+    "statoids:type": "special city",
+    "wd:wordcount": 5039,
+    "wof:belongsto": [
+      102191569,
+      85632639
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"KN12",
-        "gn:id":1871856,
-        "gp:id":20070115,
-        "hasc:id":"KP.PY",
-        "iso:id":"KP-01",
-        "qs_pg:id":425214,
-        "wd:id":"Q18808"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "KN12",
+      "gn:id": 1871856,
+      "gp:id": 20070115,
+      "hasc:id": "KP.PY",
+      "iso:id": "KP-01",
+      "qs_pg:id": 425214,
+      "wd:id": "Q18808"
     },
-    "wof:country":"KP",
-    "wof:geom_alt":[
-        "quattroshapes"
+    "wof:country": "KP",
+    "wof:created": 1624906864,
+    "wof:geom_alt": [
+      "quattroshapes"
     ],
-    "wof:geomhash":"50369a0a3039664e9cc3e2f2f26d5e4c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632639,
-            "region_id":85676611
-        }
+    "wof:geomhash": "50369a0a3039664e9cc3e2f2f26d5e4c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632639,
+        "region_id": 85676611
+      }
     ],
-    "wof:id":85676611,
-    "wof:lang_x_official":[
-        "kor"
+    "wof:id": 85676611,
+    "wof:lang_x_official": [
+      "kor"
     ],
-    "wof:lang_x_spoken":[
-        "kor"
+    "wof:lang_x_spoken": [
+      "kor"
     ],
-    "wof:lastmodified":1611601030,
-    "wof:name":"P'y\u014fngyang",
-    "wof:parent_id":85632639,
-    "wof:placetype":"region",
-    "wof:placetype_local":"special city",
-    "wof:population":3255288,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:shortcode":"PY",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906864,
+    "wof:name": "P'yŏngyang",
+    "wof:parent_id": 85632639,
+    "wof:placetype": "region",
+    "wof:placetype_local": "special city",
+    "wof:population": 3255288,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-kp",
+    "wof:shortcode": "PY",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.575918,
     38.894989,
     126.389143,
     39.283522
-],
-  "geometry": {"coordinates":[[[126.385927,38.932998],[126.385212,38.933102],[126.38378299999999,38.933312],[126.38164,38.933627],[126.37850400000001,38.934382],[126.37483400000001,38.935404],[126.371921,38.936208],[126.369452,38.936805],[126.367187,38.937533],[126.365937,38.938418],[126.364439,38.939689],[126.362695,38.941264],[126.360721,38.942807],[126.358997,38.943776],[126.35782,38.944072],[126.355991,38.944477],[126.35406999999999,38.944664],[126.35230300000001,38.944394],[126.349937,38.943947],[126.34742,38.944038],[126.344797,38.94518],[126.342063,38.94693],[126.33909300000001,38.948648],[126.335874,38.949848],[126.333398,38.951087],[126.331489,38.95248],[126.329115,38.953487],[126.326804,38.953934],[126.324848,38.953862],[126.32189700000001,38.953492],[126.319176,38.953337],[126.31681399999999,38.953786],[126.314132,38.954785],[126.311442,38.955961],[126.30900200000001,38.956763],[126.30640699999999,38.957534],[126.303523,38.958502],[126.300528,38.959231],[126.297794,38.95938],[126.29549400000001,38.958794],[126.293119,38.957629],[126.29078199999999,38.955955],[126.28809099999999,38.954557],[126.285995,38.954489],[126.284008,38.955519],[126.28147800000001,38.956553],[126.27903499999999,38.956781],[126.276909,38.956394],[126.27452099999999,38.955679],[126.272282,38.955564],[126.270803,38.956555],[126.26930299999999,38.958216],[126.268038,38.95946],[126.266721,38.960166],[126.264528,38.961185],[126.26234700000001,38.961976],[126.260822,38.962664],[126.25913199999999,38.963982],[126.256828,38.965714],[126.25516399999999,38.967137],[126.254167,38.968598],[126.252748,38.970165],[126.250721,38.971663],[126.24866400000001,38.972829],[126.246202,38.973758],[126.243601,38.974567],[126.241957,38.97522],[126.24111499999999,38.975919],[126.240633,38.976657],[126.23968600000001,38.97812],[126.238748,38.98],[126.23818900000001,38.981361],[126.23743899999999,38.982708],[126.236351,38.983751],[126.234662,38.984075],[126.231596,38.98445],[126.22819200000001,38.984591],[126.22557399999999,38.984867],[126.223283,38.985335],[126.22062200000001,38.985696],[126.218231,38.986029],[126.21602300000001,38.986502],[126.213379,38.987307],[126.211249,38.987807],[126.209074,38.987929],[126.20716400000001,38.988005],[126.20540099999999,38.988051],[126.203163,38.987899],[126.200903,38.987834],[126.198313,38.988295],[126.195663,38.989163],[126.193461,38.990153],[126.191063,38.991019],[126.18863899999999,38.991407],[126.18628099999999,38.991012],[126.183745,38.989797],[126.181715,38.987668],[126.17999500000001,38.984581],[126.178146,38.982363],[126.176013,38.981593],[126.173097,38.980662],[126.17068399999999,38.979039],[126.16918,38.976271],[126.167632,38.974004],[126.165755,38.972864],[126.163657,38.972233],[126.161502,38.972156],[126.158946,38.97211],[126.15727,38.97177],[126.15629300000001,38.970768],[126.15504,38.969029],[126.153739,38.96734],[126.15203099999999,38.965826],[126.14966,38.964821],[126.14708400000001,38.965159],[126.144919,38.966284],[126.14373500000001,38.967653],[126.14286300000001,38.969628],[126.142151,38.971872],[126.141755,38.974584],[126.140989,38.976777],[126.139889,38.977257],[126.138271,38.977333],[126.136186,38.977155],[126.13366000000001,38.976539],[126.13125100000001,38.975536],[126.12957900000001,38.974518],[126.12830200000001,38.973665],[126.127043,38.972769],[126.125457,38.971519],[126.124234,38.970159],[126.123317,38.968528],[126.12231199999999,38.966151],[126.121644,38.963537],[126.12093900000001,38.961298],[126.11990400000001,38.958867],[126.118645,38.95509],[126.116305,38.947502],[126.113923,38.948663],[126.111542,38.949825],[126.10865099999999,38.951825],[126.106758,38.953417],[126.104994,38.954507],[126.10330999999999,38.955423],[126.10209500000001,38.955862],[126.10063700000001,38.956685],[126.09856600000001,38.958358],[126.09644,38.960272],[126.09475399999999,38.961959],[126.093295,38.96394],[126.092144,38.965465],[126.090548,38.96649],[126.087778,38.968041],[126.08569199999999,38.969312],[126.084692,38.970219],[126.08282800000001,38.971831],[126.081067,38.973646],[126.079632,38.975779],[126.077939,38.977818],[126.07619699999999,38.979206],[126.073798,38.981182],[126.07100199999999,38.983376],[126.068741,38.985475],[126.066849,38.987474],[126.064593,38.989638],[126.06247,38.991962],[126.06089799999999,38.993479],[126.05898000000001,38.994774],[126.05733499999999,38.996423],[126.056315,38.997913],[126.054805,38.99955],[126.052824,39.001428],[126.05086799999999,39.00295],[126.048407,39.00474],[126.044889,39.007496],[126.042897,39.009145],[126.041741,39.00927],[126.039429,39.009522],[126.035961,39.0099],[126.032411,39.010427],[126.02993600000001,39.010732],[126.026545,39.010471],[126.02270799999999,39.009469],[126.019075,39.007677],[126.015179,39.006143],[126.011101,39.004786],[126.00810799999999,39.003776],[126.006364,39.003486],[126.004169,39.003069],[126.001783,39.002524],[125.999808,39.001902],[125.997619,39.001307],[125.995741,39.001115],[125.99424999999999,39.001576],[125.991556,39.002673],[125.9884,39.003516],[125.984915,39.003729],[125.98085399999999,39.003746],[125.97768000000001,39.004053],[125.97528800000001,39.004797],[125.972042,39.005897],[125.967879,39.006991],[125.96512300000001,39.007459],[125.963448,39.007623],[125.96099599999999,39.007746],[125.958061,39.007392],[125.95573899999999,39.006046],[125.95407400000001,39.003501],[125.95299,39.000393],[125.952322,38.998056],[125.95131600000001,38.996278],[125.95044300000001,38.994237],[125.950124,38.991571],[125.950357,38.988517],[125.95107899999999,38.98572],[125.95187300000001,38.982617],[125.952657,38.979715],[125.953791,38.97668],[125.95504099999999,38.973989],[125.955974,38.972284],[125.957125,38.96939],[125.958088,38.966581],[125.958675,38.964506],[125.959717,38.961116],[125.960837,38.95794],[125.96179100000001,38.955778],[125.962164,38.95333],[125.961828,38.951164],[125.96150299999999,38.949152],[125.961309,38.946673],[125.96091699999999,38.944315],[125.960222,38.942432],[125.95917799999999,38.939944],[125.958277,38.937232],[125.95746200000001,38.935104],[125.95611100000001,38.93285],[125.954707,38.930571],[125.953003,38.92828],[125.95107899999999,38.925914],[125.948938,38.923573],[125.94690199999999,38.921663],[125.944857,38.919948],[125.94260199999999,38.918223],[125.940657,38.916696],[125.938552,38.914921],[125.935489,38.91277],[125.928691,38.909774],[125.926382,38.91136],[125.92204099999999,38.914128],[125.918036,38.91604],[125.914413,38.916876],[125.91144799999999,38.91701],[125.909166,38.917146],[125.907691,38.917324],[125.906319,38.917604],[125.904021,38.917792],[125.900898,38.917381],[125.898107,38.916444],[125.89587899999999,38.915048],[125.893564,38.913565],[125.891288,38.912153],[125.888997,38.910972],[125.886465,38.910142],[125.88396,38.909117],[125.88144800000001,38.907346],[125.879228,38.905485],[125.87781,38.904323],[125.87667399999999,38.903019],[125.87539599999999,38.901424],[125.873643,38.899852],[125.871376,38.898529],[125.869584,38.897751],[125.86860900000001,38.897308],[125.86627,38.896428],[125.86325600000001,38.895387],[125.861406,38.894989],[125.85955,38.895303],[125.857443,38.896933],[125.855414,38.899274],[125.85304600000001,38.901191],[125.85042300000001,38.90321],[125.848482,38.90504],[125.84687599999999,38.906749],[125.844137,38.908834],[125.841151,38.910535],[125.839142,38.911717],[125.836901,38.913524],[125.834793,38.915513],[125.833668,38.916554],[125.832809,38.917054],[125.830997,38.917277],[125.827386,38.918234],[125.822822,38.919844],[125.818657,38.920712],[125.81571700000001,38.921035],[125.81309899999999,38.921728],[125.80915299999999,38.922563],[125.80486999999999,38.922791],[125.801999,38.922645],[125.800134,38.922774],[125.79816700000001,38.92312],[125.79587600000001,38.923309],[125.793519,38.923174],[125.79131599999999,38.922571],[125.78899699999999,38.921634],[125.787077,38.920892],[125.785453,38.91986],[125.78396600000001,38.918686],[125.780716,38.918093],[125.776014,38.917203],[125.772902,38.915937],[125.769678,38.914408],[125.76612,38.912936],[125.763408,38.911744],[125.761391,38.910559],[125.759607,38.909633],[125.756829,38.907668],[125.753778,38.905382],[125.750979,38.904032],[125.74738600000001,38.90314],[125.74416600000001,38.902769],[125.741784,38.902635],[125.739801,38.902684],[125.73782799999999,38.903202],[125.73529600000001,38.904258],[125.73329099999999,38.905226],[125.731797,38.906698],[125.729536,38.908702],[125.72699900000001,38.910387],[125.72520799999999,38.91185],[125.723755,38.91411],[125.72233799999999,38.916671],[125.720884,38.918408],[125.719183,38.920849],[125.717766,38.92375],[125.717288,38.92647],[125.71696900000001,38.929415],[125.71564600000001,38.932317],[125.714101,38.935888],[125.71296700000001,38.939507],[125.711044,38.942241],[125.708399,38.944484],[125.705384,38.945393],[125.702809,38.945278],[125.70023500000001,38.945163],[125.69193300000001,38.946315],[125.688875,38.9464],[125.686437,38.9467],[125.683606,38.9471],[125.680308,38.94807],[125.67698,38.949322],[125.67327299999999,38.950183],[125.669721,38.951022],[125.66697499999999,38.95159],[125.664806,38.951838],[125.66259700000001,38.951601],[125.66023800000001,38.950747],[125.65762100000001,38.949541],[125.654839,38.948534],[125.652427,38.948017],[125.650232,38.947641],[125.647783,38.947257],[125.644841,38.946635],[125.642078,38.94604],[125.63902400000001,38.945645],[125.635758,38.944796],[125.632515,38.944047],[125.629059,38.943654],[125.626082,38.943354],[125.623909,38.943246],[125.621487,38.942763],[125.619168,38.942144],[125.61645799999999,38.941477],[125.612931,38.940899],[125.61039,38.940738],[125.60869599999999,38.940631],[125.607849,38.940577],[125.604461,38.948005],[125.60344000000001,38.951522],[125.60169999999999,38.955781],[125.5996,38.960169],[125.5986,38.963575],[125.59791800000001,38.965951],[125.597103,38.968023],[125.59577400000001,38.970817],[125.59419,38.973776],[125.59309,38.975633],[125.59246400000001,38.97676],[125.591325,38.978264],[125.589798,38.980043],[125.58853000000001,38.981234],[125.586963,38.982701],[125.58555200000001,38.984214],[125.58457799999999,38.985518],[125.583893,38.987447],[125.583175,38.989614],[125.581891,38.993024],[125.580731,38.996735],[125.58000199999999,39.000379],[125.579133,39.004566],[125.578366,39.007285],[125.577854,39.009098],[125.57759900000001,39.010004],[125.577671,39.010566],[125.577817,39.01169],[125.578036,39.013375],[125.578389,39.016579],[125.578373,39.020064],[125.578219,39.022433],[125.578458,39.024535],[125.57853299999999,39.02708],[125.57832399999999,39.028913],[125.578074,39.029978],[125.577771,39.031743],[125.577426,39.034478],[125.577129,39.036896],[125.577062,39.038582],[125.57727800000001,39.040441],[125.577412,39.042139],[125.57732300000001,39.043646],[125.57724399999999,39.045401],[125.577085,39.047742],[125.57666999999999,39.050202],[125.576059,39.05318],[125.575918,39.056359],[125.576311,39.058466],[125.576615,39.059802],[125.576933,39.061335],[125.57757599999999,39.063258],[125.578259,39.064462],[125.57891499999999,39.065233],[125.58010400000001,39.066641],[125.581356,39.068046],[125.582461,39.069157],[125.584199,39.070663],[125.586853,39.072596],[125.588947,39.07416],[125.59048900000001,39.075646],[125.592376,39.077394],[125.594848,39.07943],[125.59734,39.081732],[125.599024,39.083298],[125.60096,39.084509],[125.603827,39.08632],[125.606804,39.087951],[125.609883,39.089421],[125.61379599999999,39.091852],[125.617593,39.093704],[125.62028599999999,39.094907],[125.623131,39.097274],[125.626553,39.09984],[125.630672,39.102774],[125.63381200000001,39.10535],[125.635406,39.106564],[125.638215,39.107983],[125.64260899999999,39.109937],[125.646902,39.112102],[125.651303,39.114205],[125.655106,39.11591],[125.657965,39.117198],[125.66135199999999,39.118739],[125.663483,39.120049],[125.664616,39.121144],[125.66548299999999,39.122429],[125.66574799999999,39.123616],[125.665616,39.124831],[125.66501,39.126191],[125.663706,39.128157],[125.662271,39.129702],[125.660715,39.130573],[125.65787,39.132111],[125.65522300000001,39.133356],[125.653086,39.134101],[125.650127,39.135218],[125.645878,39.137202],[125.642049,39.138895],[125.640125,39.14],[125.638913,39.141338],[125.63772899999999,39.142805],[125.636257,39.144391],[125.635164,39.14552],[125.634612,39.146408],[125.63421,39.147463],[125.63403,39.148606],[125.634117,39.14982],[125.63444,39.151317],[125.635075,39.15308],[125.636274,39.155904],[125.63716700000001,39.158546],[125.637514,39.16022],[125.63807,39.162273],[125.638684,39.165113],[125.63927200000001,39.168573],[125.64003200000001,39.171946],[125.64093099999999,39.176328],[125.641363,39.179901],[125.64117400000001,39.181942],[125.640905,39.184218],[125.640722,39.185899],[125.640326,39.187535],[125.63976,39.189314],[125.639157,39.190971],[125.63853899999999,39.192401],[125.637652,39.194077],[125.635908,39.197323],[125.63224099999999,39.20288],[125.631756,39.204808],[125.630807,39.208102],[125.62979300000001,39.210599],[125.62849199999999,39.212541],[125.62663999999999,39.215063],[125.624714,39.218035],[125.623347,39.219974],[125.621989,39.222299],[125.620761,39.224786],[125.619899,39.227065],[125.619381,39.229552],[125.61936300000001,39.231833],[125.61949,39.233849],[125.619776,39.235322],[125.62020099999999,39.236626],[125.62059499999999,39.237645],[125.620918,39.238321],[125.62208200000001,39.239316],[125.623808,39.240915],[125.624937,39.242341],[125.626299,39.243659],[125.62799800000001,39.245098],[125.62940999999999,39.246234],[125.631039,39.247137],[125.63289399999999,39.247746],[125.634916,39.247725],[125.637117,39.247508],[125.638841,39.24757],[125.64078000000001,39.248267],[125.644306,39.249224],[125.647789,39.249783],[125.649984,39.250594],[125.652962,39.251878],[125.657128,39.252813],[125.661168,39.254011],[125.664582,39.255424],[125.667812,39.256507],[125.67119099999999,39.258013],[125.67412,39.259837],[125.676979,39.261558],[125.679518,39.262946],[125.682198,39.264086],[125.685697,39.265198],[125.68903899999999,39.266451],[125.691447,39.267494],[125.69279,39.268229],[125.693956,39.269176],[125.695854,39.270224],[125.697973,39.27115],[125.700221,39.272471],[125.702637,39.273945],[125.70437800000001,39.275278],[125.706547,39.277111],[125.708772,39.278775],[125.710413,39.279838],[125.712839,39.280921],[125.715186,39.281775],[125.717837,39.28243],[125.720845,39.283006],[125.72268200000001,39.283283],[125.723834,39.283429],[125.724819,39.283522],[125.727143,39.283239],[125.73003,39.282851],[125.73325199999999,39.282341],[125.736583,39.281577],[125.73929699999999,39.280706],[125.742283,39.279499],[125.744472,39.27849],[125.746117,39.27758],[125.74817400000001,39.276015],[125.750117,39.274358],[125.751605,39.27292],[125.75331300000001,39.27124],[125.755518,39.269778],[125.757299,39.268939],[125.75908,39.268099],[125.76499800000001,39.261894],[125.76741800000001,39.259751],[125.76978099999999,39.256391],[125.771792,39.252492],[125.77339600000001,39.249996],[125.775091,39.247319],[125.776662,39.244543],[125.778254,39.241878],[125.77991900000001,39.23918],[125.781807,39.237006],[125.783646,39.23491],[125.78507500000001,39.233003],[125.786644,39.231431],[125.788067,39.230238],[125.789457,39.229178],[125.790846,39.228194],[125.792394,39.227366],[125.794524,39.226202],[125.797079,39.225201],[125.79988,39.224554],[125.80249999999999,39.223807],[125.80698700000001,39.223154],[125.811926,39.222728],[125.81588499999999,39.222199],[125.819812,39.221462],[125.823678,39.221002],[125.826893,39.220936],[125.829036,39.220892],[125.830108,39.22087],[125.836206,39.226492],[125.83889600000001,39.229283],[125.842168,39.232222],[125.84559400000001,39.234861],[125.847865,39.236453],[125.850044,39.237658],[125.852627,39.238447],[125.85580899999999,39.239084],[125.858335,39.239622],[125.860028,39.239514],[125.86232099999999,39.238754],[125.86531100000001,39.23764],[125.868089,39.236026],[125.87013899999999,39.234418],[125.87279100000001,39.232724],[125.876197,39.230499],[125.87859400000001,39.228703],[125.880809,39.226688],[125.88285,39.224607],[125.88421099999999,39.223219],[125.88489199999999,39.222525],[125.890135,39.225383],[125.892612,39.226964],[125.895382,39.228698],[125.897955,39.229877],[125.90125999999999,39.23083],[125.90449599999999,39.231694],[125.906297,39.232097],[125.90835199999999,39.232048],[125.91117,39.231872],[125.91396400000001,39.232167],[125.916259,39.232576],[125.918521,39.233115],[125.921761,39.233707],[125.925566,39.233538],[125.92854699999999,39.233019],[125.930352,39.232675],[125.931588,39.232399],[125.933243,39.232243],[125.935901,39.231809],[125.93882499999999,39.230665],[125.941712,39.229549],[125.94491499999999,39.228433],[125.94823100000001,39.226415],[125.95082600000001,39.224494],[125.95302,39.223497],[125.955209,39.222591],[125.957353,39.221228],[125.959648,39.219511],[125.961365,39.218121],[125.96272999999999,39.216705],[125.964457,39.214841],[125.966097,39.212638],[125.967204,39.210615],[125.968048,39.208798],[125.969072,39.206777],[125.970761,39.204975],[125.97242300000001,39.203674],[125.97353099999999,39.202807],[125.974085,39.202374],[125.976009,39.203112],[125.97793299999999,39.20385],[125.980605,39.204668],[125.98424,39.205392],[125.98747299999999,39.206426],[125.98944299999999,39.207349],[125.991792,39.207864],[125.99510600000001,39.208597],[125.999253,39.209796],[126.002461,39.210379],[126.00424599999999,39.210306],[126.00628500000001,39.210311],[126.009602,39.210132],[126.013171,39.210434],[126.01686599999999,39.21158],[126.019823,39.212502],[126.02201599999999,39.213058],[126.024565,39.214182],[126.026242,39.215575],[126.027564,39.217109],[126.02898999999999,39.218468],[126.03049,39.219412],[126.031792,39.220545],[126.032887,39.222194],[126.03438800000001,39.224802],[126.035714,39.227553],[126.037126,39.230914],[126.03807500000001,39.233101],[126.04100800000001,39.233265],[126.04394000000001,39.23343],[126.047004,39.233413],[126.048941,39.233304],[126.05090300000001,39.23315],[126.053737,39.232633],[126.056237,39.232022],[126.058043,39.231545],[126.060318,39.230854],[126.062361,39.230035],[126.064446,39.229044],[126.06661,39.227978],[126.068527,39.226858],[126.070241,39.225578],[126.071743,39.224565],[126.073166,39.223704],[126.074335,39.222711],[126.07560599999999,39.221415],[126.076628,39.220251],[126.077474,39.219056],[126.07883699999999,39.217011],[126.07993500000001,39.215244],[126.080608,39.213862],[126.08189900000001,39.211569],[126.08302399999999,39.209314],[126.083518,39.20743],[126.084023,39.204553],[126.084473,39.200745],[126.08531000000001,39.197335],[126.086018,39.194273],[126.08618199999999,39.192345],[126.086547,39.191502],[126.087029,39.190564],[126.08775300000001,39.189341],[126.088866,39.187529],[126.089902,39.185769],[126.09080299999999,39.184671],[126.092118,39.18383],[126.09387700000001,39.182686],[126.095553,39.181772],[126.096991,39.181431],[126.099113,39.18121],[126.102594,39.181011],[126.106173,39.181132],[126.110456,39.181476],[126.114323,39.181849],[126.11740399999999,39.182335],[126.121816,39.182671],[126.12511000000001,39.182841],[126.127605,39.183145],[126.131844,39.183257],[126.135598,39.182932],[126.138124,39.182628],[126.141233,39.182147],[126.143862,39.181075],[126.14523,39.179795],[126.146619,39.177891],[126.148426,39.175093],[126.149861,39.172129],[126.15159199999999,39.169653],[126.153363,39.167958],[126.154674,39.166645],[126.15597099999999,39.16561],[126.15755900000001,39.164537],[126.15958999999999,39.16321],[126.161697,39.162082],[126.163427,39.161172],[126.16533,39.159943],[126.168164,39.158359],[126.17043700000001,39.157436],[126.17231700000001,39.156949],[126.174419,39.156455],[126.175916,39.156247],[126.17728200000001,39.156071],[126.17875100000001,39.15594],[126.18027499999999,39.15599],[126.182436,39.15615],[126.18438,39.156241],[126.18620799999999,39.15615],[126.188332,39.156053],[126.190398,39.156147],[126.193044,39.156482],[126.195571,39.15678],[126.198624,39.157016],[126.20223,39.157377],[126.206064,39.157626],[126.208832,39.157752],[126.210263,39.158037],[126.212746,39.158636],[126.215281,39.159],[126.217645,39.158883],[126.219804,39.158731],[126.22180299999999,39.158665],[126.22418999999999,39.158527],[126.226106,39.158198],[126.227923,39.157775],[126.23090500000001,39.157046],[126.233566,39.15615],[126.235682,39.155053],[126.237835,39.153781],[126.239498,39.152427],[126.241372,39.150676],[126.24424999999999,39.147765],[126.247446,39.144478],[126.248749,39.143125],[126.248537,39.141197],[126.248137,39.138235],[126.247803,39.136616],[126.247249,39.134896],[126.246499,39.132617],[126.245267,39.129888],[126.243948,39.127387],[126.24289400000001,39.124932],[126.241921,39.122362],[126.241023,39.120056],[126.24016399999999,39.117631],[126.239735,39.115486],[126.2394,39.113571],[126.23950499999999,39.110825],[126.240011,39.10794],[126.240363,39.106277],[126.24115399999999,39.103822],[126.24216699999999,39.100996],[126.242876,39.099368],[126.244007,39.097146],[126.245222,39.094755],[126.246177,39.093027],[126.24743599999999,39.091268],[126.24928,39.089546],[126.25107199999999,39.087883],[126.25270500000001,39.085762],[126.254575,39.083496],[126.256743,39.081776],[126.25878400000001,39.080475],[126.260147,39.079194],[126.26219,39.07716],[126.264585,39.074596],[126.266009,39.072612],[126.267645,39.070815],[126.27012000000001,39.06867],[126.27213,39.067054],[126.27328,39.066115],[126.275711,39.0648],[126.27882,39.063143],[126.28130400000001,39.061994],[126.28511399999999,39.060711],[126.289018,39.059278],[126.292219,39.058389],[126.295485,39.057736],[126.298367,39.05741],[126.30404900000001,39.057455],[126.31064000000001,39.057371],[126.31532,39.056797],[126.319745,39.056174],[126.323633,39.055751],[126.32642300000001,39.055337],[126.32856099999999,39.055368],[126.331253,39.05502],[126.33384700000001,39.054122],[126.33608700000001,39.053228],[126.33816899999999,39.051931],[126.34022,39.050534],[126.341993,39.049487],[126.343681,39.047951],[126.34522800000001,39.046169],[126.346496,39.044287],[126.347651,39.042288],[126.348309,39.040494],[126.348511,39.03855],[126.348986,39.036064],[126.349807,39.032769],[126.350347,39.029976],[126.350722,39.028094],[126.35106399999999,39.026409],[126.351643,39.024506],[126.352231,39.022895],[126.352847,39.021525],[126.35383299999999,39.019191],[126.355158,39.01673],[126.357148,39.014351],[126.359375,39.011696],[126.36093,39.009684],[126.361807,39.008489],[126.363513,39.006635],[126.36653099999999,39.003834],[126.369828,39.000641],[126.37235200000001,38.997878],[126.373874,38.996241],[126.37491900000001,38.995033],[126.375953,38.993461],[126.378085,38.990759],[126.380292,38.987671],[126.381821,38.985004],[126.383408,38.981821],[126.38493200000001,38.978009],[126.38612000000001,38.975143],[126.38681,38.973217],[126.387184,38.97181],[126.387714,38.969931],[126.388322,38.967716],[126.388672,38.965989],[126.388926,38.9645],[126.389123,38.963462],[126.389143,38.961649],[126.38900599999999,38.959458],[126.38879900000001,38.957847],[126.38872000000001,38.955909],[126.388623,38.953562],[126.388615,38.95118],[126.388747,38.948105],[126.388716,38.945187],[126.388678,38.943148],[126.38821900000001,38.940221],[126.387308,38.936988],[126.386617,38.934993],[126.385927,38.932998]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[126.385927,38.932998],[126.385212,38.933102],[126.383783,38.933312],[126.38164,38.933627],[126.378504,38.934382],[126.374834,38.935404],[126.371921,38.936208],[126.369452,38.936805],[126.367187,38.937533],[126.365937,38.938418],[126.364439,38.939689],[126.362695,38.941264],[126.360721,38.942807],[126.358997,38.943776],[126.35782,38.944072],[126.355991,38.944477],[126.35407,38.944664],[126.352303,38.944394],[126.349937,38.943947],[126.34742,38.944038],[126.344797,38.94518],[126.342063,38.94693],[126.339093,38.948648],[126.335874,38.949848],[126.333398,38.951087],[126.331489,38.95248],[126.329115,38.953487],[126.326804,38.953934],[126.324848,38.953862],[126.321897,38.953492],[126.319176,38.953337],[126.316814,38.953786],[126.314132,38.954785],[126.311442,38.955961],[126.309002,38.956763],[126.306407,38.957534],[126.303523,38.958502],[126.300528,38.959231],[126.297794,38.95938],[126.295494,38.958794],[126.293119,38.957629],[126.290782,38.955955],[126.288091,38.954557],[126.285995,38.954489],[126.284008,38.955519],[126.281478,38.956553],[126.279035,38.956781],[126.276909,38.956394],[126.274521,38.955679],[126.272282,38.955564],[126.270803,38.956555],[126.269303,38.958216],[126.268038,38.95946],[126.266721,38.960166],[126.264528,38.961185],[126.262347,38.961976],[126.260822,38.962664],[126.259132,38.963982],[126.256828,38.965714],[126.255164,38.967137],[126.254167,38.968598],[126.252748,38.970165],[126.250721,38.971663],[126.248664,38.972829],[126.246202,38.973758],[126.243601,38.974567],[126.241957,38.97522],[126.241115,38.975919],[126.240633,38.976657],[126.239686,38.97812],[126.238748,38.98],[126.238189,38.981361],[126.237439,38.982708],[126.236351,38.983751],[126.234662,38.984075],[126.231596,38.98445],[126.228192,38.984591],[126.225574,38.984867],[126.223283,38.985335],[126.220622,38.985696],[126.218231,38.986029],[126.216023,38.986502],[126.213379,38.987307],[126.211249,38.987807],[126.209074,38.987929],[126.207164,38.988005],[126.205401,38.988051],[126.203163,38.987899],[126.200903,38.987834],[126.198313,38.988295],[126.195663,38.989163],[126.193461,38.990153],[126.191063,38.991019],[126.188639,38.991407],[126.186281,38.991012],[126.183745,38.989797],[126.181715,38.987668],[126.179995,38.984581],[126.178146,38.982363],[126.176013,38.981593],[126.173097,38.980662],[126.170684,38.979039],[126.16918,38.976271],[126.167632,38.974004],[126.165755,38.972864],[126.163657,38.972233],[126.161502,38.972156],[126.158946,38.97211],[126.15727,38.97177],[126.156293,38.970768],[126.15504,38.969029],[126.153739,38.96734],[126.152031,38.965826],[126.14966,38.964821],[126.147084,38.965159],[126.144919,38.966284],[126.143735,38.967653],[126.142863,38.969628],[126.142151,38.971872],[126.141755,38.974584],[126.140989,38.976777],[126.139889,38.977257],[126.138271,38.977333],[126.136186,38.977155],[126.13366,38.976539],[126.131251,38.975536],[126.129579,38.974518],[126.128302,38.973665],[126.127043,38.972769],[126.125457,38.971519],[126.124234,38.970159],[126.123317,38.968528],[126.122312,38.966151],[126.121644,38.963537],[126.120939,38.961298],[126.119904,38.958867],[126.118645,38.95509],[126.116305,38.947502],[126.113923,38.948663],[126.111542,38.949825],[126.108651,38.951825],[126.106758,38.953417],[126.104994,38.954507],[126.10331,38.955423],[126.102095,38.955862],[126.100637,38.956685],[126.098566,38.958358],[126.09644,38.960272],[126.094754,38.961959],[126.093295,38.96394],[126.092144,38.965465],[126.090548,38.96649],[126.087778,38.968041],[126.085692,38.969312],[126.084692,38.970219],[126.082828,38.971831],[126.081067,38.973646],[126.079632,38.975779],[126.077939,38.977818],[126.076197,38.979206],[126.073798,38.981182],[126.071002,38.983376],[126.068741,38.985475],[126.066849,38.987474],[126.064593,38.989638],[126.06247,38.991962],[126.060898,38.993479],[126.05898,38.994774],[126.057335,38.996423],[126.056315,38.997913],[126.054805,38.99955],[126.052824,39.001428],[126.050868,39.00295],[126.048407,39.00474],[126.044889,39.007496],[126.042897,39.009145],[126.041741,39.00927],[126.039429,39.009522],[126.035961,39.0099],[126.032411,39.010427],[126.029936,39.010732],[126.026545,39.010471],[126.022708,39.009469],[126.019075,39.007677],[126.015179,39.006143],[126.011101,39.004786],[126.008108,39.003776],[126.006364,39.003486],[126.004169,39.003069],[126.001783,39.002524],[125.999808,39.001902],[125.997619,39.001307],[125.995741,39.001115],[125.99425,39.001576],[125.991556,39.002673],[125.9884,39.003516],[125.984915,39.003729],[125.980854,39.003746],[125.97768,39.004053],[125.975288,39.004797],[125.972042,39.005897],[125.967879,39.006991],[125.965123,39.007459],[125.963448,39.007623],[125.960996,39.007746],[125.958061,39.007392],[125.955739,39.006046],[125.954074,39.003501],[125.95299,39.000393],[125.952322,38.998056],[125.951316,38.996278],[125.950443,38.994237],[125.950124,38.991571],[125.950357,38.988517],[125.951079,38.98572],[125.951873,38.982617],[125.952657,38.979715],[125.953791,38.97668],[125.955041,38.973989],[125.955974,38.972284],[125.957125,38.96939],[125.958088,38.966581],[125.958675,38.964506],[125.959717,38.961116],[125.960837,38.95794],[125.961791,38.955778],[125.962164,38.95333],[125.961828,38.951164],[125.961503,38.949152],[125.961309,38.946673],[125.960917,38.944315],[125.960222,38.942432],[125.959178,38.939944],[125.958277,38.937232],[125.957462,38.935104],[125.956111,38.93285],[125.954707,38.930571],[125.953003,38.92828],[125.951079,38.925914],[125.948938,38.923573],[125.946902,38.921663],[125.944857,38.919948],[125.942602,38.918223],[125.940657,38.916696],[125.938552,38.914921],[125.935489,38.91277],[125.928691,38.909774],[125.926382,38.91136],[125.922041,38.914128],[125.918036,38.91604],[125.914413,38.916876],[125.911448,38.91701],[125.909166,38.917146],[125.907691,38.917324],[125.906319,38.917604],[125.904021,38.917792],[125.900898,38.917381],[125.898107,38.916444],[125.895879,38.915048],[125.893564,38.913565],[125.891288,38.912153],[125.888997,38.910972],[125.886465,38.910142],[125.88396,38.909117],[125.881448,38.907346],[125.879228,38.905485],[125.87781,38.904323],[125.876674,38.903019],[125.875396,38.901424],[125.873643,38.899852],[125.871376,38.898529],[125.869584,38.897751],[125.868609,38.897308],[125.86627,38.896428],[125.863256,38.895387],[125.861406,38.894989],[125.85955,38.895303],[125.857443,38.896933],[125.855414,38.899274],[125.853046,38.901191],[125.850423,38.90321],[125.848482,38.90504],[125.846876,38.906749],[125.844137,38.908834],[125.841151,38.910535],[125.839142,38.911717],[125.836901,38.913524],[125.834793,38.915513],[125.833668,38.916554],[125.832809,38.917054],[125.830997,38.917277],[125.827386,38.918234],[125.822822,38.919844],[125.818657,38.920712],[125.815717,38.921035],[125.813099,38.921728],[125.809153,38.922563],[125.80487,38.922791],[125.801999,38.922645],[125.800134,38.922774],[125.798167,38.92312],[125.795876,38.923309],[125.793519,38.923174],[125.791316,38.922571],[125.788997,38.921634],[125.787077,38.920892],[125.785453,38.91986],[125.783966,38.918686],[125.780716,38.918093],[125.776014,38.917203],[125.772902,38.915937],[125.769678,38.914408],[125.76612,38.912936],[125.763408,38.911744],[125.761391,38.910559],[125.759607,38.909633],[125.756829,38.907668],[125.753778,38.905382],[125.750979,38.904032],[125.747386,38.90314],[125.744166,38.902769],[125.741784,38.902635],[125.739801,38.902684],[125.737828,38.903202],[125.735296,38.904258],[125.733291,38.905226],[125.731797,38.906698],[125.729536,38.908702],[125.726999,38.910387],[125.725208,38.91185],[125.723755,38.91411],[125.722338,38.916671],[125.720884,38.918408],[125.719183,38.920849],[125.717766,38.92375],[125.717288,38.92647],[125.716969,38.929415],[125.715646,38.932317],[125.714101,38.935888],[125.712967,38.939507],[125.711044,38.942241],[125.708399,38.944484],[125.705384,38.945393],[125.702809,38.945278],[125.700235,38.945163],[125.691933,38.946315],[125.688875,38.9464],[125.686437,38.9467],[125.683606,38.9471],[125.680308,38.94807],[125.67698,38.949322],[125.673273,38.950183],[125.669721,38.951022],[125.666975,38.95159],[125.664806,38.951838],[125.662597,38.951601],[125.660238,38.950747],[125.657621,38.949541],[125.654839,38.948534],[125.652427,38.948017],[125.650232,38.947641],[125.647783,38.947257],[125.644841,38.946635],[125.642078,38.94604],[125.639024,38.945645],[125.635758,38.944796],[125.632515,38.944047],[125.629059,38.943654],[125.626082,38.943354],[125.623909,38.943246],[125.621487,38.942763],[125.619168,38.942144],[125.616458,38.941477],[125.612931,38.940899],[125.61039,38.940738],[125.608696,38.940631],[125.607849,38.940577],[125.604461,38.948005],[125.60344,38.951522],[125.6017,38.955781],[125.5996,38.960169],[125.5986,38.963575],[125.597918,38.965951],[125.597103,38.968023],[125.595774,38.970817],[125.59419,38.973776],[125.59309,38.975633],[125.592464,38.97676],[125.591325,38.978264],[125.589798,38.980043],[125.58853,38.981234],[125.586963,38.982701],[125.585552,38.984214],[125.584578,38.985518],[125.583893,38.987447],[125.583175,38.989614],[125.581891,38.993024],[125.580731,38.996735],[125.580002,39.000379],[125.579133,39.004566],[125.578366,39.007285],[125.577854,39.009098],[125.577599,39.010004],[125.577671,39.010566],[125.577817,39.01169],[125.578036,39.013375],[125.578389,39.016579],[125.578373,39.020064],[125.578219,39.022433],[125.578458,39.024535],[125.578533,39.02708],[125.578324,39.028913],[125.578074,39.029978],[125.577771,39.031743],[125.577426,39.034478],[125.577129,39.036896],[125.577062,39.038582],[125.577278,39.040441],[125.577412,39.042139],[125.577323,39.043646],[125.577244,39.045401],[125.577085,39.047742],[125.57667,39.050202],[125.576059,39.05318],[125.575918,39.056359],[125.576311,39.058466],[125.576615,39.059802],[125.576933,39.061335],[125.577576,39.063258],[125.578259,39.064462],[125.578915,39.065233],[125.580104,39.066641],[125.581356,39.068046],[125.582461,39.069157],[125.584199,39.070663],[125.586853,39.072596],[125.588947,39.07416],[125.590489,39.075646],[125.592376,39.077394],[125.594848,39.07943],[125.59734,39.081732],[125.599024,39.083298],[125.60096,39.084509],[125.603827,39.08632],[125.606804,39.087951],[125.609883,39.089421],[125.613796,39.091852],[125.617593,39.093704],[125.620286,39.094907],[125.623131,39.097274],[125.626553,39.09984],[125.630672,39.102774],[125.633812,39.10535],[125.635406,39.106564],[125.638215,39.107983],[125.642609,39.109937],[125.646902,39.112102],[125.651303,39.114205],[125.655106,39.11591],[125.657965,39.117198],[125.661352,39.118739],[125.663483,39.120049],[125.664616,39.121144],[125.665483,39.122429],[125.665748,39.123616],[125.665616,39.124831],[125.66501,39.126191],[125.663706,39.128157],[125.662271,39.129702],[125.660715,39.130573],[125.65787,39.132111],[125.655223,39.133356],[125.653086,39.134101],[125.650127,39.135218],[125.645878,39.137202],[125.642049,39.138895],[125.640125,39.14],[125.638913,39.141338],[125.637729,39.142805],[125.636257,39.144391],[125.635164,39.14552],[125.634612,39.146408],[125.63421,39.147463],[125.63403,39.148606],[125.634117,39.14982],[125.63444,39.151317],[125.635075,39.15308],[125.636274,39.155904],[125.637167,39.158546],[125.637514,39.16022],[125.63807,39.162273],[125.638684,39.165113],[125.639272,39.168573],[125.640032,39.171946],[125.640931,39.176328],[125.641363,39.179901],[125.641174,39.181942],[125.640905,39.184218],[125.640722,39.185899],[125.640326,39.187535],[125.63976,39.189314],[125.639157,39.190971],[125.638539,39.192401],[125.637652,39.194077],[125.635908,39.197323],[125.632241,39.20288],[125.631756,39.204808],[125.630807,39.208102],[125.629793,39.210599],[125.628492,39.212541],[125.62664,39.215063],[125.624714,39.218035],[125.623347,39.219974],[125.621989,39.222299],[125.620761,39.224786],[125.619899,39.227065],[125.619381,39.229552],[125.619363,39.231833],[125.61949,39.233849],[125.619776,39.235322],[125.620201,39.236626],[125.620595,39.237645],[125.620918,39.238321],[125.622082,39.239316],[125.623808,39.240915],[125.624937,39.242341],[125.626299,39.243659],[125.627998,39.245098],[125.62941,39.246234],[125.631039,39.247137],[125.632894,39.247746],[125.634916,39.247725],[125.637117,39.247508],[125.638841,39.24757],[125.64078,39.248267],[125.644306,39.249224],[125.647789,39.249783],[125.649984,39.250594],[125.652962,39.251878],[125.657128,39.252813],[125.661168,39.254011],[125.664582,39.255424],[125.667812,39.256507],[125.671191,39.258013],[125.67412,39.259837],[125.676979,39.261558],[125.679518,39.262946],[125.682198,39.264086],[125.685697,39.265198],[125.689039,39.266451],[125.691447,39.267494],[125.69279,39.268229],[125.693956,39.269176],[125.695854,39.270224],[125.697973,39.27115],[125.700221,39.272471],[125.702637,39.273945],[125.704378,39.275278],[125.706547,39.277111],[125.708772,39.278775],[125.710413,39.279838],[125.712839,39.280921],[125.715186,39.281775],[125.717837,39.28243],[125.720845,39.283006],[125.722682,39.283283],[125.723834,39.283429],[125.724819,39.283522],[125.727143,39.283239],[125.73003,39.282851],[125.733252,39.282341],[125.736583,39.281577],[125.739297,39.280706],[125.742283,39.279499],[125.744472,39.27849],[125.746117,39.27758],[125.748174,39.276015],[125.750117,39.274358],[125.751605,39.27292],[125.753313,39.27124],[125.755518,39.269778],[125.757299,39.268939],[125.75908,39.268099],[125.764998,39.261894],[125.767418,39.259751],[125.769781,39.256391],[125.771792,39.252492],[125.773396,39.249996],[125.775091,39.247319],[125.776662,39.244543],[125.778254,39.241878],[125.779919,39.23918],[125.781807,39.237006],[125.783646,39.23491],[125.785075,39.233003],[125.786644,39.231431],[125.788067,39.230238],[125.789457,39.229178],[125.790846,39.228194],[125.792394,39.227366],[125.794524,39.226202],[125.797079,39.225201],[125.79988,39.224554],[125.8025,39.223807],[125.806987,39.223154],[125.811926,39.222728],[125.815885,39.222199],[125.819812,39.221462],[125.823678,39.221002],[125.826893,39.220936],[125.829036,39.220892],[125.830108,39.22087],[125.836206,39.226492],[125.838896,39.229283],[125.842168,39.232222],[125.845594,39.234861],[125.847865,39.236453],[125.850044,39.237658],[125.852627,39.238447],[125.855809,39.239084],[125.858335,39.239622],[125.860028,39.239514],[125.862321,39.238754],[125.865311,39.23764],[125.868089,39.236026],[125.870139,39.234418],[125.872791,39.232724],[125.876197,39.230499],[125.878594,39.228703],[125.880809,39.226688],[125.88285,39.224607],[125.884211,39.223219],[125.884892,39.222525],[125.890135,39.225383],[125.892612,39.226964],[125.895382,39.228698],[125.897955,39.229877],[125.90126,39.23083],[125.904496,39.231694],[125.906297,39.232097],[125.908352,39.232048],[125.91117,39.231872],[125.913964,39.232167],[125.916259,39.232576],[125.918521,39.233115],[125.921761,39.233707],[125.925566,39.233538],[125.928547,39.233019],[125.930352,39.232675],[125.931588,39.232399],[125.933243,39.232243],[125.935901,39.231809],[125.938825,39.230665],[125.941712,39.229549],[125.944915,39.228433],[125.948231,39.226415],[125.950826,39.224494],[125.95302,39.223497],[125.955209,39.222591],[125.957353,39.221228],[125.959648,39.219511],[125.961365,39.218121],[125.96273,39.216705],[125.964457,39.214841],[125.966097,39.212638],[125.967204,39.210615],[125.968048,39.208798],[125.969072,39.206777],[125.970761,39.204975],[125.972423,39.203674],[125.973531,39.202807],[125.974085,39.202374],[125.976009,39.203112],[125.977933,39.20385],[125.980605,39.204668],[125.98424,39.205392],[125.987473,39.206426],[125.989443,39.207349],[125.991792,39.207864],[125.995106,39.208597],[125.999253,39.209796],[126.002461,39.210379],[126.004246,39.210306],[126.006285,39.210311],[126.009602,39.210132],[126.013171,39.210434],[126.016866,39.21158],[126.019823,39.212502],[126.022016,39.213058],[126.024565,39.214182],[126.026242,39.215575],[126.027564,39.217109],[126.02899,39.218468],[126.03049,39.219412],[126.031792,39.220545],[126.032887,39.222194],[126.034388,39.224802],[126.035714,39.227553],[126.037126,39.230914],[126.038075,39.233101],[126.041008,39.233265],[126.04394,39.23343],[126.047004,39.233413],[126.048941,39.233304],[126.050903,39.23315],[126.053737,39.232633],[126.056237,39.232022],[126.058043,39.231545],[126.060318,39.230854],[126.062361,39.230035],[126.064446,39.229044],[126.06661,39.227978],[126.068527,39.226858],[126.070241,39.225578],[126.071743,39.224565],[126.073166,39.223704],[126.074335,39.222711],[126.075606,39.221415],[126.076628,39.220251],[126.077474,39.219056],[126.078837,39.217011],[126.079935,39.215244],[126.080608,39.213862],[126.081899,39.211569],[126.083024,39.209314],[126.083518,39.20743],[126.084023,39.204553],[126.084473,39.200745],[126.08531,39.197335],[126.086018,39.194273],[126.086182,39.192345],[126.086547,39.191502],[126.087029,39.190564],[126.087753,39.189341],[126.088866,39.187529],[126.089902,39.185769],[126.090803,39.184671],[126.092118,39.18383],[126.093877,39.182686],[126.095553,39.181772],[126.096991,39.181431],[126.099113,39.18121],[126.102594,39.181011],[126.106173,39.181132],[126.110456,39.181476],[126.114323,39.181849],[126.117404,39.182335],[126.121816,39.182671],[126.12511,39.182841],[126.127605,39.183145],[126.131844,39.183257],[126.135598,39.182932],[126.138124,39.182628],[126.141233,39.182147],[126.143862,39.181075],[126.14523,39.179795],[126.146619,39.177891],[126.148426,39.175093],[126.149861,39.172129],[126.151592,39.169653],[126.153363,39.167958],[126.154674,39.166645],[126.155971,39.16561],[126.157559,39.164537],[126.15959,39.16321],[126.161697,39.162082],[126.163427,39.161172],[126.16533,39.159943],[126.168164,39.158359],[126.170437,39.157436],[126.172317,39.156949],[126.174419,39.156455],[126.175916,39.156247],[126.177282,39.156071],[126.178751,39.15594],[126.180275,39.15599],[126.182436,39.15615],[126.18438,39.156241],[126.186208,39.15615],[126.188332,39.156053],[126.190398,39.156147],[126.193044,39.156482],[126.195571,39.15678],[126.198624,39.157016],[126.20223,39.157377],[126.206064,39.157626],[126.208832,39.157752],[126.210263,39.158037],[126.212746,39.158636],[126.215281,39.159],[126.217645,39.158883],[126.219804,39.158731],[126.221803,39.158665],[126.22419,39.158527],[126.226106,39.158198],[126.227923,39.157775],[126.230905,39.157046],[126.233566,39.15615],[126.235682,39.155053],[126.237835,39.153781],[126.239498,39.152427],[126.241372,39.150676],[126.24425,39.147765],[126.247446,39.144478],[126.248749,39.143125],[126.248537,39.141197],[126.248137,39.138235],[126.247803,39.136616],[126.247249,39.134896],[126.246499,39.132617],[126.245267,39.129888],[126.243948,39.127387],[126.242894,39.124932],[126.241921,39.122362],[126.241023,39.120056],[126.240164,39.117631],[126.239735,39.115486],[126.2394,39.113571],[126.239505,39.110825],[126.240011,39.10794],[126.240363,39.106277],[126.241154,39.103822],[126.242167,39.100996],[126.242876,39.099368],[126.244007,39.097146],[126.245222,39.094755],[126.246177,39.093027],[126.247436,39.091268],[126.24928,39.089546],[126.251072,39.087883],[126.252705,39.085762],[126.254575,39.083496],[126.256743,39.081776],[126.258784,39.080475],[126.260147,39.079194],[126.26219,39.07716],[126.264585,39.074596],[126.266009,39.072612],[126.267645,39.070815],[126.27012,39.06867],[126.27213,39.067054],[126.27328,39.066115],[126.275711,39.0648],[126.27882,39.063143],[126.281304,39.061994],[126.285114,39.060711],[126.289018,39.059278],[126.292219,39.058389],[126.295485,39.057736],[126.298367,39.05741],[126.304049,39.057455],[126.31064,39.057371],[126.31532,39.056797],[126.319745,39.056174],[126.323633,39.055751],[126.326423,39.055337],[126.328561,39.055368],[126.331253,39.05502],[126.333847,39.054122],[126.336087,39.053228],[126.338169,39.051931],[126.34022,39.050534],[126.341993,39.049487],[126.343681,39.047951],[126.345228,39.046169],[126.346496,39.044287],[126.347651,39.042288],[126.348309,39.040494],[126.348511,39.03855],[126.348986,39.036064],[126.349807,39.032769],[126.350347,39.029976],[126.350722,39.028094],[126.351064,39.026409],[126.351643,39.024506],[126.352231,39.022895],[126.352847,39.021525],[126.353833,39.019191],[126.355158,39.01673],[126.357148,39.014351],[126.359375,39.011696],[126.36093,39.009684],[126.361807,39.008489],[126.363513,39.006635],[126.366531,39.003834],[126.369828,39.000641],[126.372352,38.997878],[126.373874,38.996241],[126.374919,38.995033],[126.375953,38.993461],[126.378085,38.990759],[126.380292,38.987671],[126.381821,38.985004],[126.383408,38.981821],[126.384932,38.978009],[126.38612,38.975143],[126.38681,38.973217],[126.387184,38.97181],[126.387714,38.969931],[126.388322,38.967716],[126.388672,38.965989],[126.388926,38.9645],[126.389123,38.963462],[126.389143,38.961649],[126.389006,38.959458],[126.388799,38.957847],[126.38872,38.955909],[126.388623,38.953562],[126.388615,38.95118],[126.388747,38.948105],[126.388716,38.945187],[126.388678,38.943148],[126.388219,38.940221],[126.387308,38.936988],[126.386617,38.934993],[126.385927,38.932998]]],"type":"Polygon"}
 }

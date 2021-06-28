@@ -2,116 +2,117 @@
   "id": 102525091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
-    "geom:area":0.000023,
-    "geom:area_square_m":222241.145694,
-    "geom:bbox":"-107.904526,38.493732,-107.894005,38.502991",
-    "geom:latitude":38.49928,
-    "geom:longitude":-107.897773,
-    "gn:elevation":1745,
-    "iso:country":"US",
-    "lbl:latitude":38.499431,
-    "lbl:longitude":-107.897256,
-    "mps:latitude":38.499431,
-    "mps:longitude":-107.897256,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Montrose Regional Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0.00002296540300002388,
+    "geom:area_square_m": 222241.145694,
+    "geom:bbox": "-107.904526,38.493732,-107.894005,38.502991",
+    "geom:latitude": 38.49928011269297,
+    "geom:longitude": -107.89777325074256,
+    "gn:elevation": 1745,
+    "iso:country": "US",
+    "lbl:latitude": 38.499431,
+    "lbl:longitude": -107.897256,
+    "mps:latitude": 38.499431,
+    "mps:longitude": -107.897256,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Montrose Regional Airport"
     ],
-    "name:eng_x_preferred":[
-        "Montrose Regional Airport"
+    "name:eng_x_preferred": [
+      "Montrose Regional Airport"
     ],
-    "name:eng_x_variant":[
-        "MTJ",
-        "KMTJ"
+    "name:eng_x_variant": [
+      "MTJ",
+      "KMTJ"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0645\u0648\u0646\u062a\u0631\u0648\u0632"
+    "name:fas_x_preferred": [
+      "فرودگاه منطقه‌ای مونتروز"
     ],
-    "name:heb_x_preferred":[
-        "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d0\u05d6\u05d5\u05e8\u05d9 \u05e9\u05dc \u05de\u05d5\u05e0\u05d8\u05e8\u05d5\u05d6"
+    "name:heb_x_preferred": [
+      "שדה התעופה האזורי של מונטרוז"
     ],
-    "name:jpn_x_preferred":[
-        "Montrose\u5730\u57df\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "Montrose地域空港"
     ],
-    "name:nav_x_preferred":[
-        "\u0141eegh\u00e1\u0144l\u00edn\u00edidi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    "name:nav_x_preferred": [
+      "Łeegháńlíníidi chidí naatʼaʼí ńdinibįįhígi"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Regional Montrose"
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Montrose"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u043c\u0443\u043d\u0442\u0440\u0443\u0437"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи мантақа‌ий мунтруз"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u0648\u0646\u0679\u0631\u0648\u0632 \u0631\u06cc\u062c\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "مونٹروز ریجنل ہوائی اڈا"
     ],
-    "oa:elevation_ft":"5759",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":251,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587770,
-        "planet_id":1,
-        "state_id":2347564
+    "oa:elevation_ft": "5759",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 251,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587770,
+      "planet_id": 1,
+      "state_id": 2347564
     },
-    "wof:belongsto":[
-        85688603,
-        102191575,
-        85633793,
-        85929385,
-        102086121
+    "wof:belongsto": [
+      85688603,
+      102191575,
+      85633793,
+      85929385,
+      102086121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"MTJ",
-        "gn:id":5431733,
-        "gp:id":12521012,
-        "iata:code":"MTJ",
-        "icao:code":"KMTJ",
-        "oa:id":"20565",
-        "wd:id":"Q3612641",
-        "wk:page":"Montrose Regional Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "MTJ",
+      "gn:id": 5431733,
+      "gp:id": 12521012,
+      "iata:code": "MTJ",
+      "icao:code": "KMTJ",
+      "oa:id": "20565",
+      "wd:id": "Q3612641",
+      "wk:page": "Montrose Regional Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b12628ea1ae0614b96c6763af24d0134",
-    "wof:hierarchy":[
-        {
-            "campus_id":102525091,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086121,
-            "locality_id":85929385,
-            "region_id":85688603
-        }
+    "wof:country": "US",
+    "wof:created": 1624906905,
+    "wof:geomhash": "b12628ea1ae0614b96c6763af24d0134",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102525091,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086121,
+        "locality_id": 85929385,
+        "region_id": 85688603
+      }
     ],
-    "wof:id":102525091,
-    "wof:lastmodified":1611601235,
-    "wof:name":"Montrose Regional Airport",
-    "wof:parent_id":85929385,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102525091,
+    "wof:lastmodified": 1624906905,
+    "wof:name": "Montrose Regional Airport",
+    "wof:parent_id": 85929385,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -107.904526,
     38.493732,
     -107.894005,
     38.502991
-],
-  "geometry": {"coordinates":[[[[-107.899643,38.499748],[-107.901878,38.501431],[-107.903603,38.502075],[-107.904526,38.502991],[-107.901115,38.501823],[-107.895523,38.50116],[-107.895416,38.497726],[-107.89400500000001,38.493732],[-107.897583,38.497349],[-107.899376,38.49921],[-107.899643,38.499748]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-107.899643,38.499748],[-107.901878,38.501431],[-107.903603,38.502075],[-107.904526,38.502991],[-107.901115,38.501823],[-107.895523,38.50116],[-107.895416,38.497726],[-107.894005,38.493732],[-107.897583,38.497349],[-107.899376,38.49921],[-107.899643,38.499748]]]],"type":"MultiPolygon"}
 }

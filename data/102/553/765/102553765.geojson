@@ -2,180 +2,181 @@
   "id": 102553765,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1964-01-01",
-    "date:inception_upper":"1964-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1964",
-    "geom:area":0.000059,
-    "geom:area_square_m":699340.307772,
-    "geom:bbox":"-63.120343,18.037432,-63.096679,18.045194",
-    "geom:latitude":18.04141,
-    "geom:longitude":-63.110701,
-    "iso:country":"SX",
-    "lbl:latitude":18.04166,
-    "lbl:longitude":-63.113478,
-    "mps:latitude":18.04166,
-    "mps:longitude":-63.113478,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0623\u0645\u064a\u0631\u0629 \u062c\u0648\u0644\u064a\u0627\u0646\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "date:inception_lower": "1964-01-01",
+    "date:inception_upper": "1964-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1964",
+    "geom:area": 0.00005948169549997455,
+    "geom:area_square_m": 699340.307772,
+    "geom:bbox": "-63.120343,18.037432,-63.096679,18.045194",
+    "geom:latitude": 18.041410317284658,
+    "geom:longitude": -63.11070116358941,
+    "iso:country": "SX",
+    "lbl:latitude": 18.04166,
+    "lbl:longitude": -63.113478,
+    "mps:latitude": 18.04166,
+    "mps:longitude": -63.113478,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار الأميرة جوليانا الدولي"
     ],
-    "name:ast_x_preferred":[
-        "Aeropuertu Internacional Princesa Juliana"
+    "name:ast_x_preferred": [
+      "Aeropuertu Internacional Princesa Juliana"
     ],
-    "name:ces_x_preferred":[
-        "Mezin\u00e1rodn\u00ed leti\u0161t\u011b princezny Juliany"
+    "name:ces_x_preferred": [
+      "Mezinárodní letiště princezny Juliany"
     ],
-    "name:dan_x_preferred":[
-        "Princess Juliana International Airport"
+    "name:dan_x_preferred": [
+      "Princess Juliana International Airport"
     ],
-    "name:deu_x_preferred":[
-        "Princess Juliana International Airport"
+    "name:deu_x_preferred": [
+      "Princess Juliana International Airport"
     ],
-    "name:eng_x_preferred":[
-        "Princess Juliana International Airport"
+    "name:eng_x_preferred": [
+      "Princess Juliana International Airport"
     ],
-    "name:epo_x_preferred":[
-        "Internacia Flughaveno Princino Juliino"
+    "name:epo_x_preferred": [
+      "Internacia Flughaveno Princino Juliino"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0631\u06cc\u0646\u0633\u0633 \u062c\u0648\u0644\u06cc\u0627\u0646\u0627"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی پرینسس جولیانا"
     ],
-    "name:fin_x_preferred":[
-        "Prinsessa Julianan lentoasema"
+    "name:fin_x_preferred": [
+      "Prinsessa Julianan lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international Princess Juliana"
+    "name:fra_x_preferred": [
+      "aéroport international Princess Juliana"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05e0\u05e1\u05d9\u05db\u05d4 \u05d9\u05d5\u05dc\u05d9\u05d0\u05e0\u05d4"
+    "name:heb_x_preferred": [
+      "נמל התעופה הנסיכה יוליאנה"
     ],
-    "name:hrv_x_preferred":[
-        "Me\u0111unarodna zra\u010dna luka Princeza Julijana"
+    "name:hrv_x_preferred": [
+      "Međunarodna zračna luka Princeza Julijana"
     ],
-    "name:hun_x_preferred":[
-        "Princess Juliana nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    "name:hun_x_preferred": [
+      "Princess Juliana nemzetközi repülőtér"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Putri Juliana"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Putri Juliana"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale Principessa Juliana"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale Principessa Juliana"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30b8\u30e5\u30ea\u30a2\u30ca\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "プリンセス・ジュリアナ国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\ud504\ub9b0\uc138\uc2a4 \uc904\ub9ac\uc544\ub098 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "프린세스 줄리아나 국제공항"
     ],
-    "name:lav_x_preferred":[
-        "Princeses Julianas starptautisk\u0101 lidosta"
+    "name:lav_x_preferred": [
+      "Princeses Julianas starptautiskā lidosta"
     ],
-    "name:lit_x_preferred":[
-        "Princes\u0117s Julianos tarptautinis oro uostas"
+    "name:lit_x_preferred": [
+      "Princesės Julianos tarptautinis oro uostas"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Antarabangsa Princess Juliana"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Princess Juliana"
     ],
-    "name:nld_x_preferred":[
-        "Princess Juliana International Airport"
+    "name:nld_x_preferred": [
+      "Princess Juliana International Airport"
     ],
-    "name:nno_x_preferred":[
-        "Prinsesse Juliana internasjonale lufthamn"
+    "name:nno_x_preferred": [
+      "Prinsesse Juliana internasjonale lufthamn"
     ],
-    "name:nob_x_preferred":[
-        "Prinsesse Juliana internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Prinsesse Juliana internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Princess Juliana"
+    "name:pol_x_preferred": [
+      "Port lotniczy Princess Juliana"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional Princesa Juliana"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional Princesa Juliana"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Princess Juliana"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Princess Juliana"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b \u042e\u043b\u0438\u0430\u043d\u044b"
+    "name:rus_x_preferred": [
+      "Аэропорт Принцессы Юлианы"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional Princesa Juliana"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Princesa Juliana"
     ],
-    "name:swe_x_preferred":[
-        "Princess Juliana International Airport"
+    "name:swe_x_preferred": [
+      "Princess Juliana International Airport"
     ],
-    "name:tur_x_preferred":[
-        "Prenses Juliana Uluslararas\u0131 Havaalan\u0131"
+    "name:tur_x_preferred": [
+      "Prenses Juliana Uluslararası Havaalanı"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0438 \u042e\u043b\u0456\u0430\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Аеропорт Принцеси Юліани"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Princess Juliana"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Princess Juliana"
     ],
-    "name:zho_x_preferred":[
-        "\u6731\u9e97\u5b89\u5a1c\u516c\u4e3b\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "朱麗安娜公主國際機場"
     ],
-    "sfomuseum:airport_id":117,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Princess Juliana International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "woedb"
+    "sfomuseum:airport_id": 117,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Princess Juliana International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "woedb"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424914,
-        "planet_id":1,
-        "state_id":23425000
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424914,
+      "planet_id": 1,
+      "state_id": 23425000
     },
-    "wof:belongsto":[
-        102191575,
-        85632185
+    "wof:belongsto": [
+      102191575,
+      85632185
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12515140,
-        "iata:code":"SXM",
-        "icao:code":"TNCM",
-        "wd:id":"Q723325"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12515140,
+      "iata:code": "SXM",
+      "icao:code": "TNCM",
+      "wd:id": "Q723325"
     },
-    "wof:country":"SX",
-    "wof:geom_alt":[
-        "woedb"
+    "wof:country": "SX",
+    "wof:created": 1624906458,
+    "wof:geom_alt": [
+      "woedb"
     ],
-    "wof:geomhash":"e1727e7f3731d1c27ca9015ef7a5b1f9",
-    "wof:hierarchy":[
-        {
-            "campus_id":102553765,
-            "continent_id":102191575,
-            "country_id":85632185,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1
-        }
+    "wof:geomhash": "e1727e7f3731d1c27ca9015ef7a5b1f9",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102553765,
+        "continent_id": 102191575,
+        "country_id": 85632185,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
+      }
     ],
-    "wof:id":102553765,
-    "wof:lastmodified":1611601235,
-    "wof:name":"Prinses Juliana International Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-sx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102553765,
+    "wof:lastmodified": 1624906458,
+    "wof:name": "Prinses Juliana International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-sx",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -63.120343,
     18.037432,
     -63.096679,
     18.045194
-],
+  ],
   "geometry": {"coordinates":[[[-63.120033,18.040355],[-63.119748,18.040404],[-63.119361,18.040527],[-63.118767,18.040994],[-63.118095,18.041608],[-63.116907,18.042517],[-63.116519,18.042689],[-63.115047,18.043573],[-63.114814,18.043917],[-63.11453,18.04431],[-63.114272,18.044556],[-63.113729,18.044654],[-63.113161,18.044752],[-63.112902,18.04485],[-63.112722,18.045145],[-63.112334,18.045194],[-63.112127,18.044335],[-63.111817,18.042861],[-63.111611,18.042861],[-63.111197,18.042885],[-63.110965,18.042812],[-63.110681,18.042615],[-63.105927,18.041976],[-63.09996,18.042885],[-63.099572,18.042934],[-63.099262,18.043131],[-63.099004,18.043278],[-63.097635,18.043499],[-63.097195,18.043524],[-63.096989,18.043475],[-63.09686,18.043278],[-63.096808,18.043008],[-63.096705,18.04232],[-63.096679,18.041952],[-63.096679,18.041706],[-63.09686,18.04151],[-63.097764,18.04124],[-63.097919,18.041289],[-63.098952,18.041117],[-63.099546,18.041068],[-63.099908,18.041117],[-63.100321,18.041387],[-63.10076,18.041436],[-63.101225,18.041387],[-63.101561,18.041387],[-63.102285,18.041313],[-63.106315,18.040699],[-63.110603,18.040085],[-63.113884,18.039643],[-63.116106,18.039274],[-63.116416,18.038857],[-63.116648,18.038636],[-63.116958,18.03839],[-63.117346,18.038169],[-63.117578,18.03785],[-63.117708,18.037506],[-63.117811,18.037432],[-63.11794,18.037506],[-63.118173,18.037678],[-63.118508,18.037973],[-63.118715,18.03812],[-63.119258,18.038267],[-63.119568,18.038513],[-63.120084,18.038709],[-63.12011,18.039102],[-63.120213,18.039471],[-63.120317,18.039741],[-63.120343,18.04006],[-63.120239,18.040257],[-63.120033,18.040355]]],"type":"Polygon"}
 }

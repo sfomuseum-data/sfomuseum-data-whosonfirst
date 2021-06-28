@@ -2,711 +2,712 @@
   "id": 101752771,
   "type": "Feature",
   "properties": {
-    "de-bkg:ade":6,
-    "de-bkg:ags":5315000,
-    "de-bkg:ags_0":5315000,
-    "de-bkg:bem":"kreisfrei",
-    "de-bkg:bez":"Stadt",
-    "de-bkg:bsg":1,
-    "de-bkg:debkg_id":"DEBKGDL20000E006",
-    "de-bkg:fk_s3":"R",
-    "de-bkg:gen":"K\u00f6ln",
-    "de-bkg:gf":4,
-    "de-bkg:ibz":60,
-    "de-bkg:nbd":"ja",
-    "de-bkg:nuts":"DEA23",
-    "de-bkg:rs":53150000000,
-    "de-bkg:rs_0":53150000000,
-    "de-bkg:sdv_rs":53150000000,
-    "de-bkg:sn_g":0,
-    "de-bkg:sn_k":15,
-    "de-bkg:sn_l":5,
-    "de-bkg:sn_r":3,
-    "de-bkg:sn_v1":0,
-    "de-bkg:sn_v2":0,
-    "de-bkg:wdk":"1976/06/01",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.052014,
-    "geom:area_square_m":405232080.226107,
-    "geom:bbox":"6.772376,50.82963,7.163623,51.084566",
-    "geom:latitude":50.945632,
-    "geom:longitude":6.973329,
-    "gn:population":963395,
-    "iso:country":"DE",
-    "lbl:latitude":50.928344,
-    "lbl:longitude":7.002998,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":7.0,
-    "mps:latitude":50.928344,
-    "mps:longitude":7.002998,
-    "mz:categories":[],
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":5.0,
-    "name:afr_x_preferred":[
-        "Keulen"
-    ],
-    "name:als_x_preferred":[
-        "K\u00f6ln"
-    ],
-    "name:amh_x_preferred":[
-        "\u12ae\u120d\u1295"
-    ],
-    "name:ara_x_preferred":[
-        "\u0643\u0648\u0644\u0648\u0646\u064a\u0627"
-    ],
-    "name:arg_x_preferred":[
-        "Colonia"
-    ],
-    "name:ast_x_preferred":[
-        "Colonia"
-    ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u0644\u0646"
-    ],
-    "name:aze_x_preferred":[
-        "K\u00f6ln"
-    ],
-    "name:bar_x_preferred":[
-        "K\u00f6ln"
+    "de-bkg:ade": 6,
+    "de-bkg:ags": 5315000,
+    "de-bkg:ags_0": 5315000,
+    "de-bkg:bem": "kreisfrei",
+    "de-bkg:bez": "Stadt",
+    "de-bkg:bsg": 1,
+    "de-bkg:debkg_id": "DEBKGDL20000E006",
+    "de-bkg:fk_s3": "R",
+    "de-bkg:gen": "Köln",
+    "de-bkg:gf": 4,
+    "de-bkg:ibz": 60,
+    "de-bkg:nbd": "ja",
+    "de-bkg:nuts": "DEA23",
+    "de-bkg:rs": 53150000000,
+    "de-bkg:rs_0": 53150000000,
+    "de-bkg:sdv_rs": 53150000000,
+    "de-bkg:sn_g": 0,
+    "de-bkg:sn_k": 15,
+    "de-bkg:sn_l": 5,
+    "de-bkg:sn_r": 3,
+    "de-bkg:sn_v1": 0,
+    "de-bkg:sn_v2": 0,
+    "de-bkg:wdk": "1976/06/01",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.05201430420699992,
+    "geom:area_square_m": 405232080.226107,
+    "geom:bbox": "6.772376,50.829630,7.163623,51.084566",
+    "geom:latitude": 50.9456317938664,
+    "geom:longitude": 6.973329068047401,
+    "gn:population": 963395,
+    "iso:country": "DE",
+    "lbl:latitude": 50.928344,
+    "lbl:longitude": 7.002998,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 7,
+    "mps:latitude": 50.928344,
+    "mps:longitude": 7.002998,
+    "mz:categories": [],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 5,
+    "name:afr_x_preferred": [
+      "Keulen"
+    ],
+    "name:als_x_preferred": [
+      "Köln"
+    ],
+    "name:amh_x_preferred": [
+      "ኮልን"
+    ],
+    "name:ara_x_preferred": [
+      "كولونيا"
+    ],
+    "name:arg_x_preferred": [
+      "Colonia"
+    ],
+    "name:ast_x_preferred": [
+      "Colonia"
+    ],
+    "name:azb_x_preferred": [
+      "کولن"
+    ],
+    "name:aze_x_preferred": [
+      "Köln"
+    ],
+    "name:bar_x_preferred": [
+      "Köln"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0451\u043b\u044c\u043d"
+    "name:bel_x_preferred": [
+      "Горад Кёльн"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:bel_x_variant": [
+      "Кёльн"
     ],
-    "name:ben_x_preferred":[
-        "\u0995\u09cb\u09b2\u09a8"
+    "name:ben_x_preferred": [
+      "কোলন"
     ],
-    "name:bos_x_preferred":[
-        "K\u00f6ln"
+    "name:bos_x_preferred": [
+      "Köln"
     ],
-    "name:bre_x_preferred":[
-        "K\u00f6ln"
+    "name:bre_x_preferred": [
+      "Köln"
     ],
-    "name:bul_x_preferred":[
-        "\u041a\u044c\u043e\u043b\u043d"
+    "name:bul_x_preferred": [
+      "Кьолн"
     ],
-    "name:cat_x_preferred":[
-        "Col\u00f2nia"
+    "name:cat_x_preferred": [
+      "Colònia"
     ],
-    "name:ceb_x_preferred":[
-        "K\u00f6ln"
+    "name:ceb_x_preferred": [
+      "Köln"
     ],
-    "name:ces_x_preferred":[
-        "Kol\u00edn nad R\u00fdnem"
+    "name:ces_x_preferred": [
+      "Kolín nad Rýnem"
     ],
-    "name:che_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:che_x_preferred": [
+      "Кёльн"
     ],
-    "name:ckb_x_preferred":[
-        "\u06a9\u06c6\u0644\u0646"
+    "name:ckb_x_preferred": [
+      "کۆلن"
     ],
-    "name:cos_x_preferred":[
-        "K\u00f6ln"
+    "name:cos_x_preferred": [
+      "Köln"
     ],
-    "name:csb_x_preferred":[
-        "K\u00f4ln"
+    "name:csb_x_preferred": [
+      "Kôln"
     ],
-    "name:cym_x_preferred":[
-        "Cwlen"
+    "name:cym_x_preferred": [
+      "Cwlen"
     ],
-    "name:dan_x_preferred":[
-        "K\u00f6ln"
+    "name:dan_x_preferred": [
+      "Köln"
     ],
-    "name:deu_x_preferred":[
-        "K\u00f6ln"
+    "name:deu_x_preferred": [
+      "Köln"
     ],
-    "name:diq_x_preferred":[
-        "K\u00f6ln"
+    "name:diq_x_preferred": [
+      "Köln"
     ],
-    "name:dsb_x_preferred":[
-        "K\u00f6ln"
+    "name:dsb_x_preferred": [
+      "Köln"
     ],
-    "name:ell_x_preferred":[
-        "\u039a\u03bf\u03bb\u03c9\u03bd\u03af\u03b1"
+    "name:ell_x_preferred": [
+      "Κολωνία"
     ],
-    "name:eml_x_preferred":[
-        "Cul\u00f2gna"
+    "name:eml_x_preferred": [
+      "Culògna"
     ],
-    "name:eng_x_colloquial":[
-        "Colonia"
+    "name:eng_x_colloquial": [
+      "Colonia"
     ],
-    "name:eng_x_preferred":[
-        "Cologne"
+    "name:eng_x_preferred": [
+      "Cologne"
     ],
-    "name:epo_x_preferred":[
-        "Kolonjo"
+    "name:epo_x_preferred": [
+      "Kolonjo"
     ],
-    "name:est_x_preferred":[
-        "K\u00f6ln"
+    "name:est_x_preferred": [
+      "Köln"
     ],
-    "name:eus_x_preferred":[
-        "Kolonia"
+    "name:eus_x_preferred": [
+      "Kolonia"
     ],
-    "name:ext_x_preferred":[
-        "Colonia"
+    "name:ext_x_preferred": [
+      "Colonia"
     ],
-    "name:fao_x_preferred":[
-        "K\u00f6ln"
+    "name:fao_x_preferred": [
+      "Köln"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0644\u0646"
+    "name:fas_x_preferred": [
+      "کلن"
     ],
-    "name:fin_x_preferred":[
-        "K\u00f6ln"
+    "name:fin_x_preferred": [
+      "Köln"
     ],
-    "name:fra_x_preferred":[
-        "Cologne"
+    "name:fra_x_preferred": [
+      "Cologne"
     ],
-    "name:frp_x_preferred":[
-        "K\u00f6ln"
+    "name:frp_x_preferred": [
+      "Köln"
     ],
-    "name:frr_x_preferred":[
-        "K\u00f6ln"
+    "name:frr_x_preferred": [
+      "Köln"
     ],
-    "name:fry_x_preferred":[
-        "Keulen"
+    "name:fry_x_preferred": [
+      "Keulen"
     ],
-    "name:fur_x_preferred":[
-        "K\u00f6ln"
+    "name:fur_x_preferred": [
+      "Köln"
     ],
-    "name:gla_x_preferred":[
-        "K\u00f6ln"
+    "name:gla_x_preferred": [
+      "Köln"
     ],
-    "name:gle_x_preferred":[
-        "K\u00f6ln"
+    "name:gle_x_preferred": [
+      "Köln"
     ],
-    "name:glg_x_preferred":[
-        "Colonia"
+    "name:glg_x_preferred": [
+      "Colonia"
     ],
-    "name:glv_x_preferred":[
-        "Koloin"
+    "name:glv_x_preferred": [
+      "Koloin"
     ],
-    "name:gsw_x_preferred":[
-        "K\u00f6ln"
+    "name:gsw_x_preferred": [
+      "Köln"
     ],
-    "name:guj_x_preferred":[
-        "\u0a95\u0acb\u0ab2\u0acb\u0a97\u0acd\u0aa8\u0ac7"
+    "name:guj_x_preferred": [
+      "કોલોગ્ને"
     ],
-    "name:hak_x_preferred":[
-        "Cologne"
+    "name:hak_x_preferred": [
+      "Cologne"
     ],
-    "name:hau_x_preferred":[
-        "K\u00f6ln"
+    "name:hau_x_preferred": [
+      "Köln"
     ],
-    "name:heb_x_preferred":[
-        "\u05e7\u05dc\u05df"
+    "name:heb_x_preferred": [
+      "קלן"
     ],
-    "name:hin_x_preferred":[
-        "\u0915\u094b\u0932\u094b\u0928"
+    "name:hin_x_preferred": [
+      "कोलोन"
     ],
-    "name:hrv_x_preferred":[
-        "K\u00f6ln"
+    "name:hrv_x_preferred": [
+      "Köln"
     ],
-    "name:hsb_x_preferred":[
-        "K\u00f6ln"
+    "name:hsb_x_preferred": [
+      "Köln"
     ],
-    "name:hun_x_preferred":[
-        "K\u00f6ln"
+    "name:hun_x_preferred": [
+      "Köln"
     ],
-    "name:hye_x_preferred":[
-        "\u0554\u0575\u0578\u056c\u0576"
+    "name:hye_x_preferred": [
+      "Քյոլն"
     ],
-    "name:ido_x_preferred":[
-        "K\u00f6ln"
+    "name:ido_x_preferred": [
+      "Köln"
     ],
-    "name:ile_x_preferred":[
-        "K\u00f6ln"
+    "name:ile_x_preferred": [
+      "Köln"
     ],
-    "name:ina_x_preferred":[
-        "Colonia"
+    "name:ina_x_preferred": [
+      "Colonia"
     ],
-    "name:ind_x_preferred":[
-        "K\u00f6ln"
+    "name:ind_x_preferred": [
+      "Köln"
     ],
-    "name:isl_x_preferred":[
-        "K\u00f6ln"
+    "name:isl_x_preferred": [
+      "Köln"
     ],
-    "name:ita_x_preferred":[
-        "Colonia"
+    "name:ita_x_preferred": [
+      "Colonia"
     ],
-    "name:jav_x_preferred":[
-        "K\u00f6ln"
+    "name:jav_x_preferred": [
+      "Köln"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b1\u30eb\u30f3"
+    "name:jpn_x_preferred": [
+      "ケルン"
     ],
-    "name:kab_x_preferred":[
-        "K\u00f6ln"
+    "name:kab_x_preferred": [
+      "Köln"
     ],
-    "name:kan_x_preferred":[
-        "\u0c95\u0cb2\u0ccb\u0ca8\u0ccd"
+    "name:kan_x_preferred": [
+      "ಕಲೋನ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d9\u10d4\u10da\u10dc\u10d8"
+    "name:kat_x_preferred": [
+      "კელნი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:kaz_x_preferred": [
+      "Кёльн"
     ],
-    "name:kir_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:kir_x_preferred": [
+      "Кёльн"
     ],
-    "name:kon_x_preferred":[
-        "K\u00f6ln"
+    "name:kon_x_preferred": [
+      "Köln"
     ],
-    "name:kor_x_preferred":[
-        "\ucfb0\ub978"
+    "name:kor_x_preferred": [
+      "쾰른"
     ],
-    "name:ksh_x_preferred":[
-        "K\u00f6ln"
+    "name:ksh_x_preferred": [
+      "Köln"
     ],
-    "name:ksh_x_variant":[
-        "K\u00f6lle"
+    "name:ksh_x_variant": [
+      "Kölle"
     ],
-    "name:kur_x_preferred":[
-        "K\u00f6ln"
+    "name:kur_x_preferred": [
+      "Köln"
     ],
-    "name:lat_x_preferred":[
-        "Colonia Agrippina"
+    "name:lat_x_preferred": [
+      "Colonia Agrippina"
     ],
-    "name:lat_x_variant":[
-        "Colonia Claudia Ara Agrippinensium",
-        "Oppidum Ubiorum"
+    "name:lat_x_variant": [
+      "Colonia Claudia Ara Agrippinensium",
+      "Oppidum Ubiorum"
     ],
-    "name:lav_x_preferred":[
-        "\u0136elne"
+    "name:lav_x_preferred": [
+      "Ķelne"
     ],
-    "name:lfn_x_preferred":[
-        "K\u00f6ln"
+    "name:lfn_x_preferred": [
+      "Köln"
     ],
-    "name:lij_x_preferred":[
-        "Colonia"
+    "name:lij_x_preferred": [
+      "Colonia"
     ],
-    "name:lim_x_preferred":[
-        "K\u00f6lle"
+    "name:lim_x_preferred": [
+      "Kölle"
     ],
-    "name:lit_x_preferred":[
-        "Kelnas"
+    "name:lit_x_preferred": [
+      "Kelnas"
     ],
-    "name:lmo_x_preferred":[
-        "Colonia"
+    "name:lmo_x_preferred": [
+      "Colonia"
     ],
-    "name:ltz_x_preferred":[
-        "K\u00f6ln"
+    "name:ltz_x_preferred": [
+      "Köln"
     ],
-    "name:mal_x_preferred":[
-        "\u0d15\u0d4a\u0d33\u0d4b\u0d7a"
+    "name:mal_x_preferred": [
+      "കൊളോൺ"
     ],
-    "name:mar_x_preferred":[
-        "\u0915\u094d\u092f\u094b\u0932\u094d\u0928"
+    "name:mar_x_preferred": [
+      "क्योल्न"
     ],
-    "name:mhr_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:mhr_x_preferred": [
+      "Кёльн"
     ],
-    "name:min_x_preferred":[
-        "K\u00f6ln"
+    "name:min_x_preferred": [
+      "Köln"
     ],
-    "name:mkd_x_preferred":[
-        "\u041a\u0435\u043b\u043d"
+    "name:mkd_x_preferred": [
+      "Келн"
     ],
-    "name:mlg_x_preferred":[
-        "K\u00f6ln"
+    "name:mlg_x_preferred": [
+      "Köln"
     ],
-    "name:mon_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:mon_x_preferred": [
+      "Кёльн"
     ],
-    "name:mrj_x_preferred":[
-        "\u041a\u04e7\u043b\u044c\u043d"
+    "name:mrj_x_preferred": [
+      "Кӧльн"
     ],
-    "name:msa_x_preferred":[
-        "Cologne"
+    "name:msa_x_preferred": [
+      "Cologne"
     ],
-    "name:mya_x_preferred":[
-        "\u1000\u102d\u102f\u101c\u102f\u1036\u1038\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ကိုလုံးမြို့"
     ],
-    "name:nah_x_preferred":[
-        "K\u00f6ln"
+    "name:nah_x_preferred": [
+      "Köln"
     ],
-    "name:nan_x_preferred":[
-        "K\u00f6ln"
+    "name:nan_x_preferred": [
+      "Köln"
     ],
-    "name:nap_x_preferred":[
-        "K\u00f6ln"
+    "name:nap_x_preferred": [
+      "Köln"
     ],
-    "name:nds_x_preferred":[
-        "K\u00f6ln"
+    "name:nds_x_preferred": [
+      "Köln"
     ],
-    "name:nep_x_preferred":[
-        "\u0915\u094b\u0932\u094b\u0917\u094d\u0928\u0947"
+    "name:nep_x_preferred": [
+      "कोलोग्ने"
     ],
-    "name:nld_x_preferred":[
-        "Keulen"
+    "name:nld_x_preferred": [
+      "Keulen"
     ],
-    "name:nno_x_preferred":[
-        "K\u00f6ln"
+    "name:nno_x_preferred": [
+      "Köln"
     ],
-    "name:nob_x_preferred":[
-        "K\u00f6ln"
+    "name:nob_x_preferred": [
+      "Köln"
     ],
-    "name:nor_x_preferred":[
-        "K\u00f6ln"
+    "name:nor_x_preferred": [
+      "Köln"
     ],
-    "name:nrm_x_preferred":[
-        "K\u00f6ln"
+    "name:nrm_x_preferred": [
+      "Köln"
     ],
-    "name:oci_x_preferred":[
-        "Colonha"
+    "name:oci_x_preferred": [
+      "Colonha"
     ],
-    "name:oss_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:oss_x_preferred": [
+      "Кёльн"
     ],
-    "name:pam_x_preferred":[
-        "Cologne"
+    "name:pam_x_preferred": [
+      "Cologne"
     ],
-    "name:pan_x_preferred":[
-        "\u0a15\u0a32\u0a28"
+    "name:pan_x_preferred": [
+      "ਕਲਨ"
     ],
-    "name:pcd_x_preferred":[
-        "K\u00f6ln"
+    "name:pcd_x_preferred": [
+      "Köln"
     ],
-    "name:pms_x_preferred":[
-        "Col\u00f2nia"
+    "name:pms_x_preferred": [
+      "Colònia"
     ],
-    "name:pnb_x_preferred":[
-        "\u06a9\u0644\u0648\u0646"
+    "name:pnb_x_preferred": [
+      "کلون"
     ],
-    "name:pol_x_preferred":[
-        "Kolonia"
+    "name:pol_x_preferred": [
+      "Kolonia"
     ],
-    "name:por_x_preferred":[
-        "Col\u00f4nia"
+    "name:por_x_preferred": [
+      "Colônia"
     ],
-    "name:por_x_variant":[
-        "Col\u00f3nia"
+    "name:por_x_variant": [
+      "Colónia"
     ],
-    "name:que_x_preferred":[
-        "K\u00f6ln"
+    "name:que_x_preferred": [
+      "Köln"
     ],
-    "name:roh_x_preferred":[
-        "K\u00f6ln"
+    "name:roh_x_preferred": [
+      "Köln"
     ],
-    "name:ron_x_preferred":[
-        "K\u00f6ln"
+    "name:ron_x_preferred": [
+      "Köln"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:rus_x_preferred": [
+      "Кёльн"
     ],
-    "name:scn_x_preferred":[
-        "Culonia"
+    "name:scn_x_preferred": [
+      "Culonia"
     ],
-    "name:sco_x_preferred":[
-        "Cologne"
+    "name:sco_x_preferred": [
+      "Cologne"
     ],
-    "name:sgs_x_preferred":[
-        "Kiolns"
+    "name:sgs_x_preferred": [
+      "Kiolns"
     ],
-    "name:sin_x_preferred":[
-        "\u0d9a\u0dbd\u0ddd\u0db1\u0dca"
+    "name:sin_x_preferred": [
+      "කලෝන්"
     ],
-    "name:slk_x_preferred":[
-        "Kol\u00edn nad R\u00fdnom"
+    "name:slk_x_preferred": [
+      "Kolín nad Rýnom"
     ],
-    "name:slv_x_preferred":[
-        "K\u00f6ln"
+    "name:slv_x_preferred": [
+      "Köln"
     ],
-    "name:snd_x_preferred":[
-        "\u06aa\u0648\u0644\u0648\u0646"
+    "name:snd_x_preferred": [
+      "ڪولون"
     ],
-    "name:spa_x_preferred":[
-        "Colonia"
+    "name:spa_x_preferred": [
+      "Colonia"
     ],
-    "name:sqi_x_preferred":[
-        "K\u00eblni"
+    "name:sqi_x_preferred": [
+      "Këlni"
     ],
-    "name:srd_x_preferred":[
-        "Colonia"
+    "name:srd_x_preferred": [
+      "Colonia"
     ],
-    "name:srp_x_preferred":[
-        "\u041a\u0435\u043b\u043d"
+    "name:srp_x_preferred": [
+      "Келн"
     ],
-    "name:stq_x_preferred":[
-        "K\u00f6ln"
+    "name:stq_x_preferred": [
+      "Köln"
     ],
-    "name:swa_x_preferred":[
-        "K\u00f6ln"
+    "name:swa_x_preferred": [
+      "Köln"
     ],
-    "name:swe_x_preferred":[
-        "K\u00f6ln"
+    "name:swe_x_preferred": [
+      "Köln"
     ],
-    "name:szl_x_preferred":[
-        "K\u00f6ln"
+    "name:szl_x_preferred": [
+      "Köln"
     ],
-    "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb2\u0bcd\u0ba9\u0bcd"
+    "name:tam_x_preferred": [
+      "கோல்ன்"
     ],
-    "name:tat_x_preferred":[
-        "\u041a\u04e9\u043b\u043d"
+    "name:tat_x_preferred": [
+      "Көлн"
     ],
-    "name:tel_x_preferred":[
-        "\u0c15\u0c4a\u0c32\u0c4b\u0c28\u0c4d"
+    "name:tel_x_preferred": [
+      "కొలోన్"
     ],
-    "name:tgl_x_preferred":[
-        "Cologne"
+    "name:tgl_x_preferred": [
+      "Cologne"
     ],
-    "name:tgl_x_variant":[
-        "Lungsod ng Cologne"
+    "name:tgl_x_variant": [
+      "Lungsod ng Cologne"
     ],
-    "name:tha_x_preferred":[
-        "\u0e42\u0e04\u0e42\u0e25\u0e0d"
+    "name:tha_x_preferred": [
+      "โคโลญ"
     ],
-    "name:tum_x_preferred":[
-        "Cologne"
+    "name:tum_x_preferred": [
+      "Cologne"
     ],
-    "name:tur_x_preferred":[
-        "K\u00f6ln"
+    "name:tur_x_preferred": [
+      "Köln"
     ],
-    "name:twi_x_preferred":[
-        "K\u00f6ln"
+    "name:twi_x_preferred": [
+      "Köln"
     ],
-    "name:udm_x_preferred":[
-        "\u041a\u0451\u043b\u044c\u043d"
+    "name:udm_x_preferred": [
+      "Кёльн"
     ],
-    "name:uig_x_preferred":[
-        "Kolon"
+    "name:uig_x_preferred": [
+      "Kolon"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0435\u043b\u044c\u043d"
+    "name:ukr_x_preferred": [
+      "Кельн"
     ],
-    "name:und_x_variant":[
-        "Augusta Ubiorum"
+    "name:und_x_variant": [
+      "Augusta Ubiorum"
     ],
-    "name:urd_x_preferred":[
-        "\u06a9\u0648\u0644\u0648\u0646"
+    "name:urd_x_preferred": [
+      "کولون"
     ],
-    "name:urd_x_variant":[
-        "\u06a9\u0644\u0646"
+    "name:urd_x_variant": [
+      "کلن"
     ],
-    "name:uzb_x_preferred":[
-        "Kyoln"
+    "name:uzb_x_preferred": [
+      "Kyoln"
     ],
-    "name:vec_x_preferred":[
-        "Co\u0142ogna"
+    "name:vec_x_preferred": [
+      "Cołogna"
     ],
-    "name:vep_x_preferred":[
-        "K\u00f6l'n"
+    "name:vep_x_preferred": [
+      "Köl'n"
     ],
-    "name:vie_x_preferred":[
-        "K\u00f6ln"
+    "name:vie_x_preferred": [
+      "Köln"
     ],
-    "name:vls_x_preferred":[
-        "K\u00f6ln"
+    "name:vls_x_preferred": [
+      "Köln"
     ],
-    "name:vol_x_preferred":[
-        "K\u00f6ln"
+    "name:vol_x_preferred": [
+      "Köln"
     ],
-    "name:war_x_preferred":[
-        "Colonia"
+    "name:war_x_preferred": [
+      "Colonia"
     ],
-    "name:wln_x_preferred":[
-        "K\u00f6ln"
+    "name:wln_x_preferred": [
+      "Köln"
     ],
-    "name:wol_x_preferred":[
-        "K\u00f6ln"
+    "name:wol_x_preferred": [
+      "Köln"
     ],
-    "name:wuu_x_preferred":[
-        "\u79d1\u9686"
+    "name:wuu_x_preferred": [
+      "科隆"
     ],
-    "name:yid_x_preferred":[
-        "\u05e7\u05e2\u05dc\u05df"
+    "name:yid_x_preferred": [
+      "קעלן"
     ],
-    "name:yue_x_preferred":[
-        "\u53e4\u9f8d"
+    "name:yue_x_preferred": [
+      "古龍"
     ],
-    "name:zho_x_preferred":[
-        "\u79d1\u9686"
+    "name:zho_x_preferred": [
+      "科隆"
     ],
-    "name:zul_x_preferred":[
-        "K\u00f6ln"
+    "name:zul_x_preferred": [
+      "Köln"
     ],
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Germany",
-    "ne:ADM0_A3":"DEU",
-    "ne:ADM1NAME":"Nordrhein-Westfalen",
-    "ne:ADMIN1_COD":7,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":1,
-    "ne:CHECKME":0,
-    "ne:CITYALT":"Cologne",
-    "ne:COMPARE":1,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":"Name changed. Changed scale rank.",
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Populated place",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPL",
-    "ne:GEONAMEID":2886242,
-    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
-    "ne:GN_ASCII":"Koeln",
-    "ne:GN_POP":963395,
-    "ne:GTOPO30":46.0,
-    "ne:ISO_A2":"DE",
-    "ne:LABELRANK":3,
-    "ne:LATITUDE":50.930004,
-    "ne:LONGITUDE":6.950004,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Koln",
-    "ne:MAX_AREAKM":834.0,
-    "ne:MAX_AREAMI":322.0,
-    "ne:MAX_BBXMAX":7.453207,
-    "ne:MAX_BBXMIN":6.741667,
-    "ne:MAX_BBYMAX":51.382625,
-    "ne:MAX_BBYMIN":50.758976,
-    "ne:MAX_NATSCA":20.0,
-    "ne:MAX_PERKM":785.0,
-    "ne:MAX_PERMI":488.0,
-    "ne:MAX_POP10":1514439,
-    "ne:MAX_POP20":2052421,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":7.000312,
-    "ne:MEAN_BBYC":50.995964,
-    "ne:MEGACITY":1,
-    "ne:MEGANAME":"Kaln",
-    "ne:MIN_AREAKM":581.0,
-    "ne:MIN_AREAMI":224.0,
-    "ne:MIN_BBXMAX":7.208333,
-    "ne:MIN_BBXMIN":6.741667,
-    "ne:MIN_BBYMAX":51.141667,
-    "ne:MIN_BBYMIN":50.758976,
-    "ne:MIN_PERKM":483.0,
-    "ne:MIN_PERMI":300.0,
-    "ne:NAME":"Cologne",
-    "ne:NAMEALT":"Koln",
-    "ne:NAMEASCII":"Cologne",
-    "ne:NAMEDIFF":1,
-    "ne:NAMEPAR":"Koln",
-    "ne:NATSCALE":30,
-    "ne:NOTE":null,
-    "ne:POP1950":598,
-    "ne:POP1955":683,
-    "ne:POP1960":788,
-    "ne:POP1965":827,
-    "ne:POP1970":849,
-    "ne:POP1975":908,
-    "ne:POP1980":970,
-    "ne:POP1985":919,
-    "ne:POP1990":950,
-    "ne:POP1995":965,
-    "ne:POP2000":963,
-    "ne:POP2005":976,
-    "ne:POP2010":1004,
-    "ne:POP2015":1037,
-    "ne:POP2020":1059,
-    "ne:POP2025":1061,
-    "ne:POP2050":1061,
-    "ne:POP_MAX":1004000,
-    "ne:POP_MIN":963395,
-    "ne:POP_OTHER":1448809,
-    "ne:RANK_MAX":12,
-    "ne:RANK_MIN":11,
-    "ne:SCALERANK":6,
-    "ne:SOV0NAME":"Germany",
-    "ne:SOV_A3":"DEU",
-    "ne:TIMEZONE":"Europe/Berlin",
-    "ne:UN_ADM0":"Germany",
-    "ne:UN_FID":194,
-    "ne:UN_LAT":50.94,
-    "ne:UN_LONG":6.93,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Bundesrepublik Deutschland",
-    "qs:a1":"*Nordrhein-Westfalen",
-    "qs:a1r":"0",
-    "qs:a2":"K\u00f6ln",
-    "qs:a2r":"K\u00f6ln",
-    "qs:adm0":"Bundesrepublik Deutschland",
-    "qs:la":"Solingen",
-    "qs:la_lc":"*DE05102200000",
-    "qs:level":"locality",
-    "qs:loc":"K\u00f6ln",
-    "qs:loc_alt":"Koeln",
-    "qs:pop":0,
-    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
-    "src:geom":"de-bkg",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "de"
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Germany",
+    "ne:ADM0_A3": "DEU",
+    "ne:ADM1NAME": "Nordrhein-Westfalen",
+    "ne:ADMIN1_COD": 7,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 1,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": "Cologne",
+    "ne:COMPARE": 1,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": "Name changed. Changed scale rank.",
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Populated place",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPL",
+    "ne:GEONAMEID": 2886242,
+    "ne:GEONAMESNO": "GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII": "Koeln",
+    "ne:GN_POP": 963395,
+    "ne:GTOPO30": 46,
+    "ne:ISO_A2": "DE",
+    "ne:LABELRANK": 3,
+    "ne:LATITUDE": 50.930004,
+    "ne:LONGITUDE": 6.950004,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Koln",
+    "ne:MAX_AREAKM": 834,
+    "ne:MAX_AREAMI": 322,
+    "ne:MAX_BBXMAX": 7.453207,
+    "ne:MAX_BBXMIN": 6.741667,
+    "ne:MAX_BBYMAX": 51.382625,
+    "ne:MAX_BBYMIN": 50.758976,
+    "ne:MAX_NATSCA": 20,
+    "ne:MAX_PERKM": 785,
+    "ne:MAX_PERMI": 488,
+    "ne:MAX_POP10": 1514439,
+    "ne:MAX_POP20": 2052421,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 7.000312,
+    "ne:MEAN_BBYC": 50.995964,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "Kaln",
+    "ne:MIN_AREAKM": 581,
+    "ne:MIN_AREAMI": 224,
+    "ne:MIN_BBXMAX": 7.208333,
+    "ne:MIN_BBXMIN": 6.741667,
+    "ne:MIN_BBYMAX": 51.141667,
+    "ne:MIN_BBYMIN": 50.758976,
+    "ne:MIN_PERKM": 483,
+    "ne:MIN_PERMI": 300,
+    "ne:NAME": "Cologne",
+    "ne:NAMEALT": "Koln",
+    "ne:NAMEASCII": "Cologne",
+    "ne:NAMEDIFF": 1,
+    "ne:NAMEPAR": "Koln",
+    "ne:NATSCALE": 30,
+    "ne:NOTE": null,
+    "ne:POP1950": 598,
+    "ne:POP1955": 683,
+    "ne:POP1960": 788,
+    "ne:POP1965": 827,
+    "ne:POP1970": 849,
+    "ne:POP1975": 908,
+    "ne:POP1980": 970,
+    "ne:POP1985": 919,
+    "ne:POP1990": 950,
+    "ne:POP1995": 965,
+    "ne:POP2000": 963,
+    "ne:POP2005": 976,
+    "ne:POP2010": 1004,
+    "ne:POP2015": 1037,
+    "ne:POP2020": 1059,
+    "ne:POP2025": 1061,
+    "ne:POP2050": 1061,
+    "ne:POP_MAX": 1004000,
+    "ne:POP_MIN": 963395,
+    "ne:POP_OTHER": 1448809,
+    "ne:RANK_MAX": 12,
+    "ne:RANK_MIN": 11,
+    "ne:SCALERANK": 6,
+    "ne:SOV0NAME": "Germany",
+    "ne:SOV_A3": "DEU",
+    "ne:TIMEZONE": "Europe/Berlin",
+    "ne:UN_ADM0": "Germany",
+    "ne:UN_FID": 194,
+    "ne:UN_LAT": 50.94,
+    "ne:UN_LONG": 6.93,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "Bundesrepublik Deutschland",
+    "qs:a1": "*Nordrhein-Westfalen",
+    "qs:a1r": "0",
+    "qs:a2": "Köln",
+    "qs:a2r": "Köln",
+    "qs:adm0": "Bundesrepublik Deutschland",
+    "qs:la": "Solingen",
+    "qs:la_lc": "*DE05102200000",
+    "qs:level": "locality",
+    "qs:loc": "Köln",
+    "qs:loc_alt": "Koeln",
+    "qs:pop": 0,
+    "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "sfomuseum:placetype": "city",
+    "src:geom": "de-bkg",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "de"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85682513,
-        102191581,
-        85633111,
-        1377689979,
-        404227541,
-        102063715
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85682513,
+      102191581,
+      85633111,
+      1377689979,
+      404227541,
+      102063715
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "dbp:id":"Cologne",
-        "fb:id":"en.cologne",
-        "gn:id":2886242,
-        "gp:id":667931,
-        "loc:id":"n80050882",
-        "nyt:id":9223372036854775807,
-        "qs_pg:id":352537,
-        "wd:id":"Q365",
-        "wk:page":"Cologne"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "dbp:id": "Cologne",
+      "fb:id": "en.cologne",
+      "gn:id": 2886242,
+      "gp:id": 667931,
+      "loc:id": "n80050882",
+      "nyt:id": 9223372036854776000,
+      "qs_pg:id": 352537,
+      "wd:id": "Q365",
+      "wk:page": "Cologne"
     },
-    "wof:concordances_alt":{
-        "qs_pg:id":820954
+    "wof:concordances_alt": {
+      "qs_pg:id": 820954
     },
-    "wof:coterminous":[
-        102063715
+    "wof:coterminous": [
+      102063715
     ],
-    "wof:country":"DE",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "de-bkg"
+    "wof:country": "DE",
+    "wof:created": 1624906516,
+    "wof:geom_alt": [
+      "quattroshapes_pg",
+      "de-bkg"
     ],
-    "wof:geomhash":"d55238f7650900e58c3571f329c1204c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063715,
-            "localadmin_id":1377689979,
-            "locality_id":101752771,
-            "macrocounty_id":404227541,
-            "region_id":85682513
-        }
+    "wof:geomhash": "d55238f7650900e58c3571f329c1204c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063715,
+        "localadmin_id": 1377689979,
+        "locality_id": 101752771,
+        "macrocounty_id": 404227541,
+        "region_id": 85682513
+      }
     ],
-    "wof:id":101752771,
-    "wof:lastmodified":1611601207,
-    "wof:megacity":1,
-    "wof:name":"K\u00f6ln",
-    "wof:parent_id":1377689979,
-    "wof:placetype":"locality",
-    "wof:population":963395,
-    "wof:population_rank":11,
-    "wof:repo":"whosonfirst-data-admin-de",
-    "wof:scale":6,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 101752771,
+    "wof:lastmodified": 1624906516,
+    "wof:megacity": 1,
+    "wof:name": "Köln",
+    "wof:parent_id": 1377689979,
+    "wof:placetype": "locality",
+    "wof:population": 963395,
+    "wof:population_rank": 11,
+    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:scale": 6,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     6.772376,
     50.82963,
     7.163623,
     51.084566
-],
+  ],
   "geometry": {"coordinates":[[[[7.067906,51.01874],[7.068602,51.017049],[7.066434,51.01567],[7.064756,51.014612],[7.061874,51.013428],[7.063066,51.012195],[7.067448,51.00853],[7.07004,51.006499],[7.071631,51.005258],[7.075267,51.0026],[7.076543,51.001781],[7.075645,51.000644],[7.074317,51.000754],[7.073066,51.000739],[7.066571,50.994165],[7.068403,50.992849],[7.067565,50.990005],[7.06907,50.989845],[7.081795,50.988438],[7.083988,50.987706],[7.085612,50.986772],[7.086924,50.986018],[7.088251,50.986408],[7.095588,50.985208],[7.096453,50.984117],[7.09517,50.982926],[7.096176,50.980695],[7.099896,50.980948],[7.100023,50.980375],[7.096635,50.97885],[7.096129,50.977105],[7.096536,50.974957],[7.097737,50.974003],[7.099683,50.97334],[7.100413,50.971938],[7.100828,50.971148],[7.10128,50.967901],[7.100243,50.966862],[7.099063,50.965251],[7.095986,50.963639],[7.091879,50.961492],[7.092198,50.960655],[7.089619,50.959687],[7.087385,50.959279],[7.087652,50.958729],[7.086278,50.95795],[7.090812,50.955642],[7.095238,50.95479],[7.096019,50.951913],[7.096723,50.951258],[7.098121,50.951254],[7.10095,50.9504],[7.101815,50.949876],[7.102968,50.949909],[7.105088,50.948602],[7.107047,50.945597],[7.109007,50.94415],[7.110805,50.943046],[7.11129,50.942748],[7.113323,50.94342],[7.11365,50.943042],[7.115999,50.941318],[7.11752,50.941975],[7.117214,50.942849],[7.1203,50.944515],[7.123358,50.944216],[7.124665,50.944092],[7.125109,50.94406],[7.126453,50.944009],[7.126883,50.943976],[7.127545,50.943896],[7.129261,50.943622],[7.129923,50.943542],[7.13058,50.943525],[7.131706,50.943521],[7.131934,50.943528],[7.132371,50.943595],[7.132762,50.943705],[7.133526,50.943988],[7.134857,50.944504],[7.137489,50.945562],[7.139585,50.946352],[7.139974,50.94649],[7.140396,50.946574],[7.141079,50.946594],[7.141505,50.946615],[7.141961,50.94661],[7.142381,50.946523],[7.143401,50.946219],[7.143807,50.946123],[7.144457,50.946007],[7.14516,50.944766],[7.144382,50.942202],[7.143441,50.940202],[7.142055,50.938703],[7.141256,50.936655],[7.141176,50.935532],[7.139555,50.93376],[7.139796,50.932427],[7.138475,50.930336],[7.137145,50.928696],[7.136668,50.927795],[7.139926,50.922785],[7.139374,50.920724],[7.139546,50.919718],[7.138395,50.916325],[7.138716,50.912678],[7.137257,50.908816],[7.13807,50.906642],[7.136937,50.905565],[7.1344,50.905173],[7.133744,50.903693],[7.133217,50.902188],[7.135607,50.901721],[7.136544,50.90096],[7.136952,50.899855],[7.137514,50.898961],[7.138077,50.897879],[7.138356,50.896779],[7.138309,50.895381],[7.138226,50.893925],[7.138394,50.892643],[7.138971,50.89092],[7.13947,50.889743],[7.140049,50.888521],[7.140278,50.887431],[7.13913,50.886111],[7.138201,50.884893],[7.137762,50.884189],[7.137556,50.883038],[7.140723,50.880564],[7.141942,50.87952],[7.143234,50.878842],[7.144355,50.878446],[7.146319,50.877859],[7.148089,50.877338],[7.14929,50.876872],[7.150267,50.876376],[7.151224,50.875641],[7.152027,50.874949],[7.152731,50.874588],[7.153534,50.874421],[7.154291,50.874371],[7.155183,50.87454],[7.156447,50.874767],[7.157419,50.874866],[7.158593,50.874781],[7.159623,50.874596],[7.160491,50.874049],[7.163365,50.870748],[7.163623,50.869983],[7.163497,50.869348],[7.163003,50.868704],[7.162445,50.868147],[7.161282,50.867294],[7.159431,50.866716],[7.158261,50.866361],[7.137642,50.858033],[7.131627,50.85477],[7.129687,50.853718],[7.124284,50.851303],[7.12266,50.850352],[7.119794,50.848863],[7.117786,50.847823],[7.114214,50.845972],[7.113024,50.844145],[7.111655,50.842042],[7.10588,50.841063],[7.102234,50.839449],[7.098271,50.837732],[7.096269,50.835926],[7.091336,50.833566],[7.090618,50.833274],[7.083738,50.83127],[7.076595,50.830745],[7.07198,50.830644],[7.066665,50.830388],[7.062355,50.82963],[7.062304,50.836912],[7.062082,50.839908],[7.06127,50.844174],[7.059855,50.845591],[7.058306,50.847604],[7.057926,50.849126],[7.054512,50.849115],[7.051628,50.849254],[7.051049,50.850156],[7.039883,50.84876],[7.03255,50.848839],[7.03312,50.84673],[7.027095,50.847],[7.027057,50.843858],[7.023336,50.839256],[7.016936,50.839665],[7.015524,50.838021],[7.013402,50.838015],[7.011767,50.839939],[7.008252,50.838031],[7.0061,50.837243],[6.998891,50.837578],[6.995181,50.836253],[6.987076,50.83922],[6.987117,50.840365],[6.984717,50.841248],[6.986131,50.842704],[6.984081,50.844129],[6.982927,50.843264],[6.981837,50.842144],[6.980936,50.840916],[6.979886,50.841173],[6.97807,50.841289],[6.976014,50.841767],[6.975411,50.842587],[6.973903,50.843901],[6.967213,50.839077],[6.956038,50.83525],[6.949764,50.841418],[6.946691,50.845512],[6.945005,50.845226],[6.938096,50.844033],[6.93913,50.842245],[6.940565,50.839658],[6.940998,50.839023],[6.940281,50.838911],[6.931213,50.837497],[6.928347,50.843147],[6.926589,50.843814],[6.924578,50.84831],[6.921632,50.848327],[6.921361,50.849076],[6.920649,50.851108],[6.919292,50.854129],[6.918564,50.856016],[6.917262,50.856102],[6.91681,50.858637],[6.917723,50.861017],[6.919961,50.863408],[6.921896,50.865235],[6.920239,50.867895],[6.917985,50.870177],[6.919516,50.870819],[6.920929,50.871322],[6.919739,50.872744],[6.916178,50.876995],[6.915591,50.877844],[6.913846,50.881377],[6.912961,50.882895],[6.916624,50.888483],[6.918886,50.891933],[6.914904,50.893701],[6.902217,50.899354],[6.901082,50.89985],[6.895017,50.902554],[6.881795,50.908431],[6.879426,50.909573],[6.870726,50.905491],[6.867709,50.904352],[6.866887,50.905597],[6.866173,50.906682],[6.856956,50.904303],[6.85389,50.905612],[6.852427,50.906278],[6.844308,50.910059],[6.844,50.911067],[6.843307,50.913361],[6.840617,50.914762],[6.837948,50.917345],[6.837945,50.918831],[6.839386,50.920444],[6.840374,50.921646],[6.839811,50.924448],[6.837372,50.925921],[6.837083,50.925966],[6.830023,50.927104],[6.822461,50.927729],[6.820552,50.932399],[6.820166,50.933314],[6.818232,50.933387],[6.817678,50.939292],[6.815776,50.93926],[6.815325,50.940041],[6.814402,50.941676],[6.812589,50.943104],[6.811756,50.945138],[6.810211,50.946818],[6.80881,50.948648],[6.811979,50.948253],[6.815227,50.951175],[6.814941,50.952797],[6.817262,50.954645],[6.819943,50.956261],[6.824019,50.95782],[6.821038,50.961826],[6.82045,50.962616],[6.819152,50.964359],[6.818838,50.964893],[6.81899,50.965269],[6.819493,50.965772],[6.822236,50.967174],[6.823534,50.967839],[6.829298,50.97123],[6.829802,50.971732],[6.829896,50.971986],[6.829951,50.972137],[6.829868,50.972621],[6.827447,50.974453],[6.838687,50.981546],[6.839696,50.982326],[6.840289,50.983509],[6.839419,50.983805],[6.845047,50.988493],[6.840018,50.990722],[6.839511,50.993472],[6.837139,50.996091],[6.835249,50.999802],[6.84071,51.003662],[6.845489,51.003164],[6.844327,51.004316],[6.837931,51.010566],[6.839681,51.010983],[6.840786,51.011152],[6.842262,51.011217],[6.84135,51.012195],[6.837043,51.016449],[6.836515,51.01753],[6.836365,51.018525],[6.834955,51.018767],[6.84198,51.024656],[6.836064,51.027209],[6.839501,51.028551],[6.838587,51.028909],[6.835003,51.030517],[6.83022,51.033547],[6.828301,51.034684],[6.827374,51.034124],[6.826309,51.033692],[6.823494,51.036769],[6.821923,51.035995],[6.820293,51.038008],[6.819491,51.037487],[6.815019,51.035337],[6.812802,51.034645],[6.811871,51.035753],[6.808781,51.034683],[6.808341,51.035327],[6.806188,51.038805],[6.80541,51.039467],[6.798291,51.036953],[6.795919,51.038695],[6.79447,51.041366],[6.790815,51.044992],[6.78936,51.048521],[6.787833,51.050117],[6.783983,51.052855],[6.778032,51.056312],[6.77397,51.058068],[6.7724,51.060342],[6.772376,51.062593],[6.773632,51.06439],[6.775361,51.064761],[6.7835,51.06739],[6.787361,51.06881],[6.791437,51.067411],[6.792532,51.064041],[6.795015,51.06334],[6.799265,51.059945],[6.800867,51.059457],[6.800999,51.056085],[6.802549,51.053305],[6.803349,51.051311],[6.80476,51.048417],[6.807832,51.046812],[6.810781,51.046383],[6.813204,51.046108],[6.813464,51.047864],[6.813449,51.048593],[6.81346,51.048999],[6.813509,51.04928],[6.813587,51.049553],[6.813666,51.049825],[6.813818,51.050245],[6.813954,51.05051],[6.814104,51.050776],[6.814255,51.051042],[6.814406,51.051299],[6.814719,51.051678],[6.816416,51.051667],[6.816843,51.053787],[6.817573,51.053886],[6.821787,51.054953],[6.826403,51.056452],[6.828359,51.057199],[6.829465,51.057675],[6.830984,51.058504],[6.830913,51.059252],[6.829374,51.063792],[6.827876,51.06767],[6.826457,51.069963],[6.822986,51.073865],[6.82571,51.074556],[6.829361,51.075602],[6.837067,51.07758],[6.838641,51.077935],[6.837423,51.08014],[6.844104,51.081737],[6.843085,51.083948],[6.845052,51.084315],[6.846398,51.084566],[6.848624,51.084461],[6.851034,51.084359],[6.853487,51.084256],[6.853252,51.082159],[6.853481,51.080896],[6.854155,51.078511],[6.856059,51.076481],[6.856775,51.075971],[6.85771,51.075316],[6.859863,51.074078],[6.862785,51.073011],[6.866121,51.072266],[6.868774,51.071852],[6.870886,51.071546],[6.873592,51.071201],[6.877739,51.070414],[6.882207,51.069581],[6.884792,51.069032],[6.887613,51.068375],[6.891037,51.067538],[6.893597,51.06673],[6.898045,51.064886],[6.902431,51.062535],[6.911383,51.057694],[6.914503,51.056358],[6.922552,51.052454],[6.936982,51.045454],[6.939252,51.044361],[6.957749,51.035863],[6.963958,51.032468],[6.966668,51.030558],[6.970364,51.027241],[6.970952,51.026712],[6.972242,51.025264],[6.973092,51.023631],[6.973644,51.022332],[6.973877,51.021052],[6.974008,51.018584],[6.973877,51.017859],[6.973279,51.015778],[6.972274,51.014154],[6.975842,51.013055],[6.975462,51.010917],[6.980322,51.011983],[6.981333,51.012392],[6.985348,51.011603],[6.988308,51.012485],[6.992704,51.01214],[6.994173,51.011977],[6.997063,51.011893],[6.99629,51.016644],[6.999196,51.017875],[7.002752,51.01882],[7.00293,51.019483],[7.004488,51.019845],[7.00792,51.02074],[7.00851,51.022388],[7.0139,51.023072],[7.015868,51.017411],[7.018456,51.017741],[7.019485,51.017916],[7.021967,51.015873],[7.025841,51.017529],[7.030421,51.017774],[7.033564,51.017948],[7.036251,51.018298],[7.038901,51.019899],[7.041456,51.020885],[7.042564,51.019432],[7.044216,51.019301],[7.057517,51.018641],[7.058498,51.017931],[7.061712,51.01926],[7.063139,51.019161],[7.067066,51.018776],[7.067906,51.01874]]]],"type":"MultiPolygon"}
 }

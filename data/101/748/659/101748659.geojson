@@ -2,610 +2,611 @@
   "id": 101748659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.013467,
-    "geom:area_square_m":104088016.599184,
-    "geom:bbox":"9.351519,51.261941,9.569935,51.368676",
-    "geom:latitude":51.31146,
-    "geom:longitude":9.460187,
-    "gn:country":"DE",
-    "gn:fcode":"ADM4",
-    "gn:population":194774,
-    "iso:country":"DE",
-    "lbl:latitude":51.309934,
-    "lbl:longitude":9.47572,
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.0,
-    "mps:latitude":51.309934,
-    "mps:longitude":9.47572,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":7.0,
-    "name:afr_x_preferred":[
-        "Kassel"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.013466650503499999,
+    "geom:area_square_m": 104088016.599184,
+    "geom:bbox": "9.351519,51.261941,9.569935,51.368676",
+    "geom:latitude": 51.31146025280253,
+    "geom:longitude": 9.460186963209663,
+    "gn:country": "DE",
+    "gn:fcode": "ADM4",
+    "gn:population": 194774,
+    "iso:country": "DE",
+    "lbl:latitude": 51.309934,
+    "lbl:longitude": 9.47572,
+    "lbl:max_zoom": 14,
+    "lbl:min_zoom": 9,
+    "mps:latitude": 51.309934,
+    "mps:longitude": 9.47572,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 7,
+    "name:afr_x_preferred": [
+      "Kassel"
     ],
-    "name:ang_x_preferred":[
-        "Kassel"
+    "name:ang_x_preferred": [
+      "Kassel"
     ],
-    "name:ara_x_preferred":[
-        "\u0643\u0627\u0633\u0644"
+    "name:ara_x_preferred": [
+      "كاسل"
     ],
-    "name:arg_x_preferred":[
-        "Kassel"
+    "name:arg_x_preferred": [
+      "Kassel"
     ],
-    "name:ast_x_preferred":[
-        "Kassel"
+    "name:ast_x_preferred": [
+      "Kassel"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0627\u0633\u0644"
+    "name:azb_x_preferred": [
+      "کاسل"
     ],
-    "name:aze_x_preferred":[
-        "Kassel"
+    "name:aze_x_preferred": [
+      "Kassel"
     ],
-    "name:bak_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b\u044c"
+    "name:bak_x_preferred": [
+      "Кассель"
     ],
-    "name:bar_x_preferred":[
-        "Kassel"
+    "name:bar_x_preferred": [
+      "Kassel"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0441\u0435\u043b\u044c"
+    "name:bel_x_preferred": [
+      "Горад Касель"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u0441\u044d\u043b\u044c",
-        "\u041a\u0430\u0441\u0435\u043b\u044c"
+    "name:bel_x_variant": [
+      "Касэль",
+      "Касель"
     ],
-    "name:ben_x_preferred":[
-        "\u0995\u09be\u09b8\u09c7\u09b2"
+    "name:ben_x_preferred": [
+      "কাসেল"
     ],
-    "name:bre_x_preferred":[
-        "Kassel"
+    "name:bre_x_preferred": [
+      "Kassel"
     ],
-    "name:bul_x_preferred":[
-        "\u041a\u0430\u0441\u0435\u043b"
+    "name:bul_x_preferred": [
+      "Касел"
     ],
-    "name:cat_x_preferred":[
-        "Kassel"
+    "name:cat_x_preferred": [
+      "Kassel"
     ],
-    "name:ceb_x_preferred":[
-        "Kassel"
+    "name:ceb_x_preferred": [
+      "Kassel"
     ],
-    "name:ces_x_preferred":[
-        "Kassel"
+    "name:ces_x_preferred": [
+      "Kassel"
     ],
-    "name:cos_x_preferred":[
-        "Kassel"
+    "name:cos_x_preferred": [
+      "Kassel"
     ],
-    "name:cym_x_preferred":[
-        "Kassel"
+    "name:cym_x_preferred": [
+      "Kassel"
     ],
-    "name:dan_x_preferred":[
-        "Kassel"
+    "name:dan_x_preferred": [
+      "Kassel"
     ],
-    "name:deu_x_historical":[
-        "Cassel"
+    "name:deu_x_historical": [
+      "Cassel"
     ],
-    "name:deu_x_preferred":[
-        "Kassel"
+    "name:deu_x_preferred": [
+      "Kassel"
     ],
-    "name:deu_x_variant":[
-        "Cassel"
+    "name:deu_x_variant": [
+      "Cassel"
     ],
-    "name:diq_x_preferred":[
-        "Kassel"
+    "name:diq_x_preferred": [
+      "Kassel"
     ],
-    "name:dsb_x_preferred":[
-        "Kassel"
+    "name:dsb_x_preferred": [
+      "Kassel"
     ],
-    "name:ell_x_preferred":[
-        "\u039a\u03ac\u03c3\u03c3\u03b5\u03bb"
+    "name:ell_x_preferred": [
+      "Κάσσελ"
     ],
-    "name:eng_x_preferred":[
-        "Kassel"
+    "name:eng_x_preferred": [
+      "Kassel"
     ],
-    "name:epo_x_preferred":[
-        "Kaselo"
+    "name:epo_x_preferred": [
+      "Kaselo"
     ],
-    "name:est_x_preferred":[
-        "Kassel"
+    "name:est_x_preferred": [
+      "Kassel"
     ],
-    "name:eus_x_preferred":[
-        "Kassel"
+    "name:eus_x_preferred": [
+      "Kassel"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0627\u0633\u0644"
+    "name:fas_x_preferred": [
+      "کاسل"
     ],
-    "name:fin_x_preferred":[
-        "Kassel"
+    "name:fin_x_preferred": [
+      "Kassel"
     ],
-    "name:fra_x_preferred":[
-        "Cassel"
+    "name:fra_x_preferred": [
+      "Cassel"
     ],
-    "name:frp_x_preferred":[
-        "Kassel"
+    "name:frp_x_preferred": [
+      "Kassel"
     ],
-    "name:frr_x_preferred":[
-        "Kassel"
+    "name:frr_x_preferred": [
+      "Kassel"
     ],
-    "name:fry_x_preferred":[
-        "Kassel"
+    "name:fry_x_preferred": [
+      "Kassel"
     ],
-    "name:fur_x_preferred":[
-        "Kassel"
+    "name:fur_x_preferred": [
+      "Kassel"
     ],
-    "name:gla_x_preferred":[
-        "Kassel"
+    "name:gla_x_preferred": [
+      "Kassel"
     ],
-    "name:gle_x_preferred":[
-        "Kassel"
+    "name:gle_x_preferred": [
+      "Kassel"
     ],
-    "name:glg_x_preferred":[
-        "Kassel"
+    "name:glg_x_preferred": [
+      "Kassel"
     ],
-    "name:goh_x_preferred":[
-        "Chasalla [a. 913]"
+    "name:goh_x_preferred": [
+      "Chasalla [a. 913]"
     ],
-    "name:gsw_x_preferred":[
-        "Kassel"
+    "name:gsw_x_preferred": [
+      "Kassel"
     ],
-    "name:guj_x_preferred":[
-        "\u0a95\u0abe\u0ab8\u0ac7\u0ab2"
+    "name:guj_x_preferred": [
+      "કાસેલ"
     ],
-    "name:hak_x_preferred":[
-        "Kassel"
+    "name:hak_x_preferred": [
+      "Kassel"
     ],
-    "name:hbs_x_preferred":[
-        "Kassel"
+    "name:hbs_x_preferred": [
+      "Kassel"
     ],
-    "name:heb_x_preferred":[
-        "\u05e7\u05d0\u05e1\u05dc"
+    "name:heb_x_preferred": [
+      "קאסל"
     ],
-    "name:hin_x_preferred":[
-        "\u0915\u0938\u0947\u0932"
+    "name:hin_x_preferred": [
+      "कसेल"
     ],
-    "name:hrv_x_preferred":[
-        "Kassel"
+    "name:hrv_x_preferred": [
+      "Kassel"
     ],
-    "name:hsb_x_preferred":[
-        "Kassel"
+    "name:hsb_x_preferred": [
+      "Kassel"
     ],
-    "name:hun_x_preferred":[
-        "Kassel"
+    "name:hun_x_preferred": [
+      "Kassel"
     ],
-    "name:hye_x_preferred":[
-        "\u053f\u0561\u057d\u0565\u056c"
+    "name:hye_x_preferred": [
+      "Կասել"
     ],
-    "name:ido_x_preferred":[
-        "Kassel"
+    "name:ido_x_preferred": [
+      "Kassel"
     ],
-    "name:ile_x_preferred":[
-        "Kassel"
+    "name:ile_x_preferred": [
+      "Kassel"
     ],
-    "name:ina_x_preferred":[
-        "Kassel"
+    "name:ina_x_preferred": [
+      "Kassel"
     ],
-    "name:ind_x_preferred":[
-        "Kassel"
+    "name:ind_x_preferred": [
+      "Kassel"
     ],
-    "name:isl_x_preferred":[
-        "Kassel"
+    "name:isl_x_preferred": [
+      "Kassel"
     ],
-    "name:ita_x_preferred":[
-        "Kassel"
+    "name:ita_x_preferred": [
+      "Kassel"
     ],
-    "name:jav_x_preferred":[
-        "Kassel"
+    "name:jav_x_preferred": [
+      "Kassel"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ab\u30c3\u30bb\u30eb"
+    "name:jpn_x_preferred": [
+      "カッセル"
     ],
-    "name:kan_x_preferred":[
-        "\u0c95\u0ccd\u0caf\u0cbe\u0cb8\u0cc6\u0cb2\u0ccd"
+    "name:kan_x_preferred": [
+      "ಕ್ಯಾಸೆಲ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d9\u10d0\u10e1\u10d4\u10da\u10d8"
+    "name:kat_x_preferred": [
+      "კასელი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b\u044c"
+    "name:kaz_x_preferred": [
+      "Кассель"
     ],
-    "name:kir_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b\u044c"
+    "name:kir_x_preferred": [
+      "Кассель"
     ],
-    "name:kon_x_preferred":[
-        "Kassel"
+    "name:kon_x_preferred": [
+      "Kassel"
     ],
-    "name:kor_x_preferred":[
-        "\uce74\uc140"
+    "name:kor_x_preferred": [
+      "카셀"
     ],
-    "name:kur_x_preferred":[
-        "Kassel"
+    "name:kur_x_preferred": [
+      "Kassel"
     ],
-    "name:lat_x_preferred":[
-        "Cassella"
+    "name:lat_x_preferred": [
+      "Cassella"
     ],
-    "name:lat_x_variant":[
-        "Castellum",
-        "Cassala"
+    "name:lat_x_variant": [
+      "Castellum",
+      "Cassala"
     ],
-    "name:lav_x_preferred":[
-        "Kasele"
+    "name:lav_x_preferred": [
+      "Kasele"
     ],
-    "name:lij_x_preferred":[
-        "Kassel"
+    "name:lij_x_preferred": [
+      "Kassel"
     ],
-    "name:lim_x_preferred":[
-        "Kassel"
+    "name:lim_x_preferred": [
+      "Kassel"
     ],
-    "name:lit_x_preferred":[
-        "Kaselis"
+    "name:lit_x_preferred": [
+      "Kaselis"
     ],
-    "name:ltz_x_preferred":[
-        "Kassel"
+    "name:ltz_x_preferred": [
+      "Kassel"
     ],
-    "name:mar_x_preferred":[
-        "\u0915\u093e\u0938\u0947\u0932"
+    "name:mar_x_preferred": [
+      "कासेल"
     ],
-    "name:min_x_preferred":[
-        "Kassel"
+    "name:min_x_preferred": [
+      "Kassel"
     ],
-    "name:mkd_x_preferred":[
-        "\u041a\u0430\u0441\u0435\u043b"
+    "name:mkd_x_preferred": [
+      "Касел"
     ],
-    "name:mlg_x_preferred":[
-        "Kassel"
+    "name:mlg_x_preferred": [
+      "Kassel"
     ],
-    "name:msa_x_preferred":[
-        "Kassel"
+    "name:msa_x_preferred": [
+      "Kassel"
     ],
-    "name:nan_x_preferred":[
-        "Kassel"
+    "name:nan_x_preferred": [
+      "Kassel"
     ],
-    "name:nap_x_preferred":[
-        "Kassel"
+    "name:nap_x_preferred": [
+      "Kassel"
     ],
-    "name:nds_x_preferred":[
-        "Kassel"
+    "name:nds_x_preferred": [
+      "Kassel"
     ],
-    "name:nld_x_preferred":[
-        "Kassel"
+    "name:nld_x_preferred": [
+      "Kassel"
     ],
-    "name:nno_x_preferred":[
-        "Kassel"
+    "name:nno_x_preferred": [
+      "Kassel"
     ],
-    "name:nob_x_preferred":[
-        "Kassel"
+    "name:nob_x_preferred": [
+      "Kassel"
     ],
-    "name:nor_x_preferred":[
-        "Kassel"
+    "name:nor_x_preferred": [
+      "Kassel"
     ],
-    "name:nrm_x_preferred":[
-        "Kassel"
+    "name:nrm_x_preferred": [
+      "Kassel"
     ],
-    "name:oci_x_preferred":[
-        "Kassel"
+    "name:oci_x_preferred": [
+      "Kassel"
     ],
-    "name:pam_x_preferred":[
-        "Kassel"
+    "name:pam_x_preferred": [
+      "Kassel"
     ],
-    "name:pcd_x_preferred":[
-        "Kassel"
+    "name:pcd_x_preferred": [
+      "Kassel"
     ],
-    "name:pms_x_preferred":[
-        "Kassel"
+    "name:pms_x_preferred": [
+      "Kassel"
     ],
-    "name:pnb_x_preferred":[
-        "\u06a9\u06cc\u0633\u0644"
+    "name:pnb_x_preferred": [
+      "کیسل"
     ],
-    "name:pol_x_preferred":[
-        "Kassel"
+    "name:pol_x_preferred": [
+      "Kassel"
     ],
-    "name:por_x_preferred":[
-        "Kassel"
+    "name:por_x_preferred": [
+      "Kassel"
     ],
-    "name:roh_x_preferred":[
-        "Kassel"
+    "name:roh_x_preferred": [
+      "Kassel"
     ],
-    "name:ron_x_preferred":[
-        "Kassel"
+    "name:ron_x_preferred": [
+      "Kassel"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b\u044c"
+    "name:rus_x_preferred": [
+      "Кассель"
     ],
-    "name:scn_x_preferred":[
-        "Kassel"
+    "name:scn_x_preferred": [
+      "Kassel"
     ],
-    "name:sco_x_preferred":[
-        "Kassel"
+    "name:sco_x_preferred": [
+      "Kassel"
     ],
-    "name:sin_x_preferred":[
-        "\u0d9a\u0dd0\u0dc3\u0dd9\u0dbd\u0dca"
+    "name:sin_x_preferred": [
+      "කැසෙල්"
     ],
-    "name:slk_x_preferred":[
-        "Kassel"
+    "name:slk_x_preferred": [
+      "Kassel"
     ],
-    "name:slv_x_preferred":[
-        "Kassel"
+    "name:slv_x_preferred": [
+      "Kassel"
     ],
-    "name:snd_x_preferred":[
-        "\u06aa\u0627\u0633\u0644"
+    "name:snd_x_preferred": [
+      "ڪاسل"
     ],
-    "name:spa_x_preferred":[
-        "Kassel"
+    "name:spa_x_preferred": [
+      "Kassel"
     ],
-    "name:sqi_x_preferred":[
-        "Kaseli"
+    "name:sqi_x_preferred": [
+      "Kaseli"
     ],
-    "name:srd_x_preferred":[
-        "Kassel"
+    "name:srd_x_preferred": [
+      "Kassel"
     ],
-    "name:srp_x_preferred":[
-        "\u041a\u0430\u0441\u0435\u043b"
+    "name:srp_x_preferred": [
+      "Касел"
     ],
-    "name:stq_x_preferred":[
-        "Kassel"
+    "name:stq_x_preferred": [
+      "Kassel"
     ],
-    "name:swa_x_preferred":[
-        "Kassel"
+    "name:swa_x_preferred": [
+      "Kassel"
     ],
-    "name:swe_x_preferred":[
-        "Kassel"
+    "name:swe_x_preferred": [
+      "Kassel"
     ],
-    "name:szl_x_preferred":[
-        "Kassel"
+    "name:szl_x_preferred": [
+      "Kassel"
     ],
-    "name:tam_x_preferred":[
-        "\u0b95\u0bb8\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd"
+    "name:tam_x_preferred": [
+      "கஸ்செல்"
     ],
-    "name:tat_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b"
+    "name:tat_x_preferred": [
+      "Кассел"
     ],
-    "name:tel_x_preferred":[
-        "\u0c15\u0c3e\u0c38\u0c46\u0c32\u0c4d"
+    "name:tel_x_preferred": [
+      "కాసెల్"
     ],
-    "name:tgk_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b"
+    "name:tgk_x_preferred": [
+      "Кассел"
     ],
-    "name:tha_x_preferred":[
-        "\u0e04\u0e31\u0e2a\u0e40\u0e0b\u0e34\u0e25"
+    "name:tha_x_preferred": [
+      "คัสเซิล"
     ],
-    "name:tur_x_preferred":[
-        "Kassel"
+    "name:tur_x_preferred": [
+      "Kassel"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0430\u0441\u0441\u0435\u043b\u044c"
+    "name:ukr_x_preferred": [
+      "Кассель"
     ],
-    "name:urd_x_preferred":[
-        "\u06a9\u0627\u0633\u06cc\u0644"
+    "name:urd_x_preferred": [
+      "کاسیل"
     ],
-    "name:uzb_x_preferred":[
-        "Kassel"
+    "name:uzb_x_preferred": [
+      "Kassel"
     ],
-    "name:vec_x_preferred":[
-        "Kassel"
+    "name:vec_x_preferred": [
+      "Kassel"
     ],
-    "name:vep_x_preferred":[
-        "Kassel'"
+    "name:vep_x_preferred": [
+      "Kassel'"
     ],
-    "name:vie_x_preferred":[
-        "Kassel"
+    "name:vie_x_preferred": [
+      "Kassel"
     ],
-    "name:vls_x_preferred":[
-        "Kassel"
+    "name:vls_x_preferred": [
+      "Kassel"
     ],
-    "name:vol_x_preferred":[
-        "Kassel"
+    "name:vol_x_preferred": [
+      "Kassel"
     ],
-    "name:war_x_preferred":[
-        "Kassel"
+    "name:war_x_preferred": [
+      "Kassel"
     ],
-    "name:wln_x_preferred":[
-        "Kassel"
+    "name:wln_x_preferred": [
+      "Kassel"
     ],
-    "name:wol_x_preferred":[
-        "Kassel"
+    "name:wol_x_preferred": [
+      "Kassel"
     ],
-    "name:yue_x_preferred":[
-        "\u5361\u7d20"
+    "name:yue_x_preferred": [
+      "卡素"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Kassel"
+    "name:zho_min_nan_x_preferred": [
+      "Kassel"
     ],
-    "name:zho_x_preferred":[
-        "\u5361\u585e\u723e\u5e02"
+    "name:zho_x_preferred": [
+      "卡塞爾市"
     ],
-    "name:zho_x_variant":[
-        "\u5361\u585e\u5c14"
+    "name:zho_x_variant": [
+      "卡塞尔"
     ],
-    "name:zul_x_preferred":[
-        "Kassel"
+    "name:zul_x_preferred": [
+      "Kassel"
     ],
-    "nav:latitude":51.309934,
-    "nav:longitude":9.47572,
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Germany",
-    "ne:ADM0_A3":"DEU",
-    "ne:ADM1NAME":"Hessen",
-    "ne:ADMIN1_COD":5,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Populated place",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPL",
-    "ne:GEONAMEID":2892518,
-    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
-    "ne:GN_ASCII":"Kassel",
-    "ne:GN_POP":194501,
-    "ne:GTOPO30":152.0,
-    "ne:ISO_A2":"DE",
-    "ne:LABELRANK":3,
-    "ne:LATITUDE":51.300007,
-    "ne:LONGITUDE":9.50003,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Kassel",
-    "ne:MAX_AREAKM":148.0,
-    "ne:MAX_AREAMI":57.0,
-    "ne:MAX_BBXMAX":9.65,
-    "ne:MAX_BBXMIN":9.366667,
-    "ne:MAX_BBYMAX":51.408333,
-    "ne:MAX_BBYMIN":51.225,
-    "ne:MAX_NATSCA":10.0,
-    "ne:MAX_PERKM":159.0,
-    "ne:MAX_PERMI":99.0,
-    "ne:MAX_POP10":289924,
-    "ne:MAX_POP20":0,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":9.486618,
-    "ne:MEAN_BBYC":51.30812,
-    "ne:MEGACITY":0,
-    "ne:MEGANAME":null,
-    "ne:MIN_AREAKM":148.0,
-    "ne:MIN_AREAMI":57.0,
-    "ne:MIN_BBXMAX":9.65,
-    "ne:MIN_BBXMIN":9.366667,
-    "ne:MIN_BBYMAX":51.408333,
-    "ne:MIN_BBYMIN":51.225,
-    "ne:MIN_PERKM":159.0,
-    "ne:MIN_PERMI":99.0,
-    "ne:NAME":"Kassel",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Kassel",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":10,
-    "ne:NOTE":null,
-    "ne:POP1950":0,
-    "ne:POP1955":0,
-    "ne:POP1960":0,
-    "ne:POP1965":0,
-    "ne:POP1970":0,
-    "ne:POP1975":0,
-    "ne:POP1980":0,
-    "ne:POP1985":0,
-    "ne:POP1990":0,
-    "ne:POP1995":0,
-    "ne:POP2000":0,
-    "ne:POP2005":0,
-    "ne:POP2010":0,
-    "ne:POP2015":0,
-    "ne:POP2020":0,
-    "ne:POP2025":0,
-    "ne:POP2050":0,
-    "ne:POP_MAX":289924,
-    "ne:POP_MIN":194501,
-    "ne:POP_OTHER":0,
-    "ne:RANK_MAX":10,
-    "ne:RANK_MIN":9,
-    "ne:SCALERANK":8,
-    "ne:SOV0NAME":"Germany",
-    "ne:SOV_A3":"DEU",
-    "ne:TIMEZONE":"Europe/Berlin",
-    "ne:UN_ADM0":null,
-    "ne:UN_FID":0,
-    "ne:UN_LAT":0.0,
-    "ne:UN_LONG":0.0,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Bundesrepublik Deutschland",
-    "qs:a1":"*Hessen",
-    "qs:a1r":"0",
-    "qs:a2":"Kassel",
-    "qs:a2r":"Kassel",
-    "qs:adm0":"Bundesrepublik Deutschland",
-    "qs:la":"Kassel",
-    "qs:la_lc":"*DE06601100000",
-    "qs:level":"locality",
-    "qs:loc":"Kassel",
-    "qs:loc_alt":"Kassel",
-    "qs:pop":0,
-    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "qs_pg:aaroncc":"DE",
-    "qs_pg:gn_country":"DE",
-    "qs_pg:gn_fcode":"ADM4",
-    "qs_pg:gn_id":6547484,
-    "qs_pg:gn_pop":194774,
-    "qs_pg:name":"Kassel, documenta-Stadt",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":9,
-    "qs_pg:qs_id":630266,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "sfomuseum:placetype":"city",
-    "src:geom":"de-bkg",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85682531,
-        102191581,
-        85633111,
-        1377684035,
-        404227551,
-        102063755
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2892518,
-        "gp:id":665077,
-        "loc:id":"n80043584",
-        "qs_pg:id":352555,
-        "wd:id":"Q2865",
-        "wk:page":"Kassel"
+    "nav:latitude": 51.309934,
+    "nav:longitude": 9.47572,
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Germany",
+    "ne:ADM0_A3": "DEU",
+    "ne:ADM1NAME": "Hessen",
+    "ne:ADMIN1_COD": 5,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Populated place",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPL",
+    "ne:GEONAMEID": 2892518,
+    "ne:GEONAMESNO": "Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII": "Kassel",
+    "ne:GN_POP": 194501,
+    "ne:GTOPO30": 152,
+    "ne:ISO_A2": "DE",
+    "ne:LABELRANK": 3,
+    "ne:LATITUDE": 51.300007,
+    "ne:LONGITUDE": 9.50003,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Kassel",
+    "ne:MAX_AREAKM": 148,
+    "ne:MAX_AREAMI": 57,
+    "ne:MAX_BBXMAX": 9.65,
+    "ne:MAX_BBXMIN": 9.366667,
+    "ne:MAX_BBYMAX": 51.408333,
+    "ne:MAX_BBYMIN": 51.225,
+    "ne:MAX_NATSCA": 10,
+    "ne:MAX_PERKM": 159,
+    "ne:MAX_PERMI": 99,
+    "ne:MAX_POP10": 289924,
+    "ne:MAX_POP20": 0,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 9.486618,
+    "ne:MEAN_BBYC": 51.30812,
+    "ne:MEGACITY": 0,
+    "ne:MEGANAME": null,
+    "ne:MIN_AREAKM": 148,
+    "ne:MIN_AREAMI": 57,
+    "ne:MIN_BBXMAX": 9.65,
+    "ne:MIN_BBXMIN": 9.366667,
+    "ne:MIN_BBYMAX": 51.408333,
+    "ne:MIN_BBYMIN": 51.225,
+    "ne:MIN_PERKM": 159,
+    "ne:MIN_PERMI": 99,
+    "ne:NAME": "Kassel",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Kassel",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 10,
+    "ne:NOTE": null,
+    "ne:POP1950": 0,
+    "ne:POP1955": 0,
+    "ne:POP1960": 0,
+    "ne:POP1965": 0,
+    "ne:POP1970": 0,
+    "ne:POP1975": 0,
+    "ne:POP1980": 0,
+    "ne:POP1985": 0,
+    "ne:POP1990": 0,
+    "ne:POP1995": 0,
+    "ne:POP2000": 0,
+    "ne:POP2005": 0,
+    "ne:POP2010": 0,
+    "ne:POP2015": 0,
+    "ne:POP2020": 0,
+    "ne:POP2025": 0,
+    "ne:POP2050": 0,
+    "ne:POP_MAX": 289924,
+    "ne:POP_MIN": 194501,
+    "ne:POP_OTHER": 0,
+    "ne:RANK_MAX": 10,
+    "ne:RANK_MIN": 9,
+    "ne:SCALERANK": 8,
+    "ne:SOV0NAME": "Germany",
+    "ne:SOV_A3": "DEU",
+    "ne:TIMEZONE": "Europe/Berlin",
+    "ne:UN_ADM0": null,
+    "ne:UN_FID": 0,
+    "ne:UN_LAT": 0,
+    "ne:UN_LONG": 0,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "Bundesrepublik Deutschland",
+    "qs:a1": "*Hessen",
+    "qs:a1r": "0",
+    "qs:a2": "Kassel",
+    "qs:a2r": "Kassel",
+    "qs:adm0": "Bundesrepublik Deutschland",
+    "qs:la": "Kassel",
+    "qs:la_lc": "*DE06601100000",
+    "qs:level": "locality",
+    "qs:loc": "Kassel",
+    "qs:loc_alt": "Kassel",
+    "qs:pop": 0,
+    "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "qs_pg:aaroncc": "DE",
+    "qs_pg:gn_country": "DE",
+    "qs_pg:gn_fcode": "ADM4",
+    "qs_pg:gn_id": 6547484,
+    "qs_pg:gn_pop": 194774,
+    "qs_pg:name": "Kassel, documenta-Stadt",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 9,
+    "qs_pg:qs_id": 630266,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "sfomuseum:placetype": "city",
+    "src:geom": "de-bkg",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
+    ],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85682531,
+      102191581,
+      85633111,
+      1377684035,
+      404227551,
+      102063755
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2892518,
+      "gp:id": 665077,
+      "loc:id": "n80043584",
+      "qs_pg:id": 352555,
+      "wd:id": "Q2865",
+      "wk:page": "Kassel"
     },
-    "wof:concordances_alt":{
-        "qs_pg:id":1147435
+    "wof:concordances_alt": {
+      "qs_pg:id": 1147435
     },
-    "wof:coterminous":[
-        102063755
+    "wof:coterminous": [
+      102063755
     ],
-    "wof:country":"DE",
-    "wof:geom_alt":[
-        "quattroshapes",
-        "quattroshapes_pg"
+    "wof:country": "DE",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes",
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"86a75470c5814e7a5bc6b3e777197bb6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063755,
-            "localadmin_id":1377684035,
-            "locality_id":101748659,
-            "macrocounty_id":404227551,
-            "region_id":85682531
-        }
+    "wof:geomhash": "86a75470c5814e7a5bc6b3e777197bb6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063755,
+        "localadmin_id": 1377684035,
+        "locality_id": 101748659,
+        "macrocounty_id": 404227551,
+        "region_id": 85682531
+      }
     ],
-    "wof:id":101748659,
-    "wof:lastmodified":1611601214,
-    "wof:name":"Kassel",
-    "wof:parent_id":1377684035,
-    "wof:placetype":"locality",
-    "wof:population":194501,
-    "wof:population_rank":9,
-    "wof:repo":"whosonfirst-data-admin-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1125274229
+    "wof:id": 101748659,
+    "wof:lastmodified": 1624906515,
+    "wof:name": "Kassel",
+    "wof:parent_id": 1377684035,
+    "wof:placetype": "locality",
+    "wof:population": 194501,
+    "wof:population_rank": 9,
+    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1125274229
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     9.351519,
     51.261941,
     9.569935,
     51.368676
-],
+  ],
   "geometry": {"coordinates":[[[[9.440037,51.349578],[9.441419,51.348844],[9.439446,51.3478],[9.44431,51.34766],[9.447785,51.34756],[9.450367,51.346495],[9.451046,51.346312],[9.460351,51.343398],[9.460579,51.346648],[9.462347,51.346601],[9.462795,51.34521],[9.464479,51.345081],[9.465932,51.345004],[9.465506,51.342841],[9.466802,51.342708],[9.46855,51.34269],[9.470263,51.344691],[9.471165,51.344834],[9.473236,51.346022],[9.474788,51.346035],[9.481788,51.345942],[9.484044,51.345873],[9.484286,51.345983],[9.485897,51.346546],[9.487392,51.347171],[9.487874,51.347481],[9.489173,51.348509],[9.490403,51.348699],[9.491666,51.350113],[9.494717,51.351876],[9.495481,51.352423],[9.496891,51.351697],[9.500054,51.350968],[9.503065,51.347287],[9.504911,51.34697],[9.505597,51.345131],[9.505293,51.344561],[9.504408,51.342961],[9.509177,51.343667],[9.508753,51.342674],[9.512043,51.342657],[9.512125,51.341524],[9.517135,51.341008],[9.521213,51.339782],[9.522384,51.339432],[9.529669,51.33934],[9.53142,51.33939],[9.531472,51.338284],[9.531916,51.338351],[9.534984,51.338637],[9.5393,51.337377],[9.54077,51.339087],[9.543014,51.344639],[9.544951,51.349195],[9.546037,51.349443],[9.54907,51.352176],[9.550043,51.353048],[9.557291,51.351379],[9.558534,51.348204],[9.558833,51.347657],[9.559288,51.347166],[9.559788,51.346594],[9.56068,51.345863],[9.561324,51.345275],[9.562651,51.344314],[9.564908,51.34282],[9.566267,51.341697],[9.567159,51.340912],[9.567627,51.340493],[9.568025,51.340001],[9.568625,51.339448],[9.568951,51.338956],[9.569307,51.338383],[9.569622,51.337747],[9.569856,51.33684],[9.569839,51.336228],[9.569924,51.335581],[9.569935,51.335059],[9.569716,51.333105],[9.569441,51.331771],[9.569333,51.331428],[9.569209,51.331166],[9.569072,51.330841],[9.56885,51.330453],[9.568443,51.329972],[9.567923,51.329446],[9.567512,51.329146],[9.567314,51.32901],[9.566804,51.328655],[9.566307,51.328363],[9.565781,51.328125],[9.565095,51.327948],[9.564579,51.327872],[9.564307,51.327825],[9.563504,51.327792],[9.562255,51.327782],[9.56165,51.327849],[9.561391,51.327883],[9.558945,51.328115],[9.558225,51.328208],[9.557305,51.328246],[9.556544,51.32824],[9.556012,51.328236],[9.555224,51.328157],[9.554378,51.328078],[9.553963,51.32803],[9.553518,51.328026],[9.550625,51.328191],[9.54956,51.328278],[9.548571,51.328293],[9.54785,51.328264],[9.546904,51.328089],[9.545466,51.327792],[9.543841,51.327327],[9.542183,51.326694],[9.540751,51.326111],[9.540342,51.325679],[9.540044,51.325391],[9.540051,51.325058],[9.540134,51.324701],[9.540334,51.324227],[9.540691,51.32328],[9.540707,51.32273],[9.540715,51.322373],[9.540378,51.322108],[9.539889,51.32189],[9.539436,51.321767],[9.538754,51.321667],[9.537766,51.321699],[9.537485,51.321418],[9.536531,51.320786],[9.536001,51.320487],[9.535367,51.320291],[9.534735,51.32],[9.534224,51.31971],[9.533438,51.319513],[9.532621,51.319373],[9.531838,51.319024],[9.530674,51.318185],[9.532874,51.316017],[9.534628,51.316563],[9.535521,51.315085],[9.536449,51.315309],[9.546577,51.311586],[9.547426,51.312186],[9.551905,51.311476],[9.554743,51.311031],[9.554601,51.310247],[9.554115,51.308029],[9.55666,51.305018],[9.558492,51.300372],[9.558797,51.299519],[9.559433,51.29786],[9.559554,51.297573],[9.559636,51.297052],[9.559532,51.296529],[9.559354,51.296096],[9.558484,51.295162],[9.556945,51.294182],[9.551599,51.290779],[9.546007,51.287809],[9.543257,51.28614],[9.541811,51.285318],[9.53945,51.286361],[9.539147,51.286484],[9.538927,51.286689],[9.538764,51.28694],[9.538672,51.287236],[9.538566,51.287478],[9.538274,51.287719],[9.537883,51.287922],[9.537376,51.288125],[9.537261,51.28816],[9.535003,51.287017],[9.533058,51.28638],[9.531255,51.285789],[9.525577,51.284012],[9.523573,51.283341],[9.524182,51.283031],[9.529642,51.278569],[9.521841,51.273681],[9.520187,51.272453],[9.518294,51.272223],[9.516282,51.272254],[9.512962,51.272311],[9.513132,51.274013],[9.507389,51.274385],[9.5014,51.275937],[9.498363,51.275982],[9.497126,51.276996],[9.496771,51.277611],[9.496757,51.278254],[9.498678,51.282461],[9.496985,51.282748],[9.490464,51.283718],[9.490482,51.282881],[9.490518,51.281253],[9.490572,51.280758],[9.490624,51.280327],[9.490704,51.279959],[9.491215,51.276033],[9.49123,51.275343],[9.491052,51.274817],[9.490888,51.274193],[9.49083,51.272914],[9.491006,51.270756],[9.490111,51.270344],[9.488612,51.270075],[9.486754,51.269739],[9.485491,51.266489],[9.486039,51.265729],[9.482947,51.263558],[9.482835,51.261941],[9.459841,51.264176],[9.454407,51.267295],[9.450692,51.267307],[9.448377,51.266927],[9.443822,51.267902],[9.441747,51.268343],[9.431243,51.26975],[9.425226,51.270694],[9.418349,51.273402],[9.413301,51.27636],[9.40625,51.279084],[9.403894,51.281042],[9.400294,51.281584],[9.397399,51.281431],[9.39364,51.28144],[9.389152,51.281929],[9.387702,51.282563],[9.387359,51.283666],[9.389352,51.285521],[9.386927,51.285516],[9.384861,51.285505],[9.382437,51.2855],[9.381743,51.284522],[9.379621,51.283278],[9.378047,51.282507],[9.374093,51.284008],[9.368699,51.287501],[9.368403,51.288443],[9.369933,51.291598],[9.369614,51.292873],[9.369505,51.293231],[9.363401,51.292858],[9.362613,51.292805],[9.363233,51.29444],[9.363583,51.295343],[9.362881,51.298791],[9.362926,51.299287],[9.359726,51.301577],[9.357607,51.303104],[9.35693,51.306085],[9.351519,51.307211],[9.357113,51.309155],[9.356665,51.310419],[9.356791,51.311122],[9.357435,51.315835],[9.362003,51.315168],[9.368583,51.316779],[9.376823,51.317425],[9.377497,51.317486],[9.377812,51.318092],[9.378046,51.318499],[9.37986,51.318309],[9.381837,51.319765],[9.379091,51.323386],[9.379658,51.323679],[9.380064,51.324115],[9.380281,51.324639],[9.380823,51.327127],[9.380806,51.327829],[9.380662,51.328449],[9.380258,51.329138],[9.380006,51.329432],[9.379643,51.330395],[9.379258,51.331248],[9.378746,51.331672],[9.378101,51.331952],[9.377497,51.332374],[9.377076,51.332827],[9.376473,51.33325],[9.375638,51.333814],[9.374803,51.334377],[9.374239,51.335086],[9.37413,51.335799],[9.374115,51.336427],[9.374005,51.337198],[9.37354,51.337565],[9.372704,51.338156],[9.372599,51.338727],[9.372723,51.339242],[9.372842,51.339986],[9.373056,51.34056],[9.373593,51.340965],[9.372025,51.343923],[9.371922,51.345767],[9.371295,51.346724],[9.370011,51.3487],[9.371103,51.349889],[9.374752,51.350482],[9.376995,51.350289],[9.378611,51.35015],[9.380608,51.347803],[9.380783,51.347687],[9.382074,51.348375],[9.384133,51.350572],[9.385318,51.350916],[9.386502,51.350657],[9.387485,51.35099],[9.387901,51.351624],[9.388903,51.351778],[9.389915,51.35095],[9.390928,51.351824],[9.391976,51.35187],[9.393562,51.352865],[9.39758,51.353668],[9.397497,51.352965],[9.397308,51.351263],[9.397877,51.35089],[9.398883,51.350261],[9.399613,51.3498],[9.400075,51.350317],[9.400915,51.351234],[9.404771,51.352215],[9.414063,51.352427],[9.416515,51.352935],[9.422472,51.354169],[9.432035,51.350783],[9.434404,51.350868],[9.440037,51.349578]]],[[[9.550134,51.361884],[9.548441,51.358955],[9.547718,51.359174],[9.546952,51.359375],[9.546346,51.359514],[9.545191,51.359748],[9.541193,51.360597],[9.53871,51.361098],[9.537828,51.361379],[9.537264,51.361545],[9.536524,51.361845],[9.534216,51.362933],[9.532863,51.363705],[9.532441,51.363989],[9.532162,51.36423],[9.531999,51.364462],[9.531878,51.364785],[9.531751,51.366017],[9.531773,51.36635],[9.531808,51.366755],[9.53186,51.366972],[9.531927,51.367224],[9.532052,51.36745],[9.532163,51.36764],[9.532543,51.368003],[9.532912,51.368222],[9.533297,51.368396],[9.533797,51.368517],[9.534241,51.368593],[9.534901,51.36867],[9.535576,51.368676],[9.536454,51.368629],[9.537377,51.368475],[9.538071,51.368291],[9.538536,51.368079],[9.539148,51.367679],[9.539998,51.366885],[9.541591,51.36563],[9.541723,51.365514],[9.542993,51.364553],[9.543503,51.364224],[9.543765,51.364055],[9.544389,51.363754],[9.544882,51.363569],[9.548268,51.362454],[9.550134,51.361884]]]],"type":"MultiPolygon"}
 }

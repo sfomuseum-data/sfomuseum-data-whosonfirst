@@ -2,191 +2,192 @@
   "id": 102531189,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1995",
-    "geom:area":0.011545,
-    "geom:area_square_m":109586328.480408,
-    "geom:bbox":"-104.790966,39.798254,-104.599581,39.914209",
-    "geom:latitude":39.857871,
-    "geom:longitude":-104.686726,
-    "iso:country":"US",
-    "lbl:latitude":39.864939,
-    "lbl:longitude":-104.672219,
-    "mps:latitude":39.845845,
-    "mps:longitude":-104.672907,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:afr_x_preferred":[
-        "Denver Internasionale Lughawe"
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1995",
+    "geom:area": 0.011545152000999724,
+    "geom:area_square_m": 109586328.480408,
+    "geom:bbox": "-104.790966,39.798254,-104.599581,39.914209",
+    "geom:latitude": 39.857871473420744,
+    "geom:longitude": -104.68672587734882,
+    "iso:country": "US",
+    "lbl:latitude": 39.864939,
+    "lbl:longitude": -104.672219,
+    "mps:latitude": 39.845845,
+    "mps:longitude": -104.672907,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:afr_x_preferred": [
+      "Denver Internasionale Lughawe"
     ],
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u062f\u0646\u0641\u0631 \u0627\u0644\u062f\u0648\u0644\u064a"
+    "name:ara_x_preferred": [
+      "مطار دنفر الدولي"
     ],
-    "name:ben_x_preferred":[
-        "\u09a1\u09c7\u09a8\u09ad\u09be\u09b0 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    "name:ben_x_preferred": [
+      "ডেনভার আন্তর্জাতিক বিমানবন্দর"
     ],
-    "name:eng_x_preferred":[
-        "Denver International Airport"
+    "name:eng_x_preferred": [
+      "Denver International Airport"
     ],
-    "name:eng_x_variant":[
-        "DEN",
-        "KDEN"
+    "name:eng_x_variant": [
+      "DEN",
+      "KDEN"
     ],
-    "name:epo_x_preferred":[
-        "Flughaveno Denvero"
+    "name:epo_x_preferred": [
+      "Flughaveno Denvero"
     ],
-    "name:est_x_preferred":[
-        "Denveri rahvusvaheline lennujaam"
+    "name:est_x_preferred": [
+      "Denveri rahvusvaheline lennujaam"
     ],
-    "name:eus_x_preferred":[
-        "Denverko nazioarteko aireportua"
+    "name:eus_x_preferred": [
+      "Denverko nazioarteko aireportua"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u0648\u0631"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی دنور"
     ],
-    "name:fin_x_preferred":[
-        "Denverin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Denverin kansainvälinen lentoasema"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d3\u05e0\u05d5\u05d5\u05e8"
+    "name:heb_x_preferred": [
+      "נמל התעופה הבינלאומי דנוור"
     ],
-    "name:hrv_x_preferred":[
-        "Zra\u010dna luka Denver"
+    "name:hrv_x_preferred": [
+      "Zračna luka Denver"
     ],
-    "name:hun_x_preferred":[
-        "Denveri nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    "name:hun_x_preferred": [
+      "Denveri nemzetközi repülőtér"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Denver"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Denver"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c7\u30f3\u30d0\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "デンバー国際空港"
     ],
-    "name:kat_x_preferred":[
-        "\u10d3\u10d4\u10dc\u10d5\u10d4\u10e0\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    "name:kat_x_preferred": [
+      "დენვერის საერთაშორისო აეროპორტი"
     ],
-    "name:kor_x_preferred":[
-        "\ub374\ubc84 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "덴버 국제공항"
     ],
-    "name:mar_x_preferred":[
-        "\u0921\u0947\u0928\u094d\u0935\u094d\u0939\u0930 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "डेन्व्हर आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nld_x_preferred":[
-        "internationale luchthaven van Denver"
+    "name:nld_x_preferred": [
+      "internationale luchthaven van Denver"
     ],
-    "name:nob_x_preferred":[
-        "Denver internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Denver internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Denver"
+    "name:pol_x_preferred": [
+      "Port lotniczy Denver"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Denver"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Denver"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0435\u043d\u0432\u0435\u0440"
+    "name:rus_x_preferred": [
+      "Денвер"
     ],
-    "name:slk_x_preferred":[
-        "Medzin\u00e1rodn\u00e9 letisko Denver"
+    "name:slk_x_preferred": [
+      "Medzinárodné letisko Denver"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9f\u0bc6\u0ba9\u0bcd\u0bb5\u0bb0\u0bcd \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    "name:tam_x_preferred": [
+      "டென்வர் பன்னாட்டு வானூர்தி நிலையம்"
     ],
-    "name:tha_x_preferred":[
-        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e40\u0e14\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c"
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติเดนเวอร์"
     ],
-    "name:tur_x_preferred":[
-        "Denver Uluslararas\u0131 Havaliman\u0131"
+    "name:tur_x_preferred": [
+      "Denver Uluslararası Havalimanı"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u0435\u043d\u0432\u0435\u0440\u0430"
+    "name:ukr_x_preferred": [
+      "Міжнародний аеропорт Денвера"
     ],
-    "name:urd_x_preferred":[
-        "\u0688\u06cc\u0646\u0648\u0631 \u0628\u06cc\u0646 \u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ڈینور بین لاقوامی ہوائی اڈا"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Denver"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Denver"
     ],
-    "name:zho_x_preferred":[
-        "\u4e39\u4f5b\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "丹佛國際機場"
     ],
-    "oa:elevation_ft":"5431",
-    "oa:type":"large_airport",
-    "reversegeo:latitude":39.787357,
-    "reversegeo:longitude":-105.043628,
-    "sfomuseum:airport_id":33,
-    "sfomuseum:count_objects_public":5,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Denver International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"mz",
-    "src:geom_alt":[
-        "woedb"
+    "oa:elevation_ft": "5431",
+    "oa:type": "large_airport",
+    "reversegeo:latitude": 39.787357,
+    "reversegeo:longitude": -105.043628,
+    "sfomuseum:airport_id": 33,
+    "sfomuseum:count_objects_public": 5,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Denver International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "mz",
+    "src:geom_alt": [
+      "woedb"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":7365,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587743,
-        "planet_id":1,
-        "state_id":2347564,
-        "suburb_id":55806610
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 7365,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587743,
+      "planet_id": 1,
+      "state_id": 2347564,
+      "suburb_id": 55806610
     },
-    "wof:belongsto":[
-        102191575,
-        1108750025,
-        85633793,
-        85928879,
-        102086135,
-        85688603
+    "wof:belongsto": [
+      102191575,
+      1108750025,
+      85633793,
+      85928879,
+      102086135,
+      85688603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"DEN",
-        "gp:id":12523052,
-        "iata:code":"DEN",
-        "icao:code":"KDEN",
-        "oa:id":"3486",
-        "wd:id":"Q330015",
-        "wk:page":"Denver_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "DEN",
+      "gp:id": 12523052,
+      "iata:code": "DEN",
+      "icao:code": "KDEN",
+      "oa:id": "3486",
+      "wd:id": "Q330015",
+      "wk:page": "Denver_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geom_alt":[
-        "woedb"
+    "wof:country": "US",
+    "wof:created": 1624906809,
+    "wof:geom_alt": [
+      "woedb"
     ],
-    "wof:geomhash":"902e3e4a166d4ac7d556bc848a2864dc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531189,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086135,
-            "locality_id":85928879,
-            "macrohood_id":1108750025,
-            "neighbourhood_id":-1,
-            "region_id":85688603
-        }
+    "wof:geomhash": "902e3e4a166d4ac7d556bc848a2864dc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531189,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086135,
+        "locality_id": 85928879,
+        "macrohood_id": 1108750025,
+        "neighbourhood_id": -1,
+        "region_id": 85688603
+      }
     ],
-    "wof:id":102531189,
-    "wof:lastmodified":1611601232,
-    "wof:name":"Denver International Airport",
-    "wof:parent_id":1108750025,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102531189,
+    "wof:lastmodified": 1624906809,
+    "wof:name": "Denver International Airport",
+    "wof:parent_id": 1108750025,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -104.790966,
     39.798254,
     -104.599581,
     39.914209
-],
-  "geometry": {"coordinates":[[[-104.762683,39.798434],[-104.762698,39.798434],[-104.76297700000001,39.798433],[-104.763662,39.798411],[-104.76428,39.798379],[-104.764628,39.798354],[-104.76500799999999,39.798334],[-104.76529600000001,39.79833],[-104.765936,39.79832],[-104.76978,39.798301],[-104.770346,39.798274],[-104.770552,39.798271],[-104.770763,39.798279],[-104.770888,39.798302],[-104.771021,39.798343],[-104.771119,39.798359],[-104.771215,39.798375],[-104.771316,39.798378],[-104.771855,39.79837],[-104.77211699999999,39.798392],[-104.774227,39.798446],[-104.77513399999999,39.798452],[-104.776257,39.798451],[-104.777716,39.798413],[-104.77833699999999,39.798379],[-104.77926100000001,39.798345],[-104.779886,39.798358],[-104.780508,39.798354],[-104.782743,39.79836],[-104.78576200000001,39.798386],[-104.78627,39.798384],[-104.786315,39.798384],[-104.786377,39.798387],[-104.78641399999999,39.798385],[-104.787302,39.798393],[-104.78743900000001,39.798395],[-104.78792799999999,39.798402],[-104.78863,39.798398],[-104.789001,39.798379],[-104.789632,39.798321],[-104.78994400000001,39.798295],[-104.790255,39.798266],[-104.790578,39.798258],[-104.790819,39.798254],[-104.79082,39.798304],[-104.790893,39.805584],[-104.790966,39.812861],[-104.79089399999999,39.820105],[-104.790666,39.827263],[-104.790745,39.83454],[-104.790825,39.841803],[-104.78138800000001,39.841796],[-104.771951,39.841774],[-104.762322,39.841787],[-104.762283,39.845397],[-104.75309,39.845352],[-104.73419,39.845227],[-104.730953,39.845195],[-104.730811,39.856475],[-104.730647,39.870865],[-104.73048300000001,39.885437],[-104.73039,39.896131],[-104.714754,39.896046],[-104.703312,39.89595],[-104.703149,39.906947],[-104.692139,39.906851],[-104.692013,39.914209],[-104.68743600000001,39.914171],[-104.679537,39.914105],[-104.679664,39.907008],[-104.63094,39.906646],[-104.63094100000001,39.899396],[-104.62148500000001,39.899367],[-104.612072,39.899226],[-104.602659,39.899083],[-104.599581,39.899038],[-104.59972500000001,39.884564],[-104.59981000000001,39.881307],[-104.605155,39.881347],[-104.605261,39.873114],[-104.619152,39.87322],[-104.619799,39.822341],[-104.65539,39.822605],[-104.655477,39.813091],[-104.666156,39.813168],[-104.666038,39.822886],[-104.66855099999999,39.822901],[-104.677947,39.82296],[-104.696862,39.823075],[-104.71543,39.823185],[-104.73423,39.823293],[-104.753085,39.823399],[-104.76249300000001,39.823451],[-104.762542,39.820122],[-104.76265100000001,39.812864],[-104.76266699999999,39.805584],[-104.762682,39.799131],[-104.762683,39.798434]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-104.762683,39.798434],[-104.762698,39.798434],[-104.762977,39.798433],[-104.763662,39.798411],[-104.76428,39.798379],[-104.764628,39.798354],[-104.765008,39.798334],[-104.765296,39.79833],[-104.765936,39.79832],[-104.76978,39.798301],[-104.770346,39.798274],[-104.770552,39.798271],[-104.770763,39.798279],[-104.770888,39.798302],[-104.771021,39.798343],[-104.771119,39.798359],[-104.771215,39.798375],[-104.771316,39.798378],[-104.771855,39.79837],[-104.772117,39.798392],[-104.774227,39.798446],[-104.775134,39.798452],[-104.776257,39.798451],[-104.777716,39.798413],[-104.778337,39.798379],[-104.779261,39.798345],[-104.779886,39.798358],[-104.780508,39.798354],[-104.782743,39.79836],[-104.785762,39.798386],[-104.78627,39.798384],[-104.786315,39.798384],[-104.786377,39.798387],[-104.786414,39.798385],[-104.787302,39.798393],[-104.787439,39.798395],[-104.787928,39.798402],[-104.78863,39.798398],[-104.789001,39.798379],[-104.789632,39.798321],[-104.789944,39.798295],[-104.790255,39.798266],[-104.790578,39.798258],[-104.790819,39.798254],[-104.79082,39.798304],[-104.790893,39.805584],[-104.790966,39.812861],[-104.790894,39.820105],[-104.790666,39.827263],[-104.790745,39.83454],[-104.790825,39.841803],[-104.781388,39.841796],[-104.771951,39.841774],[-104.762322,39.841787],[-104.762283,39.845397],[-104.75309,39.845352],[-104.73419,39.845227],[-104.730953,39.845195],[-104.730811,39.856475],[-104.730647,39.870865],[-104.730483,39.885437],[-104.73039,39.896131],[-104.714754,39.896046],[-104.703312,39.89595],[-104.703149,39.906947],[-104.692139,39.906851],[-104.692013,39.914209],[-104.687436,39.914171],[-104.679537,39.914105],[-104.679664,39.907008],[-104.63094,39.906646],[-104.630941,39.899396],[-104.621485,39.899367],[-104.612072,39.899226],[-104.602659,39.899083],[-104.599581,39.899038],[-104.599725,39.884564],[-104.59981,39.881307],[-104.605155,39.881347],[-104.605261,39.873114],[-104.619152,39.87322],[-104.619799,39.822341],[-104.65539,39.822605],[-104.655477,39.813091],[-104.666156,39.813168],[-104.666038,39.822886],[-104.668551,39.822901],[-104.677947,39.82296],[-104.696862,39.823075],[-104.71543,39.823185],[-104.73423,39.823293],[-104.753085,39.823399],[-104.762493,39.823451],[-104.762542,39.820122],[-104.762651,39.812864],[-104.762667,39.805584],[-104.762682,39.799131],[-104.762683,39.798434]]],"type":"Polygon"}
 }

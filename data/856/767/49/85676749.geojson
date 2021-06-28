@@ -2,642 +2,643 @@
   "id": 85676749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.019547,
-    "geom:area_square_m":218562971.888009,
-    "geom:bbox":"51.397751,25.151949,51.647362,25.396163",
-    "geom:latitude":25.275372,
-    "geom:longitude":51.520838,
-    "iso:country":"QA",
-    "label:eng_x_preferred_longname":[
-        "Ad Dawhah Municipality"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.01954695678249998,
+    "geom:area_square_m": 218562971.888009,
+    "geom:bbox": "51.397751,25.151949,51.647362,25.396163",
+    "geom:latitude": 25.27537237105929,
+    "geom:longitude": 51.52083786559888,
+    "iso:country": "QA",
+    "label:eng_x_preferred_longname": [
+      "Ad Dawhah Municipality"
     ],
-    "label:eng_x_preferred_placetype":[
-        "municipality"
+    "label:eng_x_preferred_placetype": [
+      "municipality"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "DA"
+    "label:eng_x_preferred_shortcode": [
+      "DA"
     ],
-    "lbl:latitude":25.251554,
-    "lbl:longitude":51.564818,
-    "lbl:min_zoom":8.0,
-    "meso:name_loc":"\u0627\u0644\u062f\u0648\u062d\u0647",
-    "mps:latitude":25.251554,
-    "mps:longitude":51.564818,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":8.7,
-    "name:ace_x_preferred":[
-        "Doha"
+    "lbl:latitude": 25.251554,
+    "lbl:longitude": 51.564818,
+    "lbl:min_zoom": 8,
+    "meso:name_loc": "الدوحه",
+    "mps:latitude": 25.251554,
+    "mps:longitude": 51.564818,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8.7,
+    "name:ace_x_preferred": [
+      "Doha"
     ],
-    "name:afr_x_preferred":[
-        "Doha"
+    "name:afr_x_preferred": [
+      "Doha"
     ],
-    "name:amh_x_preferred":[
-        "\u12f6\u1203"
+    "name:amh_x_preferred": [
+      "ዶሃ"
     ],
-    "name:ara_x_preferred":[
-        "\u0627\u0644\u062f\u0648\u062d\u0629"
+    "name:ara_x_preferred": [
+      "الدوحة"
     ],
-    "name:ara_x_variant":[
-        "\u0628\u064e\u0644\u064e\u062f\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u062f\u064e\u0651\u0648\u0652\u062d\u064e\u0629",
-        "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062f\u0648\u062d\u0629"
+    "name:ara_x_variant": [
+      "بَلَدِيَّة اَلدَّوْحَة",
+      "بلدية الدوحة"
     ],
-    "name:arg_x_preferred":[
-        "Doha"
+    "name:arg_x_preferred": [
+      "Doha"
     ],
-    "name:arz_x_preferred":[
-        "\u0627\u0644\u062f\u0648\u062d\u0647"
+    "name:arz_x_preferred": [
+      "الدوحه"
     ],
-    "name:ast_x_preferred":[
-        "Do\u1e25a"
+    "name:ast_x_preferred": [
+      "Doḥa"
     ],
-    "name:azb_x_preferred":[
-        "\u062f\u0648\u062d\u0647"
+    "name:azb_x_preferred": [
+      "دوحه"
     ],
-    "name:aze_x_preferred":[
-        "Doha"
+    "name:aze_x_preferred": [
+      "Doha"
     ],
-    "name:bak_x_preferred":[
-        "\u0414\u043e\u04bb\u0430"
+    "name:bak_x_preferred": [
+      "Доһа"
     ],
-    "name:bcl_x_preferred":[
-        "Doha"
+    "name:bcl_x_preferred": [
+      "Doha"
     ],
-    "name:bel_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:bel_x_preferred": [
+      "Доха"
     ],
-    "name:ben_x_preferred":[
-        "\u09a6\u09cb\u09b9\u09be"
+    "name:ben_x_preferred": [
+      "দোহা"
     ],
-    "name:bod_x_preferred":[
-        "\u0f51\u0fb7\u0f7c\u0f0b\u0f67\u0f0d"
+    "name:bod_x_preferred": [
+      "དྷོ་ཧ།"
     ],
-    "name:bos_x_preferred":[
-        "Doha"
+    "name:bos_x_preferred": [
+      "Doha"
     ],
-    "name:bre_x_preferred":[
-        "Doha"
+    "name:bre_x_preferred": [
+      "Doha"
     ],
-    "name:bul_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:bul_x_preferred": [
+      "Доха"
     ],
-    "name:bxr_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:bxr_x_preferred": [
+      "Доха"
     ],
-    "name:cat_x_preferred":[
-        "Doha"
+    "name:cat_x_preferred": [
+      "Doha"
     ],
-    "name:cdo_x_preferred":[
-        "Doha"
+    "name:cdo_x_preferred": [
+      "Doha"
     ],
-    "name:ceb_x_preferred":[
-        "Doha"
+    "name:ceb_x_preferred": [
+      "Doha"
     ],
-    "name:ces_x_preferred":[
-        "Dauh\u00e1"
+    "name:ces_x_preferred": [
+      "Dauhá"
     ],
-    "name:che_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:che_x_preferred": [
+      "Доха"
     ],
-    "name:ckb_x_preferred":[
-        "\u062f\u06d5\u0648\u062d\u06d5"
+    "name:ckb_x_preferred": [
+      "دەوحە"
     ],
-    "name:cym_x_preferred":[
-        "Doha"
+    "name:cym_x_preferred": [
+      "Doha"
     ],
-    "name:dan_x_preferred":[
-        "Doha"
+    "name:dan_x_preferred": [
+      "Doha"
     ],
-    "name:deu_x_preferred":[
-        "Doha"
+    "name:deu_x_preferred": [
+      "Doha"
     ],
-    "name:diq_x_preferred":[
-        "Dewhe"
+    "name:diq_x_preferred": [
+      "Dewhe"
     ],
-    "name:dty_x_preferred":[
-        "\u0926\u094b\u0939\u093e"
+    "name:dty_x_preferred": [
+      "दोहा"
     ],
-    "name:ell_x_preferred":[
-        "\u039d\u03c4\u03cc\u03c7\u03b1"
+    "name:ell_x_preferred": [
+      "Ντόχα"
     ],
-    "name:eng_x_preferred":[
-        "Doha"
+    "name:eng_x_preferred": [
+      "Doha"
     ],
-    "name:eng_x_variant":[
-        "Ad Dawhah"
+    "name:eng_x_variant": [
+      "Ad Dawhah"
     ],
-    "name:epo_x_preferred":[
-        "Doho"
+    "name:epo_x_preferred": [
+      "Doho"
     ],
-    "name:est_x_preferred":[
-        "Doha"
+    "name:est_x_preferred": [
+      "Doha"
     ],
-    "name:eus_x_preferred":[
-        "Doha"
+    "name:eus_x_preferred": [
+      "Doha"
     ],
-    "name:ext_x_preferred":[
-        "Doha"
+    "name:ext_x_preferred": [
+      "Doha"
     ],
-    "name:fas_x_preferred":[
-        "\u062f\u0648\u062d\u0647"
+    "name:fas_x_preferred": [
+      "دوحه"
     ],
-    "name:fin_x_preferred":[
-        "Doha"
+    "name:fin_x_preferred": [
+      "Doha"
     ],
-    "name:fra_x_preferred":[
-        "Ad Dawhah"
+    "name:fra_x_preferred": [
+      "Ad Dawhah"
     ],
-    "name:fra_x_variant":[
-        "Doha"
+    "name:fra_x_variant": [
+      "Doha"
     ],
-    "name:frp_x_preferred":[
-        "Doha"
+    "name:frp_x_preferred": [
+      "Doha"
     ],
-    "name:fry_x_preferred":[
-        "Doha"
+    "name:fry_x_preferred": [
+      "Doha"
     ],
-    "name:gla_x_preferred":[
-        "Doha"
+    "name:gla_x_preferred": [
+      "Doha"
     ],
-    "name:gle_x_preferred":[
-        "Doha"
+    "name:gle_x_preferred": [
+      "Doha"
     ],
-    "name:glg_x_preferred":[
-        "Doha"
+    "name:glg_x_preferred": [
+      "Doha"
     ],
-    "name:grn_x_preferred":[
-        "Doha"
+    "name:grn_x_preferred": [
+      "Doha"
     ],
-    "name:guj_x_preferred":[
-        "\u0aa6\u0acb\u0ab9\u0abe"
+    "name:guj_x_preferred": [
+      "દોહા"
     ],
-    "name:hak_x_preferred":[
-        "Doha"
+    "name:hak_x_preferred": [
+      "Doha"
     ],
-    "name:hat_x_preferred":[
-        "Doha"
+    "name:hat_x_preferred": [
+      "Doha"
     ],
-    "name:hau_x_preferred":[
-        "Doha"
+    "name:hau_x_preferred": [
+      "Doha"
     ],
-    "name:heb_x_preferred":[
-        "\u05d3\u05d5\u05d7\u05d4"
+    "name:heb_x_preferred": [
+      "דוחה"
     ],
-    "name:hif_x_preferred":[
-        "Doha"
+    "name:hif_x_preferred": [
+      "Doha"
     ],
-    "name:hin_x_preferred":[
-        "\u0926\u094b\u0939\u093e"
+    "name:hin_x_preferred": [
+      "दोहा"
     ],
-    "name:hrv_x_preferred":[
-        "Doha"
+    "name:hrv_x_preferred": [
+      "Doha"
     ],
-    "name:hsb_x_preferred":[
-        "Doha"
+    "name:hsb_x_preferred": [
+      "Doha"
     ],
-    "name:hun_x_preferred":[
-        "Doha"
+    "name:hun_x_preferred": [
+      "Doha"
     ],
-    "name:hye_x_preferred":[
-        "\u0534\u0578\u0570\u0561"
+    "name:hye_x_preferred": [
+      "Դոհա"
     ],
-    "name:ido_x_preferred":[
-        "Doha"
+    "name:ido_x_preferred": [
+      "Doha"
     ],
-    "name:ile_x_preferred":[
-        "Doha"
+    "name:ile_x_preferred": [
+      "Doha"
     ],
-    "name:ilo_x_preferred":[
-        "Doha"
+    "name:ilo_x_preferred": [
+      "Doha"
     ],
-    "name:ina_x_preferred":[
-        "Doha"
+    "name:ina_x_preferred": [
+      "Doha"
     ],
-    "name:ind_x_preferred":[
-        "Doha"
+    "name:ind_x_preferred": [
+      "Doha"
     ],
-    "name:isl_x_preferred":[
-        "Doha"
+    "name:isl_x_preferred": [
+      "Doha"
     ],
-    "name:ita_x_preferred":[
-        "Doha"
+    "name:ita_x_preferred": [
+      "Doha"
     ],
-    "name:jav_x_preferred":[
-        "Doha"
+    "name:jav_x_preferred": [
+      "Doha"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c9\u30fc\u30cf"
+    "name:jpn_x_preferred": [
+      "ドーハ"
     ],
-    "name:kaa_x_preferred":[
-        "Doha"
+    "name:kaa_x_preferred": [
+      "Doha"
     ],
-    "name:kab_x_preferred":[
-        "Daw\u1e25a"
+    "name:kab_x_preferred": [
+      "Dawḥa"
     ],
-    "name:kal_x_preferred":[
-        "Doha"
+    "name:kal_x_preferred": [
+      "Doha"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca6\u0cca\u0cb9\u0cbe"
+    "name:kan_x_preferred": [
+      "ದೊಹಾ"
     ],
-    "name:kat_x_preferred":[
-        "\u10d3\u10dd\u10f0\u10d0"
+    "name:kat_x_preferred": [
+      "დოჰა"
     ],
-    "name:kaz_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:kaz_x_preferred": [
+      "Доха"
     ],
-    "name:kin_x_preferred":[
-        "Doha"
+    "name:kin_x_preferred": [
+      "Doha"
     ],
-    "name:kir_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:kir_x_preferred": [
+      "Доха"
     ],
-    "name:kor_x_preferred":[
-        "\ub3c4\ud558"
+    "name:kor_x_preferred": [
+      "도하"
     ],
-    "name:kur_x_preferred":[
-        "Doha"
+    "name:kur_x_preferred": [
+      "Doha"
     ],
-    "name:lat_x_preferred":[
-        "Doha"
+    "name:lat_x_preferred": [
+      "Doha"
     ],
-    "name:lav_x_preferred":[
-        "Doha"
+    "name:lav_x_preferred": [
+      "Doha"
     ],
-    "name:lij_x_preferred":[
-        "Doha"
+    "name:lij_x_preferred": [
+      "Doha"
     ],
-    "name:lit_x_preferred":[
-        "Doha"
+    "name:lit_x_preferred": [
+      "Doha"
     ],
-    "name:lmo_x_preferred":[
-        "Doha"
+    "name:lmo_x_preferred": [
+      "Doha"
     ],
-    "name:lrc_x_preferred":[
-        "\u062f\u0648\u062d\u0647"
+    "name:lrc_x_preferred": [
+      "دوحه"
     ],
-    "name:ltz_x_preferred":[
-        "Doha"
+    "name:ltz_x_preferred": [
+      "Doha"
     ],
-    "name:mai_x_preferred":[
-        "\u0926\u094b\u0939\u093e"
+    "name:mai_x_preferred": [
+      "दोहा"
     ],
-    "name:mal_x_preferred":[
-        "\u0d26\u0d4b\u0d39"
+    "name:mal_x_preferred": [
+      "ദോഹ"
     ],
-    "name:mar_x_preferred":[
-        "\u0926\u094b\u0939\u093e"
+    "name:mar_x_preferred": [
+      "दोहा"
     ],
-    "name:mhr_x_preferred":[
-        "\u0414\u043e\u0445\u043e"
+    "name:mhr_x_preferred": [
+      "Дохо"
     ],
-    "name:mkd_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:mkd_x_preferred": [
+      "Доха"
     ],
-    "name:mlg_x_preferred":[
-        "Doha"
+    "name:mlg_x_preferred": [
+      "Doha"
     ],
-    "name:mon_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:mon_x_preferred": [
+      "Доха"
     ],
-    "name:msa_x_preferred":[
-        "Doha"
+    "name:msa_x_preferred": [
+      "Doha"
     ],
-    "name:mya_x_preferred":[
-        "\u1012\u102d\u102f\u101f\u102c\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ဒိုဟာမြို့"
     ],
-    "name:mzn_x_preferred":[
-        "\u062f\u0648\u062d\u0647"
+    "name:mzn_x_preferred": [
+      "دوحه"
     ],
-    "name:nah_x_preferred":[
-        "Doha"
+    "name:nah_x_preferred": [
+      "Doha"
     ],
-    "name:nan_x_preferred":[
-        "Doha"
+    "name:nan_x_preferred": [
+      "Doha"
     ],
-    "name:nep_x_preferred":[
-        "\u0926\u094b\u0939\u093e"
+    "name:nep_x_preferred": [
+      "दोहा"
     ],
-    "name:nld_x_preferred":[
-        "Doha"
+    "name:nld_x_preferred": [
+      "Doha"
     ],
-    "name:nno_x_preferred":[
-        "Doha"
+    "name:nno_x_preferred": [
+      "Doha"
     ],
-    "name:nob_x_preferred":[
-        "Doha"
+    "name:nob_x_preferred": [
+      "Doha"
     ],
-    "name:nov_x_preferred":[
-        "Doha"
+    "name:nov_x_preferred": [
+      "Doha"
     ],
-    "name:oci_x_preferred":[
-        "Doha"
+    "name:oci_x_preferred": [
+      "Doha"
     ],
-    "name:olo_x_preferred":[
-        "Doha"
+    "name:olo_x_preferred": [
+      "Doha"
     ],
-    "name:ori_x_preferred":[
-        "\u0b26\u0b4b\u0b39\u0b3e"
+    "name:ori_x_preferred": [
+      "ଦୋହା"
     ],
-    "name:oss_x_preferred":[
-        "\u0414\u043e\u0445\u00e6"
+    "name:oss_x_preferred": [
+      "Дохæ"
     ],
-    "name:pan_x_preferred":[
-        "\u0a26\u0a4b\u0a39\u0a3e"
+    "name:pan_x_preferred": [
+      "ਦੋਹਾ"
     ],
-    "name:pap_x_preferred":[
-        "Doha"
+    "name:pap_x_preferred": [
+      "Doha"
     ],
-    "name:pms_x_preferred":[
-        "Doha"
+    "name:pms_x_preferred": [
+      "Doha"
     ],
-    "name:pnb_x_preferred":[
-        "\u062f\u0648\u062d\u06c1"
+    "name:pnb_x_preferred": [
+      "دوحہ"
     ],
-    "name:pol_x_preferred":[
-        "Doha"
+    "name:pol_x_preferred": [
+      "Doha"
     ],
-    "name:por_x_preferred":[
-        "Doha"
+    "name:por_x_preferred": [
+      "Doha"
     ],
-    "name:pus_x_preferred":[
-        "\u062f\u0648\u0647\u0627"
+    "name:pus_x_preferred": [
+      "دوها"
     ],
-    "name:ron_x_preferred":[
-        "Doha"
+    "name:ron_x_preferred": [
+      "Doha"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:rus_x_preferred": [
+      "Доха"
     ],
-    "name:sat_x_preferred":[
-        "\u1c6b\u1c5a\u1c66\u1c5f"
+    "name:sat_x_preferred": [
+      "ᱫᱚᱦᱟ"
     ],
-    "name:scn_x_preferred":[
-        "Doha"
+    "name:scn_x_preferred": [
+      "Doha"
     ],
-    "name:sco_x_preferred":[
-        "Doha"
+    "name:sco_x_preferred": [
+      "Doha"
     ],
-    "name:sgs_x_preferred":[
-        "Duoha"
+    "name:sgs_x_preferred": [
+      "Duoha"
     ],
-    "name:sin_x_preferred":[
-        "\u0daf\u0ddd\u0dc4\u0dcf"
+    "name:sin_x_preferred": [
+      "දෝහා"
     ],
-    "name:slk_x_preferred":[
-        "Dauha"
+    "name:slk_x_preferred": [
+      "Dauha"
     ],
-    "name:slv_x_preferred":[
-        "Doha"
+    "name:slv_x_preferred": [
+      "Doha"
     ],
-    "name:sna_x_preferred":[
-        "Doha"
+    "name:sna_x_preferred": [
+      "Doha"
     ],
-    "name:som_x_preferred":[
-        "Dooxa"
+    "name:som_x_preferred": [
+      "Dooxa"
     ],
-    "name:spa_x_preferred":[
-        "Doha"
+    "name:spa_x_preferred": [
+      "Doha"
     ],
-    "name:sqi_x_preferred":[
-        "Doha"
+    "name:sqi_x_preferred": [
+      "Doha"
     ],
-    "name:srp_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:srp_x_preferred": [
+      "Доха"
     ],
-    "name:swa_x_preferred":[
-        "Doha"
+    "name:swa_x_preferred": [
+      "Doha"
     ],
-    "name:swe_x_preferred":[
-        "Doha"
+    "name:swe_x_preferred": [
+      "Doha"
     ],
-    "name:szl_x_preferred":[
-        "Doha"
+    "name:szl_x_preferred": [
+      "Doha"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba4\u0bcb\u0b95\u0bbe"
+    "name:tam_x_preferred": [
+      "தோகா"
     ],
-    "name:tat_x_preferred":[
-        "Doha"
+    "name:tat_x_preferred": [
+      "Doha"
     ],
-    "name:tel_x_preferred":[
-        "\u0c26\u0c4b\u0c39\u0c3e"
+    "name:tel_x_preferred": [
+      "దోహా"
     ],
-    "name:tgk_x_preferred":[
-        "\u0414\u043e\u04b3\u0430"
+    "name:tgk_x_preferred": [
+      "Доҳа"
     ],
-    "name:tgl_x_preferred":[
-        "Doha"
+    "name:tgl_x_preferred": [
+      "Doha"
     ],
-    "name:tha_x_preferred":[
-        "\u0e42\u0e14\u0e2e\u0e32"
+    "name:tha_x_preferred": [
+      "โดฮา"
     ],
-    "name:tuk_x_preferred":[
-        "Doha"
+    "name:tuk_x_preferred": [
+      "Doha"
     ],
-    "name:tur_x_preferred":[
-        "Doha"
+    "name:tur_x_preferred": [
+      "Doha"
     ],
-    "name:uig_x_preferred":[
-        "\u062f\u0648\u06be\u0627"
+    "name:uig_x_preferred": [
+      "دوھا"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
+    "name:ukr_x_preferred": [
+      "Доха"
     ],
-    "name:und_x_variant":[
-        "Balad\u012byat ad Daw\u1e29ah"
+    "name:und_x_variant": [
+      "Baladīyat ad Dawḩah"
     ],
-    "name:urd_x_preferred":[
-        "\u062f\u0648\u062d\u06c1"
+    "name:urd_x_preferred": [
+      "دوحہ"
     ],
-    "name:uzb_x_preferred":[
-        "Doha"
+    "name:uzb_x_preferred": [
+      "Doha"
     ],
-    "name:vec_x_preferred":[
-        "Doha"
+    "name:vec_x_preferred": [
+      "Doha"
     ],
-    "name:vep_x_preferred":[
-        "Doh"
+    "name:vep_x_preferred": [
+      "Doh"
     ],
-    "name:vie_x_preferred":[
-        "Doha"
+    "name:vie_x_preferred": [
+      "Doha"
     ],
-    "name:vol_x_preferred":[
-        "D\u00e4uha"
+    "name:vol_x_preferred": [
+      "Däuha"
     ],
-    "name:war_x_preferred":[
-        "Doha"
+    "name:war_x_preferred": [
+      "Doha"
     ],
-    "name:wuu_x_preferred":[
-        "\u591a\u54c8"
+    "name:wuu_x_preferred": [
+      "多哈"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d3\u10dd\u10f0\u10d0"
+    "name:xmf_x_preferred": [
+      "დოჰა"
     ],
-    "name:yid_x_preferred":[
-        "\u05d3\u05d0\u05db\u05d0"
+    "name:yid_x_preferred": [
+      "דאכא"
     ],
-    "name:yor_x_preferred":[
-        "Doha"
+    "name:yor_x_preferred": [
+      "Doha"
     ],
-    "name:yue_x_preferred":[
-        "\u591a\u54c8"
+    "name:yue_x_preferred": [
+      "多哈"
     ],
-    "name:zho_x_preferred":[
-        "\u591a\u54c8"
+    "name:zho_x_preferred": [
+      "多哈"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"QAT",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"QAT-1099",
-    "ne:adm1_code":"QAT-1099",
-    "ne:admin":"Qatar",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"0",
-    "ne:code_hasc":"QA.DA",
-    "ne:code_local":"",
-    "ne:datarank":"8",
-    "ne:diss_me":"1099",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"QA01",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Qatar",
-    "ne:gn_a1_code":"QA.01",
-    "ne:gn_id":"389470",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Baladiyat ad Dawhah",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"QA01",
-    "ne:gns_id":"116270",
-    "ne:gns_lang":"ara",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Dawhah, Baladiyat ad",
-    "ne:gns_region":"",
-    "ne:gu_a3":"QAT",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"QA-DA",
-    "ne:iso_a2":"QA",
-    "ne:labelrank":"9",
-    "ne:latitude":"25.26860000000",
-    "ne:longitude":"51.52820000000",
-    "ne:mapcolor13":4,
-    "ne:mapcolor9":2,
-    "ne:name":"Ad Dawhah",
-    "ne:name_alt":"Doha",
-    "ne:name_len":9,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"DA",
-    "ne:provnum_ne":"5",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"1",
-    "ne:scalerank":"9",
-    "ne:sov_a3":"QAT",
-    "ne:sub_code":"",
-    "ne:type":"Baladiyah",
-    "ne:type_en":"Municipality",
-    "ne:wikipedia":"",
-    "ne:woe_id":20070008,
-    "ne:woe_label":"Doha, QA, Qatar",
-    "ne:woe_name":"Ad Dawhah",
-    "qs:a0":"Qatar",
-    "qs:a0_lc":"QA",
-    "qs:a1":"Ad Dawhah",
-    "qs:a1_lc":"QAT-1099",
-    "qs:adm0":"Qatar",
-    "qs:adm0_a3":"QAT",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Municipality",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "quattroshapes",
-        "meso"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "QAT",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "QAT-1099",
+    "ne:adm1_code": "QAT-1099",
+    "ne:admin": "Qatar",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "0",
+    "ne:code_hasc": "QA.DA",
+    "ne:code_local": "",
+    "ne:datarank": "8",
+    "ne:diss_me": "1099",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "QA01",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Qatar",
+    "ne:gn_a1_code": "QA.01",
+    "ne:gn_id": "389470",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Baladiyat ad Dawhah",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "QA01",
+    "ne:gns_id": "116270",
+    "ne:gns_lang": "ara",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Dawhah, Baladiyat ad",
+    "ne:gns_region": "",
+    "ne:gu_a3": "QAT",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "QA-DA",
+    "ne:iso_a2": "QA",
+    "ne:labelrank": "9",
+    "ne:latitude": "25.26860000000",
+    "ne:longitude": "51.52820000000",
+    "ne:mapcolor13": 4,
+    "ne:mapcolor9": 2,
+    "ne:name": "Ad Dawhah",
+    "ne:name_alt": "Doha",
+    "ne:name_len": 9,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "DA",
+    "ne:provnum_ne": "5",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "1",
+    "ne:scalerank": "9",
+    "ne:sov_a3": "QAT",
+    "ne:sub_code": "",
+    "ne:type": "Baladiyah",
+    "ne:type_en": "Municipality",
+    "ne:wikipedia": "",
+    "ne:woe_id": 20070008,
+    "ne:woe_label": "Doha, QA, Qatar",
+    "ne:woe_name": "Ad Dawhah",
+    "qs:a0": "Qatar",
+    "qs:a0_lc": "QA",
+    "qs:a1": "Ad Dawhah",
+    "qs:a1_lc": "QAT-1099",
+    "qs:adm0": "Qatar",
+    "qs:adm0_a3": "QAT",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Municipality",
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "quattroshapes",
+      "meso"
     ],
-    "src:geom_via":"us-dshiu",
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-21",
-    "statoids:area_km":"234",
-    "statoids:area_mi":"90",
-    "statoids:as_of_date":"2010-04-21",
-    "statoids:capital":"Doha",
-    "statoids:country":"QA",
-    "statoids:gec":"QA01",
-    "statoids:hasc":"QA.DA",
-    "statoids:iso":"DA",
-    "statoids:name":"Ad Dawhah",
-    "statoids:population":"796947",
-    "statoids:timezone":"+3",
-    "statoids:type":"municipality",
-    "unlc:subdivision":"QA-DA",
-    "wof:belongsto":[
-        102191569,
-        85632299
+    "src:geom_via": "us-dshiu",
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "statoids",
+    "src:population_date": "2010-04-21",
+    "statoids:area_km": "234",
+    "statoids:area_mi": "90",
+    "statoids:as_of_date": "2010-04-21",
+    "statoids:capital": "Doha",
+    "statoids:country": "QA",
+    "statoids:gec": "QA01",
+    "statoids:hasc": "QA.DA",
+    "statoids:iso": "DA",
+    "statoids:name": "Ad Dawhah",
+    "statoids:population": "796947",
+    "statoids:timezone": "+3",
+    "statoids:type": "municipality",
+    "unlc:subdivision": "QA-DA",
+    "wof:belongsto": [
+      102191569,
+      85632299
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "digitalenvoy:region_code":25911,
-        "fips:code":"QA01",
-        "gn:id":389470,
-        "gp:id":20070008,
-        "hasc:id":"QA.DA",
-        "iso:id":"QA-DA",
-        "qs_pg:id":355527,
-        "unlc:id":"QA-DA",
-        "wd:id":"Q3861"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "digitalenvoy:region_code": 25911,
+      "fips:code": "QA01",
+      "gn:id": 389470,
+      "gp:id": 20070008,
+      "hasc:id": "QA.DA",
+      "iso:id": "QA-DA",
+      "qs_pg:id": 355527,
+      "unlc:id": "QA-DA",
+      "wd:id": "Q3861"
     },
-    "wof:coterminous":[
-        421190363,
-        1377149699
+    "wof:coterminous": [
+      421190363,
+      1377149699
     ],
-    "wof:country":"QA",
-    "wof:geom_alt":[
-        "quattroshapes",
-        "meso"
+    "wof:country": "QA",
+    "wof:created": 1624906864,
+    "wof:geom_alt": [
+      "quattroshapes",
+      "meso"
     ],
-    "wof:geomhash":"2ddd2ab49a9aec75a5b1bd13aab2a10b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632299,
-            "region_id":85676749
-        }
+    "wof:geomhash": "2ddd2ab49a9aec75a5b1bd13aab2a10b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632299,
+        "region_id": 85676749
+      }
     ],
-    "wof:id":85676749,
-    "wof:lang_x_official":[
-        "ara"
+    "wof:id": 85676749,
+    "wof:lang_x_official": [
+      "ara"
     ],
-    "wof:lang_x_spoken":[
-        "ara"
+    "wof:lang_x_spoken": [
+      "ara"
     ],
-    "wof:lastmodified":1583882930,
-    "wof:name":"Ad Dawhah",
-    "wof:parent_id":85632299,
-    "wof:placetype":"region",
-    "wof:placetype_local":"municipality",
-    "wof:population":796947,
-    "wof:population_rank":11,
-    "wof:repo":"whosonfirst-data-admin-qa",
-    "wof:shortcode":"DA",
-    "wof:subdivision":"QA-DA",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906864,
+    "wof:name": "Ad Dawhah",
+    "wof:parent_id": 85632299,
+    "wof:placetype": "region",
+    "wof:placetype_local": "municipality",
+    "wof:population": 796947,
+    "wof:population_rank": 11,
+    "wof:repo": "whosonfirst-data-admin-qa",
+    "wof:shortcode": "DA",
+    "wof:subdivision": "QA-DA",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     51.397751,
     25.151949,
     51.647362,
     25.396163
-],
+  ],
   "geometry": {"coordinates":[[[[51.620411,25.191164],[51.620268,25.191181],[51.620268,25.191176],[51.617714,25.191514],[51.616222,25.19194],[51.615485,25.192183],[51.614901,25.192387],[51.614225,25.192581],[51.61355,25.192734],[51.613121,25.19283],[51.612824,25.192922],[51.612555,25.193023],[51.612412,25.193099],[51.612286,25.193159],[51.612145,25.193221],[51.611985,25.193287],[51.611844,25.193336],[51.611706,25.193376],[51.611506,25.193429],[51.611256,25.193482],[51.610992,25.193519],[51.610687,25.19354],[51.610231,25.19355],[51.609433,25.19355],[51.60834,25.193489],[51.607428,25.193399],[51.606559,25.193342],[51.605774,25.19325],[51.605459,25.19316],[51.605335,25.193121],[51.60522,25.193087],[51.605088,25.193057],[51.604911,25.19302],[51.604668,25.192957],[51.604285,25.192844],[51.603617,25.192634],[51.602703,25.192296],[51.601927,25.191963],[51.601288,25.191708],[51.600583,25.191461],[51.599793,25.191202],[51.598854,25.190984],[51.597504,25.190836],[51.595659,25.190805],[51.592806,25.190939],[51.592806,25.191455],[51.592806,25.191971],[51.592806,25.193004],[51.592748,25.194107],[51.592622,25.194859],[51.592468,25.195474],[51.59231,25.19593],[51.592127,25.196363],[51.591849,25.196954],[51.59144,25.197737],[51.590934,25.198594],[51.590616,25.199202],[51.590455,25.199739],[51.590263,25.200304],[51.59007,25.200762],[51.589847,25.201225],[51.589585,25.201726],[51.589339,25.202188],[51.58908,25.202709],[51.588753,25.203314],[51.588374,25.20391],[51.58796,25.204477],[51.587676,25.204853],[51.587456,25.205211],[51.587129,25.205719],[51.586764,25.206212],[51.586437,25.206595],[51.586134,25.206922],[51.585856,25.207219],[51.585624,25.207484],[51.585468,25.207731],[51.585371,25.208039],[51.585251,25.208472],[51.585087,25.208959],[51.584859,25.20952],[51.584496,25.210312],[51.58395,25.21136],[51.583362,25.212374],[51.58257,25.213685],[51.581216,25.215866],[51.580002,25.215662],[51.578789,25.215458],[51.576362,25.215051],[51.573921,25.214234],[51.571869,25.213226],[51.569766,25.212607],[51.568295,25.212318],[51.566623,25.211925],[51.563402,25.211151],[51.56014,25.210588],[51.557556,25.210128],[51.555143,25.209304],[51.552427,25.208041],[51.550028,25.206799],[51.548499,25.206153],[51.545997,25.205482],[51.542607,25.204481],[51.53763,25.2031],[51.537668,25.204096],[51.537706,25.205092],[51.537781,25.207083],[51.53774,25.209333],[51.537538,25.21151],[51.537406,25.213715],[51.536968,25.215116],[51.535729,25.21645],[51.534676,25.218204],[51.534124,25.220665],[51.53396,25.220999],[51.533795,25.221333],[51.533467,25.222002],[51.533184,25.222642],[51.533028,25.22309],[51.532799,25.223694],[51.532559,25.224269],[51.532326,25.224818],[51.532108,25.225296],[51.531888,25.225651],[51.531586,25.226086],[51.531154,25.226646],[51.530596,25.227284],[51.530127,25.22778],[51.529754,25.22822],[51.529276,25.228884],[51.528665,25.22965],[51.52811,25.230258],[51.52758,25.230894],[51.526684,25.232015],[51.525406,25.233378],[51.523891,25.234819],[51.523596,25.235073],[51.522374,25.235647],[51.521152,25.236222],[51.518708,25.23737],[51.516131,25.239079],[51.514668,25.240311],[51.513216,25.240863],[51.510581,25.241553],[51.507801,25.242687],[51.50555,25.244337],[51.503186,25.245477],[51.500767,25.246268],[51.499098,25.247123],[51.49795,25.247716],[51.496723,25.248329],[51.495784,25.248762],[51.495002,25.249106],[51.494164,25.249515],[51.492849,25.250084],[51.490484,25.251054],[51.486908,25.251735],[51.481725,25.251866],[51.481642,25.248685],[51.481959,25.246762],[51.482801,25.245137],[51.483597,25.243942],[51.484395,25.242971],[51.485248,25.240723],[51.485754,25.238158],[51.485958,25.236817],[51.485766,25.235966],[51.484899,25.235405],[51.483,25.235541],[51.481103,25.236029],[51.479353,25.23721],[51.477607,25.238915],[51.476659,25.240008],[51.475699,25.241108],[51.474629,25.242261],[51.473967,25.242962],[51.473453,25.243483],[51.472912,25.243984],[51.472375,25.244423],[51.471912,25.244788],[51.471144,25.245518],[51.470276,25.246382],[51.469842,25.246814],[51.469407,25.247246],[51.47201,25.249513],[51.475244,25.251041],[51.478214,25.251811],[51.479699,25.252196],[51.481183,25.252581],[51.481503,25.253173],[51.481822,25.253765],[51.482461,25.254948],[51.483718,25.25717],[51.484908,25.258868],[51.485698,25.259398],[51.486273,25.259749],[51.486619,25.259961],[51.487099,25.260269],[51.487695,25.260691],[51.488408,25.261244],[51.489121,25.261814],[51.489798,25.262242],[51.490577,25.262676],[51.491445,25.263271],[51.492296,25.264007],[51.493159,25.264903],[51.493103,25.265083],[51.493048,25.265264],[51.492938,25.265625],[51.492742,25.266203],[51.492442,25.266971],[51.492041,25.267784],[51.491596,25.268509],[51.491136,25.269151],[51.490797,25.269614],[51.490538,25.270006],[51.490212,25.270454],[51.489846,25.270888],[51.489462,25.271283],[51.489002,25.271706],[51.488369,25.272247],[51.488398,25.272412],[51.488428,25.272577],[51.488486,25.272906],[51.488592,25.27352],[51.488681,25.274285],[51.488699,25.274811],[51.488686,25.275078],[51.488663,25.275291],[51.488623,25.275522],[51.488556,25.275809],[51.48844,25.276211],[51.488234,25.276838],[51.487906,25.277632],[51.487665,25.278189],[51.487591,25.278472],[51.487523,25.278797],[51.487431,25.279309],[51.487225,25.27945],[51.487018,25.279591],[51.486605,25.279874],[51.486078,25.280304],[51.485565,25.280834],[51.484844,25.281648],[51.484257,25.282557],[51.483853,25.283353],[51.483521,25.283847],[51.483354,25.284093],[51.483161,25.284375],[51.48292,25.284728],[51.482659,25.285103],[51.482502,25.285319],[51.482372,25.285491],[51.482158,25.285774],[51.481949,25.286048],[51.481743,25.286317],[51.481567,25.286543],[51.481456,25.286673],[51.481289,25.286863],[51.481049,25.287125],[51.4808,25.287386],[51.480488,25.287704],[51.479961,25.288233],[51.479897,25.288292],[51.479871,25.288316],[51.479738,25.288433],[51.479605,25.28855],[51.479339,25.288784],[51.479115,25.288982],[51.478991,25.289095],[51.47883,25.289246],[51.478655,25.289412],[51.47847,25.289593],[51.478304,25.289762],[51.478163,25.289912],[51.478035,25.290054],[51.477869,25.290242],[51.477637,25.29051],[51.477407,25.290786],[51.477213,25.291028],[51.47705,25.291243],[51.476943,25.29139],[51.476852,25.291519],[51.476739,25.291683],[51.476652,25.291816],[51.476562,25.291959],[51.47646,25.292129],[51.476379,25.292281],[51.476315,25.292421],[51.476253,25.29258],[51.476177,25.292802],[51.476095,25.29309],[51.476035,25.293388],[51.476003,25.293668],[51.475982,25.29402],[51.475967,25.294555],[51.474865,25.295449],[51.474857,25.295762],[51.474849,25.296074],[51.474833,25.296698],[51.474804,25.297261],[51.474758,25.297565],[51.474689,25.297934],[51.474608,25.298328],[51.474501,25.298843],[51.474407,25.299301],[51.474331,25.299672],[51.474257,25.300035],[51.474187,25.300378],[51.474096,25.30082],[51.473965,25.30146],[51.47386,25.301967],[51.47381,25.302207],[51.473762,25.302441],[51.473717,25.302661],[51.473668,25.3029],[51.473611,25.30318],[51.47355,25.30349],[51.473507,25.303725],[51.473472,25.303964],[51.47344,25.304284],[51.47339,25.304841],[51.473344,25.305688],[51.473303,25.307129],[51.473198,25.307311],[51.473094,25.307492],[51.472885,25.307855],[51.472651,25.308334],[51.472482,25.3088],[51.47236,25.309254],[51.472285,25.309608],[51.472207,25.309986],[51.472113,25.31044],[51.471986,25.311049],[51.471851,25.311697],[51.4717,25.312423],[51.471564,25.313085],[51.471453,25.313628],[51.471307,25.314335],[51.471177,25.31496],[51.471004,25.315788],[51.470837,25.316585],[51.470683,25.317318],[51.47052,25.318097],[51.470337,25.318965],[51.470016,25.320487],[51.469637,25.320703],[51.469258,25.32092],[51.4685,25.321354],[51.467852,25.321727],[51.467519,25.321923],[51.467163,25.32213],[51.466792,25.322353],[51.466387,25.322596],[51.466013,25.322816],[51.46559,25.323077],[51.465038,25.32341],[51.465034,25.323552],[51.46503,25.323695],[51.465023,25.323979],[51.465002,25.324465],[51.464966,25.324931],[51.464923,25.325252],[51.464866,25.325572],[51.464784,25.325942],[51.46466,25.326425],[51.464484,25.326994],[51.464285,25.327524],[51.464078,25.328005],[51.463853,25.328499],[51.463596,25.329083],[51.463293,25.329866],[51.462932,25.331038],[51.462265,25.332047],[51.461878,25.332624],[51.461656,25.332949],[51.461495,25.333175],[51.461324,25.333396],[51.461116,25.333642],[51.460829,25.33395],[51.460448,25.334313],[51.460095,25.334623],[51.459872,25.334842],[51.459735,25.335043],[51.459644,25.335258],[51.459563,25.3356],[51.459452,25.336095],[51.459322,25.336598],[51.459161,25.33711],[51.458892,25.337779],[51.45851,25.338527],[51.458143,25.339127],[51.457878,25.339577],[51.457632,25.340085],[51.456841,25.341585],[51.456446,25.342335],[51.45605,25.343085],[51.45589,25.343295],[51.455731,25.343505],[51.455411,25.343924],[51.454967,25.344619],[51.454689,25.345147],[51.454595,25.345406],[51.454534,25.345718],[51.4545,25.34605],[51.454455,25.346372],[51.454399,25.346669],[51.454321,25.346993],[51.454201,25.347424],[51.454026,25.347949],[51.453765,25.348618],[51.453428,25.349331],[51.453156,25.349817],[51.453007,25.350106],[51.452859,25.350431],[51.452692,25.350803],[51.452564,25.351134],[51.452422,25.351549],[51.452262,25.351991],[51.4521,25.352429],[51.451862,25.353036],[51.45152,25.353748],[51.451139,25.354362],[51.450742,25.354872],[51.450271,25.355395],[51.449791,25.355854],[51.449407,25.356166],[51.449086,25.356402],[51.448763,25.356619],[51.448435,25.356824],[51.448091,25.357026],[51.447702,25.357243],[51.447335,25.357443],[51.446972,25.357645],[51.446494,25.357926],[51.445829,25.35831],[51.445085,25.358702],[51.444286,25.359085],[51.44438,25.359462],[51.444474,25.359839],[51.444662,25.360593],[51.444986,25.36193],[51.445511,25.3642],[51.446444,25.368321],[51.446933,25.368341],[51.447422,25.36836],[51.448399,25.3684],[51.449287,25.36846],[51.449805,25.368551],[51.450264,25.368653],[51.450576,25.368739],[51.450872,25.368834],[51.451312,25.368985],[51.451945,25.369234],[51.452801,25.36963],[51.453684,25.370157],[51.454353,25.370673],[51.454899,25.371143],[51.455378,25.371549],[51.455945,25.371952],[51.456694,25.372438],[51.457596,25.372886],[51.45887,25.373397],[51.460199,25.373918],[51.461587,25.374559],[51.462703,25.375145],[51.463431,25.375504],[51.464145,25.375878],[51.464776,25.376257],[51.46553,25.376731],[51.46627,25.377266],[51.466925,25.377738],[51.467725,25.378209],[51.469007,25.378938],[51.470013,25.379477],[51.471018,25.380016],[51.473029,25.381093],[51.47482,25.382262],[51.476048,25.383352],[51.477087,25.384158],[51.477762,25.384509],[51.478725,25.384941],[51.480188,25.385603],[51.481866,25.38634],[51.483552,25.387339],[51.485038,25.388238],[51.486595,25.388786],[51.488638,25.389484],[51.490638,25.390409],[51.492624,25.392316],[51.495283,25.396163],[51.496107,25.395651],[51.496931,25.39514],[51.49858,25.394117],[51.500228,25.392637],[51.500891,25.391599],[51.501103,25.391056],[51.501261,25.390298],[51.501427,25.389312],[51.501659,25.388321],[51.501901,25.387499],[51.502052,25.38694],[51.502073,25.386523],[51.502048,25.385959],[51.502047,25.385275],[51.502088,25.384623],[51.502168,25.384024],[51.50229,25.383371],[51.502466,25.382542],[51.502691,25.381521],[51.503051,25.379862],[51.503188,25.379824],[51.503326,25.379785],[51.503601,25.379708],[51.504137,25.379561],[51.504798,25.379405],[51.505328,25.379323],[51.505775,25.379286],[51.506322,25.379265],[51.506852,25.379269],[51.507377,25.379305],[51.508087,25.379367],[51.50874,25.37939],[51.509357,25.379376],[51.50993,25.379392],[51.51028,25.379411],[51.510612,25.379413],[51.510931,25.379417],[51.511163,25.379438],[51.511436,25.379479],[51.511782,25.379547],[51.512206,25.379654],[51.512691,25.379804],[51.513131,25.379989],[51.513553,25.380213],[51.513936,25.380438],[51.51429,25.380686],[51.514662,25.380969],[51.51504,25.381269],[51.515462,25.381586],[51.51592,25.381859],[51.516487,25.382017],[51.517059,25.3821],[51.517586,25.382209],[51.518225,25.382366],[51.518903,25.382554],[51.519506,25.382711],[51.52017,25.382823],[51.521287,25.382954],[51.522795,25.382806],[51.524231,25.382267],[51.524856,25.382065],[51.524418,25.381611],[51.524434,25.379911],[51.523785,25.379637],[51.523102,25.379348],[51.522327,25.378763],[51.522874,25.377211],[51.527615,25.380442],[51.53808,25.38285],[51.533253,25.378959],[51.531122,25.378168],[51.533474,25.377867],[51.533515,25.377861],[51.533474,25.377849],[51.532565,25.377583],[51.53291,25.376703],[51.533195,25.376843],[51.533573,25.377029],[51.533195,25.376763],[51.533045,25.376657],[51.531287,25.376434],[51.52955,25.377287],[51.528943,25.377991],[51.53101,25.37816],[51.527249,25.378391],[51.529898,25.3757],[51.529875,25.375694],[51.529861,25.375691],[51.529305,25.375551],[51.528952,25.375462],[51.529142,25.374445],[51.529975,25.374367],[51.529458,25.373273],[51.532545,25.372428],[51.532284,25.374733],[51.543531,25.383294],[51.545125,25.383443],[51.545904,25.383044],[51.539431,25.377472],[51.540502,25.376702],[51.540363,25.375779],[51.541256,25.374643],[51.541239,25.375692],[51.54193,25.376189],[51.541172,25.377503],[51.542847,25.377804],[51.542582,25.378556],[51.543719,25.378826],[51.543825,25.379902],[51.544933,25.379473],[51.54593,25.380937],[51.547915,25.380879],[51.549022,25.38172],[51.550094,25.381399],[51.549848,25.379826],[51.547528,25.37754],[51.546604,25.37777],[51.54734,25.377203],[51.547083,25.375776],[51.548324,25.376054],[51.5492,25.377596],[51.550499,25.377011],[51.551018,25.37555],[51.550485,25.375079],[51.548833,25.375221],[51.548386,25.375845],[51.547104,25.375542],[51.548474,25.374575],[51.548,25.373639],[51.548785,25.374396],[51.550823,25.373304],[51.552144,25.374832],[51.552233,25.376306],[51.551191,25.378847],[51.551826,25.38005],[51.553571,25.38],[51.555499,25.37687],[51.558425,25.37743],[51.5591,25.376698],[51.560945,25.376798],[51.563847,25.373989],[51.563672,25.373279],[51.564875,25.371901],[51.563965,25.370624],[51.565264,25.369153],[51.564729,25.36815],[51.566435,25.367233],[51.565582,25.365848],[51.567066,25.364931],[51.566413,25.36366],[51.568105,25.362918],[51.568087,25.361875],[51.569893,25.361322],[51.569679,25.359563],[51.570496,25.358904],[51.573419,25.359195],[51.575935,25.360801],[51.575307,25.361508],[51.574008,25.361254],[51.573644,25.361586],[51.574415,25.362093],[51.573633,25.362047],[51.575178,25.363071],[51.575464,25.361672],[51.576217,25.361229],[51.578023,25.363803],[51.576039,25.363971],[51.576599,25.364624],[51.575799,25.364549],[51.576014,25.365284],[51.577216,25.365834],[51.577616,25.364363],[51.578359,25.364431],[51.57934,25.366979],[51.577363,25.366883],[51.577877,25.367654],[51.577084,25.367554],[51.577127,25.367982],[51.578512,25.368735],[51.57944,25.367326],[51.580282,25.370277],[51.578216,25.370274],[51.578769,25.370963],[51.577966,25.370977],[51.578194,25.371552],[51.579643,25.372019],[51.580397,25.370616],[51.582645,25.373954],[51.581257,25.371626],[51.582592,25.371034],[51.583944,25.371644],[51.584223,25.369981],[51.583534,25.370388],[51.583744,25.369642],[51.58302,25.36966],[51.582592,25.370777],[51.581057,25.371359],[51.579961,25.368368],[51.581232,25.368093],[51.582535,25.368814],[51.583063,25.367497],[51.582724,25.366979],[51.582206,25.367529],[51.582028,25.366683],[51.581175,25.367875],[51.579933,25.368025],[51.579033,25.365316],[51.580828,25.365673],[51.5813,25.364178],[51.580989,25.363838],[51.580554,25.364406],[51.58075,25.363624],[51.580154,25.363564],[51.578925,25.365003],[51.577241,25.362105],[51.577987,25.36157],[51.57935,25.362319],[51.579736,25.360688],[51.579136,25.361077],[51.579243,25.360238],[51.578551,25.360292],[51.576995,25.361798],[51.576231,25.360518],[51.574924,25.359707],[51.575899,25.358236],[51.577369,25.358639],[51.577662,25.35764],[51.57723,25.35694],[51.576738,25.357536],[51.576862,25.356748],[51.576095,25.35694],[51.574557,25.359475],[51.573558,25.358931],[51.570509,25.358661],[51.571305,25.357444],[51.571034,25.356548],[51.567579,25.355213],[51.566412,25.356537],[51.56491,25.356797],[51.565587,25.356152],[51.565036,25.355928],[51.563605,25.3567],[51.563578,25.357245],[51.564632,25.356975],[51.56482,25.358961],[51.562971,25.361069],[51.560887,25.361234],[51.559779,25.360662],[51.558481,25.361161],[51.557419,25.360557],[51.556305,25.361058],[51.556574,25.363868],[51.559037,25.364693],[51.560055,25.366064],[51.56006,25.368151],[51.55818,25.369414],[51.557303,25.369569],[51.557327,25.36801],[51.559088,25.366815],[51.557869,25.366018],[51.555358,25.366098],[51.555617,25.36437],[51.554154,25.363695],[51.553461,25.361636],[51.552381,25.361544],[51.551397,25.362508],[51.549579,25.361565],[51.548642,25.362796],[51.546501,25.361892],[51.544556,25.362288],[51.54305,25.36149],[51.542355,25.363626],[51.542831,25.365283],[51.545728,25.366562],[51.54612,25.365967],[51.547783,25.367813],[51.54788,25.37033],[51.547274,25.371429],[51.546872,25.371151],[51.54557,25.372088],[51.545939,25.37269],[51.542986,25.372988],[51.543162,25.372279],[51.5426,25.372117],[51.542215,25.372814],[51.542405,25.372069],[51.541884,25.372512],[51.540564,25.371379],[51.540796,25.370321],[51.542548,25.369792],[51.543243,25.370802],[51.544997,25.370162],[51.545519,25.368853],[51.54383,25.367852],[51.542685,25.368495],[51.542451,25.369627],[51.540748,25.37015],[51.53976,25.369569],[51.541302,25.365707],[51.541062,25.364862],[51.538475,25.363895],[51.537534,25.364465],[51.537855,25.36597],[51.5361,25.366572],[51.536556,25.368455],[51.53462,25.368564],[51.534566,25.369937],[51.532639,25.371757],[51.529237,25.372538],[51.531614,25.367941],[51.532204,25.364052],[51.530382,25.36262],[51.530075,25.360472],[51.528502,25.359891],[51.527438,25.35744],[51.526303,25.356448],[51.526332,25.354225],[51.526989,25.354111],[51.527637,25.354074],[51.531807,25.353831],[51.531835,25.35383],[51.532079,25.352083],[51.532082,25.352063],[51.532479,25.349218],[51.531328,25.348346],[51.531052,25.346421],[51.529673,25.34545],[51.52903,25.343313],[51.526263,25.340981],[51.524412,25.340886],[51.523472,25.339967],[51.523086,25.339589],[51.522447,25.337172],[51.522815,25.33489],[51.524307,25.33374],[51.524391,25.333676],[51.524329,25.333197],[51.524314,25.333082],[51.524582,25.332925],[51.526015,25.332085],[51.52636,25.331883],[51.526527,25.331873],[51.528194,25.331776],[51.53011,25.331664],[51.530519,25.331806],[51.532785,25.332596],[51.535137,25.332501],[51.536992,25.332425],[51.540322,25.327161],[51.540695,25.327148],[51.541592,25.327115],[51.541454,25.326248],[51.54141,25.325972],[51.541395,25.325875],[51.542078,25.325417],[51.542362,25.325226],[51.542431,25.325181],[51.542362,25.32506],[51.541462,25.323473],[51.541218,25.323042],[51.54104,25.323195],[51.54014,25.323963],[51.539498,25.323473],[51.539307,25.323327],[51.539034,25.323118],[51.53883,25.319578],[51.539307,25.319119],[51.539343,25.319083],[51.539307,25.319115],[51.538478,25.319833],[51.537761,25.31903],[51.538195,25.318578],[51.538793,25.31897],[51.539199,25.317638],[51.539245,25.317486],[51.538707,25.317049],[51.538993,25.317638],[51.539011,25.317676],[51.53824,25.317798],[51.536098,25.31693],[51.533445,25.316911],[51.531651,25.316604],[51.52907,25.315971],[51.528194,25.315757],[51.527942,25.315695],[51.526179,25.315263],[51.522083,25.312719],[51.521955,25.312639],[51.521805,25.312546],[51.52167,25.312462],[51.521591,25.312361],[51.521526,25.312277],[51.521378,25.312084],[51.520973,25.311561],[51.520947,25.311527],[51.520138,25.31048],[51.52009,25.310417],[51.519859,25.310119],[51.519614,25.309801],[51.519647,25.309584],[51.519986,25.307382],[51.519859,25.307354],[51.518845,25.30713],[51.51867,25.30625],[51.518471,25.305252],[51.518338,25.304585],[51.518258,25.304186],[51.518713,25.302361],[51.518749,25.302214],[51.519197,25.300417],[51.519296,25.300019],[51.519306,25.300003],[51.519569,25.299583],[51.519585,25.299559],[51.519744,25.299305],[51.519859,25.299121],[51.519917,25.299028],[51.520557,25.298007],[51.521526,25.297085],[51.521529,25.297083],[51.521655,25.296963],[51.521805,25.296862],[51.521887,25.296806],[51.522083,25.296674],[51.523941,25.295418],[51.524849,25.294804],[51.525696,25.294383],[51.525851,25.294306],[51.526806,25.293831],[51.526968,25.293751],[51.527363,25.293554],[51.527528,25.293472],[51.527889,25.293293],[51.52874,25.292921],[51.528603,25.293751],[51.528588,25.29384],[51.529602,25.293642],[51.529305,25.293318],[51.528876,25.292852],[51.530134,25.292417],[51.53014,25.292416],[51.530411,25.29236],[51.530418,25.292359],[51.531746,25.292086],[51.533867,25.291649],[51.533474,25.292376],[51.53339,25.292531],[51.533474,25.292776],[51.533712,25.293472],[51.534157,25.294775],[51.532053,25.29539],[51.531259,25.294295],[51.531391,25.29559],[51.534117,25.295258],[51.534306,25.295517],[51.534435,25.295694],[51.53462,25.295948],[51.53492,25.295694],[51.535137,25.29551],[51.535165,25.295486],[51.53531,25.295418],[51.535416,25.295368],[51.537039,25.294601],[51.53623,25.294677],[51.536212,25.294583],[51.536106,25.294027],[51.535893,25.292918],[51.535694,25.292932],[51.534623,25.293007],[51.534603,25.291441],[51.536251,25.291575],[51.538443,25.291754],[51.538471,25.291781],[51.53899,25.292269],[51.539177,25.295033],[51.539028,25.295105],[51.538334,25.295439],[51.540094,25.296086],[51.540609,25.295139],[51.540666,25.295035],[51.541844,25.294866],[51.542131,25.295139],[51.542362,25.29536],[51.542423,25.295418],[51.54344,25.296387],[51.542398,25.298199],[51.539614,25.29779],[51.540038,25.299315],[51.542653,25.299659],[51.543235,25.298056],[51.544572,25.297522],[51.545418,25.297855],[51.545615,25.297932],[51.545418,25.298361],[51.545367,25.298471],[51.544728,25.299862],[51.544482,25.300398],[51.544861,25.300503],[51.546538,25.30097],[51.546552,25.300974],[51.546554,25.30097],[51.548118,25.297904],[51.551897,25.299779],[51.55014,25.303385],[51.549769,25.304147],[51.55014,25.305033],[51.550141,25.305033],[51.550392,25.30514],[51.550415,25.305149],[51.558345,25.308504],[51.559165,25.307081],[51.561357,25.302709],[51.558626,25.301511],[51.55611,25.306486],[51.55133,25.30489],[51.554306,25.299174],[51.554382,25.299028],[51.556252,25.295437],[51.556503,25.294953],[51.555973,25.294733],[51.554857,25.294268],[51.552715,25.298532],[51.551506,25.297942],[51.55202,25.297019],[51.550764,25.296352],[51.550355,25.297076],[51.547916,25.295665],[51.548238,25.293538],[51.548976,25.293751],[51.549583,25.293926],[51.549936,25.294027],[51.550014,25.29405],[51.550067,25.294027],[51.550415,25.293878],[51.550838,25.293697],[51.550415,25.29357],[51.547549,25.292706],[51.548752,25.291256],[51.548986,25.290974],[51.549026,25.290925],[51.549679,25.290138],[51.549862,25.289918],[51.549907,25.289864],[51.55014,25.289583],[51.550141,25.289581],[51.551387,25.28808],[51.551739,25.287018],[51.552469,25.287032],[51.552687,25.288082],[51.552146,25.288382],[51.552753,25.28845],[51.552803,25.287326],[51.553526,25.286651],[51.554501,25.286806],[51.554394,25.288195],[51.553431,25.288362],[51.554491,25.288576],[51.554731,25.286767],[51.555107,25.287347],[51.555416,25.286947],[51.555525,25.286806],[51.555695,25.286586],[51.55574,25.286528],[51.555855,25.286379],[51.555973,25.286401],[51.558211,25.286819],[51.558472,25.286697],[51.55949,25.286218],[51.560117,25.286806],[51.560708,25.287359],[51.561744,25.28833],[51.562291,25.288068],[51.562565,25.288471],[51.564583,25.291439],[51.564831,25.291803],[51.565116,25.292222],[51.566528,25.292904],[51.567133,25.293196],[51.56736,25.293305],[51.567706,25.293472],[51.567917,25.293574],[51.569075,25.294133],[51.568748,25.295381],[51.568521,25.296249],[51.568518,25.29626],[51.569377,25.29623],[51.569584,25.295977],[51.569587,25.295973],[51.570403,25.294977],[51.571933,25.294893],[51.572782,25.293055],[51.574131,25.29225],[51.577958,25.291264],[51.578029,25.292784],[51.578418,25.291674],[51.579284,25.291441],[51.579582,25.294268],[51.581191,25.294288],[51.581155,25.294027],[51.580801,25.291429],[51.582925,25.289298],[51.582829,25.287688],[51.584612,25.286801],[51.585067,25.287204],[51.586188,25.286203],[51.588434,25.285959],[51.5889,25.284629],[51.589928,25.284952],[51.58595,25.293518],[51.590271,25.295079],[51.593507,25.292205],[51.595639,25.287941],[51.595695,25.288001],[51.595879,25.288195],[51.595974,25.288295],[51.596141,25.288471],[51.596249,25.288585],[51.596404,25.28875],[51.596527,25.28888],[51.596668,25.289028],[51.596806,25.289174],[51.596929,25.289305],[51.597084,25.289468],[51.597191,25.289581],[51.597363,25.289762],[51.599294,25.291803],[51.599304,25.291814],[51.599561,25.292086],[51.599583,25.292108],[51.599821,25.29236],[51.599861,25.292403],[51.601349,25.293975],[51.602565,25.296806],[51.602638,25.296976],[51.602804,25.297361],[51.602917,25.297625],[51.603042,25.297916],[51.603195,25.298273],[51.60328,25.298471],[51.603474,25.298921],[51.604014,25.300181],[51.605351,25.300694],[51.605415,25.300718],[51.606071,25.30097],[51.606251,25.301039],[51.606802,25.30125],[51.606804,25.301251],[51.608248,25.301805],[51.608926,25.302065],[51.609042,25.301805],[51.610138,25.299356],[51.610161,25.299305],[51.611252,25.296867],[51.611279,25.296806],[51.611526,25.296253],[51.611652,25.295973],[51.611805,25.29563],[51.6119,25.295418],[51.612083,25.295008],[51.612149,25.294861],[51.612409,25.29428],[51.612915,25.294032],[51.612924,25.294027],[51.613418,25.293785],[51.614941,25.290206],[51.614541,25.289292],[51.623196,25.269807],[51.623295,25.269583],[51.623473,25.269182],[51.623542,25.269028],[51.62385,25.268334],[51.624584,25.267967],[51.624683,25.267918],[51.624863,25.267828],[51.624916,25.267801],[51.624987,25.267639],[51.626477,25.264241],[51.626096,25.263366],[51.626804,25.26174],[51.630683,25.252839],[51.625122,25.251028],[51.621734,25.253017],[51.620361,25.251323],[51.621063,25.250995],[51.618564,25.248913],[51.615792,25.247747],[51.615197,25.248241],[51.610997,25.246135],[51.600239,25.242671],[51.60031,25.241344],[51.60014,25.241205],[51.599602,25.240767],[51.600834,25.236222],[51.602028,25.235884],[51.601473,25.234704],[51.601249,25.234227],[51.602065,25.230018],[51.602313,25.229584],[51.602471,25.229305],[51.602638,25.229013],[51.602788,25.22875],[51.602917,25.228524],[51.602947,25.228472],[51.603195,25.228036],[51.603263,25.227917],[51.603474,25.227548],[51.60358,25.227362],[51.604584,25.225601],[51.604689,25.225416],[51.604862,25.225112],[51.605005,25.224861],[51.605141,25.224624],[51.605521,25.223956],[51.611767,25.218632],[51.614658,25.215418],[51.614861,25.215192],[51.614908,25.215139],[51.615139,25.214882],[51.615158,25.214861],[51.617389,25.21238],[51.619114,25.21235],[51.619269,25.211613],[51.619988,25.21147],[51.619988,25.208061],[51.62561,25.206711],[51.625644,25.205137],[51.625652,25.204813],[51.6242,25.204849],[51.624156,25.205137],[51.623998,25.206182],[51.621148,25.206604],[51.619877,25.205062],[51.619857,25.201868],[51.619796,25.201805],[51.619583,25.201583],[51.619351,25.201341],[51.619584,25.195027],[51.619309,25.1937],[51.620267,25.191947],[51.620413,25.191678],[51.620411,25.191164]]],[[[51.471583,25.167586],[51.47081,25.167025],[51.470037,25.166464],[51.468491,25.165343],[51.466776,25.164228],[51.464769,25.163151],[51.462435,25.162176],[51.460483,25.161422],[51.458611,25.16049],[51.457059,25.159698],[51.455531,25.159039],[51.453803,25.158577],[51.452185,25.15821],[51.450826,25.157817],[51.44964,25.157516],[51.448364,25.15719],[51.447359,25.156829],[51.446325,25.156354],[51.444368,25.155428],[51.44228,25.1544],[51.440376,25.153691],[51.437793,25.153086],[51.434745,25.152344],[51.431624,25.151949],[51.431196,25.152805],[51.430767,25.153662],[51.429909,25.155375],[51.428824,25.157339],[51.427711,25.158978],[51.426442,25.161002],[51.425419,25.1632],[51.424775,25.164562],[51.424208,25.165227],[51.423532,25.165831],[51.422443,25.166604],[51.421432,25.167518],[51.420488,25.168857],[51.419334,25.170604],[51.418521,25.171947],[51.417699,25.173375],[51.416578,25.175103],[51.415437,25.176616],[51.414008,25.178279],[51.41297,25.179534],[51.412591,25.180309],[51.411973,25.181655],[51.410817,25.183835],[51.409425,25.185848],[51.408072,25.187518],[51.406766,25.18907],[51.405806,25.190318],[51.404797,25.192138],[51.40348,25.194152],[51.401853,25.196356],[51.399814,25.199286],[51.397751,25.203105],[51.400314,25.205987],[51.401994,25.207773],[51.404236,25.209256],[51.407078,25.210781],[51.409063,25.212096],[51.410964,25.213575],[51.413255,25.215152],[51.414984,25.216163],[51.416147,25.21691],[51.416953,25.217483],[51.418556,25.218463],[51.420874,25.219661],[51.422594,25.220495],[51.424602,25.221494],[51.427044,25.222589],[51.429548,25.223366],[51.431557,25.223763],[51.432562,25.223962],[51.433566,25.22416],[51.435546,25.221014],[51.436787,25.218985],[51.438254,25.216863],[51.439791,25.214694],[51.440692,25.213224],[51.441259,25.21229],[51.441718,25.211525],[51.442417,25.210429],[51.443245,25.208892],[51.444189,25.207169],[51.445153,25.205788],[51.445799,25.204965],[51.44656,25.203862],[51.447487,25.202503],[51.448423,25.201455],[51.449749,25.199838],[51.451603,25.19776],[51.45326,25.19621],[51.454463,25.194804],[51.455453,25.19349],[51.456156,25.192102],[51.457573,25.189513],[51.459571,25.186765],[51.460946,25.185142],[51.461887,25.183733],[51.463035,25.181981],[51.464411,25.179599],[51.465461,25.177396],[51.466396,25.175846],[51.467718,25.174203],[51.469263,25.171909],[51.470423,25.169747],[51.471003,25.168667],[51.471583,25.167586]]],[[[51.644585,25.299583],[51.644585,25.299305],[51.645416,25.299305],[51.645416,25.299028],[51.645973,25.299028],[51.645973,25.298471],[51.646252,25.298471],[51.646252,25.297916],[51.646526,25.297916],[51.646526,25.29764],[51.646805,25.29764],[51.646805,25.297361],[51.647362,25.297361],[51.647362,25.294584],[51.647083,25.294582],[51.647083,25.294027],[51.646805,25.294027],[51.646805,25.293751],[51.646252,25.293751],[51.646252,25.293472],[51.645695,25.293472],[51.645695,25.293196],[51.644028,25.293196],[51.644028,25.293751],[51.644306,25.293751],[51.644306,25.294027],[51.645695,25.294027],[51.645695,25.294306],[51.646252,25.294306],[51.646252,25.295139],[51.646526,25.295139],[51.646526,25.295694],[51.646252,25.295694],[51.646252,25.295973],[51.645973,25.295973],[51.645973,25.296249],[51.645695,25.296249],[51.645695,25.296528],[51.645416,25.296528],[51.645416,25.297083],[51.645138,25.297083],[51.645138,25.29764],[51.644585,25.29764],[51.644585,25.297916],[51.643471,25.297916],[51.643471,25.29764],[51.643196,25.29764],[51.643196,25.297361],[51.640694,25.297361],[51.640694,25.29764],[51.640141,25.29764],[51.640141,25.297916],[51.639862,25.297916],[51.639862,25.298195],[51.640141,25.298195],[51.640141,25.298471],[51.640694,25.298471],[51.640694,25.29875],[51.640972,25.29875],[51.640972,25.299028],[51.641529,25.299028],[51.641529,25.299305],[51.642918,25.299305],[51.642918,25.299583],[51.644585,25.299583]]],[[[51.528194,25.30625],[51.528194,25.305973],[51.528751,25.305973],[51.528751,25.304861],[51.528473,25.304861],[51.528473,25.303749],[51.528194,25.303749],[51.528194,25.303474],[51.527363,25.303474],[51.527363,25.304028],[51.527084,25.304028],[51.527084,25.304861],[51.527637,25.304861],[51.527637,25.30514],[51.527363,25.30514],[51.527363,25.305414],[51.527637,25.305414],[51.527637,25.30625],[51.528194,25.30625]]],[[[51.534306,25.340139],[51.534306,25.339861],[51.534584,25.339861],[51.534584,25.339306],[51.535416,25.339306],[51.535416,25.339027],[51.535694,25.339027],[51.535694,25.338751],[51.535973,25.338751],[51.535973,25.338472],[51.536251,25.338472],[51.536251,25.337917],[51.53653,25.337917],[51.53653,25.33736],[51.536251,25.33736],[51.536251,25.337084],[51.535137,25.337084],[51.535137,25.33736],[51.534863,25.33736],[51.534863,25.337917],[51.534306,25.337917],[51.534306,25.338194],[51.534027,25.338194],[51.534027,25.339027],[51.533749,25.339027],[51.533749,25.339306],[51.533474,25.339306],[51.533474,25.339582],[51.533749,25.339582],[51.533749,25.339861],[51.534027,25.339861],[51.534027,25.340139],[51.534306,25.340139]]],[[[51.580971,25.350695],[51.580971,25.350416],[51.582916,25.350416],[51.582916,25.35014],[51.583195,25.35014],[51.583195,25.349861],[51.583752,25.349861],[51.583752,25.349583],[51.584026,25.349583],[51.584026,25.349306],[51.584583,25.349306],[51.584583,25.349028],[51.584862,25.349028],[51.584862,25.347639],[51.584583,25.347639],[51.584583,25.344582],[51.584305,25.344582],[51.584305,25.344028],[51.584026,25.344028],[51.584026,25.343193],[51.584305,25.343193],[51.584305,25.342363],[51.584583,25.342363],[51.584583,25.341528],[51.584862,25.341528],[51.584862,25.339306],[51.584583,25.339306],[51.584583,25.337917],[51.583195,25.337917],[51.583195,25.338194],[51.582916,25.338194],[51.582916,25.338751],[51.582638,25.338751],[51.582638,25.339027],[51.581806,25.339027],[51.581806,25.339306],[51.581528,25.339306],[51.581528,25.339582],[51.580696,25.339582],[51.580696,25.339861],[51.580418,25.339861],[51.580418,25.340139],[51.579861,25.340139],[51.579861,25.340416],[51.579304,25.340416],[51.579304,25.340694],[51.578472,25.340694],[51.578472,25.340973],[51.578194,25.340973],[51.578194,25.341249],[51.577915,25.341249],[51.577915,25.341528],[51.577641,25.341528],[51.577641,25.341806],[51.577084,25.341806],[51.577084,25.342081],[51.576527,25.342081],[51.576527,25.342363],[51.574028,25.342363],[51.574028,25.342638],[51.573471,25.342638],[51.573471,25.342916],[51.571529,25.342916],[51.571529,25.343193],[51.570415,25.343193],[51.570415,25.343472],[51.569862,25.343472],[51.569862,25.343752],[51.569584,25.343752],[51.569584,25.344028],[51.568748,25.344028],[51.568748,25.345417],[51.569027,25.345417],[51.569027,25.345972],[51.569305,25.345972],[51.569305,25.346527],[51.569584,25.346527],[51.569584,25.346806],[51.569862,25.346806],[51.569862,25.347086],[51.570137,25.347086],[51.570137,25.347361],[51.570415,25.347361],[51.570415,25.347639],[51.570694,25.347639],[51.570694,25.347918],[51.570972,25.347918],[51.570972,25.348473],[51.571251,25.348473],[51.571251,25.348749],[51.571529,25.348749],[51.571529,25.349028],[51.572361,25.349028],[51.572361,25.348749],[51.572918,25.348749],[51.572918,25.348473],[51.573193,25.348473],[51.573193,25.348194],[51.57375,25.348194],[51.57375,25.347918],[51.574306,25.347918],[51.574306,25.347639],[51.57486,25.347639],[51.57486,25.347361],[51.575417,25.347361],[51.575417,25.347086],[51.576248,25.347086],[51.576248,25.347361],[51.576527,25.347361],[51.576527,25.347639],[51.576805,25.347639],[51.576805,25.347918],[51.577362,25.347918],[51.577362,25.348194],[51.577641,25.348194],[51.577641,25.348473],[51.577915,25.348473],[51.577915,25.348749],[51.578194,25.348749],[51.578194,25.349028],[51.578472,25.349028],[51.578472,25.349306],[51.578751,25.349306],[51.578751,25.349583],[51.579029,25.349583],[51.579029,25.349861],[51.579304,25.349861],[51.579304,25.35014],[51.579582,25.35014],[51.579582,25.350416],[51.579861,25.350416],[51.579861,25.350695],[51.580971,25.350695]]]],"type":"MultiPolygon"}
 }

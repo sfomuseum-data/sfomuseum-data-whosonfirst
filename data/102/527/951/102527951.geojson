@@ -2,100 +2,101 @@
   "id": 102527951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-88.769897,34.268101,-88.769897,34.268101",
-    "geom:latitude":34.268101,
-    "geom:longitude":-88.769897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Tupelo Regional Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-88.769897,34.268101,-88.769897,34.268101",
+    "geom:latitude": 34.268101,
+    "geom:longitude": -88.769897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Tupelo Regional Airport"
     ],
-    "name:eng_x_preferred":[
-        "Tupelo Municipal-C D Lemons Airport"
+    "name:eng_x_preferred": [
+      "Tupelo Municipal-C D Lemons Airport"
     ],
-    "name:eng_x_variant":[
-        "TUP",
-        "KTUP",
-        "Tupelo Regional Airport"
+    "name:eng_x_variant": [
+      "TUP",
+      "KTUP",
+      "Tupelo Regional Airport"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c6\u30e5\u30fc\u30da\u30ed\u5730\u57df\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "テューペロ地域空港"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Regional Tupelo"
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Tupelo"
     ],
-    "name:und_x_variant":[
-        "C D Lemons Municipal Airport"
+    "name:und_x_variant": [
+      "C D Lemons Municipal Airport"
     ],
-    "name:urd_x_preferred":[
-        "\u0679\u0648\u067e\u0648\u0644\u0648 \u0631\u06cc\u062c\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ٹوپولو ریجنل ہوائی اڈا"
     ],
-    "oa:elevation_ft":"346",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"ourairports",
-    "src:geom_alt":[],
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12588924,
-        "planet_id":1,
-        "state_id":2347583
+    "oa:elevation_ft": "346",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12588924,
+      "planet_id": 1,
+      "state_id": 2347583
     },
-    "wof:belongsto":[
-        85688579,
-        102191575,
-        85633793,
-        85969769,
-        102083171
+    "wof:belongsto": [
+      85688579,
+      102191575,
+      85633793,
+      85969769,
+      102083171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"TUP",
-        "gn:id":4420223,
-        "gp:id":12522222,
-        "iata:code":"TUP",
-        "icao:code":"KTUP",
-        "oa:id":"3931",
-        "wd:id":"Q7853522",
-        "wk:page":"Tupelo_Regional_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "TUP",
+      "gn:id": 4420223,
+      "gp:id": 12522222,
+      "iata:code": "TUP",
+      "icao:code": "KTUP",
+      "oa:id": "3931",
+      "wd:id": "Q7853522",
+      "wk:page": "Tupelo_Regional_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"560b4d50ed8e85529f817249cc3d32af",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527951,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083171,
-            "locality_id":85969769,
-            "region_id":85688579
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "560b4d50ed8e85529f817249cc3d32af",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527951,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083171,
+        "locality_id": 85969769,
+        "region_id": 85688579
+      }
     ],
-    "wof:id":102527951,
-    "wof:lastmodified":1611601234,
-    "wof:name":"Tupelo Municipal-C D Lemons Airport",
-    "wof:parent_id":85969769,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102527951,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Tupelo Municipal-C D Lemons Airport",
+    "wof:parent_id": 85969769,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -88.769897,
     34.268101,
     -88.769897,
     34.268101
-],
+  ],
   "geometry": {"coordinates":[-88.769897,34.268101],"type":"Point"}
 }

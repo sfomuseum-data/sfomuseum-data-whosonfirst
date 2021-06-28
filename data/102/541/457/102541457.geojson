@@ -2,129 +2,130 @@
   "id": 102541457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.240997,26.592501,127.240997,26.592501",
-    "geom:latitude":26.592501,
-    "geom:longitude":127.240997,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Aguni Island"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "127.240997,26.592501,127.240997,26.592501",
+    "geom:latitude": 26.592501,
+    "geom:longitude": 127.240997,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Aguni Island"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Aguni"
+    "name:deu_x_preferred": [
+      "Flughafen Aguni"
     ],
-    "name:eng_x_preferred":[
-        "Aguni Airport"
+    "name:eng_x_preferred": [
+      "Aguni Airport"
     ],
-    "name:eng_x_variant":[
-        "AGJ",
-        "RORA"
+    "name:eng_x_variant": [
+      "AGJ",
+      "RORA"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0648\u0646\u06cc"
+    "name:fas_x_preferred": [
+      "فرودگاه اگونی"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport d'Aguni"
+    "name:fra_x_preferred": [
+      "aéroport d'Aguni"
     ],
-    "name:frc_x_preferred":[
-        "a\u00e9roport d'Aguni"
+    "name:frc_x_preferred": [
+      "aéroport d'Aguni"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Aguni"
+    "name:ind_x_preferred": [
+      "Bandar Udara Aguni"
     ],
-    "name:jpn_x_preferred":[
-        "\u7c9f\u56fd\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "粟国空港"
     ],
-    "name:kor_x_preferred":[
-        "\uc544\uad6c\ub2c8 \uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "아구니 공항"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Aguni"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Aguni"
     ],
-    "name:nob_x_preferred":[
-        "Aguni lufthavn"
+    "name:nob_x_preferred": [
+      "Aguni lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Aguni"
+    "name:pol_x_preferred": [
+      "Port lotniczy Aguni"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Aguni"
+    "name:ron_x_preferred": [
+      "Aeroportul Aguni"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0433\u0443\u043d\u0438"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи огуни"
     ],
-    "name:tha_x_preferred":[
-        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2d\u0e30\u0e07\u0e38\u0e19\u0e34"
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานอะงุนิ"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay Aguni"
+    "name:vie_x_preferred": [
+      "Sân bay Aguni"
     ],
-    "name:zho_x_preferred":[
-        "\u7c9f\u570b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "粟國機場"
     ],
-    "oa:elevation_ft":"38",
-    "oa:type":"small_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"ourairports",
-    "src:geom_alt":[],
-    "woe:hierarchy":{
-        "country_id":23424856,
-        "county_id":24857540,
-        "planet_id":1,
-        "state_id":2345896
+    "oa:elevation_ft": "38",
+    "oa:type": "small_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424856,
+      "county_id": 24857540,
+      "planet_id": 1,
+      "state_id": 2345896
     },
-    "wof:belongsto":[
-        102191569,
-        85632429,
-        85672867,
-        1108743427
+    "wof:belongsto": [
+      102191569,
+      85632429,
+      85672867,
+      1108743427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":28360542,
-        "iata:code":"AGJ",
-        "icao:code":"RORA",
-        "oa:id":"30621",
-        "wd:id":"Q252768",
-        "wk:page":"Aguni_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 28360542,
+      "iata:code": "AGJ",
+      "icao:code": "RORA",
+      "oa:id": "30621",
+      "wd:id": "Q252768",
+      "wk:page": "Aguni_Airport"
     },
-    "wof:country":"",
-    "wof:geomhash":"0c9db575c576e411f71044dc97853875",
-    "wof:hierarchy":[
-        {
-            "campus_id":102541457,
-            "continent_id":102191569,
-            "country_id":85632429,
-            "county_id":1108743427,
-            "region_id":85672867
-        }
+    "wof:country": "",
+    "wof:created": 1624906850,
+    "wof:geomhash": "0c9db575c576e411f71044dc97853875",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102541457,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 1108743427,
+        "region_id": 85672867
+      }
     ],
-    "wof:id":102541457,
-    "wof:lastmodified":1611601234,
-    "wof:name":"Aguni Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102541457,
+    "wof:lastmodified": 1624906850,
+    "wof:name": "Aguni Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     127.240997,
     26.592501,
     127.240997,
     26.592501
-],
-  "geometry": {"coordinates":[127.24099699999999,26.592501],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[127.240997,26.592501],"type":"Point"}
 }

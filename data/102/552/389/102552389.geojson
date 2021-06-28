@@ -2,177 +2,178 @@
   "id": 102552389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000223,
-    "geom:area_square_m":2203864.757247,
-    "geom:bbox":"174.775146,-37.014305,174.806488,-36.993778",
-    "geom:latitude":-37.005246,
-    "geom:longitude":174.788767,
-    "iso:country":"",
-    "lbl:latitude":-37.005501,
-    "lbl:longitude":174.788678,
-    "mps:latitude":-37.005501,
-    "mps:longitude":174.788678,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0623\u0648\u0643\u0644\u0627\u0646\u062f \u0627\u0644\u062f\u0648\u0644\u064a"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0002231851230000407,
+    "geom:area_square_m": 2203864.757247,
+    "geom:bbox": "174.775146,-37.014305,174.806488,-36.993778",
+    "geom:latitude": -37.005245908663085,
+    "geom:longitude": 174.78876715499513,
+    "iso:country": "",
+    "lbl:latitude": -37.005501,
+    "lbl:longitude": 174.788678,
+    "mps:latitude": -37.005501,
+    "mps:longitude": 174.788678,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار أوكلاند الدولي"
     ],
-    "name:cat_x_preferred":[
-        "Aeroport d'Auckland"
+    "name:cat_x_preferred": [
+      "Aeroport d'Auckland"
     ],
-    "name:ces_x_preferred":[
-        "Auckland Airport"
+    "name:ces_x_preferred": [
+      "Auckland Airport"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Auckland"
+    "name:deu_x_preferred": [
+      "Flughafen Auckland"
     ],
-    "name:eng_x_preferred":[
-        "Auckland Airport"
+    "name:eng_x_preferred": [
+      "Auckland Airport"
     ],
-    "name:eng_x_variant":[
-        "AKL",
-        "NZAA"
+    "name:eng_x_variant": [
+      "AKL",
+      "NZAA"
     ],
-    "name:est_x_preferred":[
-        "Aucklandi rahvusvaheline lennujaam"
+    "name:est_x_preferred": [
+      "Aucklandi rahvusvaheline lennujaam"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06a9\u0644\u0646\u062f"
+    "name:fas_x_preferred": [
+      "فرودگاه آوکلند"
     ],
-    "name:fin_x_preferred":[
-        "Aucklandin lentoasema"
+    "name:fin_x_preferred": [
+      "Aucklandin lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport d'Auckland"
+    "name:fra_x_preferred": [
+      "aéroport d'Auckland"
     ],
-    "name:glg_x_preferred":[
-        "Aeroporto Internacional de Auckland"
+    "name:glg_x_preferred": [
+      "Aeroporto Internacional de Auckland"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e9\u05dc \u05d0\u05d5\u05e7\u05dc\u05e0\u05d3"
+    "name:heb_x_preferred": [
+      "נמל התעופה של אוקלנד"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Auckland"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Auckland"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto di Auckland"
+    "name:ita_x_preferred": [
+      "Aeroporto di Auckland"
     ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30fc\u30af\u30e9\u30f3\u30c9\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "オークランド国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\uc624\ud074\ub79c\ub4dc \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "오클랜드 국제공항"
     ],
-    "name:mal_x_preferred":[
-        "\u0d13\u0d15\u0d4d\u200c\u0d32\u0d7b\u0d21\u0d4d \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    "name:mal_x_preferred": [
+      "ഓക്‌ലൻഡ് അന്താരാഷ്ട്ര വിമാനത്താവളം"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Auckland"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Auckland"
     ],
-    "name:nld_x_preferred":[
-        "Luchthaven van Auckland"
+    "name:nld_x_preferred": [
+      "Luchthaven van Auckland"
     ],
-    "name:nob_x_preferred":[
-        "Auckland internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Auckland internasjonale lufthavn"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Auckland"
+    "name:pol_x_preferred": [
+      "Port lotniczy Auckland"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto de Auckland"
+    "name:por_x_preferred": [
+      "Aeroporto de Auckland"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Auckland"
+    "name:ron_x_preferred": [
+      "Aeroportul Auckland"
     ],
-    "name:rus_x_preferred":[
-        "\u041e\u043a\u043b\u0435\u043d\u0434"
+    "name:rus_x_preferred": [
+      "Окленд"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Auckland"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Auckland"
     ],
-    "name:swe_x_preferred":[
-        "Auckland International Airport"
+    "name:swe_x_preferred": [
+      "Auckland International Airport"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043a\u043b\u043d\u0434"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи овклнд"
     ],
-    "name:tha_x_preferred":[
-        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e2d\u0e2d\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติออกแลนด์"
     ],
-    "name:tur_x_preferred":[
-        "Auckland Havaliman\u0131"
+    "name:tur_x_preferred": [
+      "Auckland Havalimanı"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay Auckland"
+    "name:vie_x_preferred": [
+      "Sân bay Auckland"
     ],
-    "name:zho_x_preferred":[
-        "\u5967\u514b\u862d\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "奧克蘭機場"
     ],
-    "oa:elevation_ft":"23",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":6,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Auckland Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424916,
-        "county_id":55875876,
-        "planet_id":1,
-        "state_id":15021756,
-        "suburb_id":22726648
+    "oa:elevation_ft": "23",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 6,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Auckland Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424916,
+      "county_id": 55875876,
+      "planet_id": 1,
+      "state_id": 15021756,
+      "suburb_id": 22726648
     },
-    "wof:belongsto":[
-        102191583,
-        85633345,
-        102079403,
-        85687243
+    "wof:belongsto": [
+      102191583,
+      85633345,
+      102079403,
+      85687243
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12515151,
-        "iata:code":"AKL",
-        "icao:code":"NZAA",
-        "oa:id":"5023",
-        "wd:id":"Q45938",
-        "wk:page":"Auckland_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12515151,
+      "iata:code": "AKL",
+      "icao:code": "NZAA",
+      "oa:id": "5023",
+      "wd:id": "Q45938",
+      "wk:page": "Auckland_International_Airport"
     },
-    "wof:country":"",
-    "wof:geomhash":"5c0e318e2636f484e515ea5ca1c05857",
-    "wof:hierarchy":[
-        {
-            "campus_id":102552389,
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079403,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687243
-        }
+    "wof:country": "",
+    "wof:created": 1624906458,
+    "wof:geomhash": "5c0e318e2636f484e515ea5ca1c05857",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102552389,
+        "continent_id": 102191583,
+        "country_id": 85633345,
+        "county_id": 102079403,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85687243
+      }
     ],
-    "wof:id":102552389,
-    "wof:lastmodified":1611601239,
-    "wof:name":"Auckland International Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102552389,
+    "wof:lastmodified": 1624906458,
+    "wof:name": "Auckland International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     174.775146,
     -37.014305,
     174.806488,
     -36.993778
-],
-  "geometry": {"coordinates":[[[174.806488,-37.002151],[174.80415300000001,-37.00584],[174.79840100000001,-37.004429],[174.79780600000001,-37.005363],[174.79534899999999,-37.00584],[174.79418899999999,-37.006733],[174.79316700000001,-37.007858],[174.79248000000001,-37.009132],[174.791245,-37.010666],[174.78654499999999,-37.011875],[174.78613300000001,-37.011875],[174.78270000000001,-37.011032],[174.77922100000001,-37.014305],[174.77822900000001,-37.014202],[174.77514600000001,-37.012283],[174.77737400000001,-37.010502],[174.78005999999999,-37.007584],[174.779495,-37.005001],[174.77919,-37.004395],[174.78080700000001,-37.002861],[174.77822900000001,-36.998096],[174.78132600000001,-37.002277],[174.78251599999999,-37.002178],[174.78582800000001,-37.001167],[174.78628499999999,-36.996357],[174.78598,-36.995785],[174.78573600000001,-36.995064],[174.78630100000001,-36.993778],[174.78784200000001,-36.997616],[174.79025300000001,-36.998676],[174.79383899999999,-36.999332],[174.794006,-36.999332],[174.79565400000001,-36.99947],[174.79814099999999,-37.002415],[174.80406199999999,-37.00317],[174.80436700000001,-36.999039],[174.806488,-37.002151]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[174.806488,-37.002151],[174.804153,-37.00584],[174.798401,-37.004429],[174.797806,-37.005363],[174.795349,-37.00584],[174.794189,-37.006733],[174.793167,-37.007858],[174.79248,-37.009132],[174.791245,-37.010666],[174.786545,-37.011875],[174.786133,-37.011875],[174.7827,-37.011032],[174.779221,-37.014305],[174.778229,-37.014202],[174.775146,-37.012283],[174.777374,-37.010502],[174.78006,-37.007584],[174.779495,-37.005001],[174.77919,-37.004395],[174.780807,-37.002861],[174.778229,-36.998096],[174.781326,-37.002277],[174.782516,-37.002178],[174.785828,-37.001167],[174.786285,-36.996357],[174.78598,-36.995785],[174.785736,-36.995064],[174.786301,-36.993778],[174.787842,-36.997616],[174.790253,-36.998676],[174.793839,-36.999332],[174.794006,-36.999332],[174.795654,-36.99947],[174.798141,-37.002415],[174.804062,-37.00317],[174.804367,-36.999039],[174.806488,-37.002151]]],"type":"Polygon"}
 }

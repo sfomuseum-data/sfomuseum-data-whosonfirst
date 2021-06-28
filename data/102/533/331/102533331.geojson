@@ -2,140 +2,141 @@
   "id": 102533331,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1946-01-01",
-    "date:inception_upper":"1946-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1946",
-    "geom:area":0.00011,
-    "geom:area_square_m":919142.220495,
-    "geom:bbox":"-117.541779,47.619507,-117.520721,47.633408",
-    "geom:latitude":47.624877,
-    "geom:longitude":-117.531915,
-    "gn:elevation":719,
-    "iso:country":"US",
-    "lbl:latitude":47.625686,
-    "lbl:longitude":-117.531916,
-    "mps:latitude":47.625686,
-    "mps:longitude":-117.531916,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ces_x_preferred":[
-        "Spokanesk\u00e9 mezin\u00e1rodn\u00ed leti\u0161t\u011b"
+    "date:inception_lower": "1946-01-01",
+    "date:inception_upper": "1946-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1946",
+    "geom:area": 0.00011028946550000841,
+    "geom:area_square_m": 919142.220495,
+    "geom:bbox": "-117.541779,47.619507,-117.520721,47.633408",
+    "geom:latitude": 47.62487656785602,
+    "geom:longitude": -117.53191526543895,
+    "gn:elevation": 719,
+    "iso:country": "US",
+    "lbl:latitude": 47.625686,
+    "lbl:longitude": -117.531916,
+    "mps:latitude": 47.625686,
+    "mps:longitude": -117.531916,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ces_x_preferred": [
+      "Spokaneské mezinárodní letiště"
     ],
-    "name:deu_x_preferred":[
-        "Spokane International Airport"
+    "name:deu_x_preferred": [
+      "Spokane International Airport"
     ],
-    "name:eng_x_preferred":[
-        "Spokane International Airport"
+    "name:eng_x_preferred": [
+      "Spokane International Airport"
     ],
-    "name:eng_x_variant":[
-        "GEG",
-        "KGEG"
+    "name:eng_x_variant": [
+      "GEG",
+      "KGEG"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u067e\u0648\u06a9\u0646"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی اسپوکن"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Spokane"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Spokane"
     ],
-    "name:jpn_x_preferred":[
-        "\u30b9\u30dd\u30b1\u30fc\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "スポケーン国際空港"
     ],
-    "name:mar_x_preferred":[
-        "\u0938\u094d\u092a\u094b\u0915\u0947\u0928 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "स्पोकेन आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nob_x_preferred":[
-        "Spokane internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Spokane internasjonale lufthavn"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Spokane"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Spokane"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Spokane"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Spokane"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0421\u043f\u043e\u043a\u0435\u0439\u043d"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи Байн‌алмиллалии Спокейн"
     ],
-    "name:tgk_x_variant":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0441\u043f\u0443\u043a\u043d"
+    "name:tgk_x_variant": [
+      "Фурудгоҳи бин‌алмилалӣ оспукн"
     ],
-    "name:und_x_variant":[
-        "Gieger Field"
+    "name:und_x_variant": [
+      "Gieger Field"
     ],
-    "name:urd_x_preferred":[
-        "\u0633\u067e\u0648\u06a9\u06cc\u0646 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
+    "name:urd_x_preferred": [
+      "سپوکین انٹرنیشنل ایئرپورٹ"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Spokane"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Spokane"
     ],
-    "name:zho_x_preferred":[
-        "\u65af\u6ce2\u574e\u56fd\u9645\u673a\u573a"
+    "name:zho_x_preferred": [
+      "斯波坎国际机场"
     ],
-    "oa:elevation_ft":"2376",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":256,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Spokane International Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":1652,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12590471,
-        "planet_id":1,
-        "state_id":2347606
+    "oa:elevation_ft": "2376",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 256,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Spokane International Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 1652,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12590471,
+      "planet_id": 1,
+      "state_id": 2347606
     },
-    "wof:belongsto":[
-        85688623,
-        102191575,
-        85633793,
-        101730021,
-        102087555
+    "wof:belongsto": [
+      85688623,
+      102191575,
+      85633793,
+      101730021,
+      102087555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"GEG",
-        "gn:id":5811713,
-        "gp:id":12521938,
-        "iata:code":"GEG",
-        "icao:code":"KGEG",
-        "oa:id":"3552",
-        "wd:id":"Q917528",
-        "wk:page":"Spokane_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "GEG",
+      "gn:id": 5811713,
+      "gp:id": 12521938,
+      "iata:code": "GEG",
+      "icao:code": "KGEG",
+      "oa:id": "3552",
+      "wd:id": "Q917528",
+      "wk:page": "Spokane_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9ba1513363cf084b4f1ca726f2622c41",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533331,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087555,
-            "locality_id":101730021,
-            "region_id":85688623
-        }
+    "wof:country": "US",
+    "wof:created": 1624906954,
+    "wof:geomhash": "9ba1513363cf084b4f1ca726f2622c41",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533331,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087555,
+        "locality_id": 101730021,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":102533331,
-    "wof:lastmodified":1611601234,
-    "wof:name":"Spokane International Airport",
-    "wof:parent_id":101730021,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102533331,
+    "wof:lastmodified": 1624906954,
+    "wof:name": "Spokane International Airport",
+    "wof:parent_id": 101730021,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -117.541779,
     47.619507,
     -117.520721,
     47.633408
-],
-  "geometry": {"coordinates":[[[-117.52072099999999,47.620274],[-117.523338,47.619507],[-117.53156300000001,47.622364],[-117.53224899999999,47.622711],[-117.537918,47.623383],[-117.54177900000001,47.619644],[-117.54048899999999,47.62376],[-117.53911600000001,47.625774],[-117.54033699999999,47.6315],[-117.540695,47.633408],[-117.539665,47.6315],[-117.53449999999999,47.627998],[-117.530624,47.629246],[-117.52930499999999,47.627975],[-117.526672,47.62624],[-117.521011,47.621494],[-117.52072099999999,47.620274]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-117.520721,47.620274],[-117.523338,47.619507],[-117.531563,47.622364],[-117.532249,47.622711],[-117.537918,47.623383],[-117.541779,47.619644],[-117.540489,47.62376],[-117.539116,47.625774],[-117.540337,47.6315],[-117.540695,47.633408],[-117.539665,47.6315],[-117.5345,47.627998],[-117.530624,47.629246],[-117.529305,47.627975],[-117.526672,47.62624],[-117.521011,47.621494],[-117.520721,47.620274]]],"type":"Polygon"}
 }

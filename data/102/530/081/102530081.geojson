@@ -2,113 +2,114 @@
   "id": 102530081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.246002,43.417099,-124.246002,43.417099",
-    "geom:latitude":43.417099,
-    "geom:longitude":-124.246002,
-    "gn:elevation":5,
-    "iso:country":"US",
-    "lbl:latitude":43.41706,
-    "lbl:longitude":-124.24373,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ceb_x_preferred":[
-        "Southwest Oregon Regional Airport"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.246002,43.417099,-124.246002,43.417099",
+    "geom:latitude": 43.417099,
+    "geom:longitude": -124.246002,
+    "gn:elevation": 5,
+    "iso:country": "US",
+    "lbl:latitude": 43.41706,
+    "lbl:longitude": -124.24373,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Southwest Oregon Regional Airport"
     ],
-    "name:deu_x_preferred":[
-        "Southwest Oregon Regional Airport"
+    "name:deu_x_preferred": [
+      "Southwest Oregon Regional Airport"
     ],
-    "name:eng_x_preferred":[
-        "North Bend Municipal Airport"
+    "name:eng_x_preferred": [
+      "North Bend Municipal Airport"
     ],
-    "name:eng_x_variant":[
-        "OTH",
-        "KOTH",
-        "Southwest Oregon Regional Airport"
+    "name:eng_x_variant": [
+      "OTH",
+      "KOTH",
+      "Southwest Oregon Regional Airport"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062d\u0644\u06cc \u0633\u0627\u0648\u062b\u0648\u0633\u062a \u0627\u0648\u0631\u06af\u0627\u0646"
+    "name:fas_x_preferred": [
+      "فرودگاه محلی ساوثوست اورگان"
     ],
-    "name:jpn_x_preferred":[
-        "North Bend\u5e02\u55b6\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "North Bend市営空港"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Regional Southwest Oregon"
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Southwest Oregon"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u04b3\u0430\u043b \u0441\u043e\u0432\u0441\u0443\u0441\u0442 \u043e\u0432\u0440\u0433\u043e\u043d"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи маҳал совсуст овргон"
     ],
-    "name:urd_x_preferred":[
-        "\u0633\u0627\u0624\u062a\u06be \u0648\u06cc\u0633\u0679 \u0627\u0648\u0631\u06cc\u06af\u0648\u0646 \u0631\u06cc\u062c\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ساؤتھ ویسٹ اوریگون ریجنل ہوائی اڈا"
     ],
-    "name:zho_x_preferred":[
-        "\u5317\u672c\u5fb7"
+    "name:zho_x_preferred": [
+      "北本德"
     ],
-    "oa:elevation_ft":"17",
-    "oa:type":"medium_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
-    "src:centroid_lbl":"geonames",
-    "src:geom":"ourairports",
-    "src:geom_alt":[],
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12589697,
-        "planet_id":1,
-        "state_id":2347596
+    "oa:elevation_ft": "17",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589697,
+      "planet_id": 1,
+      "state_id": 2347596
     },
-    "wof:belongsto":[
-        85688513,
-        85633793,
-        101716005,
-        102081629,
-        85818067
+    "wof:belongsto": [
+      85688513,
+      85633793,
+      101716005,
+      102081629,
+      85818067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"OTH",
-        "gn:id":5742977,
-        "gp:id":12521150,
-        "iata:code":"OTH",
-        "icao:code":"KOTH",
-        "oa:id":"3759",
-        "wd:id":"Q7571331",
-        "wk:page":"Southwest_Oregon_Regional_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "OTH",
+      "gn:id": 5742977,
+      "gp:id": 12521150,
+      "iata:code": "OTH",
+      "icao:code": "KOTH",
+      "oa:id": "3759",
+      "wd:id": "Q7571331",
+      "wk:page": "Southwest_Oregon_Regional_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"79aff28ce25decf1107c6a95606502b3",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530081,
-            "country_id":85633793,
-            "county_id":102081629,
-            "locality_id":101716005,
-            "neighbourhood_id":85818067,
-            "region_id":85688513
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "79aff28ce25decf1107c6a95606502b3",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530081,
+        "country_id": 85633793,
+        "county_id": 102081629,
+        "locality_id": 101716005,
+        "neighbourhood_id": 85818067,
+        "region_id": 85688513
+      }
     ],
-    "wof:id":102530081,
-    "wof:lastmodified":1611601233,
-    "wof:name":"North Bend Municipal Airport",
-    "wof:parent_id":85818067,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102530081,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "North Bend Municipal Airport",
+    "wof:parent_id": 85818067,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -124.246002,
     43.417099,
     -124.246002,
     43.417099
-],
+  ],
   "geometry": {"coordinates":[-124.246002,43.417099],"type":"Point"}
 }

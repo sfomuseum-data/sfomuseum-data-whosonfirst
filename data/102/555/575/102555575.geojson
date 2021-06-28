@@ -2,142 +2,143 @@
   "id": 102555575,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1942-01-01",
-    "date:inception_upper":"1942-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1942",
-    "geom:area":0.000086,
-    "geom:area_square_m":1015540.246328,
-    "geom:bbox":"177.440353,-17.768356,177.46405,-17.746805",
-    "geom:latitude":-17.753002,
-    "geom:longitude":177.453594,
-    "iso:country":"FJ",
-    "lbl:latitude":-17.806865,
-    "lbl:longitude":177.37636,
-    "mps:latitude":-17.806865,
-    "mps:longitude":177.37636,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0646\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
+    "date:inception_lower": "1942-01-01",
+    "date:inception_upper": "1942-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1942",
+    "geom:area": 0.00008623552399995046,
+    "geom:area_square_m": 1015540.246328,
+    "geom:bbox": "177.440353,-17.768356,177.464050,-17.746805",
+    "geom:latitude": -17.753001807933835,
+    "geom:longitude": 177.45359433160132,
+    "iso:country": "FJ",
+    "lbl:latitude": -17.806865,
+    "lbl:longitude": 177.37636,
+    "mps:latitude": -17.806865,
+    "mps:longitude": 177.37636,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار نادي الدولي"
     ],
-    "name:deu_x_preferred":[
-        "Flughafen Nadi"
+    "name:deu_x_preferred": [
+      "Flughafen Nadi"
     ],
-    "name:eng_x_preferred":[
-        "Nadi International Airport"
+    "name:eng_x_preferred": [
+      "Nadi International Airport"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0627\u062f\u06cc"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی نادی"
     ],
-    "name:fin_x_preferred":[
-        "Nadin kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Nadin kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international de Nadi"
+    "name:fra_x_preferred": [
+      "aéroport international de Nadi"
     ],
-    "name:hif_x_preferred":[
-        "Nadi International Airport"
+    "name:hif_x_preferred": [
+      "Nadi International Airport"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Nadi"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Nadi"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto internazionale di Nadi"
+    "name:ita_x_preferred": [
+      "Aeroporto internazionale di Nadi"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ca\u30f3\u30c7\u30a3\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ナンディ国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\ub09c\ub514 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "난디 국제공항"
     ],
-    "name:msa_x_preferred":[
-        "Lapangan Terbang Antarabangsa Nadi"
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Nadi"
     ],
-    "name:nld_x_preferred":[
-        "Nadi International Airport"
+    "name:nld_x_preferred": [
+      "Nadi International Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Nadi"
+    "name:pol_x_preferred": [
+      "Port lotniczy Nadi"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional de Nadi"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Nadi"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Nadi"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Nadi"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u0430\u043d\u0434\u0438"
+    "name:rus_x_preferred": [
+      "Нанди"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Nadi"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Nadi"
     ],
-    "name:swe_x_preferred":[
-        "Nadi International Airport"
+    "name:swe_x_preferred": [
+      "Nadi International Airport"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba8\u0ba8\u0bcd\u0ba4\u0bbf \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    "name:tam_x_preferred": [
+      "நந்தி பன்னாட்டு வானூர்தி நிலையம்"
     ],
-    "name:tgk_x_preferred":[
-        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0432\u043d\u0442\u043d \u0432\u043b\u0438"
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи мовнтн вли"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Nadi"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Nadi"
     ],
-    "name:zho_x_preferred":[
-        "\u6960\u8fea\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "楠迪國際機場"
     ],
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":1342,
-    "woe:hierarchy":{
-        "country_id":23424813,
-        "planet_id":1,
-        "state_id":2345338
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 1342,
+    "woe:hierarchy": {
+      "country_id": 23424813,
+      "planet_id": 1,
+      "state_id": 2345338
     },
-    "wof:belongsto":[
-        85632755,
-        85671181
+    "wof:belongsto": [
+      85632755,
+      85671181
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12523183,
-        "iata:code":"NAN",
-        "icao:code":"NFFN",
-        "wd:id":"Q1150557",
-        "wk:page":"Nadi_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12523183,
+      "iata:code": "NAN",
+      "icao:code": "NFFN",
+      "wd:id": "Q1150557",
+      "wk:page": "Nadi_International_Airport"
     },
-    "wof:country":"FJ",
-    "wof:geomhash":"fe1fc6c7a4c8057b503d6775eb2b636a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102555575,
-            "country_id":85632755,
-            "region_id":85671181
-        }
+    "wof:country": "FJ",
+    "wof:created": 1624906458,
+    "wof:geomhash": "fe1fc6c7a4c8057b503d6775eb2b636a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102555575,
+        "country_id": 85632755,
+        "region_id": 85671181
+      }
     ],
-    "wof:id":102555575,
-    "wof:lastmodified":1611601241,
-    "wof:name":"Nadi International Airport",
-    "wof:parent_id":85671181,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-fj",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102555575,
+    "wof:lastmodified": 1624906458,
+    "wof:name": "Nadi International Airport",
+    "wof:parent_id": 85671181,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-fj",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     177.440353,
     -17.768356,
     177.46405,
     -17.746805
-],
-  "geometry": {"coordinates":[[[[177.44035299999999,-17.759314],[177.44482400000001,-17.755062],[177.44593800000001,-17.752201],[177.45048499999999,-17.750566],[177.45150799999999,-17.749584],[177.45640599999999,-17.746805],[177.46404999999999,-17.749178],[177.45526100000001,-17.752907],[177.45822100000001,-17.757191],[177.45306400000001,-17.753345],[177.44581600000001,-17.755791],[177.44035299999999,-17.759314]]],[[[177.45906099999999,-17.761065],[177.45408599999999,-17.768356],[177.452652,-17.766905],[177.45906099999999,-17.761065]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[177.440353,-17.759314],[177.444824,-17.755062],[177.445938,-17.752201],[177.450485,-17.750566],[177.451508,-17.749584],[177.456406,-17.746805],[177.46405,-17.749178],[177.455261,-17.752907],[177.458221,-17.757191],[177.453064,-17.753345],[177.445816,-17.755791],[177.440353,-17.759314]]],[[[177.459061,-17.761065],[177.454086,-17.768356],[177.452652,-17.766905],[177.459061,-17.761065]]]],"type":"MultiPolygon"}
 }

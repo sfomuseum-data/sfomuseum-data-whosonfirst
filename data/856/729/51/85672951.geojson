@@ -2,286 +2,287 @@
   "id": 85672951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.056609,
-    "geom:area_square_m":699805538.160357,
-    "geom:bbox":"36.666353,-1.429758,37.106098,-1.155849",
-    "geom:latitude":-1.290049,
-    "geom:longitude":36.866658,
-    "gn:population":3138369,
-    "iso:country":"KE",
-    "label:eng_x_preferred_longname":[
-        "Nairobi National Capital Area"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.056609150224499985,
+    "geom:area_square_m": 699805538.160357,
+    "geom:bbox": "36.666353,-1.429758,37.106098,-1.155849",
+    "geom:latitude": -1.2900487147664799,
+    "geom:longitude": 36.86665768220122,
+    "gn:population": 3138369,
+    "iso:country": "KE",
+    "label:eng_x_preferred_longname": [
+      "Nairobi National Capital Area"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NA"
+    "label:eng_x_preferred_shortcode": [
+      "NA"
     ],
-    "lbl:latitude":-1.298538,
-    "lbl:longitude":36.84495,
-    "lbl:min_zoom":8.0,
-    "meso:name_alt1":"",
-    "mps:latitude":-1.275634,
-    "mps:longitude":36.865056,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":6.6,
-    "name:ara_x_preferred":[
-        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0627\u064a\u0631\u0648\u0628\u064a"
+    "lbl:latitude": -1.298538,
+    "lbl:longitude": 36.84495,
+    "lbl:min_zoom": 8,
+    "meso:name_alt1": "",
+    "mps:latitude": -1.275634,
+    "mps:longitude": 36.865056,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 6.6,
+    "name:ara_x_preferred": [
+      "مقاطعة نايروبي"
     ],
-    "name:bel_x_preferred":[
-        "\u041d\u0430\u0439\u0440\u043e\u0431\u0456"
+    "name:bel_x_preferred": [
+      "Найробі"
     ],
-    "name:ben_x_preferred":[
-        "\u09a8\u09be\u0987\u09b0\u09cb\u09ac\u09bf"
+    "name:ben_x_preferred": [
+      "নাইরোবি"
     ],
-    "name:ceb_x_preferred":[
-        "Nairobi"
+    "name:ceb_x_preferred": [
+      "Nairobi"
     ],
-    "name:dan_x_preferred":[
-        "Nairobi County"
+    "name:dan_x_preferred": [
+      "Nairobi County"
     ],
-    "name:deu_x_preferred":[
-        "Nairobi"
+    "name:deu_x_preferred": [
+      "Nairobi"
     ],
-    "name:ell_x_preferred":[
-        "\u039d\u03b1\u03ca\u03c1\u03cc\u03bc\u03c0\u03b9"
+    "name:ell_x_preferred": [
+      "Ναϊρόμπι"
     ],
-    "name:eng_x_preferred":[
-        "Nairobi Area"
+    "name:eng_x_preferred": [
+      "Nairobi Area"
     ],
-    "name:eng_x_variant":[
-        "Nairobi County"
+    "name:eng_x_variant": [
+      "Nairobi County"
     ],
-    "name:epo_x_preferred":[
-        "Kantono Najrobio"
+    "name:epo_x_preferred": [
+      "Kantono Najrobio"
     ],
-    "name:est_x_preferred":[
-        "Nairobi maakond"
+    "name:est_x_preferred": [
+      "Nairobi maakond"
     ],
-    "name:fin_x_preferred":[
-        "Nairobin piirikunta"
+    "name:fin_x_preferred": [
+      "Nairobin piirikunta"
     ],
-    "name:fra_x_preferred":[
-        "Nairobi"
+    "name:fra_x_preferred": [
+      "Nairobi"
     ],
-    "name:guj_x_preferred":[
-        "\u0aa8\u0ac8\u0ab0\u0acb\u0aac\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    "name:guj_x_preferred": [
+      "નૈરોબી કાઉન્ટી"
     ],
-    "name:hin_x_preferred":[
-        "\u0928\u0948\u0930\u094b\u092c\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    "name:hin_x_preferred": [
+      "नैरोबी काउंटी"
     ],
-    "name:ind_x_preferred":[
-        "Nairobi County"
+    "name:ind_x_preferred": [
+      "Nairobi County"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ca\u30a4\u30ed\u30d3"
+    "name:jpn_x_preferred": [
+      "ナイロビ"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca8\u0cc8\u0cb0\u0ccb\u0cac\u0cbf \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    "name:kan_x_preferred": [
+      "ನೈರೋಬಿ ಕೌಂಟಿ"
     ],
-    "name:kor_x_preferred":[
-        "\ub098\uc774\ub85c\ube44 \ud604"
+    "name:kor_x_preferred": [
+      "나이로비 현"
     ],
-    "name:lav_x_preferred":[
-        "Nairobi province"
+    "name:lav_x_preferred": [
+      "Nairobi province"
     ],
-    "name:lit_x_preferred":[
-        "Nairobio sritis"
+    "name:lit_x_preferred": [
+      "Nairobio sritis"
     ],
-    "name:mar_x_preferred":[
-        "\u0928\u0948\u0930\u094b\u092c\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    "name:mar_x_preferred": [
+      "नैरोबी काउंटी"
     ],
-    "name:msa_x_preferred":[
-        "Nairobi County"
+    "name:msa_x_preferred": [
+      "Nairobi County"
     ],
-    "name:nan_x_preferred":[
-        "Nairobi K\u016bn"
+    "name:nan_x_preferred": [
+      "Nairobi Kūn"
     ],
-    "name:nld_x_preferred":[
-        "Nairobi County"
+    "name:nld_x_preferred": [
+      "Nairobi County"
     ],
-    "name:nob_x_preferred":[
-        "Nairobi fylke"
+    "name:nob_x_preferred": [
+      "Nairobi fylke"
     ],
-    "name:pol_x_preferred":[
-        "Powiat Nairobi"
+    "name:pol_x_preferred": [
+      "Powiat Nairobi"
     ],
-    "name:por_x_preferred":[
-        "Nairobi"
+    "name:por_x_preferred": [
+      "Nairobi"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
+    "name:rus_x_preferred": [
+      "Найроби"
     ],
-    "name:sin_x_preferred":[
-        "\u0db1\u0dba\u0dd2\u0dbb\u0ddd\u0db6\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    "name:sin_x_preferred": [
+      "නයිරෝබි ප්‍රාන්තය"
     ],
-    "name:spa_x_preferred":[
-        "Nairobi"
+    "name:spa_x_preferred": [
+      "Nairobi"
     ],
-    "name:swe_x_preferred":[
-        "Nairobi County"
+    "name:swe_x_preferred": [
+      "Nairobi County"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba8\u0bc8\u0bb0\u0bcb\u0baa\u0bbf \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    "name:tam_x_preferred": [
+      "நைரோபி கவுண்டி"
     ],
-    "name:tel_x_preferred":[
-        "\u0c28\u0c48\u0c30\u0c4b\u0c2c\u0c3f \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    "name:tel_x_preferred": [
+      "నైరోబి కౌంటీ"
     ],
-    "name:tha_x_preferred":[
-        "\u0e44\u0e19\u0e42\u0e23\u0e1a\u0e35"
+    "name:tha_x_preferred": [
+      "ไนโรบี"
     ],
-    "name:tur_x_preferred":[
-        "Nairobi County"
+    "name:tur_x_preferred": [
+      "Nairobi County"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u043a\u0440\u0443\u0433 \u041d\u0430\u0439\u0440\u043e\u0431\u0456"
+    "name:ukr_x_preferred": [
+      "Округ Найробі"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u06cc\u0631\u0648\u0628\u06cc \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    "name:urd_x_preferred": [
+      "نیروبی کاؤنٹی"
     ],
-    "name:vie_x_preferred":[
-        "H\u1ea1t Nairobi"
+    "name:vie_x_preferred": [
+      "Hạt Nairobi"
     ],
-    "name:zho_x_preferred":[
-        "\u5167\u7f85\u7562\u90e1"
+    "name:zho_x_preferred": [
+      "內羅畢郡"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"KEN",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"KEN-1196",
-    "ne:adm1_code":"KEN-1196",
-    "ne:admin":"Kenya",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"KE.NA",
-    "ne:code_local":"",
-    "ne:datarank":"5",
-    "ne:diss_me":"1196",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"KE05",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Kenya",
-    "ne:gn_a1_code":"KE.05",
-    "ne:gn_id":"184742",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Nairobi Province",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"KE05",
-    "ne:gns_id":"-2258075",
-    "ne:gns_lang":"fra",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Nairobi Area",
-    "ne:gns_region":"",
-    "ne:gu_a3":"KEN",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"KE-",
-    "ne:iso_a2":"KE",
-    "ne:labelrank":"9",
-    "ne:latitude":"-1.29384000000",
-    "ne:longitude":"36.90390000000",
-    "ne:mapcolor13":3,
-    "ne:mapcolor9":7,
-    "ne:name":"Nairobi",
-    "ne:name_alt":"Federal Area|Nairobi District|Masai District",
-    "ne:name_len":7,
-    "ne:name_local":"",
-    "ne:note":"",
-    "ne:postal":"NA",
-    "ne:provnum_ne":"7",
-    "ne:region":"",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"9",
-    "ne:scalerank":"4",
-    "ne:sov_a3":"KEN",
-    "ne:sub_code":"",
-    "ne:type":"National Capital Area",
-    "ne:type_en":"National Capital Area",
-    "ne:wikipedia":"",
-    "ne:woe_id":2345940,
-    "ne:woe_label":"Nairobi Area, KE, Kenya",
-    "ne:woe_name":"Nairobi",
-    "qs:a0":"Kenya",
-    "qs:a0_lc":"KE",
-    "qs:a1":"Nairobi",
-    "qs:a1_lc":"KEN-1196",
-    "qs:adm0":"Kenya",
-    "qs:adm0_a3":"KEN",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"National Capital Area",
-    "sfomuseum:placetype":"region",
-    "src:geom":"meso",
-    "src:geom_alt":[
-        "quattroshapes"
+    "ne:abbrev": "",
+    "ne:adm0_a3": "KEN",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "KEN-1196",
+    "ne:adm1_code": "KEN-1196",
+    "ne:admin": "Kenya",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "KE.NA",
+    "ne:code_local": "",
+    "ne:datarank": "5",
+    "ne:diss_me": "1196",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "KE05",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Kenya",
+    "ne:gn_a1_code": "KE.05",
+    "ne:gn_id": "184742",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Nairobi Province",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "KE05",
+    "ne:gns_id": "-2258075",
+    "ne:gns_lang": "fra",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Nairobi Area",
+    "ne:gns_region": "",
+    "ne:gu_a3": "KEN",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "KE-",
+    "ne:iso_a2": "KE",
+    "ne:labelrank": "9",
+    "ne:latitude": "-1.29384000000",
+    "ne:longitude": "36.90390000000",
+    "ne:mapcolor13": 3,
+    "ne:mapcolor9": 7,
+    "ne:name": "Nairobi",
+    "ne:name_alt": "Federal Area|Nairobi District|Masai District",
+    "ne:name_len": 7,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "NA",
+    "ne:provnum_ne": "7",
+    "ne:region": "",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "9",
+    "ne:scalerank": "4",
+    "ne:sov_a3": "KEN",
+    "ne:sub_code": "",
+    "ne:type": "National Capital Area",
+    "ne:type_en": "National Capital Area",
+    "ne:wikipedia": "",
+    "ne:woe_id": 2345940,
+    "ne:woe_label": "Nairobi Area, KE, Kenya",
+    "ne:woe_name": "Nairobi",
+    "qs:a0": "Kenya",
+    "qs:a0_lc": "KE",
+    "qs:a1": "Nairobi",
+    "qs:a1_lc": "KEN-1196",
+    "qs:adm0": "Kenya",
+    "qs:adm0_a3": "KEN",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "National Capital Area",
+    "sfomuseum:placetype": "region",
+    "src:geom": "meso",
+    "src:geom_alt": [
+      "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        102191573,
-        85632329
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      102191573,
+      85632329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"KE05",
-        "gn:id":184742,
-        "gp:id":2345940,
-        "hasc:id":"KE.NA",
-        "qs_pg:id":1131390,
-        "wd:id":"Q3335223",
-        "wk:page":"Nairobi County"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "KE05",
+      "gn:id": 184742,
+      "gp:id": 2345940,
+      "hasc:id": "KE.NA",
+      "qs_pg:id": 1131390,
+      "wd:id": "Q3335223",
+      "wk:page": "Nairobi County"
     },
-    "wof:coterminous":[
-        421174401
+    "wof:coterminous": [
+      421174401
     ],
-    "wof:country":"KE",
-    "wof:geom_alt":[
-        "quattroshapes"
+    "wof:country": "KE",
+    "wof:created": 1624906863,
+    "wof:geom_alt": [
+      "quattroshapes"
     ],
-    "wof:geomhash":"189a8197f7ac191f51ad3e2ffe1aaeb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632329,
-            "region_id":85672951
-        }
+    "wof:geomhash": "189a8197f7ac191f51ad3e2ffe1aaeb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191573,
+        "country_id": 85632329,
+        "region_id": 85672951
+      }
     ],
-    "wof:id":85672951,
-    "wof:lang_x_official":[
-        "eng",
-        "swa"
+    "wof:id": 85672951,
+    "wof:lang_x_official": [
+      "eng",
+      "swa"
     ],
-    "wof:lang_x_spoken":[
-        "eng",
-        "swa"
+    "wof:lang_x_spoken": [
+      "eng",
+      "swa"
     ],
-    "wof:lastmodified":1611601175,
-    "wof:name":"Nairobi",
-    "wof:parent_id":85632329,
-    "wof:placetype":"region",
-    "wof:placetype_alt":[
-        "county"
+    "wof:lastmodified": 1624906863,
+    "wof:name": "Nairobi",
+    "wof:parent_id": 85632329,
+    "wof:placetype": "region",
+    "wof:placetype_alt": [
+      "county"
     ],
-    "wof:population":3138369,
-    "wof:population_rank":12,
-    "wof:repo":"whosonfirst-data-admin-ke",
-    "wof:shortcode":"NA",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1091912313
+    "wof:population": 3138369,
+    "wof:population_rank": 12,
+    "wof:repo": "whosonfirst-data-admin-ke",
+    "wof:shortcode": "NA",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1091912313
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     36.666353,
     -1.429758,
     37.106098,
     -1.155849
-],
+  ],
   "geometry": {"coordinates":[[[36.667669,-1.308086],[36.67589,-1.303348],[36.678375,-1.300844],[36.67848,-1.300692],[36.683499,-1.292474],[36.685594,-1.281113],[36.685001,-1.277751],[36.685002,-1.277748],[36.685909,-1.27444],[36.686613,-1.272719],[36.691268,-1.268423],[36.693705,-1.265287],[36.703543,-1.253935],[36.703798,-1.253905],[36.708212,-1.256278],[36.714629,-1.260856],[36.715125,-1.26079],[36.721499,-1.256595],[36.72468,-1.252641],[36.726202,-1.2471],[36.727958,-1.244094],[36.729079,-1.237709],[36.730261,-1.236157],[36.735822,-1.231775],[36.73724,-1.231355],[36.743605,-1.233594],[36.748835,-1.232094],[36.751392,-1.230709],[36.753149,-1.229018],[36.75419,-1.223746],[36.756349,-1.220993],[36.761343,-1.21935],[36.768602,-1.219968],[36.772019,-1.221348],[36.779594,-1.220893],[36.781236,-1.219935],[36.785063,-1.209428],[36.785241,-1.205012],[36.785425,-1.203443],[36.791002,-1.194136],[36.798142,-1.190588],[36.800291,-1.190795],[36.802318,-1.192647],[36.807888,-1.198076],[36.809282,-1.199622],[36.810834,-1.201457],[36.8136,-1.205388],[36.816324,-1.206853],[36.821808,-1.209728],[36.834027,-1.209076],[36.840104,-1.210302],[36.842804,-1.210986],[36.844961,-1.21037],[36.84927,-1.207824],[36.855212,-1.198114],[36.855297,-1.198033],[36.858788,-1.196909],[36.864779,-1.190779],[36.866501,-1.190272],[36.87123,-1.191067],[36.878959,-1.194566],[36.885424,-1.193566],[36.886305,-1.193262],[36.888751,-1.192346],[36.894499,-1.187125],[36.896146,-1.181085],[36.892893,-1.175625],[36.891283,-1.170191],[36.897176,-1.164863],[36.89738,-1.158268],[36.905,-1.155849],[36.914382,-1.159814],[36.914891,-1.160311],[36.927362,-1.163917],[36.929331,-1.16526],[36.936752,-1.168723],[36.939621,-1.171106],[36.940036,-1.172717],[36.936028,-1.180036],[36.929033,-1.1844],[36.928982,-1.184466],[36.924113,-1.191003],[36.921807,-1.194617],[36.921266,-1.195492],[36.91856,-1.198521],[36.915486,-1.210197],[36.91599,-1.211017],[36.918887,-1.212054],[36.922663,-1.2136],[36.926532,-1.215996],[36.931911,-1.219123],[36.934344,-1.219678],[36.935031,-1.219814],[36.941517,-1.220525],[36.94328,-1.221234],[36.945384,-1.222369],[36.954766,-1.224945],[36.955732,-1.225289],[36.962061,-1.226525],[36.962868,-1.226453],[36.965316,-1.22613],[36.970572,-1.226426],[36.980048,-1.220146],[36.980383,-1.220096],[36.981135,-1.220082],[36.984373,-1.220661],[36.99229,-1.223384],[36.995897,-1.226724],[36.998192,-1.227996],[36.999187,-1.228504],[37.001341,-1.230231],[37.006748,-1.23211],[37.017236,-1.22898],[37.018934,-1.228152],[37.021755,-1.226373],[37.022533,-1.225616],[37.027971,-1.221253],[37.033369,-1.211886],[37.03667,-1.209992],[37.039519,-1.209181],[37.045558,-1.207075],[37.046686,-1.206898],[37.048039,-1.206704],[37.05227,-1.206472],[37.057506,-1.20417],[37.057567,-1.204172],[37.060913,-1.203833],[37.062452,-1.204312],[37.06919,-1.210075],[37.070962,-1.214857],[37.071532,-1.218699],[37.076346,-1.225203],[37.078001,-1.230274],[37.078043,-1.230319],[37.082943,-1.232455],[37.087892,-1.233846],[37.094155,-1.240717],[37.094718,-1.246646],[37.094773,-1.24889],[37.096307,-1.25186],[37.101515,-1.253635],[37.106098,-1.263877],[37.102031,-1.270014],[37.099271,-1.270514],[37.09694,-1.271501],[37.092597,-1.272703],[37.087567,-1.277246],[37.083999,-1.278854],[37.082383,-1.280037],[37.076839,-1.285342],[37.075792,-1.286531],[37.075524,-1.286843],[37.073788,-1.295847],[37.070441,-1.298427],[37.061658,-1.301671],[37.06,-1.3025],[37.045,-1.295],[37.04394,-1.295],[37.035608,-1.288532],[37.021497,-1.288989],[37.01935,-1.291933],[37.015938,-1.296349],[37.013793,-1.296731],[37.002553,-1.29142],[37.001232,-1.284829],[37.000955,-1.284558],[36.99746,-1.281418],[36.991966,-1.277921],[36.991898,-1.277906],[36.985631,-1.280302],[36.981476,-1.279908],[36.981436,-1.279952],[36.978713,-1.28819],[36.978383,-1.296814],[36.979845,-1.299383],[36.981965,-1.305386],[36.981626,-1.312007],[36.980306,-1.314403],[36.97627,-1.318021],[36.97412,-1.318915],[36.969592,-1.318022],[36.953903,-1.320579],[36.953775,-1.320602],[36.952673,-1.32103],[36.951173,-1.321146],[36.951056,-1.321207],[36.943782,-1.327404],[36.939164,-1.33341],[36.938684,-1.3338],[36.929912,-1.339774],[36.926611,-1.34465],[36.922446,-1.346792],[36.913722,-1.351024],[36.913134,-1.351177],[36.913108,-1.351204],[36.911215,-1.35484],[36.910025,-1.366342],[36.910663,-1.36956],[36.910915,-1.37007],[36.91883,-1.377783],[36.919621,-1.378681],[36.920984,-1.382434],[36.921969,-1.385491],[36.928562,-1.394277],[36.930198,-1.396252],[36.93195,-1.399279],[36.93392,-1.399986],[36.937117,-1.400538],[36.940968,-1.400286],[36.94103,-1.400324],[36.947075,-1.408049],[36.948309,-1.412497],[36.948258,-1.414557],[36.948618,-1.41669],[36.952688,-1.426232],[36.952628,-1.427574],[36.951512,-1.429339],[36.93715,-1.428627],[36.929487,-1.429758],[36.928565,-1.429657],[36.91976,-1.421315],[36.913109,-1.420367],[36.910085,-1.420155],[36.906408,-1.421479],[36.898601,-1.413096],[36.895367,-1.411683],[36.89443,-1.407654],[36.883979,-1.403979],[36.881986,-1.403361],[36.874924,-1.40259],[36.874254,-1.402499],[36.857158,-1.404472],[36.856646,-1.404334],[36.854287,-1.402814],[36.852677,-1.401275],[36.850413,-1.394651],[36.845877,-1.387252],[36.843901,-1.385722],[36.841409,-1.384623],[36.835407,-1.384314],[36.831511,-1.384712],[36.824289,-1.38131],[36.814608,-1.379355],[36.813816,-1.37954],[36.810435,-1.382874],[36.797314,-1.388812],[36.796571,-1.388838],[36.786498,-1.386862],[36.782076,-1.385104],[36.771232,-1.382925],[36.765093,-1.382891],[36.764747,-1.382925],[36.761485,-1.385002],[36.75514,-1.386044],[36.749435,-1.384898],[36.743464,-1.378838],[36.737072,-1.375943],[36.733824,-1.374102],[36.729542,-1.371253],[36.724327,-1.370166],[36.7206,-1.369371],[36.715911,-1.366074],[36.713992,-1.363906],[36.712764,-1.361034],[36.709215,-1.355308],[36.701868,-1.350364],[36.697602,-1.349011],[36.687452,-1.342687],[36.686315,-1.34036],[36.680334,-1.329657],[36.671788,-1.325035],[36.671178,-1.32338],[36.668986,-1.31662],[36.666353,-1.312506],[36.667669,-1.308086]]],"type":"Polygon"}
 }

@@ -2,1060 +2,1061 @@
   "id": 102003033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.108807,
-    "geom:area_square_m":756583523.820561,
-    "geom:bbox":"37.356148,55.599239,38.039375,56.022171",
-    "geom:latitude":55.782086,
-    "geom:longitude":37.676596,
-    "gn:latitude":55.75222,
-    "gn:longitude":37.61556,
-    "gn:population":10381222,
-    "iso:country":"RU",
-    "lbl:latitude":55.741469,
-    "lbl:longitude":37.615561,
-    "lbl:max_zoom":12.0,
-    "lbl:min_zoom":2.5,
-    "mps:latitude":55.741469,
-    "mps:longitude":37.615561,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":2.0,
-    "name:abk_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.10880676510799928,
+    "geom:area_square_m": 756583523.820561,
+    "geom:bbox": "37.356148,55.599239,38.039375,56.022171",
+    "geom:latitude": 55.782085809020735,
+    "geom:longitude": 37.67659572509782,
+    "gn:latitude": 55.75222,
+    "gn:longitude": 37.61556,
+    "gn:population": 10381222,
+    "iso:country": "RU",
+    "lbl:latitude": 55.741469,
+    "lbl:longitude": 37.615561,
+    "lbl:max_zoom": 12,
+    "lbl:min_zoom": 2.5,
+    "mps:latitude": 55.741469,
+    "mps:longitude": 37.615561,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 2,
+    "name:abk_x_preferred": [
+      "Москва"
     ],
-    "name:ace_x_preferred":[
-        "Moskow"
+    "name:ace_x_preferred": [
+      "Moskow"
     ],
-    "name:ady_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:ady_x_preferred": [
+      "Москва"
     ],
-    "name:afr_x_preferred":[
-        "Moskou"
+    "name:afr_x_preferred": [
+      "Moskou"
     ],
-    "name:aka_x_preferred":[
-        "Moscow"
+    "name:aka_x_preferred": [
+      "Moscow"
     ],
-    "name:als_x_preferred":[
-        "Moskau"
+    "name:als_x_preferred": [
+      "Moskau"
     ],
-    "name:amh_x_preferred":[
-        "\u121e\u1235\u12ae"
+    "name:amh_x_preferred": [
+      "ሞስኮ"
     ],
-    "name:ang_x_preferred":[
-        "Mosco\u01bf"
+    "name:ang_x_preferred": [
+      "Moscoƿ"
     ],
-    "name:ara_x_preferred":[
-        "\u0645\u0648\u0633\u0643\u0648"
+    "name:ara_x_preferred": [
+      "موسكو"
     ],
-    "name:arc_x_preferred":[
-        "\u0721\u0718\u0723\u0729\u0712\u0710"
+    "name:arc_x_preferred": [
+      "ܡܘܣܩܒܐ"
     ],
-    "name:arg_x_preferred":[
-        "Mosc\u00fa"
+    "name:arg_x_preferred": [
+      "Moscú"
     ],
-    "name:arz_x_preferred":[
-        "\u0645\u0648\u0633\u0643\u0648"
+    "name:arz_x_preferred": [
+      "موسكو"
     ],
-    "name:ast_x_preferred":[
-        "Mosc\u00fa"
+    "name:ast_x_preferred": [
+      "Moscú"
     ],
-    "name:ava_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:ava_x_preferred": [
+      "Москва"
     ],
-    "name:aym_x_preferred":[
-        "Mosku"
+    "name:aym_x_preferred": [
+      "Mosku"
     ],
-    "name:azb_x_preferred":[
-        "\u0645\u0648\u0633\u06a9\u0648"
+    "name:azb_x_preferred": [
+      "موسکو"
     ],
-    "name:aze_x_preferred":[
-        "Moskva"
+    "name:aze_x_preferred": [
+      "Moskva"
     ],
-    "name:bak_x_preferred":[
-        "\u041c\u04d9\u0441\u043a\u04d9\u04af \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    "name:bak_x_preferred": [
+      "Мәскәү ҡалаһы"
     ],
-    "name:bam_x_preferred":[
-        "Moscow"
+    "name:bam_x_preferred": [
+      "Moscow"
     ],
-    "name:bar_x_preferred":[
-        "Moskau"
+    "name:bar_x_preferred": [
+      "Moskau"
     ],
-    "name:bcl_x_preferred":[
-        "Mosku"
+    "name:bcl_x_preferred": [
+      "Mosku"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0441\u043a\u0432\u0430"
+    "name:bel_x_preferred": [
+      "Горад Масква"
     ],
-    "name:bel_x_variant":[
-        "\u041c\u0430\u0441\u043a\u0432\u0430"
+    "name:bel_x_variant": [
+      "Масква"
     ],
-    "name:ben_x_preferred":[
-        "\u09ae\u09b8\u09cd\u0995\u09cb"
+    "name:ben_x_preferred": [
+      "মস্কো"
     ],
-    "name:bho_x_preferred":[
-        "\u092e\u093e\u0938\u094d\u0915\u094b"
+    "name:bho_x_preferred": [
+      "मास्को"
     ],
-    "name:bis_x_preferred":[
-        "Moskow"
+    "name:bis_x_preferred": [
+      "Moskow"
     ],
-    "name:bod_x_preferred":[
-        "\u0f58\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f41\u0f7c\u0f0d"
+    "name:bod_x_preferred": [
+      "མོ་སི་ཁོ།"
     ],
-    "name:bos_x_preferred":[
-        "Moskva"
+    "name:bos_x_preferred": [
+      "Moskva"
     ],
-    "name:bre_x_preferred":[
-        "Moskov"
+    "name:bre_x_preferred": [
+      "Moskov"
     ],
-    "name:bul_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:bul_x_preferred": [
+      "Москва"
     ],
-    "name:bxr_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:bxr_x_preferred": [
+      "Москва"
     ],
-    "name:cat_x_preferred":[
-        "Moscou"
+    "name:cat_x_preferred": [
+      "Moscou"
     ],
-    "name:cdo_x_preferred":[
-        "Moskva"
+    "name:cdo_x_preferred": [
+      "Moskva"
     ],
-    "name:ceb_x_preferred":[
-        "Moscow"
+    "name:ceb_x_preferred": [
+      "Moscow"
     ],
-    "name:ces_x_preferred":[
-        "Moskva"
+    "name:ces_x_preferred": [
+      "Moskva"
     ],
-    "name:cha_x_preferred":[
-        "Moscow"
+    "name:cha_x_preferred": [
+      "Moscow"
     ],
-    "name:che_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0445"
+    "name:che_x_preferred": [
+      "Москох"
     ],
-    "name:che_x_variant":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:che_x_variant": [
+      "Москва"
     ],
-    "name:chu_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u044a\u0432\u0430"
+    "name:chu_x_preferred": [
+      "Москъва"
     ],
-    "name:chv_x_preferred":[
-        "\u041c\u0443\u0441\u043a\u0430\u0432"
+    "name:chv_x_preferred": [
+      "Мускав"
     ],
-    "name:ckb_x_preferred":[
-        "\u0645\u06c6\u0633\u06a9\u06c6"
+    "name:ckb_x_preferred": [
+      "مۆسکۆ"
     ],
-    "name:cor_x_preferred":[
-        "Moskva"
+    "name:cor_x_preferred": [
+      "Moskva"
     ],
-    "name:cos_x_preferred":[
-        "Mosc\u00f9"
+    "name:cos_x_preferred": [
+      "Moscù"
     ],
-    "name:crh_x_preferred":[
-        "Moskva"
+    "name:crh_x_preferred": [
+      "Moskva"
     ],
-    "name:csb_x_preferred":[
-        "M\u00f2skwa"
+    "name:csb_x_preferred": [
+      "Mòskwa"
     ],
-    "name:cym_x_preferred":[
-        "Moscfa"
+    "name:cym_x_preferred": [
+      "Moscfa"
     ],
-    "name:dan_x_preferred":[
-        "Moskva"
+    "name:dan_x_preferred": [
+      "Moskva"
     ],
-    "name:deu_ch_x_preferred":[
-        "Moskau"
+    "name:deu_ch_x_preferred": [
+      "Moskau"
     ],
-    "name:deu_x_preferred":[
-        "Moskau"
+    "name:deu_x_preferred": [
+      "Moskau"
     ],
-    "name:din_x_preferred":[
-        "Moccow"
+    "name:din_x_preferred": [
+      "Moccow"
     ],
-    "name:diq_x_preferred":[
-        "Moskowa"
+    "name:diq_x_preferred": [
+      "Moskowa"
     ],
-    "name:div_x_preferred":[
-        "\u0789\u07ae\u0790\u07b0\u0786\u07af"
+    "name:div_x_preferred": [
+      "މޮސްކޯ"
     ],
-    "name:dsb_x_preferred":[
-        "Moskwa"
+    "name:dsb_x_preferred": [
+      "Moskwa"
     ],
-    "name:dty_x_preferred":[
-        "\u092e\u0938\u094d\u0915\u094b"
+    "name:dty_x_preferred": [
+      "मस्को"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f58\u0f7c\u0f66\u0f72\u0f0b\u0f40\u0f7c"
+    "name:dzo_x_preferred": [
+      "མོསི་ཀོ"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03cc\u03c3\u03c7\u03b1"
+    "name:ell_x_preferred": [
+      "Μόσχα"
     ],
-    "name:eml_x_preferred":[
-        "M\u00e5ssca"
+    "name:eml_x_preferred": [
+      "Måssca"
     ],
-    "name:eng_ca_x_preferred":[
-        "Moscow"
+    "name:eng_ca_x_preferred": [
+      "Moscow"
     ],
-    "name:eng_gb_x_preferred":[
-        "Moscow"
+    "name:eng_gb_x_preferred": [
+      "Moscow"
     ],
-    "name:eng_x_colloquial":[
-        "The Third Rome"
+    "name:eng_x_colloquial": [
+      "The Third Rome"
     ],
-    "name:eng_x_preferred":[
-        "Moscow"
+    "name:eng_x_preferred": [
+      "Moscow"
     ],
-    "name:eng_x_variant":[
-        "MOW",
-        "Moskva Pci-e"
+    "name:eng_x_variant": [
+      "MOW",
+      "Moskva Pci-e"
     ],
-    "name:epo_x_preferred":[
-        "Moskvo"
+    "name:epo_x_preferred": [
+      "Moskvo"
     ],
-    "name:est_x_preferred":[
-        "Moskva"
+    "name:est_x_preferred": [
+      "Moskva"
     ],
-    "name:eus_x_preferred":[
-        "Mosku"
+    "name:eus_x_preferred": [
+      "Mosku"
     ],
-    "name:ext_x_preferred":[
-        "Mosc\u00fa"
+    "name:ext_x_preferred": [
+      "Moscú"
     ],
-    "name:fao_x_preferred":[
-        "Moskva"
+    "name:fao_x_preferred": [
+      "Moskva"
     ],
-    "name:fas_x_preferred":[
-        "\u0645\u0633\u06a9\u0648"
+    "name:fas_x_preferred": [
+      "مسکو"
     ],
-    "name:fin_x_preferred":[
-        "Moskova"
+    "name:fin_x_preferred": [
+      "Moskova"
     ],
-    "name:fin_x_variant":[
-        "Moskovaan",
-        "Moskovan kautta",
-        "Moskovassa",
-        "Moskovasta"
+    "name:fin_x_variant": [
+      "Moskovaan",
+      "Moskovan kautta",
+      "Moskovassa",
+      "Moskovasta"
     ],
-    "name:fra_x_preferred":[
-        "Moscou"
+    "name:fra_x_preferred": [
+      "Moscou"
     ],
-    "name:frp_x_preferred":[
-        "Moscou"
+    "name:frp_x_preferred": [
+      "Moscou"
     ],
-    "name:frr_x_preferred":[
-        "Moskva"
+    "name:frr_x_preferred": [
+      "Moskva"
     ],
-    "name:fry_x_preferred":[
-        "Moskou"
+    "name:fry_x_preferred": [
+      "Moskou"
     ],
-    "name:gag_x_preferred":[
-        "Moskva"
+    "name:gag_x_preferred": [
+      "Moskva"
     ],
-    "name:gan_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:gan_x_preferred": [
+      "莫斯科"
     ],
-    "name:gcr_x_preferred":[
-        "Moskou"
+    "name:gcr_x_preferred": [
+      "Moskou"
     ],
-    "name:gla_x_preferred":[
-        "Moscobha"
+    "name:gla_x_preferred": [
+      "Moscobha"
     ],
-    "name:gle_x_preferred":[
-        "Mosc\u00f3"
+    "name:gle_x_preferred": [
+      "Moscó"
     ],
-    "name:glg_x_preferred":[
-        "Moscova"
+    "name:glg_x_preferred": [
+      "Moscova"
     ],
-    "name:glk_x_preferred":[
-        "\u0645\u0624\u0633\u06a9\u0624"
+    "name:glk_x_preferred": [
+      "مؤسکؤ"
     ],
-    "name:glv_x_preferred":[
-        "Moscow"
+    "name:glv_x_preferred": [
+      "Moscow"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf3c\ud800\udf49\ud800\udf43\ud800\udf3a\ud800\udf45\ud800\udf30/Moskwa"
+    "name:got_x_preferred": [
+      "𐌼𐍉𐍃𐌺𐍅𐌰/Moskwa"
     ],
-    "name:grn_x_preferred":[
-        "Mosku"
+    "name:grn_x_preferred": [
+      "Mosku"
     ],
-    "name:gsw_x_preferred":[
-        "Moskau"
+    "name:gsw_x_preferred": [
+      "Moskau"
     ],
-    "name:guj_x_preferred":[
-        "\u0aae\u0acb\u0ab8\u0acd\u0a95\u0acb"
+    "name:guj_x_preferred": [
+      "મોસ્કો"
     ],
-    "name:hak_x_preferred":[
-        "Mo\u030dk-s\u1e73\u0302-kh\u00f4"
+    "name:hak_x_preferred": [
+      "Mo̍k-sṳ̂-khô"
     ],
-    "name:hat_x_preferred":[
-        "Moskou"
+    "name:hat_x_preferred": [
+      "Moskou"
     ],
-    "name:hau_x_preferred":[
-        "Moscow"
+    "name:hau_x_preferred": [
+      "Moscow"
     ],
-    "name:haw_x_preferred":[
-        "Mokekao"
+    "name:haw_x_preferred": [
+      "Mokekao"
     ],
-    "name:hbs_x_preferred":[
-        "Moskva"
+    "name:hbs_x_preferred": [
+      "Moskva"
     ],
-    "name:heb_x_preferred":[
-        "\u05de\u05d5\u05e1\u05e7\u05d1\u05d4"
+    "name:heb_x_preferred": [
+      "מוסקבה"
     ],
-    "name:hif_x_preferred":[
-        "Moscow"
+    "name:hif_x_preferred": [
+      "Moscow"
     ],
-    "name:hin_x_preferred":[
-        "\u092e\u093e\u0938\u094d\u0915\u094b"
+    "name:hin_x_preferred": [
+      "मास्को"
     ],
-    "name:hrv_x_preferred":[
-        "Moskva"
+    "name:hrv_x_preferred": [
+      "Moskva"
     ],
-    "name:hsb_x_preferred":[
-        "Moskwa"
+    "name:hsb_x_preferred": [
+      "Moskwa"
     ],
-    "name:hun_x_preferred":[
-        "Moszkva"
+    "name:hun_x_preferred": [
+      "Moszkva"
     ],
-    "name:hye_x_preferred":[
-        "\u0544\u0578\u057d\u056f\u057e\u0561"
+    "name:hye_x_preferred": [
+      "Մոսկվա"
     ],
-    "name:hyw_x_preferred":[
-        "\u0544\u0578\u057d\u056f\u0578\u0582\u0561"
+    "name:hyw_x_preferred": [
+      "Մոսկուա"
     ],
-    "name:ido_x_preferred":[
-        "Moskva"
+    "name:ido_x_preferred": [
+      "Moskva"
     ],
-    "name:iku_x_preferred":[
-        "\u14a8\u1505\u146f"
+    "name:iku_x_preferred": [
+      "ᒨᔅᑯ"
     ],
-    "name:ile_x_preferred":[
-        "Moskwa"
+    "name:ile_x_preferred": [
+      "Moskwa"
     ],
-    "name:ilo_x_preferred":[
-        "Moscow"
+    "name:ilo_x_preferred": [
+      "Moscow"
     ],
-    "name:ina_x_preferred":[
-        "Moscova"
+    "name:ina_x_preferred": [
+      "Moscova"
     ],
-    "name:ind_x_preferred":[
-        "Moskwa"
+    "name:ind_x_preferred": [
+      "Moskwa"
     ],
-    "name:inh_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0430"
+    "name:inh_x_preferred": [
+      "Москоа"
     ],
-    "name:isl_x_preferred":[
-        "Moskva"
+    "name:isl_x_preferred": [
+      "Moskva"
     ],
-    "name:ita_x_preferred":[
-        "Mosca"
+    "name:ita_x_preferred": [
+      "Mosca"
     ],
-    "name:jam_x_preferred":[
-        "Masko"
+    "name:jam_x_preferred": [
+      "Masko"
     ],
-    "name:jav_x_preferred":[
-        "Moskwa"
+    "name:jav_x_preferred": [
+      "Moskwa"
     ],
-    "name:jbo_x_preferred":[
-        "Moskuas"
+    "name:jbo_x_preferred": [
+      "Moskuas"
     ],
-    "name:jbo_x_variant":[
-        "moskovas"
+    "name:jbo_x_variant": [
+      "moskovas"
     ],
-    "name:jpn_x_preferred":[
-        "\u30e2\u30b9\u30af\u30ef"
+    "name:jpn_x_preferred": [
+      "モスクワ"
     ],
-    "name:kaa_x_preferred":[
-        "Moskva"
+    "name:kaa_x_preferred": [
+      "Moskva"
     ],
-    "name:kab_x_preferred":[
-        "Mosku"
+    "name:kab_x_preferred": [
+      "Mosku"
     ],
-    "name:kal_x_preferred":[
-        "Moskva"
+    "name:kal_x_preferred": [
+      "Moskva"
     ],
-    "name:kan_x_preferred":[
-        "\u0cae\u0cbe\u0cb8\u0ccd\u0c95\u0ccb"
+    "name:kan_x_preferred": [
+      "ಮಾಸ್ಕೋ"
     ],
-    "name:kas_x_preferred":[
-        "\u0645\u064e\u0633\u0643\u0624\u0622"
+    "name:kas_x_preferred": [
+      "مَسكؤآ"
     ],
-    "name:kat_x_preferred":[
-        "\u10db\u10dd\u10e1\u10d9\u10dd\u10d5\u10d8"
+    "name:kat_x_preferred": [
+      "მოსკოვი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041c\u04d9\u0441\u043a\u0435\u0443"
+    "name:kaz_x_preferred": [
+      "Мәскеу"
     ],
-    "name:kbd_x_preferred":[
-        "\u041c\u044d\u0437\u043a\u0443\u0443"
+    "name:kbd_x_preferred": [
+      "Мэзкуу"
     ],
-    "name:kbp_x_preferred":[
-        "M\u0254s\u0269k\u028a\u028a"
+    "name:kbp_x_preferred": [
+      "Mɔsɩkʊʊ"
     ],
-    "name:kea_x_preferred":[
-        "Muskovu"
+    "name:kea_x_preferred": [
+      "Muskovu"
     ],
-    "name:kik_x_preferred":[
-        "Moscow"
+    "name:kik_x_preferred": [
+      "Moscow"
     ],
-    "name:kir_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:kir_x_preferred": [
+      "Москва"
     ],
-    "name:koi_x_preferred":[
-        "\u041c\u04e7\u0441\u043a\u0432\u0430"
+    "name:koi_x_preferred": [
+      "Мӧсква"
     ],
-    "name:kom_x_preferred":[
-        "\u041c\u04e7\u0441\u043a\u0443\u0430"
+    "name:kom_x_preferred": [
+      "Мӧскуа"
     ],
-    "name:kon_x_preferred":[
-        "Moskva"
+    "name:kon_x_preferred": [
+      "Moskva"
     ],
-    "name:kor_x_preferred":[
-        "\ubaa8\uc2a4\ud06c\ubc14"
+    "name:kor_x_preferred": [
+      "모스크바"
     ],
-    "name:krc_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:krc_x_preferred": [
+      "Москва"
     ],
-    "name:ksh_x_preferred":[
-        "Moskau"
+    "name:ksh_x_preferred": [
+      "Moskau"
     ],
-    "name:kur_x_preferred":[
-        "Mosko"
+    "name:kur_x_preferred": [
+      "Mosko"
     ],
-    "name:kur_x_variant":[
-        "Moskow"
+    "name:kur_x_variant": [
+      "Moskow"
     ],
-    "name:lad_x_preferred":[
-        "Mosku"
+    "name:lad_x_preferred": [
+      "Mosku"
     ],
-    "name:lao_x_preferred":[
-        "\u0ea1\u0ead\u0e94\u0ec2\u0e81"
+    "name:lao_x_preferred": [
+      "ມອດໂກ"
     ],
-    "name:lat_x_preferred":[
-        "Moscua"
+    "name:lat_x_preferred": [
+      "Moscua"
     ],
-    "name:lav_x_preferred":[
-        "Maskava"
+    "name:lav_x_preferred": [
+      "Maskava"
     ],
-    "name:lbe_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0430\u0432"
+    "name:lbe_x_preferred": [
+      "Москав"
     ],
-    "name:lez_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:lez_x_preferred": [
+      "Москва"
     ],
-    "name:lfn_x_preferred":[
-        "Moscva"
+    "name:lfn_x_preferred": [
+      "Moscva"
     ],
-    "name:lij_x_preferred":[
-        "Mosca"
+    "name:lij_x_preferred": [
+      "Mosca"
     ],
-    "name:lim_x_preferred":[
-        "Moskou"
+    "name:lim_x_preferred": [
+      "Moskou"
     ],
-    "name:lin_x_preferred":[
-        "Mosk\u00fa"
+    "name:lin_x_preferred": [
+      "Moskú"
     ],
-    "name:lit_x_preferred":[
-        "Maskva"
+    "name:lit_x_preferred": [
+      "Maskva"
     ],
-    "name:lmo_x_preferred":[
-        "Musca"
+    "name:lmo_x_preferred": [
+      "Musca"
     ],
-    "name:ltg_x_preferred":[
-        "Moskova"
+    "name:ltg_x_preferred": [
+      "Moskova"
     ],
-    "name:ltz_x_preferred":[
-        "Moskau"
+    "name:ltz_x_preferred": [
+      "Moskau"
     ],
-    "name:lug_x_preferred":[
-        "Moosko"
+    "name:lug_x_preferred": [
+      "Moosko"
     ],
-    "name:lzh_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:lzh_x_preferred": [
+      "莫斯科"
     ],
-    "name:mai_x_preferred":[
-        "\u092e\u0938\u094d\u0915\u094b"
+    "name:mai_x_preferred": [
+      "मस्को"
     ],
-    "name:mal_x_preferred":[
-        "\u0d2e\u0d4b\u0d38\u0d4d\u0d15\u0d4b"
+    "name:mal_x_preferred": [
+      "മോസ്കോ"
     ],
-    "name:mar_x_preferred":[
-        "\u092e\u0949\u0938\u094d\u0915\u094b"
+    "name:mar_x_preferred": [
+      "मॉस्को"
     ],
-    "name:mdf_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0443"
+    "name:mdf_x_preferred": [
+      "Моску"
     ],
-    "name:mhr_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e"
+    "name:mhr_x_preferred": [
+      "Моско"
     ],
-    "name:min_x_preferred":[
-        "Moskow"
+    "name:min_x_preferred": [
+      "Moskow"
     ],
-    "name:mkd_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:mkd_x_preferred": [
+      "Москва"
     ],
-    "name:mlg_x_preferred":[
-        "Moskva"
+    "name:mlg_x_preferred": [
+      "Moskva"
     ],
-    "name:mlt_x_preferred":[
-        "Moska"
+    "name:mlt_x_preferred": [
+      "Moska"
     ],
-    "name:mon_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:mon_x_preferred": [
+      "Москва"
     ],
-    "name:mri_x_preferred":[
-        "Mohikau"
+    "name:mri_x_preferred": [
+      "Mohikau"
     ],
-    "name:mrj_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:mrj_x_preferred": [
+      "Москва"
     ],
-    "name:msa_x_preferred":[
-        "Moscow"
+    "name:msa_x_preferred": [
+      "Moscow"
     ],
-    "name:mwl_x_preferred":[
-        "Moscobo"
+    "name:mwl_x_preferred": [
+      "Moscobo"
     ],
-    "name:mya_x_preferred":[
-        "\u1019\u1031\u102c\u103a\u1005\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "မော်စကိုမြို့"
     ],
-    "name:myv_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0432 \u043e\u0448"
+    "name:myv_x_preferred": [
+      "Москов ош"
     ],
-    "name:mzn_x_preferred":[
-        "\u0645\u0648\u0633\u06a9\u0648"
+    "name:mzn_x_preferred": [
+      "موسکو"
     ],
-    "name:nah_x_preferred":[
-        "Moscohuia"
+    "name:nah_x_preferred": [
+      "Moscohuia"
     ],
-    "name:nan_x_preferred":[
-        "Bo\u030dk-su-kho"
+    "name:nan_x_preferred": [
+      "Bo̍k-su-kho"
     ],
-    "name:nap_x_preferred":[
-        "Mosca"
+    "name:nap_x_preferred": [
+      "Mosca"
     ],
-    "name:nau_x_preferred":[
-        "Moscow"
+    "name:nau_x_preferred": [
+      "Moscow"
     ],
-    "name:nds_x_preferred":[
-        "Moskau"
+    "name:nds_x_preferred": [
+      "Moskau"
     ],
-    "name:nep_x_preferred":[
-        "\u092e\u0938\u094d\u0915\u094b"
+    "name:nep_x_preferred": [
+      "मस्को"
     ],
-    "name:new_x_preferred":[
-        "\u092e\u0938\u094d\u0915\u094b"
+    "name:new_x_preferred": [
+      "मस्को"
     ],
-    "name:nld_x_preferred":[
-        "Moskou"
+    "name:nld_x_preferred": [
+      "Moskou"
     ],
-    "name:nno_x_preferred":[
-        "Moskva"
+    "name:nno_x_preferred": [
+      "Moskva"
     ],
-    "name:nob_x_preferred":[
-        "Moskva"
+    "name:nob_x_preferred": [
+      "Moskva"
     ],
-    "name:nor_x_preferred":[
-        "Moskva"
+    "name:nor_x_preferred": [
+      "Moskva"
     ],
-    "name:nov_x_preferred":[
-        "Moskva"
+    "name:nov_x_preferred": [
+      "Moskva"
     ],
-    "name:nrm_x_preferred":[
-        "Moscou"
+    "name:nrm_x_preferred": [
+      "Moscou"
     ],
-    "name:nso_x_preferred":[
-        "Moscow"
+    "name:nso_x_preferred": [
+      "Moscow"
     ],
-    "name:nya_x_preferred":[
-        "Moscow"
+    "name:nya_x_preferred": [
+      "Moscow"
     ],
-    "name:oci_x_preferred":[
-        "Mosc\u00f2u"
+    "name:oci_x_preferred": [
+      "Moscòu"
     ],
-    "name:olo_x_preferred":[
-        "Moskovu"
+    "name:olo_x_preferred": [
+      "Moskovu"
     ],
-    "name:ori_x_preferred":[
-        "\u0b2e\u0b38\u0b4d\u0b15\u0b4b"
+    "name:ori_x_preferred": [
+      "ମସ୍କୋ"
     ],
-    "name:orm_x_preferred":[
-        "Mooskoo"
+    "name:orm_x_preferred": [
+      "Mooskoo"
     ],
-    "name:oss_x_preferred":[
-        "\u041c\u00e6\u0441\u043a\u0443\u044b"
+    "name:oss_x_preferred": [
+      "Мæскуы"
     ],
-    "name:pam_x_preferred":[
-        "Mosku"
+    "name:pam_x_preferred": [
+      "Mosku"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2e\u0a3e\u0a38\u0a15\u0a4b"
+    "name:pan_x_preferred": [
+      "ਮਾਸਕੋ"
     ],
-    "name:pap_x_preferred":[
-        "Moskou"
+    "name:pap_x_preferred": [
+      "Moskou"
     ],
-    "name:pcd_x_preferred":[
-        "Moscou"
+    "name:pcd_x_preferred": [
+      "Moscou"
     ],
-    "name:pdc_x_preferred":[
-        "Moscow"
+    "name:pdc_x_preferred": [
+      "Moscow"
     ],
-    "name:pih_x_preferred":[
-        "Moscow"
+    "name:pih_x_preferred": [
+      "Moscow"
     ],
-    "name:pms_x_preferred":[
-        "Mosca"
+    "name:pms_x_preferred": [
+      "Mosca"
     ],
-    "name:pnb_x_preferred":[
-        "\u0645\u0627\u0633\u06a9\u0648"
+    "name:pnb_x_preferred": [
+      "ماسکو"
     ],
-    "name:pnt_x_preferred":[
-        "\u039c\u03cc\u03c3\u03c7\u03b1"
+    "name:pnt_x_preferred": [
+      "Μόσχα"
     ],
-    "name:pol_x_preferred":[
-        "Moskwa"
+    "name:pol_x_preferred": [
+      "Moskwa"
     ],
-    "name:por_br_x_preferred":[
-        "Moscou"
+    "name:por_br_x_preferred": [
+      "Moscou"
     ],
-    "name:por_x_preferred":[
-        "Moscovo"
+    "name:por_x_preferred": [
+      "Moscovo"
     ],
-    "name:por_x_variant":[
-        "Moscou"
+    "name:por_x_variant": [
+      "Moscou"
     ],
-    "name:pus_x_preferred":[
-        "\u0645\u0633\u06a9\u0648"
+    "name:pus_x_preferred": [
+      "مسکو"
     ],
-    "name:que_x_preferred":[
-        "Moskwa"
+    "name:que_x_preferred": [
+      "Moskwa"
     ],
-    "name:rmy_x_preferred":[
-        "Moscova"
+    "name:rmy_x_preferred": [
+      "Moscova"
     ],
-    "name:roh_x_preferred":[
-        "Moscau"
+    "name:roh_x_preferred": [
+      "Moscau"
     ],
-    "name:ron_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0432\u0430"
+    "name:ron_x_preferred": [
+      "Москова"
     ],
-    "name:ron_x_variant":[
-        "Moscova"
+    "name:ron_x_variant": [
+      "Moscova"
     ],
-    "name:rue_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:rue_x_preferred": [
+      "Москва"
     ],
-    "name:run_x_preferred":[
-        "Moscou"
+    "name:run_x_preferred": [
+      "Moscou"
     ],
-    "name:rup_x_preferred":[
-        "Moscova"
+    "name:rup_x_preferred": [
+      "Moscova"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:rus_x_preferred": [
+      "Москва"
     ],
-    "name:sag_x_preferred":[
-        "Moscow"
+    "name:sag_x_preferred": [
+      "Moscow"
     ],
-    "name:sah_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:sah_x_preferred": [
+      "Москва"
     ],
-    "name:san_x_preferred":[
-        "\u092e\u093e\u0938\u094d\u0915\u094b\u0928\u0917\u0930\u092e\u094d"
+    "name:san_x_preferred": [
+      "मास्कोनगरम्"
     ],
-    "name:sat_x_preferred":[
-        "\u1c62\u1c5a\u1c65\u1c60\u1c5a"
+    "name:sat_x_preferred": [
+      "ᱢᱚᱥᱠᱚ"
     ],
-    "name:scn_x_preferred":[
-        "Mosca"
+    "name:scn_x_preferred": [
+      "Mosca"
     ],
-    "name:scn_x_variant":[
-        "Musca"
+    "name:scn_x_variant": [
+      "Musca"
     ],
-    "name:sco_x_preferred":[
-        "Moscow"
+    "name:sco_x_preferred": [
+      "Moscow"
     ],
-    "name:sgs_x_preferred":[
-        "Maskva"
+    "name:sgs_x_preferred": [
+      "Maskva"
     ],
-    "name:sin_x_preferred":[
-        "\u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca"
+    "name:sin_x_preferred": [
+      "මොස්කව්"
     ],
-    "name:slk_x_preferred":[
-        "Moskva"
+    "name:slk_x_preferred": [
+      "Moskva"
     ],
-    "name:slv_x_preferred":[
-        "Moskva"
+    "name:slv_x_preferred": [
+      "Moskva"
     ],
-    "name:sme_x_preferred":[
-        "Moskva"
+    "name:sme_x_preferred": [
+      "Moskva"
     ],
-    "name:smo_x_preferred":[
-        "Moscow"
+    "name:smo_x_preferred": [
+      "Moscow"
     ],
-    "name:sna_x_preferred":[
-        "Moscow"
+    "name:sna_x_preferred": [
+      "Moscow"
     ],
-    "name:snd_x_preferred":[
-        "\u0645\u0627\u0633\u06aa\u0648"
+    "name:snd_x_preferred": [
+      "ماسڪو"
     ],
-    "name:som_x_preferred":[
-        "Moskow"
+    "name:som_x_preferred": [
+      "Moskow"
     ],
-    "name:sot_x_preferred":[
-        "Moscow"
+    "name:sot_x_preferred": [
+      "Moscow"
     ],
-    "name:spa_x_colloquial":[
-        "Moscu"
+    "name:spa_x_colloquial": [
+      "Moscu"
     ],
-    "name:spa_x_preferred":[
-        "Mosc\u00fa"
+    "name:spa_x_preferred": [
+      "Moscú"
     ],
-    "name:sqi_x_preferred":[
-        "Moska"
+    "name:sqi_x_preferred": [
+      "Moska"
     ],
-    "name:srd_x_preferred":[
-        "Mosca"
+    "name:srd_x_preferred": [
+      "Mosca"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:srp_ec_x_preferred": [
+      "Москва"
     ],
-    "name:srp_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:srp_x_preferred": [
+      "Москва"
     ],
-    "name:ssw_x_preferred":[
-        "Moscow"
+    "name:ssw_x_preferred": [
+      "Moscow"
     ],
-    "name:stq_x_preferred":[
-        "Moskau"
+    "name:stq_x_preferred": [
+      "Moskau"
     ],
-    "name:sun_x_preferred":[
-        "Moskwa"
+    "name:sun_x_preferred": [
+      "Moskwa"
     ],
-    "name:swa_x_preferred":[
-        "Moscow"
+    "name:swa_x_preferred": [
+      "Moscow"
     ],
-    "name:swe_x_preferred":[
-        "Moskva"
+    "name:swe_x_preferred": [
+      "Moskva"
     ],
-    "name:szl_x_preferred":[
-        "Moskwa"
+    "name:szl_x_preferred": [
+      "Moskwa"
     ],
-    "name:tah_x_preferred":[
-        "Moscou"
+    "name:tah_x_preferred": [
+      "Moscou"
     ],
-    "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bcb"
+    "name:tam_x_preferred": [
+      "மாஸ்கோ"
     ],
-    "name:tat_x_preferred":[
-        "\u041c\u04d9\u0441\u043a\u04d9\u04af"
+    "name:tat_x_preferred": [
+      "Мәскәү"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2e\u0c3e\u0c38\u0c4d\u0c15\u0c4b"
+    "name:tel_x_preferred": [
+      "మాస్కో"
     ],
-    "name:tet_x_preferred":[
-        "Moskovu"
+    "name:tet_x_preferred": [
+      "Moskovu"
     ],
-    "name:tgk_x_preferred":[
-        "\u041c\u0430\u0441\u043a\u0430\u0432"
+    "name:tgk_x_preferred": [
+      "Маскав"
     ],
-    "name:tgl_x_preferred":[
-        "Moscow"
+    "name:tgl_x_preferred": [
+      "Moscow"
     ],
-    "name:tha_x_preferred":[
-        "\u0e21\u0e2d\u0e2a\u0e42\u0e01"
+    "name:tha_x_preferred": [
+      "มอสโก"
     ],
-    "name:ton_x_preferred":[
-        "Mosekou"
+    "name:ton_x_preferred": [
+      "Mosekou"
     ],
-    "name:tpi_x_preferred":[
-        "Mosko"
+    "name:tpi_x_preferred": [
+      "Mosko"
     ],
-    "name:tuk_x_preferred":[
-        "Moskwa"
+    "name:tuk_x_preferred": [
+      "Moskwa"
     ],
-    "name:tum_x_preferred":[
-        "Moscow"
+    "name:tum_x_preferred": [
+      "Moscow"
     ],
-    "name:tur_x_preferred":[
-        "Moskova"
+    "name:tur_x_preferred": [
+      "Moskova"
     ],
-    "name:twi_x_preferred":[
-        "Moskva"
+    "name:twi_x_preferred": [
+      "Moskva"
     ],
-    "name:tyv_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:tyv_x_preferred": [
+      "Москва"
     ],
-    "name:udm_x_preferred":[
-        "\u041c\u0443\u0441\u043a\u043e"
+    "name:udm_x_preferred": [
+      "Муско"
     ],
-    "name:uig_x_preferred":[
-        "\u0645\u0648\u0633\u0643\u06cb\u0627"
+    "name:uig_x_preferred": [
+      "موسكۋا"
     ],
-    "name:uig_x_variant":[
-        "Moskwa"
+    "name:uig_x_variant": [
+      "Moskwa"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "name:ukr_x_preferred": [
+      "Москва"
     ],
-    "name:und_x_variant":[
-        "\u039c\u03bf\u03c3\u03c7\u03b1"
+    "name:und_x_variant": [
+      "Μοσχα"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u0627\u0633\u06a9\u0648"
+    "name:urd_x_preferred": [
+      "ماسکو"
     ],
-    "name:uzb_x_preferred":[
-        "Moskva"
+    "name:uzb_x_preferred": [
+      "Moskva"
     ],
-    "name:vec_x_preferred":[
-        "Mosca"
+    "name:vec_x_preferred": [
+      "Mosca"
     ],
-    "name:vep_x_preferred":[
-        "Moskv"
+    "name:vep_x_preferred": [
+      "Moskv"
     ],
-    "name:vie_x_preferred":[
-        "M\u00e1t-xc\u01a1-va"
+    "name:vie_x_preferred": [
+      "Mát-xcơ-va"
     ],
-    "name:vie_x_variant":[
-        "Moskva",
-        "Matxc\u01a1va"
+    "name:vie_x_variant": [
+      "Moskva",
+      "Matxcơva"
     ],
-    "name:vls_x_preferred":[
-        "Moskou"
+    "name:vls_x_preferred": [
+      "Moskou"
     ],
-    "name:vol_x_preferred":[
-        "Moskva"
+    "name:vol_x_preferred": [
+      "Moskva"
     ],
-    "name:vro_x_preferred":[
-        "Moskva"
+    "name:vro_x_preferred": [
+      "Moskva"
     ],
-    "name:war_x_preferred":[
-        "Moscow"
+    "name:war_x_preferred": [
+      "Moscow"
     ],
-    "name:wln_x_preferred":[
-        "Moscou"
+    "name:wln_x_preferred": [
+      "Moscou"
     ],
-    "name:wol_x_preferred":[
-        "Mosku"
+    "name:wol_x_preferred": [
+      "Mosku"
     ],
-    "name:wuu_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:wuu_x_preferred": [
+      "莫斯科"
     ],
-    "name:xal_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    "name:xal_x_preferred": [
+      "Москва балһсн"
     ],
-    "name:xho_x_preferred":[
-        "Moscou"
+    "name:xho_x_preferred": [
+      "Moscou"
     ],
-    "name:xmf_x_preferred":[
-        "\u10db\u10dd\u10e1\u10d9\u10dd\u10d5\u10d8"
+    "name:xmf_x_preferred": [
+      "მოსკოვი"
     ],
-    "name:yid_x_preferred":[
-        "\u05de\u05d0\u05b8\u05e1\u05e7\u05f0\u05e2"
+    "name:yid_x_preferred": [
+      "מאָסקװע"
     ],
-    "name:yid_x_variant":[
-        "\u05de\u05d0\u05e1\u05e7\u05d5\u05d5\u05e2"
+    "name:yid_x_variant": [
+      "מאסקווע"
     ],
-    "name:yor_x_preferred":[
-        "M\u1ecdsko"
+    "name:yor_x_preferred": [
+      "Mọsko"
     ],
-    "name:yue_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:yue_x_preferred": [
+      "莫斯科"
     ],
-    "name:zea_x_preferred":[
-        "Moskou"
+    "name:zea_x_preferred": [
+      "Moskou"
     ],
-    "name:zha_x_preferred":[
-        "Moscow"
+    "name:zha_x_preferred": [
+      "Moscow"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:zho_cn_x_preferred": [
+      "莫斯科"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:zho_hk_x_preferred": [
+      "莫斯科"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:zho_tw_x_preferred": [
+      "莫斯科"
     ],
-    "name:zho_x_preferred":[
-        "\u83ab\u65af\u79d1"
+    "name:zho_x_preferred": [
+      "莫斯科"
     ],
-    "name:zul_x_preferred":[
-        "IMoskwa"
+    "name:zul_x_preferred": [
+      "IMoskwa"
     ],
-    "ne:ADM0CAP":1.0,
-    "ne:ADM0NAME":"Russia",
-    "ne:ADM0_A3":"RUS",
-    "ne:ADM1NAME":"Moskva",
-    "ne:ADMIN1_COD":0,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":"Moscow",
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-0 capital",
-    "ne:FEATURE_CL":null,
-    "ne:FEATURE_CO":null,
-    "ne:GEONAMEID":524901,
-    "ne:GEONAMESNO":"GeoNames match general + researched.",
-    "ne:GN_ASCII":"Moscow",
-    "ne:GN_POP":0,
-    "ne:GTOPO30":0.0,
-    "ne:ISO_A2":"RU",
-    "ne:LABELRANK":2,
-    "ne:LATITUDE":55.752164,
-    "ne:LONGITUDE":37.615523,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Moscow",
-    "ne:MAX_AREAKM":1639.0,
-    "ne:MAX_AREAMI":633.0,
-    "ne:MAX_BBXMAX":38.3,
-    "ne:MAX_BBXMIN":37.233333,
-    "ne:MAX_BBYMAX":56.075,
-    "ne:MAX_BBYMIN":55.533007,
-    "ne:MAX_NATSCA":300.0,
-    "ne:MAX_PERKM":1135.0,
-    "ne:MAX_PERMI":705.0,
-    "ne:MAX_POP10":11029015,
-    "ne:MAX_POP20":11030955,
-    "ne:MAX_POP300":11547877,
-    "ne:MAX_POP310":11547877,
-    "ne:MAX_POP50":11547877,
-    "ne:MEAN_BBXC":37.643636,
-    "ne:MEAN_BBYC":55.754996,
-    "ne:MEGACITY":1,
-    "ne:MEGANAME":"Moskva",
-    "ne:MIN_AREAKM":1434.0,
-    "ne:MIN_AREAMI":554.0,
-    "ne:MIN_BBXMAX":38.075401,
-    "ne:MIN_BBXMIN":37.233333,
-    "ne:MIN_BBYMAX":56.075,
-    "ne:MIN_BBYMIN":55.341667,
-    "ne:MIN_PERKM":875.0,
-    "ne:MIN_PERMI":544.0,
-    "ne:NAME":"Moscow",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Moscow",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":"Moskva",
-    "ne:NATSCALE":600,
-    "ne:NOTE":null,
-    "ne:POP1950":5356,
-    "ne:POP1955":5749,
-    "ne:POP1960":6170,
-    "ne:POP1965":6622,
-    "ne:POP1970":7106,
-    "ne:POP1975":7623,
-    "ne:POP1980":8136,
-    "ne:POP1985":8580,
-    "ne:POP1990":8987,
-    "ne:POP1995":9201,
-    "ne:POP2000":10016,
-    "ne:POP2005":10416,
-    "ne:POP2010":10452,
-    "ne:POP2015":10495,
-    "ne:POP2020":10524,
-    "ne:POP2025":10526,
-    "ne:POP2050":10526,
-    "ne:POP_MAX":10452000,
-    "ne:POP_MIN":10452000,
-    "ne:POP_OTHER":10585385,
-    "ne:RANK_MAX":14,
-    "ne:RANK_MIN":14,
-    "ne:SCALERANK":0,
-    "ne:SOV0NAME":"Russia",
-    "ne:SOV_A3":"RUS",
-    "ne:TIMEZONE":null,
-    "ne:UN_ADM0":"Russian Federation",
-    "ne:UN_FID":426,
-    "ne:UN_LAT":55.74,
-    "ne:UN_LONG":37.7,
-    "ne:WORLDCITY":1,
-    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
-    "qs:a1":"*\u0413. \u041c\u043e\u0441\u043a\u0432\u0430",
-    "qs:a1_lc":"7700000000000",
-    "qs:a1r":"*",
-    "qs:a2":"\u041c\u043e\u0441\u043a\u0432\u0430",
-    "qs:adm0":"Russia",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"localadmin",
-    "qs:loc":"MOSKVA",
-    "qs:loc_alt":"\u041c\u043e\u0441\u043a\u0432\u0430",
-    "qs:pop":0,
-    "qs:source":"SUnknown",
-    "qs:type":"\u0433",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "ne:ADM0CAP": 1,
+    "ne:ADM0NAME": "Russia",
+    "ne:ADM0_A3": "RUS",
+    "ne:ADM1NAME": "Moskva",
+    "ne:ADMIN1_COD": 0,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": "Moscow",
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-0 capital",
+    "ne:FEATURE_CL": null,
+    "ne:FEATURE_CO": null,
+    "ne:GEONAMEID": 524901,
+    "ne:GEONAMESNO": "GeoNames match general + researched.",
+    "ne:GN_ASCII": "Moscow",
+    "ne:GN_POP": 0,
+    "ne:GTOPO30": 0,
+    "ne:ISO_A2": "RU",
+    "ne:LABELRANK": 2,
+    "ne:LATITUDE": 55.752164,
+    "ne:LONGITUDE": 37.615523,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Moscow",
+    "ne:MAX_AREAKM": 1639,
+    "ne:MAX_AREAMI": 633,
+    "ne:MAX_BBXMAX": 38.3,
+    "ne:MAX_BBXMIN": 37.233333,
+    "ne:MAX_BBYMAX": 56.075,
+    "ne:MAX_BBYMIN": 55.533007,
+    "ne:MAX_NATSCA": 300,
+    "ne:MAX_PERKM": 1135,
+    "ne:MAX_PERMI": 705,
+    "ne:MAX_POP10": 11029015,
+    "ne:MAX_POP20": 11030955,
+    "ne:MAX_POP300": 11547877,
+    "ne:MAX_POP310": 11547877,
+    "ne:MAX_POP50": 11547877,
+    "ne:MEAN_BBXC": 37.643636,
+    "ne:MEAN_BBYC": 55.754996,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "Moskva",
+    "ne:MIN_AREAKM": 1434,
+    "ne:MIN_AREAMI": 554,
+    "ne:MIN_BBXMAX": 38.075401,
+    "ne:MIN_BBXMIN": 37.233333,
+    "ne:MIN_BBYMAX": 56.075,
+    "ne:MIN_BBYMIN": 55.341667,
+    "ne:MIN_PERKM": 875,
+    "ne:MIN_PERMI": 544,
+    "ne:NAME": "Moscow",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Moscow",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": "Moskva",
+    "ne:NATSCALE": 600,
+    "ne:NOTE": null,
+    "ne:POP1950": 5356,
+    "ne:POP1955": 5749,
+    "ne:POP1960": 6170,
+    "ne:POP1965": 6622,
+    "ne:POP1970": 7106,
+    "ne:POP1975": 7623,
+    "ne:POP1980": 8136,
+    "ne:POP1985": 8580,
+    "ne:POP1990": 8987,
+    "ne:POP1995": 9201,
+    "ne:POP2000": 10016,
+    "ne:POP2005": 10416,
+    "ne:POP2010": 10452,
+    "ne:POP2015": 10495,
+    "ne:POP2020": 10524,
+    "ne:POP2025": 10526,
+    "ne:POP2050": 10526,
+    "ne:POP_MAX": 10452000,
+    "ne:POP_MIN": 10452000,
+    "ne:POP_OTHER": 10585385,
+    "ne:RANK_MAX": 14,
+    "ne:RANK_MIN": 14,
+    "ne:SCALERANK": 0,
+    "ne:SOV0NAME": "Russia",
+    "ne:SOV_A3": "RUS",
+    "ne:TIMEZONE": null,
+    "ne:UN_ADM0": "Russian Federation",
+    "ne:UN_FID": 426,
+    "ne:UN_LAT": 55.74,
+    "ne:UN_LONG": 37.7,
+    "ne:WORLDCITY": 1,
+    "qs:a0": "Российская Федерация",
+    "qs:a1": "*Г. Москва",
+    "qs:a1_lc": "7700000000000",
+    "qs:a1r": "*",
+    "qs:a2": "Москва",
+    "qs:adm0": "Russia",
+    "qs:id": 0,
+    "qs:la_lc": "*",
+    "qs:level": "localadmin",
+    "qs:loc": "MOSKVA",
+    "qs:loc_alt": "Москва",
+    "qs:pop": 0,
+    "qs:source": "SUnknown",
+    "qs:type": "г",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wd:wordcount":17623,
-    "wof:belongsto":[
-        85688085,
-        102191581,
-        85632685,
-        874393555,
-        1108736095
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wd:wordcount": 17623,
+    "wof:belongsto": [
+      85688085,
+      102191581,
+      85632685,
+      874393555,
+      1108736095
     ],
-    "wof:breaches":[],
-    "wof:capital_of":85632685,
-    "wof:concordances":{
-        "dbp:id":"Moscow",
-        "fb:id":"en.moscow",
-        "gn:id":524901,
-        "gp:id":2122265,
-        "loc:id":"n79076156",
-        "nyt:id":"N38458012876881079341",
-        "qs_pg:id":467142,
-        "wd:id":"Q649",
-        "wk:page":"Moscow"
+    "wof:breaches": [],
+    "wof:capital_of": 85632685,
+    "wof:concordances": {
+      "dbp:id": "Moscow",
+      "fb:id": "en.moscow",
+      "gn:id": 524901,
+      "gp:id": 2122265,
+      "loc:id": "n79076156",
+      "nyt:id": "N38458012876881079341",
+      "qs_pg:id": 467142,
+      "wd:id": "Q649",
+      "wk:page": "Moscow"
     },
-    "wof:coterminous":[
-        85688085
+    "wof:coterminous": [
+      85688085
     ],
-    "wof:country":"RU",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "RU",
+    "wof:created": 1624906904,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"823d42a359724d35723eaee508232b1e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632685,
-            "county_id":1108736095,
-            "empire_id":874393555,
-            "locality_id":102003033,
-            "region_id":85688085
-        }
+    "wof:geomhash": "9b6d63376a43bae32dd9ea2b655b6517",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632685,
+        "county_id": 1108736095,
+        "empire_id": 874393555,
+        "locality_id": 102003033,
+        "region_id": 85688085
+      }
     ],
-    "wof:id":102003033,
-    "wof:lang_x_official":[
-        "rus"
+    "wof:id": 102003033,
+    "wof:lang_x_official": [
+      "rus"
     ],
-    "wof:lastmodified":1611601233,
-    "wof:megacity":1,
-    "wof:name":"Moscow",
-    "wof:parent_id":1108736095,
-    "wof:placetype":"locality",
-    "wof:population":10381222,
-    "wof:population_rank":14,
-    "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:scale":1,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906904,
+    "wof:megacity": 1,
+    "wof:name": "Moscow",
+    "wof:parent_id": 1108736095,
+    "wof:placetype": "locality",
+    "wof:population": 10381222,
+    "wof:population_rank": 14,
+    "wof:repo": "whosonfirst-data-admin-ru",
+    "wof:scale": 1,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     37.356148,
     55.599239,
     38.039375,
     56.022171
-],
-  "geometry": {"coordinates":[[[37.81982,56.007999],[37.819332,56.009617],[37.823311,56.01054],[37.827774,56.013561],[37.8297,56.022171],[37.832722,56.021362],[37.847816,56.017323],[37.851307,56.017376],[37.851944,56.017387],[37.855984,56.017448],[37.866188,56.006104],[37.875923,56.0],[37.876167,55.992451],[37.868591,55.987602],[37.86145,55.98597],[37.849937,55.986916],[37.848743,55.983215],[37.865337,55.980629],[37.876472,55.981785],[37.879017,55.982048],[37.90155,55.97739],[37.914051,55.98196],[37.935822,55.976814],[37.942699,55.976299],[37.944038,55.9762],[37.951622,55.981041],[37.954418,55.980198],[37.95837,55.979004],[37.95602,55.971149],[37.957798,55.969845],[37.973572,55.967216],[37.974903,55.962692],[37.972488,55.95948],[37.970669,55.957058],[37.95932,55.95665],[37.951424,55.954536],[37.949783,55.947624],[37.953136,55.932667],[37.951935,55.928967],[37.947285,55.926971],[37.940754,55.927189],[37.93605,55.925648],[37.953354,55.916683],[37.953751,55.906185],[37.948135,55.905525],[37.946777,55.903194],[37.947796,55.901402],[37.953674,55.899788],[37.954571,55.897629],[37.955921,55.894386],[37.960831,55.894108],[37.963516,55.891918],[37.962318,55.888222],[37.944412,55.888485],[37.942215,55.893429],[37.934017,55.894047],[37.932682,55.898567],[37.926964,55.898815],[37.925388,55.897804],[37.922424,55.895908],[37.900414,55.896473],[37.893341,55.894386],[37.88752,55.895542],[37.887081,55.892326],[37.882385,55.890785],[37.874996,55.891426],[37.867722,55.889305],[37.862423,55.88776],[37.852978,55.89035],[37.850666,55.890984],[37.843571,55.897118],[37.837997,55.901936],[37.827419,55.895145],[37.804291,55.893532],[37.799206,55.893177],[37.791916,55.906612],[37.791599,55.895634],[37.787716,55.894115],[37.775249,55.896389],[37.755688,55.883312],[37.765129,55.879097],[37.763466,55.872639],[37.744549,55.867809],[37.738739,55.862103],[37.728817,55.863556],[37.712719,55.855629],[37.721516,55.850021],[37.722763,55.846413],[37.720356,55.839466],[37.715572,55.839855],[37.708878,55.840397],[37.691235,55.831951],[37.693512,55.826553],[37.680332,55.821476],[37.678257,55.812996],[37.677624,55.810402],[37.660137,55.794186],[37.664394,55.792522],[37.666618,55.787579],[37.67157,55.786854],[37.67878,55.78759],[37.682426,55.790932],[37.689415,55.793484],[37.692257,55.796795],[37.684437,55.801064],[37.683079,55.805584],[37.685001,55.809772],[37.687611,55.809223],[37.69416,55.807838],[37.698086,55.808903],[37.703667,55.816429],[37.70005,55.819489],[37.699551,55.823586],[37.712307,55.820744],[37.717064,55.819683],[37.72562,55.822754],[37.734451,55.823547],[37.737747,55.81636],[37.754982,55.814728],[37.759106,55.820282],[37.760571,55.822254],[37.771015,55.823105],[37.775166,55.82235],[37.776466,55.821243],[37.782387,55.816219],[37.782013,55.81255],[37.786213,55.811337],[37.792511,55.812946],[37.828205,55.812912],[37.831867,55.809391],[37.838703,55.813305],[37.841721,55.813248],[37.846832,55.813148],[37.851299,55.809658],[37.853722,55.80975],[37.872768,55.814545],[37.874996,55.815105],[37.877949,55.810646],[37.871544,55.809952],[37.870514,55.804886],[37.865356,55.803013],[37.863514,55.802341],[37.851887,55.804653],[37.845852,55.793919],[37.840145,55.794163],[37.834171,55.789825],[37.836914,55.787186],[37.840221,55.787544],[37.843319,55.78788],[37.845901,55.786606],[37.845467,55.78339],[37.839554,55.781441],[37.837666,55.780815],[37.762032,55.776142],[37.767109,55.760796],[37.764992,55.75943],[37.763348,55.758366],[37.766846,55.756214],[37.801842,55.761646],[37.80925,55.760555],[37.829048,55.757641],[37.843143,55.768677],[37.84782,55.763367],[37.854919,55.765003],[37.861477,55.764332],[37.862507,55.769398],[37.850731,55.773075],[37.849339,55.778049],[37.862843,55.78038],[37.864532,55.779423],[37.868916,55.776947],[37.869892,55.782471],[37.882538,55.785221],[37.887859,55.781303],[37.899052,55.782631],[37.901688,55.781326],[37.904209,55.780079],[37.913788,55.781345],[37.928894,55.776871],[37.938473,55.778133],[37.947014,55.774334],[37.952507,55.775906],[37.966225,55.776405],[37.966042,55.770912],[37.968777,55.768269],[37.973564,55.768902],[37.976192,55.76717],[37.978275,55.76313],[37.976166,55.760311],[37.986912,55.758415],[37.98613,55.751076],[37.976452,55.750725],[37.975151,55.747936],[37.977024,55.74572],[37.993202,55.745846],[38.000492,55.752964],[38.002911,55.753052],[38.027264,55.752556],[38.031158,55.746754],[38.033497,55.746449],[38.039375,55.745678],[38.038788,55.736515],[38.032391,55.735832],[38.025852,55.729198],[38.037052,55.723202],[38.038113,55.720955],[38.033688,55.71714],[38.01445,55.715534],[38.008759,55.715786],[38.003201,55.721985],[38.007263,55.728985],[38.003521,55.733421],[37.995872,55.729488],[37.981167,55.727997],[37.967869,55.726646],[37.96756,55.71521],[37.94323,55.715694],[37.948631,55.725033],[37.945324,55.732681],[37.935387,55.734604],[37.905457,55.734421],[37.90374,55.735271],[37.904877,55.739426],[37.900581,55.741554],[37.890354,55.738361],[37.887299,55.737408],[37.880745,55.738079],[37.843693,55.732445],[37.836994,55.731426],[37.833931,55.729939],[37.833035,55.723835],[37.832584,55.720749],[37.826675,55.715954],[37.815933,55.710983],[37.837627,55.705395],[37.835796,55.700298],[37.814377,55.703609],[37.812927,55.702183],[37.816418,55.700027],[37.818939,55.692352],[37.816635,55.68956],[37.811157,55.682919],[37.80048,55.67749],[37.793983,55.6777],[37.790585,55.68013],[37.784267,55.684647],[37.77219,55.684189],[37.770744,55.682762],[37.776764,55.672935],[37.774673,55.670113],[37.760895,55.663647],[37.757904,55.654846],[37.752708,55.650993],[37.739521,55.646374],[37.719635,55.643787],[37.713001,55.6385],[37.718208,55.635502],[37.728825,55.634537],[37.731129,55.635071],[37.735897,55.636177],[37.741634,55.635754],[37.752197,55.634972],[37.754341,55.635406],[37.765091,55.637596],[37.768757,55.638344],[37.771286,55.630669],[37.771023,55.626087],[37.769836,55.62595],[37.753498,55.62405],[37.739792,55.617126],[37.733665,55.618027],[37.732708,55.618168],[37.727463,55.618938],[37.728767,55.622086],[37.729969,55.624981],[37.726646,55.625767],[37.725086,55.625534],[37.724251,55.625412],[37.709984,55.623299],[37.702129,55.614765],[37.718601,55.605339],[37.719734,55.602642],[37.718086,55.601574],[37.714493,55.599239],[37.689987,55.608353],[37.672947,55.609066],[37.663834,55.610893],[37.648125,55.614048],[37.641891,55.616673],[37.636208,55.619068],[37.635185,55.619156],[37.628864,55.619698],[37.625427,55.621391],[37.620651,55.634007],[37.61721,55.6357],[37.606815,55.634838],[37.555321,55.639664],[37.547802,55.641655],[37.54784,55.647446],[37.547886,55.654003],[37.54599,55.656216],[37.540306,55.656445],[37.536274,55.649883],[37.51899,55.652397],[37.515724,55.655064],[37.504578,55.664165],[37.485218,55.67025],[37.486214,55.671768],[37.488609,55.675415],[37.494991,55.676128],[37.514126,55.671864],[37.516483,55.672417],[37.520164,55.675304],[37.516434,55.679272],[37.521496,55.684048],[37.531616,55.687195],[37.528976,55.688919],[37.524952,55.688759],[37.521049,55.694088],[37.517826,55.693962],[37.509544,55.689056],[37.497982,55.678078],[37.481716,55.678799],[37.463383,55.663883],[37.460281,55.662846],[37.447178,55.664143],[37.442699,55.661221],[37.442188,55.652508],[37.436539,55.651463],[37.420078,55.648411],[37.419971,55.642918],[37.428532,55.639149],[37.424809,55.63031],[37.416714,55.630436],[37.413334,55.625271],[37.386292,55.628281],[37.381882,55.650051],[37.398388,55.654083],[37.415585,55.658287],[37.410576,55.665859],[37.414936,55.669693],[37.402229,55.674206],[37.401077,55.676903],[37.402828,55.679302],[37.403828,55.680676],[37.418488,55.679901],[37.421688,55.680885],[37.427048,55.682533],[37.428768,55.688091],[37.434113,55.690594],[37.434853,55.697483],[37.426628,55.698524],[37.414619,55.691177],[37.391312,55.702572],[37.388947,55.701656],[37.382061,55.698994],[37.380173,55.694801],[37.36264,55.692711],[37.357677,55.699821],[37.363586,55.704182],[37.357365,55.7085],[37.356148,55.711647],[37.360004,55.720219],[37.361809,55.724228],[37.381317,55.723656],[37.383339,55.724129],[37.38868,55.725384],[37.395466,55.726978],[37.396843,55.728863],[37.38813,55.739941],[37.39336,55.743355],[37.401199,55.739101],[37.450184,55.736057],[37.461063,55.733295],[37.481556,55.737778],[37.499283,55.738487],[37.503029,55.740921],[37.501244,55.742222],[37.485703,55.743431],[37.48576,55.749374],[37.491058,55.752331],[37.506897,55.755249],[37.509892,55.757198],[37.508053,55.758953],[37.493759,55.759418],[37.477242,55.759094],[37.470196,55.76228],[37.469685,55.762512],[37.465271,55.764507],[37.462307,55.765846],[37.454025,55.769592],[37.45126,55.772224],[37.450706,55.774776],[37.449295,55.781288],[37.450893,55.785271],[37.453491,55.791733],[37.455456,55.796623],[37.452225,55.802895],[37.456623,55.809429],[37.458572,55.812325],[37.465195,55.822163],[37.464672,55.826256],[37.453053,55.829857],[37.450306,55.830708],[37.44627,55.830544],[37.439983,55.828918],[37.439121,55.822941],[37.433758,55.820438],[37.414616,55.817837],[37.4104,55.818539],[37.40662,55.819862],[37.405258,55.820789],[37.403534,55.821957],[37.397404,55.831768],[37.39629,55.840408],[37.397846,55.841171],[37.399345,55.841904],[37.41412,55.840675],[37.41695,55.837589],[37.424397,55.836521],[37.426987,55.841652],[37.44297,55.84367],[37.444355,55.845554],[37.43996,55.854523],[37.450062,55.858128],[37.457222,55.852932],[37.462593,55.847034],[37.462841,55.846287],[37.465405,55.838528],[37.465687,55.838455],[37.471779,55.836777],[37.469944,55.832806],[37.471424,55.831383],[37.473782,55.829098],[37.479095,55.825027],[37.480251,55.824139],[37.482529,55.823807],[37.484818,55.82346],[37.485504,55.826138],[37.485832,55.827389],[37.485828,55.827396],[37.485828,55.8274],[37.485264,55.828632],[37.481529,55.836807],[37.476936,55.837933],[37.476891,55.837944],[37.473141,55.843082],[37.473114,55.843121],[37.465878,55.855106],[37.466686,55.861538],[37.47171,55.866768],[37.487415,55.864655],[37.492035,55.866669],[37.493706,55.869381],[37.500126,55.879791],[37.503712,55.883591],[37.508507,55.884235],[37.516701,55.877251],[37.523979,55.877537],[37.537708,55.86528],[37.540939,55.86541],[37.542328,55.867294],[37.533752,55.883865],[37.522827,55.880234],[37.520767,55.88232],[37.516308,55.886833],[37.523014,55.89167],[37.541153,55.889645],[37.544857,55.892532],[37.54208,55.89497],[37.539375,55.897346],[37.550392,55.899155],[37.557701,55.900352],[37.560184,55.899994],[37.564384,55.892387],[37.559406,55.886707],[37.560131,55.874393],[37.557465,55.873154],[37.554752,55.871895],[37.558384,55.868839],[37.57111,55.877567],[37.572792,55.903233],[37.577682,55.90313],[37.583694,55.903004],[37.592388,55.902821],[37.595619,55.902752],[37.608261,55.899136],[37.6124,55.891983],[37.616779,55.889408],[37.624172,55.888783],[37.628464,55.887218],[37.630981,55.886303],[37.633213,55.881363],[37.645626,55.879559],[37.64822,55.878288],[37.647915,55.874161],[37.659904,55.869141],[37.672283,55.874187],[37.675686,55.872948],[37.677612,55.873856],[37.684139,55.87693],[37.704029,55.880432],[37.710361,55.88525],[37.729332,55.899681],[37.729523,55.911572],[37.735764,55.91407],[37.739609,55.915607],[37.754051,55.930779],[37.766033,55.932602],[37.770771,55.938454],[37.780922,55.950985],[37.783085,55.951916],[37.787888,55.953987],[37.78027,55.956444],[37.775333,55.956921],[37.756382,55.958744],[37.74012,55.958584],[37.737965,55.956219],[37.733158,55.955578],[37.728073,55.957214],[37.714943,55.958088],[37.713913,55.959877],[37.716396,55.962883],[37.723618,55.971634],[37.725983,55.974499],[37.745716,55.972965],[37.746246,55.973255],[37.75106,55.975906],[37.757603,55.975697],[37.761009,55.974457],[37.763504,55.967239],[37.773445,55.965641],[37.776585,55.965137],[37.785412,55.963718],[37.792553,55.962574],[37.796516,55.961937],[37.805012,55.960571],[37.806927,55.964355],[37.808308,55.967091],[37.802414,55.968697],[37.805492,55.977039],[37.81514,55.978699],[37.819061,55.979374],[37.822632,55.983616],[37.821659,55.984951],[37.81575,55.983883],[37.80571,55.982071],[37.795326,55.987167],[37.795109,55.988987],[37.818577,55.997173],[37.822239,56.0],[37.82225,56.0],[37.81982,56.007999]],[[37.796494,55.922779],[37.809772,55.934242],[37.806206,55.936852],[37.793144,55.923569],[37.796494,55.922779]],[[37.820827,55.926308],[37.819221,55.923172],[37.824242,55.921989],[37.828075,55.923958],[37.832993,55.937393],[37.827808,55.939941],[37.820827,55.926308]],[[37.621418,55.845249],[37.625751,55.849529],[37.616943,55.855141],[37.598499,55.85989],[37.595306,55.859306],[37.594833,55.850166],[37.598331,55.848],[37.61414,55.844971],[37.621418,55.845249]],[[37.615086,55.817577],[37.622295,55.818317],[37.623711,55.826599],[37.628822,55.830956],[37.629059,55.831161],[37.633263,55.834743],[37.630615,55.836468],[37.611225,55.835712],[37.6054,55.836857],[37.60078,55.834846],[37.599613,55.831146],[37.611069,55.823822],[37.612549,55.818394],[37.615086,55.817577]],[[37.559166,55.797554],[37.561417,55.799026],[37.559166,55.80397],[37.56736,55.809776],[37.563473,55.815109],[37.544556,55.817081],[37.541721,55.813778],[37.548973,55.801277],[37.559166,55.797554]],[[37.538528,55.774334],[37.544777,55.776417],[37.552277,55.781277],[37.551277,55.782612],[37.540474,55.784943],[37.530193,55.782696],[37.52961,55.780834],[37.538528,55.774334]],[[37.495583,55.70314],[37.502304,55.701584],[37.531193,55.716446],[37.532639,55.717861],[37.528973,55.72139],[37.521084,55.719696],[37.517971,55.725056],[37.518391,55.726166],[37.519196,55.728306],[37.486137,55.720585],[37.484779,55.718693],[37.486832,55.715137],[37.467583,55.7075],[37.46389,55.704613],[37.460335,55.692554],[37.459915,55.691193],[37.461777,55.689415],[37.478779,55.69561],[37.488388,55.702835],[37.493973,55.703529],[37.495583,55.70314]],[[37.729168,55.67889],[37.736221,55.687389],[37.731251,55.701832],[37.725666,55.708027],[37.72089,55.70739],[37.712139,55.699276],[37.720806,55.694584],[37.719002,55.689472],[37.729168,55.67889]],[[37.678555,55.694138],[37.671356,55.693562],[37.671368,55.693554],[37.67136,55.693554],[37.671417,55.693527],[37.682854,55.687023],[37.675838,55.68256],[37.671383,55.681061],[37.662361,55.678028],[37.662361,55.678024],[37.662357,55.678024],[37.663837,55.676266],[37.668076,55.676296],[37.669498,55.676304],[37.678505,55.678665],[37.690914,55.681908],[37.706253,55.682182],[37.710194,55.680447],[37.713055,55.678734],[37.713112,55.674278],[37.715313,55.670284],[37.715321,55.670254],[37.716656,55.668808],[37.719166,55.666084],[37.72073,55.666821],[37.722946,55.667862],[37.722946,55.667866],[37.722958,55.66787],[37.722916,55.668015],[37.721169,55.677166],[37.720306,55.679218],[37.722393,55.681377],[37.716793,55.687565],[37.714699,55.687622],[37.712334,55.690254],[37.678555,55.694138]],[[37.841267,55.956894],[37.844196,55.95578],[37.848938,55.953979],[37.846935,55.950249],[37.842564,55.949314],[37.840359,55.948841],[37.836617,55.94804],[37.837917,55.947308],[37.841454,55.94532],[37.84882,55.941181],[37.854542,55.940937],[37.85603,55.941654],[37.857624,55.942421],[37.858356,55.946281],[37.859634,55.953003],[37.862499,55.95631],[37.866497,55.956913],[37.879894,55.953751],[37.877613,55.945442],[37.879417,55.943611],[37.880955,55.942051],[37.882397,55.94059],[37.884998,55.937946],[37.892502,55.936394],[37.900074,55.941242],[37.912983,55.942169],[37.922531,55.937035],[37.938995,55.935352],[37.942783,55.937775],[37.940037,55.940414],[37.935123,55.940693],[37.930473,55.938698],[37.92223,55.946621],[37.923588,55.948956],[37.920734,55.952507],[37.897137,55.959412],[37.895145,55.962536],[37.891796,55.963326],[37.891968,55.968815],[37.885056,55.972218],[37.872833,55.973461],[37.86198,55.974567],[37.852779,55.962803],[37.843323,55.960167],[37.841267,55.956894]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[37.81982,56.007999],[37.819332,56.009617],[37.823311,56.01054],[37.827774,56.013561],[37.8297,56.022171],[37.832722,56.021362],[37.847816,56.017323],[37.851307,56.017376],[37.851944,56.017387],[37.855984,56.017448],[37.866188,56.006104],[37.875923,56],[37.876167,55.992451],[37.868591,55.987602],[37.86145,55.98597],[37.849937,55.986916],[37.848743,55.983215],[37.865337,55.980629],[37.876472,55.981785],[37.879017,55.982048],[37.90155,55.97739],[37.914051,55.98196],[37.935822,55.976814],[37.942699,55.976299],[37.944038,55.9762],[37.951622,55.981041],[37.954418,55.980198],[37.95837,55.979004],[37.95602,55.971149],[37.957798,55.969845],[37.973572,55.967216],[37.974903,55.962692],[37.972488,55.95948],[37.970669,55.957058],[37.95932,55.95665],[37.951424,55.954536],[37.949783,55.947624],[37.953136,55.932667],[37.951935,55.928967],[37.947285,55.926971],[37.940754,55.927189],[37.93605,55.925648],[37.953354,55.916683],[37.953751,55.906185],[37.948135,55.905525],[37.946777,55.903194],[37.947796,55.901402],[37.953674,55.899788],[37.954571,55.897629],[37.955921,55.894386],[37.960831,55.894108],[37.963516,55.891918],[37.962318,55.888222],[37.944412,55.888485],[37.942215,55.893429],[37.934017,55.894047],[37.932682,55.898567],[37.926964,55.898815],[37.925388,55.897804],[37.922424,55.895908],[37.900414,55.896473],[37.893341,55.894386],[37.88752,55.895542],[37.887081,55.892326],[37.882385,55.890785],[37.874996,55.891426],[37.867722,55.889305],[37.862423,55.88776],[37.852978,55.89035],[37.850666,55.890984],[37.843571,55.897118],[37.837997,55.901936],[37.827419,55.895145],[37.804291,55.893532],[37.799206,55.893177],[37.791916,55.906612],[37.791599,55.895634],[37.787716,55.894115],[37.775249,55.896389],[37.755688,55.883312],[37.765129,55.879097],[37.763466,55.872639],[37.744549,55.867809],[37.738739,55.862103],[37.728817,55.863556],[37.712719,55.855629],[37.721516,55.850021],[37.722763,55.846413],[37.720356,55.839466],[37.715572,55.839855],[37.708878,55.840397],[37.691235,55.831951],[37.693512,55.826553],[37.680332,55.821476],[37.678257,55.812996],[37.677624,55.810402],[37.660137,55.794186],[37.664394,55.792522],[37.666618,55.787579],[37.67157,55.786854],[37.67878,55.78759],[37.682426,55.790932],[37.689415,55.793484],[37.692257,55.796795],[37.684437,55.801064],[37.683079,55.805584],[37.685001,55.809772],[37.687611,55.809223],[37.69416,55.807838],[37.698086,55.808903],[37.703667,55.816429],[37.70005,55.819489],[37.699551,55.823586],[37.712307,55.820744],[37.717064,55.819683],[37.72562,55.822754],[37.734451,55.823547],[37.737747,55.81636],[37.754982,55.814728],[37.759106,55.820282],[37.760571,55.822254],[37.771015,55.823105],[37.775166,55.82235],[37.776466,55.821243],[37.782387,55.816219],[37.782013,55.81255],[37.786213,55.811337],[37.792511,55.812946],[37.828205,55.812912],[37.831867,55.809391],[37.838703,55.813305],[37.841721,55.813248],[37.846832,55.813148],[37.851299,55.809658],[37.853722,55.80975],[37.872768,55.814545],[37.874996,55.815105],[37.877949,55.810646],[37.871544,55.809952],[37.870514,55.804886],[37.865356,55.803013],[37.863514,55.802341],[37.851887,55.804653],[37.845852,55.793919],[37.840145,55.794163],[37.834171,55.789825],[37.836914,55.787186],[37.840221,55.787544],[37.843319,55.78788],[37.845901,55.786606],[37.845467,55.78339],[37.839554,55.781441],[37.837666,55.780815],[37.762032,55.776142],[37.767109,55.760796],[37.764992,55.75943],[37.763348,55.758366],[37.766846,55.756214],[37.801842,55.761646],[37.80925,55.760555],[37.829048,55.757641],[37.843143,55.768677],[37.84782,55.763367],[37.854919,55.765003],[37.861477,55.764332],[37.862507,55.769398],[37.850731,55.773075],[37.849339,55.778049],[37.862843,55.78038],[37.864532,55.779423],[37.868916,55.776947],[37.869892,55.782471],[37.882538,55.785221],[37.887859,55.781303],[37.899052,55.782631],[37.901688,55.781326],[37.904209,55.780079],[37.913788,55.781345],[37.928894,55.776871],[37.938473,55.778133],[37.947014,55.774334],[37.952507,55.775906],[37.966225,55.776405],[37.966042,55.770912],[37.968777,55.768269],[37.973564,55.768902],[37.976192,55.76717],[37.978275,55.76313],[37.976166,55.760311],[37.986912,55.758415],[37.98613,55.751076],[37.976452,55.750725],[37.975151,55.747936],[37.977024,55.74572],[37.993202,55.745846],[38.000492,55.752964],[38.002911,55.753052],[38.027264,55.752556],[38.031158,55.746754],[38.033497,55.746449],[38.039375,55.745678],[38.038788,55.736515],[38.032391,55.735832],[38.025852,55.729198],[38.037052,55.723202],[38.038113,55.720955],[38.033688,55.71714],[38.01445,55.715534],[38.008759,55.715786],[38.003201,55.721985],[38.007263,55.728985],[38.003521,55.733421],[37.995872,55.729488],[37.981167,55.727997],[37.967869,55.726646],[37.96756,55.71521],[37.94323,55.715694],[37.948631,55.725033],[37.945324,55.732681],[37.935387,55.734604],[37.905457,55.734421],[37.90374,55.735271],[37.904877,55.739426],[37.900581,55.741554],[37.890354,55.738361],[37.887299,55.737408],[37.880745,55.738079],[37.843693,55.732445],[37.836994,55.731426],[37.833931,55.729939],[37.833035,55.723835],[37.832584,55.720749],[37.826675,55.715954],[37.815933,55.710983],[37.837627,55.705395],[37.835796,55.700298],[37.814377,55.703609],[37.812927,55.702183],[37.816418,55.700027],[37.818939,55.692352],[37.816635,55.68956],[37.811157,55.682919],[37.80048,55.67749],[37.793983,55.6777],[37.790585,55.68013],[37.784267,55.684647],[37.77219,55.684189],[37.770744,55.682762],[37.776764,55.672935],[37.774673,55.670113],[37.760895,55.663647],[37.757904,55.654846],[37.752708,55.650993],[37.739521,55.646374],[37.719635,55.643787],[37.713001,55.6385],[37.718208,55.635502],[37.728825,55.634537],[37.731129,55.635071],[37.735897,55.636177],[37.741634,55.635754],[37.752197,55.634972],[37.754341,55.635406],[37.765091,55.637596],[37.768757,55.638344],[37.771286,55.630669],[37.771023,55.626087],[37.769836,55.62595],[37.753498,55.62405],[37.739792,55.617126],[37.733665,55.618027],[37.732708,55.618168],[37.727463,55.618938],[37.728767,55.622086],[37.729969,55.624981],[37.726646,55.625767],[37.725086,55.625534],[37.724251,55.625412],[37.709984,55.623299],[37.702129,55.614765],[37.718601,55.605339],[37.719734,55.602642],[37.718086,55.601574],[37.714493,55.599239],[37.689987,55.608353],[37.672947,55.609066],[37.663834,55.610893],[37.648125,55.614048],[37.641891,55.616673],[37.636208,55.619068],[37.635185,55.619156],[37.628864,55.619698],[37.625427,55.621391],[37.620651,55.634007],[37.61721,55.6357],[37.606815,55.634838],[37.555321,55.639664],[37.547802,55.641655],[37.54784,55.647446],[37.547886,55.654003],[37.54599,55.656216],[37.540306,55.656445],[37.536274,55.649883],[37.51899,55.652397],[37.515724,55.655064],[37.504578,55.664165],[37.485218,55.67025],[37.486214,55.671768],[37.488609,55.675415],[37.494991,55.676128],[37.514126,55.671864],[37.516483,55.672417],[37.520164,55.675304],[37.516434,55.679272],[37.521496,55.684048],[37.531616,55.687195],[37.528976,55.688919],[37.524952,55.688759],[37.521049,55.694088],[37.517826,55.693962],[37.509544,55.689056],[37.497982,55.678078],[37.481716,55.678799],[37.463383,55.663883],[37.460281,55.662846],[37.447178,55.664143],[37.442699,55.661221],[37.442188,55.652508],[37.436539,55.651463],[37.420078,55.648411],[37.419971,55.642918],[37.428532,55.639149],[37.424809,55.63031],[37.416714,55.630436],[37.413334,55.625271],[37.386292,55.628281],[37.381882,55.650051],[37.398388,55.654083],[37.415585,55.658287],[37.410576,55.665859],[37.414936,55.669693],[37.402229,55.674206],[37.401077,55.676903],[37.402828,55.679302],[37.403828,55.680676],[37.418488,55.679901],[37.421688,55.680885],[37.427048,55.682533],[37.428768,55.688091],[37.434113,55.690594],[37.434853,55.697483],[37.426628,55.698524],[37.414619,55.691177],[37.391312,55.702572],[37.388947,55.701656],[37.382061,55.698994],[37.380173,55.694801],[37.36264,55.692711],[37.357677,55.699821],[37.363586,55.704182],[37.357365,55.7085],[37.356148,55.711647],[37.360004,55.720219],[37.361809,55.724228],[37.381317,55.723656],[37.383339,55.724129],[37.38868,55.725384],[37.395466,55.726978],[37.396843,55.728863],[37.38813,55.739941],[37.39336,55.743355],[37.401199,55.739101],[37.450184,55.736057],[37.461063,55.733295],[37.481556,55.737778],[37.499283,55.738487],[37.503029,55.740921],[37.501244,55.742222],[37.485703,55.743431],[37.48576,55.749374],[37.491058,55.752331],[37.506897,55.755249],[37.509892,55.757198],[37.508053,55.758953],[37.493759,55.759418],[37.477242,55.759094],[37.470196,55.76228],[37.469685,55.762512],[37.465271,55.764507],[37.462307,55.765846],[37.454025,55.769592],[37.45126,55.772224],[37.450706,55.774776],[37.449295,55.781288],[37.450893,55.785271],[37.453491,55.791733],[37.455456,55.796623],[37.452225,55.802895],[37.456623,55.809429],[37.458572,55.812325],[37.465195,55.822163],[37.464672,55.826256],[37.453053,55.829857],[37.450306,55.830708],[37.44627,55.830544],[37.439983,55.828918],[37.439121,55.822941],[37.433758,55.820438],[37.414616,55.817837],[37.4104,55.818539],[37.40662,55.819862],[37.405258,55.820789],[37.403534,55.821957],[37.397404,55.831768],[37.39629,55.840408],[37.397846,55.841171],[37.399345,55.841904],[37.41412,55.840675],[37.41695,55.837589],[37.424397,55.836521],[37.426987,55.841652],[37.44297,55.84367],[37.444355,55.845554],[37.43996,55.854523],[37.450062,55.858128],[37.457222,55.852932],[37.462593,55.847034],[37.462841,55.846287],[37.465405,55.838528],[37.465687,55.838455],[37.471779,55.836777],[37.469944,55.832806],[37.471424,55.831383],[37.473782,55.829098],[37.479095,55.825027],[37.480251,55.824139],[37.482529,55.823807],[37.484818,55.82346],[37.485504,55.826138],[37.485832,55.827389],[37.485828,55.827396],[37.485828,55.8274],[37.485264,55.828632],[37.481529,55.836807],[37.476936,55.837933],[37.476891,55.837944],[37.473141,55.843082],[37.473114,55.843121],[37.465878,55.855106],[37.466686,55.861538],[37.47171,55.866768],[37.487415,55.864655],[37.492035,55.866669],[37.493706,55.869381],[37.500126,55.879791],[37.503712,55.883591],[37.508507,55.884235],[37.516701,55.877251],[37.523979,55.877537],[37.537708,55.86528],[37.540939,55.86541],[37.542328,55.867294],[37.533752,55.883865],[37.522827,55.880234],[37.520767,55.88232],[37.516308,55.886833],[37.523014,55.89167],[37.541153,55.889645],[37.544857,55.892532],[37.54208,55.89497],[37.539375,55.897346],[37.550392,55.899155],[37.557701,55.900352],[37.560184,55.899994],[37.564384,55.892387],[37.559406,55.886707],[37.560131,55.874393],[37.557465,55.873154],[37.554752,55.871895],[37.558384,55.868839],[37.57111,55.877567],[37.572792,55.903233],[37.577682,55.90313],[37.583694,55.903004],[37.592388,55.902821],[37.595619,55.902752],[37.608261,55.899136],[37.6124,55.891983],[37.616779,55.889408],[37.624172,55.888783],[37.628464,55.887218],[37.630981,55.886303],[37.633213,55.881363],[37.645626,55.879559],[37.64822,55.878288],[37.647915,55.874161],[37.659904,55.869141],[37.672283,55.874187],[37.675686,55.872948],[37.677612,55.873856],[37.684139,55.87693],[37.704029,55.880432],[37.710361,55.88525],[37.729332,55.899681],[37.729523,55.911572],[37.735764,55.91407],[37.739609,55.915607],[37.754051,55.930779],[37.766033,55.932602],[37.770771,55.938454],[37.780922,55.950985],[37.783085,55.951916],[37.787888,55.953987],[37.78027,55.956444],[37.775333,55.956921],[37.756382,55.958744],[37.74012,55.958584],[37.737965,55.956219],[37.733158,55.955578],[37.728073,55.957214],[37.714943,55.958088],[37.713913,55.959877],[37.716396,55.962883],[37.723618,55.971634],[37.725983,55.974499],[37.745716,55.972965],[37.746246,55.973255],[37.75106,55.975906],[37.757603,55.975697],[37.761009,55.974457],[37.763504,55.967239],[37.773445,55.965641],[37.776585,55.965137],[37.785412,55.963718],[37.792553,55.962574],[37.796516,55.961937],[37.805012,55.960571],[37.806927,55.964355],[37.808308,55.967091],[37.802414,55.968697],[37.805492,55.977039],[37.81514,55.978699],[37.819061,55.979374],[37.822632,55.983616],[37.821659,55.984951],[37.81575,55.983883],[37.80571,55.982071],[37.795326,55.987167],[37.795109,55.988987],[37.818577,55.997173],[37.822239,56],[37.82225,56],[37.81982,56.007999]],[[37.796494,55.922779],[37.809772,55.934242],[37.806206,55.936852],[37.793144,55.923569],[37.796494,55.922779]],[[37.820827,55.926308],[37.819221,55.923172],[37.824242,55.921989],[37.828075,55.923958],[37.832993,55.937393],[37.827808,55.939941],[37.820827,55.926308]],[[37.621418,55.845249],[37.625751,55.849529],[37.616943,55.855141],[37.598499,55.85989],[37.595306,55.859306],[37.594833,55.850166],[37.598331,55.848],[37.61414,55.844971],[37.621418,55.845249]],[[37.615086,55.817577],[37.622295,55.818317],[37.623711,55.826599],[37.628822,55.830956],[37.629059,55.831161],[37.633263,55.834743],[37.630615,55.836468],[37.611225,55.835712],[37.6054,55.836857],[37.60078,55.834846],[37.599613,55.831146],[37.611069,55.823822],[37.612549,55.818394],[37.615086,55.817577]],[[37.559166,55.797554],[37.561417,55.799026],[37.559166,55.80397],[37.56736,55.809776],[37.563473,55.815109],[37.544556,55.817081],[37.541721,55.813778],[37.548973,55.801277],[37.559166,55.797554]],[[37.538528,55.774334],[37.544777,55.776417],[37.552277,55.781277],[37.551277,55.782612],[37.540474,55.784943],[37.530193,55.782696],[37.52961,55.780834],[37.538528,55.774334]],[[37.495583,55.70314],[37.502304,55.701584],[37.531193,55.716446],[37.532639,55.717861],[37.528973,55.72139],[37.521084,55.719696],[37.517971,55.725056],[37.518391,55.726166],[37.519196,55.728306],[37.486137,55.720585],[37.484779,55.718693],[37.486832,55.715137],[37.467583,55.7075],[37.46389,55.704613],[37.460335,55.692554],[37.459915,55.691193],[37.461777,55.689415],[37.478779,55.69561],[37.488388,55.702835],[37.493973,55.703529],[37.495583,55.70314]],[[37.729168,55.67889],[37.736221,55.687389],[37.731251,55.701832],[37.725666,55.708027],[37.72089,55.70739],[37.712139,55.699276],[37.720806,55.694584],[37.719002,55.689472],[37.729168,55.67889]],[[37.678555,55.694138],[37.671356,55.693562],[37.671368,55.693554],[37.67136,55.693554],[37.671417,55.693527],[37.682854,55.687023],[37.675838,55.68256],[37.671383,55.681061],[37.662361,55.678028],[37.662361,55.678024],[37.662357,55.678024],[37.663837,55.676266],[37.668076,55.676296],[37.669498,55.676304],[37.678505,55.678665],[37.690914,55.681908],[37.706253,55.682182],[37.710194,55.680447],[37.713055,55.678734],[37.713112,55.674278],[37.715313,55.670284],[37.715321,55.670254],[37.716656,55.668808],[37.719166,55.666084],[37.72073,55.666821],[37.722946,55.667862],[37.722946,55.667866],[37.722958,55.66787],[37.722916,55.668015],[37.721169,55.677166],[37.720306,55.679218],[37.722393,55.681377],[37.716793,55.687565],[37.714699,55.687622],[37.712334,55.690254],[37.678555,55.694138]],[[37.841267,55.956894],[37.844196,55.95578],[37.848938,55.953979],[37.846935,55.950249],[37.842564,55.949314],[37.840359,55.948841],[37.836617,55.94804],[37.837917,55.947308],[37.841454,55.94532],[37.84882,55.941181],[37.854542,55.940937],[37.85603,55.941654],[37.857624,55.942421],[37.858356,55.946281],[37.859634,55.953003],[37.862499,55.95631],[37.866497,55.956913],[37.879894,55.953751],[37.877613,55.945442],[37.879417,55.943611],[37.880955,55.942051],[37.882397,55.94059],[37.884998,55.937946],[37.892502,55.936394],[37.900074,55.941242],[37.912983,55.942169],[37.922531,55.937035],[37.938995,55.935352],[37.942783,55.937775],[37.940037,55.940414],[37.935123,55.940693],[37.930473,55.938698],[37.92223,55.946621],[37.923588,55.948956],[37.920734,55.952507],[37.897137,55.959412],[37.895145,55.962536],[37.891796,55.963326],[37.891968,55.968815],[37.885056,55.972218],[37.872833,55.973461],[37.86198,55.974567],[37.852779,55.962803],[37.843323,55.960167],[37.841267,55.956894]]],"type":"Polygon"}
 }

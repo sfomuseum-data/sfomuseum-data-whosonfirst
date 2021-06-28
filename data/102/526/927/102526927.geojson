@@ -2,247 +2,248 @@
   "id": 102526927,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1925-01-01",
-    "date:inception_upper":"1925-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1925",
-    "geom:area":0.001582,
-    "geom:area_square_m":16288985.176788,
-    "geom:bbox":"-84.456847,33.617166,-84.400941,33.658976",
-    "geom:latitude":33.637323,
-    "geom:longitude":-84.428424,
-    "iso:country":"US",
-    "lbl:latitude":33.636518,
-    "lbl:longitude":-84.430686,
-    "mps:latitude":33.638953,
-    "mps:longitude":-84.433957,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:afr_x_preferred":[
-        "Hartsfield-Jackson Atlanta Internasionale Lughawe"
+    "date:inception_lower": "1925-01-01",
+    "date:inception_upper": "1925-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1925",
+    "geom:area": 0.0015822577205000085,
+    "geom:area_square_m": 16288985.176788,
+    "geom:bbox": "-84.456847,33.617166,-84.400941,33.658976",
+    "geom:latitude": 33.63732255077495,
+    "geom:longitude": -84.42842402381842,
+    "iso:country": "US",
+    "lbl:latitude": 33.636518,
+    "lbl:longitude": -84.430686,
+    "mps:latitude": 33.638953,
+    "mps:longitude": -84.433957,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:afr_x_preferred": [
+      "Hartsfield-Jackson Atlanta Internasionale Lughawe"
     ],
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u0647\u0627\u0631\u062a\u0633\u0641\u064a\u0644\u062f \u062c\u0627\u0643\u0633\u0648\u0646"
+    "name:ara_x_preferred": [
+      "مطار هارتسفيلد جاكسون"
     ],
-    "name:ast_x_preferred":[
-        "Aeropuertu Internacional Hartsfield-Jackson"
+    "name:ast_x_preferred": [
+      "Aeropuertu Internacional Hartsfield-Jackson"
     ],
-    "name:ben_x_preferred":[
-        "\u09b9\u09be\u09b0\u09cd\u099f\u09b8\u09ab\u09bf\u09b2\u09cd\u09a1-\u099c\u09cd\u09af\u09be\u0995\u09b8\u09a8 \u0986\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09be \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    "name:ben_x_preferred": [
+      "হার্টসফিল্ড-জ্যাকসন আটলান্টা আন্তর্জাতিক বিমানবন্দর"
     ],
-    "name:cat_x_preferred":[
-        "Aeroport Internacional Hartsfield-Jackson"
+    "name:cat_x_preferred": [
+      "Aeroport Internacional Hartsfield-Jackson"
     ],
-    "name:ces_x_preferred":[
-        "Hartsfield-Jackson International Airport"
+    "name:ces_x_preferred": [
+      "Hartsfield-Jackson International Airport"
     ],
-    "name:dan_x_preferred":[
-        "Hartsfield-Jackson Atlanta International Airport"
+    "name:dan_x_preferred": [
+      "Hartsfield-Jackson Atlanta International Airport"
     ],
-    "name:deu_x_preferred":[
-        "Hartsfield\u2013Jackson Atlanta International Airport"
+    "name:deu_x_preferred": [
+      "Hartsfield–Jackson Atlanta International Airport"
     ],
-    "name:eng_x_preferred":[
-        "Hartsfield-Jackson Atlanta International Airport"
+    "name:eng_x_preferred": [
+      "Hartsfield-Jackson Atlanta International Airport"
     ],
-    "name:eng_x_variant":[
-        "ATL",
-        "KATL",
-        "Hartsfield\u2013Jackson Atlanta International Airport"
+    "name:eng_x_variant": [
+      "ATL",
+      "KATL",
+      "Hartsfield–Jackson Atlanta International Airport"
     ],
-    "name:epo_x_preferred":[
-        "Flughaveno Hartsfield-Jackson"
+    "name:epo_x_preferred": [
+      "Flughaveno Hartsfield-Jackson"
     ],
-    "name:est_x_preferred":[
-        "Hartsfieldi-Jacksoni Atlanta rahvusvaheline lennujaam"
+    "name:est_x_preferred": [
+      "Hartsfieldi-Jacksoni Atlanta rahvusvaheline lennujaam"
     ],
-    "name:eus_x_preferred":[
-        "Hartsfield-Jackson nazioarteko aireportua"
+    "name:eus_x_preferred": [
+      "Hartsfield-Jackson nazioarteko aireportua"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0627\u0631\u062a\u0633\u0641\u06cc\u0644\u062f-\u062c\u06a9\u0633\u0648\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u0627"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی هارتسفیلد-جکسون آتلانتا"
     ],
-    "name:fin_x_preferred":[
-        "Atlantan kansainv\u00e4linen lentoasema Hartsfield-Jackson"
+    "name:fin_x_preferred": [
+      "Atlantan kansainvälinen lentoasema Hartsfield-Jackson"
     ],
-    "name:fra_x_preferred":[
-        "a\u00e9roport international Hartsfield-Jackson d'Atlanta"
+    "name:fra_x_preferred": [
+      "aéroport international Hartsfield-Jackson d'Atlanta"
     ],
-    "name:glg_x_preferred":[
-        "Aeroporto Internacional Hartsfield-Jackson"
+    "name:glg_x_preferred": [
+      "Aeroporto Internacional Hartsfield-Jackson"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05e8\u05d8\u05e1\u05e4\u05d9\u05dc\u05d3-\u05d2'\u05e7\u05e1\u05d5\u05df \u05d0\u05d8\u05dc\u05e0\u05d8\u05d4"
+    "name:heb_x_preferred": [
+      "נמל התעופה הבינלאומי הרטספילד-ג'קסון אטלנטה"
     ],
-    "name:hun_x_preferred":[
-        "Hartsfield\u2013Jackson nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    "name:hun_x_preferred": [
+      "Hartsfield–Jackson nemzetközi repülőtér"
     ],
-    "name:ind_x_preferred":[
-        "Bandar Udara Internasional Hartsfield\u2013Jackson Atlanta"
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Hartsfield–Jackson Atlanta"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale di Atlanta-Hartsfield-Jackson"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale di Atlanta-Hartsfield-Jackson"
     ],
-    "name:jpn_x_preferred":[
-        "\u30cf\u30fc\u30c4\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u30b8\u30e3\u30af\u30bd\u30f3\u30fb\u30a2\u30c8\u30e9\u30f3\u30bf\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ハーツフィールド・ジャクソン・アトランタ国際空港"
     ],
-    "name:kor_x_preferred":[
-        "\ud558\uce20\ud544\ub4dc \uc7ad\uc2a8 \uc560\ud2c0\ub79c\ud0c0 \uad6d\uc81c\uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "하츠필드 잭슨 애틀랜타 국제공항"
     ],
-    "name:lav_x_preferred":[
-        "H\u0101rtsf\u012blda-D\u017eeksona Atlantas starptautisk\u0101 lidosta"
+    "name:lav_x_preferred": [
+      "Hārtsfīlda-Džeksona Atlantas starptautiskā lidosta"
     ],
-    "name:lit_x_preferred":[
-        "Hartsfyldo-D\u017eaksono Atlantos tarptautinis oro uostas"
+    "name:lit_x_preferred": [
+      "Hartsfyldo-Džaksono Atlantos tarptautinis oro uostas"
     ],
-    "name:mar_x_preferred":[
-        "\u0939\u093e\u0930\u094d\u091f\u094d\u0938\u092b\u0940\u0932\u094d\u0921-\u091c\u0945\u0915\u094d\u0938\u0928 \u0905\u091f\u0932\u093e\u0902\u091f\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "हार्ट्सफील्ड-जॅक्सन अटलांटा आंतरराष्ट्रीय विमानतळ"
     ],
-    "name:nld_x_preferred":[
-        "Hartsfield-Jackson Atlanta International Airport"
+    "name:nld_x_preferred": [
+      "Hartsfield-Jackson Atlanta International Airport"
     ],
-    "name:nob_x_preferred":[
-        "Hartsfield\u2013Jackson Atlanta internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Hartsfield–Jackson Atlanta internasjonale lufthavn"
     ],
-    "name:pnb_x_preferred":[
-        "\u06c1\u0627\u0631\u0679\u0633\u0641\u06cc\u0644\u0688-\u062c\u06cc\u06a9\u0633\u0646 \u0627\u0679\u0644\u0627\u0646\u0679\u0627 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u06c1"
+    "name:pnb_x_preferred": [
+      "ہارٹسفیلڈ-جیکسن اٹلانٹا انٹرنیشنل ہوائی اڈہ"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Atlanta - Hartsfield-Jackson"
+    "name:pol_x_preferred": [
+      "Port lotniczy Atlanta - Hartsfield-Jackson"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Internacional de Atlanta Hartsfield-Jackson"
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Atlanta Hartsfield-Jackson"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Atlanta Hartsfield-Jackson"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Atlanta Hartsfield-Jackson"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0425\u0430\u0440\u0442\u0441\u0444\u0438\u043b\u0434-\u0414\u0436\u0435\u043a\u0441\u043e\u043d \u0410\u0442\u043b\u0430\u043d\u0442\u0430"
+    "name:rus_x_preferred": [
+      "Международный аэропорт Хартсфилд-Джексон Атланта"
     ],
-    "name:sco_x_preferred":[
-        "Hartsfield\u2013Jackson Atlanta Internaitional Airport"
+    "name:sco_x_preferred": [
+      "Hartsfield–Jackson Atlanta Internaitional Airport"
     ],
-    "name:slk_x_preferred":[
-        "Medzin\u00e1rodn\u00e9 letisko Hartsfield-Jackson Atlanta"
+    "name:slk_x_preferred": [
+      "Medzinárodné letisko Hartsfield-Jackson Atlanta"
     ],
-    "name:slv_x_preferred":[
-        "Mednarodno letali\u0161\u010de Hartsfield\u2013Jackson Atlanta"
+    "name:slv_x_preferred": [
+      "Mednarodno letališče Hartsfield–Jackson Atlanta"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional Hartsfield-Jackson"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Hartsfield-Jackson"
     ],
-    "name:swe_x_preferred":[
-        "Hartsfield\u2013Jackson Atlanta International Airport"
+    "name:swe_x_preferred": [
+      "Hartsfield–Jackson Atlanta International Airport"
     ],
-    "name:tam_x_preferred":[
-        "\u0bb9\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd\u0b83\u0baa\u0bc0\u0bb2\u0bcd\u0b9f\u0bcd-\u0b9c\u0bbe\u0b95\u0bcd\u0b9a\u0ba9\u0bcd \u0b85\u0b9f\u0bcd\u0bb2\u0bbe\u0ba9\u0bcd\u0b9f\u0bbe \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    "name:tam_x_preferred": [
+      "ஹார்ட்ஸ்ஃபீல்ட்-ஜாக்சன் அட்லான்டா பன்னாட்டு விமான நிலையம்"
     ],
-    "name:tat_x_preferred":[
-        "\u04ba\u0430\u0440\u0442\u0441\u0444\u0438\u043b\u0434-\u0496\u0435\u043a\u0441\u043e\u043d \u0410\u0442\u043b\u0430\u043d\u0442\u0430 \u0425\u0430\u043b\u044b\u043a\u0430\u0440\u0430 \u04bb\u0430\u0432\u0430 \u0430\u043b\u0430\u043d\u044b"
+    "name:tat_x_preferred": [
+      "Һартсфилд-Җексон Атланта Халыкара һава аланы"
     ],
-    "name:tha_x_preferred":[
-        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e2e\u0e32\u0e23\u0e4c\u0e17\u0e2a\u0e1f\u0e34\u0e25\u0e14\u0e4c\u2013\u0e41\u0e08\u0e47\u0e04\u0e2a\u0e31\u0e19 \u0e41\u0e2d\u0e15\u0e41\u0e25\u0e19\u0e15\u0e32"
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติฮาร์ทสฟิลด์–แจ็คสัน แอตแลนตา"
     ],
-    "name:tur_x_preferred":[
-        "Atlanta Uluslararas\u0131 Havaliman\u0131"
+    "name:tur_x_preferred": [
+      "Atlanta Uluslararası Havalimanı"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0413\u0430\u0440\u0442\u0441\u0444\u0456\u043b\u0434-\u0414\u0436\u0435\u043a\u0441\u043e\u043d"
+    "name:ukr_x_preferred": [
+      "Аеропорт Гартсфілд-Джексон"
     ],
-    "name:urd_x_preferred":[
-        "\u06c1\u0627\u0631\u0679\u0633\u0641\u06cc\u0644\u0688\u2013\u062c\u06cc\u06a9\u0633\u0646 \u0627\u0679\u0644\u0627\u0646\u0679\u0627 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ہارٹسفیلڈ–جیکسن اٹلانٹا بین الاقوامی ہوائی اڈا"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Hartsfield-Jackson Atlanta"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Hartsfield-Jackson Atlanta"
     ],
-    "name:zho_x_preferred":[
-        "\u54c8\u8328\u83f2\u5c14\u5fb7\uff0d\u6770\u514b\u900a\u4e9a\u7279\u5170\u5927\u56fd\u9645\u673a\u573a"
+    "name:zho_x_preferred": [
+      "哈茨菲尔德－杰克逊亚特兰大国际机场"
     ],
-    "oa:elevation_ft":"1026",
-    "oa:type":"large_airport",
-    "reversegeo:latitude":33.653467,
-    "reversegeo:longitude":-84.423913,
-    "sfomuseum:airport_id":190,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Atlanta Municipal Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"mz",
-    "src:geom_alt":[
-        "woedb"
+    "oa:elevation_ft": "1026",
+    "oa:type": "large_airport",
+    "reversegeo:latitude": 33.653467,
+    "reversegeo:longitude": -84.423913,
+    "sfomuseum:airport_id": 190,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Atlanta Municipal Airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "mz",
+    "src:geom_alt": [
+      "woedb"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12587900,
-        "planet_id":1,
-        "state_id":2347569
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587900,
+      "planet_id": 1,
+      "state_id": 2347569
     },
-    "wof:belongsto":[
-        1108798501,
-        102191575,
-        1108797035,
-        85633793,
-        85936429,
-        102083603,
-        85688535,
-        85890001,
-        85937155
+    "wof:belongsto": [
+      1108798501,
+      102191575,
+      1108797035,
+      85633793,
+      85936429,
+      102083603,
+      85688535,
+      85890001,
+      85937155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"ATL",
-        "gp:id":12522118,
-        "iata:code":"ATL",
-        "icao:code":"KATL",
-        "oa:id":"3384",
-        "wd:id":"Q214861",
-        "wk:page":"Hartsfield-Jackson_Atlanta_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "ATL",
+      "gp:id": 12522118,
+      "iata:code": "ATL",
+      "icao:code": "KATL",
+      "oa:id": "3384",
+      "wd:id": "Q214861",
+      "wk:page": "Hartsfield-Jackson_Atlanta_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geom_alt":[
-        "woedb"
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geom_alt": [
+      "woedb"
     ],
-    "wof:geomhash":"d33443682663ec73a6d6c1906fc3839c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102526927,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797035,
-            "neighbourhood_id":1108798501,
-            "region_id":85688535
-        },
-        {
-            "campus_id":102526927,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85937155,
-            "neighbourhood_id":85890001,
-            "region_id":85688535
-        }
+    "wof:geomhash": "d33443682663ec73a6d6c1906fc3839c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102526927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083603,
+        "locality_id": 85936429,
+        "macrohood_id": 1108797035,
+        "neighbourhood_id": 1108798501,
+        "region_id": 85688535
+      },
+      {
+        "campus_id": 102526927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083603,
+        "locality_id": 85937155,
+        "neighbourhood_id": 85890001,
+        "region_id": 85688535
+      }
     ],
-    "wof:id":102526927,
-    "wof:lastmodified":1611601240,
-    "wof:name":"Hartsfield-Jackson Atlanta International Airport",
-    "wof:parent_id":-3,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102526927,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Hartsfield-Jackson Atlanta International Airport",
+    "wof:parent_id": -3,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -84.456847,
     33.617166,
     -84.400941,
     33.658976
-],
-  "geometry": {"coordinates":[[[-84.447098,33.628135],[-84.447779,33.628881],[-84.44888400000001,33.629565],[-84.450074,33.630147],[-84.45094400000001,33.63061],[-84.45146,33.630832],[-84.452122,33.630919],[-84.453008,33.630961],[-84.45434899999999,33.630971],[-84.454939,33.631142],[-84.455438,33.631486],[-84.455856,33.632016],[-84.456501,33.633317],[-84.45682600000001,33.634607],[-84.456847,33.635959],[-84.45675,33.636874],[-84.456384,33.637724],[-84.456035,33.638376],[-84.45056200000001,33.643868],[-84.44791499999999,33.646552],[-84.447355,33.64711],[-84.446596,33.64771],[-84.44563100000001,33.648347],[-84.444609,33.648905],[-84.44185400000001,33.650262],[-84.44101000000001,33.650729],[-84.440045,33.651195],[-84.438878,33.651514],[-84.438361,33.65166],[-84.43789,33.651861],[-84.43744,33.652181],[-84.43707999999999,33.652603],[-84.43557800000001,33.654716],[-84.43466600000001,33.65579],[-84.432993,33.657111],[-84.432582,33.657413],[-84.43220700000001,33.657607],[-84.43161600000001,33.65771],[-84.431061,33.657734],[-84.42966699999999,33.657551],[-84.42842,33.657467],[-84.426868,33.657476],[-84.42686999999999,33.657589],[-84.426823,33.657646],[-84.426895,33.658976],[-84.425816,33.658956],[-84.42271599999999,33.658899],[-84.421351,33.658874],[-84.420896,33.658856],[-84.420683,33.658856],[-84.420002,33.658857],[-84.420002,33.657836],[-84.418688,33.657764],[-84.418052,33.657639],[-84.41627099999999,33.656773],[-84.41158,33.654345],[-84.40651800000001,33.651018],[-84.405997,33.650615],[-84.405621,33.65019],[-84.405345,33.649653],[-84.405186,33.649112],[-84.40507100000001,33.648778],[-84.404836,33.64846],[-84.404483,33.648162],[-84.403978,33.647912],[-84.403435,33.647799],[-84.402787,33.647786],[-84.40213199999999,33.647724],[-84.401493,33.647441],[-84.401101,33.647053],[-84.400941,33.646459],[-84.401095,33.645858],[-84.40136200000001,33.645274],[-84.402906,33.642118],[-84.403142,33.641495],[-84.403212,33.640826],[-84.403176,33.64016],[-84.402771,33.637662],[-84.402728,33.636815],[-84.40285,33.636127],[-84.40331,33.635372],[-84.403802,33.634834],[-84.40435600000001,33.634436],[-84.40501,33.634086],[-84.405777,33.633836],[-84.40659100000001,33.633724],[-84.409802,33.633714],[-84.41053599999999,33.633693],[-84.41122300000001,33.633507],[-84.411874,33.633148],[-84.41556300000001,33.630639],[-84.41380599999999,33.628695],[-84.41315,33.628398],[-84.41315299999999,33.62565],[-84.413906,33.625628],[-84.413882,33.62412],[-84.40880300000001,33.624055],[-84.408514,33.623102],[-84.40848,33.622488],[-84.408607,33.621891],[-84.40955099999999,33.620335],[-84.40978,33.61978],[-84.409818,33.617656],[-84.41062100000001,33.617759],[-84.411597,33.617768],[-84.41339600000001,33.617808],[-84.414874,33.618107],[-84.41656399999999,33.618623],[-84.418429,33.619257],[-84.41900200000001,33.619454],[-84.419602,33.619548],[-84.420553,33.619403],[-84.42346000000001,33.618586],[-84.43466100000001,33.618525],[-84.435418,33.618513],[-84.43625,33.618654],[-84.437231,33.618814],[-84.43778399999999,33.618847],[-84.438256,33.61869],[-84.43868999999999,33.618436],[-84.439398,33.619158],[-84.439879,33.619318],[-84.440439,33.619348],[-84.440943,33.619318],[-84.441435,33.619154],[-84.44189,33.61876],[-84.44354800000001,33.617472],[-84.444059,33.617244],[-84.444683,33.617166],[-84.445539,33.617201],[-84.45097699999999,33.618066],[-84.45151799999999,33.618376],[-84.451999,33.618845],[-84.452263,33.619418],[-84.452361,33.620024],[-84.45202399999999,33.620946],[-84.451628,33.621435],[-84.45115199999999,33.621661],[-84.450326,33.621899],[-84.449335,33.621957],[-84.448069,33.621979],[-84.447508,33.622102],[-84.447112,33.622301],[-84.446589,33.622732],[-84.446229,33.623184],[-84.446046,33.623978],[-84.44613,33.624879],[-84.44646400000001,33.626598],[-84.447098,33.628135]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-84.447098,33.628135],[-84.447779,33.628881],[-84.448884,33.629565],[-84.450074,33.630147],[-84.450944,33.63061],[-84.45146,33.630832],[-84.452122,33.630919],[-84.453008,33.630961],[-84.454349,33.630971],[-84.454939,33.631142],[-84.455438,33.631486],[-84.455856,33.632016],[-84.456501,33.633317],[-84.456826,33.634607],[-84.456847,33.635959],[-84.45675,33.636874],[-84.456384,33.637724],[-84.456035,33.638376],[-84.450562,33.643868],[-84.447915,33.646552],[-84.447355,33.64711],[-84.446596,33.64771],[-84.445631,33.648347],[-84.444609,33.648905],[-84.441854,33.650262],[-84.44101,33.650729],[-84.440045,33.651195],[-84.438878,33.651514],[-84.438361,33.65166],[-84.43789,33.651861],[-84.43744,33.652181],[-84.43708,33.652603],[-84.435578,33.654716],[-84.434666,33.65579],[-84.432993,33.657111],[-84.432582,33.657413],[-84.432207,33.657607],[-84.431616,33.65771],[-84.431061,33.657734],[-84.429667,33.657551],[-84.42842,33.657467],[-84.426868,33.657476],[-84.42687,33.657589],[-84.426823,33.657646],[-84.426895,33.658976],[-84.425816,33.658956],[-84.422716,33.658899],[-84.421351,33.658874],[-84.420896,33.658856],[-84.420683,33.658856],[-84.420002,33.658857],[-84.420002,33.657836],[-84.418688,33.657764],[-84.418052,33.657639],[-84.416271,33.656773],[-84.41158,33.654345],[-84.406518,33.651018],[-84.405997,33.650615],[-84.405621,33.65019],[-84.405345,33.649653],[-84.405186,33.649112],[-84.405071,33.648778],[-84.404836,33.64846],[-84.404483,33.648162],[-84.403978,33.647912],[-84.403435,33.647799],[-84.402787,33.647786],[-84.402132,33.647724],[-84.401493,33.647441],[-84.401101,33.647053],[-84.400941,33.646459],[-84.401095,33.645858],[-84.401362,33.645274],[-84.402906,33.642118],[-84.403142,33.641495],[-84.403212,33.640826],[-84.403176,33.64016],[-84.402771,33.637662],[-84.402728,33.636815],[-84.40285,33.636127],[-84.40331,33.635372],[-84.403802,33.634834],[-84.404356,33.634436],[-84.40501,33.634086],[-84.405777,33.633836],[-84.406591,33.633724],[-84.409802,33.633714],[-84.410536,33.633693],[-84.411223,33.633507],[-84.411874,33.633148],[-84.415563,33.630639],[-84.413806,33.628695],[-84.41315,33.628398],[-84.413153,33.62565],[-84.413906,33.625628],[-84.413882,33.62412],[-84.408803,33.624055],[-84.408514,33.623102],[-84.40848,33.622488],[-84.408607,33.621891],[-84.409551,33.620335],[-84.40978,33.61978],[-84.409818,33.617656],[-84.410621,33.617759],[-84.411597,33.617768],[-84.413396,33.617808],[-84.414874,33.618107],[-84.416564,33.618623],[-84.418429,33.619257],[-84.419002,33.619454],[-84.419602,33.619548],[-84.420553,33.619403],[-84.42346,33.618586],[-84.434661,33.618525],[-84.435418,33.618513],[-84.43625,33.618654],[-84.437231,33.618814],[-84.437784,33.618847],[-84.438256,33.61869],[-84.43869,33.618436],[-84.439398,33.619158],[-84.439879,33.619318],[-84.440439,33.619348],[-84.440943,33.619318],[-84.441435,33.619154],[-84.44189,33.61876],[-84.443548,33.617472],[-84.444059,33.617244],[-84.444683,33.617166],[-84.445539,33.617201],[-84.450977,33.618066],[-84.451518,33.618376],[-84.451999,33.618845],[-84.452263,33.619418],[-84.452361,33.620024],[-84.452024,33.620946],[-84.451628,33.621435],[-84.451152,33.621661],[-84.450326,33.621899],[-84.449335,33.621957],[-84.448069,33.621979],[-84.447508,33.622102],[-84.447112,33.622301],[-84.446589,33.622732],[-84.446229,33.623184],[-84.446046,33.623978],[-84.44613,33.624879],[-84.446464,33.626598],[-84.447098,33.628135]]],"type":"Polygon"}
 }

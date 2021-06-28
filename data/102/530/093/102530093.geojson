@@ -2,139 +2,140 @@
   "id": 102530093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000001,
-    "geom:area_square_m":10348.276359,
-    "geom:bbox":"-76.216621,36.897678,-76.213188,36.898457",
-    "geom:latitude":36.89805,
-    "geom:longitude":-76.215028,
-    "gn:elevation":7,
-    "iso:country":"US",
-    "lbl:latitude":36.897981,
-    "lbl:longitude":-76.215199,
-    "mps:latitude":36.897981,
-    "mps:longitude":-76.215199,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:deu_x_preferred":[
-        "Flughafen Norfolk"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0000010464945000008341,
+    "geom:area_square_m": 10348.276359,
+    "geom:bbox": "-76.216621,36.897678,-76.213188,36.898457",
+    "geom:latitude": 36.89805002981175,
+    "geom:longitude": -76.2150276333244,
+    "gn:elevation": 7,
+    "iso:country": "US",
+    "lbl:latitude": 36.897981,
+    "lbl:longitude": -76.215199,
+    "mps:latitude": 36.897981,
+    "mps:longitude": -76.215199,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:deu_x_preferred": [
+      "Flughafen Norfolk"
     ],
-    "name:eng_x_preferred":[
-        "Norfolk International Airport"
+    "name:eng_x_preferred": [
+      "Norfolk International Airport"
     ],
-    "name:eng_x_variant":[
-        "ORF",
-        "KORF"
+    "name:eng_x_variant": [
+      "ORF",
+      "KORF"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0648\u0631\u0641\u0648\u0644\u06a9"
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی نورفولک"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport international de Norfolk"
+    "name:fra_x_preferred": [
+      "Aéroport international de Norfolk"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport international de Norfolk"
+    "name:fra_x_variant": [
+      "aéroport international de Norfolk"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Internazionale di Norfolk"
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale di Norfolk"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u56fd\u969b\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "ノーフォーク国際空港"
     ],
-    "name:nld_x_preferred":[
-        "Norfolk International Airport"
+    "name:nld_x_preferred": [
+      "Norfolk International Airport"
     ],
-    "name:nob_x_preferred":[
-        "Norfolk internasjonale lufthavn"
+    "name:nob_x_preferred": [
+      "Norfolk internasjonale lufthavn"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto internacional de Norfolk"
+    "name:por_x_preferred": [
+      "Aeroporto internacional de Norfolk"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Interna\u021bional Norfolk"
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Norfolk"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Norfolk"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Norfolk"
     ],
-    "name:und_x_variant":[
-        "Norfolk Regional Airport"
+    "name:und_x_variant": [
+      "Norfolk Regional Airport"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u0627\u0631\u0641\u0648\u06a9 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "نارفوک بین الاقوامی ہوائی اڈا"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Norfolk"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Norfolk"
     ],
-    "name:zho_x_preferred":[
-        "\u8afe\u798f\u514b\u570b\u969b\u6a5f\u5834"
+    "name:zho_x_preferred": [
+      "諾福克國際機場"
     ],
-    "oa:elevation_ft":"26",
-    "oa:type":"large_airport",
-    "sfomuseum:airport_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":2017,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12590391,
-        "planet_id":1,
-        "state_id":2347605,
-        "suburb_id":55860589
+    "oa:elevation_ft": "26",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": -1,
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 2017,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12590391,
+      "planet_id": 1,
+      "state_id": 2347605,
+      "suburb_id": 55860589
     },
-    "wof:belongsto":[
-        85879265,
-        102191575,
-        85633793,
-        101728769,
-        102085935,
-        85688747
+    "wof:belongsto": [
+      85879265,
+      102191575,
+      85633793,
+      101728769,
+      102085935,
+      85688747
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"ORF",
-        "gn:id":4776235,
-        "gp:id":12521146,
-        "iata:code":"ORF",
-        "icao:code":"KORF",
-        "oa:id":"3755",
-        "wd:id":"Q1432196",
-        "wk:page":"Norfolk_International_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "ORF",
+      "gn:id": 4776235,
+      "gp:id": 12521146,
+      "iata:code": "ORF",
+      "icao:code": "KORF",
+      "oa:id": "3755",
+      "wd:id": "Q1432196",
+      "wk:page": "Norfolk_International_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"aa8c82c2e7de2d97c57d98409f38b5b7",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530093,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085935,
-            "locality_id":101728769,
-            "neighbourhood_id":85879265,
-            "region_id":85688747
-        }
+    "wof:country": "US",
+    "wof:created": 1624906906,
+    "wof:geomhash": "aa8c82c2e7de2d97c57d98409f38b5b7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530093,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085935,
+        "locality_id": 101728769,
+        "neighbourhood_id": 85879265,
+        "region_id": 85688747
+      }
     ],
-    "wof:id":102530093,
-    "wof:lastmodified":1611601233,
-    "wof:name":"Norfolk International Airport",
-    "wof:parent_id":85879265,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102530093,
+    "wof:lastmodified": 1624906906,
+    "wof:name": "Norfolk International Airport",
+    "wof:parent_id": 85879265,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -76.216621,
     36.897678,
     -76.213188,
     36.898457
-],
+  ],
   "geometry": {"coordinates":[[[[-76.215279,36.897678],[-76.216621,36.898457],[-76.213188,36.898018],[-76.215256,36.897678],[-76.215279,36.897678]]]],"type":"MultiPolygon"}
 }

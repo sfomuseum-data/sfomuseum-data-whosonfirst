@@ -2,807 +2,808 @@
   "id": 101751753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.009885,
-    "geom:area_square_m":53330202.749723,
-    "geom:bbox":"-22.036844,64.089428,-21.708679,64.174827",
-    "geom:latitude":64.131451,
-    "geom:longitude":-21.851843,
-    "gn:population":118918,
-    "iso:country":"IS",
-    "lbl:latitude":64.136637,
-    "lbl:longitude":-21.876262,
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.0,
-    "mps:latitude":64.136637,
-    "mps:longitude":-21.876262,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":4.0,
-    "name:afr_x_preferred":[
-        "Reykjavik"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.009885057344999882,
+    "geom:area_square_m": 53330202.749723,
+    "geom:bbox": "-22.036844,64.089428,-21.708679,64.174827",
+    "geom:latitude": 64.13145123990941,
+    "geom:longitude": -21.851843275537973,
+    "gn:population": 118918,
+    "iso:country": "IS",
+    "lbl:latitude": 64.136637,
+    "lbl:longitude": -21.876262,
+    "lbl:max_zoom": 14,
+    "lbl:min_zoom": 9,
+    "mps:latitude": 64.136637,
+    "mps:longitude": -21.876262,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 4,
+    "name:afr_x_preferred": [
+      "Reykjavik"
     ],
-    "name:als_x_preferred":[
-        "Reykjav\u00edk"
+    "name:als_x_preferred": [
+      "Reykjavík"
     ],
-    "name:amh_x_preferred":[
-        "\u122c\u12ed\u12aa\u12eb\u126a\u12ad"
+    "name:amh_x_preferred": [
+      "ሬይኪያቪክ"
     ],
-    "name:ang_x_preferred":[
-        "R\u0113cw\u012bc"
+    "name:ang_x_preferred": [
+      "Rēcwīc"
     ],
-    "name:ara_x_preferred":[
-        "\u0631\u064a\u0643\u064a\u0627\u0641\u064a\u0643"
+    "name:ara_x_preferred": [
+      "ريكيافيك"
     ],
-    "name:arg_x_preferred":[
-        "Reykjav\u00edk"
+    "name:arg_x_preferred": [
+      "Reykjavík"
     ],
-    "name:arz_x_preferred":[
-        "\u0631\u064a\u0643\u064a\u0627\u0641\u064a\u0643"
+    "name:arz_x_preferred": [
+      "ريكيافيك"
     ],
-    "name:ast_x_preferred":[
-        "Reikiavik"
+    "name:ast_x_preferred": [
+      "Reikiavik"
     ],
-    "name:ava_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044f\u0432\u0438\u043a"
+    "name:ava_x_preferred": [
+      "Рейкявик"
     ],
-    "name:aym_x_preferred":[
-        "Reykjavik"
+    "name:aym_x_preferred": [
+      "Reykjavik"
     ],
-    "name:aze_x_preferred":[
-        "Reykyavik"
+    "name:aze_x_preferred": [
+      "Reykyavik"
     ],
-    "name:ban_x_preferred":[
-        "Reykjavik"
+    "name:ban_x_preferred": [
+      "Reykjavik"
     ],
-    "name:bar_x_preferred":[
-        "Reykjav\u00edk"
+    "name:bar_x_preferred": [
+      "Reykjavík"
     ],
-    "name:bcl_x_preferred":[
-        "Reykjav\u00edk"
+    "name:bcl_x_preferred": [
+      "Reykjavík"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0420\u044d\u0439\u043a'\u044f\u0432\u0456\u043a"
+    "name:bel_x_preferred": [
+      "Горад Рэйк'явік"
     ],
-    "name:bel_x_variant":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0420\u044d\u0439\u043a\u044f\u0432\u0456\u043a",
-        "\u0420\u044d\u0439\u043a'\u044f\u0432\u0456\u043a",
-        "\u0420\u044d\u0439\u043a\u2019\u044f\u0432\u0456\u043a"
+    "name:bel_x_variant": [
+      "Горад Рэйкявік",
+      "Рэйк'явік",
+      "Рэйк’явік"
     ],
-    "name:ben_x_preferred":[
-        "\u09b0\u09c7\u0987\u0995\u09bf\u09af\u09bc\u09be\u09ad\u09bf\u0995"
+    "name:ben_x_preferred": [
+      "রেইকিয়াভিক"
     ],
-    "name:bod_x_preferred":[
-        "\u0f62\u0f7a\u0f40\u0f0b\u0f47\u0f0b\u0f56\u0f72\u0f40\u0f0d"
+    "name:bod_x_preferred": [
+      "རེཀ་ཇ་བིཀ།"
     ],
-    "name:bos_x_preferred":[
-        "Rejkjavik"
+    "name:bos_x_preferred": [
+      "Rejkjavik"
     ],
-    "name:bos_x_variant":[
-        "Reykjav\u00edk"
+    "name:bos_x_variant": [
+      "Reykjavík"
     ],
-    "name:bre_x_preferred":[
-        "Reykjav\u00edk"
+    "name:bre_x_preferred": [
+      "Reykjavík"
     ],
-    "name:bul_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044f\u0432\u0438\u043a"
+    "name:bul_x_preferred": [
+      "Рейкявик"
     ],
-    "name:cat_x_preferred":[
-        "Reykjav\u00edk"
+    "name:cat_x_preferred": [
+      "Reykjavík"
     ],
-    "name:cdo_x_preferred":[
-        "Reykjav\u00edk"
+    "name:cdo_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ces_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ces_x_preferred": [
+      "Reykjavík"
     ],
-    "name:che_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:che_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:chv_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:chv_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:ckb_x_preferred":[
-        "\u0695\u06ce\u06a9\u06cc\u0627\u06a4\u06cc\u06a9"
+    "name:ckb_x_preferred": [
+      "ڕێکیاڤیک"
     ],
-    "name:cor_x_preferred":[
-        "Reykjav\u00edk"
+    "name:cor_x_preferred": [
+      "Reykjavík"
     ],
-    "name:cos_x_preferred":[
-        "Reykjav\u00edk"
+    "name:cos_x_preferred": [
+      "Reykjavík"
     ],
-    "name:csb_x_preferred":[
-        "Reykjav\u00edk"
+    "name:csb_x_preferred": [
+      "Reykjavík"
     ],
-    "name:cym_x_preferred":[
-        "Reykjav\u00edk"
+    "name:cym_x_preferred": [
+      "Reykjavík"
     ],
-    "name:dan_x_preferred":[
-        "Reykjavik"
+    "name:dan_x_preferred": [
+      "Reykjavik"
     ],
-    "name:deu_x_preferred":[
-        "Reykjav\u00edk"
+    "name:deu_x_preferred": [
+      "Reykjavík"
     ],
-    "name:diq_x_preferred":[
-        "Reykjav\u00edk"
+    "name:diq_x_preferred": [
+      "Reykjavík"
     ],
-    "name:dsb_x_preferred":[
-        "Reykjav\u00edk"
+    "name:dsb_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ell_x_preferred":[
-        "\u03a1\u03ad\u03b9\u03ba\u03b9\u03b1\u03b2\u03b9\u03ba"
+    "name:ell_x_preferred": [
+      "Ρέικιαβικ"
     ],
-    "name:ell_x_variant":[
-        "\u03a1\u03b5\u03c5\u03ba\u03b9\u03b1\u03b2\u03b9\u03ba",
-        "\u03a1\u03ad\u03c5\u03ba\u03b9\u03b1\u03b2\u03b9\u03ba"
+    "name:ell_x_variant": [
+      "Ρευκιαβικ",
+      "Ρέυκιαβικ"
     ],
-    "name:eng_gb_x_preferred":[
-        "Reykjav\u00edk"
+    "name:eng_gb_x_preferred": [
+      "Reykjavík"
     ],
-    "name:eng_x_colloquial":[
-        ""
+    "name:eng_x_colloquial": [
+      ""
     ],
-    "name:eng_x_preferred":[
-        "Reykjavik"
+    "name:eng_x_preferred": [
+      "Reykjavik"
     ],
-    "name:eng_x_variant":[
-        "REK",
-        "Reykjav\u00edk"
+    "name:eng_x_variant": [
+      "REK",
+      "Reykjavík"
     ],
-    "name:epo_x_preferred":[
-        "Rejkjaviko"
+    "name:epo_x_preferred": [
+      "Rejkjaviko"
     ],
-    "name:est_x_preferred":[
-        "Reykjav\u00edk"
+    "name:est_x_preferred": [
+      "Reykjavík"
     ],
-    "name:eus_x_preferred":[
-        "Reykjavik"
+    "name:eus_x_preferred": [
+      "Reykjavik"
     ],
-    "name:ewe_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ewe_x_preferred": [
+      "Reykjavík"
     ],
-    "name:fao_x_preferred":[
-        "Reykjav\u00edk"
+    "name:fao_x_preferred": [
+      "Reykjavík"
     ],
-    "name:fas_x_preferred":[
-        "\u0631\u06cc\u06a9\u06cc\u0627\u0648\u06cc\u06a9"
+    "name:fas_x_preferred": [
+      "ریکیاویک"
     ],
-    "name:fin_x_preferred":[
-        "Reykjavik"
+    "name:fin_x_preferred": [
+      "Reykjavik"
     ],
-    "name:fin_x_variant":[
-        "Reykjav\u00edk"
+    "name:fin_x_variant": [
+      "Reykjavík"
     ],
-    "name:fra_x_preferred":[
-        "Reykjavik"
+    "name:fra_x_preferred": [
+      "Reykjavik"
     ],
-    "name:frr_x_preferred":[
-        "Reykjavik"
+    "name:frr_x_preferred": [
+      "Reykjavik"
     ],
-    "name:fry_x_preferred":[
-        "Reykjav\u00edk"
+    "name:fry_x_preferred": [
+      "Reykjavík"
     ],
-    "name:gla_x_preferred":[
-        "Reykjav\u00edk"
+    "name:gla_x_preferred": [
+      "Reykjavík"
     ],
-    "name:gle_x_preferred":[
-        "R\u00e9iciv\u00edc"
+    "name:gle_x_preferred": [
+      "Réicivíc"
     ],
-    "name:glg_x_preferred":[
-        "Reiquiavik"
+    "name:glg_x_preferred": [
+      "Reiquiavik"
     ],
-    "name:glv_x_preferred":[
-        "Reykjav\u00edk"
+    "name:glv_x_preferred": [
+      "Reykjavík"
     ],
-    "name:gsw_x_preferred":[
-        "Reykjav\u00edk"
+    "name:gsw_x_preferred": [
+      "Reykjavík"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab0\u0abf\u0a95\u0abf\u0aaf\u0ab5\u0abf\u0a95"
+    "name:guj_x_preferred": [
+      "રિકિયવિક"
     ],
-    "name:hak_x_preferred":[
-        "Reykjav\u00edk"
+    "name:hak_x_preferred": [
+      "Reykjavík"
     ],
-    "name:hat_x_preferred":[
-        "R\u00e8kyavik"
+    "name:hat_x_preferred": [
+      "Rèkyavik"
     ],
-    "name:haw_x_preferred":[
-        "Reykjav\u00edk"
+    "name:haw_x_preferred": [
+      "Reykjavík"
     ],
-    "name:hbs_x_preferred":[
-        "Rejkjavik"
+    "name:hbs_x_preferred": [
+      "Rejkjavik"
     ],
-    "name:heb_x_preferred":[
-        "\u05e8\u05d9\u05d9\u05e7\u05d9\u05d0\u05d5\u05d5\u05d9\u05e7"
+    "name:heb_x_preferred": [
+      "רייקיאוויק"
     ],
-    "name:hif_x_preferred":[
-        "Reykjav\u00edk"
+    "name:hif_x_preferred": [
+      "Reykjavík"
     ],
-    "name:hin_x_preferred":[
-        "\u0930\u0947\u0915\u094d\u091c\u093e\u0935\u093f\u0915"
+    "name:hin_x_preferred": [
+      "रेक्जाविक"
     ],
-    "name:hrv_x_preferred":[
-        "Reykjavik"
+    "name:hrv_x_preferred": [
+      "Reykjavik"
     ],
-    "name:hsb_x_preferred":[
-        "Reykjav\u00edk"
+    "name:hsb_x_preferred": [
+      "Reykjavík"
     ],
-    "name:hun_x_preferred":[
-        "Reykjav\u00edk"
+    "name:hun_x_preferred": [
+      "Reykjavík"
     ],
-    "name:hye_x_preferred":[
-        "\u054c\u0565\u0575\u056f\u0575\u0561\u057e\u056b\u056f"
+    "name:hye_x_preferred": [
+      "Ռեյկյավիկ"
     ],
-    "name:hyw_x_preferred":[
-        "\u054c\u0565\u0575\u0584\u056b\u0561\u057e\u056b\u0584"
+    "name:hyw_x_preferred": [
+      "Ռեյքիավիք"
     ],
-    "name:ido_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ido_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ile_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ile_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ilo_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ilo_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ina_x_preferred":[
-        "Reykjavik"
+    "name:ina_x_preferred": [
+      "Reykjavik"
     ],
-    "name:ind_x_preferred":[
-        "Reykjavik"
+    "name:ind_x_preferred": [
+      "Reykjavik"
     ],
-    "name:ind_x_variant":[
-        "Reykjav\u00edk"
+    "name:ind_x_variant": [
+      "Reykjavík"
     ],
-    "name:isl_x_preferred":[
-        "Reykjav\u00edk"
+    "name:isl_x_preferred": [
+      "Reykjavík"
     ],
-    "name:isl_x_variant":[
-        "Reykjav\u00edkur"
+    "name:isl_x_variant": [
+      "Reykjavíkur"
     ],
-    "name:ita_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ita_x_preferred": [
+      "Reykjavík"
     ],
-    "name:jav_x_preferred":[
-        "Reykjav\u00edk"
+    "name:jav_x_preferred": [
+      "Reykjavík"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ec\u30a4\u30ad\u30e3\u30d3\u30fc\u30af"
+    "name:jpn_x_preferred": [
+      "レイキャビーク"
     ],
-    "name:jpn_x_variant":[
-        "\u30ec\u30a4\u30ad\u30e3\u30d3\u30af",
-        "\u30ec\u30a4\u30ad\u30e3\u30d3\u30c3\u30af",
-        "\u30ec\u30a4\u30ad\u30e3\u30f4\u30a3\u30fc\u30af"
+    "name:jpn_x_variant": [
+      "レイキャビク",
+      "レイキャビック",
+      "レイキャヴィーク"
     ],
-    "name:kab_x_preferred":[
-        "Reykyabik"
+    "name:kab_x_preferred": [
+      "Reykyabik"
     ],
-    "name:kal_x_preferred":[
-        "Reykjav\u00edk"
+    "name:kal_x_preferred": [
+      "Reykjavík"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb0\u0cc7\u0c95\u0cc6\u0cb5\u0cbf\u0c95\u0ccd"
+    "name:kan_x_preferred": [
+      "ರೇಕೆವಿಕ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    "name:kat_x_preferred": [
+      "ქართული"
     ],
-    "name:kat_x_variant":[
-        "\u10e0\u10d4\u10d8\u10d9\u10d8\u10d0\u10d5\u10d8\u10d9\u10d8"
+    "name:kat_x_variant": [
+      "რეიკიავიკი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u0438\u044f\u0432\u0438\u043a"
+    "name:kaz_x_preferred": [
+      "Рейкиявик"
     ],
-    "name:kbp_x_preferred":[
-        "Reyikzaavikii"
+    "name:kbp_x_preferred": [
+      "Reyikzaavikii"
     ],
-    "name:kir_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:kir_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:kom_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:kom_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:kor_x_preferred":[
-        "\ub808\uc774\uceac\ube44\ud06c"
+    "name:kor_x_preferred": [
+      "레이캬비크"
     ],
-    "name:kur_x_preferred":[
-        "Reykjavik"
+    "name:kur_x_preferred": [
+      "Reykjavik"
     ],
-    "name:lad_x_preferred":[
-        "Reikiavik"
+    "name:lad_x_preferred": [
+      "Reikiavik"
     ],
-    "name:lat_x_preferred":[
-        "Reiciavicia"
+    "name:lat_x_preferred": [
+      "Reiciavicia"
     ],
-    "name:lat_x_variant":[
-        "Reykiavica"
+    "name:lat_x_variant": [
+      "Reykiavica"
     ],
-    "name:lav_x_preferred":[
-        "Reikjav\u012bka"
+    "name:lav_x_preferred": [
+      "Reikjavīka"
     ],
-    "name:lfn_x_preferred":[
-        "Reykjavik"
+    "name:lfn_x_preferred": [
+      "Reykjavik"
     ],
-    "name:lij_x_preferred":[
-        "Reykjav\u00edk"
+    "name:lij_x_preferred": [
+      "Reykjavík"
     ],
-    "name:lim_x_preferred":[
-        "Reykjav\u00edk"
+    "name:lim_x_preferred": [
+      "Reykjavík"
     ],
-    "name:lin_x_preferred":[
-        "Reykjav\u00edk"
+    "name:lin_x_preferred": [
+      "Reykjavík"
     ],
-    "name:lit_x_preferred":[
-        "Reikjavikas"
+    "name:lit_x_preferred": [
+      "Reikjavikas"
     ],
-    "name:lmo_x_preferred":[
-        "Reykjavik"
+    "name:lmo_x_preferred": [
+      "Reykjavik"
     ],
-    "name:lrc_x_preferred":[
-        "\u0631\u06cc\u06a9\u0627\u0648\u06cc\u06a9"
+    "name:lrc_x_preferred": [
+      "ریکاویک"
     ],
-    "name:ltz_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ltz_x_preferred": [
+      "Reykjavík"
     ],
-    "name:mal_x_preferred":[
-        "\u0d31\u0d46\u0d2f\u0d3f\u0d15\u0d4d\u0d2f\u0d3e\u0d35\u0d3f\u0d15\u0d4d"
+    "name:mal_x_preferred": [
+      "റെയിക്യാവിക്"
     ],
-    "name:mar_x_preferred":[
-        "\u0930\u0947\u0915\u094d\u092f\u093e\u0935\u093f\u0915"
+    "name:mar_x_preferred": [
+      "रेक्याविक"
     ],
-    "name:mhr_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:mhr_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:mkd_x_preferred":[
-        "\u0420\u0435\u0458\u043a\u0458\u0430\u0432\u0438\u043a"
+    "name:mkd_x_preferred": [
+      "Рејкјавик"
     ],
-    "name:mlg_x_preferred":[
-        "Reykjav\u00edk"
+    "name:mlg_x_preferred": [
+      "Reykjavík"
     ],
-    "name:mlt_x_preferred":[
-        "Rejkjavik"
+    "name:mlt_x_preferred": [
+      "Rejkjavik"
     ],
-    "name:mlt_x_variant":[
-        "Reykjavik"
+    "name:mlt_x_variant": [
+      "Reykjavik"
     ],
-    "name:mon_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:mon_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:mri_x_preferred":[
-        "Reykjavik"
+    "name:mri_x_preferred": [
+      "Reykjavik"
     ],
-    "name:msa_x_preferred":[
-        "Reykjav\u00edk"
+    "name:msa_x_preferred": [
+      "Reykjavík"
     ],
-    "name:myv_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a \u043e\u0448"
+    "name:myv_x_preferred": [
+      "Рейкьявик ош"
     ],
-    "name:nah_x_preferred":[
-        "Reikiavik"
+    "name:nah_x_preferred": [
+      "Reikiavik"
     ],
-    "name:nan_x_preferred":[
-        "Reykjav\u00edk"
+    "name:nan_x_preferred": [
+      "Reykjavík"
     ],
-    "name:nau_x_preferred":[
-        "Reykjav\u00edk"
+    "name:nau_x_preferred": [
+      "Reykjavík"
     ],
-    "name:nds_x_preferred":[
-        "Reykjavik"
+    "name:nds_x_preferred": [
+      "Reykjavik"
     ],
-    "name:nds_x_variant":[
-        "Reykjav\u00edk"
+    "name:nds_x_variant": [
+      "Reykjavík"
     ],
-    "name:nld_x_preferred":[
-        "Reykjavik"
+    "name:nld_x_preferred": [
+      "Reykjavik"
     ],
-    "name:nno_x_preferred":[
-        "Reykjav\u00edk"
+    "name:nno_x_preferred": [
+      "Reykjavík"
     ],
-    "name:nob_x_preferred":[
-        "Reykjav\u00edk"
+    "name:nob_x_preferred": [
+      "Reykjavík"
     ],
-    "name:nor_x_preferred":[
-        "Reykjavik"
+    "name:nor_x_preferred": [
+      "Reykjavik"
     ],
-    "name:nor_x_variant":[
-        "Reykjav\u00edk"
+    "name:nor_x_variant": [
+      "Reykjavík"
     ],
-    "name:nov_x_preferred":[
-        "Reykjav\u00edk"
+    "name:nov_x_preferred": [
+      "Reykjavík"
     ],
-    "name:oci_x_preferred":[
-        "Reykjav\u00edk"
+    "name:oci_x_preferred": [
+      "Reykjavík"
     ],
-    "name:olo_x_preferred":[
-        "Reikjavik"
+    "name:olo_x_preferred": [
+      "Reikjavik"
     ],
-    "name:ori_x_preferred":[
-        "\u0b30\u0b47\u0b15\u0b4d\u0b1c\u0b3e\u0b2d\u0b3f\u0b15"
+    "name:ori_x_preferred": [
+      "ରେକ୍ଜାଭିକ"
     ],
-    "name:oss_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:oss_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:pan_x_preferred":[
-        "\u0a30\u0a47\u0a15\u0a3f\u0a06\u0a35\u0a3f\u0a15"
+    "name:pan_x_preferred": [
+      "ਰੇਕਿਆਵਿਕ"
     ],
-    "name:pap_x_preferred":[
-        "Reykjav\u00edk"
+    "name:pap_x_preferred": [
+      "Reykjavík"
     ],
-    "name:pih_x_preferred":[
-        "Reykjav\u00edk"
+    "name:pih_x_preferred": [
+      "Reykjavík"
     ],
-    "name:pms_x_preferred":[
-        "Reykjav\u00edk"
+    "name:pms_x_preferred": [
+      "Reykjavík"
     ],
-    "name:pnb_x_preferred":[
-        "\u0631\u06cc\u06a9\u062c\u0627\u0648\u06a9"
+    "name:pnb_x_preferred": [
+      "ریکجاوک"
     ],
-    "name:pol_x_preferred":[
-        "Reykjav\u00edk"
+    "name:pol_x_preferred": [
+      "Reykjavík"
     ],
-    "name:por_br_x_preferred":[
-        "Reykjav\u00edk"
+    "name:por_br_x_preferred": [
+      "Reykjavík"
     ],
-    "name:por_x_preferred":[
-        "Reiquiavique"
+    "name:por_x_preferred": [
+      "Reiquiavique"
     ],
-    "name:por_x_variant":[
-        "Reykjav\u00edk"
+    "name:por_x_variant": [
+      "Reykjavík"
     ],
-    "name:que_x_preferred":[
-        "Reykjav\u00edk"
+    "name:que_x_preferred": [
+      "Reykjavík"
     ],
-    "name:ron_x_preferred":[
-        "Reykjav\u00edk"
+    "name:ron_x_preferred": [
+      "Reykjavík"
     ],
-    "name:rue_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:rue_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:rup_x_preferred":[
-        "Reikiavic"
+    "name:rup_x_preferred": [
+      "Reikiavic"
     ],
-    "name:rus_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:rus_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:sag_x_preferred":[
-        "Reykjavik"
+    "name:sag_x_preferred": [
+      "Reykjavik"
     ],
-    "name:sah_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:sah_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:scn_x_preferred":[
-        "Reykjav\u00edk"
+    "name:scn_x_preferred": [
+      "Reykjavík"
     ],
-    "name:sco_x_preferred":[
-        "Reykjav\u00edk"
+    "name:sco_x_preferred": [
+      "Reykjavík"
     ],
-    "name:sgs_x_preferred":[
-        "R\u0117ikjav\u0117ks"
+    "name:sgs_x_preferred": [
+      "Rėikjavėks"
     ],
-    "name:sin_x_preferred":[
-        "\u0dbb\u0dda\u0d9a\u0dc0\u0dd2\u0d9a\u0dca"
+    "name:sin_x_preferred": [
+      "රේකවික්"
     ],
-    "name:slk_x_preferred":[
-        "Reykjav\u00edk"
+    "name:slk_x_preferred": [
+      "Reykjavík"
     ],
-    "name:slv_x_preferred":[
-        "Reykjavik"
+    "name:slv_x_preferred": [
+      "Reykjavik"
     ],
-    "name:slv_x_variant":[
-        "Reykjav\u00edk"
+    "name:slv_x_variant": [
+      "Reykjavík"
     ],
-    "name:sme_x_preferred":[
-        "Reykjav\u00edk"
+    "name:sme_x_preferred": [
+      "Reykjavík"
     ],
-    "name:sna_x_preferred":[
-        "Reykjav\u00edk"
+    "name:sna_x_preferred": [
+      "Reykjavík"
     ],
-    "name:sot_x_preferred":[
-        "Reykjav\u00edk"
+    "name:sot_x_preferred": [
+      "Reykjavík"
     ],
-    "name:spa_x_preferred":[
-        "Reikiavik"
+    "name:spa_x_preferred": [
+      "Reikiavik"
     ],
-    "name:sqi_x_preferred":[
-        "Reykjav\u00edk"
+    "name:sqi_x_preferred": [
+      "Reykjavík"
     ],
-    "name:srd_x_preferred":[
-        "Reykjav\u00edk"
+    "name:srd_x_preferred": [
+      "Reykjavík"
     ],
-    "name:srp_x_preferred":[
-        "\u0420\u0435\u0458\u043a\u0458\u0430\u0432\u0438\u043a"
+    "name:srp_x_preferred": [
+      "Рејкјавик"
     ],
-    "name:stq_x_preferred":[
-        "Reykjav\u00edk"
+    "name:stq_x_preferred": [
+      "Reykjavík"
     ],
-    "name:swa_x_preferred":[
-        "Reykjav\u00edk"
+    "name:swa_x_preferred": [
+      "Reykjavík"
     ],
-    "name:swe_x_preferred":[
-        "Reykjavik"
+    "name:swe_x_preferred": [
+      "Reykjavik"
     ],
-    "name:swe_x_variant":[
-        "Reykjav\u00edk"
+    "name:swe_x_variant": [
+      "Reykjavík"
     ],
-    "name:szl_x_preferred":[
-        "Reykjav\u00edk"
+    "name:szl_x_preferred": [
+      "Reykjavík"
     ],
-    "name:tam_x_preferred":[
-        "\u0bb0\u0bc6\u0baf\u0bcd\u0b95\u0bcd\u0baf\u0bb5\u0bbf\u0b95\u0bcd"
+    "name:tam_x_preferred": [
+      "ரெய்க்யவிக்"
     ],
-    "name:tat_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:tat_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:tel_x_preferred":[
-        "\u0c30\u0c47\u0c15\u0c35\u0c3f\u0c15\u0c4d"
+    "name:tel_x_preferred": [
+      "రేకవిక్"
     ],
-    "name:tet_x_preferred":[
-        "Reikiavike"
+    "name:tet_x_preferred": [
+      "Reikiavike"
     ],
-    "name:tgk_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044f\u0432\u0438\u043a"
+    "name:tgk_x_preferred": [
+      "Рейкявик"
     ],
-    "name:tgl_x_preferred":[
-        "Reikiavik"
+    "name:tgl_x_preferred": [
+      "Reikiavik"
     ],
-    "name:tgl_x_variant":[
-        "Reykjavik"
+    "name:tgl_x_variant": [
+      "Reykjavik"
     ],
-    "name:tha_x_preferred":[
-        "\u0e40\u0e23\u0e04\u0e22\u0e32\u0e27\u0e34\u0e01"
+    "name:tha_x_preferred": [
+      "เรคยาวิก"
     ],
-    "name:tpi_x_preferred":[
-        "Reykjavik"
+    "name:tpi_x_preferred": [
+      "Reykjavik"
     ],
-    "name:tuk_x_preferred":[
-        "Re\u00fdk\u00fdawik"
+    "name:tuk_x_preferred": [
+      "Reýkýawik"
     ],
-    "name:tur_x_preferred":[
-        "Reykjavik"
+    "name:tur_x_preferred": [
+      "Reykjavik"
     ],
-    "name:tur_x_variant":[
-        "Reykjav\u00edk"
+    "name:tur_x_variant": [
+      "Reykjavík"
     ],
-    "name:twi_x_preferred":[
-        "Reykjav\u00edk"
+    "name:twi_x_preferred": [
+      "Reykjavík"
     ],
-    "name:udm_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    "name:udm_x_preferred": [
+      "Рейкьявик"
     ],
-    "name:uig_x_preferred":[
-        "\u0631\u06d0\u064a\u0643\u064a\u0627\u06cb\u0649\u0643"
+    "name:uig_x_preferred": [
+      "رېيكياۋىك"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u0435\u0439\u043a\u044f\u0432\u0456\u043a"
+    "name:ukr_x_preferred": [
+      "Рейкявік"
     ],
-    "name:ukr_x_variant":[
-        "\u0420\u0435\u0439\u043a'\u044f\u0432\u0456\u043a"
+    "name:ukr_x_variant": [
+      "Рейк'явік"
     ],
-    "name:urd_x_preferred":[
-        "\u0631\u06cc\u06a9\u06cc\u0627\u0648\u06a9"
+    "name:urd_x_preferred": [
+      "ریکیاوک"
     ],
-    "name:uzb_x_preferred":[
-        "Reykyavik"
+    "name:uzb_x_preferred": [
+      "Reykyavik"
     ],
-    "name:vec_x_preferred":[
-        "Reykjavik"
+    "name:vec_x_preferred": [
+      "Reykjavik"
     ],
-    "name:vep_x_preferred":[
-        "Reikjavik"
+    "name:vep_x_preferred": [
+      "Reikjavik"
     ],
-    "name:vie_x_preferred":[
-        "Reykjav\u00edk"
+    "name:vie_x_preferred": [
+      "Reykjavík"
     ],
-    "name:vol_x_preferred":[
-        "Reykjav\u00edk"
+    "name:vol_x_preferred": [
+      "Reykjavík"
     ],
-    "name:vro_x_preferred":[
-        "Reykjav\u00edk"
+    "name:vro_x_preferred": [
+      "Reykjavík"
     ],
-    "name:war_x_preferred":[
-        "Reykjav\u00edk"
+    "name:war_x_preferred": [
+      "Reykjavík"
     ],
-    "name:wol_x_preferred":[
-        "Reykjawik"
+    "name:wol_x_preferred": [
+      "Reykjawik"
     ],
-    "name:wuu_x_preferred":[
-        "\u96f7\u514b\u96c5\u672a\u514b"
+    "name:wuu_x_preferred": [
+      "雷克雅未克"
     ],
-    "name:xmf_x_preferred":[
-        "\u10e0\u10d4\u10d8\u10d9\u10d8\u10d0\u10d5\u10d8\u10d9\u10d8"
+    "name:xmf_x_preferred": [
+      "რეიკიავიკი"
     ],
-    "name:yid_x_preferred":[
-        "\u05e8\u05e2\u05e7\u05d9\u05d0\u05d5\u05d5\u05d9\u05e7"
+    "name:yid_x_preferred": [
+      "רעקיאוויק"
     ],
-    "name:yor_x_preferred":[
-        "Reykjav\u00edk"
+    "name:yor_x_preferred": [
+      "Reykjavík"
     ],
-    "name:yue_x_preferred":[
-        "\u96f7\u514b\u96c5\u672a\u514b"
+    "name:yue_x_preferred": [
+      "雷克雅未克"
     ],
-    "name:zea_x_preferred":[
-        "Reykjav\u00edk"
+    "name:zea_x_preferred": [
+      "Reykjavík"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u96f7\u514b\u96c5\u672a\u514b"
+    "name:zho_cn_x_preferred": [
+      "雷克雅未克"
     ],
-    "name:zho_hk_x_preferred":[
-        "\u96f7\u514b\u96c5\u672a\u514b"
+    "name:zho_hk_x_preferred": [
+      "雷克雅未克"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u96f7\u514b\u96c5\u7dad\u514b"
+    "name:zho_tw_x_preferred": [
+      "雷克雅維克"
     ],
-    "name:zho_x_preferred":[
-        "\u96f7\u514b\u96c5\u7dad\u514b"
+    "name:zho_x_preferred": [
+      "雷克雅維克"
     ],
-    "name:zho_x_variant":[
-        "\u96f7\u514b\u96c5\u672a\u514b",
-        "\u96f7\u514b\u4e9e\u7dad\u514b"
+    "name:zho_x_variant": [
+      "雷克雅未克",
+      "雷克亞維克"
     ],
-    "ne:ADM0CAP":1.0,
-    "ne:ADM0NAME":"Iceland",
-    "ne:ADM0_A3":"ISL",
-    "ne:ADM1NAME":"Su\u00f0urnes",
-    "ne:ADMIN1_COD":39,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":1,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-0 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPLC",
-    "ne:GEONAMEID":3413829,
-    "ne:GEONAMESNO":"GeoNames match general.",
-    "ne:GN_ASCII":"Reykjavik",
-    "ne:GN_POP":113906,
-    "ne:GTOPO30":16.0,
-    "ne:ISO_A2":"IS",
-    "ne:LABELRANK":8,
-    "ne:LATITUDE":64.150024,
-    "ne:LONGITUDE":-21.950014,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Reykjavik",
-    "ne:MAX_AREAKM":75.0,
-    "ne:MAX_AREAMI":29.0,
-    "ne:MAX_BBXMAX":-21.75,
-    "ne:MAX_BBXMIN":-22.008333,
-    "ne:MAX_BBYMAX":64.166667,
-    "ne:MAX_BBYMIN":64.05,
-    "ne:MAX_NATSCA":100.0,
-    "ne:MAX_PERKM":119.0,
-    "ne:MAX_PERMI":74.0,
-    "ne:MAX_POP10":166212,
-    "ne:MAX_POP20":166212,
-    "ne:MAX_POP300":166212,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":166212,
-    "ne:MEAN_BBXC":-21.8825,
-    "ne:MEAN_BBYC":64.116125,
-    "ne:MEGACITY":0,
-    "ne:MEGANAME":null,
-    "ne:MIN_AREAKM":75.0,
-    "ne:MIN_AREAMI":29.0,
-    "ne:MIN_BBXMAX":-21.75,
-    "ne:MIN_BBXMIN":-22.008333,
-    "ne:MIN_BBYMAX":64.166667,
-    "ne:MIN_BBYMIN":64.05,
-    "ne:MIN_PERKM":119.0,
-    "ne:MIN_PERMI":74.0,
-    "ne:NAME":"Reykjav\u00edk",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Reykjavik",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":110,
-    "ne:NOTE":null,
-    "ne:POP1950":0,
-    "ne:POP1955":0,
-    "ne:POP1960":0,
-    "ne:POP1965":0,
-    "ne:POP1970":0,
-    "ne:POP1975":0,
-    "ne:POP1980":0,
-    "ne:POP1985":0,
-    "ne:POP1990":0,
-    "ne:POP1995":0,
-    "ne:POP2000":0,
-    "ne:POP2005":0,
-    "ne:POP2010":0,
-    "ne:POP2015":0,
-    "ne:POP2020":0,
-    "ne:POP2025":0,
-    "ne:POP2050":0,
-    "ne:POP_MAX":166212,
-    "ne:POP_MIN":113906,
-    "ne:POP_OTHER":160116,
-    "ne:RANK_MAX":9,
-    "ne:RANK_MIN":9,
-    "ne:SCALERANK":3,
-    "ne:SOV0NAME":"Iceland",
-    "ne:SOV_A3":"ISL",
-    "ne:TIMEZONE":"Atlantic/Reykjavik",
-    "ne:UN_ADM0":null,
-    "ne:UN_FID":0,
-    "ne:UN_LAT":0.0,
-    "ne:UN_LONG":0.0,
-    "ne:WORLDCITY":0,
-    "qs:a0":"\u00cdsland",
-    "qs:a1":"*",
-    "qs:a1r":"0",
-    "qs:adm0":"\u00cdsland",
-    "qs:la":"Mosfellsb\u00e6r",
-    "qs:la_lc":"*IS011604",
-    "qs:level":"locality",
-    "qs:loc":"Reykjav\u00edk",
-    "qs:loc_alt":"Reykjavik",
-    "qs:pop":0,
-    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "sfomuseum:placetype":"city",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "ne:ADM0CAP": 1,
+    "ne:ADM0NAME": "Iceland",
+    "ne:ADM0_A3": "ISL",
+    "ne:ADM1NAME": "Suðurnes",
+    "ne:ADMIN1_COD": 39,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 1,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-0 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLC",
+    "ne:GEONAMEID": 3413829,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Reykjavik",
+    "ne:GN_POP": 113906,
+    "ne:GTOPO30": 16,
+    "ne:ISO_A2": "IS",
+    "ne:LABELRANK": 8,
+    "ne:LATITUDE": 64.150024,
+    "ne:LONGITUDE": -21.950014,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Reykjavik",
+    "ne:MAX_AREAKM": 75,
+    "ne:MAX_AREAMI": 29,
+    "ne:MAX_BBXMAX": -21.75,
+    "ne:MAX_BBXMIN": -22.008333,
+    "ne:MAX_BBYMAX": 64.166667,
+    "ne:MAX_BBYMIN": 64.05,
+    "ne:MAX_NATSCA": 100,
+    "ne:MAX_PERKM": 119,
+    "ne:MAX_PERMI": 74,
+    "ne:MAX_POP10": 166212,
+    "ne:MAX_POP20": 166212,
+    "ne:MAX_POP300": 166212,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 166212,
+    "ne:MEAN_BBXC": -21.8825,
+    "ne:MEAN_BBYC": 64.116125,
+    "ne:MEGACITY": 0,
+    "ne:MEGANAME": null,
+    "ne:MIN_AREAKM": 75,
+    "ne:MIN_AREAMI": 29,
+    "ne:MIN_BBXMAX": -21.75,
+    "ne:MIN_BBXMIN": -22.008333,
+    "ne:MIN_BBYMAX": 64.166667,
+    "ne:MIN_BBYMIN": 64.05,
+    "ne:MIN_PERKM": 119,
+    "ne:MIN_PERMI": 74,
+    "ne:NAME": "Reykjavík",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Reykjavik",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 110,
+    "ne:NOTE": null,
+    "ne:POP1950": 0,
+    "ne:POP1955": 0,
+    "ne:POP1960": 0,
+    "ne:POP1965": 0,
+    "ne:POP1970": 0,
+    "ne:POP1975": 0,
+    "ne:POP1980": 0,
+    "ne:POP1985": 0,
+    "ne:POP1990": 0,
+    "ne:POP1995": 0,
+    "ne:POP2000": 0,
+    "ne:POP2005": 0,
+    "ne:POP2010": 0,
+    "ne:POP2015": 0,
+    "ne:POP2020": 0,
+    "ne:POP2025": 0,
+    "ne:POP2050": 0,
+    "ne:POP_MAX": 166212,
+    "ne:POP_MIN": 113906,
+    "ne:POP_OTHER": 160116,
+    "ne:RANK_MAX": 9,
+    "ne:RANK_MIN": 9,
+    "ne:SCALERANK": 3,
+    "ne:SOV0NAME": "Iceland",
+    "ne:SOV_A3": "ISL",
+    "ne:TIMEZONE": "Atlantic/Reykjavik",
+    "ne:UN_ADM0": null,
+    "ne:UN_FID": 0,
+    "ne:UN_LAT": 0,
+    "ne:UN_LONG": 0,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "Ísland",
+    "qs:a1": "*",
+    "qs:a1r": "0",
+    "qs:adm0": "Ísland",
+    "qs:la": "Mosfellsbær",
+    "qs:la_lc": "*IS011604",
+    "qs:level": "locality",
+    "qs:loc": "Reykjavík",
+    "qs:loc_alt": "Reykjavik",
+    "qs:pop": 0,
+    "qs:source": "LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        102191581,
-        85633249,
-        85672493
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      102191581,
+      85633249,
+      85672493
     ],
-    "wof:breaches":[],
-    "wof:capital_of":85633249,
-    "wof:concordances":{
-        "dbp:id":"Reykjavik",
-        "fb:id":"en.reykjavik",
-        "fct:id":"129c39e8-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":3413829,
-        "gp:id":980389,
-        "nyt:id":"79676752114186968341",
-        "qs_pg:id":806747,
-        "wd:id":"Q1764",
-        "wk:page":"Reykjav\u00edk"
+    "wof:breaches": [],
+    "wof:capital_of": 85633249,
+    "wof:concordances": {
+      "dbp:id": "Reykjavik",
+      "fb:id": "en.reykjavik",
+      "fct:id": "129c39e8-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 3413829,
+      "gp:id": 980389,
+      "nyt:id": "79676752114186968341",
+      "qs_pg:id": 806747,
+      "wd:id": "Q1764",
+      "wk:page": "Reykjavík"
     },
-    "wof:country":"IS",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "IS",
+    "wof:created": 1624906516,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"03a9224b8071160e9deb0e50585a56e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633249,
-            "locality_id":101751753,
-            "region_id":85672493
-        }
+    "wof:geomhash": "03a9224b8071160e9deb0e50585a56e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633249,
+        "locality_id": 101751753,
+        "region_id": 85672493
+      }
     ],
-    "wof:id":101751753,
-    "wof:lang":[
-        "unk"
+    "wof:id": 101751753,
+    "wof:lang": [
+      "unk"
     ],
-    "wof:lastmodified":1611601206,
-    "wof:megacity":0,
-    "wof:name":"Reykjavik",
-    "wof:parent_id":85672493,
-    "wof:placetype":"locality",
-    "wof:population":118918,
-    "wof:population_rank":9,
-    "wof:repo":"whosonfirst-data-admin-is",
-    "wof:scale":3,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1624906516,
+    "wof:megacity": 0,
+    "wof:name": "Reykjavik",
+    "wof:parent_id": 85672493,
+    "wof:placetype": "locality",
+    "wof:population": 118918,
+    "wof:population_rank": 9,
+    "wof:repo": "whosonfirst-data-admin-is",
+    "wof:scale": 3,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -22.036844,
     64.089428,
     -21.708679,
     64.174827
-],
-  "geometry": {"coordinates":[[[-21.709534,64.174239],[-21.712674,64.173164],[-21.715421,64.172729],[-21.724122,64.171645],[-21.726705,64.171459],[-21.726635,64.171188],[-21.728236,64.17104399999999],[-21.730643,64.16892300000001],[-21.732914,64.167822],[-21.733085,64.16702600000001],[-21.733599,64.167445],[-21.744631,64.165063],[-21.742685,64.163477],[-21.746361,64.162683],[-21.744415,64.161097],[-21.745937,64.160769],[-21.744484,64.160285],[-21.746223,64.15877999999999],[-21.745173,64.15792500000001],[-21.747011,64.157528],[-21.746038,64.156735],[-21.749714,64.155941],[-21.748741,64.155148],[-21.750579,64.154751],[-21.749607,64.153958],[-21.751444,64.153561],[-21.744636,64.148011],[-21.750148,64.14681899999999],[-21.749176,64.146027],[-21.751013,64.145629],[-21.752958,64.147215],[-21.767435,64.144085],[-21.760446,64.141423],[-21.7596,64.14110100000001],[-21.759469,64.13978899999999],[-21.758146,64.140075],[-21.750368,64.13373300000001],[-21.754041,64.132938],[-21.750566,64.13010300000001],[-21.748425,64.13014099999999],[-21.748317,64.13016399999999],[-21.748292,64.130143],[-21.748251,64.130144],[-21.74152,64.12931],[-21.737772,64.128507],[-21.736131,64.12778400000001],[-21.736114,64.127788],[-21.736085,64.127764],[-21.734285,64.12697],[-21.734691,64.126625],[-21.734172,64.12620200000001],[-21.735539,64.125906],[-21.73583,64.125659],[-21.735037,64.125012],[-21.746053,64.12263],[-21.746257,64.12279599999999],[-21.751696,64.12241299999999],[-21.754368,64.121835],[-21.753397,64.121042],[-21.755232,64.120645],[-21.753289,64.11905899999999],[-21.756961,64.11826499999999],[-21.757932,64.119058],[-21.759768,64.11866000000001],[-21.760739,64.11945299999999],[-21.76441,64.11865899999999],[-21.765382,64.119452],[-21.770888,64.11826000000001],[-21.769916,64.117467],[-21.773587,64.11667199999999],[-21.772615,64.11588],[-21.77445,64.115482],[-21.771535,64.11310400000001],[-21.775205,64.11230999999999],[-21.776176,64.113102],[-21.778017,64.112703],[-21.779085,64.110855],[-21.773857,64.107399],[-21.775608,64.105617],[-21.775069,64.105453],[-21.774761,64.105384],[-21.773908,64.105569],[-21.773267,64.105046],[-21.77318,64.105026],[-21.770389,64.104325],[-21.770131,64.104381],[-21.769916,64.104206],[-21.768246,64.103786],[-21.767325,64.10398499999999],[-21.766562,64.103362],[-21.763959,64.10270800000001],[-21.763548,64.102797],[-21.763208,64.102519],[-21.761815,64.102169],[-21.760743,64.102401],[-21.759855,64.101676],[-21.759671,64.10163],[-21.757937,64.102006],[-21.756967,64.101213],[-21.758801,64.10081599999999],[-21.75783,64.10002299999999],[-21.762864,64.098933],[-21.762921,64.098888],[-21.762989,64.098906],[-21.763333,64.098831],[-21.763638,64.09908],[-21.765056,64.09946100000001],[-21.775309,64.097241],[-21.771425,64.09407],[-21.773259,64.093672],[-21.772288,64.09287999999999],[-21.774122,64.092482],[-21.773151,64.09169],[-21.774985,64.091292],[-21.775955,64.092085],[-21.777789,64.091688],[-21.781673,64.094858],[-21.787174,64.093666],[-21.788146,64.094459],[-21.790173,64.094019],[-21.792518,64.09351100000001],[-21.794073,64.09493399999999],[-21.800237,64.097092],[-21.812294,64.098094],[-21.813955,64.09533],[-21.827555,64.092142],[-21.836078,64.089428],[-21.862465,64.097086],[-21.86661,64.104461],[-21.845516,64.113022],[-21.84677,64.118078],[-21.85607,64.117769],[-21.867769,64.11824],[-21.869992,64.117546],[-21.881777,64.11703900000001],[-21.892133,64.116928],[-21.900239,64.118584],[-21.903847,64.119507],[-21.90464,64.11931300000001],[-21.904895,64.11951999999999],[-21.907696,64.119553],[-21.911021,64.119484],[-21.915612,64.11940800000001],[-21.915963,64.12089400000001],[-21.91774,64.120508],[-21.918716,64.12129899999999],[-21.922383,64.120501],[-21.92336,64.12129299999999],[-21.925193,64.12089400000001],[-21.926169,64.121685],[-21.93167,64.12048799999999],[-21.932646,64.12128],[-21.938146,64.120082],[-21.944008,64.124831],[-21.945841,64.124432],[-21.946819,64.12522300000001],[-21.948652,64.124824],[-21.950542,64.12635400000001],[-21.952324,64.12578600000001],[-21.952329,64.12578499999999],[-21.956653,64.12632000000001],[-21.959709,64.12743399999999],[-21.962089,64.129524],[-21.962832,64.130737],[-21.963575,64.13195],[-21.965623,64.134666],[-21.967803,64.136993],[-21.969111,64.139343],[-21.972198,64.141296],[-21.974895,64.14252399999999],[-21.977577,64.14331799999999],[-21.983176,64.145427],[-21.983376,64.145383],[-21.983651,64.145606],[-21.984866,64.146063],[-21.986189,64.145775],[-21.988112,64.147328],[-21.989793,64.148003],[-21.990961,64.147749],[-21.991941,64.14854],[-21.993775,64.14814],[-21.994755,64.148931],[-21.996589,64.14853100000001],[-21.997569,64.149322],[-21.999403,64.148922],[-22.000383,64.14971300000001],[-22.002217,64.14931300000001],[-22.006027,64.152389],[-22.007815,64.153029],[-22.007818,64.153031],[-22.008854,64.15389399999999],[-22.009931,64.153659],[-22.010911,64.15445099999999],[-22.012746,64.15405],[-22.013726,64.154841],[-22.015561,64.15444100000001],[-22.016541,64.155232],[-22.025712,64.15323100000001],[-22.024732,64.15244],[-22.026566,64.152039],[-22.024605,64.150458],[-22.030106,64.14925599999999],[-22.034029,64.15242000000001],[-22.035863,64.15201999999999],[-22.036844,64.15281],[-22.03501,64.153211],[-22.035991,64.15400200000001],[-22.032323,64.154803],[-22.031342,64.15401199999999],[-22.016668,64.157214],[-22.017648,64.158005],[-22.015814,64.158406],[-22.016794,64.15919700000001],[-22.01496,64.15959700000001],[-22.016921,64.161179],[-22.015086,64.161579],[-22.016067,64.16237],[-22.012397,64.16317100000001],[-22.011416,64.16238],[-22.009581,64.16278],[-22.008601,64.16198900000001],[-22.006766,64.162389],[-22.004786,64.160791],[-22.000607,64.16119399999999],[-21.998338,64.161559],[-21.994187,64.160141],[-21.991769,64.15842499999999],[-21.991147,64.15775600000001],[-21.98975,64.15806000000001],[-21.984852,64.154104],[-21.986356,64.15377599999999],[-21.985686,64.15332100000001],[-21.982799,64.152427],[-21.98022,64.151191],[-21.976644,64.15052799999999],[-21.971033,64.150688],[-21.967322,64.151596],[-21.962536,64.15332100000001],[-21.957258,64.154876],[-21.955891,64.155173],[-21.956102,64.155343],[-21.954266,64.155743],[-21.955245,64.15653399999999],[-21.946068,64.15853199999999],[-21.947047,64.159323],[-21.945211,64.159723],[-21.94619,64.16051400000001],[-21.944354,64.16091400000001],[-21.943376,64.160122],[-21.937868,64.16132],[-21.93689,64.160529],[-21.935054,64.160928],[-21.934076,64.16013599999999],[-21.93224,64.16053599999999],[-21.931262,64.159744],[-21.929426,64.16014300000001],[-21.928448,64.159352],[-21.933955,64.158154],[-21.932977,64.15736200000001],[-21.936648,64.156564],[-21.926869,64.14864799999999],[-21.925033,64.149047],[-21.923409,64.147732],[-21.922347,64.147623],[-21.921243,64.147863],[-21.920745,64.147459],[-21.919117,64.14729199999999],[-21.913851,64.14708],[-21.909766,64.147346],[-21.909135,64.14748299999999],[-21.909025,64.14739400000001],[-21.903169,64.14777599999999],[-21.902652,64.14788799999999],[-21.902622,64.147863],[-21.895624,64.149917],[-21.891154,64.152405],[-21.88725,64.155151],[-21.883995,64.156288],[-21.880512,64.156616],[-21.87524,64.15585],[-21.871559,64.156649],[-21.870583,64.155857],[-21.865074,64.15705199999999],[-21.862146,64.15467599999999],[-21.860309,64.155075],[-21.858357,64.15349000000001],[-21.856521,64.15388900000001],[-21.855545,64.153097],[-21.857381,64.152698],[-21.856406,64.151906],[-21.858242,64.15150800000001],[-21.856933,64.150445],[-21.853696,64.149483],[-21.84797,64.15072499999999],[-21.845044,64.148348],[-21.843208,64.148746],[-21.840282,64.14637],[-21.838446,64.14676799999999],[-21.837471,64.145976],[-21.839307,64.145577],[-21.837357,64.14399299999999],[-21.839193,64.143595],[-21.837244,64.14201],[-21.837914,64.141865],[-21.837512,64.141487],[-21.83712,64.140232],[-21.836728,64.138977],[-21.836656,64.13775200000001],[-21.836042,64.137253],[-21.83662,64.137128],[-21.836563,64.136162],[-21.83744,64.134609],[-21.835815,64.13328799999999],[-21.83398,64.133686],[-21.832031,64.13210100000001],[-21.826525,64.133295],[-21.827499,64.13408800000001],[-21.825664,64.134485],[-21.826638,64.135278],[-21.821131,64.136472],[-21.826976,64.141226],[-21.82514,64.14162399999999],[-21.827089,64.143208],[-21.823417,64.144004],[-21.824391,64.144797],[-21.822555,64.145195],[-21.82353,64.14598700000001],[-21.821693,64.146385],[-21.822668,64.147177],[-21.820831,64.147575],[-21.821806,64.148368],[-21.819969,64.14876599999999],[-21.823868,64.15193499999999],[-21.820195,64.152731],[-21.821169,64.15352300000001],[-21.817496,64.154319],[-21.81847,64.15511100000001],[-21.816633,64.155509],[-21.814684,64.153925],[-21.799987,64.157107],[-21.799013,64.15631399999999],[-21.797175,64.156712],[-21.796201,64.15591999999999],[-21.788852,64.15751],[-21.786904,64.155925],[-21.781391,64.157117],[-21.780418,64.156325],[-21.776742,64.15712000000001],[-21.775769,64.156327],[-21.770256,64.15751899999999],[-21.769282,64.156727],[-21.761931,64.158316],[-21.762905,64.159109],[-21.755553,64.160698],[-21.756526,64.16149],[-21.751011,64.162682],[-21.751984,64.16347500000001],[-21.748308,64.164269],[-21.754148,64.169026],[-21.748632,64.17021699999999],[-21.747658,64.169425],[-21.74582,64.169822],[-21.744846,64.16902899999999],[-21.743007,64.169426],[-21.742034,64.168633],[-21.73284,64.170618],[-21.733813,64.17141100000001],[-21.731974,64.171808],[-21.732947,64.172601],[-21.72559,64.174188],[-21.724617,64.173395],[-21.719099,64.17458600000001],[-21.718126,64.173793],[-21.716287,64.17419],[-21.715314,64.173396],[-21.708679,64.17482699999999],[-21.709534,64.174239]],[[-21.805135,64.132914],[-21.810642,64.131721],[-21.807722,64.12934300000001],[-21.805887,64.129741],[-21.804447,64.128569],[-21.802833,64.128396],[-21.802104,64.12855399999999],[-21.801771,64.128282],[-21.801699,64.128274],[-21.800217,64.127959],[-21.799296,64.128159],[-21.798638,64.127623],[-21.797881,64.12746199999999],[-21.792816,64.128559],[-21.790377,64.126572],[-21.789454,64.126278],[-21.786226,64.126977],[-21.785254,64.12618399999999],[-21.772403,64.12896600000001],[-21.77532,64.131344],[-21.786336,64.12895899999999],[-21.787309,64.129752],[-21.79098,64.128957],[-21.793899,64.13133500000001],[-21.795735,64.130937],[-21.796708,64.13173],[-21.80038,64.130934],[-21.802326,64.132519],[-21.804162,64.132121],[-21.805135,64.132914]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-21.709534,64.174239],[-21.712674,64.173164],[-21.715421,64.172729],[-21.724122,64.171645],[-21.726705,64.171459],[-21.726635,64.171188],[-21.728236,64.171044],[-21.730643,64.168923],[-21.732914,64.167822],[-21.733085,64.167026],[-21.733599,64.167445],[-21.744631,64.165063],[-21.742685,64.163477],[-21.746361,64.162683],[-21.744415,64.161097],[-21.745937,64.160769],[-21.744484,64.160285],[-21.746223,64.15878],[-21.745173,64.157925],[-21.747011,64.157528],[-21.746038,64.156735],[-21.749714,64.155941],[-21.748741,64.155148],[-21.750579,64.154751],[-21.749607,64.153958],[-21.751444,64.153561],[-21.744636,64.148011],[-21.750148,64.146819],[-21.749176,64.146027],[-21.751013,64.145629],[-21.752958,64.147215],[-21.767435,64.144085],[-21.760446,64.141423],[-21.7596,64.141101],[-21.759469,64.139789],[-21.758146,64.140075],[-21.750368,64.133733],[-21.754041,64.132938],[-21.750566,64.130103],[-21.748425,64.130141],[-21.748317,64.130164],[-21.748292,64.130143],[-21.748251,64.130144],[-21.74152,64.12931],[-21.737772,64.128507],[-21.736131,64.127784],[-21.736114,64.127788],[-21.736085,64.127764],[-21.734285,64.12697],[-21.734691,64.126625],[-21.734172,64.126202],[-21.735539,64.125906],[-21.73583,64.125659],[-21.735037,64.125012],[-21.746053,64.12263],[-21.746257,64.122796],[-21.751696,64.122413],[-21.754368,64.121835],[-21.753397,64.121042],[-21.755232,64.120645],[-21.753289,64.119059],[-21.756961,64.118265],[-21.757932,64.119058],[-21.759768,64.11866],[-21.760739,64.119453],[-21.76441,64.118659],[-21.765382,64.119452],[-21.770888,64.11826],[-21.769916,64.117467],[-21.773587,64.116672],[-21.772615,64.11588],[-21.77445,64.115482],[-21.771535,64.113104],[-21.775205,64.11231],[-21.776176,64.113102],[-21.778017,64.112703],[-21.779085,64.110855],[-21.773857,64.107399],[-21.775608,64.105617],[-21.775069,64.105453],[-21.774761,64.105384],[-21.773908,64.105569],[-21.773267,64.105046],[-21.77318,64.105026],[-21.770389,64.104325],[-21.770131,64.104381],[-21.769916,64.104206],[-21.768246,64.103786],[-21.767325,64.103985],[-21.766562,64.103362],[-21.763959,64.102708],[-21.763548,64.102797],[-21.763208,64.102519],[-21.761815,64.102169],[-21.760743,64.102401],[-21.759855,64.101676],[-21.759671,64.10163],[-21.757937,64.102006],[-21.756967,64.101213],[-21.758801,64.100816],[-21.75783,64.100023],[-21.762864,64.098933],[-21.762921,64.098888],[-21.762989,64.098906],[-21.763333,64.098831],[-21.763638,64.09908],[-21.765056,64.099461],[-21.775309,64.097241],[-21.771425,64.09407],[-21.773259,64.093672],[-21.772288,64.09288],[-21.774122,64.092482],[-21.773151,64.09169],[-21.774985,64.091292],[-21.775955,64.092085],[-21.777789,64.091688],[-21.781673,64.094858],[-21.787174,64.093666],[-21.788146,64.094459],[-21.790173,64.094019],[-21.792518,64.093511],[-21.794073,64.094934],[-21.800237,64.097092],[-21.812294,64.098094],[-21.813955,64.09533],[-21.827555,64.092142],[-21.836078,64.089428],[-21.862465,64.097086],[-21.86661,64.104461],[-21.845516,64.113022],[-21.84677,64.118078],[-21.85607,64.117769],[-21.867769,64.11824],[-21.869992,64.117546],[-21.881777,64.117039],[-21.892133,64.116928],[-21.900239,64.118584],[-21.903847,64.119507],[-21.90464,64.119313],[-21.904895,64.11952],[-21.907696,64.119553],[-21.911021,64.119484],[-21.915612,64.119408],[-21.915963,64.120894],[-21.91774,64.120508],[-21.918716,64.121299],[-21.922383,64.120501],[-21.92336,64.121293],[-21.925193,64.120894],[-21.926169,64.121685],[-21.93167,64.120488],[-21.932646,64.12128],[-21.938146,64.120082],[-21.944008,64.124831],[-21.945841,64.124432],[-21.946819,64.125223],[-21.948652,64.124824],[-21.950542,64.126354],[-21.952324,64.125786],[-21.952329,64.125785],[-21.956653,64.12632],[-21.959709,64.127434],[-21.962089,64.129524],[-21.962832,64.130737],[-21.963575,64.13195],[-21.965623,64.134666],[-21.967803,64.136993],[-21.969111,64.139343],[-21.972198,64.141296],[-21.974895,64.142524],[-21.977577,64.143318],[-21.983176,64.145427],[-21.983376,64.145383],[-21.983651,64.145606],[-21.984866,64.146063],[-21.986189,64.145775],[-21.988112,64.147328],[-21.989793,64.148003],[-21.990961,64.147749],[-21.991941,64.14854],[-21.993775,64.14814],[-21.994755,64.148931],[-21.996589,64.148531],[-21.997569,64.149322],[-21.999403,64.148922],[-22.000383,64.149713],[-22.002217,64.149313],[-22.006027,64.152389],[-22.007815,64.153029],[-22.007818,64.153031],[-22.008854,64.153894],[-22.009931,64.153659],[-22.010911,64.154451],[-22.012746,64.15405],[-22.013726,64.154841],[-22.015561,64.154441],[-22.016541,64.155232],[-22.025712,64.153231],[-22.024732,64.15244],[-22.026566,64.152039],[-22.024605,64.150458],[-22.030106,64.149256],[-22.034029,64.15242],[-22.035863,64.15202],[-22.036844,64.15281],[-22.03501,64.153211],[-22.035991,64.154002],[-22.032323,64.154803],[-22.031342,64.154012],[-22.016668,64.157214],[-22.017648,64.158005],[-22.015814,64.158406],[-22.016794,64.159197],[-22.01496,64.159597],[-22.016921,64.161179],[-22.015086,64.161579],[-22.016067,64.16237],[-22.012397,64.163171],[-22.011416,64.16238],[-22.009581,64.16278],[-22.008601,64.161989],[-22.006766,64.162389],[-22.004786,64.160791],[-22.000607,64.161194],[-21.998338,64.161559],[-21.994187,64.160141],[-21.991769,64.158425],[-21.991147,64.157756],[-21.98975,64.15806],[-21.984852,64.154104],[-21.986356,64.153776],[-21.985686,64.153321],[-21.982799,64.152427],[-21.98022,64.151191],[-21.976644,64.150528],[-21.971033,64.150688],[-21.967322,64.151596],[-21.962536,64.153321],[-21.957258,64.154876],[-21.955891,64.155173],[-21.956102,64.155343],[-21.954266,64.155743],[-21.955245,64.156534],[-21.946068,64.158532],[-21.947047,64.159323],[-21.945211,64.159723],[-21.94619,64.160514],[-21.944354,64.160914],[-21.943376,64.160122],[-21.937868,64.16132],[-21.93689,64.160529],[-21.935054,64.160928],[-21.934076,64.160136],[-21.93224,64.160536],[-21.931262,64.159744],[-21.929426,64.160143],[-21.928448,64.159352],[-21.933955,64.158154],[-21.932977,64.157362],[-21.936648,64.156564],[-21.926869,64.148648],[-21.925033,64.149047],[-21.923409,64.147732],[-21.922347,64.147623],[-21.921243,64.147863],[-21.920745,64.147459],[-21.919117,64.147292],[-21.913851,64.14708],[-21.909766,64.147346],[-21.909135,64.147483],[-21.909025,64.147394],[-21.903169,64.147776],[-21.902652,64.147888],[-21.902622,64.147863],[-21.895624,64.149917],[-21.891154,64.152405],[-21.88725,64.155151],[-21.883995,64.156288],[-21.880512,64.156616],[-21.87524,64.15585],[-21.871559,64.156649],[-21.870583,64.155857],[-21.865074,64.157052],[-21.862146,64.154676],[-21.860309,64.155075],[-21.858357,64.15349],[-21.856521,64.153889],[-21.855545,64.153097],[-21.857381,64.152698],[-21.856406,64.151906],[-21.858242,64.151508],[-21.856933,64.150445],[-21.853696,64.149483],[-21.84797,64.150725],[-21.845044,64.148348],[-21.843208,64.148746],[-21.840282,64.14637],[-21.838446,64.146768],[-21.837471,64.145976],[-21.839307,64.145577],[-21.837357,64.143993],[-21.839193,64.143595],[-21.837244,64.14201],[-21.837914,64.141865],[-21.837512,64.141487],[-21.83712,64.140232],[-21.836728,64.138977],[-21.836656,64.137752],[-21.836042,64.137253],[-21.83662,64.137128],[-21.836563,64.136162],[-21.83744,64.134609],[-21.835815,64.133288],[-21.83398,64.133686],[-21.832031,64.132101],[-21.826525,64.133295],[-21.827499,64.134088],[-21.825664,64.134485],[-21.826638,64.135278],[-21.821131,64.136472],[-21.826976,64.141226],[-21.82514,64.141624],[-21.827089,64.143208],[-21.823417,64.144004],[-21.824391,64.144797],[-21.822555,64.145195],[-21.82353,64.145987],[-21.821693,64.146385],[-21.822668,64.147177],[-21.820831,64.147575],[-21.821806,64.148368],[-21.819969,64.148766],[-21.823868,64.151935],[-21.820195,64.152731],[-21.821169,64.153523],[-21.817496,64.154319],[-21.81847,64.155111],[-21.816633,64.155509],[-21.814684,64.153925],[-21.799987,64.157107],[-21.799013,64.156314],[-21.797175,64.156712],[-21.796201,64.15592],[-21.788852,64.15751],[-21.786904,64.155925],[-21.781391,64.157117],[-21.780418,64.156325],[-21.776742,64.15712],[-21.775769,64.156327],[-21.770256,64.157519],[-21.769282,64.156727],[-21.761931,64.158316],[-21.762905,64.159109],[-21.755553,64.160698],[-21.756526,64.16149],[-21.751011,64.162682],[-21.751984,64.163475],[-21.748308,64.164269],[-21.754148,64.169026],[-21.748632,64.170217],[-21.747658,64.169425],[-21.74582,64.169822],[-21.744846,64.169029],[-21.743007,64.169426],[-21.742034,64.168633],[-21.73284,64.170618],[-21.733813,64.171411],[-21.731974,64.171808],[-21.732947,64.172601],[-21.72559,64.174188],[-21.724617,64.173395],[-21.719099,64.174586],[-21.718126,64.173793],[-21.716287,64.17419],[-21.715314,64.173396],[-21.708679,64.174827],[-21.709534,64.174239]],[[-21.805135,64.132914],[-21.810642,64.131721],[-21.807722,64.129343],[-21.805887,64.129741],[-21.804447,64.128569],[-21.802833,64.128396],[-21.802104,64.128554],[-21.801771,64.128282],[-21.801699,64.128274],[-21.800217,64.127959],[-21.799296,64.128159],[-21.798638,64.127623],[-21.797881,64.127462],[-21.792816,64.128559],[-21.790377,64.126572],[-21.789454,64.126278],[-21.786226,64.126977],[-21.785254,64.126184],[-21.772403,64.128966],[-21.77532,64.131344],[-21.786336,64.128959],[-21.787309,64.129752],[-21.79098,64.128957],[-21.793899,64.131335],[-21.795735,64.130937],[-21.796708,64.13173],[-21.80038,64.130934],[-21.802326,64.132519],[-21.804162,64.132121],[-21.805135,64.132914]]],"type":"Polygon"}
 }

@@ -2,578 +2,579 @@
   "id": 101748865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.023255,
-    "geom:area_square_m":168423585.839651,
-    "geom:bbox":"11.998485,54.050618,12.293673,54.244696",
-    "geom:latitude":54.147339,
-    "geom:longitude":12.143215,
-    "gn:country":"DE",
-    "gn:fcode":"ADM4",
-    "gn:population":201442,
-    "iso:country":"DE",
-    "lbl:latitude":54.084592,
-    "lbl:longitude":12.088019,
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":54.084592,
-    "mps:longitude":12.088019,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":6.1,
-    "name:afr_x_preferred":[
-        "Rostock"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.023255437990500193,
+    "geom:area_square_m": 168423585.839651,
+    "geom:bbox": "11.998485,54.050618,12.293673,54.244696",
+    "geom:latitude": 54.1473391248806,
+    "geom:longitude": 12.143214803848736,
+    "gn:country": "DE",
+    "gn:fcode": "ADM4",
+    "gn:population": 201442,
+    "iso:country": "DE",
+    "lbl:latitude": 54.084592,
+    "lbl:longitude": 12.088019,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 54.084592,
+    "mps:longitude": 12.088019,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 6.1,
+    "name:afr_x_preferred": [
+      "Rostock"
     ],
-    "name:ara_x_preferred":[
-        "\u0631\u0648\u0633\u062a\u0648\u0643"
+    "name:ara_x_preferred": [
+      "روستوك"
     ],
-    "name:arg_x_preferred":[
-        "Rostock"
+    "name:arg_x_preferred": [
+      "Rostock"
     ],
-    "name:ast_x_preferred":[
-        "Rostock"
+    "name:ast_x_preferred": [
+      "Rostock"
     ],
-    "name:azb_x_preferred":[
-        "\u0631\u0648\u0633\u062a\u0648\u06a9"
+    "name:azb_x_preferred": [
+      "روستوک"
     ],
-    "name:aze_x_preferred":[
-        "Rostok"
+    "name:aze_x_preferred": [
+      "Rostok"
     ],
-    "name:bak_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:bak_x_preferred": [
+      "Росток"
     ],
-    "name:bar_x_preferred":[
-        "Rostock"
+    "name:bar_x_preferred": [
+      "Rostock"
     ],
-    "name:bel_x_preferred":[
-        "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0441\u0442\u0430\u043a"
+    "name:bel_x_preferred": [
+      "Горад Ростак"
     ],
-    "name:bel_x_variant":[
-        "\u0420\u043e\u0441\u0442\u0430\u043a"
+    "name:bel_x_variant": [
+      "Ростак"
     ],
-    "name:ben_x_preferred":[
-        "\u09b0\u09b8\u099f\u0995"
+    "name:ben_x_preferred": [
+      "রসটক"
     ],
-    "name:bre_x_preferred":[
-        "Rostock"
+    "name:bre_x_preferred": [
+      "Rostock"
     ],
-    "name:bul_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:bul_x_preferred": [
+      "Росток"
     ],
-    "name:bul_x_variant":[
-        "\u0420\u043e\u0449\u043e\u043a"
+    "name:bul_x_variant": [
+      "Рощок"
     ],
-    "name:cat_x_preferred":[
-        "Rostock"
+    "name:cat_x_preferred": [
+      "Rostock"
     ],
-    "name:ces_x_preferred":[
-        "Rostock"
+    "name:ces_x_preferred": [
+      "Rostock"
     ],
-    "name:cos_x_preferred":[
-        "Rostock"
+    "name:cos_x_preferred": [
+      "Rostock"
     ],
-    "name:cym_x_preferred":[
-        "Rostock"
+    "name:cym_x_preferred": [
+      "Rostock"
     ],
-    "name:dan_x_preferred":[
-        "Rostock"
+    "name:dan_x_preferred": [
+      "Rostock"
     ],
-    "name:deu_x_preferred":[
-        "Rostock"
+    "name:deu_x_preferred": [
+      "Rostock"
     ],
-    "name:ell_x_preferred":[
-        "\u03a1\u03cc\u03c3\u03c4\u03bf\u03ba"
+    "name:ell_x_preferred": [
+      "Ρόστοκ"
     ],
-    "name:eng_x_preferred":[
-        "Rostock"
+    "name:eng_x_preferred": [
+      "Rostock"
     ],
-    "name:epo_x_preferred":[
-        "Rostock"
+    "name:epo_x_preferred": [
+      "Rostock"
     ],
-    "name:est_x_preferred":[
-        "Rostock"
+    "name:est_x_preferred": [
+      "Rostock"
     ],
-    "name:eus_x_preferred":[
-        "Rostock"
+    "name:eus_x_preferred": [
+      "Rostock"
     ],
-    "name:fas_x_preferred":[
-        "\u0631\u0648\u0633\u062a\u0648\u06a9"
+    "name:fas_x_preferred": [
+      "روستوک"
     ],
-    "name:fin_x_preferred":[
-        "Rostock"
+    "name:fin_x_preferred": [
+      "Rostock"
     ],
-    "name:fra_x_preferred":[
-        "Rostock"
+    "name:fra_x_preferred": [
+      "Rostock"
     ],
-    "name:frp_x_preferred":[
-        "Rostock"
+    "name:frp_x_preferred": [
+      "Rostock"
     ],
-    "name:frr_x_preferred":[
-        "Rostock"
+    "name:frr_x_preferred": [
+      "Rostock"
     ],
-    "name:fry_x_preferred":[
-        "Rostock"
+    "name:fry_x_preferred": [
+      "Rostock"
     ],
-    "name:fur_x_preferred":[
-        "Rostock"
+    "name:fur_x_preferred": [
+      "Rostock"
     ],
-    "name:gla_x_preferred":[
-        "Rostock"
+    "name:gla_x_preferred": [
+      "Rostock"
     ],
-    "name:gle_x_preferred":[
-        "Rostock"
+    "name:gle_x_preferred": [
+      "Rostock"
     ],
-    "name:glg_x_preferred":[
-        "Rostock"
+    "name:glg_x_preferred": [
+      "Rostock"
     ],
-    "name:gsw_x_preferred":[
-        "Rostock"
+    "name:gsw_x_preferred": [
+      "Rostock"
     ],
-    "name:guj_x_preferred":[
-        "\u0ab0\u0acb\u0ab8\u0acd\u0a9f\u0acb\u0a95"
+    "name:guj_x_preferred": [
+      "રોસ્ટોક"
     ],
-    "name:heb_x_preferred":[
-        "\u05e8\u05d5\u05e1\u05d8\u05d5\u05e7"
+    "name:heb_x_preferred": [
+      "רוסטוק"
     ],
-    "name:hin_x_preferred":[
-        "\u0930\u094b\u0938\u094d\u091f\u0949\u0915"
+    "name:hin_x_preferred": [
+      "रोस्टॉक"
     ],
-    "name:hrv_x_preferred":[
-        "Rostock"
+    "name:hrv_x_preferred": [
+      "Rostock"
     ],
-    "name:hsb_x_preferred":[
-        "Roztok"
+    "name:hsb_x_preferred": [
+      "Roztok"
     ],
-    "name:hun_x_preferred":[
-        "Rostock"
+    "name:hun_x_preferred": [
+      "Rostock"
     ],
-    "name:hye_x_preferred":[
-        "\u054c\u0578\u057d\u057f\u0578\u056f"
+    "name:hye_x_preferred": [
+      "Ռոստոկ"
     ],
-    "name:ido_x_preferred":[
-        "Rostock"
+    "name:ido_x_preferred": [
+      "Rostock"
     ],
-    "name:ile_x_preferred":[
-        "Rostock"
+    "name:ile_x_preferred": [
+      "Rostock"
     ],
-    "name:ina_x_preferred":[
-        "Rostock"
+    "name:ina_x_preferred": [
+      "Rostock"
     ],
-    "name:ind_x_preferred":[
-        "Rostock"
+    "name:ind_x_preferred": [
+      "Rostock"
     ],
-    "name:isl_x_preferred":[
-        "Rostock"
+    "name:isl_x_preferred": [
+      "Rostock"
     ],
-    "name:ita_x_preferred":[
-        "Rostock"
+    "name:ita_x_preferred": [
+      "Rostock"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ed\u30b9\u30c8\u30c3\u30af"
+    "name:jpn_x_preferred": [
+      "ロストック"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb0\u0cca\u0cb8\u0ccd\u0c9f\u0cbe\u0c95\u0ccd"
+    "name:kan_x_preferred": [
+      "ರೊಸ್ಟಾಕ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10e0\u10dd\u10e1\u10e2\u10dd\u10d9\u10d8"
+    "name:kat_x_preferred": [
+      "როსტოკი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:kaz_x_preferred": [
+      "Росток"
     ],
-    "name:kir_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:kir_x_preferred": [
+      "Росток"
     ],
-    "name:kon_x_preferred":[
-        "Rostock"
+    "name:kon_x_preferred": [
+      "Rostock"
     ],
-    "name:kor_x_preferred":[
-        "\ub85c\uc2a4\ud1a0\ud06c"
+    "name:kor_x_preferred": [
+      "로스토크"
     ],
-    "name:kur_x_preferred":[
-        "Rostock"
+    "name:kur_x_preferred": [
+      "Rostock"
     ],
-    "name:lat_x_preferred":[
-        "Rostochium"
+    "name:lat_x_preferred": [
+      "Rostochium"
     ],
-    "name:lav_x_preferred":[
-        "Rostoka"
+    "name:lav_x_preferred": [
+      "Rostoka"
     ],
-    "name:lij_x_preferred":[
-        "Rostock"
+    "name:lij_x_preferred": [
+      "Rostock"
     ],
-    "name:lim_x_preferred":[
-        "Rostock"
+    "name:lim_x_preferred": [
+      "Rostock"
     ],
-    "name:lit_x_preferred":[
-        "Rostokas"
+    "name:lit_x_preferred": [
+      "Rostokas"
     ],
-    "name:lmo_x_preferred":[
-        "Rostock"
+    "name:lmo_x_preferred": [
+      "Rostock"
     ],
-    "name:ltz_x_preferred":[
-        "Rostock"
+    "name:ltz_x_preferred": [
+      "Rostock"
     ],
-    "name:mar_x_preferred":[
-        "\u0930\u094b\u0938\u094d\u091f\u094b\u0915"
+    "name:mar_x_preferred": [
+      "रोस्टोक"
     ],
-    "name:min_x_preferred":[
-        "Rostock"
+    "name:min_x_preferred": [
+      "Rostock"
     ],
-    "name:mkd_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:mkd_x_preferred": [
+      "Росток"
     ],
-    "name:mlg_x_preferred":[
-        "Rostock"
+    "name:mlg_x_preferred": [
+      "Rostock"
     ],
-    "name:mon_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:mon_x_preferred": [
+      "Росток"
     ],
-    "name:msa_x_preferred":[
-        "Rostock"
+    "name:msa_x_preferred": [
+      "Rostock"
     ],
-    "name:nan_x_preferred":[
-        "Rostock"
+    "name:nan_x_preferred": [
+      "Rostock"
     ],
-    "name:nap_x_preferred":[
-        "Rostock"
+    "name:nap_x_preferred": [
+      "Rostock"
     ],
-    "name:nds_x_preferred":[
-        "Rostock"
+    "name:nds_x_preferred": [
+      "Rostock"
     ],
-    "name:nld_x_preferred":[
-        "Rostock"
+    "name:nld_x_preferred": [
+      "Rostock"
     ],
-    "name:nno_x_preferred":[
-        "Rostock"
+    "name:nno_x_preferred": [
+      "Rostock"
     ],
-    "name:nob_x_preferred":[
-        "Rostock"
+    "name:nob_x_preferred": [
+      "Rostock"
     ],
-    "name:nor_x_preferred":[
-        "Rostock"
+    "name:nor_x_preferred": [
+      "Rostock"
     ],
-    "name:nrm_x_preferred":[
-        "Rostock"
+    "name:nrm_x_preferred": [
+      "Rostock"
     ],
-    "name:oci_x_preferred":[
-        "Rostock"
+    "name:oci_x_preferred": [
+      "Rostock"
     ],
-    "name:oss_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:oss_x_preferred": [
+      "Росток"
     ],
-    "name:pcd_x_preferred":[
-        "Rostock"
+    "name:pcd_x_preferred": [
+      "Rostock"
     ],
-    "name:pms_x_preferred":[
-        "Rostock"
+    "name:pms_x_preferred": [
+      "Rostock"
     ],
-    "name:pnb_x_preferred":[
-        "\u0631\u0648\u0633\u0679\u0627\u06a9"
+    "name:pnb_x_preferred": [
+      "روسٹاک"
     ],
-    "name:pol_x_preferred":[
-        "Rostock"
+    "name:pol_x_preferred": [
+      "Rostock"
     ],
-    "name:por_x_preferred":[
-        "Rostock"
+    "name:por_x_preferred": [
+      "Rostock"
     ],
-    "name:que_x_preferred":[
-        "Rostock"
+    "name:que_x_preferred": [
+      "Rostock"
     ],
-    "name:roh_x_preferred":[
-        "Rostock"
+    "name:roh_x_preferred": [
+      "Rostock"
     ],
-    "name:ron_x_preferred":[
-        "Rostock"
+    "name:ron_x_preferred": [
+      "Rostock"
     ],
-    "name:rus_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:rus_x_preferred": [
+      "Росток"
     ],
-    "name:scn_x_preferred":[
-        "Rostock"
+    "name:scn_x_preferred": [
+      "Rostock"
     ],
-    "name:sco_x_preferred":[
-        "Rostock"
+    "name:sco_x_preferred": [
+      "Rostock"
     ],
-    "name:sin_x_preferred":[
-        "\u0dbb\u0ddc\u0dc3\u0dca\u0da7\u0ddc\u0d9a\u0dca"
+    "name:sin_x_preferred": [
+      "රොස්ටොක්"
     ],
-    "name:slk_x_preferred":[
-        "Rostock"
+    "name:slk_x_preferred": [
+      "Rostock"
     ],
-    "name:slv_x_preferred":[
-        "Rostock"
+    "name:slv_x_preferred": [
+      "Rostock"
     ],
-    "name:spa_x_preferred":[
-        "Rostock"
+    "name:spa_x_preferred": [
+      "Rostock"
     ],
-    "name:sqi_x_preferred":[
-        "Rostock"
+    "name:sqi_x_preferred": [
+      "Rostock"
     ],
-    "name:srd_x_preferred":[
-        "Rostock"
+    "name:srd_x_preferred": [
+      "Rostock"
     ],
-    "name:srp_x_preferred":[
-        "\u0420\u043e\u0448\u0442\u043e\u043a"
+    "name:srp_x_preferred": [
+      "Рошток"
     ],
-    "name:srp_x_variant":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:srp_x_variant": [
+      "Росток"
     ],
-    "name:stq_x_preferred":[
-        "Rostock"
+    "name:stq_x_preferred": [
+      "Rostock"
     ],
-    "name:swa_x_preferred":[
-        "Rostock"
+    "name:swa_x_preferred": [
+      "Rostock"
     ],
-    "name:swe_x_preferred":[
-        "Rostock"
+    "name:swe_x_preferred": [
+      "Rostock"
     ],
-    "name:szl_x_preferred":[
-        "Rostock"
+    "name:szl_x_preferred": [
+      "Rostock"
     ],
-    "name:tam_x_preferred":[
-        "\u0bb0\u0bcb\u0bb8\u0bcd\u0b9f\u0bbe\u0b95\u0bcd"
+    "name:tam_x_preferred": [
+      "ரோஸ்டாக்"
     ],
-    "name:tat_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:tat_x_preferred": [
+      "Росток"
     ],
-    "name:tel_x_preferred":[
-        "\u0c30\u0c4b\u0c38\u0c4d\u0c1f\u0c3e\u0c15\u0c4d"
+    "name:tel_x_preferred": [
+      "రోస్టాక్"
     ],
-    "name:tha_x_preferred":[
-        "\u0e23\u0e2d\u0e2a\u0e17\u0e2d\u0e04"
+    "name:tha_x_preferred": [
+      "รอสทอค"
     ],
-    "name:tha_x_variant":[
-        "\u0e23\u0e47\u0e2d\u0e2a\u0e17\u0e47\u0e2d\u0e04"
+    "name:tha_x_variant": [
+      "ร็อสท็อค"
     ],
-    "name:tur_x_preferred":[
-        "Rostock"
+    "name:tur_x_preferred": [
+      "Rostock"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043e\u043a"
+    "name:ukr_x_preferred": [
+      "Росток"
     ],
-    "name:urd_x_preferred":[
-        "\u0631\u0648\u0633\u062a\u0648\u06a9"
+    "name:urd_x_preferred": [
+      "روستوک"
     ],
-    "name:uzb_x_preferred":[
-        "Rostock"
+    "name:uzb_x_preferred": [
+      "Rostock"
     ],
-    "name:vec_x_preferred":[
-        "Rostock"
+    "name:vec_x_preferred": [
+      "Rostock"
     ],
-    "name:vie_x_preferred":[
-        "Rostock"
+    "name:vie_x_preferred": [
+      "Rostock"
     ],
-    "name:vls_x_preferred":[
-        "Rostock"
+    "name:vls_x_preferred": [
+      "Rostock"
     ],
-    "name:vol_x_preferred":[
-        "Rostock"
+    "name:vol_x_preferred": [
+      "Rostock"
     ],
-    "name:war_x_preferred":[
-        "Rostock"
+    "name:war_x_preferred": [
+      "Rostock"
     ],
-    "name:wln_x_preferred":[
-        "Rostock"
+    "name:wln_x_preferred": [
+      "Rostock"
     ],
-    "name:wol_x_preferred":[
-        "Rostock"
+    "name:wol_x_preferred": [
+      "Rostock"
     ],
-    "name:wuu_x_preferred":[
-        "\u7f57\u65af\u6258\u514b"
+    "name:wuu_x_preferred": [
+      "罗斯托克"
     ],
-    "name:xmf_x_preferred":[
-        "\u10e0\u10dd\u10e1\u10e2\u10dd\u10d9\u10d8"
+    "name:xmf_x_preferred": [
+      "როსტოკი"
     ],
-    "name:yue_x_preferred":[
-        "\u7f85\u65af\u6258\u514b"
+    "name:yue_x_preferred": [
+      "羅斯托克"
     ],
-    "name:zho_x_preferred":[
-        "\u7f57\u65af\u6258\u514b"
+    "name:zho_x_preferred": [
+      "罗斯托克"
     ],
-    "name:zul_x_preferred":[
-        "Rostock"
+    "name:zul_x_preferred": [
+      "Rostock"
     ],
-    "nav:latitude":54.084592,
-    "nav:longitude":12.088019,
-    "ne:ADM0CAP":0.0,
-    "ne:ADM0NAME":"Germany",
-    "ne:ADM0_A3":"DEU",
-    "ne:ADM1NAME":"Mecklenburg-Vorpommern",
-    "ne:ADMIN1_COD":12,
-    "ne:CAPALT":0,
-    "ne:CAPIN":null,
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Populated place",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPL",
-    "ne:GEONAMEID":2844588,
-    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
-    "ne:GN_ASCII":"Rostock",
-    "ne:GN_POP":198293,
-    "ne:GTOPO30":1.0,
-    "ne:ISO_A2":"DE",
-    "ne:LABELRANK":3,
-    "ne:LATITUDE":54.07038,
-    "ne:LONGITUDE":12.149997,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Rostock",
-    "ne:MAX_AREAKM":115.0,
-    "ne:MAX_AREAMI":44.0,
-    "ne:MAX_BBXMAX":12.233333,
-    "ne:MAX_BBXMIN":11.991667,
-    "ne:MAX_BBYMAX":54.183333,
-    "ne:MAX_BBYMIN":54.058333,
-    "ne:MAX_NATSCA":20.0,
-    "ne:MAX_PERKM":150.0,
-    "ne:MAX_PERMI":93.0,
-    "ne:MAX_POP10":203080,
-    "ne:MAX_POP20":203080,
-    "ne:MAX_POP300":0,
-    "ne:MAX_POP310":0,
-    "ne:MAX_POP50":0,
-    "ne:MEAN_BBXC":12.109269,
-    "ne:MEAN_BBYC":54.111215,
-    "ne:MEGACITY":0,
-    "ne:MEGANAME":null,
-    "ne:MIN_AREAKM":115.0,
-    "ne:MIN_AREAMI":44.0,
-    "ne:MIN_BBXMAX":12.233333,
-    "ne:MIN_BBXMIN":11.991667,
-    "ne:MIN_BBYMAX":54.183333,
-    "ne:MIN_BBYMIN":54.058333,
-    "ne:MIN_PERKM":150.0,
-    "ne:MIN_PERMI":93.0,
-    "ne:NAME":"Rostock",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Rostock",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":20,
-    "ne:NOTE":null,
-    "ne:POP1950":0,
-    "ne:POP1955":0,
-    "ne:POP1960":0,
-    "ne:POP1965":0,
-    "ne:POP1970":0,
-    "ne:POP1975":0,
-    "ne:POP1980":0,
-    "ne:POP1985":0,
-    "ne:POP1990":0,
-    "ne:POP1995":0,
-    "ne:POP2000":0,
-    "ne:POP2005":0,
-    "ne:POP2010":0,
-    "ne:POP2015":0,
-    "ne:POP2020":0,
-    "ne:POP2025":0,
-    "ne:POP2050":0,
-    "ne:POP_MAX":203080,
-    "ne:POP_MIN":198293,
-    "ne:POP_OTHER":196328,
-    "ne:RANK_MAX":10,
-    "ne:RANK_MIN":9,
-    "ne:SCALERANK":7,
-    "ne:SOV0NAME":"Germany",
-    "ne:SOV_A3":"DEU",
-    "ne:TIMEZONE":"Europe/Berlin",
-    "ne:UN_ADM0":null,
-    "ne:UN_FID":0,
-    "ne:UN_LAT":0.0,
-    "ne:UN_LONG":0.0,
-    "ne:WORLDCITY":0,
-    "qs:a0":"Bundesrepublik Deutschland",
-    "qs:a1":"*Mecklenburg-Vorpommern",
-    "qs:a1r":"0",
-    "qs:a2":"Rostock",
-    "qs:adm0":"Bundesrepublik Deutschland",
-    "qs:la":"Rostock",
-    "qs:la_lc":"*DE13000300000",
-    "qs:level":"locality",
-    "qs:loc":"Rostock",
-    "qs:loc_alt":"Rostock",
-    "qs:pop":0,
-    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"urban core",
-    "qs_pg:aaroncc":"DE",
-    "qs_pg:gn_country":"DE",
-    "qs_pg:gn_fcode":"ADM4",
-    "qs_pg:gn_id":6551181,
-    "qs_pg:gn_pop":201442,
-    "qs_pg:name":"Rostock, Hansestadt",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":10,
-    "qs_pg:qs_id":632678,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "sfomuseum:placetype":"city",
-    "src:geom":"de-bkg",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
-    ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "wd:elevation":8.0,
-    "wd:latitude":54.083333,
-    "wd:longitude":12.133333,
-    "wd:population":203431,
-    "wd:wordcount":3234,
-    "wof:belongsto":[
-        85682487,
-        102191581,
-        1377684353,
-        85633111,
-        102064115
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2844588,
-        "gp:id":689776,
-        "qs_pg:id":239800,
-        "wd:id":"Q2861"
+    "nav:latitude": 54.084592,
+    "nav:longitude": 12.088019,
+    "ne:ADM0CAP": 0,
+    "ne:ADM0NAME": "Germany",
+    "ne:ADM0_A3": "DEU",
+    "ne:ADM1NAME": "Mecklenburg-Vorpommern",
+    "ne:ADMIN1_COD": 12,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Populated place",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPL",
+    "ne:GEONAMEID": 2844588,
+    "ne:GEONAMESNO": "Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII": "Rostock",
+    "ne:GN_POP": 198293,
+    "ne:GTOPO30": 1,
+    "ne:ISO_A2": "DE",
+    "ne:LABELRANK": 3,
+    "ne:LATITUDE": 54.07038,
+    "ne:LONGITUDE": 12.149997,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Rostock",
+    "ne:MAX_AREAKM": 115,
+    "ne:MAX_AREAMI": 44,
+    "ne:MAX_BBXMAX": 12.233333,
+    "ne:MAX_BBXMIN": 11.991667,
+    "ne:MAX_BBYMAX": 54.183333,
+    "ne:MAX_BBYMIN": 54.058333,
+    "ne:MAX_NATSCA": 20,
+    "ne:MAX_PERKM": 150,
+    "ne:MAX_PERMI": 93,
+    "ne:MAX_POP10": 203080,
+    "ne:MAX_POP20": 203080,
+    "ne:MAX_POP300": 0,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 0,
+    "ne:MEAN_BBXC": 12.109269,
+    "ne:MEAN_BBYC": 54.111215,
+    "ne:MEGACITY": 0,
+    "ne:MEGANAME": null,
+    "ne:MIN_AREAKM": 115,
+    "ne:MIN_AREAMI": 44,
+    "ne:MIN_BBXMAX": 12.233333,
+    "ne:MIN_BBXMIN": 11.991667,
+    "ne:MIN_BBYMAX": 54.183333,
+    "ne:MIN_BBYMIN": 54.058333,
+    "ne:MIN_PERKM": 150,
+    "ne:MIN_PERMI": 93,
+    "ne:NAME": "Rostock",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Rostock",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 20,
+    "ne:NOTE": null,
+    "ne:POP1950": 0,
+    "ne:POP1955": 0,
+    "ne:POP1960": 0,
+    "ne:POP1965": 0,
+    "ne:POP1970": 0,
+    "ne:POP1975": 0,
+    "ne:POP1980": 0,
+    "ne:POP1985": 0,
+    "ne:POP1990": 0,
+    "ne:POP1995": 0,
+    "ne:POP2000": 0,
+    "ne:POP2005": 0,
+    "ne:POP2010": 0,
+    "ne:POP2015": 0,
+    "ne:POP2020": 0,
+    "ne:POP2025": 0,
+    "ne:POP2050": 0,
+    "ne:POP_MAX": 203080,
+    "ne:POP_MIN": 198293,
+    "ne:POP_OTHER": 196328,
+    "ne:RANK_MAX": 10,
+    "ne:RANK_MIN": 9,
+    "ne:SCALERANK": 7,
+    "ne:SOV0NAME": "Germany",
+    "ne:SOV_A3": "DEU",
+    "ne:TIMEZONE": "Europe/Berlin",
+    "ne:UN_ADM0": null,
+    "ne:UN_FID": 0,
+    "ne:UN_LAT": 0,
+    "ne:UN_LONG": 0,
+    "ne:WORLDCITY": 0,
+    "qs:a0": "Bundesrepublik Deutschland",
+    "qs:a1": "*Mecklenburg-Vorpommern",
+    "qs:a1r": "0",
+    "qs:a2": "Rostock",
+    "qs:adm0": "Bundesrepublik Deutschland",
+    "qs:la": "Rostock",
+    "qs:la_lc": "*DE13000300000",
+    "qs:level": "locality",
+    "qs:loc": "Rostock",
+    "qs:loc_alt": "Rostock",
+    "qs:pop": 0,
+    "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "urban core",
+    "qs_pg:aaroncc": "DE",
+    "qs_pg:gn_country": "DE",
+    "qs_pg:gn_fcode": "ADM4",
+    "qs_pg:gn_id": 6551181,
+    "qs_pg:gn_pop": 201442,
+    "qs_pg:name": "Rostock, Hansestadt",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 10,
+    "qs_pg:qs_id": 632678,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "sfomuseum:placetype": "city",
+    "src:geom": "de-bkg",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
+    ],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wk",
+    "wd:elevation": 8,
+    "wd:latitude": 54.083333,
+    "wd:longitude": 12.133333,
+    "wd:population": 203431,
+    "wd:wordcount": 3234,
+    "wof:belongsto": [
+      85682487,
+      102191581,
+      1377684353,
+      85633111,
+      102064115
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2844588,
+      "gp:id": 689776,
+      "qs_pg:id": 239800,
+      "wd:id": "Q2861"
     },
-    "wof:country":"DE",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "wof:country": "DE",
+    "wof:created": 1624906515,
+    "wof:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
     ],
-    "wof:geomhash":"1842421cd6858d1480e5f5691aba43b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102064115,
-            "localadmin_id":1377684353,
-            "locality_id":101748865,
-            "region_id":85682487
-        }
+    "wof:geomhash": "1842421cd6858d1480e5f5691aba43b3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102064115,
+        "localadmin_id": 1377684353,
+        "locality_id": 101748865,
+        "region_id": 85682487
+      }
     ],
-    "wof:id":101748865,
-    "wof:lastmodified":1611601215,
-    "wof:name":"Rostock",
-    "wof:parent_id":1377684353,
-    "wof:placetype":"locality",
-    "wof:population":203431,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1125338289
+    "wof:id": 101748865,
+    "wof:lastmodified": 1624906515,
+    "wof:name": "Rostock",
+    "wof:parent_id": 1377684353,
+    "wof:placetype": "locality",
+    "wof:population": 203431,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1125338289
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     11.998485,
     54.050618,
     12.293673,
     54.244696
-],
+  ],
   "geometry": {"coordinates":[[[[12.263478,54.242786],[12.264144,54.242097],[12.264903,54.241801],[12.265791,54.241694],[12.26672,54.241586],[12.267279,54.241364],[12.267786,54.240881],[12.268046,54.240284],[12.267981,54.23969],[12.267998,54.23912],[12.267814,54.2386],[12.267193,54.238299],[12.26661,54.237927],[12.266673,54.237475],[12.267264,54.236392],[12.267476,54.23594],[12.266721,54.235106],[12.266781,54.233946],[12.266415,54.232496],[12.265819,54.23069],[12.265603,54.228394],[12.265252,54.226935],[12.264432,54.22488],[12.264074,54.223251],[12.264512,54.22161],[12.265394,54.220313],[12.26509,54.218134],[12.264765,54.217304],[12.264242,54.215983],[12.263591,54.215137],[12.265553,54.214729],[12.269826,54.214403],[12.271942,54.213672],[12.272224,54.212716],[12.272252,54.211521],[12.272411,54.210558],[12.27392,54.20998],[12.276269,54.209354],[12.279347,54.207433],[12.280933,54.206135],[12.283488,54.203817],[12.28509,54.203291],[12.2867,54.202954],[12.293673,54.197096],[12.26442,54.18541],[12.261512,54.185422],[12.259749,54.183545],[12.257979,54.182834],[12.255202,54.18308],[12.248147,54.183969],[12.245819,54.183966],[12.242434,54.183959],[12.231985,54.182316],[12.229151,54.182292],[12.22848,54.179679],[12.224545,54.178538],[12.225455,54.183313],[12.207575,54.182337],[12.204073,54.182447],[12.204222,54.178466],[12.203745,54.178014],[12.200548,54.17539],[12.200058,54.174615],[12.1997,54.173677],[12.199611,54.171414],[12.199665,54.170461],[12.198068,54.169172],[12.19654,54.167315],[12.194399,54.167371],[12.193175,54.167387],[12.192668,54.167331],[12.191961,54.16726],[12.190786,54.166962],[12.181963,54.166038],[12.175073,54.163633],[12.173724,54.162798],[12.173292,54.161528],[12.174014,54.159632],[12.17564,54.159323],[12.177353,54.1593],[12.179249,54.159248],[12.182748,54.159084],[12.184072,54.156929],[12.183603,54.155516],[12.184728,54.155321],[12.185793,54.154759],[12.187654,54.14796],[12.189786,54.147698],[12.18638,54.14001],[12.183592,54.134828],[12.176665,54.13016],[12.17258,54.128948],[12.172864,54.12609],[12.17302,54.124514],[12.171427,54.122083],[12.171334,54.12159],[12.171235,54.121061],[12.171836,54.12044],[12.173249,54.118977],[12.171918,54.117369],[12.174697,54.115858],[12.178383,54.114146],[12.182097,54.112544],[12.18686,54.110323],[12.191398,54.108301],[12.19469,54.108924],[12.194245,54.106777],[12.196951,54.105265],[12.198351,54.104225],[12.199642,54.103115],[12.200926,54.101814],[12.201888,54.100588],[12.202763,54.099174],[12.203464,54.097511],[12.203838,54.095666],[12.203872,54.094477],[12.203696,54.0931],[12.203312,54.091561],[12.202814,54.090213],[12.200307,54.084291],[12.200835,54.083733],[12.201256,54.082909],[12.201249,54.081921],[12.200645,54.079723],[12.195797,54.079789],[12.192592,54.078935],[12.191372,54.078271],[12.191174,54.069157],[12.178454,54.067846],[12.171743,54.067373],[12.167884,54.07041],[12.166063,54.070149],[12.164358,54.070547],[12.16037,54.06957],[12.158157,54.068818],[12.157734,54.068518],[12.154925,54.065762],[12.153861,54.064707],[12.149348,54.063689],[12.148424,54.063503],[12.148708,54.061739],[12.146881,54.061466],[12.146996,54.058482],[12.144312,54.058571],[12.137472,54.059416],[12.134435,54.059456],[12.132099,54.059064],[12.129276,54.059101],[12.128383,54.058088],[12.126896,54.058341],[12.12597,54.058506],[12.119591,54.058589],[12.117261,54.058605],[12.115991,54.058285],[12.114444,54.057326],[12.112038,54.057105],[12.109085,54.055697],[12.105739,54.055228],[12.104684,54.053966],[12.101248,54.053938],[12.100535,54.053238],[12.096601,54.052956],[12.096011,54.050618],[12.094633,54.052603],[12.089797,54.051866],[12.088216,54.05123],[12.086207,54.051812],[12.085042,54.05127],[12.080625,54.051542],[12.079765,54.052235],[12.077244,54.053031],[12.074029,54.054895],[12.073064,54.056479],[12.07314,54.063611],[12.066782,54.060924],[12.065573,54.059601],[12.063011,54.061366],[12.065159,54.062085],[12.06378,54.06407],[12.067967,54.065805],[12.073026,54.06761],[12.072668,54.068261],[12.07002,54.068528],[12.066009,54.067833],[12.061774,54.074048],[12.060988,54.075145],[12.060786,54.076326],[12.061098,54.077121],[12.062496,54.077974],[12.060319,54.079456],[12.064189,54.081267],[12.063224,54.082897],[12.059999,54.084141],[12.059263,54.086593],[12.057405,54.08888],[12.052977,54.089824],[12.051077,54.090953],[12.047468,54.091734],[12.048108,54.093828],[12.051812,54.095247],[12.050184,54.097153],[12.052391,54.099039],[12.052628,54.101372],[12.054478,54.103091],[12.049953,54.103938],[12.049788,54.105109],[12.050673,54.107691],[12.049327,54.107804],[12.036843,54.108807],[12.036802,54.111089],[12.03844,54.112847],[12.0353,54.116578],[12.034853,54.117809],[12.034241,54.119491],[12.032514,54.119893],[12.0314,54.120153],[12.024257,54.122721],[12.02199,54.122858],[12.019359,54.12545],[12.019133,54.128129],[12.019676,54.128796],[12.022697,54.127735],[12.023754,54.127747],[12.025841,54.127722],[12.027293,54.12759],[12.02982,54.127173],[12.031881,54.126878],[12.032152,54.130827],[12.031322,54.13461],[12.032704,54.134754],[12.036497,54.135157],[12.035907,54.137087],[12.03719,54.137888],[12.037021,54.13957],[12.035952,54.140068],[12.035692,54.141365],[12.034048,54.141143],[12.032981,54.142126],[12.031617,54.142915],[12.029886,54.143717],[12.0289,54.144057],[12.028747,54.145224],[12.02851,54.145895],[12.028051,54.146702],[12.029467,54.1472],[12.028093,54.148801],[12.026585,54.148457],[12.025732,54.1497],[12.023599,54.152272],[12.022398,54.15326],[12.021029,54.154097],[12.019951,54.15486],[12.027727,54.156193],[12.027361,54.157545],[12.029523,54.157654],[12.034211,54.162527],[12.022218,54.166204],[12.017699,54.166537],[12.014872,54.167541],[12.01155,54.171462],[12.00923,54.171238],[12.002595,54.172818],[11.999338,54.17336],[11.998485,54.17497],[12.000007,54.175445],[12.004783,54.176735],[12.006785,54.177251],[12.008968,54.177735],[12.01136,54.178336],[12.012134,54.178446],[12.013003,54.178299],[12.014486,54.177911],[12.015837,54.177759],[12.017041,54.177436],[12.019086,54.177218],[12.020733,54.177036],[12.023903,54.176735],[12.026408,54.176562],[12.029283,54.176503],[12.034064,54.176479],[12.035992,54.176446],[12.037906,54.17644],[12.03933,54.176432],[12.040525,54.176462],[12.04172,54.176492],[12.042901,54.176532],[12.045279,54.176673],[12.046461,54.176757],[12.048378,54.176934],[12.050208,54.177125],[12.052039,54.17734],[12.053503,54.177488],[12.055088,54.177635],[12.056549,54.177712],[12.058253,54.177762],[12.05996,54.177931],[12.061464,54.178055],[12.063052,54.178273],[12.064882,54.178464],[12.066323,54.178608],[12.068017,54.1789],[12.069362,54.179121],[12.070746,54.179317],[12.071588,54.179328],[12.072948,54.179694],[12.074708,54.180194],[12.076926,54.181022],[12.078371,54.181741],[12.079972,54.182314],[12.081621,54.183102],[12.08326,54.183604],[12.084911,54.184415],[12.085859,54.184854],[12.086269,54.184992],[12.086769,54.185081],[12.086932,54.183714],[12.087113,54.182341],[12.086669,54.179028],[12.08655,54.178074],[12.086549,54.177284],[12.08666,54.176493],[12.087187,54.174807],[12.088257,54.174892],[12.087777,54.176347],[12.087618,54.177369],[12.087561,54.178095],[12.087622,54.178999],[12.087792,54.180478],[12.090792,54.18062],[12.092717,54.177494],[12.09211,54.177353],[12.092297,54.177019],[12.092661,54.176599],[12.093308,54.176578],[12.094681,54.174308],[12.093018,54.172379],[12.092144,54.171501],[12.088434,54.169804],[12.089282,54.1692],[12.092071,54.17065],[12.094028,54.171657],[12.096334,54.170262],[12.096181,54.168387],[12.095793,54.164348],[12.094345,54.164057],[12.092721,54.163959],[12.092601,54.162915],[12.093511,54.162868],[12.092824,54.158151],[12.092747,54.157683],[12.092898,54.157231],[12.09273,54.155381],[12.09259,54.153836],[12.092236,54.153568],[12.092006,54.152972],[12.09173,54.152457],[12.091635,54.15209],[12.091297,54.151714],[12.091225,54.151406],[12.091026,54.150933],[12.090568,54.150594],[12.090211,54.150254],[12.089971,54.14977],[12.089755,54.149428],[12.089274,54.148983],[12.088932,54.148512],[12.088667,54.147897],[12.088421,54.147435],[12.088309,54.147311],[12.087584,54.146521],[12.087187,54.146181],[12.086573,54.145999],[12.086158,54.145731],[12.085597,54.145334],[12.085103,54.145114],[12.084526,54.144836],[12.084335,54.144601],[12.083905,54.144452],[12.0834,54.144494],[12.08295,54.144345],[12.082454,54.144078],[12.082024,54.143953],[12.081495,54.143853],[12.080984,54.14374],[12.080346,54.143451],[12.079958,54.143221],[12.080046,54.143113],[12.080258,54.143056],[12.080533,54.143035],[12.081476,54.143342],[12.081716,54.143426],[12.082029,54.143537],[12.082267,54.143567],[12.082721,54.143623],[12.08361,54.143576],[12.084476,54.143459],[12.084936,54.143322],[12.085936,54.141843],[12.086418,54.141247],[12.08637,54.141034],[12.08628,54.140786],[12.08647,54.140462],[12.086867,54.140232],[12.087047,54.14],[12.087397,54.139552],[12.087468,54.139426],[12.08758,54.139146],[12.087907,54.138028],[12.087998,54.137613],[12.088329,54.137025],[12.088576,54.136672],[12.088622,54.136267],[12.088683,54.135862],[12.088634,54.135456],[12.088596,54.134969],[12.088784,54.134424],[12.088957,54.134161],[12.089296,54.133797],[12.089445,54.133688],[12.089625,54.133596],[12.089956,54.133431],[12.090352,54.1332],[12.090739,54.133123],[12.090932,54.132959],[12.090954,54.132515],[12.090858,54.132112],[12.090802,54.131685],[12.090643,54.131212],[12.090281,54.130632],[12.08983,54.130431],[12.088783,54.12942],[12.088589,54.129144],[12.088472,54.128851],[12.088459,54.128506],[12.088506,54.128137],[12.088392,54.127794],[12.08835,54.127633],[12.088298,54.127439],[12.08901,54.127155],[12.08622,54.124519],[12.085894,54.123917],[12.08587,54.12324],[12.089523,54.113675],[12.088479,54.113331],[12.086014,54.110962],[12.087132,54.110009],[12.08784,54.110721],[12.089022,54.11191],[12.090076,54.112206],[12.090616,54.111081],[12.090671,54.110919],[12.091477,54.110405],[12.091809,54.10944],[12.092314,54.108858],[12.092967,54.108105],[12.093871,54.107392],[12.094782,54.106869],[12.095075,54.10658],[12.095426,54.106243],[12.095519,54.106016],[12.095486,54.10566],[12.095761,54.105454],[12.096074,54.105153],[12.096201,54.104783],[12.096471,54.104412],[12.096401,54.104151],[12.096332,54.103938],[12.096709,54.103755],[12.097371,54.103604],[12.097647,54.10341],[12.097753,54.102981],[12.097989,54.102277],[12.098518,54.101953],[12.100009,54.101669],[12.101716,54.100256],[12.102165,54.099276],[12.106447,54.098057],[12.10682,54.098313],[12.107983,54.097514],[12.107232,54.096347],[12.112074,54.094443],[12.113479,54.094799],[12.114053,54.095142],[12.123736,54.092537],[12.126562,54.0925],[12.126691,54.092678],[12.126302,54.092917],[12.123654,54.093194],[12.12377,54.093848],[12.12774,54.093347],[12.133749,54.09344],[12.133926,54.092862],[12.137799,54.093063],[12.14347,54.093079],[12.143561,54.093559],[12.143635,54.093949],[12.14662,54.093918],[12.148271,54.092333],[12.149237,54.092419],[12.148742,54.093881],[12.149304,54.094179],[12.149736,54.09429],[12.150443,54.094388],[12.150916,54.094373],[12.151355,54.094259],[12.151727,54.093974],[12.152115,54.0936],[12.152506,54.093184],[12.152715,54.092922],[12.153352,54.092169],[12.153611,54.091548],[12.153544,54.090835],[12.153445,54.090373],[12.15313,54.090337],[12.152546,54.090228],[12.152399,54.089987],[12.152596,54.089554],[12.152763,54.089129],[12.152786,54.088527],[12.152457,54.087921],[12.151852,54.087264],[12.151203,54.086679],[12.150715,54.0863],[12.150492,54.08606],[12.150283,54.085802],[12.150293,54.085658],[12.150574,54.085412],[12.150944,54.085286],[12.151324,54.085161],[12.151964,54.085287],[12.15203,54.085975],[12.152205,54.086318],[12.152438,54.086588],[12.152818,54.087023],[12.153281,54.087504],[12.153544,54.087869],[12.153838,54.088359],[12.154072,54.089381],[12.154573,54.090786],[12.15458,54.091511],[12.154358,54.092064],[12.154262,54.092352],[12.154135,54.092624],[12.153961,54.092886],[12.152354,54.095153],[12.152024,54.095514],[12.152041,54.095954],[12.152221,54.096136],[12.152703,54.096349],[12.153095,54.096558],[12.153445,54.096719],[12.153553,54.096884],[12.153155,54.097056],[12.152828,54.097222],[12.152634,54.097324],[12.152082,54.097545],[12.15148,54.097684],[12.15084,54.097859],[12.150239,54.098009],[12.149375,54.098152],[12.148469,54.098247],[12.147822,54.098243],[12.147028,54.098099],[12.146396,54.097977],[12.145784,54.097831],[12.144987,54.097615],[12.144299,54.0976],[12.143642,54.097595],[12.142842,54.097548],[12.142412,54.097423],[12.141923,54.097323],[12.140775,54.097354],[12.140332,54.097378],[12.139464,54.097452],[12.13906,54.097527],[12.138727,54.097804],[12.138368,54.097928],[12.137598,54.097902],[12.136547,54.097916],[12.135655,54.097845],[12.134579,54.09774],[12.133542,54.097587],[12.132874,54.09756],[12.132282,54.097401],[12.132214,54.097212],[12.132027,54.097072],[12.129197,54.096016],[12.128815,54.09608],[12.128202,54.095898],[12.128151,54.095637],[12.126749,54.095453],[12.126304,54.095387],[12.125845,54.095375],[12.125405,54.095462],[12.124708,54.095632],[12.124359,54.095707],[12.12339,54.095913],[12.119137,54.0968],[12.118322,54.097155],[12.117167,54.097621],[12.115082,54.099193],[12.114725,54.099364],[12.114381,54.099299],[12.11383,54.099798],[12.11361,54.100052],[12.113559,54.100331],[12.113981,54.100574],[12.114072,54.100846],[12.113508,54.101436],[12.111868,54.102479],[12.111406,54.103091],[12.110459,54.103721],[12.109688,54.104195],[12.108993,54.104536],[12.108601,54.104886],[12.108496,54.105346],[12.108204,54.105616],[12.10781,54.105985],[12.106139,54.10755],[12.105228,54.108541],[12.10353,54.109918],[12.102029,54.109669],[12.101592,54.10969],[12.101441,54.109977],[12.101695,54.110282],[12.102032,54.110658],[12.10201,54.111134],[12.101781,54.111517],[12.101469,54.11183],[12.101278,54.112142],[12.101416,54.112497],[12.101186,54.112896],[12.100822,54.113403],[12.100356,54.113762],[12.100003,54.114063],[12.099835,54.114434],[12.099595,54.115067],[12.099344,54.115379],[12.098933,54.115741],[12.098665,54.116251],[12.098379,54.116776],[12.098365,54.117352],[12.098529,54.117956],[12.098688,54.11843],[12.098377,54.118755],[12.098082,54.118996],[12.097972,54.119306],[12.09823,54.119719],[12.098302,54.120015],[12.098272,54.120313],[12.098078,54.120529],[12.09774,54.120676],[12.097686,54.120867],[12.09767,54.121178],[12.097813,54.121554],[12.098163,54.121728],[12.098528,54.121747],[12.09887,54.121695],[12.099299,54.122355],[12.099516,54.122745],[12.099718,54.123301],[12.099934,54.123654],[12.100501,54.124528],[12.100517,54.124968],[12.100409,54.125347],[12.100206,54.125664],[12.100187,54.125969],[12.100201,54.126329],[12.100091,54.12668],[12.099904,54.126997],[12.099648,54.127413],[12.099462,54.127867],[12.099159,54.128363],[12.098995,54.128886],[12.098848,54.129454],[12.098612,54.130508],[12.09846,54.130959],[12.098355,54.131409],[12.098166,54.131699],[12.098025,54.132006],[12.098063,54.132686],[12.098188,54.133338],[12.098245,54.134335],[12.098196,54.134645],[12.097978,54.134864],[12.097458,54.134928],[12.097427,54.13519],[12.097937,54.135302],[12.098386,54.135415],[12.098477,54.135687],[12.098287,54.136022],[12.097909,54.136193],[12.097307,54.136332],[12.096391,54.136644],[12.096396,54.137591],[12.096409,54.140491],[12.096976,54.140507],[12.097171,54.142489],[12.097259,54.143822],[12.097308,54.144555],[12.097017,54.151898],[12.098844,54.153716],[12.100489,54.15391],[12.102248,54.145225],[12.105013,54.145367],[12.103143,54.154101],[12.102925,54.155649],[12.105926,54.156086],[12.1116,54.146245],[12.114075,54.146719],[12.108792,54.156518],[12.107962,54.158089],[12.110193,54.159251],[12.116524,54.159473],[12.118465,54.158211],[12.11907,54.157386],[12.12359,54.149785],[12.126199,54.150359],[12.121916,54.157993],[12.123578,54.158285],[12.127322,54.157671],[12.130756,54.155146],[12.132052,54.15572],[12.132094,54.15611],[12.133375,54.156729],[12.130948,54.158825],[12.131728,54.159056],[12.13361,54.157678],[12.136357,54.15828],[12.137639,54.159781],[12.140255,54.159765],[12.142719,54.15975],[12.142821,54.160027],[12.14296,54.160457],[12.143063,54.160743],[12.143128,54.160859],[12.143226,54.161001],[12.143147,54.16128],[12.142585,54.161468],[12.140283,54.161371],[12.139431,54.16145],[12.138709,54.161324],[12.137406,54.161097],[12.137015,54.161753],[12.136899,54.162352],[12.136775,54.162761],[12.136904,54.163112],[12.137299,54.163758],[12.137678,54.164621],[12.137824,54.165406],[12.138095,54.16617],[12.138333,54.167173],[12.138292,54.167722],[12.138,54.168094],[12.13949,54.168218],[12.140862,54.168865],[12.141928,54.169543],[12.142391,54.170584],[12.142591,54.170975],[12.143022,54.171316],[12.142994,54.171838],[12.142826,54.172288],[12.142253,54.173015],[12.141672,54.172941],[12.14077,54.172908],[12.140487,54.17311],[12.140787,54.173348],[12.141346,54.173556],[12.142682,54.174051],[12.143179,54.174233],[12.142888,54.174457],[12.141322,54.175344],[12.140732,54.175109],[12.140201,54.174847],[12.139646,54.174737],[12.138877,54.174877],[12.137734,54.175218],[12.136287,54.174979],[12.135045,54.174452],[12.134896,54.174197],[12.135001,54.17391],[12.134321,54.174008],[12.133455,54.174207],[12.13211,54.173907],[12.131062,54.173717],[12.129953,54.173732],[12.129379,54.173848],[12.128789,54.174154],[12.128409,54.173959],[12.127239,54.174468],[12.123067,54.177695],[12.120469,54.176863],[12.118972,54.176384],[12.117171,54.175811],[12.115496,54.175428],[12.114608,54.175287],[12.112894,54.175228],[12.108637,54.175201],[12.107984,54.17506],[12.107862,54.174781],[12.107272,54.170863],[12.106668,54.170682],[12.105542,54.170454],[12.103583,54.169893],[12.100993,54.169288],[12.100683,54.169474],[12.099705,54.171167],[12.096823,54.176422],[12.096823,54.176853],[12.09665,54.177134],[12.096449,54.177505],[12.097151,54.177846],[12.095258,54.181301],[12.095486,54.181272],[12.096645,54.180736],[12.098831,54.179801],[12.101194,54.178813],[12.101952,54.179588],[12.102672,54.179341],[12.102456,54.178963],[12.103104,54.178684],[12.10434,54.17844],[12.105471,54.178367],[12.106867,54.178337],[12.108208,54.178439],[12.109414,54.178732],[12.111072,54.179186],[12.115623,54.18087],[12.117799,54.181722],[12.119182,54.18227],[12.12038,54.182758],[12.121516,54.183255],[12.122668,54.183752],[12.123805,54.184258],[12.124943,54.184782],[12.125863,54.185229],[12.126769,54.185684],[12.127472,54.186061],[12.128161,54.186447],[12.129006,54.186939],[12.130151,54.187652],[12.132269,54.18899],[12.133399,54.189712],[12.134358,54.190346],[12.136229,54.191624],[12.137142,54.192268],[12.138055,54.19292],[12.138953,54.193573],[12.139836,54.194235],[12.140619,54.194854],[12.141584,54.1956],[12.142031,54.195986],[12.142422,54.196325],[12.143442,54.197178],[12.144406,54.197984],[12.145146,54.198666],[12.145722,54.19917],[12.146532,54.199907],[12.147278,54.200587],[12.147977,54.201237],[12.148844,54.202087],[12.149726,54.202884],[12.151298,54.203867],[12.152246,54.204817],[12.153189,54.205625],[12.154205,54.206752],[12.155159,54.207844],[12.156166,54.208722],[12.157241,54.209778],[12.15838,54.210939],[12.15946,54.212137],[12.160605,54.21344],[12.161689,54.214745],[12.162582,54.215803],[12.163732,54.217249],[12.16475,54.218412],[12.165594,54.219791],[12.166548,54.220848],[12.167625,54.221974],[12.168767,54.223171],[12.169911,54.224439],[12.170989,54.225565],[12.172314,54.226795],[12.173703,54.228096],[12.174899,54.229113],[12.176212,54.230023],[12.177712,54.231036],[12.179216,54.232157],[12.180599,54.233315],[12.182163,54.234399],[12.183355,54.23531],[12.18461,54.236291],[12.186107,54.237233],[12.187659,54.237997],[12.189527,54.239077],[12.191208,54.240052],[12.192888,54.240992],[12.194566,54.241861],[12.196054,54.242553],[12.197969,54.243276],[12.198578,54.243498],[12.19976,54.243929],[12.200234,54.244207],[12.200911,54.244604],[12.201068,54.244696],[12.202598,54.244413],[12.206405,54.24371],[12.223836,54.242035],[12.225379,54.241888],[12.226456,54.242778],[12.228392,54.24249],[12.229496,54.242216],[12.231574,54.241514],[12.232222,54.241406],[12.234671,54.241858],[12.23715,54.241441],[12.239385,54.241018],[12.240182,54.241173],[12.242163,54.242428],[12.243534,54.242957],[12.244418,54.242943],[12.245221,54.242742],[12.246892,54.241815],[12.249173,54.24172],[12.251347,54.241627],[12.253857,54.242265],[12.255968,54.243269],[12.258349,54.242993],[12.259459,54.24313],[12.261879,54.243428],[12.262822,54.243604],[12.263478,54.242786]]],[[[12.107607,54.162937],[12.107079,54.162908],[12.105999,54.163267],[12.105268,54.163751],[12.104849,54.16447],[12.104577,54.165305],[12.104614,54.166258],[12.104775,54.166655],[12.105376,54.167132],[12.106261,54.167406],[12.107139,54.167509],[12.10767,54.167416],[12.108051,54.167183],[12.10823,54.166782],[12.108169,54.16644],[12.108127,54.165474],[12.108307,54.164889],[12.108475,54.164483],[12.108573,54.163875],[12.108516,54.163437],[12.108138,54.163061],[12.107607,54.162937]]],[[[12.103722,54.167603],[12.10271,54.167572],[12.102355,54.167639],[12.102179,54.167807],[12.102306,54.167972],[12.10259,54.16804],[12.102982,54.168166],[12.103329,54.168256],[12.103568,54.168396],[12.104086,54.16846],[12.104547,54.168401],[12.104665,54.168274],[12.104627,54.168068],[12.104312,54.167821],[12.104079,54.167734],[12.103722,54.167603]]]],"type":"MultiPolygon"}
 }

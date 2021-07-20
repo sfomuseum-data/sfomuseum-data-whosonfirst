@@ -60,6 +60,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bakersfield Meadows Field Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -79,14 +80,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BFL",
-      "gn:id": 5371940,
-      "gp:id": 12520881,
       "iata:code": "BFL",
-      "icao:code": "KBFL",
-      "oa:id": "3402",
-      "wd:id": "Q652265",
-      "wk:page": "Meadows_Field_Airport"
+      "icao:code": "KBFL"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -102,7 +97,7 @@
       }
     ],
     "wof:id": 102527035,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Kern County-Meadows Field Airport",
     "wof:parent_id": 85876059,
     "wof:placetype": "campus",

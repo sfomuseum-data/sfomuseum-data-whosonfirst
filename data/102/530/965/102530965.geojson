@@ -45,6 +45,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -61,13 +62,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "NYL",
-      "gp:id": 12522544,
-      "iata:code": "YUM",
-      "icao:code": "KNYL",
-      "oa:id": "3961",
-      "wd:id": "Q6587748",
-      "wk:page": "Yuma_International_Airport"
+      "icao:code": "KNYL"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -83,7 +78,7 @@
       }
     ],
     "wof:id": 102530965,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Yuma International Airport",
     "wof:parent_id": 420535897,
     "wof:placetype": "campus",

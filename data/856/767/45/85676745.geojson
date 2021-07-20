@@ -327,6 +327,8 @@
     "qs:level": "adm1",
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -380,7 +382,7 @@
       "fra",
       "tah"
     ],
-    "wof:lastmodified": 1624907151,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Marquesas Islands",
     "wof:parent_id": 85632653,
     "wof:placetype": "region",

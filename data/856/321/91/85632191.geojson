@@ -1068,6 +1068,8 @@
     "qs:scale": 200000,
     "qs:source": "US State Department, with Natural Earth mods",
     "reversegeo:geometry": "85632191-alt-meso-reversegeo.geojson",
+    "sfomuseum:placetype": "country",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "naturalearth",
@@ -1150,7 +1152,7 @@
       "ara",
       "ckb"
     ],
-    "wof:lastmodified": 1624907115,
+    "wof:lastmodified": 1626825068,
     "wof:name": "Iraq",
     "wof:parent_id": 102191569,
     "wof:placetype": "country",

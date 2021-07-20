@@ -139,6 +139,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Mexico City International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -161,12 +162,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12514910,
       "iata:code": "MEX",
-      "icao:code": "MMMX",
-      "oa:id": "4731",
-      "wd:id": "Q860559",
-      "wk:page": "Mexico_City_International_Airport"
+      "icao:code": "MMMX"
     },
     "wof:country": "MX",
     "wof:created": 1624906851,
@@ -194,7 +191,7 @@
       }
     ],
     "wof:id": 102536579,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Benito Juarez International Airport",
     "wof:parent_id": 85793999,
     "wof:placetype": "campus",

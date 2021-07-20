@@ -70,6 +70,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 185,
@@ -88,12 +89,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511734,
-      "iata:code": "YLL",
-      "icao:code": "CYLL",
-      "oa:id": "1803",
-      "wd:id": "Q1431897",
-      "wk:page": "Lloydminster_Airport"
+      "iata:code": "YLL"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -110,7 +106,7 @@
       }
     ],
     "wof:id": 102555489,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Lloydminster Airport",
     "wof:parent_id": 1158868415,
     "wof:placetype": "campus",

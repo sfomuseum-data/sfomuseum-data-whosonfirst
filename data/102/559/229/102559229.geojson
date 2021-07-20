@@ -91,6 +91,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bucharest Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -107,12 +108,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515558,
       "iata:code": "OTP",
-      "icao:code": "LROP",
-      "oa:id": "4482",
-      "wd:id": "Q257631",
-      "wk:page": "Henri_Coand%C4%83_International_Airport"
+      "icao:code": "LROP"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -127,7 +124,7 @@
       }
     ],
     "wof:id": 102559229,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Otopeni Airport",
     "wof:parent_id": 101753935,
     "wof:placetype": "campus",

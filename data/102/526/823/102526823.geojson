@@ -51,6 +51,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -67,14 +68,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SUU",
-      "gn:id": 5403312,
-      "gp:id": 12522183,
       "iata:code": "SUU",
-      "icao:code": "KSUU",
-      "oa:id": "3908",
-      "wd:id": "Q3497425",
-      "wk:page": "Travis_Air_Force_Base"
+      "icao:code": "KSUU"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -87,7 +82,7 @@
       }
     ],
     "wof:id": 102526823,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Travis Air Force Base",
     "wof:parent_id": 85688637,
     "wof:placetype": "campus",

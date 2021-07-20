@@ -144,6 +144,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cologne Bonn Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -163,12 +164,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23030981,
       "iata:code": "CGN",
-      "icao:code": "EDDK",
-      "oa:id": "2216",
-      "wd:id": "Q157741",
-      "wk:page": "Cologne_Bonn_Airport"
+      "icao:code": "EDDK"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -185,7 +182,7 @@
       }
     ],
     "wof:id": 102549127,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Cologne Bonn Airport",
     "wof:parent_id": 101752771,
     "wof:placetype": "campus",

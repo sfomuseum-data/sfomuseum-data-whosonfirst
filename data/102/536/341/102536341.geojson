@@ -76,6 +76,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -93,12 +94,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12514882,
-      "iata:code": "ACA",
-      "icao:code": "MMAA",
-      "oa:id": "4688",
-      "wd:id": "Q1430720",
-      "wk:page": "General_Juan_N._%C3%81lvarez_International_Airport"
+      "iata:code": "ACA"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -114,7 +110,7 @@
       }
     ],
     "wof:id": 102536341,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "General Juan N Alvarez International Airport",
     "wof:parent_id": 101991509,
     "wof:placetype": "campus",

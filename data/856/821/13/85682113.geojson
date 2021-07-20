@@ -517,6 +517,8 @@
     "qs:level": "adm1",
     "qs:source": "Canada Census",
     "qs:type": "PROV",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -572,7 +574,7 @@
       "iku",
       "ikt"
     ],
-    "wof:lastmodified": 1624907154,
+    "wof:lastmodified": 1626825088,
     "wof:name": "Saskatchewan",
     "wof:parent_id": 85633041,
     "wof:placetype": "region",

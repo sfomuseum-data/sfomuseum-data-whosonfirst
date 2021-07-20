@@ -480,6 +480,8 @@
     "qs:pop": 0,
     "qs:source": "NCanada Census",
     "qs:type": "City",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -517,7 +519,7 @@
       }
     ],
     "wof:id": 101735855,
-    "wof:lastmodified": 1624906514,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Windsor",
     "wof:parent_id": 890458683,
     "wof:placetype": "locality",

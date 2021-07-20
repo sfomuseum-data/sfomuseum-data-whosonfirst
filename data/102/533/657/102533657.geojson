@@ -122,6 +122,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Orlando International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -143,14 +144,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MCO",
-      "gn:id": 4167162,
-      "gp:id": 12521243,
       "iata:code": "MCO",
-      "icao:code": "KMCO",
-      "oa:id": "3670",
-      "wd:id": "Q929859",
-      "wk:page": "Orlando_International_Airport"
+      "icao:code": "KMCO"
     },
     "wof:country": "US",
     "wof:created": 1624906850,
@@ -167,7 +162,7 @@
       }
     ],
     "wof:id": 102533657,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Orlando International Airport",
     "wof:parent_id": 85879479,
     "wof:placetype": "campus",

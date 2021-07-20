@@ -174,6 +174,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -220,7 +222,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1624907173,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Coronado",
     "wof:parent_id": 102083569,
     "wof:placetype": "locality",

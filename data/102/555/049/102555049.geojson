@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -65,11 +66,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12524095,
-      "iata:code": "YCX",
-      "icao:code": "CYXC",
-      "oa:id": "1700",
-      "wd:id": "Q1023449"
+      "icao:code": "CYXC"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -86,7 +83,7 @@
       }
     ],
     "wof:id": 102555049,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Gagetown Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

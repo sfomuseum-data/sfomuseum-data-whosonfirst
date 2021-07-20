@@ -2,75 +2,76 @@
   "id": 1360691531,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1988-07-06",
-    "date:cessation_upper":"1988-07-06",
-    "date:inception_lower":"1925-01-01",
-    "date:inception_upper":"1925-12-31",
-    "edtf:cessation":"1988-07-06",
-    "edtf:inception":1925,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.197994,22.321406,114.197994,22.321406",
-    "geom:latitude":22.321406,
-    "geom:longitude":114.197994,
-    "iso:country":"HK",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "Hong Kong International Airport"
+    "date:cessation_lower": "1988-07-06",
+    "date:cessation_upper": "1988-07-06",
+    "date:inception_lower": "1925-01-01",
+    "date:inception_upper": "1925-12-31",
+    "edtf:cessation": "1988-07-06",
+    "edtf:inception": 1925,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "114.197994,22.321406,114.197994,22.321406",
+    "geom:latitude": 22.321406,
+    "geom:longitude": 114.197994,
+    "iso:country": "HK",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "Hong Kong International Airport"
     ],
-    "name:eng_x_variant":[
-        "Kai Tak International Airport"
+    "name:eng_x_variant": [
+      "Kai Tak International Airport"
     ],
-    "sfomuseum:airport_id":52,
-    "sfomuseum:count_objects_public":9,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:name":"Hong Kong Kai Tak Airport",
-    "sfomuseum:placetype":"airport",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102541737,
-        102191569,
-        85632483,
-        1159397229,
-        85671847
+    "sfomuseum:airport_id": 52,
+    "sfomuseum:count_objects_public": 9,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Hong Kong Kai Tak Airport",
+    "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102191569,
+      85632483,
+      1159397229,
+      85671847
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"HKG",
-        "icao:code":"VHHH"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "HKG",
+      "icao:code": "VHHH"
     },
-    "wof:country":"HK",
-    "wof:geomhash":"d0a87e1e583012f4678db733922c8ce0",
-    "wof:hierarchy":[
-        {
-            "campus_id":102541737,
-            "continent_id":102191569,
-            "country_id":85632483,
-            "locality_id":-1,
-            "macroregion_id":1159397229,
-            "neighbourhood_id":-1,
-            "region_id":85671847
-        }
+    "wof:country": "HK",
+    "wof:created": 1626825097,
+    "wof:geomhash": "d0a87e1e583012f4678db733922c8ce0",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1360691531,
+        "continent_id": 102191569,
+        "country_id": 85632483,
+        "locality_id": -1,
+        "macroregion_id": 1159397229,
+        "neighbourhood_id": -1,
+        "region_id": 85671847
+      }
     ],
-    "wof:id":1360691531,
-    "wof:lastmodified":1611601188,
-    "wof:name":"Hong Kong International Airport",
-    "wof:parent_id":-1,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-hk",
-    "wof:superseded_by":[
-        102541737
+    "wof:id": 1360691531,
+    "wof:lastmodified": 1626825097,
+    "wof:name": "Hong Kong International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-hk",
+    "wof:superseded_by": [
+      102541737
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.197994,
     22.321406,
     114.197994,
     22.321406
-],
-  "geometry": {"coordinates":[114.19799399999999,22.321406],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[114.197994,22.321406],"type":"Point"}
 }

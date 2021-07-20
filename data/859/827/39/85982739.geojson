@@ -84,6 +84,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4210",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -112,7 +114,7 @@
       }
     ],
     "wof:id": 85982739,
-    "wof:lastmodified": 1624906865,
+    "wof:lastmodified": 1626825095,
     "wof:name": "Minot AFB",
     "wof:parent_id": 404481947,
     "wof:placetype": "locality",

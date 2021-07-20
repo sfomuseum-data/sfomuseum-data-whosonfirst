@@ -37,6 +37,8 @@
     "qs:loc": "Pinkenba",
     "qs:pop": 0,
     "qs:source": "SAustralian Bureau Of Statistics: state suburbs file selection",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 101935137,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Pinkenba",
     "wof:parent_id": 404543751,
     "wof:placetype": "locality",

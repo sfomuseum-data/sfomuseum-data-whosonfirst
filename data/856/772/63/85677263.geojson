@@ -240,6 +240,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Region",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -302,7 +304,7 @@
       "som",
       "ara"
     ],
-    "wof:lastmodified": 1624906864,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Banaadir",
     "wof:parent_id": 85632379,
     "wof:placetype": "region",

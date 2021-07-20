@@ -226,6 +226,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Paris Charles de Gaulle Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -248,12 +249,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22140453,
       "iata:code": "CDG",
-      "icao:code": "LFPG",
-      "oa:id": "4185",
-      "wd:id": "Q46280",
-      "wk:page": "Charles_de_Gaulle_International_Airport"
+      "icao:code": "LFPG"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -273,7 +270,7 @@
       }
     ],
     "wof:id": 102544459,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Paris Charles de Gaulle Airport",
     "wof:parent_id": 101751311,
     "wof:placetype": "campus",

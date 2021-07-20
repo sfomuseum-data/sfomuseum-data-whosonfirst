@@ -168,6 +168,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Atlanta Municipal Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -192,13 +193,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ATL",
-      "gp:id": 12522118,
       "iata:code": "ATL",
-      "icao:code": "KATL",
-      "oa:id": "3384",
-      "wd:id": "Q214861",
-      "wk:page": "Hartsfield-Jackson_Atlanta_International_Airport"
+      "icao:code": "KATL"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -228,7 +224,7 @@
       }
     ],
     "wof:id": 102526927,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Hartsfield-Jackson Atlanta International Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

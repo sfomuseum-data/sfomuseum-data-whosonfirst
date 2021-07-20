@@ -85,6 +85,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Iqaluit Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -103,10 +104,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511707,
       "iata:code": "YFB",
-      "icao:code": "CYFB",
-      "wd:id": "Q2415100"
+      "icao:code": "CYFB"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -121,7 +120,7 @@
       }
     ],
     "wof:id": 102555329,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Iqaluit Airport",
     "wof:parent_id": 101735445,
     "wof:placetype": "campus",

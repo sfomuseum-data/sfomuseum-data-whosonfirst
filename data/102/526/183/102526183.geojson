@@ -45,6 +45,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Lake Tahoe Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -66,14 +67,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "TVL",
-      "gn:id": 5364687,
-      "gp:id": 12520534,
       "iata:code": "TVL",
-      "icao:code": "KTVL",
-      "oa:id": "3934",
-      "wd:id": "Q6477937",
-      "wk:page": "Lake_Tahoe_Airport"
+      "icao:code": "KTVL"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -99,7 +94,7 @@
       }
     ],
     "wof:id": 102526183,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Lake Tahoe Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

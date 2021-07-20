@@ -238,6 +238,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Province",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -291,7 +293,7 @@
       "eng",
       "fra"
     ],
-    "wof:lastmodified": 1624907151,
+    "wof:lastmodified": 1626825084,
     "wof:name": "Shefa",
     "wof:parent_id": 85632263,
     "wof:placetype": "region",

@@ -133,6 +133,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ministro Pistarini International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -151,12 +152,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12510496,
       "iata:code": "EZE",
-      "icao:code": "SAEZ",
-      "oa:id": "5781",
-      "wd:id": "Q384788",
-      "wk:page": "Ministro_Pistarini_International_Airport"
+      "icao:code": "SAEZ"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -171,7 +168,7 @@
       }
     ],
     "wof:id": 102553685,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Ministro Pistarini International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

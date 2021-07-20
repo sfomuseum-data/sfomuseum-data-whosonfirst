@@ -69,6 +69,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Molokai Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -89,14 +90,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MKK",
-      "gn:id": 5851208,
-      "gp:id": 12520984,
       "iata:code": "MKK",
-      "icao:code": "PHMK",
-      "oa:id": "5450",
-      "wd:id": "Q3566501",
-      "wk:page": "Molokai_Airport"
+      "icao:code": "PHMK"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -113,7 +108,7 @@
       }
     ],
     "wof:id": 102531119,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Molokai Airport",
     "wof:parent_id": 85890281,
     "wof:placetype": "campus",

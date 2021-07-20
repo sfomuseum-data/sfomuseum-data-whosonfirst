@@ -112,6 +112,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "San Jose Municipal Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -137,14 +138,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SJC",
-      "gn:id": 5392196,
-      "gp:id": 12521722,
       "iata:code": "SJC",
-      "icao:code": "KSJC",
-      "oa:id": "3883",
-      "wd:id": "Q1257392",
-      "wk:page": "San_Jose_International_Airport"
+      "icao:code": "KSJC"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -174,7 +169,7 @@
       }
     ],
     "wof:id": 102527529,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Norman Y Mineta San Jose International Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

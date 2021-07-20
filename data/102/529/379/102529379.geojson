@@ -34,6 +34,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 260,
@@ -54,13 +55,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SEG",
-      "gp:id": 12521331,
-      "iata:code": "SEG",
-      "icao:code": "KSEG",
-      "oa:id": "21049",
-      "wd:id": "Q7163344",
-      "wk:page": "Penn_Valley_Airport"
+      "iata:code": "SEG"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -78,7 +73,7 @@
       }
     ],
     "wof:id": 102529379,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Penn Valley Airport",
     "wof:parent_id": 85814743,
     "wof:placetype": "campus",

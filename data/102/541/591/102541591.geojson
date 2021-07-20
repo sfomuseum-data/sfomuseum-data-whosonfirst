@@ -182,6 +182,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tokyo Haneda Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -201,13 +202,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gn:id": 6300412,
-      "gp:id": 23388311,
       "iata:code": "HND",
-      "icao:code": "RJTT",
-      "oa:id": "5627",
-      "wd:id": "Q204853",
-      "wk:page": "Tokyo_International_Airport"
+      "icao:code": "RJTT"
     },
     "wof:country": "JP",
     "wof:created": 1624906850,
@@ -224,7 +220,7 @@
       }
     ],
     "wof:id": 102541591,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Tokyo Haneda Airport",
     "wof:parent_id": 85911187,
     "wof:placetype": "campus",

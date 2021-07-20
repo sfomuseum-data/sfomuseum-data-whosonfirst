@@ -40,6 +40,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 335,
@@ -59,11 +60,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12510612,
-      "iata:code": "BOX",
-      "icao:code": "BOXE",
-      "oa:id": "26926",
-      "wd:id": "Q4946599"
+      "icao:code": "BOXE"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -81,7 +78,7 @@
       }
     ],
     "wof:id": 102557953,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Borroloola Airport",
     "wof:parent_id": 101938395,
     "wof:placetype": "campus",

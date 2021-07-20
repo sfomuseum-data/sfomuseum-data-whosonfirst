@@ -166,6 +166,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Suvarnabhumi Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -184,12 +185,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 56049647,
       "iata:code": "BKK",
-      "icao:code": "VTBS",
-      "oa:id": "28118",
-      "wd:id": "Q194316",
-      "wk:page": "Suvarnabhumi_Airport"
+      "icao:code": "VTBS"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -205,7 +202,7 @@
       }
     ],
     "wof:id": 102547905,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Suvarnabhumi International Airport",
     "wof:parent_id": 102025675,
     "wof:placetype": "campus",

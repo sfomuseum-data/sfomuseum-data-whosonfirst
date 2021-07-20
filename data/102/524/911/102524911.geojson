@@ -85,6 +85,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Fairbanks International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -104,14 +105,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "FAI",
-      "gn:id": 5861905,
-      "gp:id": 12519682,
       "iata:code": "FAI",
-      "icao:code": "PAFA",
-      "oa:id": "5360",
-      "wd:id": "Q1431295",
-      "wk:page": "Fairbanks_International_Airport"
+      "icao:code": "PAFA"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -127,7 +122,7 @@
       }
     ],
     "wof:id": 102524911,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Fairbanks International Airport",
     "wof:parent_id": 85916551,
     "wof:placetype": "campus",

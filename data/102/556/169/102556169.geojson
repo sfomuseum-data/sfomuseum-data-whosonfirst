@@ -124,6 +124,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Comodoro Arturo Merino Benítez International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -144,12 +145,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12512304,
       "iata:code": "SCL",
-      "icao:code": "SCEL",
-      "oa:id": "6015",
-      "wd:id": "Q127671",
-      "wk:page": "Comodoro_Arturo_Merino_Ben%C3%ADtez_International_Airport"
+      "icao:code": "SCEL"
     },
     "wof:country": "",
     "wof:created": 1624906825,
@@ -173,7 +170,7 @@
       }
     ],
     "wof:id": 102556169,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Arturo Merino Benitez International Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

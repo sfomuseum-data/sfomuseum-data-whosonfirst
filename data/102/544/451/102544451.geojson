@@ -139,6 +139,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Nice Côte d’Azur Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -162,10 +163,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22143543,
       "iata:code": "NCE",
-      "icao:code": "LFMN",
-      "wd:id": "Q821557"
+      "icao:code": "LFMN"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -185,7 +184,7 @@
       }
     ],
     "wof:id": 102544451,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Nice Cote d’Azur Airport",
     "wof:parent_id": 85794553,
     "wof:placetype": "campus",

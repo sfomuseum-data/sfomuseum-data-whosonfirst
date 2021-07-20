@@ -79,6 +79,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Burlington International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -99,14 +100,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BTV",
-      "gn:id": 5234381,
-      "gp:id": 12518979,
       "iata:code": "BTV",
-      "icao:code": "KBTV",
-      "oa:id": "3430",
-      "wd:id": "Q2750047",
-      "wk:page": "Burlington_International_Airport"
+      "icao:code": "KBTV"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -123,7 +118,7 @@
       }
     ],
     "wof:id": 102532853,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Burlington International Airport",
     "wof:parent_id": 101728313,
     "wof:placetype": "campus",

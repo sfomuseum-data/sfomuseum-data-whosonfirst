@@ -178,6 +178,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Zurich Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -198,12 +199,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22442771,
       "iata:code": "ZRH",
-      "icao:code": "LSZH",
-      "oa:id": "4505",
-      "wd:id": "Q15114",
-      "wk:page": "Z%C3%BCrich_Airport"
+      "icao:code": "LSZH"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -220,7 +217,7 @@
       }
     ],
     "wof:id": 102553957,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Zurich International Airport",
     "wof:parent_id": 85800527,
     "wof:placetype": "campus",

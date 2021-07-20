@@ -304,6 +304,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Department",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -364,7 +366,7 @@
       "que",
       "aym"
     ],
-    "wof:lastmodified": 1624906857,
+    "wof:lastmodified": 1626825081,
     "wof:name": "Santa Cruz",
     "wof:parent_id": 85632623,
     "wof:placetype": "region",

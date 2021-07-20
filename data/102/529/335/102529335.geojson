@@ -45,6 +45,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -59,14 +60,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "PIB",
-      "gn:id": 4441168,
-      "gp:id": 12521381,
-      "iata:code": "PIB",
-      "icao:code": "KPIB",
-      "oa:id": "3774",
-      "wd:id": "Q3886198",
-      "wk:page": "Hattiesburg-Laurel_Regional_Airport"
+      "icao:code": "KPIB"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -79,7 +73,7 @@
       }
     ],
     "wof:id": 102529335,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Pine Belt Regional Airport",
     "wof:parent_id": 85688579,
     "wof:placetype": "campus",

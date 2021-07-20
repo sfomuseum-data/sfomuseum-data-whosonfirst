@@ -55,6 +55,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -75,14 +76,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "CPS",
-      "gn:id": 4248994,
-      "gp:id": 12521970,
       "iata:code": "CPS",
-      "icao:code": "KCPS",
-      "oa:id": "19540",
-      "wd:id": "Q7589613",
-      "wk:page": "St._Louis_Downtown_Airport"
+      "icao:code": "KCPS"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -99,7 +94,7 @@
       }
     ],
     "wof:id": 102533437,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "St Louis Downtown Parks Airport",
     "wof:parent_id": 85940687,
     "wof:placetype": "campus",

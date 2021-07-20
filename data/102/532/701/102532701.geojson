@@ -98,6 +98,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bradley International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -118,14 +119,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BDL",
-      "gn:id": 5282636,
-      "gp:id": 12518915,
       "iata:code": "BDL",
-      "icao:code": "KBDL",
-      "oa:id": "3396",
-      "wd:id": "Q1420233",
-      "wk:page": "Bradley_International_Airport"
+      "icao:code": "KBDL"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -142,7 +137,7 @@
       }
     ],
     "wof:id": 102532701,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Bradley International Airport",
     "wof:parent_id": 85931007,
     "wof:placetype": "campus",

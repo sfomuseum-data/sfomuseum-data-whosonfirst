@@ -122,6 +122,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -140,12 +141,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388353,
-      "iata:code": "JED",
-      "icao:code": "OEJN",
-      "oa:id": "5097",
-      "wd:id": "Q153592",
-      "wk:page": "King_Abdulaziz_International_Airport"
+      "icao:code": "OEJN"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -162,7 +158,7 @@
       }
     ],
     "wof:id": 102537353,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "King Abdul Aziz International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

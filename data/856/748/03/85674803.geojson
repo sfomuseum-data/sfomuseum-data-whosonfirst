@@ -289,6 +289,8 @@
     "qs:level": "adm1",
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1624906863,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Saipan",
     "wof:parent_id": 85632421,
     "wof:placetype": "region",

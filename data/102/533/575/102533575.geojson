@@ -96,6 +96,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ontario International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -116,14 +117,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ONT",
-      "gn:id": 5379449,
-      "gp:id": 12521228,
       "iata:code": "ONT",
-      "icao:code": "KONT",
-      "oa:id": "3752",
-      "wd:id": "Q949831",
-      "wk:page": "Ontario_International_Airport"
+      "icao:code": "KONT"
     },
     "wof:country": "US",
     "wof:created": 1624906850,
@@ -140,7 +135,7 @@
       }
     ],
     "wof:id": 102533575,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Ontario International Airport",
     "wof:parent_id": 85837891,
     "wof:placetype": "campus",

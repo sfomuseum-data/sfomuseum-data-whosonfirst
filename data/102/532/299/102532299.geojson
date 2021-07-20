@@ -62,6 +62,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -81,14 +82,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "PUW",
-      "gn:id": 5807536,
-      "gp:id": 12521496,
       "iata:code": "PUW",
-      "icao:code": "KPUW",
-      "oa:id": "20883",
-      "wd:id": "Q489736",
-      "wk:page": "Pullman-Moscow_Regional_Airport"
+      "icao:code": "KPUW"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -104,7 +99,7 @@
       }
     ],
     "wof:id": 102532299,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Pullman-Moscow Regional Airport",
     "wof:parent_id": 85857603,
     "wof:placetype": "campus",

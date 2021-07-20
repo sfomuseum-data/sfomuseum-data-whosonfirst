@@ -85,6 +85,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4210",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -121,7 +123,7 @@
       }
     ],
     "wof:id": 85937583,
-    "wof:lastmodified": 1624906859,
+    "wof:lastmodified": 1626825084,
     "wof:name": "Kaneohe Station",
     "wof:parent_id": 102085417,
     "wof:placetype": "locality",

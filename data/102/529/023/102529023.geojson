@@ -58,6 +58,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -79,14 +80,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "LNK",
-      "gn:id": 5072047,
-      "gp:id": 12520655,
       "iata:code": "LNK",
-      "icao:code": "KLNK",
-      "oa:id": "3647",
-      "wd:id": "Q3545147",
-      "wk:page": "Lincoln_Airport_%28Nebraska%29"
+      "icao:code": "KLNK"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -104,7 +99,7 @@
       }
     ],
     "wof:id": 102529023,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Lincoln Municipal Airport",
     "wof:parent_id": 85878717,
     "wof:placetype": "campus",

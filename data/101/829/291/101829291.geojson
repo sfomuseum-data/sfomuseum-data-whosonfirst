@@ -297,6 +297,8 @@
     "qs:pop": 0,
     "qs:source": "ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "rural point-multi-in-poly-resolved",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "frgov",
     "src:geom_alt": [
       "quattroshapes_pg",
@@ -350,7 +352,7 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1624906516,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Déols",
     "wof:parent_id": 404356533,
     "wof:placetype": "locality",

@@ -112,6 +112,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Saint Louis Lambert International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -132,14 +133,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "STL",
-      "gn:id": 4394516,
-      "gp:id": 12520553,
       "iata:code": "STL",
-      "icao:code": "KSTL",
-      "oa:id": "3905",
-      "wd:id": "Q1425838",
-      "wk:page": "Lambert-St._Louis_International_Airport"
+      "icao:code": "KSTL"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -157,7 +152,7 @@
       }
     ],
     "wof:id": 102525961,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Lambert St Louis International Airport",
     "wof:parent_id": 85832777,
     "wof:placetype": "campus",

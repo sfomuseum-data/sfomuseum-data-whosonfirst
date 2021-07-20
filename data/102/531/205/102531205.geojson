@@ -117,6 +117,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Chicago Midway International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -139,14 +140,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MDW",
-      "gn:id": 4887472,
-      "gp:id": 12519178,
       "iata:code": "MDW",
-      "icao:code": "KMDW",
-      "oa:id": "3673",
-      "wd:id": "Q1061437",
-      "wk:page": "Chicago_Midway_International_Airport"
+      "icao:code": "KMDW"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -165,7 +160,7 @@
       }
     ],
     "wof:id": 102531205,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Chicago Midway International Airport",
     "wof:parent_id": 1024497015,
     "wof:placetype": "campus",

@@ -51,6 +51,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -71,14 +72,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "AFW",
-      "gn:id": 4691932,
-      "gp:id": 12519785,
-      "iata:code": "AFW",
-      "icao:code": "KAFW",
-      "oa:id": "3366",
-      "wd:id": "Q5472378",
-      "wk:page": "Fort_Worth_Alliance_Airport"
+      "iata:code": "AFW"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -95,7 +89,7 @@
       }
     ],
     "wof:id": 102528591,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Fort Worth Alliance Airport",
     "wof:parent_id": 85897409,
     "wof:placetype": "campus",

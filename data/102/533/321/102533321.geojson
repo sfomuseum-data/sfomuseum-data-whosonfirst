@@ -103,6 +103,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Louisville International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -124,13 +125,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SDF",
-      "gn:id": 6301715,
-      "gp:id": 12521983,
       "iata:code": "SDF",
-      "icao:code": "KSDF",
-      "wd:id": "Q1199087",
-      "wk:page": "Louisville International Airport"
+      "icao:code": "KSDF"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -147,7 +143,7 @@
       }
     ],
     "wof:id": 102533321,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Louisville International Airport",
     "wof:parent_id": 85873389,
     "wof:placetype": "campus",

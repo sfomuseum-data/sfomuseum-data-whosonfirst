@@ -370,6 +370,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tan Son Nhat International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -386,12 +387,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12522956,
       "iata:code": "SGN",
-      "icao:code": "VVTS",
-      "oa:id": "26708",
-      "wd:id": "Q478595",
-      "wk:page": "Tan_Son_Nhat_International_Airport"
+      "icao:code": "VVTS"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -406,7 +403,7 @@
       }
     ],
     "wof:id": 102559025,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Tan Son Nhut Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

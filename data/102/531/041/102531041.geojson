@@ -125,6 +125,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Oakland International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "oakced",
     "src:geom_alt": [
       "woedb"
@@ -147,14 +148,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "OAK",
-      "gn:id": 5372555,
-      "gp:id": 12520917,
       "iata:code": "OAK",
-      "icao:code": "KOAK",
-      "oa:id": "3744",
-      "wd:id": "Q1165584",
-      "wk:page": "Oakland_International_Airport"
+      "icao:code": "KOAK"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -174,7 +169,7 @@
       }
     ],
     "wof:id": 102531041,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Oakland International Airport",
     "wof:parent_id": 1108794155,
     "wof:placetype": "campus",

@@ -157,6 +157,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Shanghai Pudong International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -176,12 +177,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23428057,
       "iata:code": "PVG",
-      "icao:code": "ZSPD",
-      "oa:id": "27223",
-      "wd:id": "Q36420",
-      "wk:page": "Shanghai_Pudong_International_Airport"
+      "icao:code": "ZSPD"
     },
     "wof:country": "CN",
     "wof:created": 1624906444,
@@ -197,7 +194,7 @@
       }
     ],
     "wof:id": 102550331,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Pudong International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

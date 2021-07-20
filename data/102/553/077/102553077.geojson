@@ -138,6 +138,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Keflavík International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -154,10 +155,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12513445,
       "iata:code": "KEF",
-      "icao:code": "BIKF",
-      "wd:id": "Q139921"
+      "icao:code": "BIKF"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -172,7 +171,7 @@
       }
     ],
     "wof:id": 102553077,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Keflavik Airport",
     "wof:parent_id": 101845653,
     "wof:placetype": "campus",

@@ -116,6 +116,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Anchorage International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -136,14 +137,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ANC",
-      "gn:id": 5879378,
-      "gp:id": 12518613,
       "iata:code": "ANC",
-      "icao:code": "PANC",
-      "oa:id": "5388",
-      "wd:id": "Q767753",
-      "wk:page": "Ted_Stevens_Anchorage_International_Airport"
+      "icao:code": "PANC"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -160,7 +155,7 @@
       }
     ],
     "wof:id": 102531979,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Anchorage International Airport",
     "wof:parent_id": 85850461,
     "wof:placetype": "campus",

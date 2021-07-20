@@ -142,6 +142,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Soekarno-Hatta International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -160,12 +161,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388291,
       "iata:code": "CGK",
-      "icao:code": "WIII",
-      "oa:id": "26835",
-      "wd:id": "Q749497",
-      "wk:page": "Soekarno-Hatta_International_Airport"
+      "icao:code": "WIII"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -181,7 +178,7 @@
       }
     ],
     "wof:id": 102552069,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Bandara Udara Internasional Soekarno-Hatta",
     "wof:parent_id": 102020713,
     "wof:placetype": "campus",

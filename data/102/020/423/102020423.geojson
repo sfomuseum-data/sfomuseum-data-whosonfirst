@@ -323,6 +323,8 @@
     "qs:pop_sr": "0",
     "qs:source": "Nquattroshapes",
     "qs:type": "Town",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -361,7 +363,7 @@
       }
     ],
     "wof:id": 102020423,
-    "wof:lastmodified": 1624906904,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Jambi",
     "wof:parent_id": 102073101,
     "wof:placetype": "locality",

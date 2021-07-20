@@ -156,6 +156,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Humberto Delgado Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -177,10 +178,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22405520,
       "iata:code": "LIS",
-      "icao:code": "LPPT",
-      "wd:id": "Q403671"
+      "icao:code": "LPPT"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -197,7 +196,7 @@
       }
     ],
     "wof:id": 102535643,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Lisbon Portela Airport",
     "wof:parent_id": 85799047,
     "wof:placetype": "campus",

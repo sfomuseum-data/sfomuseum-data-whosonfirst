@@ -135,6 +135,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Johannesburg International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -155,12 +156,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12517424,
       "iata:code": "JNB",
-      "icao:code": "FAOR",
-      "oa:id": "2792",
-      "wd:id": "Q821750",
-      "wk:page": "OR_Tambo_International_Airport"
+      "icao:code": "FAOR"
     },
     "wof:country": "ZA",
     "wof:created": 1624906954,
@@ -177,7 +174,7 @@
       }
     ],
     "wof:id": 102546665,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "OR Tambo International Airport",
     "wof:parent_id": 85783143,
     "wof:placetype": "campus",

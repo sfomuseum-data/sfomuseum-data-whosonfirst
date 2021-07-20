@@ -47,6 +47,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -66,14 +67,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "LCH",
-      "gn:id": 4330249,
-      "gp:id": 12520523,
-      "iata:code": "LCH",
-      "icao:code": "KLCH",
-      "oa:id": "3637",
-      "wd:id": "Q6475279",
-      "wk:page": "Lake_Charles_Regional_Airport"
+      "iata:code": "LCH"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -89,7 +83,7 @@
       }
     ],
     "wof:id": 102526033,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Lake Charles Regional Airport",
     "wof:parent_id": 85853189,
     "wof:placetype": "campus",

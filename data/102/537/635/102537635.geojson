@@ -124,6 +124,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -141,12 +142,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515677,
-      "iata:code": "AER",
-      "icao:code": "URSS",
-      "oa:id": "6519",
-      "wd:id": "Q1138408",
-      "wk:page": "Sochi_International_Airport"
+      "iata:code": "AER"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -162,7 +158,7 @@
       }
     ],
     "wof:id": 102537635,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Adler Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

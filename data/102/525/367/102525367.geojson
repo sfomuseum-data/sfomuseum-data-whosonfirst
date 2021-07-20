@@ -46,6 +46,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -66,14 +67,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "HOP",
-      "gn:id": 4286681,
-      "gp:id": 12519042,
       "iata:code": "HOP",
-      "icao:code": "KHOP",
-      "oa:id": "3586",
-      "wd:id": "Q3274552",
-      "wk:page": "Campbell_Army_Airfield"
+      "icao:code": "KHOP"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -99,7 +94,7 @@
       }
     ],
     "wof:id": 102525367,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Campbell Army Air Field",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

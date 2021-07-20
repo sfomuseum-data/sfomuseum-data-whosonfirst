@@ -88,6 +88,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -104,12 +105,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12513895,
-      "iata:code": "BSR",
-      "icao:code": "ORMM",
-      "oa:id": "5294",
-      "wd:id": "Q1418829",
-      "wk:page": "Basra_International_Airport"
+      "iata:code": "BSR"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -124,7 +120,7 @@
       }
     ],
     "wof:id": 102542471,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Basrah International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

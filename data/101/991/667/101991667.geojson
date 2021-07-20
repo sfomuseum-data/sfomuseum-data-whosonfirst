@@ -35,6 +35,8 @@
     "qs:loc": "San Pedro Totoltepec",
     "qs:pop": 0,
     "qs:source": "XMexico IGN",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 101991667,
-    "wof:lastmodified": 1624906517,
+    "wof:lastmodified": 1626825067,
     "wof:name": "San Pedro Totoltepec",
     "wof:parent_id": 102074009,
     "wof:placetype": "locality",

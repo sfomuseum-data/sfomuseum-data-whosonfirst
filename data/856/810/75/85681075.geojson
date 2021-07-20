@@ -251,6 +251,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Province",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1624906865,
+    "wof:lastmodified": 1626825084,
     "wof:name": "North-Western",
     "wof:parent_id": 85632559,
     "wof:placetype": "region",

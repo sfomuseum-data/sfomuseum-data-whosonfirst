@@ -664,6 +664,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Region",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -726,7 +728,7 @@
       "bel",
       "rus"
     ],
-    "wof:lastmodified": 1624906856,
+    "wof:lastmodified": 1626825081,
     "wof:name": "City of Minsk",
     "wof:parent_id": 85632395,
     "wof:placetype": "region",

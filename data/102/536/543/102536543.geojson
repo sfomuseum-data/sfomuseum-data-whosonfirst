@@ -60,6 +60,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tapachula International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 153,
@@ -75,12 +76,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12514971,
       "iata:code": "TAP",
-      "icao:code": "MMTP",
-      "oa:id": "4761",
-      "wd:id": "Q2233085",
-      "wk:page": "Tapachula_International_Airport"
+      "icao:code": "MMTP"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -93,7 +90,7 @@
       }
     ],
     "wof:id": 102536543,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Tapachula International Airport",
     "wof:parent_id": 85686611,
     "wof:placetype": "campus",

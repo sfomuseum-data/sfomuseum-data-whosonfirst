@@ -20,6 +20,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -38,7 +39,6 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511753,
       "iata:code": "YMX",
       "icao:code": "CYMX"
     },
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 102555319,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Mirabel International Airport",
     "wof:parent_id": 101738507,
     "wof:placetype": "campus",

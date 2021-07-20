@@ -69,6 +69,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "General Francisco Javier Mina International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -86,12 +87,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12514875,
       "iata:code": "TAM",
-      "icao:code": "MMTM",
-      "oa:id": "4758",
-      "wd:id": "Q3274478",
-      "wk:page": "General_Francisco_Javier_Mina_International_Airport"
+      "icao:code": "MMTM"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -107,7 +104,7 @@
       }
     ],
     "wof:id": 102536293,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Gen Francisco J Mina International Airport",
     "wof:parent_id": 102001087,
     "wof:placetype": "campus",

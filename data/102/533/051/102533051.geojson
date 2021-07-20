@@ -94,6 +94,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Kansas City International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -114,14 +115,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MCI",
-      "gn:id": 4393219,
-      "gp:id": 12520420,
       "iata:code": "MCI",
-      "icao:code": "KMCI",
-      "oa:id": "3668",
-      "wd:id": "Q1431674",
-      "wk:page": "Kansas City International Airport"
+      "icao:code": "KMCI"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -137,7 +132,7 @@
       }
     ],
     "wof:id": 102533051,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Kansas City International Airport",
     "wof:parent_id": 85851839,
     "wof:placetype": "campus",

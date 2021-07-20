@@ -42,6 +42,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "wikidata",
     "src:geom_alt": [],
     "wd:wordcount": 255,
@@ -58,11 +59,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511864,
-      "iata:code": "YYN",
-      "icao:code": "CYYN",
-      "oa:id": "1982",
-      "wd:id": "Q3913112"
+      "icao:code": "CYYN"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -76,7 +73,7 @@
       }
     ],
     "wof:id": 102555131,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Swift Current Airport",
     "wof:parent_id": 101740575,
     "wof:placetype": "campus",

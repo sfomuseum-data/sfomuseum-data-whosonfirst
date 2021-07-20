@@ -522,6 +522,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Region",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -583,7 +585,7 @@
       "ara",
       "eng"
     ],
-    "wof:lastmodified": 1624907152,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Khartoum",
     "wof:parent_id": 85632751,
     "wof:placetype": "region",

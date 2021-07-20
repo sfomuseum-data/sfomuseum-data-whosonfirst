@@ -118,6 +118,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Paris - Le Bourget Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -140,10 +141,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22137770,
       "iata:code": "LBG",
-      "icao:code": "LFPB",
-      "wd:id": "Q738719"
+      "icao:code": "LFPB"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -163,7 +162,7 @@
       }
     ],
     "wof:id": 102544455,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Paris-Le Bourget Airport",
     "wof:parent_id": 101749819,
     "wof:placetype": "campus",

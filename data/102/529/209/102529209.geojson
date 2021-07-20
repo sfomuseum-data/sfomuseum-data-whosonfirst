@@ -48,6 +48,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Allegheny County Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 1023,
@@ -67,13 +68,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gn:id": 5178041,
-      "gp:id": 12518575,
       "iata:code": "AGC",
-      "icao:code": "KAGC",
-      "oa:id": "3367",
-      "wd:id": "Q4731288",
-      "wk:page": "Allegheny_County_Airport"
+      "icao:code": "KAGC"
     },
     "wof:country": "",
     "wof:created": 1624906906,
@@ -90,7 +86,7 @@
       }
     ],
     "wof:id": 102529209,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Allegheny County Airport",
     "wof:parent_id": 101718717,
     "wof:placetype": "campus",

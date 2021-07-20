@@ -74,6 +74,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -94,14 +95,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "TYS",
-      "gn:id": 4640648,
-      "gp:id": 12520857,
-      "iata:code": "TYS",
-      "icao:code": "KTYS",
-      "oa:id": "3938",
-      "wd:id": "Q651495",
-      "wk:page": "McGhee_Tyson_Airport"
+      "iata:code": "TYS"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -118,7 +112,7 @@
       }
     ],
     "wof:id": 102527233,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Mcghee Tyson Airport",
     "wof:parent_id": 85850665,
     "wof:placetype": "campus",

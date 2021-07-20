@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 166,
@@ -68,12 +69,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12523346,
-      "iata:code": "YOS",
-      "icao:code": "CYOS",
-      "oa:id": "1839",
-      "wd:id": "Q3913671",
-      "wk:page": "Billy_Bishop_Regional_Airport"
+      "iata:code": "YOS"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -99,7 +95,7 @@
       }
     ],
     "wof:id": 102554869,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Billy Bishop Regional Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

@@ -97,6 +97,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Stavanger Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -109,12 +110,8 @@
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515124,
       "iata:code": "SVG",
-      "icao:code": "ENZV",
-      "oa:id": "2602",
-      "wd:id": "Q1355258",
-      "wk:page": "Stavanger_Airport,_Sola"
+      "icao:code": "ENZV"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -130,7 +127,7 @@
       }
     ],
     "wof:id": 102556659,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Stavanger Lufthavn Sola",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

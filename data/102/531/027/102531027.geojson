@@ -48,6 +48,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -64,14 +65,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "GLH",
-      "gn:id": 4428484,
-      "gp:id": 12520935,
-      "iata:code": "GLH",
-      "icao:code": "KGLH",
-      "oa:id": "19958",
-      "wd:id": "Q3565269",
-      "wk:page": "Mid Delta Regional Airport"
+      "iata:code": "GLH"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -84,7 +78,7 @@
       }
     ],
     "wof:id": 102531027,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Mid Delta Regional Airport",
     "wof:parent_id": 85688579,
     "wof:placetype": "campus",

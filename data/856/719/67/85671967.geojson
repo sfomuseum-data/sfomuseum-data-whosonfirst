@@ -245,6 +245,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Department",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
@@ -301,7 +303,7 @@
       "hat",
       "fra"
     ],
-    "wof:lastmodified": 1624906861,
+    "wof:lastmodified": 1626825082,
     "wof:name": "Ouest",
     "wof:parent_id": 85632433,
     "wof:placetype": "region",

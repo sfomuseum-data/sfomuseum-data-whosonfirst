@@ -123,6 +123,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "São Paulo - Congonhas International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -143,12 +144,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388212,
       "iata:code": "CGH",
-      "icao:code": "SBSP",
-      "oa:id": "5974",
-      "wd:id": "Q862401",
-      "wk:page": "Congonhas-S%C3%A3o_Paulo_International_Airport"
+      "icao:code": "SBSP"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -166,7 +163,7 @@
       }
     ],
     "wof:id": 102534487,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Sao Paulo-Congonhas International Airport",
     "wof:parent_id": 85765501,
     "wof:placetype": "campus",

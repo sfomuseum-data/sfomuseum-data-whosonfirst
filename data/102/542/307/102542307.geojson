@@ -110,6 +110,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -127,9 +128,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388328,
-      "icao:code": "OKBK",
-      "wd:id": "Q527157"
+      "icao:code": "OKBK"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -143,7 +142,7 @@
       }
     ],
     "wof:id": 102542307,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Kuwait International Airport",
     "wof:parent_id": 85932335,
     "wof:placetype": "campus",

@@ -106,6 +106,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Augusto C. Sandino International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -123,12 +124,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515143,
       "iata:code": "MGA",
-      "icao:code": "MNMG",
-      "oa:id": "4774",
-      "wd:id": "Q530773",
-      "wk:page": "Augusto_C._Sandino_International_Airport"
+      "icao:code": "MNMG"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -143,7 +140,7 @@
       }
     ],
     "wof:id": 102537095,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Augusto Cesar Sandino International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

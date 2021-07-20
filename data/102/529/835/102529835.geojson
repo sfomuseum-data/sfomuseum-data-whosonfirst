@@ -67,6 +67,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -86,14 +87,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "GPT",
-      "gn:id": 4428674,
-      "gp:id": 12520037,
-      "iata:code": "GPT",
-      "icao:code": "KGPT",
-      "oa:id": "3561",
-      "wd:id": "Q1554290",
-      "wk:page": "Gulfport-Biloxi_International_Airport"
+      "iata:code": "GPT"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -110,7 +104,7 @@
       }
     ],
     "wof:id": 102529835,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Gulfport Biloxi Regional Airport",
     "wof:parent_id": 85868905,
     "wof:placetype": "campus",

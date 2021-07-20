@@ -60,6 +60,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -81,14 +82,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ROC",
-      "gn:id": 6298998,
-      "gp:id": 12519985,
-      "iata:code": "ROC",
-      "icao:code": "KROC",
-      "oa:id": "3855",
-      "wd:id": "Q3914227",
-      "wk:page": "Greater_Rochester_International_Airport"
+      "iata:code": "ROC"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -106,7 +100,7 @@
       }
     ],
     "wof:id": 102528361,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Greater Rochester International Airport",
     "wof:parent_id": 85867089,
     "wof:placetype": "campus",

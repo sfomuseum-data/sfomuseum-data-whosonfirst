@@ -70,6 +70,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -90,14 +91,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "RFD",
-      "gn:id": 4894553,
-      "gp:id": 12519986,
-      "iata:code": "RFD",
-      "icao:code": "KRFD",
-      "oa:id": "3845",
-      "wd:id": "Q1071990",
-      "wk:page": "Rockford_International_Airport"
+      "iata:code": "RFD"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -114,7 +108,7 @@
       }
     ],
     "wof:id": 102528325,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Greater Rockford Airport",
     "wof:parent_id": 85939829,
     "wof:placetype": "campus",

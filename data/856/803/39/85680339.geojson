@@ -274,6 +274,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Department",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1624906865,
+    "wof:lastmodified": 1626825083,
     "wof:name": "Montevideo",
     "wof:parent_id": 85632511,
     "wof:placetype": "region",

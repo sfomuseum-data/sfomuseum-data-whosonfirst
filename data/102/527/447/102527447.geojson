@@ -55,6 +55,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Santa Maria Public Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -75,13 +76,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SMX",
-      "gp:id": 12521743,
       "iata:code": "SMX",
-      "icao:code": "KSMX",
-      "oa:id": "3893",
-      "wd:id": "Q7419700",
-      "wk:page": "Santa_Maria_Public_Airport"
+      "icao:code": "KSMX"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -98,7 +94,7 @@
       }
     ],
     "wof:id": 102527447,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Santa Maria Public Airport",
     "wof:parent_id": 420552455,
     "wof:placetype": "campus",

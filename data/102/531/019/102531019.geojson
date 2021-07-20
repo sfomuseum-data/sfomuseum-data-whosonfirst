@@ -58,6 +58,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -76,11 +77,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "NKX",
-      "gp:id": 12520969,
       "iata:code": "NKX",
-      "icao:code": "KNKX",
-      "wd:id": "Q1029503"
+      "icao:code": "KNKX"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -96,7 +94,7 @@
       }
     ],
     "wof:id": 102531019,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Miramar Naval Air Station",
     "wof:parent_id": 85834609,
     "wof:placetype": "campus",

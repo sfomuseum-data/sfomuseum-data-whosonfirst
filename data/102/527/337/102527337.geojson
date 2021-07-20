@@ -71,6 +71,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Santa Barbara Municipal Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -91,14 +92,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SBA",
-      "gn:id": 5392988,
-      "gp:id": 12521741,
       "iata:code": "SBA",
-      "icao:code": "KSBA",
-      "oa:id": "3866",
-      "wd:id": "Q515748",
-      "wk:page": "Santa_Barbara_Airport"
+      "icao:code": "KSBA"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -115,7 +110,7 @@
       }
     ],
     "wof:id": 102527337,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Santa Barbara Municipal Airport",
     "wof:parent_id": 1158846733,
     "wof:placetype": "campus",

@@ -88,6 +88,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -108,15 +109,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "LSV",
-      "gn:id": 7261960,
-      "gp:id": 12521092,
       "iata:code": "LSV",
-      "icao:code": "KLSV",
-      "oa:id": "3656",
-      "qs_pg:id": 380036,
-      "wd:id": "Q735912",
-      "wk:page": "Nellis_Air_Force_Base"
+      "icao:code": "KLSV"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -132,7 +126,7 @@
       }
     ],
     "wof:id": 102525247,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Nellis Air Force Base",
     "wof:parent_id": 85864299,
     "wof:placetype": "campus",

@@ -100,6 +100,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Jorge Chávez International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -117,10 +118,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388342,
       "iata:code": "LIM",
-      "icao:code": "SPIM",
-      "wd:id": "Q1142219"
+      "icao:code": "SPIM"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -137,7 +136,7 @@
       }
     ],
     "wof:id": 102552431,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Jorge Chavez Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

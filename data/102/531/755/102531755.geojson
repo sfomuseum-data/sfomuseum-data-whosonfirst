@@ -53,6 +53,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Willow Run Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 2919,
@@ -72,13 +73,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gn:id": 5015171,
-      "gp:id": 12522472,
       "iata:code": "YIP",
-      "icao:code": "KYIP",
-      "oa:id": "3957",
-      "wd:id": "Q8022363",
-      "wk:page": "Willow_Run_Airport"
+      "icao:code": "KYIP"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -96,7 +92,7 @@
       }
     ],
     "wof:id": 102531755,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Willow Run Airport",
     "wof:parent_id": 85814345,
     "wof:placetype": "campus",

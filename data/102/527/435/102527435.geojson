@@ -57,6 +57,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Sarasota - Bradenton International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -74,14 +75,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SRQ",
-      "gn:id": 6299118,
-      "gp:id": 12521750,
       "iata:code": "SRQ",
-      "icao:code": "KSRQ",
-      "oa:id": "3899",
-      "wd:id": "Q1284157",
-      "wk:page": "Sarasota-Bradenton_International_Airport"
+      "icao:code": "KSRQ"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -96,7 +91,7 @@
       }
     ],
     "wof:id": 102527435,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Sarasota Bradenton Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

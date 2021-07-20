@@ -74,6 +74,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Pago Pago International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 2215,
@@ -89,12 +90,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12523054,
       "iata:code": "PPG",
-      "icao:code": "NSTU",
-      "oa:id": "4978",
-      "wd:id": "Q939904",
-      "wk:page": "Pago_Pago_International_Airport"
+      "icao:code": "NSTU"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -107,7 +104,7 @@
       }
     ],
     "wof:id": 102556561,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Pago Pago International Airport",
     "wof:parent_id": 101734437,
     "wof:placetype": "campus",

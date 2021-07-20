@@ -30,6 +30,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Hong Kong International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -46,7 +47,6 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 24875607,
       "iata:code": "HKG",
       "icao:code": "VHHH"
     },
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 102541737,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Hong Kong International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

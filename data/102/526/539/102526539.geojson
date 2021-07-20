@@ -26,6 +26,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -46,7 +47,6 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12523119,
       "iata:code": "HIK",
       "icao:code": "PHIK"
     },
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 102526539,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Honolulu Hickam Air Force Base",
     "wof:parent_id": 85824753,
     "wof:placetype": "campus",

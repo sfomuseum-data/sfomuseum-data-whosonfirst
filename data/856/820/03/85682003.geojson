@@ -405,6 +405,8 @@
     "qs:level": "adm1",
     "qs:source": "Brasil IBGE",
     "qs:type": "Estado",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -456,7 +458,7 @@
     "wof:lang_x_spoken": [
       "por"
     ],
-    "wof:lastmodified": 1624906447,
+    "wof:lastmodified": 1626825087,
     "wof:name": "Rondonia",
     "wof:parent_id": 1511777407,
     "wof:placetype": "region",

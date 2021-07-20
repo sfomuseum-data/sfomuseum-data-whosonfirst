@@ -61,6 +61,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -81,14 +82,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MGM",
-      "gn:id": 4058182,
-      "gp:id": 12519409,
-      "iata:code": "MGM",
-      "icao:code": "KMGM",
-      "oa:id": "3681",
-      "wd:id": "Q3612935",
-      "wk:page": "Montgomery_Regional_Airport"
+      "iata:code": "MGM"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -104,7 +98,7 @@
       }
     ],
     "wof:id": 102525683,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Montgomery Regional Airport",
     "wof:parent_id": 85913947,
     "wof:placetype": "campus",

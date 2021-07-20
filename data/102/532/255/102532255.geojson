@@ -84,6 +84,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Columbus International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -106,14 +107,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "CMH",
-      "gn:id": 4521777,
-      "gp:id": 12521441,
       "iata:code": "CMH",
-      "icao:code": "KCMH",
-      "oa:id": "3458",
-      "wd:id": "Q1432440",
-      "wk:page": "Port_Columbus_International_Airport"
+      "icao:code": "KCMH"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -131,7 +126,7 @@
       }
     ],
     "wof:id": 102532255,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Port Columbus International Airport",
     "wof:parent_id": 85870311,
     "wof:placetype": "campus",

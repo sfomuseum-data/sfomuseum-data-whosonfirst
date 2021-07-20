@@ -48,6 +48,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -66,13 +67,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BFF",
-      "gp:id": 12522448,
-      "iata:code": "BFF",
-      "icao:code": "KBFF",
-      "oa:id": "3400",
-      "wd:id": "Q7988098",
-      "wk:page": "Western_Nebraska_Regional_Airport"
+      "iata:code": "BFF"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -88,7 +83,7 @@
       }
     ],
     "wof:id": 102531629,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "William B Heilig Field Airport",
     "wof:parent_id": 404520995,
     "wof:placetype": "campus",

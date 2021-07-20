@@ -60,6 +60,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bloemfontein Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -78,12 +79,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12517423,
       "iata:code": "BFN",
-      "icao:code": "FABL",
-      "oa:id": "2772",
-      "wd:id": "Q598282",
-      "wk:page": "Bloemfontein_Airport"
+      "icao:code": "FABL"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -98,7 +95,7 @@
       }
     ],
     "wof:id": 102546655,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Bram Fischer International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

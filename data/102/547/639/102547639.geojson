@@ -171,6 +171,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dublin Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -190,12 +191,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388266,
       "iata:code": "DUB",
-      "icao:code": "EIDW",
-      "oa:id": "2533",
-      "wd:id": "Q178021",
-      "wk:page": "Dublin_Airport"
+      "icao:code": "EIDW"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -211,7 +208,7 @@
       }
     ],
     "wof:id": 102547639,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Dublin Airport",
     "wof:parent_id": 85794225,
     "wof:placetype": "campus",

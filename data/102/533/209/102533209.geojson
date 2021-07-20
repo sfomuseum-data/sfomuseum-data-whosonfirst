@@ -64,6 +64,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -85,14 +86,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SCK",
-      "gn:id": 5399047,
-      "gp:id": 12522018,
       "iata:code": "SCK",
-      "icao:code": "KSCK",
-      "oa:id": "3872",
-      "wd:id": "Q7618243",
-      "wk:page": "Stockton_Metropolitan_Airport"
+      "icao:code": "KSCK"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -109,7 +104,7 @@
       }
     ],
     "wof:id": 102533209,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Stockton Metro Airport",
     "wof:parent_id": 85895913,
     "wof:placetype": "campus",

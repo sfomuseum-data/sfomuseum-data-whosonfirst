@@ -69,6 +69,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Evansville Regional Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -89,14 +90,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "EVV",
-      "gn:id": 4257229,
-      "gp:id": 12519675,
       "iata:code": "EVV",
-      "icao:code": "KEVV",
-      "oa:id": "3518",
-      "wd:id": "Q3545435",
-      "wk:page": "Evansville_Regional_Airport"
+      "icao:code": "KEVV"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -112,7 +107,7 @@
       }
     ],
     "wof:id": 102524835,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Evansville Regional Airport",
     "wof:parent_id": 85824997,
     "wof:placetype": "campus",

@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -70,14 +71,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "FTW",
-      "gn:id": 4691946,
-      "gp:id": 12519787,
-      "iata:code": "FTW",
-      "icao:code": "KFTW",
-      "oa:id": "3545",
-      "wd:id": "Q5472402",
-      "wk:page": "Fort_Worth_Meacham_International_Airport"
+      "iata:code": "FTW"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -94,7 +88,7 @@
       }
     ],
     "wof:id": 102528479,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Fort Worth Meacham International Airport",
     "wof:parent_id": 85871613,
     "wof:placetype": "campus",

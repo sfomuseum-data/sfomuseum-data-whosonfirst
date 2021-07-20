@@ -125,6 +125,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -142,9 +143,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12517889,
-      "iata:code": "ESB",
-      "wd:id": "Q430490"
+      "iata:code": "ESB"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -159,7 +158,7 @@
       }
     ],
     "wof:id": 102535861,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Esenboga Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

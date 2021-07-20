@@ -45,6 +45,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "wikidata",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -59,11 +60,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12514879,
       "iata:code": "MLM",
-      "icao:code": "MMMM",
-      "oa:id": "4728",
-      "wd:id": "Q2231705"
+      "icao:code": "MMMM"
     },
     "wof:country": "MX",
     "wof:created": 1624906850,
@@ -76,7 +74,7 @@
       }
     ],
     "wof:id": 102536381,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "General Francisco J Mujica Airport",
     "wof:parent_id": 85686595,
     "wof:placetype": "campus",

@@ -123,6 +123,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Washington National Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -144,14 +145,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DCA",
-      "gn:id": 4782828,
-      "gp:id": 12522343,
       "iata:code": "DCA",
-      "icao:code": "KDCA",
-      "oa:id": "3483",
-      "wd:id": "Q676576",
-      "wk:page": "Ronald_Reagan_Washington_National_Airport"
+      "icao:code": "KDCA"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -168,7 +163,7 @@
       }
     ],
     "wof:id": 102532159,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Washington National Airport",
     "wof:parent_id": 1108725169,
     "wof:placetype": "campus",

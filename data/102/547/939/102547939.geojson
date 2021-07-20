@@ -159,6 +159,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Milan Malpensa Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -179,12 +180,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22306432,
       "iata:code": "MXP",
-      "icao:code": "LIMC",
-      "oa:id": "4340",
-      "wd:id": "Q60910",
-      "wk:page": "Malpensa_Airport"
+      "icao:code": "LIMC"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -201,7 +198,7 @@
       }
     ],
     "wof:id": 102547939,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Malpensa International Airport",
     "wof:parent_id": 101830177,
     "wof:placetype": "campus",

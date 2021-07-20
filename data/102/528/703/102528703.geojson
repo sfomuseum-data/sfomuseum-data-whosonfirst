@@ -54,6 +54,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dubuque Regional Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -70,14 +71,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DBQ",
-      "gn:id": 4854556,
-      "gp:id": 12519540,
       "iata:code": "DBQ",
-      "icao:code": "KDBQ",
-      "oa:id": "3482",
-      "wd:id": "Q1263279",
-      "wk:page": "Dubuque_Regional_Airport"
+      "icao:code": "KDBQ"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -90,7 +85,7 @@
       }
     ],
     "wof:id": 102528703,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Dubuque Regional Airport",
     "wof:parent_id": 85688713,
     "wof:placetype": "campus",

@@ -63,6 +63,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Juneau International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -83,14 +84,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "JNU",
-      "gn:id": 5554082,
-      "gp:id": 12520409,
       "iata:code": "JNU",
-      "icao:code": "PAJN",
-      "oa:id": "5379",
-      "wd:id": "Q2505424",
-      "wk:page": "Juneau_International_Airport"
+      "icao:code": "PAJN"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -107,7 +102,7 @@
       }
     ],
     "wof:id": 102532925,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Juneau International Airport",
     "wof:parent_id": 85833767,
     "wof:placetype": "campus",

@@ -74,6 +74,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Portland International Jetport (Maine)",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -95,13 +96,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "PWM",
-      "gp:id": 12520368,
       "iata:code": "PWM",
-      "icao:code": "KPWM",
-      "oa:id": "3796",
-      "wd:id": "Q1432470",
-      "wk:page": "Portland_International_Jetport"
+      "icao:code": "KPWM"
     },
     "wof:country": "US",
     "wof:created": 1624906850,
@@ -119,7 +115,7 @@
       }
     ],
     "wof:id": 102534331,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Jetport International Airport",
     "wof:parent_id": 85851275,
     "wof:placetype": "campus",

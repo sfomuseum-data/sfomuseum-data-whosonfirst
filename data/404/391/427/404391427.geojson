@@ -44,6 +44,8 @@
     "qs:level": "localadmin",
     "qs:source": "France IGN",
     "qs:type": "Commune simple",
+    "sfomuseum:placetype": "localadmin",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "frgov",
     "src:geom_alt": [
       "quattroshapes_pg",
@@ -85,7 +87,7 @@
       }
     ],
     "wof:id": 404391427,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825067,
     "wof:name": "Belleville-Sur-Vie",
     "wof:parent_id": 102068051,
     "wof:placetype": "localadmin",

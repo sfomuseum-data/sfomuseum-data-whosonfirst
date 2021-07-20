@@ -38,6 +38,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -58,12 +59,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12519959,
-      "iata:code": "MWH",
-      "icao:code": "KMWH",
-      "oa:id": "20581",
-      "wd:id": "Q3913646",
-      "wk:page": "Grant_County_International_Airport"
+      "iata:code": "MWH"
     },
     "wof:country": "",
     "wof:created": 1624906906,
@@ -80,7 +76,7 @@
       }
     ],
     "wof:id": 102528197,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Grant County International Airport",
     "wof:parent_id": 85856981,
     "wof:placetype": "campus",

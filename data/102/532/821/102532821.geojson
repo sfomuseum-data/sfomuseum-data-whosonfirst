@@ -58,6 +58,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -77,14 +78,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "IFP",
-      "gn:id": 5301601,
-      "gp:id": 12518972,
       "iata:code": "IFP",
-      "icao:code": "KIFP",
-      "oa:id": "20160",
-      "wd:id": "Q3545149",
-      "wk:page": "Bullhead_International_Airport"
+      "icao:code": "KIFP"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -101,7 +96,7 @@
       }
     ],
     "wof:id": 102532821,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Laughlin/bullhead Int'l Airport",
     "wof:parent_id": 85813655,
     "wof:placetype": "campus",

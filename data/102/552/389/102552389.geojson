@@ -118,6 +118,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Auckland Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -136,12 +137,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515151,
       "iata:code": "AKL",
-      "icao:code": "NZAA",
-      "oa:id": "5023",
-      "wd:id": "Q45938",
-      "wk:page": "Auckland_International_Airport"
+      "icao:code": "NZAA"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -158,7 +155,7 @@
       }
     ],
     "wof:id": 102552389,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Auckland International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

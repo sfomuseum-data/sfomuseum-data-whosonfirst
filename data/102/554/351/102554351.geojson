@@ -144,6 +144,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Montréal - Pierre Elliott Trudeau International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -165,12 +166,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511638,
       "iata:code": "YUL",
-      "icao:code": "CYUL",
-      "oa:id": "1928",
-      "wd:id": "Q736627",
-      "wk:page": "Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport"
+      "icao:code": "CYUL"
     },
     "wof:country": "CA",
     "wof:created": 1624906954,
@@ -190,7 +187,7 @@
       }
     ],
     "wof:id": 102554351,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Montreal-Pierre Elliott Trudeau International Airport",
     "wof:parent_id": 101736475,
     "wof:placetype": "campus",

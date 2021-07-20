@@ -764,6 +764,7 @@
     "qs:source": "NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "urban core",
     "sfomuseum:placetype": "city",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -816,7 +817,7 @@
       }
     ],
     "wof:id": 101751703,
-    "wof:lastmodified": 1624906516,
+    "wof:lastmodified": 1626825066,
     "wof:megacity": 1,
     "wof:name": "Budapest",
     "wof:parent_id": 85684881,

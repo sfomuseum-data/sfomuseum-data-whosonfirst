@@ -68,6 +68,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -85,13 +86,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "AEX",
-      "gp:id": 12519648,
       "iata:code": "AEX",
-      "icao:code": "KAEX",
-      "oa:id": "3365",
-      "wd:id": "Q592206",
-      "wk:page": "Alexandria_International_Airport"
+      "icao:code": "KAEX"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -104,7 +100,7 @@
       }
     ],
     "wof:id": 102524745,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Alexandria International Airport",
     "wof:parent_id": 85688735,
     "wof:placetype": "campus",

@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -69,14 +70,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BIF",
-      "gn:id": 5517110,
-      "gp:id": 12518830,
       "iata:code": "BIF",
-      "icao:code": "KBIF",
-      "oa:id": "3407",
-      "wd:id": "Q597859",
-      "wk:page": "Biggs_Army_Airfield"
+      "icao:code": "KBIF"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -93,7 +88,7 @@
       }
     ],
     "wof:id": 102527643,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Biggs Army Air Field",
     "wof:parent_id": 85811021,
     "wof:placetype": "campus",

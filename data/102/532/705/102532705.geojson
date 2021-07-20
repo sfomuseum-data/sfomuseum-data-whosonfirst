@@ -64,6 +64,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cleveland Burke Lakefront Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -86,14 +87,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BKL",
-      "gn:id": 5148736,
-      "gp:id": 12518976,
       "iata:code": "BKL",
-      "icao:code": "KBKL",
-      "oa:id": "3414",
-      "wd:id": "Q1657006",
-      "wk:page": "Cleveland_Burke_Lakefront_Airport"
+      "icao:code": "KBKL"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -111,7 +106,7 @@
       }
     ],
     "wof:id": 102532705,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Burke Lakefront Airport",
     "wof:parent_id": 85871847,
     "wof:placetype": "campus",

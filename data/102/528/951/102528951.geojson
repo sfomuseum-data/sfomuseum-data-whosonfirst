@@ -47,6 +47,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -65,13 +66,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "FHU",
-      "gp:id": 12520642,
-      "iata:code": "FHU",
-      "icao:code": "KFHU",
-      "oa:id": "3529",
-      "wd:id": "Q7511619",
-      "wk:page": "Sierra_Vista_Municipal_Airport"
+      "iata:code": "FHU"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -88,7 +83,7 @@
       }
     ],
     "wof:id": 102528951,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Sierra Vista Municipal Airport-Libby Army Airfield",
     "wof:parent_id": 85834203,
     "wof:placetype": "campus",

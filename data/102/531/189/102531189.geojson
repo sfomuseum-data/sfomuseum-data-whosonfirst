@@ -122,6 +122,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Denver International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -145,13 +146,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DEN",
-      "gp:id": 12523052,
       "iata:code": "DEN",
-      "icao:code": "KDEN",
-      "oa:id": "3486",
-      "wd:id": "Q330015",
-      "wk:page": "Denver_International_Airport"
+      "icao:code": "KDEN"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -172,7 +168,7 @@
       }
     ],
     "wof:id": 102531189,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Denver International Airport",
     "wof:parent_id": 1108750025,
     "wof:placetype": "campus",

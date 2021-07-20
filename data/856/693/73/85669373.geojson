@@ -202,6 +202,8 @@
     "qs:level": "adm1",
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -254,7 +256,7 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1624907145,
+    "wof:lastmodified": 1626825081,
     "wof:name": "Saint George's",
     "wof:parent_id": 85632731,
     "wof:placetype": "region",

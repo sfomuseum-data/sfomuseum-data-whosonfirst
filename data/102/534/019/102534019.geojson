@@ -107,6 +107,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cleveland Municipal Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -128,14 +129,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "CLE",
-      "gn:id": 5150584,
-      "gp:id": 12520226,
       "iata:code": "CLE",
-      "icao:code": "KCLE",
-      "oa:id": "3454",
-      "wd:id": "Q1100795",
-      "wk:page": "Cleveland_Hopkins_International_Airport"
+      "icao:code": "KCLE"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -153,7 +148,7 @@
       }
     ],
     "wof:id": 102534019,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Hopkins International Airport",
     "wof:parent_id": 85871823,
     "wof:placetype": "campus",

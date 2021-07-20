@@ -165,6 +165,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Stockholm Arlanda Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -182,12 +183,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12517610,
       "iata:code": "ARN",
-      "icao:code": "ESSA",
-      "oa:id": "2701",
-      "wd:id": "Q223499",
-      "wk:page": "Stockholm-Arlanda_Airport"
+      "icao:code": "ESSA"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -203,7 +200,7 @@
       }
     ],
     "wof:id": 102537309,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Stockholm Arlanda Airport",
     "wof:parent_id": 85902185,
     "wof:placetype": "campus",

@@ -36,6 +36,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "wikidata",
     "src:geom_alt": [],
     "wd:wordcount": 543,
@@ -53,12 +54,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "KIC",
-      "gp:id": 12520912,
-      "iata:code": "KIC",
-      "icao:code": "KKIC",
-      "oa:id": "20275",
-      "wd:id": "Q651986"
+      "iata:code": "KIC"
     },
     "wof:country": "",
     "wof:created": 1624906906,
@@ -73,7 +69,7 @@
       }
     ],
     "wof:id": 102531005,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Mesa del Rey Airport",
     "wof:parent_id": 85922621,
     "wof:placetype": "campus",

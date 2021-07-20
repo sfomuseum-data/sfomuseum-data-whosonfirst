@@ -104,6 +104,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -122,12 +123,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12517747,
-      "iata:code": "DMK",
-      "icao:code": "VTBD",
-      "oa:id": "26638",
-      "wd:id": "Q1046755",
-      "wk:page": "Don_Mueang_International_Airport"
+      "icao:code": "VTBD"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -144,7 +140,7 @@
       }
     ],
     "wof:id": 102547839,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Don Muang International Airport",
     "wof:parent_id": 85902821,
     "wof:placetype": "campus",

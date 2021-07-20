@@ -95,6 +95,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -114,15 +115,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "TCM",
-      "gn:id": 7261245,
-      "gp:id": 12520868,
       "iata:code": "TCM",
-      "icao:code": "KTCM",
-      "oa:id": "3918",
-      "qs_pg:id": 1040399,
-      "wd:id": "Q999280",
-      "wk:page": "McChord_Air_Force_Base"
+      "icao:code": "KTCM"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -138,7 +132,7 @@
       }
     ],
     "wof:id": 102527203,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "McChord Air Force Base",
     "wof:parent_id": 101730955,
     "wof:placetype": "campus",

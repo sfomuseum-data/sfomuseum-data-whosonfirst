@@ -110,6 +110,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -131,12 +132,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22484413,
-      "iata:code": "PIK",
-      "icao:code": "EGPK",
-      "oa:id": "2464",
-      "wd:id": "Q8992",
-      "wk:page": "Glasgow_Prestwick_International_Airport"
+      "icao:code": "EGPK"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -155,7 +151,7 @@
       }
     ],
     "wof:id": 102556883,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Glasgow Prestwick International Airport",
     "wof:parent_id": 404430343,
     "wof:placetype": "campus",

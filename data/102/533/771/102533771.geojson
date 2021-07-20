@@ -84,6 +84,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -105,13 +106,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "RIV",
-      "gn:id": 7261226,
-      "gp:id": 12520791,
       "iata:code": "RIV",
-      "icao:code": "KRIV",
-      "qs_pg:id": 1040398,
-      "wd:id": "Q1031829"
+      "icao:code": "KRIV"
     },
     "wof:country": "US",
     "wof:created": 1624906850,
@@ -128,7 +124,7 @@
       }
     ],
     "wof:id": 102533771,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "March Air Force Base",
     "wof:parent_id": 85873359,
     "wof:placetype": "campus",

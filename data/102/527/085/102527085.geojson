@@ -44,6 +44,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -63,14 +64,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MCC",
-      "gn:id": 5371372,
-      "gp:id": 12520869,
-      "iata:code": "MCC",
-      "icao:code": "KMCC",
-      "oa:id": "3666",
-      "wd:id": "Q650456",
-      "wk:page": "McClellan_Airfield"
+      "icao:code": "KMCC"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -86,7 +80,7 @@
       }
     ],
     "wof:id": 102527085,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "McClellan Air Force Base",
     "wof:parent_id": 85926687,
     "wof:placetype": "campus",

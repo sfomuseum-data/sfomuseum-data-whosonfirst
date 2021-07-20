@@ -190,6 +190,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Sheremetyevo International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -209,12 +210,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12516860,
       "iata:code": "SVO",
-      "icao:code": "UUEE",
-      "oa:id": "26396",
-      "wd:id": "Q192733",
-      "wk:page": "Sheremetyevo_International_Airport"
+      "icao:code": "UUEE"
     },
     "wof:country": "",
     "wof:created": 1624906850,
@@ -231,7 +228,7 @@
       }
     ],
     "wof:id": 102538885,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Sheremtyevo Airport",
     "wof:parent_id": 102003053,
     "wof:placetype": "campus",

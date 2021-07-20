@@ -124,6 +124,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Birmingham International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -145,10 +146,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22454274,
       "iata:code": "BHX",
-      "icao:code": "EGBB",
-      "wd:id": "Q8719"
+      "icao:code": "EGBB"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -166,7 +165,7 @@
       }
     ],
     "wof:id": 102556843,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Birmingham International Airport",
     "wof:parent_id": 85788643,
     "wof:placetype": "campus",

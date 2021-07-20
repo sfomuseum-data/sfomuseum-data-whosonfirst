@@ -34,6 +34,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 71,
@@ -51,11 +52,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515631,
-      "iata:code": "MLP",
-      "icao:code": "RPMM",
-      "oa:id": "31919",
-      "wd:id": "Q16889011"
+      "iata:code": "MLP"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -70,7 +67,7 @@
       }
     ],
     "wof:id": 102553195,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Malabang Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

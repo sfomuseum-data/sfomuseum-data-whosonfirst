@@ -69,6 +69,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "wikidata",
     "src:geom_alt": [],
     "wd:wordcount": 2177,
@@ -84,11 +85,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12510307,
-      "iata:code": "PUS",
-      "icao:code": "OAKN",
-      "oa:id": "5073",
-      "wd:id": "Q33156"
+      "iata:code": "PUS"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -101,7 +98,7 @@
       }
     ],
     "wof:id": 102536665,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Kandahar International Airport",
     "wof:parent_id": 85667549,
     "wof:placetype": "campus",

@@ -89,6 +89,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -105,12 +106,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12523091,
       "iata:code": "CTS",
-      "icao:code": "RJCC",
-      "oa:id": "5544",
-      "wd:id": "Q908296",
-      "wk:page": "New_Chitose_Airport"
+      "icao:code": "RJCC"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -125,7 +122,7 @@
       }
     ],
     "wof:id": 102541663,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825297,
     "wof:name": "新千歳空港",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

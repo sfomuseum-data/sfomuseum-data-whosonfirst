@@ -177,6 +177,8 @@
     "qs:pop": 0,
     "qs:source": "ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "urban core",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "frgov",
     "src:geom_alt": [
       "quattroshapes_pg",
@@ -229,7 +231,7 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1624906515,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Tremblay-en-France",
     "wof:parent_id": 1159322263,
     "wof:placetype": "locality",

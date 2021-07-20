@@ -178,6 +178,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dubai International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -197,12 +198,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23388362,
       "iata:code": "DXB",
-      "icao:code": "OMDB",
-      "oa:id": "5235",
-      "wd:id": "Q193439",
-      "wk:page": "Dubai_International_Airport"
+      "icao:code": "OMDB"
     },
     "wof:country": "",
     "wof:created": 1624906753,
@@ -219,7 +216,7 @@
       }
     ],
     "wof:id": 102558433,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Dubai International Airport",
     "wof:parent_id": 421174961,
     "wof:placetype": "campus",

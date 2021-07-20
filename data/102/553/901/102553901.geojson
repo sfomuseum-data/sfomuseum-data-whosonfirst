@@ -157,6 +157,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Geneva International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -179,12 +180,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 23365569,
       "iata:code": "GVA",
-      "icao:code": "LSGG",
-      "oa:id": "4490",
-      "wd:id": "Q289972",
-      "wk:page": "Geneva_Cointrin_International_Airport"
+      "icao:code": "LSGG"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -205,7 +202,7 @@
       }
     ],
     "wof:id": 102553901,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Geneva International Airport",
     "wof:parent_id": 404384989,
     "wof:placetype": "campus",

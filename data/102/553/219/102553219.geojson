@@ -109,6 +109,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ninoy Aquino International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -128,12 +129,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515637,
       "iata:code": "MNL",
-      "icao:code": "RPLL",
-      "oa:id": "5689",
-      "wd:id": "Q86446",
-      "wk:page": "Ninoy_Aquino_International_Airport"
+      "icao:code": "RPLL"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -149,7 +146,7 @@
       }
     ],
     "wof:id": 102553219,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Ninoy Aquino International Airport",
     "wof:parent_id": 85902779,
     "wof:placetype": "campus",

@@ -66,6 +66,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -85,14 +86,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "NZY",
-      "gn:id": 6301679,
-      "gp:id": 12521154,
-      "iata:code": "NZY",
-      "icao:code": "KNZY",
-      "oa:id": "3743",
-      "wd:id": "Q1800390",
-      "wk:page": "Naval_Air_Station_North_Island"
+      "iata:code": "NZY"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -109,7 +103,7 @@
       }
     ],
     "wof:id": 102530127,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "North Island Naval Air Station-Halsey Field",
     "wof:parent_id": 85882405,
     "wof:placetype": "campus",

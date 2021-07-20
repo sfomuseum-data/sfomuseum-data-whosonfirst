@@ -134,6 +134,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -177,7 +179,7 @@
       }
     ],
     "wof:id": 101732363,
-    "wof:lastmodified": 1624906514,
+    "wof:lastmodified": 1626825066,
     "wof:name": "De Pere",
     "wof:parent_id": 404492849,
     "wof:placetype": "locality",

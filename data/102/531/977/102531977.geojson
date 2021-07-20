@@ -83,6 +83,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -103,14 +104,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gn:id": 7257935,
-      "gp:id": 12518620,
       "iata:code": "ADW",
-      "icao:code": "KADW",
-      "oa:id": "3364",
-      "qs_pg:id": 1040357,
-      "wd:id": "Q768542",
-      "wk:page": "Joint_Base_Andrews"
+      "icao:code": "KADW"
     },
     "wof:country": "US",
     "wof:created": 1624906954,
@@ -127,7 +122,7 @@
       }
     ],
     "wof:id": 102531977,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Andrews Air Force Base",
     "wof:parent_id": 85835291,
     "wof:placetype": "campus",

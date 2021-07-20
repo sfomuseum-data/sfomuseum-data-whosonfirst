@@ -121,6 +121,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "San Diego International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -144,14 +145,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SAN",
-      "gn:id": 5391847,
-      "gp:id": 12520660,
       "iata:code": "SAN",
-      "icao:code": "KSAN",
-      "oa:id": "3862",
-      "wd:id": "Q1333923",
-      "wk:page": "San_Diego_International_Airport"
+      "icao:code": "KSAN"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -171,7 +166,7 @@
       }
     ],
     "wof:id": 102528997,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "San Diego International Airport",
     "wof:parent_id": 85871191,
     "wof:placetype": "campus",

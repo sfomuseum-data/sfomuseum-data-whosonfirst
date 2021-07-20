@@ -78,6 +78,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -97,14 +98,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "RCA",
-      "gn:id": 7259253,
-      "gp:id": 12519632,
-      "iata:code": "RCA",
-      "icao:code": "KRCA",
-      "oa:id": "3840",
-      "wd:id": "Q960480",
-      "wk:page": "Ellsworth_Air_Force_Base"
+      "icao:code": "KRCA"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -120,7 +114,7 @@
       }
     ],
     "wof:id": 102525005,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Ellsworth Air Force Base",
     "wof:parent_id": 404488999,
     "wof:placetype": "campus",

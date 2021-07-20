@@ -166,6 +166,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Paris Orly Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -188,12 +189,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22144181,
       "iata:code": "ORY",
-      "icao:code": "LFPO",
-      "oa:id": "4189",
-      "wd:id": "Q223416",
-      "wk:page": "Orly_Airport_(Paris)"
+      "icao:code": "LFPO"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -213,7 +210,7 @@
       }
     ],
     "wof:id": 102544453,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Paris Orly Airport",
     "wof:parent_id": 101751005,
     "wof:placetype": "campus",

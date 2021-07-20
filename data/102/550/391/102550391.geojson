@@ -43,6 +43,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Guangzhou Baiyun International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -62,12 +63,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511984,
       "iata:code": "CAN",
-      "icao:code": "ZGGG",
-      "oa:id": "27194",
-      "wd:id": "Q5613723",
-      "wk:page": "Guangzhou_Baiyun_International_Airport"
+      "icao:code": "ZGGG"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -83,7 +80,7 @@
       }
     ],
     "wof:id": 102550391,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Baiyun Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

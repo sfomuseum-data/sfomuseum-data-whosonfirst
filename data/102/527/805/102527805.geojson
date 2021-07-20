@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -68,14 +69,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ACT",
-      "gn:id": 4739545,
-      "gp:id": 12522299,
-      "iata:code": "ACT",
-      "icao:code": "KACT",
-      "oa:id": "3361",
-      "wd:id": "Q7958858",
-      "wk:page": "Waco_Regional_Airport"
+      "iata:code": "ACT"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -91,7 +85,7 @@
       }
     ],
     "wof:id": 102527805,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Waco Regional Airport",
     "wof:parent_id": 85804399,
     "wof:placetype": "campus",

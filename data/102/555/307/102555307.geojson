@@ -147,6 +147,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Vancouver International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -169,12 +170,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12511894,
       "iata:code": "YVR",
-      "icao:code": "CYVR",
-      "oa:id": 1941,
-      "wd:id": "Q321224",
-      "wk:page": "Vancouver_International_Airport"
+      "icao:code": "CYVR"
     },
     "wof:country": "CA",
     "wof:created": 1624906458,
@@ -194,7 +191,7 @@
       }
     ],
     "wof:id": 102555307,
-    "wof:lastmodified": 1624907108,
+    "wof:lastmodified": 1626825265,
     "wof:name": "Vancouver International Airport",
     "wof:parent_id": 1108952593,
     "wof:placetype": "campus",

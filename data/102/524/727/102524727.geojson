@@ -89,6 +89,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "El Paso Municipal Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,14 +111,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ELP",
-      "gn:id": 5521012,
-      "gp:id": 12519608,
       "iata:code": "ELP",
-      "icao:code": "KELP",
-      "oa:id": "3512",
-      "wd:id": "Q1231062",
-      "wk:page": "El_Paso_International_Airport"
+      "icao:code": "KELP"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -134,7 +129,7 @@
       }
     ],
     "wof:id": 102524727,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "El Paso International Airport",
     "wof:parent_id": 85811021,
     "wof:placetype": "campus",

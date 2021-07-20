@@ -141,6 +141,7 @@
     "qs:source": "PCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "rural point-in-poly",
     "sfomuseum:placetype": "city",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -182,7 +183,7 @@
       }
     ],
     "wof:id": 101777747,
-    "wof:lastmodified": 1624906516,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Llucmajor",
     "wof:parent_id": 404330797,
     "wof:placetype": "locality",

@@ -125,6 +125,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -166,7 +168,7 @@
       }
     ],
     "wof:id": 101722709,
-    "wof:lastmodified": 1624907180,
+    "wof:lastmodified": 1626825065,
     "wof:name": "Alcoa",
     "wof:parent_id": 102087017,
     "wof:placetype": "locality",

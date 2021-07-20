@@ -89,6 +89,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Hector International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,14 +111,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "FAR",
-      "gn:id": 5059605,
-      "gp:id": 12520153,
       "iata:code": "FAR",
-      "icao:code": "KFAR",
-      "oa:id": "3523",
-      "wd:id": "Q2699491",
-      "wk:page": "Hector_International_Airport"
+      "icao:code": "KFAR"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -134,7 +129,7 @@
       }
     ],
     "wof:id": 102532465,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Hector International Airport",
     "wof:parent_id": 85982177,
     "wof:placetype": "campus",

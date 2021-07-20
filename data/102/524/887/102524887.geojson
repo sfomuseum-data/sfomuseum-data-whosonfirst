@@ -79,6 +79,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -98,15 +99,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "VPS",
-      "gn:id": 7259720,
-      "gp:id": 12519601,
-      "iata:code": "VPS",
-      "icao:code": "KVPS",
-      "oa:id": "3948",
-      "qs_pg:id": 1040364,
-      "wd:id": "Q1298115",
-      "wk:page": "Okaloosa_Regional_Airport"
+      "iata:code": "VPS"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -123,7 +116,7 @@
       }
     ],
     "wof:id": 102524887,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Eglin Air Force Base",
     "wof:parent_id": 85934885,
     "wof:placetype": "campus",

@@ -103,6 +103,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dallas Love Field",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -124,14 +125,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DAL",
-      "gn:id": 4684922,
-      "gp:id": 12519401,
-      "iata:code": "DAL",
-      "icao:code": "KDAL",
-      "oa:id": "3479",
-      "wd:id": "Q613569",
-      "wk:page": "Dallas_Love_Field"
+      "iata:code": "DAL"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -148,7 +142,7 @@
       }
     ],
     "wof:id": 102525799,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Dallas Love Field",
     "wof:parent_id": 85870475,
     "wof:placetype": "campus",

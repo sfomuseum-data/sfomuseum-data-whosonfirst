@@ -66,6 +66,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -87,14 +88,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "BLI",
-      "gn:id": 5786905,
-      "gp:id": 12518790,
-      "iata:code": "BLI",
-      "icao:code": "KBLI",
-      "oa:id": "3416",
-      "wd:id": "Q1657287",
-      "wk:page": "Bellingham_International_Airport"
+      "iata:code": "BLI"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -111,7 +105,7 @@
       }
     ],
     "wof:id": 102529655,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Bellingham International Airport",
     "wof:parent_id": 85806183,
     "wof:placetype": "campus",

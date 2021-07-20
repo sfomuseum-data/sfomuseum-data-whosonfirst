@@ -134,6 +134,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Salt Lake City International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -155,14 +156,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SLC",
-      "gn:id": 5780999,
-      "gp:id": 12521709,
       "iata:code": "SLC",
-      "icao:code": "KSLC",
-      "oa:id": "3887",
-      "wd:id": "Q526488",
-      "wk:page": "Salt_Lake_City_International_Airport"
+      "icao:code": "KSLC"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -179,7 +174,7 @@
       }
     ],
     "wof:id": 102527363,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Salt Lake City International Airport",
     "wof:parent_id": 85856293,
     "wof:placetype": "campus",

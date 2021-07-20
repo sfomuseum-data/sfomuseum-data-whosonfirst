@@ -204,6 +204,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Chicago O'Hare International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -226,14 +227,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ORD",
-      "gn:id": 4887479,
-      "gp:id": 12521200,
       "iata:code": "ORD",
-      "icao:code": "KORD",
-      "oa:id": "3754",
-      "wd:id": "Q213717",
-      "wk:page": "O'Hare_International_Airport"
+      "icao:code": "KORD"
     },
     "wof:country": "US",
     "wof:created": 1624906850,
@@ -252,7 +247,7 @@
       }
     ],
     "wof:id": 102533631,
-    "wof:lastmodified": 1624906850,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Chicago O'Hare International Airport",
     "wof:parent_id": 1024608977,
     "wof:placetype": "campus",

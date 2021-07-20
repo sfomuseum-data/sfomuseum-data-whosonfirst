@@ -41,6 +41,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 301,
@@ -60,13 +61,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "GRK",
-      "gp:id": 12521608,
       "iata:code": "GRK",
-      "icao:code": "KGRK",
-      "oa:id": "3565",
-      "wd:id": "Q6407413",
-      "wk:page": "Killeen-Fort_Hood_Regional_Airport"
+      "icao:code": "KGRK"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -83,7 +79,7 @@
       }
     ],
     "wof:id": 102530435,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Killeen-Fort Hood Regional Airport",
     "wof:parent_id": 85831283,
     "wof:placetype": "campus",

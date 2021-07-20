@@ -46,6 +46,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -67,14 +68,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "INT",
-      "gn:id": 4492156,
-      "gp:id": 12521891,
-      "iata:code": "INT",
-      "icao:code": "KINT",
-      "oa:id": "3613",
-      "wd:id": "Q7545285",
-      "wk:page": "Smith_Reynolds_Airport"
+      "icao:code": "KINT"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -91,7 +85,7 @@
       }
     ],
     "wof:id": 102526635,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Smith Reynolds Airport",
     "wof:parent_id": 85835089,
     "wof:placetype": "campus",

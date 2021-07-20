@@ -70,6 +70,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Des Moines International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -91,14 +92,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DSM",
-      "gn:id": 4853851,
-      "gp:id": 12519473,
       "iata:code": "DSM",
-      "icao:code": "KDSM",
-      "oa:id": "3496",
-      "wd:id": "Q1431204",
-      "wk:page": "Des_Moines_International_Airport"
+      "icao:code": "KDSM"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -115,7 +110,7 @@
       }
     ],
     "wof:id": 102525803,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "Des Moines International Airport",
     "wof:parent_id": 85896397,
     "wof:placetype": "campus",

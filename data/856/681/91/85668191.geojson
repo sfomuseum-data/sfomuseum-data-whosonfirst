@@ -188,6 +188,8 @@
     "qs:scale": 4000000,
     "qs:source": "Natural Earth",
     "qs:type": "Parish",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -240,7 +242,7 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1624906856,
+    "wof:lastmodified": 1626825081,
     "wof:name": "Saint John",
     "wof:parent_id": 85632529,
     "wof:placetype": "region",

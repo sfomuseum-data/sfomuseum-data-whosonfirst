@@ -71,6 +71,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Syracuse Hancock International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -89,14 +90,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "SYR",
-      "gn:id": 6299141,
-      "gp:id": 12520075,
       "iata:code": "SYR",
-      "icao:code": "KSYR",
-      "oa:id": "3913",
-      "wd:id": "Q175028",
-      "wk:page": "Syracuse_Hancock_International_Airport"
+      "icao:code": "KSYR"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -112,7 +107,7 @@
       }
     ],
     "wof:id": 102529833,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Hancock International Airport",
     "wof:parent_id": 404521501,
     "wof:placetype": "campus",

@@ -77,6 +77,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -98,13 +99,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "IAB",
-      "gp:id": 12520872,
-      "iata:code": "IAB",
-      "icao:code": "KIAB",
-      "oa:id": "3601",
-      "wd:id": "Q652649",
-      "wk:page": "McConnell_Air_Force_Base"
+      "iata:code": "IAB"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -122,7 +117,7 @@
       }
     ],
     "wof:id": 102527175,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825098,
     "wof:name": "McConnell Air Force Base",
     "wof:parent_id": 85872821,
     "wof:placetype": "campus",

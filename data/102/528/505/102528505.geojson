@@ -53,6 +53,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -71,14 +72,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "FNL",
-      "gn:id": 5577151,
-      "gp:id": 12519773,
       "iata:code": "FNL",
-      "icao:code": "KFNL",
-      "oa:id": "19885",
-      "wd:id": "Q5470978",
-      "wk:page": "Fort_Collins-Loveland_Municipal_Airport"
+      "icao:code": "KFNL"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -93,7 +88,7 @@
       }
     ],
     "wof:id": 102528505,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Fort Collins Loveland Municipal Airport",
     "wof:parent_id": 85844149,
     "wof:placetype": "campus",

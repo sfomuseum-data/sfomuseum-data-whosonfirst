@@ -54,6 +54,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -73,14 +74,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "PUB",
-      "gn:id": 5435472,
-      "gp:id": 12521494,
-      "iata:code": "PUB",
-      "icao:code": "KPUB",
-      "oa:id": "3794",
-      "wd:id": "Q7258455",
-      "wk:page": "Pueblo_Memorial_Airport"
+      "iata:code": "PUB"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -96,7 +90,7 @@
       }
     ],
     "wof:id": 102532457,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Pueblo Memorial Airport",
     "wof:parent_id": 85929187,
     "wof:placetype": "campus",

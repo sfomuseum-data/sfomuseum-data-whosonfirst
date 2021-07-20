@@ -75,6 +75,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -94,14 +95,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "RIC",
-      "gn:id": 6298981,
-      "gp:id": 12518996,
-      "iata:code": "RIC",
-      "icao:code": "KRIC",
-      "oa:id": "3847",
-      "wd:id": "Q1857178",
-      "wk:page": "Richmond_International_Airport"
+      "iata:code": "RIC"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -117,7 +111,7 @@
       }
     ],
     "wof:id": 102532729,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Richmond International Airport",
     "wof:parent_id": 101729383,
     "wof:placetype": "campus",

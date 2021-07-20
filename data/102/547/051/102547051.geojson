@@ -92,6 +92,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tocumen International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 1439,
@@ -110,12 +111,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515432,
       "iata:code": "PTY",
-      "icao:code": "MPTO",
-      "oa:id": "4793",
-      "wd:id": "Q1420178",
-      "wk:page": "Tocumen_International_Airport"
+      "icao:code": "MPTO"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -130,7 +127,7 @@
       }
     ],
     "wof:id": 102547051,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Tocumen International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

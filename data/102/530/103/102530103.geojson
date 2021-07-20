@@ -27,6 +27,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "unknown",
     "src:geom_alt": [],
@@ -46,9 +47,6 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "NGU",
-      "gn:id": 4752868,
-      "gp:id": 12521147,
       "iata:code": "NGU",
       "icao:code": "KNGU"
     },
@@ -66,7 +64,7 @@
       }
     ],
     "wof:id": 102530103,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Norfolk Naval Air Station",
     "wof:parent_id": 85851637,
     "wof:placetype": "campus",

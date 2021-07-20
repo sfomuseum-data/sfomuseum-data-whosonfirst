@@ -65,6 +65,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -81,12 +82,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12523071,
-      "iata:code": "BDA",
-      "icao:code": "TXKF",
-      "oa:id": "6416",
-      "wd:id": "Q20454632",
-      "wk:page": "Bermuda_International_Airport"
+      "iata:code": "BDA"
     },
     "wof:country": "",
     "wof:created": 1624906851,
@@ -104,7 +100,7 @@
       }
     ],
     "wof:id": 102546949,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Bermuda International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

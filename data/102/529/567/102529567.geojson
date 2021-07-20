@@ -53,6 +53,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 941,
@@ -70,13 +71,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DAG",
-      "gp:id": 12518748,
-      "iata:code": "DAG",
-      "icao:code": "KDAG",
-      "oa:id": "19615",
-      "wd:id": "Q2789542",
-      "wk:page": "Barstow-Daggett_Airport"
+      "iata:code": "DAG"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -91,7 +86,7 @@
       }
     ],
     "wof:id": 102529567,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Barstow Daggett Airport",
     "wof:parent_id": 85836453,
     "wof:placetype": "campus",

@@ -101,6 +101,8 @@
     "qs:pop": 0,
     "qs:source": "RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "buffered point",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg",
@@ -155,7 +157,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1624906516,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Takeley",
     "wof:parent_id": 404431315,
     "wof:placetype": "locality",

@@ -60,6 +60,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -80,14 +81,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ABI",
-      "gn:id": 4669647,
-      "gp:id": 12518518,
-      "iata:code": "ABI",
-      "icao:code": "KABI",
-      "oa:id": "3357",
-      "wd:id": "Q2744821",
-      "wk:page": "Abilene_Regional_Airport"
+      "iata:code": "ABI"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -104,7 +98,7 @@
       }
     ],
     "wof:id": 102529239,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825243,
     "wof:name": "Abilene Regional Airport",
     "wof:parent_id": 85859215,
     "wof:placetype": "campus",

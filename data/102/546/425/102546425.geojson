@@ -181,6 +181,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Brussels Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -203,12 +204,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22103751,
       "iata:code": "BRU",
-      "icao:code": "EBBR",
-      "oa:id": "2155",
-      "wd:id": "Q28934",
-      "wk:page": "Brussels_Airport"
+      "icao:code": "EBBR"
     },
     "wof:country": "",
     "wof:created": 1624906954,
@@ -227,7 +224,7 @@
       }
     ],
     "wof:id": 102546425,
-    "wof:lastmodified": 1624906954,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Brussels Airport",
     "wof:parent_id": 85802033,
     "wof:placetype": "campus",

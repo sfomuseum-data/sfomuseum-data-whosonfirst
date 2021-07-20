@@ -123,6 +123,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Princess Juliana International Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "whosonfirst",
     "src:geom_alt": [
       "woedb"
@@ -139,10 +140,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515140,
       "iata:code": "SXM",
-      "icao:code": "TNCM",
-      "wd:id": "Q723325"
+      "icao:code": "TNCM"
     },
     "wof:country": "SX",
     "wof:created": 1624906458,
@@ -161,7 +160,7 @@
       }
     ],
     "wof:id": 102553765,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Prinses Juliana International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

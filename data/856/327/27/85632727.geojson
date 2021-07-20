@@ -917,6 +917,8 @@
     "qs:level": "adm0",
     "qs:scale": 200000,
     "qs:source": "US State Department, with Natural Earth mods",
+    "sfomuseum:placetype": "country",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -939,7 +941,7 @@
       }
     ],
     "wof:id": 85632727,
-    "wof:lastmodified": 1624906756,
+    "wof:lastmodified": 1626825074,
     "wof:name": "Netherlands",
     "wof:parent_id": -1,
     "wof:placetype": "country",

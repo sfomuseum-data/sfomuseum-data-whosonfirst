@@ -76,6 +76,8 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4210",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -113,7 +115,7 @@
       }
     ],
     "wof:id": 85976175,
-    "wof:lastmodified": 1624906864,
+    "wof:lastmodified": 1626825093,
     "wof:name": "McGuire AFB",
     "wof:parent_id": 404477869,
     "wof:placetype": "locality",

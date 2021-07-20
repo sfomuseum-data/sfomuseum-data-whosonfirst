@@ -94,6 +94,8 @@
     "qs:pop": 0,
     "qs:source": "NCanada Census",
     "qs:type": "Municipality",
+    "sfomuseum:placetype": "locality",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -125,7 +127,7 @@
       }
     ],
     "wof:id": 101736205,
-    "wof:lastmodified": 1624906514,
+    "wof:lastmodified": 1626825066,
     "wof:name": "Meaford",
     "wof:parent_id": 890456569,
     "wof:placetype": "locality",

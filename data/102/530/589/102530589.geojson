@@ -49,6 +49,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -67,14 +68,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "MHR",
-      "gn:id": 5371066,
-      "gp:id": 12521692,
       "iata:code": "MHR",
-      "icao:code": "KMHR",
-      "oa:id": "20506",
-      "wd:id": "Q7396997",
-      "wk:page": "Sacramento_Mather_Airport"
+      "icao:code": "KMHR"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -90,7 +85,7 @@
       }
     ],
     "wof:id": 102530589,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Mather Airport",
     "wof:parent_id": 85887173,
     "wof:placetype": "campus",

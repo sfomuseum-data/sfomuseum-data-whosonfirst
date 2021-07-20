@@ -48,6 +48,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -64,14 +65,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "TWF",
-      "gn:id": 5610811,
-      "gp:id": 12522233,
-      "iata:code": "TWF",
-      "icao:code": "KTWF",
-      "oa:id": "3935",
-      "wd:id": "Q6730879",
-      "wk:page": "Magic_Valley_Regional_Airport"
+      "iata:code": "TWF"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -84,7 +78,7 @@
       }
     ],
     "wof:id": 102527881,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Twin Falls-Sun Valley Regional Airport",
     "wof:parent_id": 85688657,
     "wof:placetype": "campus",

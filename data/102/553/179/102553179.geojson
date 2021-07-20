@@ -73,6 +73,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -89,12 +90,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12515607,
-      "iata:code": "CRK",
-      "icao:code": "RPLC",
-      "oa:id": "5687",
-      "wd:id": "Q692279",
-      "wk:page": "Diosdado_Macapagal_International_Airport"
+      "iata:code": "CRK"
     },
     "wof:country": "",
     "wof:created": 1624906458,
@@ -109,7 +105,7 @@
       }
     ],
     "wof:id": 102553179,
-    "wof:lastmodified": 1624906458,
+    "wof:lastmodified": 1626825297,
     "wof:name": "Clark Field Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

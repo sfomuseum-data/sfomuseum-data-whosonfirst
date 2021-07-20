@@ -63,6 +63,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -84,14 +85,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "DLH",
-      "gn:id": 5024726,
-      "gp:id": 12519545,
       "iata:code": "DLH",
-      "icao:code": "KDLH",
-      "oa:id": "3491",
-      "wd:id": "Q3277758",
-      "wk:page": "Duluth_International_Airport"
+      "icao:code": "KDLH"
     },
     "wof:country": "US",
     "wof:created": 1624906906,
@@ -109,7 +104,7 @@
       }
     ],
     "wof:id": 102528763,
-    "wof:lastmodified": 1624906906,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Duluth International Airport",
     "wof:parent_id": 85815383,
     "wof:placetype": "campus",

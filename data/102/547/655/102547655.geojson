@@ -138,6 +138,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Shannon Airport",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -156,12 +157,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 12512726,
       "iata:code": "SNN",
-      "icao:code": "EINN",
-      "oa:id": "2537",
-      "wd:id": "Q584102",
-      "wk:page": "Shannon_Airport"
+      "icao:code": "EINN"
     },
     "wof:country": "",
     "wof:created": 1624906444,
@@ -177,7 +174,7 @@
       }
     ],
     "wof:id": 102547655,
-    "wof:lastmodified": 1624906444,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Shannon Airport",
     "wof:parent_id": 101804821,
     "wof:placetype": "campus",

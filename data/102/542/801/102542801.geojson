@@ -233,6 +233,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Amsterdam Airport Schiphol",
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "cbsnl",
     "src:geom_alt": [
       "woedb"
@@ -255,12 +256,8 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "gp:id": 22386730,
       "iata:code": "AMS",
-      "icao:code": "EHAM",
-      "oa:id": "2513",
-      "wd:id": "Q9694",
-      "wk:page": "Amsterdam_Schiphol_Airport"
+      "icao:code": "EHAM"
     },
     "wof:country": "NL",
     "wof:created": 1624906851,
@@ -281,7 +278,7 @@
       }
     ],
     "wof:id": 102542801,
-    "wof:lastmodified": 1624906851,
+    "wof:lastmodified": 1626825296,
     "wof:name": "Amsterdam Airport Schiphol",
     "wof:parent_id": 1158822865,
     "wof:placetype": "campus",

@@ -41,6 +41,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "wikidata",
     "src:geom_alt": [],
@@ -56,14 +57,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "NJK",
-      "gn:id": 6301667,
-      "gp:id": 12519604,
-      "iata:code": "NJK",
-      "icao:code": "KNJK",
-      "oa:id": "3731",
-      "wd:id": "Q3016449",
-      "wk:page": "Naval Air Facility El Centro"
+      "icao:code": "KNJK"
     },
     "wof:country": "US",
     "wof:created": 1624906905,
@@ -76,7 +70,7 @@
       }
     ],
     "wof:id": 102524995,
-    "wof:lastmodified": 1624906905,
+    "wof:lastmodified": 1626825098,
     "wof:name": "El Centro Naval Air Facility",
     "wof:parent_id": 85688637,
     "wof:placetype": "campus",

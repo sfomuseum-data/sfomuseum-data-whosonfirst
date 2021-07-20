@@ -60,6 +60,7 @@
     "sfomuseum:airport_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -79,14 +80,7 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "faa:code": "ARG",
-      "gn:id": 4135213,
-      "gp:id": 12522320,
-      "iata:code": "ARG",
-      "icao:code": "KARG",
-      "oa:id": "19303",
-      "wd:id": "Q7963657",
-      "wk:page": "Walnut Ridge Regional Airport"
+      "iata:code": "ARG"
     },
     "wof:country": "US",
     "wof:created": 1624906809,
@@ -102,7 +96,7 @@
       }
     ],
     "wof:id": 102532191,
-    "wof:lastmodified": 1624906809,
+    "wof:lastmodified": 1626825244,
     "wof:name": "Walnut Ridge Regional Airport",
     "wof:parent_id": 85919887,
     "wof:placetype": "campus",

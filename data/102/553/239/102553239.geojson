@@ -1,0 +1,147 @@
+{
+  "id": 102553239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000001725319500000848,
+    "geom:area_square_m": 20989.164912,
+    "geom:bbox": "123.978310,10.313061,123.980713,10.315848",
+    "geom:latitude": 10.314346573908967,
+    "geom:longitude": 123.97951562856629,
+    "iso:country": "",
+    "lbl:latitude": 10.314233,
+    "lbl:longitude": 123.979597,
+    "mps:latitude": 10.314233,
+    "mps:longitude": 123.979597,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار ماكتان سيبو الدولي"
+    ],
+    "name:ceb_x_preferred": [
+      "Tugpahanang Pangkalibotanon sa Mactan-Sugbo"
+    ],
+    "name:deu_x_preferred": [
+      "Flughafen Mactan-Cebu"
+    ],
+    "name:eng_x_preferred": [
+      "Mactan–Cebu International Airport"
+    ],
+    "name:est_x_preferred": [
+      "Mactani-Cebu rahvusvaheline lennujaam"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی مکتان-کبو"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport international de Mactan-Cebu"
+    ],
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Cebu-Mactan"
+    ],
+    "name:ita_x_preferred": [
+      "aeroporto Internazionale di Mactan-Cebu"
+    ],
+    "name:jpn_x_preferred": [
+      "マクタン・セブ国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "막탄 세부 국제공항"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Lapu Lapu"
+    ],
+    "name:nld_x_preferred": [
+      "Mactan-Cebu International Airport"
+    ],
+    "name:nob_x_preferred": [
+      "Mactan–Cebu internasjonale lufthavn"
+    ],
+    "name:pam_x_preferred": [
+      "Mactan-Cebu International Airport"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Mactan-Cebu"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Mactan–Cebu"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Mactán-Cebú"
+    ],
+    "name:swe_x_preferred": [
+      "Mactan-Cebu International Airport"
+    ],
+    "name:tgl_x_preferred": [
+      "Paliparang Pandaigdig ng Mactan-Cebu"
+    ],
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติมัคตัน–เซบู"
+    ],
+    "name:ukr_x_preferred": [
+      "Міжнародний аеропорт Мактан-Себу"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Mactan-Cebu"
+    ],
+    "name:war_x_preferred": [
+      "Luparan Panlangyaw han Cebu-Mactan"
+    ],
+    "name:zho_x_preferred": [
+      "麥克坦－宿霧國際機場"
+    ],
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424934,
+      "county_id": 2346676,
+      "planet_id": 1,
+      "state_id": 23424721
+    },
+    "wof:belongsto": [
+      102191569,
+      85632509,
+      85676291,
+      1108698011
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12515630,
+      "wd:id": "Q1048704"
+    },
+    "wof:country": "",
+    "wof:created": 1634058420,
+    "wof:geomhash": "2001c623723bb2b5c9a079a19994061e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102553239,
+        "continent_id": 102191569,
+        "country_id": 85632509,
+        "county_id": 1108698011,
+        "region_id": 85676291
+      }
+    ],
+    "wof:id": 102553239,
+    "wof:lastmodified": 1634058420,
+    "wof:name": "Mactan-Cebu International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    123.97831,
+    10.313061,
+    123.980713,
+    10.315848
+  ],
+  "geometry": {"coordinates":[[[[123.97831,10.315763],[123.97831,10.315848],[123.978653,10.315679],[123.979851,10.314497],[123.980026,10.314328],[123.980194,10.31399],[123.980713,10.313061],[123.979683,10.313483],[123.979164,10.314243],[123.97831,10.315763]]]],"type":"MultiPolygon"}
+}

@@ -93,6 +93,7 @@
       "麥克坦－宿霧國際機場"
     ],
     "sfomuseum:placetype": "airport",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -109,11 +110,11 @@
       1108698011
     ],
     "wof:breaches": [],
-    "wof:concordances":{
-        "gp:id":12515630,
-        "iata:code":"CES",
-        "icao:code":"RPVM",
-        "wd:id":"Q1048704"
+    "wof:concordances": {
+      "gp:id": 12515630,
+      "iata:code": "CES",
+      "icao:code": "RPVM",
+      "wd:id": "Q1048704"
     },
     "wof:country": "",
     "wof:created": 1634058420,
@@ -128,7 +129,7 @@
       }
     ],
     "wof:id": 102553239,
-    "wof:lastmodified": 1634058420,
+    "wof:lastmodified": 1635201135,
     "wof:name": "Mactan-Cebu International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

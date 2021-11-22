@@ -1,0 +1,717 @@
+{
+  "id": 421177479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.011550232499499914,
+    "geom:area_square_m": 133318152.389869,
+    "geom:bbox": "105.760936,20.946341,105.907818,21.108171",
+    "geom:latitude": 21.018586511696924,
+    "geom:longitude": 105.83400359873701,
+    "iso:country": "VN",
+    "lbl:latitude": 21.0245,
+    "lbl:longitude": 105.84117,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 6,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 4,
+    "mz:note": "quattroshapes points import (201603)",
+    "name:ace_x_preferred": [
+      "Hanoi"
+    ],
+    "name:afr_x_preferred": [
+      "Hanoi"
+    ],
+    "name:amh_x_preferred": [
+      "ሀኖይ"
+    ],
+    "name:ara_x_preferred": [
+      "هانوي"
+    ],
+    "name:arg_x_preferred": [
+      "Hanoi"
+    ],
+    "name:arz_x_preferred": [
+      "هانوى"
+    ],
+    "name:ast_x_preferred": [
+      "Ḥanoi"
+    ],
+    "name:ast_x_variant": [
+      "Ḥanói"
+    ],
+    "name:azb_x_preferred": [
+      "هانوی"
+    ],
+    "name:aze_x_preferred": [
+      "Hanoy"
+    ],
+    "name:bak_x_preferred": [
+      "Ханой"
+    ],
+    "name:bar_x_preferred": [
+      "Hanoi"
+    ],
+    "name:bcl_x_preferred": [
+      "Hanoi"
+    ],
+    "name:bel_x_preferred": [
+      "Горад Ханой"
+    ],
+    "name:bel_x_variant": [
+      "Ханой"
+    ],
+    "name:ben_x_preferred": [
+      "হ্যানয়"
+    ],
+    "name:bod_x_preferred": [
+      "ཧེ་ནོ།"
+    ],
+    "name:bos_x_preferred": [
+      "Hanoi"
+    ],
+    "name:bre_x_preferred": [
+      "Ha Noi"
+    ],
+    "name:bul_x_preferred": [
+      "Ханой"
+    ],
+    "name:bxr_x_preferred": [
+      "Ханой"
+    ],
+    "name:cat_x_preferred": [
+      "Hanoi"
+    ],
+    "name:cdo_x_preferred": [
+      "Ò̤-nô̤i"
+    ],
+    "name:ceb_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ces_x_preferred": [
+      "Hanoj"
+    ],
+    "name:che_x_preferred": [
+      "Ханой"
+    ],
+    "name:chv_x_preferred": [
+      "Ханой"
+    ],
+    "name:ckb_x_preferred": [
+      "ھانۆی"
+    ],
+    "name:cym_x_preferred": [
+      "Hanoi"
+    ],
+    "name:dan_x_preferred": [
+      "Hanoi"
+    ],
+    "name:deu_ch_x_preferred": [
+      "Hanoi"
+    ],
+    "name:deu_x_preferred": [
+      "Hanoi"
+    ],
+    "name:diq_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ell_x_preferred": [
+      "Ανόι"
+    ],
+    "name:eng_ca_x_preferred": [
+      "Hanoi"
+    ],
+    "name:eng_gb_x_preferred": [
+      "Hanoi"
+    ],
+    "name:eng_x_preferred": [
+      "Hanoi"
+    ],
+    "name:epo_x_preferred": [
+      "Hanojo"
+    ],
+    "name:est_x_preferred": [
+      "Hanoi"
+    ],
+    "name:eus_x_preferred": [
+      "Hanoi"
+    ],
+    "name:fas_x_preferred": [
+      "هانوی"
+    ],
+    "name:fij_x_preferred": [
+      "Hanoi"
+    ],
+    "name:fin_x_preferred": [
+      "Hanoi"
+    ],
+    "name:fra_x_preferred": [
+      "Hanoï"
+    ],
+    "name:frp_x_preferred": [
+      "Hanoi"
+    ],
+    "name:frr_x_preferred": [
+      "Hanoi"
+    ],
+    "name:fry_x_preferred": [
+      "Hanoi"
+    ],
+    "name:gan_x_preferred": [
+      "河內市"
+    ],
+    "name:gla_x_preferred": [
+      "Hanoi"
+    ],
+    "name:gle_x_preferred": [
+      "Ha Noi"
+    ],
+    "name:glg_x_preferred": [
+      "Hanoi"
+    ],
+    "name:gsw_x_preferred": [
+      "Hanoi"
+    ],
+    "name:guj_x_preferred": [
+      "હનોઈ"
+    ],
+    "name:hak_x_preferred": [
+      "Hò-nui-sṳ"
+    ],
+    "name:hat_x_preferred": [
+      "Anòy"
+    ],
+    "name:hau_x_preferred": [
+      "Hanoi"
+    ],
+    "name:haw_x_preferred": [
+      "Hanoi"
+    ],
+    "name:heb_x_preferred": [
+      "האנוי"
+    ],
+    "name:hif_x_preferred": [
+      "Hanoi"
+    ],
+    "name:hin_x_preferred": [
+      "हनोई"
+    ],
+    "name:hrv_x_preferred": [
+      "Hanoi"
+    ],
+    "name:hun_x_preferred": [
+      "Hanoi"
+    ],
+    "name:hye_x_preferred": [
+      "Հանոյ"
+    ],
+    "name:ido_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ile_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ilo_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ina_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ind_x_preferred": [
+      "Hanoi"
+    ],
+    "name:isl_x_preferred": [
+      "Hanoí"
+    ],
+    "name:ita_x_preferred": [
+      "Hanoi"
+    ],
+    "name:jav_x_preferred": [
+      "Hanoi"
+    ],
+    "name:jpn_x_preferred": [
+      "ハノイ"
+    ],
+    "name:kaa_x_preferred": [
+      "Xanoy"
+    ],
+    "name:kal_x_preferred": [
+      "Hanoi"
+    ],
+    "name:kan_x_preferred": [
+      "ಹಾನೊಯ್"
+    ],
+    "name:kat_x_preferred": [
+      "ჰანოი"
+    ],
+    "name:kaz_x_preferred": [
+      "Ханой"
+    ],
+    "name:khm_x_preferred": [
+      "ទីក្រុងហានូយ"
+    ],
+    "name:kik_x_preferred": [
+      "Hanoi"
+    ],
+    "name:kir_x_preferred": [
+      "Ханой"
+    ],
+    "name:kor_x_preferred": [
+      "하노이"
+    ],
+    "name:kur_x_preferred": [
+      "Hanoi"
+    ],
+    "name:lad_x_preferred": [
+      "Hanói"
+    ],
+    "name:lao_x_preferred": [
+      "ຮ່າໂນ້ຍ"
+    ],
+    "name:lat_x_preferred": [
+      "Hanoi"
+    ],
+    "name:lav_x_preferred": [
+      "Hanoja"
+    ],
+    "name:lim_x_preferred": [
+      "Hanoi"
+    ],
+    "name:lit_x_preferred": [
+      "Hanojus"
+    ],
+    "name:lmo_x_preferred": [
+      "Hanoi"
+    ],
+    "name:lrc_x_preferred": [
+      "هانوی"
+    ],
+    "name:ltz_x_preferred": [
+      "Hanoi"
+    ],
+    "name:mal_x_preferred": [
+      "ഹാനോയ്"
+    ],
+    "name:mar_x_preferred": [
+      "हनोई"
+    ],
+    "name:mhr_x_preferred": [
+      "Ханой"
+    ],
+    "name:mkd_x_preferred": [
+      "Ханој"
+    ],
+    "name:mlg_x_preferred": [
+      "Hanoi"
+    ],
+    "name:mon_x_preferred": [
+      "Ханой"
+    ],
+    "name:mri_x_preferred": [
+      "Hanoi"
+    ],
+    "name:msa_x_preferred": [
+      "Hanoi"
+    ],
+    "name:mya_x_preferred": [
+      "ဟနွိုင်းမြို့"
+    ],
+    "name:mzn_x_preferred": [
+      "هانوی"
+    ],
+    "name:nah_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nan_x_preferred": [
+      "Hà Nội"
+    ],
+    "name:nau_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nds_x_preferred": [
+      "Hà Nội"
+    ],
+    "name:nep_x_preferred": [
+      "हनोइ"
+    ],
+    "name:nld_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nno_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nob_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nor_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nov_x_preferred": [
+      "Hanoi"
+    ],
+    "name:nya_x_preferred": [
+      "Hanoi"
+    ],
+    "name:oci_x_preferred": [
+      "Hanòi"
+    ],
+    "name:olo_x_preferred": [
+      "Hanoi"
+    ],
+    "name:ori_x_preferred": [
+      "ହାନୋଇ"
+    ],
+    "name:oss_x_preferred": [
+      "Ханой"
+    ],
+    "name:pam_x_preferred": [
+      "Hanoi"
+    ],
+    "name:pan_x_preferred": [
+      "ਹਨੋਈ"
+    ],
+    "name:pap_x_preferred": [
+      "Hanoi"
+    ],
+    "name:pcd_x_preferred": [
+      "Hanoï"
+    ],
+    "name:pih_x_preferred": [
+      "Hanoi"
+    ],
+    "name:pms_x_preferred": [
+      "Hanoi"
+    ],
+    "name:pnb_x_preferred": [
+      "ہنوئی"
+    ],
+    "name:pol_x_preferred": [
+      "Hanoi"
+    ],
+    "name:por_br_x_preferred": [
+      "Hanói"
+    ],
+    "name:por_x_preferred": [
+      "Hanói"
+    ],
+    "name:pus_x_preferred": [
+      "هانوی"
+    ],
+    "name:que_x_preferred": [
+      "Ha Nui"
+    ],
+    "name:ron_x_preferred": [
+      "Hanoi"
+    ],
+    "name:rus_x_preferred": [
+      "Ханой"
+    ],
+    "name:sah_x_preferred": [
+      "Ханой"
+    ],
+    "name:san_x_preferred": [
+      "हनोई"
+    ],
+    "name:scn_x_preferred": [
+      "Hanoi"
+    ],
+    "name:sco_x_preferred": [
+      "Hanoi"
+    ],
+    "name:sin_x_preferred": [
+      "හැනෝයි"
+    ],
+    "name:slk_x_preferred": [
+      "Hanoj"
+    ],
+    "name:slv_x_preferred": [
+      "Hanoj"
+    ],
+    "name:sme_x_preferred": [
+      "Hanoi"
+    ],
+    "name:sna_x_preferred": [
+      "Hanoi"
+    ],
+    "name:spa_x_preferred": [
+      "Hanoi"
+    ],
+    "name:spa_x_variant": [
+      "Hanói"
+    ],
+    "name:sqi_x_preferred": [
+      "Hanoi"
+    ],
+    "name:srd_x_preferred": [
+      "Hanoi"
+    ],
+    "name:srp_x_preferred": [
+      "Ханој"
+    ],
+    "name:stq_x_preferred": [
+      "Hanoi"
+    ],
+    "name:swa_x_preferred": [
+      "Hanoi"
+    ],
+    "name:swe_x_preferred": [
+      "Hanoi"
+    ],
+    "name:szl_x_preferred": [
+      "Hanoi"
+    ],
+    "name:tam_x_preferred": [
+      "ஹனோய்"
+    ],
+    "name:tat_x_preferred": [
+      "Hanoy"
+    ],
+    "name:tel_x_preferred": [
+      "హనోయ్"
+    ],
+    "name:tgk_x_preferred": [
+      "Ханой"
+    ],
+    "name:tgl_x_preferred": [
+      "Hanoi"
+    ],
+    "name:tha_x_preferred": [
+      "ฮานอย"
+    ],
+    "name:tuk_x_preferred": [
+      "Hanoýi"
+    ],
+    "name:tur_x_preferred": [
+      "Hanoi"
+    ],
+    "name:twi_x_preferred": [
+      "Hanɔi"
+    ],
+    "name:uig_x_preferred": [
+      "خانوي"
+    ],
+    "name:ukr_x_preferred": [
+      "Ханой"
+    ],
+    "name:und_x_variant": [
+      "Keicho"
+    ],
+    "name:urd_x_preferred": [
+      "ہنوئی"
+    ],
+    "name:uzb_x_preferred": [
+      "Xanoy"
+    ],
+    "name:ven_x_preferred": [
+      "Hanoi"
+    ],
+    "name:vep_x_preferred": [
+      "Hanoi"
+    ],
+    "name:vie_x_preferred": [
+      "Hà Nội"
+    ],
+    "name:vol_x_preferred": [
+      "Hà Nội"
+    ],
+    "name:vro_x_preferred": [
+      "Hanoi"
+    ],
+    "name:war_x_preferred": [
+      "Hanoi"
+    ],
+    "name:wuu_x_preferred": [
+      "河內市"
+    ],
+    "name:xmf_x_preferred": [
+      "ჰანოი"
+    ],
+    "name:yid_x_preferred": [
+      "האנוי"
+    ],
+    "name:yor_x_preferred": [
+      "Hanoi"
+    ],
+    "name:yue_x_preferred": [
+      "河內"
+    ],
+    "name:zea_x_preferred": [
+      "Hanoi"
+    ],
+    "name:zho_x_preferred": [
+      "河內市"
+    ],
+    "ne:ADM0CAP": 1,
+    "ne:ADM0NAME": "Vietnam",
+    "ne:ADM0_A3": "VNM",
+    "ne:ADM1NAME": "Thái Nguyên",
+    "ne:ADMIN1_COD": 44,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": null,
+    "ne:CHANGED": 5,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": "Hanoi",
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": "Changed scale rank.",
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-0 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLC",
+    "ne:GEONAMEID": 1581130,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Ha Noi",
+    "ne:GN_POP": 1431270,
+    "ne:GTOPO30": 26,
+    "ne:ISO_A2": "VN",
+    "ne:LABELRANK": 5,
+    "ne:LATITUDE": 21.033327,
+    "ne:LONGITUDE": 105.850014,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Hanoi",
+    "ne:MAX_AREAKM": 14049,
+    "ne:MAX_AREAMI": 5424,
+    "ne:MAX_BBXMAX": 106.808333,
+    "ne:MAX_BBXMIN": 105.616287,
+    "ne:MAX_BBYMAX": 21.783333,
+    "ne:MAX_BBYMIN": 20.620237,
+    "ne:MAX_NATSCA": 100,
+    "ne:MAX_PERKM": 10267,
+    "ne:MAX_PERMI": 6380,
+    "ne:MAX_POP10": 5620806,
+    "ne:MAX_POP20": 7346227,
+    "ne:MAX_POP300": 23700631,
+    "ne:MAX_POP310": 0,
+    "ne:MAX_POP50": 16406759,
+    "ne:MEAN_BBXC": 105.892881,
+    "ne:MEAN_BBYC": 20.873406,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "Hh Noi",
+    "ne:MIN_AREAKM": 2512,
+    "ne:MIN_AREAMI": 970,
+    "ne:MIN_BBXMAX": 106.2294,
+    "ne:MIN_BBXMIN": 104.975,
+    "ne:MIN_BBYMAX": 21.319209,
+    "ne:MIN_BBYMIN": 19.283333,
+    "ne:MIN_PERKM": 1175,
+    "ne:MIN_PERMI": 730,
+    "ne:NAME": "Hanoi",
+    "ne:NAMEALT": "H",
+    "ne:NAMEASCII": "Hanoi",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 200,
+    "ne:NOTE": null,
+    "ne:POP1950": 280,
+    "ne:POP1955": 425,
+    "ne:POP1960": 644,
+    "ne:POP1965": 917,
+    "ne:POP1970": 1307,
+    "ne:POP1975": 1884,
+    "ne:POP1980": 2606,
+    "ne:POP1985": 2854,
+    "ne:POP1990": 3126,
+    "ne:POP1995": 3424,
+    "ne:POP2000": 3752,
+    "ne:POP2005": 4170,
+    "ne:POP2010": 4378,
+    "ne:POP2015": 4723,
+    "ne:POP2020": 5357,
+    "ne:POP2025": 6036,
+    "ne:POP2050": 6754,
+    "ne:POP_MAX": 4378000,
+    "ne:POP_MIN": 1431270,
+    "ne:POP_OTHER": 5466347,
+    "ne:RANK_MAX": 12,
+    "ne:RANK_MIN": 12,
+    "ne:SCALERANK": 2,
+    "ne:SOV0NAME": "Vietnam",
+    "ne:SOV_A3": "VNM",
+    "ne:TIMEZONE": "Asia/Ho_Chi_Minh",
+    "ne:UN_ADM0": "Viet Nam",
+    "ne:UN_FID": 451,
+    "ne:UN_LAT": 21.03,
+    "ne:UN_LONG": 105.82,
+    "ne:WORLDCITY": 0,
+    "qs:gn_country": "VN",
+    "qs:gn_fcode": "PPLC",
+    "qs:gn_id": 1581130,
+    "qs:gn_pop": 1431270,
+    "qs:name": "Hanoi",
+    "qs:name_adm0": "Vietnam",
+    "qs:name_adm1": "Ha Noi",
+    "qs:photos": 4998,
+    "qs:photos_1k": 1000,
+    "qs:photos_9k": 22,
+    "qs:photos_9r": 14,
+    "qs:photos_all": 4998,
+    "qs:photos_sr": 24,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "12",
+    "qs:qs_id": 423436,
+    "qs:woe_adm0": 23424984,
+    "qs:woe_id": 1236594,
+    "sfomuseum:placetype": "city",
+    "src:geom": "meso",
+    "src:geom_alt": [
+      "quattroshapes"
+    ],
+    "src:population": "quattroshapes",
+    "wof:belongsto": [
+      102191569,
+      85632763,
+      1108780787,
+      85680653
+    ],
+    "wof:breaches": [],
+    "wof:capital_of": [
+      85632763
+    ],
+    "wof:concordances": {
+      "gn:id": 1581130,
+      "gp:id": 1236594,
+      "loc:id": "n81100620",
+      "ne:id": 1159151251,
+      "qs_pg:id": 423436,
+      "wd:id": "Q1858",
+      "wk:page": "Hanoi"
+    },
+    "wof:country": "VN",
+    "wof:created": 1459009146,
+    "wof:geom_alt": [
+      "quattroshapes"
+    ],
+    "wof:geomhash": "56107e1221f724bf85a691e6f9852192",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632763,
+        "county_id": 1108780787,
+        "locality_id": 421177479,
+        "region_id": 85680653
+      }
+    ],
+    "wof:id": 421177479,
+    "wof:lastmodified": 1637608039,
+    "wof:megacity": 1,
+    "wof:name": "Hanoi",
+    "wof:parent_id": 1108780787,
+    "wof:placetype": "locality",
+    "wof:population": 1431270,
+    "wof:population_rank": 12,
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    105.760936,
+    20.946341,
+    105.907818,
+    21.108171
+  ],
+  "geometry": {"coordinates":[[[[105.852507,21.055836],[105.867408,21.048026],[105.867418,21.04637],[105.866984,21.044787],[105.868829,21.034706],[105.870815,21.031812],[105.86715,21.022411],[105.871881,21.013307],[105.877127,21.012558],[105.883349,21.009501],[105.883309,21.004862],[105.885203,21.002613],[105.892219,20.999606],[105.898178,20.99421],[105.900241,20.994604],[105.907818,20.989098],[105.903767,20.974757],[105.904433,20.973783],[105.904716,20.962716],[105.891267,20.960708],[105.888677,20.94754],[105.887784,20.946485],[105.886703,20.946341],[105.878745,20.951411],[105.876601,20.953836],[105.875777,20.954219],[105.87324,20.954317],[105.867588,20.950574],[105.862688,20.951797],[105.858824,20.959499],[105.854164,20.959799],[105.848582,20.955228],[105.841902,20.956525],[105.841203,20.957139],[105.836154,20.958896],[105.83087,20.954451],[105.824608,20.953828],[105.823153,20.956304],[105.817594,20.960806],[105.817209,20.962],[105.818431,20.970066],[105.812507,20.9758],[105.814212,20.984844],[105.802851,20.988176],[105.801405,20.990096],[105.796643,20.992345],[105.789128,20.99153],[105.786471,20.993405],[105.785584,20.998326],[105.778718,21.003479],[105.778891,21.017007],[105.780522,21.018484],[105.78049,21.021871],[105.772971,21.0319],[105.765248,21.03098],[105.761277,21.034781],[105.760936,21.038909],[105.762729,21.042397],[105.773831,21.047652],[105.778293,21.041947],[105.788784,21.045129],[105.790298,21.046751],[105.792971,21.05595],[105.794256,21.057085],[105.797301,21.057551],[105.800664,21.06786],[105.79893,21.075954],[105.790378,21.078231],[105.789747,21.080552],[105.790872,21.086314],[105.787274,21.093632],[105.785727,21.10591],[105.79,21.108171],[105.798173,21.106384],[105.800185,21.106919],[105.812439,21.099689],[105.819004,21.100656],[105.822481,21.094597],[105.830246,21.092273],[105.831429,21.078879],[105.832519,21.076646],[105.839887,21.074569],[105.840492,21.074127],[105.848505,21.073561],[105.850174,21.072302],[105.851886,21.070153],[105.852764,21.060898],[105.852507,21.055836]]]],"type":"MultiPolygon"}
+}

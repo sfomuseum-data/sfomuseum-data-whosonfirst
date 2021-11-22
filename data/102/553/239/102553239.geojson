@@ -2,6 +2,8 @@
   "id": 102553239,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1956-01-01",
+    "date:inception_upper": "1956-12-31",
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000001725319500000848,
@@ -112,12 +114,12 @@
     "wof:breaches": [],
     "wof:concordances": {
       "gp:id": 12515630,
-      "iata:code": "CES",
+      "iata:code": "CEB",
       "icao:code": "RPVM",
       "wd:id": "Q1048704"
     },
     "wof:country": "PH",
-    "wof:created": 1637615991,
+    "wof:created": 1637617743,
     "wof:geomhash": "2001c623723bb2b5c9a079a19994061e",
     "wof:hierarchy": [
       {
@@ -129,7 +131,7 @@
       }
     ],
     "wof:id": 102553239,
-    "wof:lastmodified": 1637615991,
+    "wof:lastmodified": 1637617842,
     "wof:name": "Mactan-Cebu International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

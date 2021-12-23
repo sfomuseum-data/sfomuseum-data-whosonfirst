@@ -1,6 +1,7 @@
 {
+  "edtf:cessation": "",
   "edtf:inception": "1951",
-  "sfomuseum:airport_id": 246,
+  "sfomuseum:airport_id": 3,
   "sfomuseum:count_objects_public": 0,
   "sfomuseum:is_sfo": 1,
   "sfomuseum:name": "Anchorage International Airport",
@@ -9,5 +10,6 @@
   "wof:concordances": {
     "iata:code": "ANC",
     "icao:code": "PANC"
-  }
+  },
+  "wof:repo": "sfomuseum-data-whosonfirst"
 }

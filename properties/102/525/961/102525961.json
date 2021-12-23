@@ -1,8 +1,9 @@
 {
-  "edtf:inception": "1920",
+  "edtf:cessation": "",
+  "edtf:inception": "",
   "millsfield:count_images": 1,
   "millsfield:count_objects": 1,
-  "sfomuseum:airport_id": 281,
+  "sfomuseum:airport_id": 136,
   "sfomuseum:count_objects_public": 1,
   "sfomuseum:is_sfo": 1,
   "sfomuseum:name": "Saint Louis Lambert International Airport",
@@ -11,5 +12,6 @@
   "wof:concordances": {
     "iata:code": "STL",
     "icao:code": "KSTL"
-  }
+  },
+  "wof:repo": "sfomuseum-data-whosonfirst"
 }

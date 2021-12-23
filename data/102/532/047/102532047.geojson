@@ -2,14 +2,10 @@
   "id": 102532047,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1973-01-01",
-    "date:cessation_upper": "1973-12-31",
-    "date:inception_lower": "1950-01-01",
-    "date:inception_upper": "1950-12-31",
-    "edtf:cessation": "1973",
-    "edtf:inception": "1950",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0.0005788406465000377,
-    "geom:area_square_m": 5548077.501185,
+    "geom:area_square_m": 5548077.501189,
     "geom:bbox": "-76.695816,39.159882,-76.651779,39.199165",
     "geom:latitude": 39.18186202554353,
     "geom:longitude": -76.67434267059483,
@@ -104,7 +100,7 @@
     ],
     "oa:elevation_ft": "146",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": 192,
+    "sfomuseum:airport_id": 8,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Friendship International Airport",
@@ -135,7 +131,7 @@
       "wk:page": "Baltimore-Washington_International_Thurgood_Marshall_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1626825244,
+    "wof:created": 1640221125,
     "wof:geomhash": "28e6a3890348d259bc16d37e5c82201d",
     "wof:hierarchy": [
       {
@@ -145,11 +141,11 @@
       }
     ],
     "wof:id": 102532047,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1640221125,
     "wof:name": "Baltimore-Washington International Thurgood Marshall Airport",
     "wof:parent_id": 85688501,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

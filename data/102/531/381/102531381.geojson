@@ -1,0 +1,111 @@
+{
+  "id": 102531381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.416000,33.404900,-118.416000,33.404900",
+    "geom:latitude": 33.4049,
+    "geom:longitude": -118.416,
+    "gn:elevation": 485,
+    "iso:country": "US",
+    "lbl:latitude": 33.40424,
+    "lbl:longitude": -118.4159,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Catalina Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Catalina Airport"
+    ],
+    "name:eng_x_variant": [
+      "AVX",
+      "CIB",
+      "KAVX",
+      "Airport in the Sky",
+      "Apt in the Sky"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه کتلینا"
+    ],
+    "name:jpn_x_preferred": [
+      "カタリナ空港"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Catalina"
+    ],
+    "name:rus_x_preferred": [
+      "Авалон"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи ктлино"
+    ],
+    "name:urd_x_preferred": [
+      "ایئرپورٹ ان دی اسکائی"
+    ],
+    "name:zho_x_preferred": [
+      "卡塔利娜機場"
+    ],
+    "oa:elevation_ft": "1602",
+    "oa:type": "small_airport",
+    "sfomuseum:airport_id": 279,
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 572,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587688,
+      "planet_id": 1,
+      "state_id": 2347563
+    },
+    "wof:belongsto": [
+      85633793,
+      85688637
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "AVX",
+      "gn:id": 5334969,
+      "gp:id": 12519104,
+      "iata:code": "CIB",
+      "icao:code": "KAVX",
+      "oa:id": "19331",
+      "wd:id": "Q1962745",
+      "wk:page": "Catalina_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1640221658,
+    "wof:geomhash": "fc71f476ac61c6a8b2f949475fe2592a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531381,
+        "country_id": 85633793,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 102531381,
+    "wof:lastmodified": 1640221658,
+    "wof:name": "Catalina Airport",
+    "wof:parent_id": 85688637,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -118.416,
+    33.4049,
+    -118.416,
+    33.4049
+  ],
+  "geometry": {"coordinates":[-118.416,33.4049],"type":"Point"}
+}

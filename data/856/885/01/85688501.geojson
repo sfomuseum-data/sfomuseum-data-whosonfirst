@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 3.3387938135840103,
-    "geom:area_square_m": 32107178845.63858,
+    "geom:area_square_m": 32107178845.634766,
     "geom:bbox": "-79.487651,37.886605,-74.986282,39.723037",
     "geom:latitude": 38.94649291599587,
     "geom:longitude": -76.687174845141,
@@ -246,6 +246,9 @@
       "Maryland"
     ],
     "name:heb_x_preferred": [
+      "ערבות מסאי"
+    ],
+    "name:heb_x_variant": [
       "מרילנד"
     ],
     "name:hif_x_preferred": [
@@ -740,6 +743,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85949233
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 21,
       "fips:code": "US24",
@@ -751,7 +757,7 @@
       "wd:id": "Q1391"
     },
     "wof:country": "US",
-    "wof:created": 1624906893,
+    "wof:created": 1640221126,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -772,14 +778,14 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1640221126,
     "wof:name": "Maryland",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
     "wof:population": 5773552,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "MD",
     "wof:subdivision": "US-MD",
     "wof:superseded_by": [],

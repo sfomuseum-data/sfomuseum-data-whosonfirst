@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 8.082216333304531,
-    "geom:area_square_m": 82964654225.51314,
+    "geom:area_square_m": 82964654225.52332,
     "geom:bbox": "-83.353928,32.033454,-78.499301,35.215540",
     "geom:latitude": 33.87785616369,
     "geom:longitude": -80.86459585950674,
@@ -728,6 +728,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101720793
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 41,
       "fips:code": "US45",
@@ -739,7 +742,7 @@
       "wd:id": "Q1456"
     },
     "wof:country": "US",
-    "wof:created": 1624906898,
+    "wof:created": 1640221680,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -760,14 +763,14 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1640221680,
     "wof:name": "South Carolina",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
     "wof:population": 4625364,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "SC",
     "wof:subdivision": "US-SC",
     "wof:superseded_by": [],

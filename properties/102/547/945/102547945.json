@@ -1,12 +1,14 @@
 {
-  "sfomuseum:placetype": "airport", 
-  "sfomuseum:name": "Roma-Ciampino International Airport", 
-  "edtf:inception": "1916", 
-  "sfomuseum:count_objects_public": 1, 
-  "sfomuseum:airport_id": 287, 
+  "edtf:cessation": "",
+  "edtf:inception": "",
+  "sfomuseum:airport_id": 287,
+  "sfomuseum:count_objects_public": 1,
+  "sfomuseum:is_sfo": 1,
+  "sfomuseum:name": "Roma-Ciampino International Airport",
+  "sfomuseum:placetype": "airport",
   "wof:concordances": {
-    "icao:code": "LIRA", 
-    "iata:code": "CIA"
-  }, 
-  "sfomuseum:is_sfo": 1
+    "iata:code": "CIA",
+    "icao:code": "LIRA"
+  },
+  "wof:repo": "sfomuseum-data-whosonfirst"
 }

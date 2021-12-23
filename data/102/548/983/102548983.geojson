@@ -7,7 +7,7 @@
     "edtf:cessation": "2008-10-30",
     "edtf:inception": "",
     "geom:area": 0.00019391416950003694,
-    "geom:area_square_m": 1460214.379167,
+    "geom:area_square_m": 1460214.379168,
     "geom:bbox": "13.371262,52.472179,13.402976,52.492634",
     "geom:latitude": 52.484116955545964,
     "geom:longitude": 13.387929695721184,
@@ -133,7 +133,7 @@
     ],
     "oa:elevation_ft": "167",
     "oa:type": "closed",
-    "sfomuseum:airport_id": 14,
+    "sfomuseum:airport_id": 194,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Berlin Tempelhof Airport",
@@ -149,12 +149,12 @@
       "state_id": 2345496
     },
     "wof:belongsto": [
-      420784305,
+      1108815537,
       102191581,
       85633111,
-      101748799,
-      1108815537,
       102063945,
+      101748799,
+      420784305,
       85682499
     ],
     "wof:breaches": [],
@@ -163,7 +163,7 @@
       "icao:code": "EDDI"
     },
     "wof:country": "",
-    "wof:created": 1624906954,
+    "wof:created": 1640221618,
     "wof:geomhash": "c4b3a27d438514129c35e98e4af64005",
     "wof:hierarchy": [
       {
@@ -178,11 +178,11 @@
       }
     ],
     "wof:id": 102548983,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1640221618,
     "wof:name": "Tempelhof Central Airport",
     "wof:parent_id": 420784305,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

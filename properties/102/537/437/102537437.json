@@ -1,13 +1,14 @@
 {
-  "edtf:cessation": "1999", 
-  "sfomuseum:placetype": "airport", 
-  "sfomuseum:name": "King Abdulaziz Air Base", 
-  "edtf:inception": "1961", 
-  "sfomuseum:count_objects_public": 1, 
-  "sfomuseum:airport_id": 282, 
+  "edtf:cessation": "",
+  "edtf:inception": "",
+  "sfomuseum:airport_id": 282,
+  "sfomuseum:count_objects_public": 1,
+  "sfomuseum:is_sfo": 1,
+  "sfomuseum:name": "King Abdulaziz Air Base",
+  "sfomuseum:placetype": "airport",
   "wof:concordances": {
-    "icao:code": "OEDR", 
-    "iata:code": "DHA"
-  }, 
-  "sfomuseum:is_sfo": 1
+    "iata:code": "DHA",
+    "icao:code": "OEDR"
+  },
+  "wof:repo": "sfomuseum-data-whosonfirst"
 }

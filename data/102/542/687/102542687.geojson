@@ -2,10 +2,8 @@
   "id": 102542687,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1934-01-01",
-    "date:inception_upper": "1934-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1934",
+    "edtf:inception": "",
     "geom:area": 0.000012892558999998442,
     "geom:area_square_m": 135172.773794,
     "geom:bbox": "34.876667,32.011990,34.895210,32.017101",
@@ -211,7 +209,7 @@
     ],
     "oa:elevation_ft": "135",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": 291,
+    "sfomuseum:airport_id": 144,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ben Gurion Airport",
@@ -238,7 +236,7 @@
       "icao:code": "LLBG"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1640221002,
     "wof:geomhash": "3d72e35fc4580f0c427354f218290830",
     "wof:hierarchy": [
       {
@@ -252,11 +250,11 @@
       }
     ],
     "wof:id": 102542687,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1640221002,
     "wof:name": "Ben Gurion Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

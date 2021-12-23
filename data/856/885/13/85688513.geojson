@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 28.568535360793085,
-    "geom:area_square_m": 254315508878.43954,
+    "geom:area_square_m": 254315508878.45087,
     "geom:bbox": "-124.703541,41.991794,-116.463262,46.299099",
     "geom:latitude": 43.94043885982227,
     "geom:longitude": -120.60527284033917,
@@ -515,6 +515,9 @@
       "Oregon"
     ],
     "name:spa_x_preferred": [
+      "Oregon"
+    ],
+    "name:spa_x_variant": [
       "Oregón"
     ],
     "name:sqi_x_preferred": [
@@ -718,6 +721,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101716049
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 38,
       "fips:code": "US41",
@@ -729,7 +735,7 @@
       "wd:id": "Q824"
     },
     "wof:country": "US",
-    "wof:created": 1624906893,
+    "wof:created": 1640221037,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -750,7 +756,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1640221037,
     "wof:name": "Oregon",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

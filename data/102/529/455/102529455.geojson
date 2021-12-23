@@ -1,0 +1,114 @@
+{
+  "id": 102529455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.841003,45.695099,-118.841003,45.695099",
+    "geom:latitude": 45.695099,
+    "geom:longitude": -118.841003,
+    "gn:elevation": 451,
+    "iso:country": "US",
+    "lbl:latitude": 45.6943,
+    "lbl:longitude": -118.84166,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Eastern Oregon Regional Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Eastern Oregon Regional Airport"
+    ],
+    "name:eng_x_variant": [
+      "PDT",
+      "KPDT",
+      "Pendleton Army Airfield",
+      "Pendleton Regional Airport"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه منطقه‌ای ایسترن اریگن"
+    ],
+    "name:fra_x_preferred": [
+      "aérodrome d'Eastern Oregon Rgnl At Pendleton"
+    ],
+    "name:jpn_x_preferred": [
+      "Eastern Oregon地域空港"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Eastern Oregon"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи мантақа‌ий оистрн оригн"
+    ],
+    "name:und_x_variant": [
+      "Pendleton Municipal Airport"
+    ],
+    "name:urd_x_preferred": [
+      "ایسٹرن اوریگون ریجنل ہوائی اڈا"
+    ],
+    "oa:elevation_ft": "1497",
+    "oa:type": "medium_airport",
+    "sfomuseum:airport_id": 278,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "Eastern Oregon Regional Airport",
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 872,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589721,
+      "planet_id": 1,
+      "state_id": 2347596
+    },
+    "wof:belongsto": [
+      420536139,
+      102191575,
+      85633793,
+      102081617,
+      85688513
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "PDT",
+      "icao:code": "KPDT"
+    },
+    "wof:country": "US",
+    "wof:created": 1640221038,
+    "wof:geomhash": "e74a27f42a4dd1c64c9091bdfe0d2372",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529455,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081617,
+        "locality_id": -1,
+        "neighbourhood_id": 420536139,
+        "region_id": 85688513
+      }
+    ],
+    "wof:id": 102529455,
+    "wof:lastmodified": 1640221038,
+    "wof:name": "Eastern Oregon Regional Airport",
+    "wof:parent_id": 420536139,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -118.841003,
+    45.695099,
+    -118.841003,
+    45.695099
+  ],
+  "geometry": {"coordinates":[-118.841003,45.695099],"type":"Point"}
+}

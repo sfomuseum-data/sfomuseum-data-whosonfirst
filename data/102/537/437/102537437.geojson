@@ -1,0 +1,109 @@
+{
+  "id": 102537437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "50.152000,26.265400,50.152000,26.265400",
+    "geom:latitude": 26.2654,
+    "geom:longitude": 50.152,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "قاعدة الملك عبد العزيز الجوية"
+    ],
+    "name:ben_x_preferred": [
+      "বাদশাহ আব্দুল আজিজ বিমান ঘাটি"
+    ],
+    "name:ceb_x_preferred": [
+      "King Abdulaziz Air Base"
+    ],
+    "name:eng_x_preferred": [
+      "King Abdulaziz Air Base"
+    ],
+    "name:eng_x_variant": [
+      "DHA",
+      "OEDR"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی ظهران"
+    ],
+    "name:jpn_x_preferred": [
+      "キング・アブドラアジズ飛行場"
+    ],
+    "name:msa_x_preferred": [
+      "Pangkalan Udara Raja Abdulaziz"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ зҳрон"
+    ],
+    "name:urd_x_preferred": [
+      "شاہ عبدالعزیز ایئر بیس"
+    ],
+    "name:zho_x_preferred": [
+      "Abdulaziz國王空軍基地"
+    ],
+    "oa:elevation_ft": "84",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 282,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "King Abdulaziz Air Base",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424938,
+      "county_id": 56120200,
+      "planet_id": 1,
+      "state_id": 2346954
+    },
+    "wof:belongsto": [
+      102191569,
+      85632253,
+      1108720599,
+      85676819
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "DHA",
+      "icao:code": "OEDR"
+    },
+    "wof:country": "",
+    "wof:created": 1640221543,
+    "wof:geomhash": "534586330677c5bf45088196208da92b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102537437,
+        "continent_id": 102191569,
+        "country_id": 85632253,
+        "county_id": 1108720599,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85676819
+      }
+    ],
+    "wof:id": 102537437,
+    "wof:lastmodified": 1640221543,
+    "wof:name": "Dhahran International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    50.152,
+    26.2654,
+    50.152,
+    26.2654
+  ],
+  "geometry": {"coordinates":[50.152,26.2654],"type":"Point"}
+}

@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5813106208529979,
-    "geom:area_square_m": 5348171433.833889,
+    "geom:area_square_m": 5348171212.454636,
     "geom:bbox": "11.733604,41.407534,13.296344,42.296001",
     "geom:latitude": 41.923029866770534,
     "geom:longitude": 12.571416249564226,
@@ -89,11 +89,11 @@
       "Provinsen Rom"
     ],
     "name:deu_x_preferred": [
-      "Roma"
+      "Rom"
     ],
     "name:deu_x_variant": [
-      "Rom",
-      "Provinz Rom"
+      "Provinz Rom",
+      "Roma"
     ],
     "name:ell_x_preferred": [
       "Επαρχία της Ρώμης"
@@ -473,7 +473,7 @@
       "wd:id": "Q15119"
     },
     "wof:country": "IT",
-    "wof:created": 1624906883,
+    "wof:created": 1640221753,
     "wof:geomhash": "ad14a8aa509b7742f3e768b9cb0b4ce5",
     "wof:hierarchy": [
       {
@@ -491,14 +491,14 @@
       "ita",
       "fra"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1640221753,
     "wof:name": "Rome",
     "wof:parent_id": 404227517,
     "wof:placetype": "region",
     "wof:placetype_local": "metropolitan city",
     "wof:population": 4194068,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "RM",
     "wof:subdivision": "IT-RM",
     "wof:superseded_by": [],

@@ -158,7 +158,7 @@
     "name:zho_x_preferred": [
       "成田国际机场"
     ],
-    "sfomuseum:airport_id": 146,
+    "sfomuseum:airport_id": 273,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Narita International Airport",
@@ -185,7 +185,7 @@
       "icao:code": "RJAA"
     },
     "wof:country": "JP",
-    "wof:created": 1640221475,
+    "wof:created": 1640294782,
     "wof:geomhash": "2908e4bd7ddc637cfb8406f5cfc4b38a",
     "wof:hierarchy": [
       {
@@ -198,13 +198,15 @@
       }
     ],
     "wof:id": 102541685,
-    "wof:lastmodified": 1640221475,
+    "wof:lastmodified": 1640298783,
     "wof:name": "Narita International Airport",
     "wof:parent_id": 102031933,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746879101
+    ],
     "wof:tags": [
       "airport"
     ]

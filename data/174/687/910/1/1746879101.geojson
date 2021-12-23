@@ -1,0 +1,81 @@
+{
+  "id": 102541685,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2004-04-01",
+    "date:cessation_upper": "2004-04-01",
+    "date:inception_lower": "1978-05-20",
+    "date:inception_upper": "1978-05-20",
+    "edtf:cessation": "2004-04-01",
+    "edtf:inception": "1978-05-20",
+    "geom:area": 0.0016744580509999254,
+    "geom:area_square_m": 16801178.658207,
+    "geom:bbox": "140.360840,35.734528,140.414719,35.812778",
+    "geom:latitude": 35.76174958649712,
+    "geom:longitude": 140.38955151215765,
+    "iso:country": "JP",
+    "lbl:latitude": 35.755744,
+    "lbl:longitude": 140.395257,
+    "mps:latitude": 35.755744,
+    "mps:longitude": 140.395257,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "sfomuseum:airport_id": 146,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424856,
+      "planet_id": 1,
+      "state_id": 2345854
+    },
+    "wof:belongsto": [
+      85672797,
+      102191569,
+      85632429,
+      102031933,
+      890524535
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "NRT",
+      "icao:code": "RJAA",
+      "wd:id": "Q36454"
+    },
+    "wof:country": "JP",
+    "wof:created": 1640294782,
+    "wof:geomhash": "2908e4bd7ddc637cfb8406f5cfc4b38a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1746879101,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 890524535,
+        "locality_id": 102031933,
+        "region_id": 85672797
+      }
+    ],
+    "wof:id": 1746879101,
+    "wof:lastmodified": 1640299082,
+    "wof:name": "New Tokyo International Airport",
+    "wof:parent_id": 102031933,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [
+      102541685
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    140.36084,
+    35.734528,
+    140.414719,
+    35.812778
+  ],
+  "geometry": {"coordinates":[[[140.362671,35.759499],[140.366821,35.776112],[140.379059,35.779091],[140.378326,35.802082],[140.36084,35.812778],[140.378662,35.80257],[140.3797,35.802639],[140.380035,35.802151],[140.389481,35.780289],[140.392563,35.779175],[140.393814,35.774532],[140.394333,35.773499],[140.414719,35.769218],[140.411942,35.748322],[140.401154,35.734528],[140.390793,35.735252],[140.384995,35.74205],[140.384537,35.74231],[140.382614,35.745049],[140.365585,35.760059],[140.362671,35.759499]]],"type":"Polygon"}
+}

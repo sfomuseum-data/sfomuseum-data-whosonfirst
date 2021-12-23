@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 15.580768806479064,
-    "geom:area_square_m": 141061372408.28452,
+    "geom:area_square_m": 141061372408.2956,
     "geom:bbox": "-79.762590,40.477399,-71.777491,45.015865",
     "geom:latitude": 42.92122681485663,
     "geom:longitude": -75.59653664557217,
@@ -813,6 +813,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85977967
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 33,
       "fips:code": "US36",
@@ -824,7 +827,7 @@
       "wd:id": "Q1384"
     },
     "wof:country": "US",
-    "wof:created": 1624906894,
+    "wof:created": 1640298040,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -845,7 +848,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1640298040,
     "wof:name": "New York",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

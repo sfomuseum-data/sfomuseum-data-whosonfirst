@@ -2,6 +2,10 @@
   "id": 102532159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1998-01-01",
+    "date:cessation_upper": "1998-12-31",
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00020411601900003474,
@@ -16,109 +20,14 @@
     "mps:latitude": 38.850639,
     "mps:longitude": -77.041643,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:min_zoom": 13,
-    "name:ara_x_preferred": [
-      "مطار رونالد ريغان الوطني"
-    ],
-    "name:bak_x_preferred": [
-      "Рональд Рейган исемендәге Вашингтон милли аэропорты"
-    ],
-    "name:ben_x_preferred": [
-      "রোনাল্ড রেগন ওয়াশিংটন জাতীয় বিমানবন্দর"
-    ],
-    "name:ceb_x_preferred": [
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:ces_x_preferred": [
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:deu_x_preferred": [
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:deu_x_variant": [
-      "Flughafen Washington-Ronald-Reagan-National"
-    ],
     "name:eng_x_preferred": [
       "Washington National Airport"
     ],
-    "name:eng_x_variant": [
-      "DCA",
-      "KDCA",
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:epo_x_preferred": [
-      "Nacia Flughaveno Vaŝingtono “Ronald Reagan”"
-    ],
-    "name:fas_x_preferred": [
-      "فرودگاه ملی رونالد ریگان واشنگتن"
-    ],
-    "name:fin_x_preferred": [
-      "Ronald Reaganin kansallinen lentoasema"
-    ],
-    "name:fra_x_preferred": [
-      "Aéroport national Ronald Reagan"
-    ],
-    "name:fra_x_variant": [
-      "aéroport national Ronald Reagan"
-    ],
-    "name:heb_x_preferred": [
-      "נמל התעופה רונלד רייגן וושינגטון נשיונל"
-    ],
-    "name:ind_x_preferred": [
-      "Bandar Udara Nasional Ronald Reagan Washington"
-    ],
-    "name:ita_x_preferred": [
-      "Aeroporto Nazionale di Washington-Ronald Reagan"
-    ],
-    "name:jpn_x_preferred": [
-      "ロナルド・レーガン・ワシントン・ナショナル空港"
-    ],
-    "name:kor_x_preferred": [
-      "로널드 레이건 워싱턴 내셔널 공항"
-    ],
-    "name:mar_x_preferred": [
-      "रॉनल्ड रेगन वॉशिंग्टन राष्ट्रीय विमानतळ"
-    ],
-    "name:nld_x_preferred": [
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:nob_x_preferred": [
-      "Ronald Reagan Washington nasjonale lufthavn"
-    ],
-    "name:nor_x_preferred": [
-      "Ronald Reagan Washington nasjonale lufthavn"
-    ],
-    "name:pol_x_preferred": [
-      "Port lotniczy Waszyngton-Reagan-National"
-    ],
-    "name:ron_x_preferred": [
-      "Aeroportul Național Washington Ronald Reagan"
-    ],
-    "name:sco_x_preferred": [
-      "Ronald Reagan Washington Naitional Airport"
-    ],
-    "name:spa_x_preferred": [
-      "Aeropuerto Nacional Ronald Reagan de Washington"
-    ],
-    "name:swe_x_preferred": [
-      "Ronald Reagan Washington National Airport"
-    ],
-    "name:tha_x_preferred": [
-      "ท่าอากาศยานโรนัลด์เรแกนวอชิงตันเนชันเนล"
-    ],
-    "name:und_x_variant": [
-      "Washington-Virginia Airport"
-    ],
-    "name:vie_x_preferred": [
-      "Sân bay quốc gia Ronald Reagan Washington"
-    ],
-    "name:zho_x_preferred": [
-      "罗纳德·里根华盛顿国家机场"
-    ],
     "oa:elevation_ft": "15",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": 154,
+    "sfomuseum:airport_id": 265,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Washington National Airport",
@@ -149,7 +58,7 @@
       "icao:code": "KDCA"
     },
     "wof:country": "US",
-    "wof:created": 1640221103,
+    "wof:created": 1640286893,
     "wof:geomhash": "6d668b045b830b22168c123f9b927a0f",
     "wof:hierarchy": [
       {
@@ -163,12 +72,14 @@
       }
     ],
     "wof:id": 102532159,
-    "wof:lastmodified": 1640221103,
+    "wof:lastmodified": 1640298212,
     "wof:name": "Washington National Airport",
     "wof:parent_id": 1108725169,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1746879047
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airport"

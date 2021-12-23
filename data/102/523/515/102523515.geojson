@@ -1,0 +1,75 @@
+{
+  "id": 102523515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_funky": 1,
+    "mz:min_zoom": 13,
+    "name:fas_x_preferred": [
+      "فرودگاه شهری بلومزبرگ"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи шаҳре блумзбрг"
+    ],
+    "sfomuseum:airport_id": 200,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "unknown",
+    "src:geom_alt": [],
+    "wd:wordcount": 72,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589746,
+      "planet_id": 1,
+      "state_id": 2347597
+    },
+    "wof:belongsto": [
+      85633793,
+      101718237,
+      85688481,
+      102080973
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 29388459
+    },
+    "wof:country": "",
+    "wof:created": 1640292920,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102523515,
+        "country_id": 85633793,
+        "county_id": 102080973,
+        "locality_id": 101718237,
+        "region_id": 85688481
+      }
+    ],
+    "wof:id": 102523515,
+    "wof:lastmodified": 1640292920,
+    "wof:name": "Bloomsburg Municipal Airport",
+    "wof:parent_id": 101718237,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

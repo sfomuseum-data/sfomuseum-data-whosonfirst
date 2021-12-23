@@ -7,7 +7,7 @@
     "edtf:cessation": "..",
     "edtf:inception": "1942",
     "geom:area": 0.00008623552399995046,
-    "geom:area_square_m": 1015540.246328,
+    "geom:area_square_m": 1015540.246321,
     "geom:bbox": "177.440353,-17.768356,177.464050,-17.746805",
     "geom:latitude": -17.753001807933835,
     "geom:longitude": 177.45359433160132,
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred": [
       "Nadi International Airport"
+    ],
+    "name:eng_x_variant": [
+      "NAN",
+      "NFFN"
     ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی نادی"
@@ -88,7 +92,7 @@
     "name:zho_x_preferred": [
       "楠迪國際機場"
     ],
-    "sfomuseum:airport_id": -1,
+    "sfomuseum:airport_id": 295,
     "sfomuseum:is_sfo": 0,
     "sfomuseum:placetype": "airport",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
@@ -114,7 +118,7 @@
       "wk:page": "Nadi_International_Airport"
     },
     "wof:country": "FJ",
-    "wof:created": 1624906458,
+    "wof:created": 1640300503,
     "wof:geomhash": "fe1fc6c7a4c8057b503d6775eb2b636a",
     "wof:hierarchy": [
       {
@@ -124,7 +128,7 @@
       }
     ],
     "wof:id": 102555575,
-    "wof:lastmodified": 1626825265,
+    "wof:lastmodified": 1640300503,
     "wof:name": "Nadi International Airport",
     "wof:parent_id": 85671181,
     "wof:placetype": "campus",

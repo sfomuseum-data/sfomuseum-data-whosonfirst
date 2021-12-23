@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5604803410645034,
-    "geom:area_square_m": 6601108616.169635,
+    "geom:area_square_m": 6601107121.710375,
     "geom:bbox": "174.588878,-21.711114,178.448622,-16.676853",
     "geom:latitude": -17.731542075397822,
     "geom:longitude": 177.76352093725885,
@@ -164,7 +164,16 @@
       "ویسٹرن ڈویژن"
     ],
     "name:vie_x_preferred": [
+      "Western"
+    ],
+    "name:vie_x_variant": [
       "Khu vực Tây"
+    ],
+    "name:zho_cn_x_preferred": [
+      "西部"
+    ],
+    "name:zho_tw_x_preferred": [
+      "西方"
     ],
     "name:zho_x_preferred": [
       "西部大区"
@@ -274,7 +283,7 @@
       "wk:page": "Western Division, Fiji"
     },
     "wof:country": "FJ",
-    "wof:created": 1624906858,
+    "wof:created": 1640300503,
     "wof:geomhash": "d112cc03275a7410a495daabd392930e",
     "wof:hierarchy": [
       {
@@ -295,7 +304,7 @@
       "hif",
       "fij"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1640300503,
     "wof:name": "Western",
     "wof:parent_id": 85632755,
     "wof:placetype": "region",

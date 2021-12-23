@@ -2,22 +2,24 @@
   "id": 102548985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-11-08",
+    "date:cessation_upper": "2020-11-08",
     "date:inception_lower": "1906-01-01",
     "date:inception_upper": "1906-12-31",
-    "edtf:cessation": "",
+    "edtf:cessation": "2020-11-08",
     "edtf:inception": "1906",
     "geom:area": 0.0019258200079999939,
-    "geom:area_square_m": 14480285.568008,
+    "geom:area_square_m": 14480285.568007,
     "geom:bbox": "13.251228,52.523590,13.326673,52.569962",
     "geom:latitude": 52.54949872218214,
     "geom:longitude": 13.289972058190536,
-    "iso:country": "",
+    "iso:country": "DE",
     "lbl:latitude": 52.547069,
     "lbl:longitude": 13.295688,
     "mps:latitude": 52.547069,
     "mps:longitude": 13.295688,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:min_zoom": 13,
     "name:ara_x_preferred": [
       "مطار برلين تيجيل الدولي"
@@ -182,12 +184,12 @@
       "state_id": 2345496
     },
     "wof:belongsto": [
-      420784289,
+      1108815535,
       102191581,
       85633111,
-      101748799,
-      1108815535,
       102063945,
+      101748799,
+      420784289,
       85682499
     ],
     "wof:breaches": [],
@@ -195,8 +197,8 @@
       "iata:code": "TXL",
       "icao:code": "EDDT"
     },
-    "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:country": "DE",
+    "wof:created": 1640300783,
     "wof:geomhash": "1828c05198b5edb40740d5c5a66e2efb",
     "wof:hierarchy": [
       {
@@ -211,11 +213,11 @@
       }
     ],
     "wof:id": 102548985,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1640300783,
     "wof:name": "Berlin Tegel Airport",
     "wof:parent_id": 420784289,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

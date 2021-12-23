@@ -1,0 +1,65 @@
+{
+  "id": 856758923,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "2939 Terminal Dr Hebron KY 41048",
+    "addr:housenumber": "2939",
+    "addr:postcode": "41048",
+    "addr:street": "Terminal Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.660809,39.058069,-84.660809,39.058069",
+    "geom:latitude": 39.058069,
+    "geom:longitude": -84.660809,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sfomuseum:airport_id": 181,
+    "sfomuseum:placetype": "venue",
+    "sg:address": "2939 Terminal Dr",
+    "sg:city": "Hebron",
+    "sg:classifiers": [],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 859 767 3151",
+    "sg:postcode": "41048",
+    "sg:province": "KY",
+    "sg:website": "http://www.cvgairport.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Plv7Li5OOobzuo9Vl1gdh_39.058069_-84.660809@1303262751"
+    },
+    "wof:country": "US",
+    "wof:created": 1464054089,
+    "wof:geomhash": "0690379ded61b819099fe339f3172d9f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "region_id": 85688641,
+        "venue_id": 856758923
+      }
+    ],
+    "wof:id": 856758923,
+    "wof:lastmodified": 1640217931,
+    "wof:name": "CVG - Cincinnati / Northern Kentucky International Airport",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "venue",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -84.660809,
+    39.058069,
+    -84.660809,
+    39.058069
+  ],
+  "geometry": {"coordinates":[-84.660809,39.058069],"type":"Point"}
+}

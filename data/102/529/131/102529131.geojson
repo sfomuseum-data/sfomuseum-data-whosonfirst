@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1929",
     "geom:area": 0.00010205185950000589,
-    "geom:area_square_m": 957382.105787,
+    "geom:area_square_m": 957382.105788,
     "geom:bbox": "-75.442818,40.642460,-75.419647,40.659626",
     "geom:latitude": 40.6513559161453,
     "geom:longitude": -75.43075214984943,
@@ -69,7 +69,7 @@
     ],
     "oa:elevation_ft": "393",
     "oa:type": "medium_airport",
-    "sfomuseum:airport_id": 188,
+    "sfomuseum:airport_id": 187,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Allentown - Bethlehem - Easton International Airport",
@@ -86,12 +86,12 @@
       "state_id": 2347597
     },
     "wof:belongsto": [
-      85838547,
+      85688481,
       102191575,
       404485953,
       85633793,
-      102081327,
-      85688481
+      1729477645,
+      102081327
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -99,7 +99,7 @@
       "icao:code": "KABE"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1640217798,
     "wof:geomhash": "0e55423e23d60df3cff9437d34ce4492",
     "wof:hierarchy": [
       {
@@ -108,17 +108,17 @@
         "country_id": 85633793,
         "county_id": 102081327,
         "localadmin_id": 404485953,
-        "locality_id": -1,
-        "neighbourhood_id": 85838547,
+        "locality_id": 1729477645,
+        "neighbourhood_id": -1,
         "region_id": 85688481
       }
     ],
     "wof:id": 102529131,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1640217798,
     "wof:name": "Lehigh Valley International Airport",
-    "wof:parent_id": 85838547,
+    "wof:parent_id": 1729477645,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

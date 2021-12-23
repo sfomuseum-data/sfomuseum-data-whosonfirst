@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 14.79404141937404,
-    "geom:area_square_m": 154010911303.58438,
+    "geom:area_square_m": 154010911303.58426,
     "geom:bbox": "-85.605165,30.355757,-80.751429,35.000659",
     "geom:latitude": 32.63861086141297,
     "geom:longitude": -83.42713999793062,
@@ -752,6 +752,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85936429
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 11,
       "fips:code": "US13",
@@ -763,7 +766,7 @@
       "wd:id": "Q1428"
     },
     "wof:country": "US",
-    "wof:created": 1624906894,
+    "wof:created": 1640217813,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -784,7 +787,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1640217813,
     "wof:name": "Georgia",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

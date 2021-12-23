@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 10.66815574923603,
-    "geom:area_square_m": 104611378646.08278,
+    "geom:area_square_m": 104611378646.07834,
     "geom:bbox": "-89.571203,36.497058,-81.964788,39.147732",
     "geom:latitude": 37.52661828306449,
     "geom:longitude": -85.29056349983706,
@@ -571,6 +571,9 @@
       "Kéntukki Shitati"
     ],
     "name:ukr_x_preferred": [
+      "Кентукі"
+    ],
+    "name:ukr_x_variant": [
       "Кентуккі"
     ],
     "name:urd_x_preferred": [
@@ -718,6 +721,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85946789
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 18,
       "fips:code": "US21",
@@ -729,7 +735,7 @@
       "wd:id": "Q1603"
     },
     "wof:country": "US",
-    "wof:created": 1624906896,
+    "wof:created": 1640217931,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -750,7 +756,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825094,
+    "wof:lastmodified": 1640217931,
     "wof:name": "Kentucky",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

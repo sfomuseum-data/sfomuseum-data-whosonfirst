@@ -2,12 +2,8 @@
   "id": 102532771,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2003-01-01",
-    "date:cessation_upper": "2003-12-31",
-    "date:inception_lower": "1978-01-01",
-    "date:inception_upper": "1978-12-31",
-    "edtf:cessation": "2003",
-    "edtf:inception": "1978",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0.0003303665939999729,
     "geom:area_square_m": 3378790.21811,
     "geom:bbox": "-118.371666,34.184940,-118.339333,34.208035",
@@ -101,7 +97,7 @@
     ],
     "oa:elevation_ft": "778",
     "oa:type": "medium_airport",
-    "sfomuseum:airport_id": 205,
+    "sfomuseum:airport_id": 21,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Burbank Glendale Pasadena Airport",
@@ -135,7 +131,7 @@
       "wk:page": "Bob Hope Airport"
     },
     "wof:country": "US",
-    "wof:created": 1626825244,
+    "wof:created": 1640218114,
     "wof:geomhash": "f7acbcde40f288e5842842d120566fed",
     "wof:hierarchy": [
       {
@@ -148,11 +144,11 @@
       }
     ],
     "wof:id": 102532771,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1640218114,
     "wof:name": "Burbank Glendale Pasadena Airport",
     "wof:parent_id": 85923691,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

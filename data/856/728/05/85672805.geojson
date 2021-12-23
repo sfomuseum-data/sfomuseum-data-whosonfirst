@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.23985526290950124,
-    "geom:area_square_m": 2417033850.307397,
+    "geom:area_square_m": 2417034681.93867,
     "geom:bbox": "138.916199,35.128666,139.796295,35.672134",
     "geom:latitude": 35.41713848169229,
     "geom:longitude": 139.33775277459995,
@@ -163,15 +163,15 @@
       "Prefettura di Kanagawa"
     ],
     "name:jpn_x_preferred": [
-      "神奈川県"
+      "神奈川"
     ],
     "name:jpn_x_variant": [
       "かながわ",
       "かながわけん",
       "かながわ・けん",
-      "神奈川",
       "カナガワ",
-      "カナガワケン"
+      "カナガワケン",
+      "神奈川県"
     ],
     "name:kaa_x_preferred": [
       "Kanagabа"
@@ -451,7 +451,7 @@
       "wk:page": "Kanagawa Prefecture"
     },
     "wof:country": "JP",
-    "wof:created": 1624906862,
+    "wof:created": 1640218138,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -470,14 +470,14 @@
     "wof:lang_x_spoken": [
       "jpn"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1640218138,
     "wof:name": "Kanagawa",
     "wof:parent_id": 85632429,
     "wof:placetype": "region",
     "wof:placetype_local": "prefecture",
     "wof:population": 9048331,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-jp",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "KN",
     "wof:subdivision": "JP-14",
     "wof:superseded_by": [],

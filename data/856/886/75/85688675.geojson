@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 13.067232396579001,
-    "geom:area_square_m": 135852498781.44865,
+    "geom:area_square_m": 135852498781.44673,
     "geom:bbox": "-88.473227,30.144425,-84.888246,35.008028",
     "geom:latitude": 32.756879980662,
     "geom:longitude": -86.84452099748698,
@@ -616,6 +616,9 @@
       "Алабама"
     ],
     "name:urd_x_preferred": [
+      "البامہ"
+    ],
+    "name:urd_x_variant": [
       "الاباما"
     ],
     "name:uzb_x_preferred": [
@@ -763,6 +766,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85913947
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 1,
       "fips:code": "US01",
@@ -774,7 +780,7 @@
       "wd:id": "Q173"
     },
     "wof:country": "US",
-    "wof:created": 1624906897,
+    "wof:created": 1640218073,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -795,7 +801,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1640218073,
     "wof:name": "Alabama",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

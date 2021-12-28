@@ -1,0 +1,113 @@
+{
+  "id": 102536579,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2006-01-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "1931-01-01",
+    "date:inception_upper": "1931-12-31",
+    "edtf:cessation": "2006",
+    "edtf:inception": "1931",
+    "geom:area": 0.0006932404364999356,
+    "geom:area_square_m": 8083776.079112,
+    "geom:bbox": "-99.108055,19.407827,-99.061935,19.462181",
+    "geom:latitude": 19.43167071139483,
+    "geom:longitude": -99.08307494782879,
+    "iso:country": "MX",
+    "lbl:latitude": 19.431302,
+    "lbl:longitude": -99.080804,
+    "mps:latitude": 19.431302,
+    "mps:longitude": -99.080804,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "Mexico City International Airport"
+    ],
+    "name:eng_x_variant": [
+      "MEX",
+      "MMMX"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport international de Mexico"
+    ],
+    "oa:elevation_ft": "7316",
+    "oa:type": "large_airport",
+    "sfomuseum:airport_id": 161,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424900,
+      "county_id": 12599948,
+      "planet_id": 1,
+      "state_id": 2346272
+    },
+    "wof:belongsto": [
+      85793999,
+      102191575,
+      85633293,
+      101991179,
+      890535781,
+      102073755,
+      85686515,
+      857683023,
+      102073737
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12514910,
+      "iata:code": "MEX",
+      "icao:code": "MMMX",
+      "oa:id": "4731",
+      "wd:id": "Q860559",
+      "wk:page": "Mexico_City_International_Airport"
+    },
+    "wof:country": "MX",
+    "wof:created": 1640648569,
+    "wof:geomhash": "8c353744ea508c312239af04a8262e3e",
+    "wof:hierarchy": [
+      {
+        "borough_id": 890535781,
+        "campus_id": 1746899309,
+        "continent_id": 102191575,
+        "country_id": 85633293,
+        "county_id": 102073755,
+        "locality_id": 101991179,
+        "neighbourhood_id": 85793999,
+        "region_id": 85686515
+      },
+      {
+        "borough_id": 890535781,
+        "campus_id": 1746899309,
+        "continent_id": 102191575,
+        "country_id": 85633293,
+        "county_id": 102073737,
+        "locality_id": 857683023,
+        "neighbourhood_id": 85793999,
+        "region_id": 85686515
+      }
+    ],
+    "wof:id": 1746899309,
+    "wof:lastmodified": 1640730900,
+    "wof:name": "Mexico City International Airport",
+    "wof:parent_id": 85793999,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [
+      102536579
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -99.108055,
+    19.407827,
+    -99.061935,
+    19.462181
+  ],
+  "geometry": {"coordinates":[[[-99.072823,19.422012],[-99.078865,19.421144],[-99.080994,19.42255],[-99.089767,19.420338],[-99.09584,19.413771],[-99.094734,19.408833],[-99.103729,19.407827],[-99.108055,19.414022],[-99.107147,19.419407],[-99.102592,19.417641],[-99.095497,19.419636],[-99.092186,19.424494],[-99.092384,19.427132],[-99.091103,19.431852],[-99.088867,19.435514],[-99.085213,19.441751],[-99.077965,19.449507],[-99.075951,19.457609],[-99.069145,19.462181],[-99.073502,19.4552],[-99.06839,19.444666],[-99.061935,19.443613],[-99.06617,19.441463],[-99.067497,19.439884],[-99.069984,19.435595],[-99.070168,19.434166],[-99.071449,19.431467],[-99.072823,19.422012]]],"type":"Polygon"}
+}

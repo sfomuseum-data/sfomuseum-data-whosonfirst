@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 28.9191223269089,
-    "geom:area_square_m": 295321710820.18604,
+    "geom:area_square_m": 295321710820.17334,
     "geom:bbox": "-114.816591,31.332177,-109.045223,37.004260",
     "geom:latitude": 34.293065239336926,
     "geom:longitude": -111.66438991979861,
@@ -740,6 +740,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85917479
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 3,
       "fips:code": "US04",
@@ -751,7 +754,7 @@
       "wd:id": "Q816"
     },
     "wof:country": "US",
-    "wof:created": 1624906899,
+    "wof:created": 1640730719,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -772,7 +775,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825093,
+    "wof:lastmodified": 1640730719,
     "wof:name": "Arizona",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

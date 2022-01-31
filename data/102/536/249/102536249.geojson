@@ -2,7 +2,7 @@
   "id": 102536249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "..",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -11,8 +11,12 @@
     "geom:longitude": -101.460278,
     "iso:country": "MX",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "mz:min_zoom": 13,
+    "name:eng_x_variant": [
+      "ZIH",
+      "MMZH"
+    ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی ایکستاپا-زیهواتانیو"
     ],
@@ -61,7 +65,7 @@
       "icao:code": "MMZH"
     },
     "wof:country": "MX",
-    "wof:created": 1624906850,
+    "wof:created": 1643654587,
     "wof:geomhash": "635699e2b55f6a4de32990c60e1084e3",
     "wof:hierarchy": [
       {
@@ -71,11 +75,11 @@
       }
     ],
     "wof:id": 102536249,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1643654587,
     "wof:name": "Ixtapa Zihuatanejo International Airport",
     "wof:parent_id": 85686517,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-mx",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

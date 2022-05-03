@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 24.45670774114592,
-    "geom:area_square_m": 216009331298.44534,
+    "geom:area_square_m": 216009331298.4582,
     "geom:bbox": "-117.243027,41.988005,-111.043495,49.001146",
     "geom:latitude": 44.389071316196926,
     "geom:longitude": -114.65937639730694,
@@ -710,6 +710,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85937923
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 13,
       "fips:code": "US16",
@@ -721,7 +724,7 @@
       "wd:id": "Q1221"
     },
     "wof:country": "US",
-    "wof:created": 1624906897,
+    "wof:created": 1651607448,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -742,7 +745,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825094,
+    "wof:lastmodified": 1651607448,
     "wof:name": "Idaho",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

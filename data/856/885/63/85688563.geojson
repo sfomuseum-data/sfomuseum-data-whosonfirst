@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 21.61384292550857,
-    "geom:area_square_m": 200060300772.47278,
+    "geom:area_square_m": 200060300772.47452,
     "geom:bbox": "-104.053514,39.999932,-95.308290,43.001707",
     "geom:latitude": 41.52715113111615,
     "geom:longitude": -99.81085586566157,
@@ -734,6 +734,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85973555
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 28,
       "fips:code": "US31",
@@ -745,7 +748,7 @@
       "wd:id": "Q1553"
     },
     "wof:country": "US",
-    "wof:created": 1624906895,
+    "wof:created": 1651607435,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -766,7 +769,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1651607435,
     "wof:name": "Nebraska",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

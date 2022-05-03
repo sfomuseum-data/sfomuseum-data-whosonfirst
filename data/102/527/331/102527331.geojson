@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00001895528050004606,
-    "geom:area_square_m": 182701.347175,
+    "geom:area_square_m": 182701.347174,
     "geom:bbox": "-97.644836,38.782001,-97.636658,38.789230",
     "geom:latitude": 38.785460267268235,
     "geom:longitude": -97.6405646447011,
@@ -62,36 +62,30 @@
       "planet_id": 1,
       "state_id": 2347575
     },
-    "wof:belongsto": [
-      85688555,
-      102191575,
-      404505275,
-      85633793,
-      102083453
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
       "icao:code": "KSLN"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1651607466,
     "wof:geomhash": "b971c631797284f4a9f68ff7809342cb",
     "wof:hierarchy": [
       {
         "campus_id": 102527331,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102083453,
-        "localadmin_id": 404505275,
-        "region_id": 85688555
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102527331,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1651607466,
     "wof:name": "Salina Municipal Airport",
-    "wof:parent_id": 404505275,
+    "wof:parent_id": 1729433851,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

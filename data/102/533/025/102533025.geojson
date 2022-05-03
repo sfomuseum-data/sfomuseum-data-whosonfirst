@@ -1,0 +1,114 @@
+{
+  "id": 102533025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-99.006798,40.727001,-99.006798,40.727001",
+    "geom:latitude": 40.727001,
+    "geom:longitude": -99.006798,
+    "gn:elevation": 648,
+    "iso:country": "US",
+    "lbl:latitude": 40.72696,
+    "lbl:longitude": -99.00703,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Kearney Municipal Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Kearney Municipal Airport"
+    ],
+    "name:eng_x_variant": [
+      "EAR",
+      "KEAR",
+      "Kearney Regional Airport"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه شهری کیرنی"
+    ],
+    "name:jpn_x_preferred": [
+      "Kearney地域空港"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Kearney"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи шаҳре кирни"
+    ],
+    "name:urd_x_preferred": [
+      "کیرینی ریجنل ہوائی اڈا"
+    ],
+    "name:zho_x_preferred": [
+      "卡尼支線機場"
+    ],
+    "oa:elevation_ft": "2131",
+    "oa:type": "small_airport",
+    "sfomuseum:placetype": "airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 835,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589147,
+      "planet_id": 1,
+      "state_id": 2347586
+    },
+    "wof:belongsto": [
+      85688563,
+      102191575,
+      404519339,
+      85633793,
+      1729466077,
+      102084305
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "EAR",
+      "gn:id": 5071377,
+      "gp:id": 12520429,
+      "iata:code": "EAR",
+      "icao:code": "KEAR",
+      "oa:id": "19716",
+      "wd:id": "Q10851873",
+      "wk:page": "Kearney_Municipal_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1651607435,
+    "wof:geomhash": "6a8274d829eef544a8b817937ce3886b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533025,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084305,
+        "localadmin_id": 404519339,
+        "locality_id": 1729466077,
+        "neighbourhood_id": -1,
+        "region_id": 85688563
+      }
+    ],
+    "wof:id": 102533025,
+    "wof:lastmodified": 1651607435,
+    "wof:name": "Kearney Municipal Airport",
+    "wof:parent_id": 1729466077,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -99.006798,
+    40.727001,
+    -99.006798,
+    40.727001
+  ],
+  "geometry": {"coordinates":[-99.006798,40.727001],"type":"Point"}
+}

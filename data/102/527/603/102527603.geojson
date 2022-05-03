@@ -1,0 +1,127 @@
+{
+  "id": 102527603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 2.287160000061152e-7,
+    "geom:area_square_m": 1966.236621,
+    "geom:bbox": "-112.502464,45.951000,-112.497513,45.955090",
+    "geom:latitude": 45.95291931066471,
+    "geom:longitude": -112.50116614403461,
+    "gn:elevation": 1685,
+    "iso:country": "US",
+    "lbl:latitude": 45.952962,
+    "lbl:longitude": -112.501507,
+    "mps:latitude": 45.952962,
+    "mps:longitude": -112.501507,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Bert Mooney Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Bert Mooney Airport"
+    ],
+    "name:eng_x_variant": [
+      "BTM",
+      "KBTM"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه برت مونی"
+    ],
+    "name:fra_x_preferred": [
+      "Aéroport Bert-Mooney"
+    ],
+    "name:fra_x_variant": [
+      "Aéroport Bert Mooney",
+      "aéroport Bert Mooney"
+    ],
+    "name:ita_x_preferred": [
+      "aeroporto Bert Mooney"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Bert Mooney"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Bert Mooney"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи Берт Муни"
+    ],
+    "name:tgk_x_variant": [
+      "Фурудгоҳи бирт муни"
+    ],
+    "name:urd_x_preferred": [
+      "برٹ مونی ہوائی اڈا"
+    ],
+    "name:zho_x_preferred": [
+      "Bert Mooney機場"
+    ],
+    "oa:elevation_ft": "5550",
+    "oa:type": "medium_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 529,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589127,
+      "planet_id": 1,
+      "state_id": 2347585
+    },
+    "wof:belongsto": [
+      85857839,
+      102191575,
+      85633793,
+      85972699,
+      102085099,
+      85688617
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "BTM",
+      "gn:id": 5639664,
+      "gp:id": 12518811,
+      "iata:code": "BTM",
+      "icao:code": "KBTM",
+      "oa:id": "3428",
+      "wd:id": "Q619659",
+      "wk:page": "Bert_Mooney_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1651606964,
+    "wof:geomhash": "bf8b2951cf001a00c256c0c03f9a4d4d",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527603,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085099,
+        "locality_id": 85972699,
+        "neighbourhood_id": 85857839,
+        "region_id": 85688617
+      }
+    ],
+    "wof:id": 102527603,
+    "wof:lastmodified": 1651606964,
+    "wof:name": "Bert Mooney Airport",
+    "wof:parent_id": 85857839,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -112.502464,
+    45.951,
+    -112.497513,
+    45.95509
+  ],
+  "geometry": {"coordinates":[[[[-112.502464,45.95509],[-112.502403,45.953438],[-112.497513,45.951],[-112.502464,45.953396],[-112.502464,45.95509]]]],"type":"MultiPolygon"}
+}

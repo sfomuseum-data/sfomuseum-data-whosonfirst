@@ -1,0 +1,113 @@
+{
+  "id": 102528735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000011965439499961028,
+    "geom:area_square_m": 117915.936105,
+    "geom:bbox": "-107.752464,37.155373,-107.748337,37.161064",
+    "geom:latitude": 37.15819991047417,
+    "geom:longitude": -107.75029286289555,
+    "gn:elevation": 2028,
+    "iso:country": "US",
+    "lbl:latitude": 37.158103,
+    "lbl:longitude": -107.750261,
+    "mps:latitude": 37.158103,
+    "mps:longitude": -107.750261,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Durango–La Plata County Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Durango la Plata County Airport"
+    ],
+    "name:eng_x_variant": [
+      "DRO",
+      "KDRO",
+      "Durango–La Plata County Airport"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه شهرستان دورانگو-لا پلاتا"
+    ],
+    "name:fra_x_preferred": [
+      "Aéroport de Durango–La Plata"
+    ],
+    "name:jpn_x_preferred": [
+      "Durango-La Plata郡空港"
+    ],
+    "name:nav_x_preferred": [
+      "Dibé Ntsaa biyaadi chidí naatʼaʼí ńdinibįįhígi"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Durango–La Plata County"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи шаҳристон дуронгу-ло плото"
+    ],
+    "name:urd_x_preferred": [
+      "ڈورینگو–لا پلاٹا کاؤنٹی ہوائی اڈا"
+    ],
+    "name:zho_x_preferred": [
+      "杜蘭戈-拉普拉塔縣機場"
+    ],
+    "oa:elevation_ft": "6685",
+    "oa:type": "small_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 711,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587760,
+      "planet_id": 1,
+      "state_id": 2347564
+    },
+    "wof:belongsto": [
+      85633793,
+      85688603
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "DRO",
+      "gn:id": 5420253,
+      "gp:id": 12519550,
+      "iata:code": "DRO",
+      "icao:code": "KDRO",
+      "oa:id": "19654",
+      "wd:id": "Q1398381",
+      "wk:page": "Durango-La_Plata_County_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1651607431,
+    "wof:geomhash": "7897f5704504e5a6ed36fb4f10ad9e31",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528735,
+        "country_id": 85633793,
+        "region_id": 85688603
+      }
+    ],
+    "wof:id": 102528735,
+    "wof:lastmodified": 1651607431,
+    "wof:name": "Durango la Plata County Airport",
+    "wof:parent_id": 85688603,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -107.752464,
+    37.155373,
+    -107.748337,
+    37.161064
+  ],
+  "geometry": {"coordinates":[[[[-107.751022,37.161064],[-107.748337,37.160831],[-107.749992,37.155594],[-107.750343,37.155579],[-107.752464,37.155373],[-107.75061,37.15976],[-107.751022,37.161064]]]],"type":"MultiPolygon"}
+}

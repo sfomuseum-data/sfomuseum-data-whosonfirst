@@ -1,0 +1,128 @@
+{
+  "id": 102526477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.0000168298364999946,
+    "geom:area_square_m": 172638.669577,
+    "geom:bbox": "-81.125931,33.942505,-81.119003,33.946636",
+    "geom:latitude": 33.94463649771206,
+    "geom:longitude": -81.12259370120417,
+    "gn:elevation": 74,
+    "iso:country": "US",
+    "lbl:latitude": 33.944523,
+    "lbl:longitude": -81.122646,
+    "mps:latitude": 33.944523,
+    "mps:longitude": -81.122646,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ceb_x_preferred": [
+      "Columbia Metropolitan Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Columbia Metro Airport"
+    ],
+    "name:eng_x_variant": [
+      "CAE",
+      "KCAE",
+      "Columbia Metropolitan Airport"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه شهرستان کلمبیا"
+    ],
+    "name:ita_x_preferred": [
+      "Aeroporto di Columbia Metropolitan"
+    ],
+    "name:jpn_x_preferred": [
+      "コロンビア都市圏空港"
+    ],
+    "name:nav_x_preferred": [
+      "Tásiilii Hatsohdi chidí naatʼaʼí ńdinibįįhígi"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Columbia"
+    ],
+    "name:por_x_preferred": [
+      "Aeroporto Metropolitano de Colúmbia"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Columbia Metropolitan"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи шаҳристон кулумбеё"
+    ],
+    "name:urd_x_preferred": [
+      "کولمبیا میٹروپولیٹن ہوائی اڈا"
+    ],
+    "name:zho_x_preferred": [
+      "哥倫比亞大都會機場"
+    ],
+    "oa:elevation_ft": "236",
+    "oa:type": "large_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 1817,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589831,
+      "planet_id": 1,
+      "state_id": 2347599,
+      "suburb_id": 2498202
+    },
+    "wof:belongsto": [
+      85847855,
+      102191575,
+      85633793,
+      101720791,
+      102085573,
+      85688683
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "CAE",
+      "gn:id": 4575330,
+      "gp:id": 12519284,
+      "iata:code": "CAE",
+      "icao:code": "KCAE",
+      "oa:id": "3438",
+      "wd:id": "Q1657258",
+      "wk:page": "Columbia_Metropolitan_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1651607416,
+    "wof:geomhash": "0e71e61b2550c9ef071c53bd9e02ed41",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102526477,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085573,
+        "locality_id": 101720791,
+        "neighbourhood_id": 85847855,
+        "region_id": 85688683
+      }
+    ],
+    "wof:id": 102526477,
+    "wof:lastmodified": 1651607416,
+    "wof:name": "Columbia Metro Airport",
+    "wof:parent_id": 85847855,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -81.125931,
+    33.942505,
+    -81.119003,
+    33.946636
+  ],
+  "geometry": {"coordinates":[[[[-81.12532,33.945496],[-81.124825,33.946327],[-81.12339,33.946636],[-81.122948,33.94651],[-81.120811,33.94585],[-81.119003,33.943832],[-81.119354,33.943657],[-81.123047,33.942505],[-81.125534,33.944614],[-81.125931,33.944767],[-81.125587,33.94521],[-81.12532,33.945496]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 102528385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000017491045500025482,
+    "geom:area_square_m": 156845.424676,
+    "geom:bbox": "-112.071831,43.512081,-112.065010,43.518803",
+    "geom:latitude": 43.515052102283654,
+    "geom:longitude": -112.06858969491441,
+    "gn:elevation": 1444,
+    "iso:country": "US",
+    "lbl:latitude": 43.514607,
+    "lbl:longitude": -112.068925,
+    "mps:latitude": 43.514607,
+    "mps:longitude": -112.068925,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "Fanning Field Airport"
+    ],
+    "name:eng_x_variant": [
+      "IDA",
+      "KIDA",
+      "Fanning Field",
+      "Idaho Falls Regional Airport"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه منطقه‌ای آیداهو فالز"
+    ],
+    "name:fra_x_preferred": [
+      "aérodrome d'Idaho Falls Rgnl"
+    ],
+    "name:jpn_x_preferred": [
+      "アイダホフォールズ地域空港"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Regional Idaho Falls"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи мантақа‌ий Айдаҳо фолз"
+    ],
+    "name:und_x_variant": [
+      "Idaho Falls Municipal Airport"
+    ],
+    "name:urd_x_preferred": [
+      "ایڈاہو فالز ریجنل ہوائی اڈا"
+    ],
+    "oa:elevation_ft": "4744",
+    "oa:type": "medium_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12588043,
+      "planet_id": 1,
+      "state_id": 2347571
+    },
+    "wof:belongsto": [
+      85688657,
+      102191575,
+      85633793,
+      85937963,
+      102085163
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "IDA",
+      "gn:id": 5592825,
+      "gp:id": 12519708,
+      "iata:code": "IDA",
+      "icao:code": "KIDA",
+      "oa:id": "3606",
+      "wd:id": "Q3085442",
+      "wk:page": "Idaho_Falls_Regional_Airport"
+    },
+    "wof:country": "US",
+    "wof:created": 1651607448,
+    "wof:geomhash": "99e1d61b046ff2c85f7219b1288e87e0",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528385,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085163,
+        "locality_id": 85937963,
+        "region_id": 85688657
+      }
+    ],
+    "wof:id": 102528385,
+    "wof:lastmodified": 1651607448,
+    "wof:name": "Fanning Field Airport",
+    "wof:parent_id": 85937963,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -112.071831,
+    43.512081,
+    -112.06501,
+    43.518803
+  ],
+  "geometry": {"coordinates":[[[[-112.071831,43.515381],[-112.066917,43.517387],[-112.06501,43.518803],[-112.066887,43.515018],[-112.067757,43.512829],[-112.069534,43.512081],[-112.071831,43.515381]]]],"type":"MultiPolygon"}
+}

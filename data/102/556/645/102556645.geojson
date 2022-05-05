@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0007639068605000204,
-    "geom:area_square_m": 4695122.968956,
+    "geom:area_square_m": 4695122.968958,
     "geom:bbox": "11.064539,60.172150,11.123356,60.216667",
     "geom:latitude": 60.194571363989034,
     "geom:longitude": 11.095439887345956,
@@ -165,11 +165,8 @@
     "oa:elevation_ft": "681",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 102,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Oslo Airport, Gardermoen",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -181,18 +178,22 @@
       "state_id": 2346385
     },
     "wof:belongsto": [
+      1527947269,
       102191581,
       1159297621,
-      85633341,
-      1527947269
+      85633341
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515119,
       "iata:code": "OSL",
-      "icao:code": "ENGM"
+      "icao:code": "ENGM",
+      "oa:id": "2578",
+      "wd:id": "Q210559",
+      "wk:page": "Gardermoen_Air_Station"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1651778670,
     "wof:geomhash": "004753a3c77b9143a109fedf22422b8f",
     "wof:hierarchy": [
       {
@@ -206,7 +207,7 @@
       }
     ],
     "wof:id": 102556645,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1651778670,
     "wof:name": "Oslo Lufthavn Gardermoen",
     "wof:parent_id": 1159297621,
     "wof:placetype": "campus",

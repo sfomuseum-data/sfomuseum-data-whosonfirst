@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 22.00475578144194,
-    "geom:area_square_m": 212963368550.6525,
+    "geom:area_square_m": 212963368550.65356,
     "geom:bbox": "-102.051769,36.993016,-94.588387,40.003166",
     "geom:latitude": 38.48472523915687,
     "geom:longitude": -98.38016051651441,
@@ -587,12 +587,18 @@
       "Konzas"
     ],
     "name:urd_x_preferred": [
+      "کینساس"
+    ],
+    "name:urd_x_variant": [
       "کنساس"
     ],
     "name:uzb_x_preferred": [
       "Kanzas"
     ],
     "name:vie_x_preferred": [
+      "Sông Kansas"
+    ],
+    "name:vie_x_variant": [
       "Kansas"
     ],
     "name:vol_x_preferred": [
@@ -734,6 +740,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85945467
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 17,
       "fips:code": "US20",
@@ -745,7 +754,7 @@
       "wd:id": "Q1558"
     },
     "wof:country": "US",
-    "wof:created": 1624906894,
+    "wof:created": 1651860612,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -766,7 +775,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1651860612,
     "wof:name": "Kansas",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

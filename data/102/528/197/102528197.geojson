@@ -2,20 +2,20 @@
   "id": 102528197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "..",
     "edtf:inception": "",
     "geom:area": 0.0000074153754999952564,
-    "geom:area_square_m": 62313.460943,
+    "geom:area_square_m": 62313.460942,
     "geom:bbox": "-119.318649,47.186417,-119.314217,47.190201",
     "geom:latitude": 47.1881197335943,
     "geom:longitude": -119.31639832207684,
-    "iso:country": "",
+    "iso:country": "US",
     "lbl:latitude": 47.18809,
     "lbl:longitude": -119.31636,
     "mps:latitude": 47.18809,
     "mps:longitude": -119.31636,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "mz:min_zoom": 13,
     "name:ceb_x_preferred": [
       "Grant County Airport"
@@ -61,8 +61,8 @@
     "wof:concordances": {
       "iata:code": "MWH"
     },
-    "wof:country": "",
-    "wof:created": 1624906906,
+    "wof:country": "US",
+    "wof:created": 1651784105,
     "wof:geomhash": "322422706cad43d022707f7786cbc674",
     "wof:hierarchy": [
       {
@@ -76,11 +76,11 @@
       }
     ],
     "wof:id": 102528197,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1651860626,
     "wof:name": "Grant County International Airport",
     "wof:parent_id": 85856981,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

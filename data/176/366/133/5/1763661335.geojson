@@ -1,0 +1,55 @@
+{
+  "id": 1763661335,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1940-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1940",
+    "geom:area": 0,
+    "geom:bbox": "139.348611,35.748611,139.348611,35.748611",
+    "geom:latitude": 35.748611,
+    "geom:longitude": 139.348611,
+    "iso:country": "JP",
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "airport",
+    "src:geom": "wikidata",
+    "wof:belongsto": [
+      102191569,
+      85632429,
+      85672817
+    ],
+    "wof:concordances": {
+      "iata:code": "OKO",
+      "icao:code": "RJTY",
+      "wk:id": "Q1806489"
+    },
+    "wof:country": "JP",
+    "wof:created": 1651785065,
+    "wof:geomhash": "dd1525f90a6dfdef6487cff4f4b65fdf",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1763661335,
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "region_id": 85672817
+      }
+    ],
+    "wof:id": 1763661335,
+    "wof:lastmodified": 1651860648,
+    "wof:name": "Yokota Air Base",
+    "wof:parent_id": 85672817,
+    "wof:placetype": "campus",
+    "wof:placetype_alt": "airport",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    139.348611,
+    35.748611,
+    139.348611,
+    35.748611
+  ],
+  "geometry": {"coordinates":[139.348611,35.748611],"type":"Point"}
+}

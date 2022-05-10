@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00005269017450001489,
-    "geom:area_square_m": 497656.661362,
+    "geom:area_square_m": 497656.661364,
     "geom:bbox": "-76.761734,40.192314,-76.749718,40.199924",
     "geom:latitude": 40.1965492291396,
     "geom:longitude": -76.75523537934352,
@@ -78,6 +78,7 @@
       102191575,
       404486187,
       85633793,
+      1729460005,
       102081347
     ],
     "wof:breaches": [],
@@ -86,7 +87,7 @@
       "icao:code": "KMDT"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218164,
     "wof:geomhash": "8474c6455fecbb100115a83274efff02",
     "wof:hierarchy": [
       {
@@ -95,15 +96,17 @@
         "country_id": 85633793,
         "county_id": 102081347,
         "localadmin_id": 404486187,
+        "locality_id": 1729460005,
+        "neighbourhood_id": -1,
         "region_id": 85688481
       }
     ],
     "wof:id": 102529873,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218164,
     "wof:name": "Harrisburg International Airport",
-    "wof:parent_id": 404486187,
+    "wof:parent_id": 1729460005,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

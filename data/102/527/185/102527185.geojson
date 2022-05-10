@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00023488268200000877,
-    "geom:area_square_m": 2377756.520307,
+    "geom:area_square_m": 2377756.520311,
     "geom:bbox": "-89.990730,35.029690,-89.963692,35.058525",
     "geom:latitude": 35.04691653804057,
     "geom:longitude": -89.98066710832481,
@@ -114,11 +114,8 @@
     "oa:elevation_ft": "341",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 80,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Memphis International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -140,11 +137,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "MEM",
+      "gn:id": 4641253,
+      "gp:id": 12520895,
       "iata:code": "MEM",
-      "icao:code": "KMEM"
+      "icao:code": "KMEM",
+      "oa:id": "3675",
+      "wd:id": "Q866831",
+      "wk:page": "Memphis_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218129,
     "wof:geomhash": "420041139c753d5fd96c86110f6d093b",
     "wof:hierarchy": [
       {
@@ -158,11 +161,11 @@
       }
     ],
     "wof:id": 102527185,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218129,
     "wof:name": "Memphis International Airport",
     "wof:parent_id": 85870785,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

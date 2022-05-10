@@ -50,11 +50,8 @@
     "oa:elevation_ft": "22",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 18,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Brownsville / South Padre Island International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -75,11 +72,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "BRO",
+      "gn:id": 4676748,
+      "gp:id": 12518951,
       "iata:code": "BRO",
-      "icao:code": "KBRO"
+      "icao:code": "KBRO",
+      "oa:id": "3426",
+      "wd:id": "Q3385055",
+      "wk:page": "South_Padre_Island_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218197,
     "wof:geomhash": "9a937ef4ec67dd5a7b52e16f2ceec307",
     "wof:hierarchy": [
       {
@@ -93,11 +96,11 @@
       }
     ],
     "wof:id": 102532841,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218197,
     "wof:name": "Brownsville-South Padre Island International Airport",
     "wof:parent_id": 85868165,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

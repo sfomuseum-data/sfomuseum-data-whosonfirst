@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.017276435274000246,
-    "geom:area_square_m": 193550793.511031,
+    "geom:area_square_m": 193550793.511048,
     "geom:bbox": "-77.561879,24.987006,-77.263824,25.084052",
     "geom:latitude": 25.039366436175644,
     "geom:longitude": -77.4216137209742,
@@ -498,7 +498,9 @@
       85669063
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632339,
+    "wof:capital_of": [
+      85632339
+    ],
     "wof:concordances": {
       "gn:id": 3571824,
       "qs_pg:id": 274428,
@@ -519,13 +521,13 @@
       }
     ],
     "wof:id": 1125983123,
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218073,
     "wof:name": "Nassau",
     "wof:parent_id": 85669063,
     "wof:placetype": "locality",
     "wof:population": 227940,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-bs",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1141909413,

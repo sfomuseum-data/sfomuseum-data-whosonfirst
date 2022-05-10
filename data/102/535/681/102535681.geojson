@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000561886833000016,
-    "geom:area_square_m": 5225446.282467,
+    "geom:area_square_m": 5225446.282466,
     "geom:bbox": "-8.695732,41.199966,-8.662000,41.249546",
     "geom:latitude": 41.22793895390924,
     "geom:longitude": -8.678248599994282,
@@ -99,11 +99,8 @@
     "oa:elevation_ft": "228",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 167,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Francisco Sá Carneiro Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -114,18 +111,22 @@
       "state_id": 2346575
     },
     "wof:belongsto": [
+      85687411,
       102191581,
       1511683367,
-      85633735,
-      85687411
+      85633735
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515455,
       "iata:code": "OPO",
-      "icao:code": "LPPR"
+      "icao:code": "LPPR",
+      "oa:id": "4459",
+      "wd:id": "Q943743",
+      "wk:page": "Francisco_S%C3%A1_Carneiro_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906850,
+    "wof:created": 1652218218,
     "wof:geomhash": "dab1c93eaef8a542474dc4d353b17625",
     "wof:hierarchy": [
       {
@@ -139,11 +140,11 @@
       }
     ],
     "wof:id": 102535681,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218218,
     "wof:name": "Francisco Sa Carneiro Airport",
     "wof:parent_id": 1511683367,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

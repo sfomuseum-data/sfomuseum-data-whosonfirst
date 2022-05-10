@@ -79,11 +79,8 @@
     "oa:elevation_ft": "55",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 111,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "T. F. Green Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -94,21 +91,26 @@
       "state_id": 2347598
     },
     "wof:belongsto": [
-      85825603,
+      85688509,
       102191575,
       404488313,
       85633793,
       101720577,
-      102081209,
-      85688509
+      102081209
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PVD",
+      "gn:id": 5225207,
+      "gp:id": 12522119,
       "iata:code": "PVD",
-      "icao:code": "KPVD"
+      "icao:code": "KPVD",
+      "oa:id": "3795",
+      "wd:id": "Q787782",
+      "wk:page": "T._F._Green_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218126,
     "wof:geomhash": "8b7824ecf54d541490ed3237d682295e",
     "wof:hierarchy": [
       {
@@ -118,16 +120,16 @@
         "county_id": 102081209,
         "localadmin_id": 404488313,
         "locality_id": 101720577,
-        "neighbourhood_id": 85825603,
+        "neighbourhood_id": -1,
         "region_id": 85688509
       }
     ],
     "wof:id": 102526855,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218126,
     "wof:name": "Theodore Francis Green State Airport",
-    "wof:parent_id": 85825603,
+    "wof:parent_id": 101720577,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

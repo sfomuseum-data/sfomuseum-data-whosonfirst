@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 58.68401910992169,
-    "geom:area_square_m": 437086270489.95544,
+    "geom:area_square_m": 437086270489.9384,
     "geom:bbox": "-67.821685,46.614834,-52.638016,60.377744",
     "geom:latitude": 52.90352393992479,
     "geom:longitude": -60.344618961719185,
@@ -18,7 +18,7 @@
       "N.L."
     ],
     "label:eng_x_preferred_longname": [
-      "Newfoundland and Labrador Province"
+      "Newfoundland and Labrador"
     ],
     "label:eng_x_preferred_placetype": [
       "province"
@@ -26,8 +26,21 @@
     "label:eng_x_preferred_shortcode": [
       "NL"
     ],
+    "label:eng_x_variant_longname": [
+      "Newfoundland and Labrador Province",
+      "Province of Newfoundland and Labrador"
+    ],
     "label:fra_x_preferred_abbreviation": [
-      "T.-N.-L."
+      "T.N.L."
+    ],
+    "label:fra_x_preferred_longname": [
+      "Terre-Neuve-et-Labrador"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "province"
+    ],
+    "label:fra_x_preferred_shortcode": [
+      "NL"
     ],
     "lbl:latitude": 54.125069,
     "lbl:longitude": -61.783349,
@@ -539,6 +552,9 @@
       85633041
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      890456615
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 59,
       "fips:code": "CA05",
@@ -550,7 +566,7 @@
       "wd:id": "Q2003"
     },
     "wof:country": "CA",
-    "wof:created": 1624906876,
+    "wof:created": 1652218015,
     "wof:geomhash": "0be3b323be17c16a338e667b703c0cb2",
     "wof:hierarchy": [
       {
@@ -570,7 +586,7 @@
       "iku",
       "ikt"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218015,
     "wof:name": "Newfoundland and Labrador",
     "wof:parent_id": 85633041,
     "wof:placetype": "region",

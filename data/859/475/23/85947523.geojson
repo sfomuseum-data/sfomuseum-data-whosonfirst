@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.09113516288050007,
-    "geom:area_square_m": 885855039.427842,
+    "geom:area_square_m": 885855039.427145,
     "geom:bbox": "-85.947114,37.997210,-85.404899,38.380263",
     "geom:latitude": 38.17777316761865,
     "geom:longitude": -85.6664062012469,
@@ -452,18 +452,19 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688641,
-      102084449
+      102084449,
+      85688641
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "gn:id": 4299276,
       "gp:id": 2442327,
+      "ne:id": 1159147439,
       "qs_pg:id": 823642,
       "wd:id": "Q43668"
     },
     "wof:country": "US",
-    "wof:created": 1624906860,
+    "wof:created": 1652218018,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "naturalearth"
@@ -480,13 +481,14 @@
     ],
     "wof:id": 85947523,
     "wof:label": "Louisville",
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218018,
+    "wof:megacity": 1,
     "wof:name": "Louisville",
     "wof:parent_id": 102084449,
     "wof:placetype": "locality",
     "wof:population": 760026,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125420297

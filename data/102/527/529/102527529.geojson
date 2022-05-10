@@ -2,8 +2,10 @@
   "id": 102527529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2001-11-01",
+    "date:inception_upper": "2001-11-30",
+    "edtf:cessation": "..",
+    "edtf:inception": "2001-11",
     "geom:area": 0.0004365777516237624,
     "geom:area_square_m": 4290619.176491,
     "geom:bbox": "-121.947603,37.348836,-121.911375,37.378170",
@@ -110,11 +112,8 @@
     "reversegeo:latitude": 37.362014,
     "reversegeo:longitude": -121.92662,
     "sfomuseum:airport_id": 122,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Norman Y. Mineta San Jose International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "mz",
     "src:geom_alt": [
       "woedb"
@@ -140,11 +139,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "SJC",
+      "gn:id": 5392196,
+      "gp:id": 12521722,
       "iata:code": "SJC",
-      "icao:code": "KSJC"
+      "icao:code": "KSJC",
+      "oa:id": "3883",
+      "wd:id": "Q1257392",
+      "wk:page": "San_Jose_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640221637,
+    "wof:created": 1640284333,
     "wof:geom_alt": [
       "woedb"
     ],
@@ -171,13 +176,15 @@
       }
     ],
     "wof:id": 102527529,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218133,
     "wof:name": "Norman Y Mineta San Jose International Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746879031
+    ],
     "wof:tags": [
       "airport"
     ]

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.04982365416999975,
-    "geom:area_square_m": 347198677.394701,
+    "geom:area_square_m": 347198677.394727,
     "geom:bbox": "12.315650,55.584520,12.682822,55.851010",
     "geom:latitude": 55.6975070231817,
     "geom:longitude": 12.490748567944273,
@@ -806,12 +806,14 @@
     "wd:wordcount": 15928,
     "wof:belongsto": [
       102191581,
-      1159297727,
       85633121,
+      1159297727,
       85682581
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633121,
+    "wof:capital_of": [
+      85633121
+    ],
     "wof:concordances": {
       "dbp:id": "Copenhagen",
       "fb:id": "en.copenhagen",
@@ -824,7 +826,7 @@
       "wk:page": "Copenhagen"
     },
     "wof:country": "DK",
-    "wof:created": 1624906515,
+    "wof:created": 1652217804,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -842,14 +844,14 @@
     "wof:lang": [
       "dan"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217804,
     "wof:megacity": 1,
     "wof:name": "Copenhagen",
     "wof:parent_id": 1159297727,
     "wof:placetype": "locality",
     "wof:population": 569557,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-dk",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

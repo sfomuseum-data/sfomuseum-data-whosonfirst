@@ -28,6 +28,9 @@
     "name:azb_x_variant": [
       "منروو"
     ],
+    "name:ben_x_preferred": [
+      "মনরো"
+    ],
     "name:cat_x_preferred": [
       "Monroe"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:deu_x_preferred": [
       "Monroe"
+    ],
+    "name:ell_x_preferred": [
+      "Μονρό"
     ],
     "name:eng_x_colloquial": [
       ""
@@ -73,6 +79,9 @@
     "name:heb_x_preferred": [
       "מונרו"
     ],
+    "name:hin_x_preferred": [
+      "मोनरो"
+    ],
     "name:hrv_x_preferred": [
       "Monroe"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:hye_x_preferred": [
       "Մոնրո"
+    ],
+    "name:ind_x_preferred": [
+      "Monroe"
     ],
     "name:ita_x_preferred": [
       "Monroe"
@@ -141,6 +153,9 @@
     ],
     "name:urd_x_variant": [
       "مونرو"
+    ],
+    "name:vie_x_preferred": [
+      "Monroe"
     ],
     "name:vmf_x_preferred": [
       "Monroe"
@@ -260,7 +275,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -288,7 +303,7 @@
       "wk:page": "Monroe, Louisiana"
     },
     "wof:country": "US",
-    "wof:created": 1624906860,
+    "wof:created": 1652218020,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -306,12 +321,12 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218020,
     "wof:megacity": 0,
     "wof:name": "Monroe",
     "wof:parent_id": 102081027,
     "wof:placetype": "locality",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 7,
     "wof:superseded_by": [],
     "wof:supersedes": [

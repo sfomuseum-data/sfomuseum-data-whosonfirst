@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0008158999475000111,
-    "geom:area_square_m": 6652932.697625,
+    "geom:area_square_m": 6652932.697624,
     "geom:bbox": "2.369348,48.727615,2.436815,48.752849",
     "geom:latitude": 48.742832945613515,
     "geom:longitude": 2.3951202474277293,
@@ -325,13 +325,13 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683459,
       102191581,
       85633147,
+      102067989,
       1159321957,
       404227793,
       404227465,
-      102067989
+      85683459
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -343,10 +343,11 @@
       "wd:id": "Q236058"
     },
     "wof:coterminous": [
-      1159321957
+      1159321957,
+      102067989
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217820,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -368,13 +369,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217820,
     "wof:name": "Orly",
     "wof:parent_id": 1159321957,
     "wof:placetype": "locality",
     "wof:population": 20528,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

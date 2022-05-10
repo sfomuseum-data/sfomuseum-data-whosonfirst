@@ -26,11 +26,8 @@
       "Kai Tak International Airport"
     ],
     "sfomuseum:airport_id": 52,
-    "sfomuseum:count_objects_public": 9,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Hong Kong Kai Tak Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191569,
@@ -39,12 +36,8 @@
       85671847
     ],
     "wof:breaches": [],
-    "wof:concordances": {
-      "iata:code": "HKG",
-      "icao:code": "VHHH"
-    },
     "wof:country": "HK",
-    "wof:created": 1626825097,
+    "wof:created": 1652218078,
     "wof:geomhash": "d0a87e1e583012f4678db733922c8ce0",
     "wof:hierarchy": [
       {
@@ -58,11 +51,11 @@
       }
     ],
     "wof:id": 1360691531,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218078,
     "wof:name": "Hong Kong International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-hk",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [
       102541737
     ],

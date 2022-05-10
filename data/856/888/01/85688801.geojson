@@ -5,19 +5,22 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 3.656623448264499,
-    "geom:area_square_m": 28878171778.399673,
+    "geom:area_square_m": 28878170718.67986,
     "geom:bbox": "29.267596,49.178763,32.161868,51.553080",
     "geom:latitude": 50.30370722300566,
     "geom:longitude": 30.45802749267414,
     "iso:country": "UA",
     "label:eng_x_preferred_longname": [
-      "Kiev Oblast"
+      "Kyiv Oblast"
     ],
     "label:eng_x_preferred_placetype": [
       "oblast"
     ],
     "label:eng_x_preferred_shortcode": [
       "KV"
+    ],
+    "label:eng_x_variant_longname": [
+      "Kiev Oblast"
     ],
     "lbl:latitude": 50.121609,
     "lbl:longitude": 30.435489,
@@ -83,14 +86,16 @@
     "name:ell_x_preferred": [
       "Κιβ Ομπλάστ"
     ],
-    "name:eng_x_preferred": [
+    "name:eng_x_historical": [
+      "Kiev Oblast",
       "Kiev"
+    ],
+    "name:eng_x_preferred": [
+      "Kyiv"
     ],
     "name:eng_x_variant": [
       "Kyivs'ka",
-      "Kyiv Oblast",
-      "Kyiv",
-      "Kiev Oblast"
+      "Kyiv Oblast"
     ],
     "name:epo_x_preferred": [
       "Kieva provinco"
@@ -225,6 +230,9 @@
     ],
     "name:por_x_preferred": [
       "Oblast de Kiev"
+    ],
+    "name:rom_x_preferred": [
+      "Kiev"
     ],
     "name:ron_x_preferred": [
       "Regiunea Kiev"
@@ -418,7 +426,7 @@
       "wd:id": "Q170036"
     },
     "wof:country": "UA",
-    "wof:created": 1624906899,
+    "wof:created": 1652218057,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -439,14 +447,14 @@
       "ukr",
       "rus"
     ],
-    "wof:lastmodified": 1626825094,
-    "wof:name": "Kiev",
+    "wof:lastmodified": 1652218057,
+    "wof:name": "Kyiv",
     "wof:parent_id": 85633805,
     "wof:placetype": "region",
     "wof:placetype_local": "oblast",
     "wof:population": 1827894,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-ua",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "KV",
     "wof:superseded_by": [],
     "wof:supersedes": [],

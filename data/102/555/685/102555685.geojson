@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00045545744500007475,
-    "geom:area_square_m": 5321782.128364,
+    "geom:area_square_m": 5321782.128363,
     "geom:bbox": "72.850761,19.087021,72.880531,19.116016",
     "geom:latitude": 19.09994757877507,
     "geom:longitude": 72.8650217472366,
@@ -143,11 +143,8 @@
     "oa:elevation_ft": "39",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 90,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Chhatrapati Shivaji International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -166,11 +163,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12513559,
       "iata:code": "BOM",
-      "icao:code": "VABB"
+      "icao:code": "VABB",
+      "oa:id": "26434",
+      "wd:id": "Q504368",
+      "wk:page": "Chhatrapati_Shivaji_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1652218281,
     "wof:geomhash": "f8155b8c659645a71d20edab69b8f659",
     "wof:hierarchy": [
       {
@@ -184,7 +185,7 @@
       }
     ],
     "wof:id": 102555685,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218281,
     "wof:name": "Chhatrapati Shivaji International Airport",
     "wof:parent_id": 102030609,
     "wof:placetype": "campus",

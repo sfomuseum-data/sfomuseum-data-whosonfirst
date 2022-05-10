@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.013154662700999997,
-    "geom:area_square_m": 117801550.547778,
+    "geom:area_square_m": 117801550.547781,
     "geom:bbox": "1.350326,43.532691,1.515238,43.668525",
     "geom:latitude": 43.59602676545772,
     "geom:longitude": 1.4320826253561123,
@@ -654,16 +654,19 @@
     "wd:population": 458298,
     "wd:wordcount": 4541,
     "wof:belongsto": [
-      85683397,
       102191581,
-      404228067,
-      1159321987,
       85633147,
-      1108826387,
+      102072513,
       136253037,
-      102072513
+      1159321987,
+      404228067,
+      1108826387,
+      85683397
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85683397
+    ],
     "wof:concordances": {
       "dbp:id": "Toulouse",
       "fb:id": "en.toulouse",
@@ -671,6 +674,7 @@
       "gn:id": 2972315,
       "gp:id": 628886,
       "loc:id": "n79091182",
+      "ne:id": 1159147223,
       "nyt:id": "N46549720520264427371",
       "qs:id": 785043,
       "qs_pg:id": 785043,
@@ -678,10 +682,11 @@
       "wk:page": "Toulouse"
     },
     "wof:coterminous": [
-      1159321987
+      1159321987,
+      102072513
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217817,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -704,14 +709,14 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217817,
     "wof:megacity": 1,
     "wof:name": "Toulouse",
     "wof:parent_id": 1159321987,
     "wof:placetype": "locality",
     "wof:population": 458298,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,
     "wof:superseded_by": [],
     "wof:supersedes": [],

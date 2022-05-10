@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0003035322095000458,
-    "geom:area_square_m": 3394613.100269,
+    "geom:area_square_m": 3394613.100266,
     "geom:bbox": "55.352039,25.239376,55.376156,25.260609",
     "geom:latitude": 25.250742834966516,
     "geom:longitude": 55.36296631698314,
@@ -176,11 +176,8 @@
     "oa:elevation_ft": "62",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 36,
-    "sfomuseum:count_objects_public": 2,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dubai International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -200,11 +197,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23388362,
       "iata:code": "DXB",
-      "icao:code": "OMDB"
+      "icao:code": "OMDB",
+      "oa:id": "5235",
+      "wd:id": "Q193439",
+      "wk:page": "Dubai_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218293,
     "wof:geomhash": "620a85f8503782a561ce4e83c500e7f0",
     "wof:hierarchy": [
       {
@@ -218,7 +219,7 @@
       }
     ],
     "wof:id": 102558433,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218293,
     "wof:name": "Dubai International Airport",
     "wof:parent_id": 421174961,
     "wof:placetype": "campus",

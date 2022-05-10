@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.08007295208099995,
-    "geom:area_square_m": 942449630.161676,
+    "geom:area_square_m": 942449630.161678,
     "geom:bbox": "30.878537,-18.050072,31.220937,-17.665572",
     "geom:latitude": -17.850979246567267,
     "geom:longitude": 31.053813878326253,
@@ -152,6 +152,9 @@
       "Harare"
     ],
     "name:heb_x_preferred": [
+      "הרארה"
+    ],
+    "name:heb_x_variant": [
       "הארארה"
     ],
     "name:hif_x_preferred": [
@@ -573,11 +576,14 @@
       85681097
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632243,
+    "wof:capital_of": [
+      85632243
+    ],
     "wof:concordances": {
       "gn:id": 890299,
       "gp:id": 1467052,
       "loc:id": "n83024955",
+      "ne:id": 1159150573,
       "qs_pg:id": 211607,
       "wd:id": "Q3921"
     },
@@ -599,13 +605,14 @@
       }
     ],
     "wof:id": 421201479,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217899,
+    "wof:megacity": 1,
     "wof:name": "Harare",
     "wof:parent_id": 85681097,
     "wof:placetype": "locality",
     "wof:population": 1606000,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-zw",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

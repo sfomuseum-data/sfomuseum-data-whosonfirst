@@ -2,12 +2,10 @@
   "id": 102551593,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1981-01-01",
-    "date:inception_upper": "1981-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1981",
+    "edtf:inception": "",
     "geom:area": 0.002824268555000077,
-    "geom:area_square_m": 34912858.324303,
+    "geom:area_square_m": 34912858.324307,
     "geom:bbox": "103.952744,1.318436,104.015465,1.394181",
     "geom:latitude": 1.355741066458809,
     "geom:longitude": 103.98358359955535,
@@ -50,6 +48,10 @@
     ],
     "name:eng_x_preferred": [
       "Singapore Changi Airport"
+    ],
+    "name:eng_x_variant": [
+      "SIN",
+      "WSSS"
     ],
     "name:epo_x_preferred": [
       "Internacia flughaveno Changi"
@@ -184,11 +186,8 @@
       "樟宜機場"
     ],
     "sfomuseum:airport_id": 134,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Singapore Changi Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -206,11 +205,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12517525,
       "iata:code": "SIN",
-      "icao:code": "WSSS"
+      "icao:code": "WSSS",
+      "wd:id": "Q32159"
     },
     "wof:country": "",
-    "wof:created": 1624906455,
+    "wof:created": 1652218266,
     "wof:geomhash": "c39d4ad617dc2f1bf5cfec110c07c70e",
     "wof:hierarchy": [
       {
@@ -222,11 +223,11 @@
       }
     ],
     "wof:id": 102551593,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218266,
     "wof:name": "Singapore Changi Airport",
     "wof:parent_id": 102032341,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

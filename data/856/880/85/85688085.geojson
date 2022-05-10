@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.35809315880450027,
-    "geom:area_square_m": 2504402796.725532,
+    "geom:area_square_m": 2504403306.889158,
     "geom:bbox": "36.800777,55.136682,37.963860,56.018397",
     "geom:latitude": 55.55599647541839,
     "geom:longitude": 37.367704763061816,
@@ -620,10 +620,11 @@
       "Moscova"
     ],
     "name:rus_x_preferred": [
-      "Москва"
+      "Московская область"
     ],
     "name:rus_x_variant": [
-      "Город Москва"
+      "Город Москва",
+      "Москва"
     ],
     "name:sag_x_preferred": [
       "Moscow"
@@ -890,7 +891,7 @@
     "qs:source": "Unknown",
     "sfomuseum:placetype": "region",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
-    "src:geom": "quattroshapes",
+    "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
     ],
@@ -929,7 +930,7 @@
       102003033
     ],
     "wof:country": "RU",
-    "wof:created": 1624906892,
+    "wof:created": 1652218050,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -968,7 +969,7 @@
       "lbe",
       "koi"
     ],
-    "wof:lastmodified": 1626825093,
+    "wof:lastmodified": 1652218050,
     "wof:name": "Moscow",
     "wof:parent_id": 85632685,
     "wof:placetype": "region",

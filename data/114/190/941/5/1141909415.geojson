@@ -7,8 +7,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-157.859944,21.308822,-157.859944,21.308822",
-    "geom:latitude": 21.308822,
-    "geom:longitude": -157.859944,
+    "geom:latitude": 21.30882230207396,
+    "geom:longitude": -157.8599437447736,
     "iso:country": "US",
     "lbl:bbox": "-157.879943745,21.2888223021,-157.839943745,21.3288223021",
     "lbl:latitude": 21.308822,
@@ -590,7 +590,7 @@
     },
     "wof:country": "US",
     "wof:created": 1499131076,
-    "wof:geomhash": "4594beeca1968bb87e37c6b504f8e84c",
+    "wof:geomhash": "c4d2ca61c5049361dfa0858dd815b558",
     "wof:hierarchy": [
       {
         "continent_id": 102191575,
@@ -601,20 +601,20 @@
       }
     ],
     "wof:id": 1141909415,
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218077,
     "wof:name": "Honolulu",
     "wof:parent_id": 102085417,
     "wof:placetype": "locality",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -157.859944,
-    21.308822,
-    -157.859944,
-    21.308822
+    -157.8599437447736,
+    21.30882230207396,
+    -157.8599437447736,
+    21.30882230207396
   ],
-  "geometry": {"coordinates":[-157.859944,21.308822],"type":"Point"}
+  "geometry": {"coordinates":[-157.8599437447736,21.30882230207396],"type":"Point"}
 }

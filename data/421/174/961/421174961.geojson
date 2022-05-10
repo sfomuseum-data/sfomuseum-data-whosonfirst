@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.10681461366650008,
-    "geom:area_square_m": 1195734257.321122,
+    "geom:area_square_m": 1195734257.321258,
     "geom:bbox": "55.104201,24.949327,55.564224,25.358089",
     "geom:latitude": 25.132743559759543,
     "geom:longitude": 55.31190439257972,
@@ -645,13 +645,17 @@
     "wof:belongsto": [
       102191569,
       85632573,
-      85667983,
-      1376833603
+      1376833603,
+      85667983
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85667983
+    ],
     "wof:concordances": {
       "gn:id": 292223,
       "gp:id": 1940345,
+      "ne:id": 1159151497,
       "qs_pg:id": 911265,
       "wd:id": "Q612"
     },
@@ -671,7 +675,8 @@
       }
     ],
     "wof:id": 421174961,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217883,
+    "wof:megacity": 1,
     "wof:name": "Dubai",
     "wof:parent_id": 1376833603,
     "wof:placetype": "locality",

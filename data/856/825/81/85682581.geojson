@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.3717201110065006,
-    "geom:area_square_m": 2590792428.030847,
+    "geom:area_square_m": 2590792428.030834,
     "geom:bbox": "11.839983,54.988136,15.153891,56.130417",
     "geom:latitude": 55.69015450680807,
     "geom:longitude": 12.895161688367407,
@@ -74,6 +74,9 @@
       "Region Hovedstaden"
     ],
     "name:deu_x_preferred": [
+      "Hovedstaden"
+    ],
+    "name:deu_x_variant": [
       "Region Hovedstaden"
     ],
     "name:ell_x_preferred": [
@@ -356,6 +359,9 @@
     "wof:breaches": [
       85688377
     ],
+    "wof:capital": [
+      101840813
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 25023,
       "fips:code": "DA17",
@@ -367,7 +373,7 @@
       "wd:id": "Q26073"
     },
     "wof:country": "DK",
-    "wof:created": 1624906879,
+    "wof:created": 1652218017,
     "wof:geomhash": "05939ea846aae306fed867a334ad5da2",
     "wof:hierarchy": [
       {
@@ -385,7 +391,7 @@
       "deu",
       "kal"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218017,
     "wof:name": "Capital",
     "wof:parent_id": 85633121,
     "wof:placetype": "region",

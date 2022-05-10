@@ -58,11 +58,8 @@
     "oa:elevation_ft": "33",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 79,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Melbourne International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -82,11 +79,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "MLB",
+      "gn:id": 4163978,
+      "gp:id": 12520889,
       "iata:code": "MLB",
-      "icao:code": "KMLB"
+      "icao:code": "KMLB",
+      "oa:id": "3693",
+      "wd:id": "Q652030",
+      "wk:page": "Orlando_Melbourne_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218128,
     "wof:geomhash": "cc8c66fd6bb6535da0017b2f193f1afb",
     "wof:hierarchy": [
       {
@@ -100,11 +103,11 @@
       }
     ],
     "wof:id": 102527099,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218128,
     "wof:name": "Melbourne International Airport",
     "wof:parent_id": 85849935,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

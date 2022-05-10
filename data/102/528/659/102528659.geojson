@@ -2,10 +2,10 @@
   "id": 102528659,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1935-01-01",
-    "date:inception_upper": "1935-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "1935",
+    "date:inception_lower": "1982-01-01",
+    "date:inception_upper": "1982-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1982",
     "geom:area": 0.0003953103849999717,
     "geom:area_square_m": 3993274.78827,
     "geom:bbox": "-80.958275,35.199738,-80.931259,35.232079",
@@ -141,11 +141,8 @@
     "oa:elevation_ft": "748",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 214,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Charlotte Douglas International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -168,8 +165,14 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "CLT",
+      "gn:id": 4460310,
+      "gp:id": 12519519,
       "iata:code": "CLT",
-      "icao:code": "KCLT"
+      "icao:code": "KCLT",
+      "oa:id": "3457",
+      "wd:id": "Q597649",
+      "wk:page": "Douglas_International_Airport"
     },
     "wof:country": "US",
     "wof:created": 1640286478,
@@ -193,14 +196,14 @@
       }
     ],
     "wof:id": 102528659,
-    "wof:lastmodified": 1640301059,
+    "wof:lastmodified": 1652218146,
     "wof:name": "Charlotte Douglas International Airport",
     "wof:parent_id": 85805887,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1746879045
+      1746899295
     ],
     "wof:tags": [
       "airport"

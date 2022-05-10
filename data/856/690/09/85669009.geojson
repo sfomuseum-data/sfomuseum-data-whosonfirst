@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.8180674165589987,
-    "geom:area_square_m": 20562773717.36654,
+    "geom:area_square_m": 20562773546.927612,
     "geom:bbox": "89.298725,22.817940,91.255628,24.791218",
     "geom:latitude": 23.835156475919504,
     "geom:longitude": 90.23976196603991,
@@ -95,8 +95,14 @@
     "name:guj_x_preferred": [
       "ઢાકા ડિવિઝન"
     ],
+    "name:heb_x_preferred": [
+      "דאקה"
+    ],
     "name:hin_x_preferred": [
       "ढाका उपक्षेत्र"
+    ],
+    "name:hun_x_preferred": [
+      "Dhaka"
     ],
     "name:ina_x_preferred": [
       "Division Dhaka"
@@ -322,7 +328,7 @@
       "wk:page": "Dhaka Division"
     },
     "wof:country": "BD",
-    "wof:created": 1624906856,
+    "wof:created": 1652217944,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -341,14 +347,14 @@
     "wof:lang_x_spoken": [
       "ben"
     ],
-    "wof:lastmodified": 1626825081,
+    "wof:lastmodified": 1652217944,
     "wof:name": "Dhaka",
     "wof:parent_id": 85632475,
     "wof:placetype": "region",
     "wof:placetype_local": "division",
     "wof:population": 36433505,
     "wof:population_rank": 14,
-    "wof:repo": "whosonfirst-data-admin-bd",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "DH",
     "wof:subdivision": "BD-13",
     "wof:superseded_by": [],

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0017946646139999761,
-    "geom:area_square_m": 13521361.930502,
+    "geom:area_square_m": 13521361.930499,
     "geom:bbox": "-1.790556,52.439529,-1.716613,52.485153",
     "geom:latitude": 52.46045688659741,
     "geom:longitude": -1.742885856571972,
@@ -47,7 +47,9 @@
       "Birmingham Airport"
     ],
     "name:eng_x_variant": [
-      "QQY"
+      "QQY",
+      "BHX",
+      "EGBB"
     ],
     "name:est_x_preferred": [
       "Birminghami lennujaam"
@@ -122,11 +124,8 @@
       "伯明翰机场"
     ],
     "sfomuseum:airport_id": 15,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Birmingham International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -148,11 +147,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22454274,
       "iata:code": "BHX",
-      "icao:code": "EGBB"
+      "icao:code": "EGBB",
+      "wd:id": "Q8719"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218290,
     "wof:geomhash": "96b878f08d39bc267e608d3bdca3509b",
     "wof:hierarchy": [
       {
@@ -167,7 +168,7 @@
       }
     ],
     "wof:id": 102556843,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218290,
     "wof:name": "Birmingham International Airport",
     "wof:parent_id": 85788643,
     "wof:placetype": "campus",

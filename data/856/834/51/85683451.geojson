@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.15423658508600013,
-    "geom:area_square_m": 1249133597.402472,
+    "geom:area_square_m": 1249133597.40247,
     "geom:bbox": "1.608798,48.908680,2.594470,49.241062",
     "geom:latitude": 49.082710629646556,
     "geom:longitude": 2.1309581098245403,
@@ -20,13 +20,15 @@
       "VO"
     ],
     "label:fra_x_preferred_longname": [
-      "Département de Val-d'Oise"
+      "Département du Val-d'Oise"
     ],
     "label:fra_x_preferred_placetype": [
       "département"
     ],
     "label:fra_x_variant_longname": [
-      "département de Val-d'Oise"
+      "département de Val-d'Oise",
+      "Département de Val-d'Oise",
+      "département du Val-d'Oise"
     ],
     "lbl:latitude": 49.102394,
     "lbl:longitude": 2.056498,
@@ -445,7 +447,7 @@
       "wd:id": "Q12784"
     },
     "wof:country": "FR",
-    "wof:created": 1624906881,
+    "wof:created": 1652218022,
     "wof:geomhash": "faaa9807d1391b1814ff06649783835a",
     "wof:hierarchy": [
       {
@@ -462,7 +464,7 @@
     "wof:lang_x_spoken": [
       "fra"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218022,
     "wof:name": "Val-d'Oise",
     "wof:parent_id": 404227465,
     "wof:placetype": "region",

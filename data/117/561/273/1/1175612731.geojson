@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.004627255648000019,
-    "geom:area_square_m": 45103912.142592,
+    "geom:area_square_m": 45103912.142605,
     "geom:bbox": "23.671135,37.922531,23.779003,38.038624",
     "geom:latitude": 37.97337817532565,
     "geom:longitude": 23.73164733779202,
@@ -910,7 +910,9 @@
       85684697
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633171,
+    "wof:capital_of": [
+      85633171
+    ],
     "wof:concordances": {
       "dbp:id": "Athens",
       "fb:id": "en.athens",
@@ -923,7 +925,7 @@
       "wk:page": "Athens"
     },
     "wof:country": "GR",
-    "wof:created": 1624906904,
+    "wof:created": 1652218078,
     "wof:geomhash": "6905c175ee0e5ebfb4f5a78a1de62744",
     "wof:hierarchy": [
       {
@@ -937,14 +939,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218078,
     "wof:megacity": 1,
     "wof:name": "Athens",
     "wof:parent_id": 85684697,
     "wof:placetype": "locality",
     "wof:population": 664046,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-gr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [

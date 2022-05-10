@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000184801480500037,
-    "geom:area_square_m": 1653566.832659,
+    "geom:area_square_m": 1653566.832658,
     "geom:bbox": "-70.334831,43.636333,-70.306831,43.654331",
     "geom:latitude": 43.64537597856528,
     "geom:longitude": -70.32068575580223,
@@ -72,11 +72,8 @@
     "oa:elevation_ft": "76",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 266,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Portland International Jetport (Maine)",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -88,21 +85,25 @@
       "suburb_id": 2501021
     },
     "wof:belongsto": [
-      85851275,
+      85688769,
       102191575,
-      404475429,
+      404475439,
       85633793,
-      85948877,
-      102087463,
-      85688769
+      85948879,
+      102087463
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PWM",
+      "gp:id": 12520368,
       "iata:code": "PWM",
-      "icao:code": "KPWM"
+      "icao:code": "KPWM",
+      "oa:id": "3796",
+      "wd:id": "Q1432470",
+      "wk:page": "Portland_International_Jetport"
     },
     "wof:country": "US",
-    "wof:created": 1624906850,
+    "wof:created": 1652218215,
     "wof:geomhash": "05412cc7a61b0ae811210b0167bdb9a7",
     "wof:hierarchy": [
       {
@@ -110,18 +111,18 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087463,
-        "localadmin_id": 404475429,
-        "locality_id": 85948877,
-        "neighbourhood_id": 85851275,
+        "localadmin_id": 404475439,
+        "locality_id": 85948879,
+        "neighbourhood_id": -1,
         "region_id": 85688769
       }
     ],
     "wof:id": 102534331,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218215,
     "wof:name": "Jetport International Airport",
-    "wof:parent_id": 85851275,
+    "wof:parent_id": 85948879,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

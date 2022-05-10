@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.04924340425950064,
-    "geom:area_square_m": 523835968.031094,
+    "geom:area_square_m": 523835968.030554,
     "geom:bbox": "103.804869,30.491728,104.320125,30.840520",
     "geom:latitude": 30.65045590850843,
     "geom:longitude": 104.05311016538965,
@@ -18,7 +18,7 @@
     "mps:latitude": 30.652751,
     "mps:longitude": 104.068108,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "mz:min_zoom": 3,
     "name:ace_x_preferred": [
       "Chengdu"
@@ -513,11 +513,11 @@
     "src:population": "geonames",
     "wd:wordcount": 12534,
     "wof:belongsto": [
-      85669787,
       102191569,
       85632695,
+      890516567,
       136253041,
-      890516567
+      85669787
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -526,13 +526,14 @@
       "fct:id": "06b5c662-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 1815286,
       "gp:id": 12687270,
+      "ne:id": 1159151533,
       "nyt:id": "60501388442308734011",
       "qs_pg:id": 839798,
       "wd:id": "Q30002",
       "wk:page": "Chengdu"
     },
     "wof:country": "CN",
-    "wof:created": 1624906905,
+    "wof:created": 1652218103,
     "wof:geomhash": "970fc9af6bb8868acc92f319972b7102",
     "wof:hierarchy": [
       {
@@ -548,14 +549,14 @@
     "wof:lang": [
       "chi"
     ],
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218103,
     "wof:megacity": 1,
     "wof:name": "Chengdu",
     "wof:parent_id": 890516567,
     "wof:placetype": "locality",
     "wof:population": 7415590,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

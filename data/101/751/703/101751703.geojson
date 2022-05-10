@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.04865906406850018,
-    "geom:area_square_m": 406593699.92553,
+    "geom:area_square_m": 406593699.925536,
     "geom:bbox": "18.930580,47.357971,19.322326,47.621547",
     "geom:latitude": 47.48637550359785,
     "geom:longitude": 19.10577769522085,
@@ -780,11 +780,13 @@
     "wof:belongsto": [
       102191581,
       85633237,
-      85684881,
-      404227489
+      404227489,
+      85684881
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633237,
+    "wof:capital_of": [
+      85633237
+    ],
     "wof:concordances": {
       "dbp:id": "Budapest",
       "fb:id": "en.budapest",
@@ -802,7 +804,7 @@
       85684881
     ],
     "wof:country": "HU",
-    "wof:created": 1624906516,
+    "wof:created": 1652217825,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -817,14 +819,14 @@
       }
     ],
     "wof:id": 101751703,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217825,
     "wof:megacity": 1,
     "wof:name": "Budapest",
     "wof:parent_id": 85684881,
     "wof:placetype": "locality",
     "wof:population": 1757618,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-hu",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

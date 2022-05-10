@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 26.325356260810008,
-    "geom:area_square_m": 224608069168.2963,
+    "geom:area_square_m": 224608069168.3397,
     "geom:bbox": "-97.239196,43.499361,-89.483385,49.384358",
     "geom:latitude": 46.34911065934798,
     "geom:longitude": -94.19830646308031,
@@ -569,6 +569,9 @@
       "Міннесота"
     ],
     "name:urd_x_preferred": [
+      "منیسوتا"
+    ],
+    "name:urd_x_variant": [
       "مینیسوٹا"
     ],
     "name:uzb_x_preferred": [
@@ -715,6 +718,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85953191
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 24,
       "fips:code": "US27",
@@ -726,7 +732,7 @@
       "wd:id": "Q1527"
     },
     "wof:country": "US",
-    "wof:created": 1624906900,
+    "wof:created": 1652218057,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -747,7 +753,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825094,
+    "wof:lastmodified": 1652218057,
     "wof:name": "Minnesota",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0013209075825000656,
-    "geom:area_square_m": 15333465.781722,
+    "geom:area_square_m": 15333465.78172,
     "geom:bbox": "57.463878,-20.171508,57.522075,-20.122328",
     "geom:latitude": -20.151582391162567,
     "geom:longitude": 57.49703386389386,
@@ -147,6 +147,9 @@
       "Port Louis"
     ],
     "name:hin_x_preferred": [
+      "पोर्ट लुइस"
+    ],
+    "name:hin_x_variant": [
       "पोर्ट लुई"
     ],
     "name:hrv_x_preferred": [
@@ -423,7 +426,9 @@
       85674971
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632357,
+    "wof:capital_of": [
+      85632357
+    ],
     "wof:concordances": {
       "gn:id": 934154,
       "gp:id": 1377436,
@@ -445,13 +450,13 @@
       }
     ],
     "wof:id": 1125952633,
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218074,
     "wof:name": "Port Louis",
     "wof:parent_id": 85674971,
     "wof:placetype": "locality",
     "wof:population": 155226,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-mu",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

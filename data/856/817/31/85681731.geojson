@@ -8,19 +8,40 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.270574234777,
-    "geom:area_square_m": 2111287922.355694,
+    "geom:area_square_m": 2111287922.355689,
     "geom:bbox": "3.889302,50.687694,5.187943,51.049900",
     "geom:latitude": 50.872718479081286,
     "geom:longitude": 4.590561287625541,
     "iso:country": "BE",
+    "label:deu_x_preferred_longname": [
+      "Provinz Flämisch-Brabant"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "provinz"
+    ],
     "label:eng_x_preferred_longname": [
-      "Vlaams-Brabant Province"
+      "Flemish Brabant Province"
     ],
     "label:eng_x_preferred_placetype": [
       "province"
     ],
     "label:eng_x_preferred_shortcode": [
       "VB"
+    ],
+    "label:eng_x_variant_longname": [
+      "Vlaams-Brabant Province"
+    ],
+    "label:fra_x_preferred_longname": [
+      "Province du Brabant flamand"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "province"
+    ],
+    "label:nld_x_preferred_longname": [
+      "Provincie Vlaams-Brabant"
+    ],
+    "label:nld_x_preferred_placetype": [
+      "provincie"
     ],
     "lbl:latitude": 50.872858,
     "lbl:longitude": 4.575076,
@@ -77,9 +98,6 @@
       "Vlaams-Brabant"
     ],
     "name:deu_x_preferred": [
-      "Provinz Flämisch-Brabant"
-    ],
-    "name:deu_x_variant": [
       "Flämisch-Brabant"
     ],
     "name:ell_x_preferred": [
@@ -111,13 +129,12 @@
       "Flanderin Brabant"
     ],
     "name:fra_x_preferred": [
-      "Province du Brabant flamand"
+      "Brabant flamand"
     ],
     "name:fra_x_variant": [
       "Brabant-Flamand",
       "Brabant Flamand",
-      "Province de Brabant Flamand",
-      "Brabant flamand"
+      "Province de Brabant Flamand"
     ],
     "name:frr_x_preferred": [
       "Fleemisk Brabant"
@@ -376,8 +393,8 @@
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-01-01",
+    "src:population": "wk",
+    "src:population_date": "2019-01-01",
     "statoids:area_km": "2,106",
     "statoids:area_mi": "814",
     "statoids:as_of_date": "2010-01-01",
@@ -409,7 +426,7 @@
       "wd:id": "Q1118"
     },
     "wof:country": "BE",
-    "wof:created": 1624906875,
+    "wof:created": 1652218010,
     "wof:geomhash": "6fdfc5afd3afa1ac14b1254aa723f6c8",
     "wof:hierarchy": [
       {
@@ -430,12 +447,12 @@
       "fra",
       "deu"
     ],
-    "wof:lastmodified": 1626825087,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Vlaams-Brabant",
     "wof:parent_id": 404227357,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
-    "wof:population": 1076924,
+    "wof:population": 1146175,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "VB",

@@ -2,10 +2,8 @@
   "id": 102533677,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1936-01-01",
-    "date:inception_upper": "1936-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1936",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.114998,37.461102,-122.114998,37.461102",
@@ -43,11 +41,8 @@
     "oa:elevation_ft": "4",
     "oa:type": "small_airport",
     "sfomuseum:airport_id": 104,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Palo Alto Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -66,11 +61,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PAO",
+      "gn:id": 5380749,
+      "gp:id": 12521292,
       "iata:code": "PAO",
-      "icao:code": "KPAO"
+      "icao:code": "KPAO",
+      "oa:id": "20805",
+      "wd:id": "Q7128503",
+      "wk:page": "Palo_Alto_Airport_of_Santa_Clara_County"
     },
     "wof:country": "US",
-    "wof:created": 1624906850,
+    "wof:created": 1652218207,
     "wof:geomhash": "0eaba6cec6f84ce0eb651b1dadc24e23",
     "wof:hierarchy": [
       {
@@ -83,11 +84,11 @@
       }
     ],
     "wof:id": 102533677,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218207,
     "wof:name": "Palo Alto Airport of Santa Clara County",
     "wof:parent_id": 85922351,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

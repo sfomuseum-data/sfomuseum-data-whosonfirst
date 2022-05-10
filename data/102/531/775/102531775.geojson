@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1927",
     "geom:area": 0.0002440209069999999,
-    "geom:area_square_m": 2622174.393871,
+    "geom:area_square_m": 2622174.393873,
     "geom:bbox": "-95.288879,29.645765,-95.259804,29.666981",
     "geom:latitude": 29.65418766312529,
     "geom:longitude": -95.27835244534408,
@@ -96,11 +96,8 @@
     "oa:elevation_ft": "46",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 275,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Houston Hobby Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -122,11 +119,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "HOU",
+      "gn:id": 4741989,
+      "gp:id": 12522451,
       "iata:code": "HOU",
-      "icao:code": "KHOU"
+      "icao:code": "KHOU",
+      "oa:id": "3588",
+      "wd:id": "Q771340",
+      "wk:page": "William_P._Hobby_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218187,
     "wof:geomhash": "b139637b4cc1cc17972d3755bfec6c35",
     "wof:hierarchy": [
       {
@@ -140,11 +143,11 @@
       }
     ],
     "wof:id": 102531775,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218187,
     "wof:name": "William P Hobby Airport",
     "wof:parent_id": 85869295,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 29.94035884131501,
-    "geom:area_square_m": 286141045549.09515,
+    "geom:area_square_m": 286141045549.0998,
     "geom:bbox": "-120.006473,35.001857,-114.039648,42.002207",
     "geom:latitude": 39.35620404308496,
     "geom:longitude": -116.65523090425926,
@@ -721,6 +721,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85974793
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 29,
       "fips:code": "US32",
@@ -732,7 +735,7 @@
       "wd:id": "Q1227"
     },
     "wof:country": "US",
-    "wof:created": 1624906894,
+    "wof:created": 1652218053,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -753,7 +756,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218053,
     "wof:name": "Nevada",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

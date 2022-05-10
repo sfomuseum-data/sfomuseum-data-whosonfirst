@@ -56,6 +56,9 @@
     "name:deu_x_preferred": [
       "Fayetteville"
     ],
+    "name:ell_x_preferred": [
+      "Φαιέτβιλ"
+    ],
     "name:eng_x_colloquial": [
       "The All American City",
       "FayetteNam"
@@ -83,6 +86,9 @@
     ],
     "name:heb_x_preferred": [
       "פאייטוויל"
+    ],
+    "name:hin_x_preferred": [
+      "फ़ेएटविल"
     ],
     "name:hun_x_preferred": [
       "Fayetteville"
@@ -292,7 +298,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -322,7 +328,7 @@
       "wk:page": "Fayetteville, North Carolina"
     },
     "wof:country": "US",
-    "wof:created": 1624906864,
+    "wof:created": 1652218057,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -340,14 +346,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218057,
     "wof:megacity": 0,
     "wof:name": "Fayetteville",
     "wof:parent_id": 102080897,
     "wof:placetype": "locality",
     "wof:population": 204408,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 7,
     "wof:superseded_by": [],
     "wof:supersedes": [

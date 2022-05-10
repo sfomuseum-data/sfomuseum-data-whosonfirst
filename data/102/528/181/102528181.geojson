@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00013000261650000848,
-    "geom:area_square_m": 1222487.622598,
+    "geom:area_square_m": 1222487.622596,
     "geom:bbox": "-80.272690,40.487576,-80.241310,40.497616",
     "geom:latitude": 40.49316386774169,
     "geom:longitude": -80.25824329192685,
@@ -71,11 +71,8 @@
     "oa:elevation_ft": "1203",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 109,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Pittsburgh International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -90,15 +87,21 @@
       102191575,
       404484901,
       85633793,
+      1729444317,
       102080887
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PIT",
+      "gp:id": 12519983,
       "iata:code": "PIT",
-      "icao:code": "KPIT"
+      "icao:code": "KPIT",
+      "oa:id": "3778",
+      "wd:id": "Q1421504",
+      "wk:page": "Pittsburgh_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218140,
     "wof:geomhash": "2e7eb454d7924accaa309c51a337b616",
     "wof:hierarchy": [
       {
@@ -107,15 +110,17 @@
         "country_id": 85633793,
         "county_id": 102080887,
         "localadmin_id": 404484901,
+        "locality_id": 1729444317,
+        "neighbourhood_id": -1,
         "region_id": 85688481
       }
     ],
     "wof:id": 102528181,
-    "wof:lastmodified": 1648683810,
+    "wof:lastmodified": 1652218140,
     "wof:name": "Greater Pittsburgh International Airport",
-    "wof:parent_id": 404484901,
+    "wof:parent_id": 1729444317,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

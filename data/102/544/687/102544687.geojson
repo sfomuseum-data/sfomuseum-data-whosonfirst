@@ -128,11 +128,8 @@
     "oa:elevation_ft": "821",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 73,
-    "sfomuseum:count_objects_public": 5,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Lyon - Saint Exupéry Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -155,11 +152,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12512963,
       "iata:code": "LYS",
-      "icao:code": "LFLL"
+      "icao:code": "LFLL",
+      "oa:id": "4137",
+      "wd:id": "Q1547",
+      "wk:page": "Saint-Exup%C3%A9ry_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1652218244,
     "wof:geomhash": "8c35b1497117c71c020a71c2d70f75bc",
     "wof:hierarchy": [
       {
@@ -177,11 +178,11 @@
       }
     ],
     "wof:id": 102544687,
-    "wof:lastmodified": 1648683810,
+    "wof:lastmodified": 1652218244,
     "wof:name": "Lyon - Saint Exupery Airport",
     "wof:parent_id": 404390159,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

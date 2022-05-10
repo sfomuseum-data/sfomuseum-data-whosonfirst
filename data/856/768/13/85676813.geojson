@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 33.116390237290695,
-    "geom:area_square_m": 376480966584.1004,
+    "geom:area_square_m": 376480966584.1051,
     "geom:bbox": "41.681567,19.211674,48.237069,27.700039",
     "geom:latitude": 23.08134025186625,
     "geom:longitude": 45.5861261446945,
@@ -54,6 +54,9 @@
     ],
     "name:bel_x_preferred": [
       "Правінцыя Рыяд"
+    ],
+    "name:ben_x_preferred": [
+      "আর রিয়াধ"
     ],
     "name:cat_x_preferred": [
       "Província de Riad"
@@ -297,6 +300,9 @@
       85632253
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      421204501
+    ],
     "wof:concordances": {
       "fips:code": "SA10",
       "gn:id": 108411,
@@ -308,7 +314,7 @@
       "wd:id": "Q1249255"
     },
     "wof:country": "SA",
-    "wof:created": 1624906864,
+    "wof:created": 1652217989,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -327,13 +333,13 @@
     "wof:lang_x_spoken": [
       "ara"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217989,
     "wof:name": "Ar Riyad",
     "wof:parent_id": 85632253,
     "wof:placetype": "region",
     "wof:population": 6505509,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-sa",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "RI",
     "wof:subdivision": "SA-01",
     "wof:superseded_by": [],

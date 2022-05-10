@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00020997496550000246,
-    "geom:area_square_m": 1996842.152158,
+    "geom:area_square_m": 1996842.152157,
     "geom:bbox": "-86.293312,39.719666,-86.259285,39.735294",
     "geom:latitude": 39.728114779118165,
     "geom:longitude": -86.27676765736267,
@@ -74,11 +74,8 @@
     "oa:elevation_ft": "797",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 55,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Indianapolis International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -101,11 +98,16 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "IND",
+      "gp:id": 12520294,
       "iata:code": "IND",
-      "icao:code": "KIND"
+      "icao:code": "KIND",
+      "oa:id": "3610",
+      "wd:id": "Q1156865",
+      "wk:page": "Indianapolis_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218212,
     "wof:geomhash": "d697b2032cf37f21a6936955368dabda",
     "wof:hierarchy": [
       {
@@ -120,11 +122,11 @@
       }
     ],
     "wof:id": 102534155,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218212,
     "wof:name": "Indianapolis International Airport",
     "wof:parent_id": 85805707,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

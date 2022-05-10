@@ -5,16 +5,25 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.24952148834949994,
-    "geom:area_square_m": 2131488716.59467,
+    "geom:area_square_m": 2131488774.655825,
     "geom:bbox": "13.677407,46.003373,14.573794,46.523397",
     "geom:latitude": 46.30368744241162,
     "geom:longitude": 14.139248000586402,
     "iso:country": "SI",
     "label:eng_x_preferred_longname": [
-      "Gorenjska Statistical Region"
+      "Upper Carniola Statistical Region"
     ],
     "label:eng_x_preferred_placetype": [
       "statistical region"
+    ],
+    "label:eng_x_variant_longname": [
+      "Gorenjska Statistical Region"
+    ],
+    "label:slv_x_preferred_longname": [
+      "Gorenjska Statistična Regija"
+    ],
+    "label:slv_x_preferred_placetype": [
+      "statistična regija"
     ],
     "lbl:latitude": 46.268328,
     "lbl:longitude": 14.207,
@@ -24,14 +33,21 @@
     "mz:min_zoom": 4,
     "mz:note": "statistical region, no administrative function",
     "name:eng_x_preferred": [
+      "Upper Carniola"
+    ],
+    "name:fra_x_preferred": [
+      "Gorenjska"
+    ],
+    "name:slv_x_preferred": [
       "Gorenjska"
     ],
     "sfomuseum:placetype": "region",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "svn-sma",
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
+    "src:population": "wk",
     "src:population:date:": "2011-01-01",
+    "src:population_date": "2013-01-01",
     "statoids:area_km": "2137",
     "statoids:area_mi": "825",
     "statoids:as_of_date": "2011-01-01",
@@ -80,14 +96,14 @@
     "wof:lang_x_spoken": [
       "slv"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218069,
     "wof:name": "Gorenjska",
     "wof:parent_id": 85633779,
     "wof:placetype": "region",
     "wof:placetype_local": "statistical region",
-    "wof:population": 203427,
+    "wof:population": 204670,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-si",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:statistical_gore": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

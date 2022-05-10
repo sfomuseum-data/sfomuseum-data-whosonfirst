@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.0001406707080000347,
-    "geom:area_square_m": 1739342.988859,
+    "geom:area": 0.00014067656465590017,
+    "geom:area_square_m": 1739415.404329,
     "geom:bbox": "166.916352,-0.550668,166.932640,-0.534381",
-    "geom:latitude": -0.5437190000622428,
-    "geom:longitude": 166.9240966147999,
+    "geom:latitude": -0.5437189318545176,
+    "geom:longitude": 166.92409668999554,
     "gn:id": "",
     "gn:population": 1100,
     "iso:country": "NR",
@@ -432,8 +432,8 @@
       1108952597
     ],
     "wof:country": "NR",
-    "wof:created": 1624906863,
-    "wof:geomhash": "26ed95fbdd888adf0f0a2ebff4e1b91e",
+    "wof:created": 1652217979,
+    "wof:geomhash": "de8fdf1aa2648ecea1a3772ca72e5a88",
     "wof:hierarchy": [
       {
         "continent_id": 102191583,
@@ -450,14 +450,14 @@
       "eng",
       "nau"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217979,
     "wof:name": "Yaren",
     "wof:parent_id": 85632747,
     "wof:placetype": "region",
     "wof:placetype_local": "district",
     "wof:population": 747,
     "wof:population_rank": 2,
-    "wof:repo": "whosonfirst-data-admin-nr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "YA",
     "wof:subdivision": "NR-14",
     "wof:superseded_by": [],
@@ -465,10 +465,10 @@
     "wof:tags": []
   },
   "bbox": [
-    166.916352,
-    -0.550668,
-    166.93264,
-    -0.534381
+    166.9163517587267,
+    -0.55066784614411,
+    166.9326403120009,
+    -0.534380806429
   ],
-  "geometry": {"coordinates":[[[166.93264,-0.550668],[166.916352,-0.54754],[166.91827,-0.54035],[166.920094,-0.538799],[166.925292,-0.534381],[166.93264,-0.550668]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.9326403120009,-0.55066784614411],[166.9163517587267,-0.54753997169229],[166.91826953601037,-0.54035014644205],[166.9200940248195,-0.53879933122408],[166.9252922897075,-0.534380806429],[166.9326403120009,-0.55066784614411]]],"type":"Polygon"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0008917535985000103,
-    "geom:area_square_m": 7284350.223512,
+    "geom:area_square_m": 7284362.978117,
     "geom:bbox": "-123.417809,48.634078,-123.388150,48.672185",
     "geom:latitude": 48.65361412897962,
     "geom:longitude": -123.4040958400252,
@@ -22,11 +22,17 @@
     "name:ara_x_preferred": [
       "سيدني"
     ],
+    "name:ben_x_preferred": [
+      "সিডনি"
+    ],
     "name:cym_x_preferred": [
       "Sidney"
     ],
     "name:deu_x_preferred": [
       "Sidney"
+    ],
+    "name:ell_x_preferred": [
+      "Σίντνεϊ"
     ],
     "name:eng_x_preferred": [
       "Sidney"
@@ -43,17 +49,44 @@
     "name:fra_x_preferred": [
       "Sidney"
     ],
+    "name:heb_x_preferred": [
+      "סידני"
+    ],
+    "name:hin_x_preferred": [
+      "सिडनी"
+    ],
+    "name:ind_x_preferred": [
+      "Sidney"
+    ],
     "name:ita_x_preferred": [
       "Sidney"
     ],
     "name:jpn_x_preferred": [
       "シドニー市"
     ],
+    "name:kor_x_preferred": [
+      "시드니"
+    ],
     "name:nld_x_preferred": [
       "Sidney"
     ],
     "name:rus_x_preferred": [
       "Сидней"
+    ],
+    "name:tur_x_preferred": [
+      "Sidney"
+    ],
+    "name:urd_x_preferred": [
+      "سڈنی"
+    ],
+    "name:vie_x_preferred": [
+      "Sidney"
+    ],
+    "name:zho_cn_x_preferred": [
+      "悉尼"
+    ],
+    "name:zho_tw_x_preferred": [
+      "悉尼"
     ],
     "name:zho_x_preferred": [
       "悉尼"
@@ -93,7 +126,7 @@
       "wk:page": "Sidney, British Columbia"
     },
     "wof:country": "CA",
-    "wof:created": 1624906515,
+    "wof:created": 1652217788,
     "wof:geomhash": "d946add8e9aaf3ec055ea4b2cfba8acb",
     "wof:hierarchy": [
       {
@@ -105,12 +138,12 @@
       }
     ],
     "wof:id": 101740881,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217788,
     "wof:name": "Sidney",
     "wof:parent_id": 890456487,
     "wof:placetype": "locality",
     "wof:population_rank": 0,
-    "wof:repo": "whosonfirst-data-admin-ca",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

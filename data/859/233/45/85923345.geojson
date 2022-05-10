@@ -228,10 +228,10 @@
       "Riverside"
     ],
     "name:spa_x_preferred": [
-      "Orilla"
+      "Riverside"
     ],
     "name:spa_x_variant": [
-      "Riverside"
+      "Orilla"
     ],
     "name:sqi_x_preferred": [
       "Riverside"
@@ -402,7 +402,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -416,8 +416,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688637,
-      102086221
+      102086221,
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -430,7 +430,7 @@
       "wk:page": "Riverside, California"
     },
     "wof:country": "US",
-    "wof:created": 1624906858,
+    "wof:created": 1652217982,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -448,7 +448,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217982,
     "wof:megacity": 0,
     "wof:name": "Riverside",
     "wof:parent_id": 102086221,

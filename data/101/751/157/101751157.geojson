@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000523476775500049,
-    "geom:area_square_m": 4254302.040891,
+    "geom:area_square_m": 4254302.040892,
     "geom:bbox": "2.313758,48.900459,2.351873,48.922925",
     "geom:latitude": 48.90960780320763,
     "geom:longitude": 2.333384051361358,
@@ -199,13 +199,13 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683475,
       102191581,
       85633147,
+      102072549,
       1159322267,
       404228189,
       404227465,
-      102072549
+      85683475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -218,10 +218,11 @@
       "wk:page": "Seregno"
     },
     "wof:coterminous": [
-      1159322267
+      1159322267,
+      102072549
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217821,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -243,13 +244,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217821,
     "wof:name": "Saint-Ouen",
     "wof:parent_id": 1159322267,
     "wof:placetype": "locality",
     "wof:population": 39353,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

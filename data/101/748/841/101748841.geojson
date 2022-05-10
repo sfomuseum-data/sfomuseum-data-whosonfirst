@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.10011808092349998,
-    "geom:area_square_m": 735553645.704822,
+    "geom:area_square_m": 735553645.704832,
     "geom:bbox": "8.419907,53.395070,10.325959,53.964403",
     "geom:latitude": 53.547436394930315,
     "geom:longitude": 10.016605363797847,
@@ -813,13 +813,16 @@
     "src:lbl_centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85682505,
       102191581,
-      1377684829,
       85633111,
-      102064053
+      102064053,
+      1377684829,
+      85682505
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85682505
+    ],
     "wof:concordances": {
       "dbp:id": "Hamburg",
       "fb:id": "en.hamburg",
@@ -832,10 +835,12 @@
       "wk:page": "Hamburg"
     },
     "wof:coterminous": [
-      102064053
+      102064053,
+      1377684829,
+      85682505
     ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217810,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -852,14 +857,14 @@
       }
     ],
     "wof:id": 101748841,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217810,
     "wof:megacity": 1,
     "wof:name": "Hamburg",
     "wof:parent_id": 1377684829,
     "wof:placetype": "locality",
     "wof:population": 1739117,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [

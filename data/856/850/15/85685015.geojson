@@ -3,21 +3,26 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-11-18",
     "edtf:inception": "",
     "geom:area": 0.017321838829499964,
-    "geom:area_square_m": 127829790.054486,
+    "geom:area_square_m": 127829862.135111,
     "geom:bbox": "-6.387058,53.298882,-6.113095,53.410992",
     "geom:latitude": 53.35813021582371,
     "geom:longitude": -6.251624539309558,
     "iso:country": "IE",
     "label:eng_x_preferred_longname": [
-      "Dublin City County"
+      "Dublin City"
     ],
     "label:eng_x_preferred_placetype": [
-      "county"
+      "city"
     ],
     "label:eng_x_preferred_shortcode": [
       "DN"
+    ],
+    "label:eng_x_variant_longname": [
+      "Dublin City County",
+      "County of Dublin City"
     ],
     "label:gle_x_preferred_longname": [
       "Baile Átha Cliath"
@@ -31,11 +36,14 @@
     "mps:latitude": 53.355217,
     "mps:longitude": -6.278252,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:max_zoom": 11,
     "mz:min_zoom": 9,
     "name:eng_x_preferred": [
       "Dublin City"
+    ],
+    "name:fra_x_preferred": [
+      "Dublin"
     ],
     "name:gle_x_preferred": [
       "Baile Átha Cliath"
@@ -132,7 +140,7 @@
       101751737
     ],
     "wof:country": "IE",
-    "wof:created": 1624906882,
+    "wof:created": 1652218029,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -153,11 +161,11 @@
       "eng",
       "gle"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218029,
     "wof:name": "Dublin City",
     "wof:parent_id": 85633241,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-ie",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "DN",
     "wof:superseded_by": [],
     "wof:supersedes": [],

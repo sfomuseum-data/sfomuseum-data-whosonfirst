@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.014553894075499915,
-    "geom:area_square_m": 179021345.025791,
+    "geom:area_square_m": 179021345.025783,
     "geom:bbox": "-55.258546,5.776715,-55.100418,5.925109",
     "geom:latitude": 5.85988653392904,
     "geom:longitude": -55.18696294304297,
@@ -151,6 +151,9 @@
       "Paramaribo"
     ],
     "name:heb_x_preferred": [
+      "פאראמריבו"
+    ],
+    "name:heb_x_variant": [
       "פרמריבו"
     ],
     "name:hif_x_preferred": [
@@ -511,7 +514,9 @@
       1091712961
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632443,
+    "wof:capital_of": [
+      85632443
+    ],
     "wof:concordances": {
       "gn:id": 3383330,
       "gp:id": 377227,
@@ -542,13 +547,13 @@
       }
     ],
     "wof:id": 890444597,
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218064,
     "wof:name": "Paramaribo",
     "wof:parent_id": 1091712961,
     "wof:placetype": "locality",
     "wof:population": 223757,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-sr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

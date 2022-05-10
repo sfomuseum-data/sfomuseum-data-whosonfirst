@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00029486063400002645,
-    "geom:area_square_m": 2993524.196171,
+    "geom:area_square_m": 2993524.196174,
     "geom:bbox": "-58.547173,-34.828461,-58.513184,-34.791687",
     "geom:latitude": -34.81091359655575,
     "geom:longitude": -58.536620592638926,
@@ -129,11 +129,8 @@
     "oa:elevation_ft": "67",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 20,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ministro Pistarini International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -152,11 +149,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12510496,
       "iata:code": "EZE",
-      "icao:code": "SAEZ"
+      "icao:code": "SAEZ",
+      "oa:id": "5781",
+      "wd:id": "Q384788",
+      "wk:page": "Ministro_Pistarini_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906458,
+    "wof:created": 1652218271,
     "wof:geomhash": "e376a8611628a4521f8272673b544607",
     "wof:hierarchy": [
       {
@@ -168,11 +169,11 @@
       }
     ],
     "wof:id": 102553685,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1652218271,
     "wof:name": "Ministro Pistarini International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.010454005680999447,
-    "geom:area_square_m": 55636300.495399,
+    "geom:area_square_m": 55636300.495405,
     "geom:bbox": "-165.516656,64.462973,-165.322143,64.561083",
     "geom:latitude": 64.5069631786632,
     "geom:longitude": -165.41380575360375,
@@ -118,6 +118,9 @@
     ],
     "name:heb_x_preferred": [
       "נום"
+    ],
+    "name:hin_x_preferred": [
+      "नोम"
     ],
     "name:hun_x_preferred": [
       "Nome"
@@ -389,7 +392,7 @@
       "wk:page": "Nome, Alaska"
     },
     "wof:country": "US",
-    "wof:created": 1624906825,
+    "wof:created": 1652217964,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -407,14 +410,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217964,
     "wof:megacity": 0,
     "wof:name": "Nome",
     "wof:parent_id": 102081401,
     "wof:placetype": "locality",
     "wof:population": 3598,
     "wof:population_rank": 4,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [

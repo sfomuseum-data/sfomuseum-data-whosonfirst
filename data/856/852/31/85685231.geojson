@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.13878053346200026,
-    "geom:area_square_m": 1196260909.675212,
+    "geom:area_square_m": 1196260739.896889,
     "geom:bbox": "8.552317,45.558300,9.066096,46.122136",
     "geom:latitude": 45.80486876791539,
     "geom:longitude": 8.776049889846883,
@@ -83,6 +83,9 @@
       "Provinsen Varese"
     ],
     "name:deu_x_preferred": [
+      "Varese"
+    ],
+    "name:deu_x_variant": [
       "Provinz Varese"
     ],
     "name:ell_x_preferred": [
@@ -413,7 +416,7 @@
       "wd:id": "Q16299"
     },
     "wof:country": "IT",
-    "wof:created": 1624906882,
+    "wof:created": 1652218030,
     "wof:geomhash": "83b5aa3ead042d282e326987fc5e684a",
     "wof:hierarchy": [
       {
@@ -431,14 +434,14 @@
       "ita",
       "fra"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218030,
     "wof:name": "Varese",
     "wof:parent_id": 404227497,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 883285,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "VA",
     "wof:subdivision": "IT-VA",
     "wof:superseded_by": [],

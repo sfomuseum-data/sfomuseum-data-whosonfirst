@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0006523854120000692,
-    "geom:area_square_m": 5905038.203028,
+    "geom:area_square_m": 5905038.203035,
     "geom:bbox": "-87.923370,42.921558,-87.883408,42.960289",
     "geom:latitude": 42.94475427858429,
     "geom:longitude": -87.89939176674645,
@@ -91,11 +91,8 @@
       "密爾瓦基"
     ],
     "sfomuseum:airport_id": 83,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "General Mitchell International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,19 +107,24 @@
     "wof:belongsto": [
       85870975,
       102191575,
-      404494163,
+      404492091,
       85633793,
-      101733063,
+      101732987,
       102081837,
       85688517
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "MKE",
+      "gn:id": 5254139,
+      "gp:id": 12519880,
       "iata:code": "MKE",
-      "icao:code": "KMKE"
+      "icao:code": "KMKE",
+      "wd:id": "Q537950",
+      "wk:page": "General Mitchell International Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906809,
+    "wof:created": 1652218172,
     "wof:geomhash": "326e43f9ddb40e24b63f5b7a834d609c",
     "wof:hierarchy": [
       {
@@ -130,18 +132,18 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081837,
-        "localadmin_id": 404494163,
-        "locality_id": 101733063,
+        "localadmin_id": 404492091,
+        "locality_id": 101732987,
         "neighbourhood_id": 85870975,
         "region_id": 85688517
       }
     ],
     "wof:id": 102530849,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218172,
     "wof:name": "General Mitchell International Airport",
     "wof:parent_id": 85870975,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

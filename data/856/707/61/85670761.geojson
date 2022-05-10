@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01965152349699972,
-    "geom:area_square_m": 194763453.390688,
+    "geom:area_square_m": 194763777.522576,
     "geom:bbox": "2.966310,36.649934,3.229808,36.814964",
     "geom:latitude": 36.724377100015474,
     "geom:longitude": 3.0904181304299447,
@@ -30,10 +30,16 @@
     "mz:max_zoom": 11,
     "mz:min_zoom": 7.7,
     "name:ara_x_preferred": [
+      "الجزائر"
+    ],
+    "name:ara_x_variant": [
       "ولاية الجزائر"
     ],
     "name:bel_x_preferred": [
       "правінцыя Алжыр"
+    ],
+    "name:ben_x_preferred": [
+      "আলজের"
     ],
     "name:bul_x_preferred": [
       "Алжир"
@@ -72,8 +78,14 @@
     "name:glg_x_preferred": [
       "Provincia de Alxer"
     ],
+    "name:heb_x_preferred": [
+      "אלגר"
+    ],
     "name:hin_x_preferred": [
       "अल्जीयर्स प्रांत"
+    ],
+    "name:hun_x_preferred": [
+      "Algír"
     ],
     "name:ind_x_preferred": [
       "Provinsi Aljir"
@@ -285,7 +297,7 @@
       "wd:id": "Q141026"
     },
     "wof:country": "DZ",
-    "wof:created": 1624906858,
+    "wof:created": 1652217954,
     "wof:geomhash": "fddafee0ee84b7722139e8940318fb00",
     "wof:hierarchy": [
       {
@@ -303,14 +315,14 @@
       "ara",
       "fra"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217954,
     "wof:name": "Alger",
     "wof:parent_id": 85632451,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 2988145,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-dz",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "AL",
     "wof:subdivision": "DZ-16",
     "wof:superseded_by": [],

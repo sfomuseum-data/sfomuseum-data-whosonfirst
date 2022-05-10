@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.11937102341050004,
-    "geom:area_square_m": 898797356.977896,
+    "geom:area_square_m": 898797356.9779,
     "geom:bbox": "-2.206882,52.347725,-1.423938,52.662717",
     "geom:latitude": 52.4883486481975,
     "geom:longitude": -1.874573522869789,
@@ -41,6 +41,9 @@
     ],
     "name:fas_x_preferred": [
       "میدلندز غربی"
+    ],
+    "name:fra_x_preferred": [
+      "Midlands de l'Ouest"
     ],
     "name:frr_x_preferred": [
       "Waast Madlunen"
@@ -103,7 +106,7 @@
       "digitalenvoy:metro_code": 826042
     },
     "wof:country": "GB",
-    "wof:created": 1624906759,
+    "wof:created": 1652218083,
     "wof:geomhash": "ec857b6e7512e60bc2c4db3303417752",
     "wof:hierarchy": [
       {
@@ -123,11 +126,11 @@
       "gla",
       "gle"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218083,
     "wof:name": "West Midlands",
     "wof:parent_id": 404227469,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

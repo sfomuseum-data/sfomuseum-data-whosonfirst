@@ -90,11 +90,8 @@
     "oa:elevation_ft": "135",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 258,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tocumen International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 1439,
@@ -113,11 +110,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515432,
       "iata:code": "PTY",
-      "icao:code": "MPTO"
+      "icao:code": "MPTO",
+      "oa:id": "4793",
+      "wd:id": "Q1420178",
+      "wk:page": "Tocumen_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1652218250,
     "wof:geomhash": "10512e5a8477213b9a96043194f8b9fb",
     "wof:hierarchy": [
       {
@@ -129,11 +130,11 @@
       }
     ],
     "wof:id": 102547051,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218250,
     "wof:name": "Tocumen International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

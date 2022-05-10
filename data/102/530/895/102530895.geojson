@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00006296206149998724,
-    "geom:area_square_m": 555664.516488,
+    "geom:area_square_m": 555664.516489,
     "geom:bbox": "-83.380783,44.450554,-83.357231,44.479374",
     "geom:latitude": 44.46112601286219,
     "geom:longitude": -83.36930092709444,
@@ -60,37 +60,31 @@
       "planet_id": 1,
       "state_id": 2347581
     },
-    "wof:belongsto": [
-      85688599,
-      102191575,
-      404507707,
-      85633793,
-      102083001
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "OSC",
       "icao:code": "KOSC"
     },
     "wof:country": "US",
-    "wof:created": 1624906809,
+    "wof:created": 1652218173,
     "wof:geomhash": "9a1ebbb87af7c8927d84fffc676a275d",
     "wof:hierarchy": [
       {
         "campus_id": 102530895,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102083001,
-        "localadmin_id": 404507707,
-        "region_id": 85688599
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102530895,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218173,
     "wof:name": "Wurtsmith Air Force Base",
-    "wof:parent_id": 404507707,
+    "wof:parent_id": 1729432525,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

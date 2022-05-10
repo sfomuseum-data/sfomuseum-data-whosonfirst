@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0000017949724999973354,
-    "geom:area_square_m": 15200.603821,
+    "geom:area_square_m": 15200.60382,
     "geom:bbox": "-100.763977,46.774216,-100.757500,46.779148",
     "geom:latitude": 46.77581576180163,
     "geom:longitude": -100.7592217141554,
@@ -90,20 +90,19 @@
       "state_id": 2347593
     },
     "wof:belongsto": [
-      85876285,
+      85688525,
       102191575,
       404478811,
       85633793,
       85982651,
-      102082107,
-      85688525
+      102082107
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "icao:code": "KBIS"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218135,
     "wof:geomhash": "30c676aefc082f5eb12b75bb993f1292",
     "wof:hierarchy": [
       {
@@ -113,16 +112,16 @@
         "county_id": 102082107,
         "localadmin_id": 404478811,
         "locality_id": 85982651,
-        "neighbourhood_id": 85876285,
+        "neighbourhood_id": -1,
         "region_id": 85688525
       }
     ],
     "wof:id": 102527655,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218135,
     "wof:name": "Bismarck Municipal Airport",
-    "wof:parent_id": 85876285,
+    "wof:parent_id": 85982651,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

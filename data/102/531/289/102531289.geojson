@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00003501443399999974,
-    "geom:area_square_m": 307487.313349,
+    "geom:area_square_m": 307487.31335,
     "geom:bbox": "-85.599998,44.743023,-85.590034,44.754726",
     "geom:latitude": 44.749708769188054,
     "geom:longitude": -85.59567220904081,
@@ -66,6 +66,7 @@
       102191575,
       404506553,
       85633793,
+      1729472291,
       102083133
     ],
     "wof:breaches": [],
@@ -73,7 +74,7 @@
       "iata:code": "TVC"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218183,
     "wof:geomhash": "07be86bc8b213c5122cc30d08594ac52",
     "wof:hierarchy": [
       {
@@ -82,15 +83,17 @@
         "country_id": 85633793,
         "county_id": 102083133,
         "localadmin_id": 404506553,
+        "locality_id": 1729472291,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102531289,
-    "wof:lastmodified": 1626825280,
+    "wof:lastmodified": 1652218183,
     "wof:name": "Cherry Capital Airport",
-    "wof:parent_id": 404506553,
+    "wof:parent_id": 1729472291,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

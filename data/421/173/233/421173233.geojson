@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.05521323625849987,
-    "geom:area_square_m": 682716854.753117,
+    "geom:area_square_m": 682716854.75321,
     "geom:bbox": "-78.598411,-0.448559,-78.331483,-0.035300",
     "geom:latitude": -0.21423337177439497,
     "geom:longitude": -78.46809034132323,
@@ -17,7 +17,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "mz:min_zoom": 12,
+    "mz:min_zoom": 4,
     "mz:note": "quattroshapes points import (201603)",
     "name:ady_x_preferred": [
       "Кито"
@@ -469,13 +469,17 @@
     "wof:belongsto": [
       102191577,
       85632261,
-      85670945,
-      421188131
+      421188131,
+      85670945
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632261,
+    "wof:capital_of": [
+      85632261
+    ],
     "wof:concordances": {
+      "gn:id": 3652462,
       "gp:id": 375732,
+      "ne:id": 1159150847,
       "qs_pg:id": 284589,
       "wd:id": "Q2900"
     },
@@ -495,11 +499,12 @@
       }
     ],
     "wof:id": 421173233,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217875,
+    "wof:megacity": 1,
     "wof:name": "Quito",
     "wof:parent_id": 421188131,
     "wof:placetype": "locality",
-    "wof:repo": "whosonfirst-data-admin-ec",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

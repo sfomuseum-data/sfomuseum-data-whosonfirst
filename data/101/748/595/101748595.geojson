@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.018023459268500033,
-    "geom:area_square_m": 141140008.26857,
+    "geom:area_square_m": 141140008.268569,
     "geom:bbox": "7.023486,50.631866,7.210872,50.774435",
     "geom:latitude": 50.70581226099376,
     "geom:longitude": 7.109812514227106,
@@ -509,12 +509,12 @@
     "wd:population": 311287,
     "wd:wordcount": 4713,
     "wof:belongsto": [
-      85682513,
       102191581,
       85633111,
+      102063661,
       1377689971,
       404227541,
-      102063661
+      85682513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -528,10 +528,11 @@
       "qs_pg:id": 785914
     },
     "wof:coterminous": [
-      102063661
+      102063661,
+      1377689971
     ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217804,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -549,13 +550,13 @@
       }
     ],
     "wof:id": 101748595,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217804,
     "wof:name": "Bonn",
     "wof:parent_id": 1377689971,
     "wof:placetype": "locality",
     "wof:population": 311287,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125334119,

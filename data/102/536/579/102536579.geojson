@@ -2,10 +2,10 @@
   "id": 102536579,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1910-01-01",
-    "date:inception_upper": "1910-12-31",
+    "date:inception_lower": "2006-01-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "..",
-    "edtf:inception": "1910",
+    "edtf:inception": "2006",
     "geom:area": 0.0006932404364999356,
     "geom:area_square_m": 8083776.079112,
     "geom:bbox": "-99.108055,19.407827,-99.061935,19.462181",
@@ -137,11 +137,8 @@
     "oa:elevation_ft": "7316",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 81,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Benito Juárez International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -164,11 +161,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12514910,
       "iata:code": "MEX",
-      "icao:code": "MMMX"
+      "icao:code": "MMMX",
+      "oa:id": "4731",
+      "wd:id": "Q860559",
+      "wk:page": "Mexico_City_International_Airport"
     },
     "wof:country": "MX",
-    "wof:created": 1640217806,
+    "wof:created": 1640648569,
     "wof:geomhash": "8c353744ea508c312239af04a8262e3e",
     "wof:hierarchy": [
       {
@@ -193,13 +194,15 @@
       }
     ],
     "wof:id": 102536579,
-    "wof:lastmodified": 1640813906,
+    "wof:lastmodified": 1652218228,
     "wof:name": "Benito Juarez International Airport",
     "wof:parent_id": 85793999,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746899309
+    ],
     "wof:tags": [
       "airport"
     ]

@@ -41,11 +41,8 @@
     "oa:elevation_ft": "1002",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 24,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Chanute Martin Johnson Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 173,
@@ -65,11 +62,16 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "CNU",
+      "gp:id": 12519134,
       "iata:code": "CNU",
-      "icao:code": "KCNU"
+      "icao:code": "KCNU",
+      "oa:id": "19527",
+      "wd:id": "Q1836163",
+      "wk:page": "Chanute_Martin_Johnson_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218183,
     "wof:geomhash": "76fb7706c3f5b3d2c017344492ac7ba2",
     "wof:hierarchy": [
       {
@@ -79,15 +81,16 @@
         "county_id": 102084157,
         "localadmin_id": 404504633,
         "locality_id": 85945557,
+        "neighbourhood_id": -1,
         "region_id": 85688555
       }
     ],
     "wof:id": 102531363,
-    "wof:lastmodified": 1626825280,
+    "wof:lastmodified": 1652218183,
     "wof:name": "Chanute Martin Johnson Airport",
     "wof:parent_id": 85945557,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

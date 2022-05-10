@@ -538,11 +538,13 @@
     "wof:belongsto": [
       102191569,
       85632299,
-      85676749,
-      1377149699
+      1377149699,
+      85676749
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632299,
+    "wof:capital_of": [
+      85632299
+    ],
     "wof:concordances": {
       "gn:id": 290030,
       "qs:id": 124079,
@@ -562,13 +564,13 @@
       }
     ],
     "wof:id": 890441607,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218062,
     "wof:name": "Doha",
     "wof:parent_id": 1377149699,
     "wof:placetype": "locality",
     "wof:population": 344939,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-qa",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [
       421190363
     ],

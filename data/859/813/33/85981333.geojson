@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.07780037208600006,
-    "geom:area_square_m": 786029392.976399,
+    "geom:area_square_m": 786029392.976815,
     "geom:bbox": "-81.009554,35.010518,-80.651516,35.400226",
     "geom:latitude": 35.20794352185807,
     "geom:longitude": -80.82939278552121,
@@ -133,6 +133,9 @@
       "Charlotte"
     ],
     "name:heb_x_preferred": [
+      "שרלוט"
+    ],
+    "name:heb_x_variant": [
       "שארלוט"
     ],
     "name:hin_x_preferred": [
@@ -467,8 +470,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688773,
-      102080981
+      102080981,
+      85688773
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -476,11 +479,12 @@
       "gn:id": 4460243,
       "gp:id": 2378426,
       "loc:id": "n79022863",
+      "ne:id": 1159147443,
       "wd:id": "Q16565",
       "wk:page": "Charlotte, North Carolina"
     },
     "wof:country": "US",
-    "wof:created": 1624906864,
+    "wof:created": 1652218056,
     "wof:geomhash": "704e0d9f06d3cd040f7358e7d353e719",
     "wof:hierarchy": [
       {
@@ -495,13 +499,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218056,
     "wof:megacity": 1,
     "wof:name": "Charlotte",
     "wof:parent_id": 102080981,
     "wof:placetype": "locality",
     "wof:population": 842051,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:population_rank": 11,
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0026883685625000743,
-    "geom:area_square_m": 22351409.816143,
+    "geom:area_square_m": 22351409.816142,
     "geom:bbox": "7.282525,47.721942,7.368264,47.783092",
     "geom:latitude": 47.748945323073926,
     "geom:longitude": 7.32534551702396,
@@ -552,14 +552,14 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683381,
       102191581,
-      404228255,
-      1159321825,
       85633147,
-      1108826391,
+      102072565,
       136253037,
-      102072565
+      1159321825,
+      404228255,
+      1108826391,
+      85683381
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -572,10 +572,11 @@
       "wk:page": "Mulhouse"
     },
     "wof:coterminous": [
-      1159321825
+      1159321825,
+      102072565
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217806,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -598,13 +599,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217806,
     "wof:name": "Mulhouse",
     "wof:parent_id": 1159321825,
     "wof:placetype": "locality",
     "wof:population": 111430,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

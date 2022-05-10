@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0005857970160000799,
-    "geom:area_square_m": 6397279.447659,
+    "geom:area_square_m": 6397279.447663,
     "geom:bbox": "-82.551132,27.960051,-82.512497,27.988735",
     "geom:latitude": 27.972154283953337,
     "geom:longitude": -82.53111408581283,
@@ -108,11 +108,8 @@
     "oa:elevation_ft": "26",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 140,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tampa International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -134,11 +131,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "TPA",
+      "gn:id": 4174772,
+      "gp:id": 12522077,
       "iata:code": "TPA",
-      "icao:code": "KTPA"
+      "icao:code": "KTPA",
+      "oa:id": "3926",
+      "wd:id": "Q571536",
+      "wk:page": "Tampa_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218202,
     "wof:geomhash": "81e16891ac6c8ad93f85c09d9ff9a1fc",
     "wof:hierarchy": [
       {
@@ -152,11 +155,11 @@
       }
     ],
     "wof:id": 102533243,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218202,
     "wof:name": "Tampa International Airport",
     "wof:parent_id": 85873207,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

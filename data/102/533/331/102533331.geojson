@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1946",
     "geom:area": 0.00011028946550000841,
-    "geom:area_square_m": 919142.220495,
+    "geom:area_square_m": 919142.220496,
     "geom:bbox": "-117.541779,47.619507,-117.520721,47.633408",
     "geom:latitude": 47.62487656785602,
     "geom:longitude": -117.53191526543895,
@@ -77,11 +77,8 @@
     "oa:elevation_ft": "2376",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 256,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Spokane International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -101,11 +98,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "GEG",
+      "gn:id": 5811713,
+      "gp:id": 12521938,
       "iata:code": "GEG",
-      "icao:code": "KGEG"
+      "icao:code": "KGEG",
+      "oa:id": "3552",
+      "wd:id": "Q917528",
+      "wk:page": "Spokane_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218203,
     "wof:geomhash": "9ba1513363cf084b4f1ca726f2622c41",
     "wof:hierarchy": [
       {
@@ -118,11 +121,11 @@
       }
     ],
     "wof:id": 102533331,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218203,
     "wof:name": "Spokane International Airport",
     "wof:parent_id": 101730021,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

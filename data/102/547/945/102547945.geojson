@@ -131,8 +131,6 @@
     "oa:elevation_ft": "427",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 287,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Roma-Ciampino International Airport",
     "sfomuseum:placetype": "airport",
     "src:geom": "woedb",
@@ -155,11 +153,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22307480,
       "iata:code": "CIA",
-      "icao:code": "LIRA"
+      "icao:code": "LIRA",
+      "oa:id": "4370",
+      "wd:id": "Q1132616",
+      "wk:page": "Ciampino%E2%80%93G._B._Pastine_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1640221753,
+    "wof:created": 1652218254,
     "wof:geomhash": "b2e8e8191bd365dc1b70e5884795d7bb",
     "wof:hierarchy": [
       {
@@ -173,7 +175,7 @@
       }
     ],
     "wof:id": 102547945,
-    "wof:lastmodified": 1640813906,
+    "wof:lastmodified": 1652218254,
     "wof:name": "Ciampino Airport",
     "wof:parent_id": 101914197,
     "wof:placetype": "campus",

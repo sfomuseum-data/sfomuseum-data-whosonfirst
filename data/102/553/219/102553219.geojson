@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0008409973105000561,
-    "geom:area_square_m": 10067090.649518,
+    "geom:area_square_m": 10067090.649517,
     "geom:bbox": "120.996895,14.495392,121.045174,14.532336",
     "geom:latitude": 14.516982173456409,
     "geom:longitude": 121.01881171447913,
@@ -107,11 +107,8 @@
     "oa:elevation_ft": "75",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 77,
-    "sfomuseum:count_objects_public": 2,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ninoy Aquino International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -131,11 +128,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515637,
       "iata:code": "MNL",
-      "icao:code": "RPLL"
+      "icao:code": "RPLL",
+      "oa:id": "5689",
+      "wd:id": "Q86446",
+      "wk:page": "Ninoy_Aquino_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906458,
+    "wof:created": 1652218270,
     "wof:geomhash": "c06fd8a87186a474b9d6e692bc3d5003",
     "wof:hierarchy": [
       {
@@ -148,11 +149,11 @@
       }
     ],
     "wof:id": 102553219,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218270,
     "wof:name": "Ninoy Aquino International Airport",
     "wof:parent_id": 85902779,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

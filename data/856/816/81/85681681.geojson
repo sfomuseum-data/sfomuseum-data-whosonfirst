@@ -5,19 +5,28 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.8530437275485049,
-    "geom:area_square_m": 7141208686.928351,
+    "geom:area_square_m": 7141207990.073195,
     "geom:bbox": "12.076097,46.943856,13.996124,48.041466",
     "geom:latitude": 47.38854019853801,
     "geom:longitude": 13.084288137937131,
     "iso:country": "AT",
+    "label:deu_x_preferred_longname": [
+      "Salzburg"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "länder"
+    ],
+    "label:deu_x_preferred_shortcode": [
+      "SZ"
+    ],
     "label:eng_x_preferred_longname": [
       "Salzburg State"
     ],
     "label:eng_x_preferred_placetype": [
       "state"
     ],
-    "label:eng_x_preferred_shortcode": [
-      "SZ"
+    "label:eng_x_variant_longname": [
+      "State of Salzburg"
     ],
     "lbl:latitude": 47.347177,
     "lbl:longitude": 13.243764,
@@ -417,10 +426,11 @@
       "hasc:id": "AT.SZ",
       "iso:id": "AT-5",
       "unlc:id": "AT-5",
-      "wd:id": "Q43325"
+      "wd:id": "Q43325",
+      "wk:page": "Salzburg_(state)"
     },
     "wof:country": "AT",
-    "wof:created": 1624906875,
+    "wof:created": 1652218010,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -442,7 +452,7 @@
       "slv",
       "hun"
     ],
-    "wof:lastmodified": 1626825087,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Salzburg",
     "wof:parent_id": 85632785,
     "wof:placetype": "region",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.17672762404950018,
-    "geom:area_square_m": 1558067397.988925,
+    "geom:area_square_m": 1558067397.988884,
     "geom:bbox": "25.823759,44.215600,26.463456,44.768923",
     "geom:latitude": 44.52146400958735,
     "geom:longitude": 26.14714687935118,
@@ -47,6 +47,9 @@
       "Província dIlfov"
     ],
     "name:deu_x_preferred": [
+      "Ilfov"
+    ],
+    "name:deu_x_variant": [
       "Kreis Ilfov"
     ],
     "name:eng_x_preferred": [
@@ -66,6 +69,9 @@
     ],
     "name:glg_x_preferred": [
       "Condado de Ilfov"
+    ],
+    "name:heb_x_preferred": [
+      "אילפוב"
     ],
     "name:hun_x_preferred": [
       "Ilfov megye"
@@ -105,6 +111,9 @@
     ],
     "name:pol_x_preferred": [
       "Okręg Ilfov"
+    ],
+    "name:rom_x_preferred": [
+      "Ilfov"
     ],
     "name:ron_x_preferred": [
       "Ilfov"
@@ -245,7 +254,7 @@
       "unlc:id": "RO-IF"
     },
     "wof:country": "RO",
-    "wof:created": 1624906890,
+    "wof:created": 1652218045,
     "wof:geomhash": "f604a9d2b587937cf7cca9a42b5776fc",
     "wof:hierarchy": [
       {
@@ -261,14 +270,14 @@
     "wof:lang_x_spoken": [
       "ron"
     ],
-    "wof:lastmodified": 1626825093,
+    "wof:lastmodified": 1652218045,
     "wof:name": "Ilfov",
     "wof:parent_id": 85633745,
     "wof:placetype": "region",
     "wof:placetype_local": "county",
     "wof:population": 388738,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-ro",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "IF",
     "wof:subdivision": "RO-IF",
     "wof:superseded_by": [],

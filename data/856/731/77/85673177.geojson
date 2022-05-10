@@ -5,20 +5,29 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.091822973198,
-    "geom:area_square_m": 899989129.058851,
+    "geom:area_square_m": 899988326.514331,
     "geom:bbox": "125.746223,36.920361,126.790115,37.831151",
     "geom:latitude": 37.56521891244015,
     "geom:longitude": 126.48044504895142,
     "gn:population": 2900898,
     "iso:country": "KR",
     "label:eng_x_preferred_longname": [
-      "Incheon Metropolitan City"
+      "Incheon"
     ],
     "label:eng_x_preferred_placetype": [
       "metropolitan city"
     ],
     "label:eng_x_preferred_shortcode": [
       "IN"
+    ],
+    "label:eng_x_variant_longname": [
+      "Incheon Metropolitan City"
+    ],
+    "label:kor_x_preferred_longname": [
+      "인천광역시"
+    ],
+    "label:kor_x_preferred_placetype": [
+      "역시"
     ],
     "lbl:latitude": 37.532056,
     "lbl:longitude": 126.704113,
@@ -445,8 +454,8 @@
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-11-01",
+    "src:population": "wk",
+    "src:population_date": "2017-01-01",
     "statoids:area_km": "965",
     "statoids:area_mi": "373",
     "statoids:as_of_date": "2010-11-01",
@@ -476,7 +485,7 @@
       "wk:page": "Incheon"
     },
     "wof:country": "KR",
-    "wof:created": 1624906863,
+    "wof:created": 1652217967,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -495,14 +504,14 @@
     "wof:lang_x_spoken": [
       "kor"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217968,
     "wof:name": "Incheon",
     "wof:parent_id": 85632231,
     "wof:placetype": "region",
     "wof:placetype_local": "metropolitan city",
-    "wof:population": 2632035,
+    "wof:population": 2925967,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-kr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "IN",
     "wof:superseded_by": [],
     "wof:supersedes": [],

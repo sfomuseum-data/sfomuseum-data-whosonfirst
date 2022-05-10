@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.006967751630499917,
-    "geom:area_square_m": 64880232.787559,
+    "geom:area_square_m": 64880232.787712,
     "geom:bbox": "-104.860889,41.095846,-104.677113,41.192889",
     "geom:latitude": 41.14549011267399,
     "geom:longitude": -104.78988619019285,
@@ -351,10 +351,11 @@
       "Hell on Wheels"
     ],
     "name:urd_x_preferred": [
-      "شاین، وائیومنگ"
+      "چینے"
     ],
     "name:urd_x_variant": [
-      "شاین"
+      "شاین",
+      "شاین، وائیومنگ"
     ],
     "name:uzb_x_preferred": [
       "Cheyenne"
@@ -363,6 +364,9 @@
       "Cheyenne"
     ],
     "name:vie_x_preferred": [
+      "Sông Cheyenne"
+    ],
+    "name:vie_x_variant": [
       "Cheyenne"
     ],
     "name:vol_x_preferred": [
@@ -508,6 +512,9 @@
       102080769
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85688475
+    ],
     "wof:concordances": {
       "dbp:id": "Cheyenne%2C_Wyoming",
       "fb:id": "en.cheyenne_wyoming",
@@ -522,7 +529,7 @@
       "wk:page": "Cheyenne, Wyoming"
     },
     "wof:country": "US",
-    "wof:created": 1624906514,
+    "wof:created": 1652217783,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -540,14 +547,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217783,
     "wof:megacity": 0,
     "wof:name": "Cheyenne",
     "wof:parent_id": 102080769,
     "wof:placetype": "locality",
     "wof:population": 59466,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [

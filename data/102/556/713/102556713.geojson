@@ -206,11 +206,8 @@
     "oa:elevation_ft": "202",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 69,
-    "sfomuseum:count_objects_public": 4,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "London Gatwick Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -232,11 +229,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23387567,
       "iata:code": "LGW",
-      "icao:code": "EGKK"
+      "icao:code": "EGKK",
+      "oa:id": "2429",
+      "wd:id": "Q8703",
+      "wk:page": "London_Gatwick_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218287,
     "wof:geomhash": "dac71ce9f1d81cfa8b81a8057155c3d7",
     "wof:hierarchy": [
       {
@@ -251,7 +252,7 @@
       }
     ],
     "wof:id": 102556713,
-    "wof:lastmodified": 1648683810,
+    "wof:lastmodified": 1652218287,
     "wof:name": "London Gatwick Airport",
     "wof:parent_id": 101750321,
     "wof:placetype": "campus",

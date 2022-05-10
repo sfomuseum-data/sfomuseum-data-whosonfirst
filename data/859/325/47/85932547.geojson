@@ -51,6 +51,9 @@
       "Джэксанвіл"
     ],
     "name:ben_x_preferred": [
+      "জ্যাকসনভিলে"
+    ],
+    "name:ben_x_variant": [
       "জ্যাক্সনভিল"
     ],
     "name:bos_x_preferred": [
@@ -475,7 +478,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -502,13 +505,14 @@
       "gn:id": 4160021,
       "gp:id": 2428344,
       "loc:id": "n79058293",
+      "ne:id": 1159149281,
       "nyt:id": "60009839160131139481",
       "qs_pg:id": 822003,
       "wd:id": "Q16568",
       "wk:page": "Jacksonville, Florida"
     },
     "wof:country": "US",
-    "wof:created": 1624906859,
+    "wof:created": 1652217999,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -526,14 +530,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217999,
     "wof:megacity": 1,
     "wof:name": "Jacksonville",
     "wof:parent_id": 102084753,
     "wof:placetype": "locality",
     "wof:population": 821784,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 4,
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0030608569579996785,
-    "geom:area_square_m": 36747051.679939,
+    "geom:area_square_m": 36747051.679965,
     "geom:bbox": "-171.799068,-13.884414,-171.721065,-13.814913",
     "geom:latitude": -13.853917061191785,
     "geom:longitude": -171.76133063031756,
@@ -385,7 +385,9 @@
       85680915
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632681,
+    "wof:capital_of": [
+      85632681
+    ],
     "wof:concordances": {
       "gn:id": 4035413,
       "gp:id": 980858,
@@ -412,7 +414,7 @@
       }
     ],
     "wof:id": 890416609,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218060,
     "wof:name": "Apia",
     "wof:parent_id": 85680915,
     "wof:placetype": "locality",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00020575847750006708,
-    "geom:area_square_m": 1737723.617205,
+    "geom:area_square_m": 1737723.617203,
     "geom:bbox": "-96.825867,46.908718,-96.808334,46.932499",
     "geom:latitude": 46.92125198083549,
     "geom:longitude": -96.81820259903327,
@@ -87,11 +87,8 @@
     "oa:elevation_ft": "902",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 245,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Hector International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -113,11 +110,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "FAR",
+      "gn:id": 5059605,
+      "gp:id": 12520153,
       "iata:code": "FAR",
-      "icao:code": "KFAR"
+      "icao:code": "KFAR",
+      "oa:id": "3523",
+      "wd:id": "Q2699491",
+      "wk:page": "Hector_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218194,
     "wof:geomhash": "709c4ff58b3d6151098dd2dcbcb84dc0",
     "wof:hierarchy": [
       {
@@ -127,15 +130,16 @@
         "county_id": 102082073,
         "localadmin_id": 404478877,
         "locality_id": 85982177,
+        "neighbourhood_id": -1,
         "region_id": 85688525
       }
     ],
     "wof:id": 102532465,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218194,
     "wof:name": "Hector International Airport",
     "wof:parent_id": 85982177,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

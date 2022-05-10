@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00000662228050000915,
-    "geom:area_square_m": 60977.968893,
+    "geom:area_square_m": 60977.968894,
     "geom:bbox": "-103.597855,41.867085,-103.593803,41.870850",
     "geom:latitude": 41.86914101119433,
     "geom:longitude": -103.59568412004442,
@@ -63,6 +63,7 @@
       102191575,
       404520995,
       85633793,
+      1729478905,
       102082781
     ],
     "wof:breaches": [],
@@ -70,7 +71,7 @@
       "iata:code": "BFF"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218185,
     "wof:geomhash": "b188b6f76801f1f6d5ed9bda7614c85d",
     "wof:hierarchy": [
       {
@@ -79,15 +80,17 @@
         "country_id": 85633793,
         "county_id": 102082781,
         "localadmin_id": 404520995,
+        "locality_id": 1729478905,
+        "neighbourhood_id": -1,
         "region_id": 85688563
       }
     ],
     "wof:id": 102531629,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218185,
     "wof:name": "William B Heilig Field Airport",
-    "wof:parent_id": 404520995,
+    "wof:parent_id": 1729478905,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

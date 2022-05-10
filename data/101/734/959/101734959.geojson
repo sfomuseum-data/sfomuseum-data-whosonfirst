@@ -364,12 +364,18 @@
       "Вінніпеґ"
     ],
     "name:urd_x_preferred": [
+      "ونیپیگ"
+    ],
+    "name:urd_x_variant": [
       "ونی پیگ"
     ],
     "name:uzb_x_preferred": [
       "Vinnipeg"
     ],
     "name:vie_x_preferred": [
+      "Sông Winnipeg"
+    ],
+    "name:vie_x_variant": [
       "Winnipeg"
     ],
     "name:vol_x_preferred": [
@@ -510,7 +516,7 @@
     "qs:pop": 0,
     "qs:source": "NCanada Census",
     "qs:type": "City",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -522,10 +528,13 @@
     "wof:belongsto": [
       102191575,
       85633041,
-      1158868941,
-      85682085
+      85682085,
+      1158868941
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85682085
+    ],
     "wof:concordances": {
       "fct:id": "03c040fe-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 6183235,
@@ -535,7 +544,7 @@
       "wk:page": "Winnipeg"
     },
     "wof:country": "CA",
-    "wof:created": 1624906514,
+    "wof:created": 1652217785,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -554,14 +563,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217785,
     "wof:megacity": 0,
     "wof:name": "Winnipeg",
     "wof:parent_id": 1158868941,
     "wof:placetype": "locality",
     "wof:population": 632063,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-ca",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

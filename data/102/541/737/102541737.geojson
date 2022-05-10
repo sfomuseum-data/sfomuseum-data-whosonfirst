@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1988-07-06",
     "geom:area": 0.0010182115829998992,
-    "geom:area_square_m": 11648379.624947,
+    "geom:area_square_m": 11648379.624946,
     "geom:bbox": "113.893898,22.285046,113.946320,22.324692",
     "geom:latitude": 22.304422136765325,
     "geom:longitude": 113.92348024257346,
@@ -24,15 +24,16 @@
     "name:eng_x_preferred": [
       "Hong Kong International Airport"
     ],
+    "name:eng_x_variant": [
+      "HKG",
+      "VHHH"
+    ],
     "name:zho_x_preferred": [
       "香港國際機場"
     ],
     "sfomuseum:airport_id": 51,
-    "sfomuseum:count_objects_public": 2,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Hong Kong International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -49,11 +50,12 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 24875607,
       "iata:code": "HKG",
       "icao:code": "VHHH"
     },
     "wof:country": "HK",
-    "wof:created": 1624906851,
+    "wof:created": 1652218238,
     "wof:geomhash": "0e68a32a43fda09455fe6e0b1da4a947",
     "wof:hierarchy": [
       {
@@ -67,11 +69,11 @@
       }
     ],
     "wof:id": 102541737,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218238,
     "wof:name": "Hong Kong International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-hk",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1360691531

@@ -8,19 +8,25 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5437890678134994,
-    "geom:area_square_m": 4077896669.691111,
+    "geom:area_square_m": 4077896669.691143,
     "geom:bbox": "4.476963,52.165806,5.377261,53.214267",
     "geom:latitude": 52.6642357685015,
     "geom:longitude": 4.911635170638929,
     "iso:country": "NL",
     "label:eng_x_preferred_longname": [
-      "Noord-Holland Province"
+      "North Holland Province"
     ],
     "label:eng_x_preferred_placetype": [
       "province"
     ],
     "label:eng_x_preferred_shortcode": [
       "NH"
+    ],
+    "label:nld_x_preferred_longname": [
+      "Provincie Noord-Holland"
+    ],
+    "label:nld_x_preferred_placetype": [
+      "provincie"
     ],
     "lbl:latitude": 52.827683,
     "lbl:longitude": 4.955985,
@@ -93,9 +99,6 @@
       "Ulànda Setentriunàla"
     ],
     "name:eng_x_preferred": [
-      "Noord-Holland"
-    ],
-    "name:eng_x_variant": [
       "North Holland"
     ],
     "name:epo_x_preferred": [
@@ -423,8 +426,8 @@
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2012-01-01",
+    "src:population": "wk",
+    "src:population_date": "2020-01-01",
     "statoids:area_km": "2,663",
     "statoids:area_mi": "1,028",
     "statoids:as_of_date": "2012-01-01",
@@ -445,6 +448,9 @@
       136253051
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101751897
+    ],
     "wof:concordances": {
       "fips:code": "NL07",
       "gn:id": 2749879,
@@ -455,7 +461,7 @@
       "wd:id": "Q701"
     },
     "wof:country": "NL",
-    "wof:created": 1624906888,
+    "wof:created": 1652218040,
     "wof:geomhash": "febd2bc5cd9b6edda13f56482b0d9407",
     "wof:hierarchy": [
       {
@@ -473,12 +479,12 @@
       "nld",
       "fry"
     ],
-    "wof:lastmodified": 1626825092,
-    "wof:name": "Noord-Holland",
+    "wof:lastmodified": 1652218040,
+    "wof:name": "North Holland",
     "wof:parent_id": 85633337,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
-    "wof:population": 2709822,
+    "wof:population": 2879527,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "NH",

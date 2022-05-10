@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0016839805789999821,
-    "geom:area_square_m": 17019897.247533,
+    "geom:area_square_m": 17019897.247536,
     "geom:bbox": "33.336235,35.153850,33.400200,35.205108",
     "geom:latitude": 35.17759675495778,
     "geom:longitude": 33.36935637502387,
@@ -117,10 +117,10 @@
       "Nikosia"
     ],
     "name:ell_x_preferred": [
-      "Lefkosía"
+      "Λευκωσία"
     ],
     "name:ell_x_variant": [
-      "Λευκωσία"
+      "Lefkosía"
     ],
     "name:eng_x_colloquial": [
       ""
@@ -677,11 +677,13 @@
       102191569,
       85632437,
       85682397,
-      85681187,
-      85632375
+      85632375,
+      85681187
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632437,
+    "wof:capital_of": [
+      85632437
+    ],
     "wof:concordances": {
       "fct:id": "06ef77f4-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 146268,
@@ -691,7 +693,7 @@
       "wk:page": "Nicosia"
     },
     "wof:country": "CY",
-    "wof:created": 1624906515,
+    "wof:created": 1652217803,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -722,14 +724,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217803,
     "wof:megacity": 0,
     "wof:name": "Λευκωσία",
     "wof:parent_id": -4,
     "wof:placetype": "locality",
     "wof:population": 200452,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-cy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

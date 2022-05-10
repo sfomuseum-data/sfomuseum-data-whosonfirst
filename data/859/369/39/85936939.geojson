@@ -124,10 +124,10 @@
       "סוואנה"
     ],
     "name:hin_x_preferred": [
-      "सवान्"
+      "सवाना"
     ],
     "name:hin_x_variant": [
-      "सवाना"
+      "सवान्"
     ],
     "name:hun_x_preferred": [
       "Savannah"
@@ -220,10 +220,10 @@
       "Savannah"
     ],
     "name:spa_x_preferred": [
-      "Sabana"
+      "Savannah"
     ],
     "name:spa_x_variant": [
-      "Savannah"
+      "Sabana"
     ],
     "name:srp_x_preferred": [
       "Савана"
@@ -232,6 +232,9 @@
       "Savannah"
     ],
     "name:swe_x_preferred": [
+      "Savannah River"
+    ],
+    "name:swe_x_variant": [
       "Savannah"
     ],
     "name:szl_x_preferred": [
@@ -268,6 +271,9 @@
       "ساواناہ"
     ],
     "name:vie_x_preferred": [
+      "Sông Savannah"
+    ],
+    "name:vie_x_variant": [
       "Savannah"
     ],
     "name:vol_x_preferred": [
@@ -391,7 +397,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -423,7 +429,7 @@
       "wk:page": "Savannah, Georgia"
     },
     "wof:country": "US",
-    "wof:created": 1624906859,
+    "wof:created": 1652218004,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -441,14 +447,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825084,
+    "wof:lastmodified": 1652218004,
     "wof:megacity": 0,
     "wof:name": "Savannah",
     "wof:parent_id": 102082337,
     "wof:placetype": "locality",
     "wof:population": 136286,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 4,
     "wof:superseded_by": [],
     "wof:supersedes": [

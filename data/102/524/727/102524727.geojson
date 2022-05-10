@@ -2,8 +2,10 @@
   "id": 102524727,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1936-01-01",
+    "date:inception_upper": "1936-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1936",
     "geom:area": 0.00013778927899993937,
     "geom:area_square_m": 1448093.215351,
     "geom:bbox": "-106.410309,31.786501,-106.385834,31.804399",
@@ -87,11 +89,8 @@
     "oa:elevation_ft": "3959",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 239,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "El Paso International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -113,11 +112,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "ELP",
+      "gn:id": 5521012,
+      "gp:id": 12519608,
       "iata:code": "ELP",
-      "icao:code": "KELP"
+      "icao:code": "KELP",
+      "oa:id": "3512",
+      "wd:id": "Q1231062",
+      "wk:page": "El_Paso_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640221182,
+    "wof:created": 1640289694,
     "wof:geomhash": "05d71108559eb3d3ff60fa16cc415956",
     "wof:hierarchy": [
       {
@@ -131,7 +136,7 @@
       }
     ],
     "wof:id": 102524727,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218109,
     "wof:name": "El Paso International Airport",
     "wof:parent_id": 85811021,
     "wof:placetype": "campus",

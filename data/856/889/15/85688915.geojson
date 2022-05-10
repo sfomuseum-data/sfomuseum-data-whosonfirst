@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 11.97942805687108,
-    "geom:area_square_m": 130016895589.48926,
+    "geom:area_square_m": 130016895589.49538,
     "geom:bbox": "24.346620,-30.694080,29.785130,-26.668740",
     "geom:latitude": -28.614403232448897,
     "geom:longitude": 26.867264215186115,
@@ -38,6 +38,9 @@
     "name:eng_x_variant": [
       "Orange Free State",
       "Mpumalanga"
+    ],
+    "name:fra_x_preferred": [
+      "État libre"
     ],
     "name:por_x_preferred": [
       "Estado Livre"
@@ -150,7 +153,7 @@
       "unlc:id": "ZA-FS"
     },
     "wof:country": "ZA",
-    "wof:created": 1624906899,
+    "wof:created": 1652218058,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -179,7 +182,7 @@
       "ven",
       "nbl"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218058,
     "wof:name": "Free State",
     "wof:parent_id": 85633813,
     "wof:placetype": "region",

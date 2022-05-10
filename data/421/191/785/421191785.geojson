@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.005754428179000058,
-    "geom:area_square_m": 69132062.870422,
+    "geom:area_square_m": 69132062.870409,
     "geom:bbox": "-89.276761,13.637354,-89.161960,13.743379",
     "geom:latitude": 13.69367939340832,
     "geom:longitude": -89.21465141822804,
@@ -137,6 +137,9 @@
       "San Salvadò"
     ],
     "name:heb_x_preferred": [
+      "האי סן סלבדור"
+    ],
+    "name:heb_x_variant": [
       "סן סלוודור"
     ],
     "name:hif_x_preferred": [
@@ -431,15 +434,21 @@
       421180907
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632545,
+    "wof:capital_of": [
+      85632545
+    ],
     "wof:concordances": {
       "gn:id": 3583361,
       "gp:id": 79825,
       "loc:id": "n79066410",
+      "ne:id": 1159150853,
       "qs_pg:id": 1155818,
       "wd:id": "Q3110",
       "wk:page": "San Salvador"
     },
+    "wof:coterminous": [
+      421180907
+    ],
     "wof:country": "SV",
     "wof:created": 1459009709,
     "wof:geom_alt": [
@@ -456,13 +465,14 @@
       }
     ],
     "wof:id": 421191785,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217895,
+    "wof:megacity": 1,
     "wof:name": "San Salvador",
     "wof:parent_id": 421180907,
     "wof:placetype": "locality",
     "wof:population": 567698,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-sv",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

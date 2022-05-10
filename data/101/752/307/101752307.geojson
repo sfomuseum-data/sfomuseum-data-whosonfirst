@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.06735405883249997,
-    "geom:area_square_m": 425004269.239645,
+    "geom:area_square_m": 425004269.239692,
     "geom:bbox": "17.774780,59.154747,18.323514,59.498978",
     "geom:latitude": 59.31592335047726,
     "geom:longitude": 18.008066434860837,
@@ -879,14 +879,16 @@
     "wd:population": 917297,
     "wd:wordcount": 9520,
     "wof:belongsto": [
-      85688429,
       102191581,
-      1125362217,
       85633789,
-      1159303035
+      1159303035,
+      1125362217,
+      85688429
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633789,
+    "wof:capital_of": [
+      85633789
+    ],
     "wof:concordances": {
       "dbp:id": "Stockholm",
       "fb:id": "en.stockholm",
@@ -898,7 +900,7 @@
       "wk:page": "Stockholm"
     },
     "wof:country": "SE",
-    "wof:created": 1624906516,
+    "wof:created": 1652217829,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -914,14 +916,14 @@
       }
     ],
     "wof:id": 101752307,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217829,
     "wof:megacity": 1,
     "wof:name": "Stockholm",
     "wof:parent_id": 1125362217,
     "wof:placetype": "locality",
     "wof:population": 917297,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-se",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

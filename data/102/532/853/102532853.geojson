@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1920",
     "geom:area": 0.00018117513849991406,
-    "geom:area_square_m": 1598762.060759,
+    "geom:area_square_m": 1598762.060762,
     "geom:bbox": "-73.168625,44.459438,-73.146690,44.478680",
     "geom:latitude": 44.46747110910282,
     "geom:longitude": -73.15658836062514,
@@ -77,11 +77,8 @@
     "oa:elevation_ft": "335",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 207,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Burlington International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -102,11 +99,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "BTV",
+      "gn:id": 5234381,
+      "gp:id": 12518979,
       "iata:code": "BTV",
-      "icao:code": "KBTV"
+      "icao:code": "KBTV",
+      "oa:id": "3430",
+      "wd:id": "Q2750047",
+      "wk:page": "Burlington_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218197,
     "wof:geomhash": "d3b215d9515ffe8051fa3080ed67ea16",
     "wof:hierarchy": [
       {
@@ -116,15 +119,16 @@
         "county_id": 102087451,
         "localadmin_id": 404527499,
         "locality_id": 101728313,
+        "neighbourhood_id": -1,
         "region_id": 85688763
       }
     ],
     "wof:id": 102532853,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218197,
     "wof:name": "Burlington International Airport",
     "wof:parent_id": 101728313,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -51,11 +51,8 @@
     "oa:elevation_ft": "716",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 237,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Willow Run Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 2919,
@@ -75,11 +72,16 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gn:id": 5015171,
+      "gp:id": 12522472,
       "iata:code": "YIP",
-      "icao:code": "KYIP"
+      "icao:code": "KYIP",
+      "oa:id": "3957",
+      "wd:id": "Q8022363",
+      "wk:page": "Willow_Run_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906954,
+    "wof:created": 1652218186,
     "wof:geomhash": "257e977b595c4545db7b561b4ec81ac6",
     "wof:hierarchy": [
       {
@@ -94,11 +96,11 @@
       }
     ],
     "wof:id": 102531755,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218186,
     "wof:name": "Willow Run Airport",
     "wof:parent_id": 85814345,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

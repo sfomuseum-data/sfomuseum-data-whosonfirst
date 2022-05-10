@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000324296279000064,
-    "geom:area_square_m": 2983149.874206,
+    "geom:area_square_m": 2983149.8742,
     "geom:bbox": "-72.693787,41.922035,-72.667511,41.947903",
     "geom:latitude": 41.93277170097295,
     "geom:longitude": -72.68108391691506,
@@ -96,11 +96,8 @@
     "oa:elevation_ft": "173",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 46,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bradley International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -121,11 +118,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "BDL",
+      "gn:id": 5282636,
+      "gp:id": 12518915,
       "iata:code": "BDL",
-      "icao:code": "KBDL"
+      "icao:code": "KBDL",
+      "oa:id": "3396",
+      "wd:id": "Q1420233",
+      "wk:page": "Bradley_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218195,
     "wof:geomhash": "26a8834054810b61a61bc5f0631657e6",
     "wof:hierarchy": [
       {
@@ -135,15 +138,16 @@
         "county_id": 102085381,
         "localadmin_id": 404495835,
         "locality_id": 85931007,
+        "neighbourhood_id": -1,
         "region_id": 85688629
       }
     ],
     "wof:id": 102532701,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218195,
     "wof:name": "Bradley International Airport",
     "wof:parent_id": 85931007,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

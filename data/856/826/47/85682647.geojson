@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5231717201039976,
-    "geom:area_square_m": 4986341721.289244,
+    "geom:area_square_m": 4986341721.289366,
     "geom:bbox": "1.157241,38.640388,4.327785,40.094574",
     "geom:latitude": 39.574051853121965,
     "geom:longitude": 2.912430281582755,
@@ -556,8 +556,11 @@
       "iso:id": "ES-IB",
       "wd:id": "Q5765"
     },
+    "wof:coterminous": [
+      404227367
+    ],
     "wof:country": "ES",
-    "wof:created": 1624906880,
+    "wof:created": 1652218018,
     "wof:geomhash": "9b1148f67c32fe30ce418e27b3c351af",
     "wof:hierarchy": [
       {
@@ -578,14 +581,14 @@
       "eus",
       "ast"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218018,
     "wof:name": "Balearic Islands",
     "wof:parent_id": 404227367,
     "wof:placetype": "region",
     "wof:placetype_local": "autonomous community",
     "wof:population": 1100503,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-es",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "PM",
     "wof:superseded_by": [],
     "wof:supersedes": [],

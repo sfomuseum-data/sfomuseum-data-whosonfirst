@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5705303780854996,
-    "geom:area_square_m": 4728188154.170512,
+    "geom:area_square_m": 4728188154.170182,
     "geom:bbox": "106.366278,47.303975,108.496241,48.270250",
     "geom:latitude": 47.916004813543104,
     "geom:longitude": 107.16487629763385,
@@ -662,15 +662,18 @@
     "wof:belongsto": [
       102191569,
       85632439,
-      85674783,
-      1092033659
+      1092033659,
+      85674783
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632439,
+    "wof:capital_of": [
+      85632439
+    ],
     "wof:concordances": {
       "gn:id": 2028462,
       "gp:id": 2266535,
       "loc:id": "n82211486",
+      "ne:id": 1159150781,
       "qs_pg:id": 913003,
       "wd:id": "Q23430"
     },
@@ -690,13 +693,14 @@
       }
     ],
     "wof:id": 421186169,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217888,
+    "wof:megacity": 1,
     "wof:name": "Ulan Bator",
     "wof:parent_id": 1092033659,
     "wof:placetype": "locality",
     "wof:population": 844818,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-mn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

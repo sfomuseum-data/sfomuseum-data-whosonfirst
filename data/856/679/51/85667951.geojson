@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1972-02-10",
     "geom:area": 0.22338467938649997,
-    "geom:area_square_m": 2493995968.558377,
+    "geom:area_square_m": 2493994525.105408,
     "geom:bbox": "55.729594,24.820372,56.274683,26.069654",
     "geom:latitude": 25.455722729411246,
     "geom:longitude": 56.03342623711468,
@@ -115,6 +115,9 @@
       "ראס אל-ח'ימה"
     ],
     "name:hin_x_preferred": [
+      "रास अल खैमाह"
+    ],
+    "name:hin_x_variant": [
       "रस अल खैमा"
     ],
     "name:hrv_x_preferred": [
@@ -394,6 +397,9 @@
       85632573
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      890455647
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 25155,
       "fips:code": "AE05",
@@ -408,7 +414,7 @@
       1376833605
     ],
     "wof:country": "AE",
-    "wof:created": 1624906855,
+    "wof:created": 1652217944,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -427,13 +433,13 @@
     "wof:lang_x_spoken": [
       "ara"
     ],
-    "wof:lastmodified": 1626825081,
+    "wof:lastmodified": 1652217944,
     "wof:name": "Ras Al Khaimah",
     "wof:parent_id": 85632573,
     "wof:placetype": "region",
     "wof:population": 345000,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-ae",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "RK",
     "wof:superseded_by": [],
     "wof:supersedes": [],

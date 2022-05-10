@@ -49,11 +49,8 @@
     "oa:elevation_ft": "732",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 242,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Erie International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "wd:wordcount": 636,
@@ -64,20 +61,26 @@
       "state_id": 2347597
     },
     "wof:belongsto": [
-      85829561,
+      85688481,
       102191575,
       404486789,
       85633793,
-      102080955,
-      85688481
+      1729462003,
+      102080955
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "ERI",
+      "gn:id": 5188856,
+      "gp:id": 12519655,
       "iata:code": "ERI",
-      "icao:code": "KERI"
+      "icao:code": "KERI",
+      "oa:id": "3515",
+      "wd:id": "Q5388315",
+      "wk:page": "Erie_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218110,
     "wof:geomhash": "695ad9bc1b0b7e80bb71014b69b4aecf",
     "wof:hierarchy": [
       {
@@ -86,17 +89,17 @@
         "country_id": 85633793,
         "county_id": 102080955,
         "localadmin_id": 404486789,
-        "locality_id": -1,
-        "neighbourhood_id": 85829561,
+        "locality_id": 1729462003,
+        "neighbourhood_id": -1,
         "region_id": 85688481
       }
     ],
     "wof:id": 102524857,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218110,
     "wof:name": "Erie International Airport",
-    "wof:parent_id": 85829561,
+    "wof:parent_id": 1729462003,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

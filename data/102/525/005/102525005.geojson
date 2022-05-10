@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0000012731800000372536,
-    "geom:area_square_m": 11294.380908,
+    "geom:area_square_m": 11294.380909,
     "geom:bbox": "-103.103127,44.155277,-103.100067,44.161587",
     "geom:latitude": 44.15932688468769,
     "geom:longitude": -103.1011566018264,
@@ -94,6 +94,7 @@
       102191575,
       404488999,
       85633793,
+      1729465593,
       102086083
     ],
     "wof:breaches": [],
@@ -101,7 +102,7 @@
       "icao:code": "KRCA"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218113,
     "wof:geomhash": "4cca8565a28c36c221253d4960ffe1a8",
     "wof:hierarchy": [
       {
@@ -110,15 +111,17 @@
         "country_id": 85633793,
         "county_id": 102086083,
         "localadmin_id": 404488999,
+        "locality_id": 1729465593,
+        "neighbourhood_id": -1,
         "region_id": 85688693
       }
     ],
     "wof:id": 102525005,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218113,
     "wof:name": "Ellsworth Air Force Base",
-    "wof:parent_id": 404488999,
+    "wof:parent_id": 1729465593,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

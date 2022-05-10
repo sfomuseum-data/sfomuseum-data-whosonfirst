@@ -2,12 +2,10 @@
   "id": 102531811,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1911-01-01",
-    "date:inception_upper": "1911-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1911",
+    "edtf:inception": "",
     "geom:area": 0.0006730471399999502,
-    "geom:area_square_m": 6783982.504558,
+    "geom:area_square_m": 6783982.504559,
     "geom:bbox": "-97.618622,35.379379,-97.577988,35.413219",
     "geom:latitude": 35.397754486842025,
     "geom:longitude": -97.59358083949046,
@@ -92,11 +90,8 @@
     "oa:elevation_ft": "1295",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 286,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Will Rogers World Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -117,11 +112,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "OKC",
+      "gn:id": 4555726,
+      "gp:id": 12522444,
       "iata:code": "OKC",
-      "icao:code": "KOKC"
+      "icao:code": "KOKC",
+      "oa:id": "3747",
+      "wd:id": "Q1499872",
+      "wk:page": "Will_Rogers_World_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218187,
     "wof:geomhash": "ddc7ca612b24693cf31f5e8c9ea4cd9d",
     "wof:hierarchy": [
       {
@@ -134,11 +135,11 @@
       }
     ],
     "wof:id": 102531811,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218187,
     "wof:name": "Will Rogers World Airport",
     "wof:parent_id": 101714461,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

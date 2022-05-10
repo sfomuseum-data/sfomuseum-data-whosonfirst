@@ -9,7 +9,7 @@
     "edtf:cessation": "2003",
     "edtf:inception": "1929",
     "geom:area": 0.0005141427690000683,
-    "geom:area_square_m": 5193709.76007,
+    "geom:area_square_m": 5193709.760074,
     "geom:bbox": "-101.725327,35.194489,-101.671860,35.234962",
     "geom:latitude": 35.22017963492187,
     "geom:longitude": -101.70896241701624,
@@ -74,11 +74,8 @@
     "oa:elevation_ft": "3607",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 189,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Amarillo International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -98,11 +95,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "AMA",
+      "gn:id": 5516243,
+      "gp:id": 12518598,
       "iata:code": "AMA",
-      "icao:code": "KAMA"
+      "icao:code": "KAMA",
+      "oa:id": "3377",
+      "wd:id": "Q1570890",
+      "wk:page": "Rick_Husband_Amarillo_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1626825243,
+    "wof:created": 1652218155,
     "wof:geomhash": "f6f5ed2af3760662dec6601734a9c37f",
     "wof:hierarchy": [
       {
@@ -115,11 +118,11 @@
       }
     ],
     "wof:id": 102529249,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218155,
     "wof:name": "Amarillo International Airport",
     "wof:parent_id": 101724103,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

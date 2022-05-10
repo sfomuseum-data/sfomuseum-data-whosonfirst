@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00003105229700001555,
-    "geom:area_square_m": 262649.066154,
+    "geom:area_square_m": 262649.066155,
     "geom:bbox": "-92.207909,46.837589,-92.188766,46.842686",
     "geom:latitude": 46.83987158031365,
     "geom:longitude": -92.19943491334884,
@@ -75,13 +75,12 @@
       "state_id": 2347582
     },
     "wof:belongsto": [
-      85815383,
+      85688727,
       102191575,
       404513247,
       85633793,
       85968517,
-      102087653,
-      85688727
+      102087653
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -89,7 +88,7 @@
       "icao:code": "KDLH"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218148,
     "wof:geomhash": "bccd26ab3411e83529361f6823bdbb94",
     "wof:hierarchy": [
       {
@@ -99,16 +98,16 @@
         "county_id": 102087653,
         "localadmin_id": 404513247,
         "locality_id": 85968517,
-        "neighbourhood_id": 85815383,
+        "neighbourhood_id": -1,
         "region_id": 85688727
       }
     ],
     "wof:id": 102528763,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218148,
     "wof:name": "Duluth International Airport",
-    "wof:parent_id": 85815383,
+    "wof:parent_id": 85968517,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

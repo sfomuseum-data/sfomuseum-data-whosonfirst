@@ -7,8 +7,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-115.671667,32.829167,-115.671667,32.829167",
-    "geom:latitude": 32.829167,
-    "geom:longitude": -115.671667,
+    "geom:latitude": 32.829166666667,
+    "geom:longitude": -115.67166666667,
     "gn:elevation": -12,
     "iso:country": "US",
     "lbl:latitude": 32.82922,
@@ -60,8 +60,8 @@
       "icao:code": "KNJK"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
-    "wof:geomhash": "17c3e7735f0c662c96d6129298a88d69",
+    "wof:created": 1652218113,
+    "wof:geomhash": "a3e53b2a53f8193c4f66ed8c716ff51b",
     "wof:hierarchy": [
       {
         "campus_id": 102524995,
@@ -70,11 +70,11 @@
       }
     ],
     "wof:id": 102524995,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218113,
     "wof:name": "El Centro Naval Air Facility",
     "wof:parent_id": 85688637,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
@@ -82,10 +82,10 @@
     ]
   },
   "bbox": [
-    -115.671667,
-    32.829167,
-    -115.671667,
-    32.829167
+    -115.67166666667,
+    32.829166666667,
+    -115.67166666667,
+    32.829166666667
   ],
-  "geometry": {"coordinates":[-115.671667,32.829167],"type":"Point"}
+  "geometry": {"coordinates":[-115.67166666667,32.829166666667],"type":"Point"}
 }

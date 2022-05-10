@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.15688863637450012,
-    "geom:area_square_m": 1766993940.415103,
+    "geom:area_square_m": 1766993940.415148,
     "geom:bbox": "54.254076,24.195888,54.841984,24.590696",
     "geom:latitude": 24.37792944415603,
     "geom:longitude": 54.576622339983835,
@@ -650,11 +650,14 @@
     "wof:belongsto": [
       102191569,
       85632573,
-      85667981,
-      421172075
+      421172075,
+      85667981
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632573,
+    "wof:capital_of": [
+      85632573,
+      85667981
+    ],
     "wof:concordances": {
       "gn:id": 292968,
       "gp:id": 1940330,
@@ -679,13 +682,13 @@
       }
     ],
     "wof:id": 421179641,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217884,
     "wof:name": "Abu Dhabi",
     "wof:parent_id": 421172075,
     "wof:placetype": "locality",
     "wof:population": 603492,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-ae",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

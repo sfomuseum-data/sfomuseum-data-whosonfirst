@@ -31,6 +31,9 @@
     "name:azb_x_variant": [
       "مریدیان"
     ],
+    "name:ben_x_preferred": [
+      "মেরিডিয়ান"
+    ],
     "name:cat_x_preferred": [
       "Meridian"
     ],
@@ -90,10 +93,16 @@
     "name:heb_x_preferred": [
       "מרידיאן"
     ],
+    "name:hin_x_preferred": [
+      "मेरीडियन"
+    ],
     "name:hun_x_preferred": [
       "Meridian"
     ],
     "name:ido_x_preferred": [
+      "Meridian"
+    ],
+    "name:ind_x_preferred": [
       "Meridian"
     ],
     "name:ita_x_preferred": [
@@ -283,7 +292,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -311,7 +320,7 @@
       "wk:page": "Meridian, Mississippi"
     },
     "wof:country": "US",
-    "wof:created": 1624906863,
+    "wof:created": 1652218031,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -329,12 +338,12 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218031,
     "wof:megacity": 0,
     "wof:name": "Meridian",
     "wof:parent_id": 102085897,
     "wof:placetype": "locality",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 8,
     "wof:superseded_by": [],
     "wof:supersedes": [

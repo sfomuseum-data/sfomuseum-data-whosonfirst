@@ -2,10 +2,12 @@
   "id": 85673875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2015-10-03",
+    "date:cessation_upper": "2015-10-03",
+    "edtf:cessation": "2015-10-03",
     "edtf:inception": "",
     "geom:area": 0.12428291053500015,
-    "geom:area_square_m": 995474197.920426,
+    "geom:area_square_m": 995474175.883919,
     "geom:bbox": "5.790685,49.441324,6.312153,49.829724",
     "geom:latitude": 49.62669469623736,
     "geom:longitude": 6.0643241623512525,
@@ -22,7 +24,7 @@
     "mps:latitude": 49.609085,
     "mps:longitude": 6.059322,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "mz:max_zoom": 11,
     "mz:min_zoom": 8.7,
     "name:bar_x_preferred": [
@@ -242,7 +244,7 @@
       "wk:page": "Luxembourg District"
     },
     "wof:country": "LU",
-    "wof:created": 1624906863,
+    "wof:created": 1652217972,
     "wof:geomhash": "0693b55f5f747021840dd5a0d352da95",
     "wof:hierarchy": [
       {
@@ -262,11 +264,11 @@
       "ltz",
       "deu"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217972,
     "wof:name": "Luxembourg",
     "wof:parent_id": 85633275,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-lu",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "LU",
     "wof:superseded_by": [],
     "wof:supersedes": [],

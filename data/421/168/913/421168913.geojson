@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.019510000524500335,
-    "geom:area_square_m": 229483831.184052,
+    "geom:area_square_m": 229483831.184101,
     "geom:bbox": "102.544070,17.870848,102.720806,18.042931",
     "geom:latitude": 17.964335829177415,
     "geom:longitude": 102.64591716593944,
@@ -161,6 +161,9 @@
       "Vyantyàn"
     ],
     "name:heb_x_preferred": [
+      "ויאנטיאן"
+    ],
+    "name:heb_x_variant": [
       "ויינטיאן"
     ],
     "name:hif_x_preferred": [
@@ -582,7 +585,9 @@
       1092027747
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632241,
+    "wof:capital_of": [
+      85632241
+    ],
     "wof:concordances": {
       "gn:id": 1651944,
       "gp:id": 1140612,
@@ -606,7 +611,7 @@
       }
     ],
     "wof:id": 421168913,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217872,
     "wof:name": "Vientiane",
     "wof:parent_id": 1092027747,
     "wof:placetype": "locality",

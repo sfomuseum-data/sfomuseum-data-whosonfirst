@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0019535735300000323,
-    "geom:area_square_m": 20053116.021557,
+    "geom:area_square_m": 20053116.021553,
     "geom:bbox": "35.466167,33.864700,35.538753,33.904446",
     "geom:latitude": 33.88695823496906,
     "geom:longitude": 35.50152678778545,
@@ -652,9 +652,12 @@
       85673487
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632533,
+    "wof:capital_of": [
+      85632533
+    ],
     "wof:concordances": {
       "gn:id": 276781,
+      "ne:id": 1159150957,
       "qs_pg:id": 547002,
       "wd:id": "Q3820",
       "wk:page": "Beirut"
@@ -677,7 +680,8 @@
       }
     ],
     "wof:id": 890442383,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218063,
+    "wof:megacity": 1,
     "wof:name": "Beirut",
     "wof:parent_id": 85673487,
     "wof:placetype": "locality",

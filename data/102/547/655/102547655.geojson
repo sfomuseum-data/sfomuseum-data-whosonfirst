@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1942",
     "geom:area": 0.000012297276999996795,
-    "geom:area_square_m": 92128.341524,
+    "geom:area_square_m": 92128.341523,
     "geom:bbox": "-8.914074,52.705517,-8.909397,52.710609",
     "geom:latitude": 52.70856313034278,
     "geom:longitude": -8.911615637939304,
@@ -136,11 +136,8 @@
     "oa:elevation_ft": "46",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 255,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Shannon Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -159,11 +156,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12512726,
       "iata:code": "SNN",
-      "icao:code": "EINN"
+      "icao:code": "EINN",
+      "oa:id": "2537",
+      "wd:id": "Q584102",
+      "wk:page": "Shannon_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:created": 1652218252,
     "wof:geomhash": "d637a4af5a0f923f244b76d9d74d0bc5",
     "wof:hierarchy": [
       {
@@ -176,11 +177,11 @@
       }
     ],
     "wof:id": 102547655,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218252,
     "wof:name": "Shannon Airport",
     "wof:parent_id": 101804821,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

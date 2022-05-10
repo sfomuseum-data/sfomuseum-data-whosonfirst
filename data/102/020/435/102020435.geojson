@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-02-10",
     "edtf:inception": "",
     "geom:area": 0.000011333318500000741,
-    "geom:area_square_m": 139316.959483,
+    "geom:area_square_m": 139316.959485,
     "geom:bbox": "106.774071,-6.210186,106.777496,-6.205408",
     "geom:latitude": -6.207840543042814,
     "geom:longitude": 106.77601747177359,
@@ -18,7 +19,7 @@
     "mps:latitude": -6.208054,
     "mps:longitude": 106.77605,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:ace_x_preferred": [
       "Jakarta"
     ],
@@ -575,7 +576,7 @@
       "wk:page": "Jakarta"
     },
     "wof:country": "ID",
-    "wof:created": 1624906904,
+    "wof:created": 1652218101,
     "wof:geomhash": "aa86bb8b82996ebf18d2998264049c5b",
     "wof:hierarchy": [
       {
@@ -587,13 +588,13 @@
       }
     ],
     "wof:id": 102020435,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218101,
     "wof:name": "Daerah Khusus Ibukota Jakarta",
     "wof:parent_id": 102072841,
     "wof:placetype": "locality",
     "wof:population": 9953016,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-id",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

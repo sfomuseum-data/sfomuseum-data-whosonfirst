@@ -89,11 +89,8 @@
       "奧爾巴尼國際機場"
     ],
     "sfomuseum:airport_id": 186,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Albany International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -104,40 +101,36 @@
       "planet_id": 1,
       "state_id": 2347591
     },
-    "wof:belongsto": [
-      85847957,
-      102191575,
-      404521709,
-      85633793,
-      102082353,
-      85688543
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "ALB",
+      "gn:id": 5106842,
+      "gp:id": 12518554,
       "iata:code": "ALB",
-      "icao:code": "KALB"
+      "icao:code": "KALB",
+      "wd:id": "Q1430745",
+      "wk:page": "Albany International Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218156,
     "wof:geomhash": "5e62ad15dc0f61556707f6b30a971ed9",
     "wof:hierarchy": [
       {
         "campus_id": 102529295,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102082353,
-        "localadmin_id": 404521709,
+        "continent_id": -1,
+        "country_id": -1,
         "locality_id": -1,
-        "neighbourhood_id": 85847957,
-        "region_id": 85688543
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102529295,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218156,
     "wof:name": "Albany International Airport",
-    "wof:parent_id": 85847957,
+    "wof:parent_id": 1729435243,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

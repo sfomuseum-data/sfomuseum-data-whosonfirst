@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1940",
     "geom:area": 0.00018629742549998516,
-    "geom:area_square_m": 1671266.976655,
+    "geom:area_square_m": 1671266.976657,
     "geom:bbox": "172.527023,-43.499279,172.549545,-43.481594",
     "geom:latitude": -43.48944451916425,
     "geom:longitude": 172.53998681822975,
@@ -106,11 +106,8 @@
     "oa:elevation_ft": "123",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 219,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Christchurch International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -131,11 +128,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515152,
       "iata:code": "CHC",
-      "icao:code": "NZCH"
+      "icao:code": "NZCH",
+      "oa:id": "5026",
+      "wd:id": "Q1061330",
+      "wk:page": "Christchurch_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906458,
+    "wof:created": 1652218268,
     "wof:geomhash": "acd80906cdc95bf48b5fab9d9bbe12eb",
     "wof:hierarchy": [
       {
@@ -149,11 +150,11 @@
       }
     ],
     "wof:id": 102552387,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218268,
     "wof:name": "Christchurch International Airport",
     "wof:parent_id": 85772947,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

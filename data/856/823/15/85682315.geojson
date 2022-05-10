@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.03257935317950025,
-    "geom:area_square_m": 275118516.888036,
+    "geom:area_square_m": 275118516.888028,
     "geom:bbox": "8.218093,46.771516,8.574946,47.019955",
     "geom:latitude": 46.92683079592549,
     "geom:longitude": 8.405331852906718,
@@ -467,8 +467,11 @@
       "iso:id": "CH-NW",
       "wd:id": "Q12592"
     },
+    "wof:coterminous": [
+      102062973
+    ],
     "wof:country": "CH",
-    "wof:created": 1624906877,
+    "wof:created": 1652218016,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -494,7 +497,7 @@
       "ita",
       "roh"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218016,
     "wof:name": "Nidwalden",
     "wof:parent_id": 85633051,
     "wof:placetype": "region",

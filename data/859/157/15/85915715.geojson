@@ -32,6 +32,9 @@
     "name:azb_x_variant": [
       "کولد بی"
     ],
+    "name:ben_x_preferred": [
+      "কোল্ড বে"
+    ],
     "name:cat_x_preferred": [
       "Cold Bay"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred": [
       "Cold Bay"
+    ],
+    "name:ell_x_preferred": [
+      "Κολντ Μπέι"
     ],
     "name:eng_x_preferred": [
       "Cold Bay"
@@ -71,6 +77,15 @@
     "name:hbs_x_preferred": [
       "Cold Bay"
     ],
+    "name:heb_x_preferred": [
+      "מפרץ קולד"
+    ],
+    "name:hin_x_preferred": [
+      "कोल्ड बे"
+    ],
+    "name:ind_x_preferred": [
+      "Cold Bay"
+    ],
     "name:ita_x_preferred": [
       "Cold Bay"
     ],
@@ -79,6 +94,9 @@
     ],
     "name:jpn_x_variant": [
       "コールドベイ"
+    ],
+    "name:kor_x_preferred": [
+      "콜드베이"
     ],
     "name:mal_x_preferred": [
       "കോൾഡ് ബേ"
@@ -113,13 +131,25 @@
     "name:srp_x_preferred": [
       "Колд Беј"
     ],
+    "name:swe_x_preferred": [
+      "Cold Bay"
+    ],
+    "name:tur_x_preferred": [
+      "Cold Bay"
+    ],
     "name:ukr_x_preferred": [
       "Колд-Бей"
     ],
     "name:und_x_variant": [
       "Fort Randall"
     ],
+    "name:urd_x_preferred": [
+      "کولڈ بے"
+    ],
     "name:uzb_x_preferred": [
+      "Cold Bay"
+    ],
+    "name:vie_x_preferred": [
       "Cold Bay"
     ],
     "name:vol_x_preferred": [
@@ -234,7 +264,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -264,7 +294,7 @@
       "wk:page": "Cold Bay, Alaska"
     },
     "wof:country": "US",
-    "wof:created": 1624906458,
+    "wof:created": 1652217967,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "naturalearth"
@@ -283,7 +313,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217967,
     "wof:name": "Cold Bay",
     "wof:parent_id": 102080625,
     "wof:placetype": "locality",

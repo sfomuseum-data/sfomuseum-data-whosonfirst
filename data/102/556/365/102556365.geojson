@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00014641358400009635,
-    "geom:area_square_m": 1756037.091797,
+    "geom:area_square_m": 1756037.091794,
     "geom:bbox": "-87.223022,14.061027,-87.184669,14.095622",
     "geom:latitude": 14.080813922910496,
     "geom:longitude": -87.20762643370044,
@@ -83,11 +83,8 @@
     "oa:elevation_ft": "3294",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 143,
-    "sfomuseum:count_objects_public": 2,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Toncontín International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -106,11 +103,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12513364,
       "iata:code": "TGU",
-      "icao:code": "MHTG"
+      "icao:code": "MHTG",
+      "oa:id": "4666",
+      "wd:id": "Q930733",
+      "wk:page": "Toncont%C3%ADn_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218284,
     "wof:geomhash": "9bda586030406f966465946c0f287bf6",
     "wof:hierarchy": [
       {
@@ -124,7 +125,7 @@
       }
     ],
     "wof:id": 102556365,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218284,
     "wof:name": "Toncontin International Airport",
     "wof:parent_id": 85793879,
     "wof:placetype": "campus",

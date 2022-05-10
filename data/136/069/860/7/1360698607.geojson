@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.2590024251334996,
-    "geom:area_square_m": 2017385897.606773,
+    "geom:area_square_m": 2017385897.606793,
     "geom:bbox": "-0.957597,50.722029,0.044550,51.167304",
     "geom:latitude": 50.955850384575186,
     "geom:longitude": -0.4946479716132838,
@@ -71,6 +71,9 @@
     ],
     "name:fin_x_preferred": [
       "West Sussex"
+    ],
+    "name:fra_x_preferred": [
+      "Sussex de l'Ouest"
     ],
     "name:frr_x_preferred": [
       "West Sussex"
@@ -220,7 +223,7 @@
       1360698757
     ],
     "wof:country": "GB",
-    "wof:created": 1624906759,
+    "wof:created": 1652218082,
     "wof:geomhash": "f5674a6aa67d30f519921c02a0ce4c76",
     "wof:hierarchy": [
       {
@@ -240,11 +243,11 @@
       "gla",
       "gle"
     ],
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218082,
     "wof:name": "West Sussex",
     "wof:parent_id": 404227469,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

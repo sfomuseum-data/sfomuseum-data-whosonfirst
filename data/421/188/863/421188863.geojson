@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.008135829792499886,
-    "geom:area_square_m": 100231171.33449,
+    "geom:area_square_m": 100231171.334476,
     "geom:bbox": "114.873982,4.856653,115.007188,4.974231",
     "geom:latitude": 4.915229933300469,
     "geom:longitude": 114.93661338007439,
@@ -569,7 +569,9 @@
       85669487
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632749,
+    "wof:capital_of": [
+      85632749
+    ],
     "wof:concordances": {
       "gn:id": 1820906,
       "gp:id": 1020725,
@@ -595,13 +597,13 @@
       }
     ],
     "wof:id": 421188863,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217892,
     "wof:name": "Bandar Seri Begawan",
     "wof:parent_id": 85669487,
     "wof:placetype": "locality",
     "wof:population": 50000,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-bn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

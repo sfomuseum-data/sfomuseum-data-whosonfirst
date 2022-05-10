@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.18327124784799972,
-    "geom:area_square_m": 1759227969.655388,
+    "geom:area_square_m": 1759227940.09467,
     "geom:bbox": "125.575918,38.894989,126.389143,39.283522",
     "geom:latitude": 39.077337868939324,
     "geom:longitude": 125.92131697600944,
@@ -276,11 +276,11 @@
       "Pyongyang"
     ],
     "name:kor_x_preferred": [
-      "평양직할시"
+      "평양"
     ],
     "name:kor_x_variant": [
       "평양시",
-      "평양"
+      "평양직할시"
     ],
     "name:kur_x_preferred": [
       "Pyongyang"
@@ -657,7 +657,7 @@
       "wd:id": "Q18808"
     },
     "wof:country": "KP",
-    "wof:created": 1624906864,
+    "wof:created": 1652217986,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -676,14 +676,14 @@
     "wof:lang_x_spoken": [
       "kor"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217986,
     "wof:name": "P'yŏngyang",
     "wof:parent_id": 85632639,
     "wof:placetype": "region",
     "wof:placetype_local": "special city",
     "wof:population": 3255288,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-kp",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "PY",
     "wof:superseded_by": [],
     "wof:supersedes": [],

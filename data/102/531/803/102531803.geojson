@@ -2,12 +2,10 @@
   "id": 102531803,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1954-01-01",
-    "date:inception_upper": "1954-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1954",
+    "edtf:inception": "",
     "geom:area": 0.000025327653999897677,
-    "geom:area_square_m": 247949.15007,
+    "geom:area_square_m": 247949.150069,
     "geom:bbox": "-97.431732,37.650707,-97.423500,37.659634",
     "geom:latitude": 37.65425882970778,
     "geom:longitude": -97.42761062390724,
@@ -71,11 +69,8 @@
     "oa:elevation_ft": "1333",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 283,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Wichita Dwight D. Eisenhower National Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -96,11 +91,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "ICT",
+      "gn:id": 4281737,
+      "gp:id": 12522432,
       "iata:code": "ICT",
-      "icao:code": "KICT"
+      "icao:code": "KICT",
+      "oa:id": "3605",
+      "wd:id": "Q1433234",
+      "wk:page": "Kansas_City_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218187,
     "wof:geomhash": "6bdc9b0cc2a105c5c653b05869f262b0",
     "wof:hierarchy": [
       {
@@ -110,15 +111,16 @@
         "county_id": 102084203,
         "localadmin_id": 404504929,
         "locality_id": 85945871,
+        "neighbourhood_id": -1,
         "region_id": 85688555
       }
     ],
     "wof:id": 102531803,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218187,
     "wof:name": "Wichita Mid-Continent Airport",
     "wof:parent_id": 85945871,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

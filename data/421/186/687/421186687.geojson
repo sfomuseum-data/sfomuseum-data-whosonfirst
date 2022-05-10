@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.13073213293850025,
-    "geom:area_square_m": 1611930057.557994,
+    "geom:area_square_m": 1611930057.560014,
     "geom:bbox": "-74.451763,3.729768,-73.996315,4.835606",
     "geom:latitude": 4.3123714755806395,
     "geom:longitude": -74.18174085946178,
@@ -20,7 +20,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "mz:min_zoom": 3,
+    "mz:min_zoom": 2.1,
     "mz:note": "quattroshapes points import (201603)",
     "name:abk_x_preferred": [
       "Богота"
@@ -760,14 +760,17 @@
     "wof:belongsto": [
       102191577,
       85632519,
-      85670165,
-      1108700089
+      1108700089,
+      85670165
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632519,
+    "wof:capital_of": [
+      85632519
+    ],
     "wof:concordances": {
       "gn:id": 3688689,
       "gp:id": 368148,
+      "ne:id": 1159151601,
       "qs_pg:id": 1075499,
       "wd:id": "Q2841",
       "wk:page": "Bogotá"
@@ -792,7 +795,8 @@
       }
     ],
     "wof:id": 421186687,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217890,
+    "wof:megacity": 1,
     "wof:name": "Bogotá",
     "wof:parent_id": 1108700089,
     "wof:placetype": "locality",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.008692999362000344,
-    "geom:area_square_m": 83597930.66407,
+    "geom:area_square_m": 83597930.664072,
     "geom:bbox": "-77.519501,38.898270,-77.411667,39.005096",
     "geom:latitude": 38.947249593830996,
     "geom:longitude": -77.46550051346905,
@@ -148,11 +148,8 @@
     "oa:elevation_ft": "312",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 153,
-    "sfomuseum:count_objects_public": 7,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Dulles International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -170,11 +167,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "IAD",
+      "gn:id": 4792325,
+      "gp:id": 12519544,
       "iata:code": "IAD",
-      "icao:code": "KIAD"
+      "icao:code": "KIAD",
+      "oa:id": "3602",
+      "wd:id": "Q466835",
+      "wk:page": "Washington_Dulles_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218150,
     "wof:geomhash": "434aba466c48e625fb5523e59f9490f7",
     "wof:hierarchy": [
       {
@@ -186,11 +189,11 @@
       }
     ],
     "wof:id": 102528817,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218150,
     "wof:name": "Dulles International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

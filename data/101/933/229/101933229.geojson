@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0006377222920000931,
-    "geom:area_square_m": 6228907.996056,
+    "geom:area_square_m": 6228907.99611,
     "geom:bbox": "144.951435,-37.855527,144.990095,-37.799717",
     "geom:latitude": -37.822607541662016,
     "geom:longitude": 144.97227291826033,
@@ -638,15 +638,18 @@
     "wd:population": 4347955,
     "wd:wordcount": 14283,
     "wof:belongsto": [
-      85681497,
       102191583,
-      1376953283,
-      404539427,
       85632793,
+      102049169,
       136253039,
-      102049169
+      404539427,
+      1376953283,
+      85681497
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85681497
+    ],
     "wof:concordances": {
       "dbp:id": "Melbourne",
       "fb:id": "en.melbourne_australia",
@@ -654,6 +657,7 @@
       "gn:id": 2158177,
       "gp:id": 1103816,
       "loc:id": "n79029787",
+      "ne:id": 1159151565,
       "nyt:id": 9223372036854776000,
       "qs_pg:id": 1062623,
       "wd:id": "Q3141",
@@ -663,7 +667,7 @@
       404539427
     ],
     "wof:country": "AU",
-    "wof:created": 1624906517,
+    "wof:created": 1652217858,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -684,14 +688,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217858,
     "wof:megacity": 1,
     "wof:name": "Melbourne",
     "wof:parent_id": 404539427,
     "wof:placetype": "locality",
     "wof:population": 4347955,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-au",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

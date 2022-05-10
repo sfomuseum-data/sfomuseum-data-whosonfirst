@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0007644418810000439,
-    "geom:area_square_m": 5365345.840898,
+    "geom:area_square_m": 5365345.840894,
     "geom:bbox": "37.862160,55.397732,37.920513,55.432724",
     "geom:latitude": 55.41596922384343,
     "geom:longitude": 37.89316929396108,
@@ -61,6 +61,10 @@
     ],
     "name:eng_x_preferred": [
       "Domodedovo International Airport"
+    ],
+    "name:eng_x_variant": [
+      "DME",
+      "UUDD"
     ],
     "name:epo_x_preferred": [
       "Internacia flughaveno Domodedovo"
@@ -207,11 +211,8 @@
       "多莫杰多沃国际机场"
     ],
     "sfomuseum:airport_id": 88,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Domodedovo International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -230,11 +231,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12515946,
       "iata:code": "DME",
-      "icao:code": "UUDD"
+      "icao:code": "UUDD",
+      "wd:id": "Q186614"
     },
     "wof:country": "",
-    "wof:created": 1624906850,
+    "wof:created": 1652218234,
     "wof:geomhash": "05b251557cab7ce80b30925fc6011b0f",
     "wof:hierarchy": [
       {
@@ -247,11 +250,11 @@
       }
     ],
     "wof:id": 102540741,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218234,
     "wof:name": "Domodedovo Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

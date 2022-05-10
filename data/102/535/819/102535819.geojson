@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0003807401230000407,
-    "geom:area_square_m": 3554115.276141,
+    "geom:area_square_m": 3554115.276142,
     "geom:bbox": "28.804714,40.964443,28.833050,40.993309",
     "geom:latitude": 40.98148784510962,
     "geom:longitude": 28.819079270458467,
@@ -19,12 +19,13 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:min_zoom": 13,
+    "name:eng_x_variant": [
+      "IST",
+      "LTBA"
+    ],
     "sfomuseum:airport_id": 57,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Istanbul Atatürk Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -42,11 +43,12 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23388365,
       "iata:code": "IST",
       "icao:code": "LTBA"
     },
     "wof:country": "",
-    "wof:created": 1624906850,
+    "wof:created": 1652218219,
     "wof:geomhash": "c84b6ab83be43e80dbaefa456c4e47ca",
     "wof:hierarchy": [
       {
@@ -58,11 +60,11 @@
       }
     ],
     "wof:id": 102535819,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218219,
     "wof:name": "Ataturk Hava Limani Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

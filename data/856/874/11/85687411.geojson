@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.25065433700399997,
-    "geom:area_square_m": 2331140248.063968,
+    "geom:area_square_m": 2331140655.351636,
     "geom:bbox": "-8.789093,41.001381,-7.875596,41.470978",
     "geom:latitude": 41.22479681606821,
     "geom:longitude": -8.353099310605408,
@@ -39,6 +39,9 @@
     ],
     "name:bel_x_preferred": [
       "акруга Порту"
+    ],
+    "name:ben_x_preferred": [
+      "পোর্তো"
     ],
     "name:bre_x_preferred": [
       "Distrig Porto"
@@ -79,6 +82,15 @@
     ],
     "name:glg_x_preferred": [
       "Distrito do Porto"
+    ],
+    "name:heb_x_preferred": [
+      "פורטו"
+    ],
+    "name:hin_x_preferred": [
+      "पोर्टो"
+    ],
+    "name:hun_x_preferred": [
+      "Porto"
     ],
     "name:ind_x_preferred": [
       "Distrik Porto"
@@ -124,6 +136,9 @@
     ],
     "name:pnb_x_preferred": [
       "ضلع پورتو"
+    ],
+    "name:pol_x_preferred": [
+      "Porto"
     ],
     "name:por_x_preferred": [
       "Porto"
@@ -265,7 +280,7 @@
       "wd:id": "Q322792"
     },
     "wof:country": "PT",
-    "wof:created": 1624906890,
+    "wof:created": 1652218045,
     "wof:geomhash": "e8c3106000a61d3f616899de46a01b16",
     "wof:hierarchy": [
       {
@@ -281,14 +296,14 @@
     "wof:lang_x_spoken": [
       "por"
     ],
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218045,
     "wof:name": "Porto",
     "wof:parent_id": 85633735,
     "wof:placetype": "region",
     "wof:placetype_local": "district",
     "wof:population": 1817172,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-pt",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "PO",
     "wof:superseded_by": [],
     "wof:supersedes": [],

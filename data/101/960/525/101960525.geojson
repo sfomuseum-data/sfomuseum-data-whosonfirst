@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.046481281385500076,
-    "geom:area_square_m": 497268538.286631,
+    "geom:area_square_m": 497268538.28679,
     "geom:bbox": "-51.305833,-30.269926,-51.011942,-29.932302",
     "geom:latitude": -30.095389118226517,
     "geom:longitude": -51.16506714842845,
@@ -514,11 +514,11 @@
     "wd:population": 1360590,
     "wd:wordcount": 9288,
     "wof:belongsto": [
-      85682015,
       102191577,
       85633009,
+      102059767,
       1511777409,
-      102059767
+      85682015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -526,12 +526,16 @@
       "gn:id": 3452925,
       "gp:id": 455823,
       "loc:id": "n79073532",
+      "ne:id": 1159151447,
       "qs_pg:id": 274323,
       "wd:id": "Q40269",
       "wk:page": "Porto Alegre"
     },
+    "wof:coterminous": [
+      102059767
+    ],
     "wof:country": "BR",
-    "wof:created": 1624906517,
+    "wof:created": 1652217862,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -550,14 +554,14 @@
     "wof:lang": [
       "por"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217862,
     "wof:megacity": 1,
     "wof:name": "Porto Alegre",
     "wof:parent_id": 102059767,
     "wof:placetype": "locality",
     "wof:population": 1360590,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-br",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.10880676510799928,
-    "geom:area_square_m": 756583523.820561,
+    "geom:area_square_m": 756583523.820548,
     "geom:bbox": "37.356148,55.599239,38.039375,56.022171",
     "geom:latitude": 55.782085809020735,
     "geom:longitude": 37.67659572509782,
@@ -21,7 +21,7 @@
     "mps:longitude": 37.615561,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "mz:min_zoom": 2,
+    "mz:min_zoom": 1.7,
     "name:abk_x_preferred": [
       "Москва"
     ],
@@ -998,20 +998,23 @@
     "src:population": "geonames",
     "wd:wordcount": 17623,
     "wof:belongsto": [
-      85688085,
       102191581,
       85632685,
+      1108736095,
       874393555,
-      1108736095
+      85688085
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632685,
+    "wof:capital_of": [
+      85632685
+    ],
     "wof:concordances": {
       "dbp:id": "Moscow",
       "fb:id": "en.moscow",
       "gn:id": 524901,
       "gp:id": 2122265,
       "loc:id": "n79076156",
+      "ne:id": 1159151585,
       "nyt:id": "N38458012876881079341",
       "qs_pg:id": 467142,
       "wd:id": "Q649",
@@ -1021,7 +1024,7 @@
       85688085
     ],
     "wof:country": "RU",
-    "wof:created": 1624906904,
+    "wof:created": 1652218099,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -1040,14 +1043,14 @@
     "wof:lang_x_official": [
       "rus"
     ],
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218099,
     "wof:megacity": 1,
     "wof:name": "Moscow",
     "wof:parent_id": 1108736095,
     "wof:placetype": "locality",
     "wof:population": 10381222,
     "wof:population_rank": 14,
-    "wof:repo": "whosonfirst-data-admin-ru",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

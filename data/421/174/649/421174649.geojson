@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01965152349699972,
-    "geom:area_square_m": 194763453.390688,
+    "geom:area_square_m": 194763453.390701,
     "geom:bbox": "2.966310,36.649934,3.229808,36.814964",
     "geom:latitude": 36.724377100015474,
     "geom:longitude": 3.0904181304299447,
@@ -670,11 +670,14 @@
       85670761
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632451,
+    "wof:capital_of": [
+      85632451
+    ],
     "wof:concordances": {
       "gn:id": 2507480,
       "gp:id": 1253079,
       "loc:id": "n79058668",
+      "ne:id": 1159151471,
       "qs_pg:id": 892295,
       "wd:id": "Q3561",
       "wk:page": "Algiers"
@@ -694,7 +697,8 @@
       }
     ],
     "wof:id": 421174649,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217882,
+    "wof:megacity": 1,
     "wof:name": "Algiers",
     "wof:parent_id": 85670761,
     "wof:placetype": "locality",

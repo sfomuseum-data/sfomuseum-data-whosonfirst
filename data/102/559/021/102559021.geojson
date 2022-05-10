@@ -2,8 +2,10 @@
   "id": 102559021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "..",
-    "edtf:inception": "1978-01-02",
+    "date:inception_lower": "1978-01-02",
+    "date:inception_upper": "1978-01-02",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "105.807222,21.221111,105.807222,21.221111",
@@ -107,7 +109,7 @@
       "wd:id": "Q844098"
     },
     "wof:country": "VN",
-    "wof:created": 1651607444,
+    "wof:created": 1652199211,
     "wof:geomhash": "7d1700c71f9544dbcb31fccd326adb3c",
     "wof:hierarchy": [
       {
@@ -117,7 +119,7 @@
       }
     ],
     "wof:id": 102559021,
-    "wof:lastmodified": 1651607444,
+    "wof:lastmodified": 1652218297,
     "wof:name": "Noi Bai Airport",
     "wof:parent_id": 85680653,
     "wof:placetype": "campus",

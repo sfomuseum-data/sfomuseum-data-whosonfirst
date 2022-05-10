@@ -61,11 +61,8 @@
     "oa:elevation_ft": "21",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 60,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Juneau International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -86,11 +83,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "JNU",
+      "gn:id": 5554082,
+      "gp:id": 12520409,
       "iata:code": "JNU",
-      "icao:code": "PAJN"
+      "icao:code": "PAJN",
+      "oa:id": "5379",
+      "wd:id": "Q2505424",
+      "wk:page": "Juneau_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218198,
     "wof:geomhash": "4148af93756e0c839cb6bce5d12f4c42",
     "wof:hierarchy": [
       {
@@ -104,11 +107,11 @@
       }
     ],
     "wof:id": 102532925,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218198,
     "wof:name": "Juneau International Airport",
     "wof:parent_id": 85833767,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000021492181499992506,
-    "geom:area_square_m": 262493.007217,
+    "geom:area_square_m": 262493.007216,
     "geom:bbox": "38.791416,8.982720,38.797016,8.989870",
     "geom:latitude": 8.986782212239197,
     "geom:longitude": 38.794295449352866,
@@ -134,11 +134,8 @@
     "oa:elevation_ft": "7630",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 248,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Addis Ababa Bole International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -156,11 +153,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12512758,
       "iata:code": "ADD",
-      "icao:code": "HAAB"
+      "icao:code": "HAAB",
+      "oa:id": "3157",
+      "wd:id": "Q44923",
+      "wk:page": "Bole_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906455,
+    "wof:created": 1652218265,
     "wof:geomhash": "cbe77a3bb4a5097a4044d45a124b9e7a",
     "wof:hierarchy": [
       {
@@ -172,11 +173,11 @@
       }
     ],
     "wof:id": 102551565,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218265,
     "wof:name": "Bole International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -391,13 +391,16 @@
     "wd:population": 362000,
     "wd:wordcount": 8478,
     "wof:belongsto": [
-      85687179,
       102191583,
-      1729238507,
       85633345,
-      102079401
+      102079401,
+      1729238507,
+      85687179
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85687179
+    ],
     "wof:concordances": {
       "fct:id": "020dfada-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 2192362,
@@ -409,7 +412,7 @@
       1729238507
     ],
     "wof:country": "NZ",
-    "wof:created": 1624906517,
+    "wof:created": 1652217857,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -433,14 +436,14 @@
       "eng",
       "mri"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217857,
     "wof:megacity": 0,
     "wof:name": "Christchurch",
     "wof:parent_id": 1729238507,
     "wof:placetype": "locality",
     "wof:population": 362000,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-nz",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.031277204334999774,
-    "geom:area_square_m": 347722803.424666,
+    "geom:area_square_m": 347722803.4247,
     "geom:bbox": "32.440636,-26.094553,32.995689,-25.810024",
     "geom:latitude": -25.96106034849765,
     "geom:longitude": 32.624996047988496,
@@ -209,10 +209,10 @@
       "Maputo"
     ],
     "name:kor_x_preferred": [
-      "마푸투"
+      "마푸토"
     ],
     "name:kor_x_variant": [
-      "마푸토"
+      "마푸투"
     ],
     "name:lat_x_preferred": [
       "Maputo"
@@ -308,10 +308,10 @@
       "Lourenço Marques"
     ],
     "name:por_x_preferred": [
-      "Lourenço Marques"
+      "Maputo"
     ],
     "name:por_x_variant": [
-      "Maputo"
+      "Lourenço Marques"
     ],
     "name:que_x_preferred": [
       "Maputu"
@@ -353,6 +353,9 @@
       "Maputo"
     ],
     "name:swe_x_preferred": [
+      "Maputofloden"
+    ],
+    "name:swe_x_variant": [
       "Maputo"
     ],
     "name:szl_x_preferred": [
@@ -562,11 +565,14 @@
       1091697125
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632729,
+    "wof:capital_of": [
+      85632729
+    ],
     "wof:concordances": {
       "gn:id": 1040652,
       "gp:id": 1550363,
       "loc:id": "n78060679",
+      "ne:id": 1159150683,
       "qs_pg:id": 273869,
       "wd:id": "Q3889",
       "wk:page": "Maputo"
@@ -590,13 +596,14 @@
       }
     ],
     "wof:id": 421167893,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217869,
+    "wof:megacity": 1,
     "wof:name": "Maputo",
     "wof:parent_id": 1091697125,
     "wof:placetype": "locality",
     "wof:population": 1766184,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-mz",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.013049736886499878,
-    "geom:area_square_m": 149020351.940323,
+    "geom:area_square_m": 149020351.940314,
     "geom:bbox": "16.998262,-22.640740,17.130436,-22.457165",
     "geom:latitude": -22.554843592585254,
     "geom:longitude": 17.066512241368343,
@@ -554,7 +554,9 @@
       85675205
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632535,
+    "wof:capital_of": [
+      85632535
+    ],
     "wof:concordances": {
       "gn:id": 3352136,
       "gp:id": 1466719,
@@ -579,11 +581,11 @@
       }
     ],
     "wof:id": 1141909361,
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218077,
     "wof:name": "Windhoek",
     "wof:parent_id": 85675205,
     "wof:placetype": "locality",
-    "wof:repo": "whosonfirst-data-admin-na",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       421172081

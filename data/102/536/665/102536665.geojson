@@ -19,6 +19,10 @@
     "name:deu_x_preferred": [
       "Flughafen Kandahar"
     ],
+    "name:eng_x_variant": [
+      "KDH",
+      "OAKN"
+    ],
     "name:fas_x_preferred": [
       "میدان هوایی بین‌المللی قندهار"
     ],
@@ -88,7 +92,7 @@
       "iata:code": "PUS"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1652218229,
     "wof:geomhash": "a5066a54e82348f760046bf1250b6a77",
     "wof:hierarchy": [
       {
@@ -98,11 +102,11 @@
       }
     ],
     "wof:id": 102536665,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218229,
     "wof:name": "Kandahar International Airport",
     "wof:parent_id": 85667549,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

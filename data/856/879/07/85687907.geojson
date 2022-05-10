@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 5.0896562592215,
-    "geom:area_square_m": 37088468007.7368,
+    "geom:area_square_m": 37088468007.73706,
     "geom:bbox": "45.798194,52.533216,50.242595,54.891472",
     "geom:latitude": 53.88946338382844,
     "geom:longitude": 47.94711112325506,
@@ -395,11 +395,11 @@
       "Ulianovsk"
     ],
     "name:rus_x_preferred": [
-      "Ульяновская"
+      "Ульяновская область"
     ],
     "name:rus_x_variant": [
-      "Ульяновская область",
-      "Ульяновск"
+      "Ульяновск",
+      "Ульяновская"
     ],
     "name:sah_x_preferred": [
       "Ульяновскай уобалас"
@@ -582,7 +582,7 @@
     "qs:source": "Unknown",
     "sfomuseum:placetype": "region",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
-    "src:geom": "quattroshapes",
+    "src:geom": "meso",
     "src:geom_alt": [
       "quattroshapes"
     ],
@@ -615,7 +615,7 @@
       "iso:id": "RU-ULY"
     },
     "wof:country": "RU",
-    "wof:created": 1624906891,
+    "wof:created": 1652218047,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -654,13 +654,13 @@
       "lbe",
       "koi"
     ],
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218047,
     "wof:name": "Ulyanovsk",
     "wof:parent_id": 85632685,
     "wof:placetype": "region",
     "wof:population": 1292799,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-ru",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "UL",
     "wof:superseded_by": [],
     "wof:supersedes": [],

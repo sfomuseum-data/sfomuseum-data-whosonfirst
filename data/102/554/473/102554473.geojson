@@ -7,7 +7,7 @@
     "edtf:cessation": "..",
     "edtf:inception": "1960",
     "geom:area": 0.00015841106949991088,
-    "geom:area_square_m": 1170382.190668,
+    "geom:area_square_m": 1170382.190667,
     "geom:bbox": "-113.593109,53.302109,-113.577690,53.316204",
     "geom:latitude": 53.30860794988532,
     "geom:longitude": -113.58489936246228,
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred": [
       "Edmonton International Airport"
+    ],
+    "name:eng_x_variant": [
+      "YEG",
+      "CYEG"
     ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی ادمونتون"
@@ -112,7 +116,7 @@
       "wk:page": "Edmonton_International_Airport"
     },
     "wof:country": "CA",
-    "wof:created": 1624906458,
+    "wof:created": 1652218274,
     "wof:geomhash": "b0ae3f16ec7024a126395f60ea2c1e8b",
     "wof:hierarchy": [
       {
@@ -126,12 +130,12 @@
       }
     ],
     "wof:id": 102554473,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1652218274,
     "wof:name": "Edmonton International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
     "wof:population_rank": 0,
-    "wof:repo": "whosonfirst-data-admin-ca",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.050259110132000163,
-    "geom:area_square_m": 393824882.527804,
+    "geom:area_square_m": 393824882.527802,
     "geom:bbox": "-1.591732,50.574677,-1.062720,50.767555",
     "geom:latitude": 50.67596393932039,
     "geom:longitude": -1.2962074134439527,
@@ -77,6 +77,9 @@
     ],
     "name:fin_x_preferred": [
       "Wightsaari"
+    ],
+    "name:fra_x_preferred": [
+      "Île de Wight"
     ],
     "name:frr_x_preferred": [
       "Eilun Wight"
@@ -231,8 +234,11 @@
     "wof:concordances": {
       "digitalenvoy:metro_code": 826045
     },
+    "wof:coterminous": [
+      1360699089
+    ],
     "wof:country": "GB",
-    "wof:created": 1624906755,
+    "wof:created": 1652218081,
     "wof:geomhash": "ea6f46bb13accd553f81fbdd434cd103",
     "wof:hierarchy": [
       {
@@ -252,11 +258,11 @@
       "gla",
       "gle"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218081,
     "wof:name": "Isle of Wight",
     "wof:parent_id": 404227469,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

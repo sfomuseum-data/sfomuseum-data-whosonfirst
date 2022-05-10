@@ -19,15 +19,16 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:min_zoom": 13,
+    "name:eng_x_variant": [
+      "ICN",
+      "RKSI"
+    ],
     "name:kor_x_preferred": [
       "인천공항"
     ],
     "sfomuseum:airport_id": 129,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Incheon International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -48,11 +49,12 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 24554859,
       "iata:code": "ICN",
       "icao:code": "RKSI"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218285,
     "wof:geomhash": "adc658e64f5f835de539840d4b4e67b0",
     "wof:hierarchy": [
       {
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 102556451,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218285,
     "wof:name": "Incheon International Airport",
     "wof:parent_id": 85926685,
     "wof:placetype": "campus",

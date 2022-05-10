@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.026956427338000126,
-    "geom:area_square_m": 203469028.818072,
+    "geom:area_square_m": 203469028.81807,
     "geom:bbox": "9.604728,52.305911,9.918560,52.453608",
     "geom:latitude": 52.37948187761389,
     "geom:longitude": 9.769625210111457,
@@ -585,13 +585,16 @@
     "wd:population": 518386,
     "wd:wordcount": 6669,
     "wof:belongsto": [
-      85682555,
       102191581,
-      1377686265,
       85633111,
-      102063941
+      102063941,
+      1377686265,
+      85682555
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85682555
+    ],
     "wof:concordances": {
       "dbp:id": "Hanover",
       "fb:id": "en.hanover",
@@ -606,8 +609,11 @@
     "wof:concordances_alt": {
       "qs_pg:id": 1066612
     },
+    "wof:coterminous": [
+      1377686265
+    ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217809,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -624,13 +630,13 @@
       }
     ],
     "wof:id": 101748819,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217809,
     "wof:name": "Hannover",
     "wof:parent_id": 1377686265,
     "wof:placetype": "locality",
     "wof:population": 518386,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125331247

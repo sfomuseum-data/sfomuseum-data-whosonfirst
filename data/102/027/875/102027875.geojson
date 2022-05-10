@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.035812410968500116,
-    "geom:area_square_m": 330143863.565487,
+    "geom:area_square_m": 330143863.565543,
     "geom:bbox": "123.139179,41.536582,123.712624,42.078691",
     "geom:latitude": 41.79474903081373,
     "geom:longitude": 123.42793257406332,
@@ -513,22 +513,23 @@
     "src:population": "geonames",
     "wd:wordcount": 9727,
     "wof:belongsto": [
-      85669807,
       102191569,
       85632695,
+      1108732451,
       136253041,
-      1108732451
+      85669807
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "fct:id": "06b56c80-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 2034937,
       "gp:id": 2148332,
+      "ne:id": 1159151377,
       "qs_pg:id": 8571,
       "wd:id": "Q11720"
     },
     "wof:country": "CN",
-    "wof:created": 1624906905,
+    "wof:created": 1652218104,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -547,14 +548,14 @@
     "wof:lang": [
       "chi"
     ],
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218104,
     "wof:megacity": 1,
     "wof:name": "Shenyang",
     "wof:parent_id": 1108732451,
     "wof:placetype": "locality",
     "wof:population": 6255921,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

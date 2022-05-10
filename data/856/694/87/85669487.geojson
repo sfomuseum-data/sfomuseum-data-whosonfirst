@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.04616956545049963,
-    "geom:area_square_m": 568805283.229595,
+    "geom:area_square_m": 568804292.806799,
     "geom:bbox": "114.736180,4.730585,115.103201,5.057196",
     "geom:latitude": 4.900511809467034,
     "geom:longitude": 114.8971012131265,
@@ -101,6 +101,9 @@
     "name:hin_x_preferred": [
       "ब्रुनेई-मुरा जिला"
     ],
+    "name:hun_x_preferred": [
+      "Brunei és Muara"
+    ],
     "name:ind_x_preferred": [
       "Distrik Brunei-Muara"
     ],
@@ -132,10 +135,11 @@
       "ब्रुनेई-मुरा जिल्हा"
     ],
     "name:msa_x_preferred": [
-      "Daerah Brunei-Muara"
+      "Brunei-Muara"
     ],
     "name:msa_x_variant": [
-      "Daerah Brunei dan Muara"
+      "Daerah Brunei dan Muara",
+      "Daerah Brunei-Muara"
     ],
     "name:nan_x_preferred": [
       "Brunei-Muara"
@@ -301,7 +305,7 @@
       "wd:id": "Q153009"
     },
     "wof:country": "BN",
-    "wof:created": 1624906856,
+    "wof:created": 1652217946,
     "wof:geomhash": "51107a38cd01d0f86da2bb0020957f8c",
     "wof:hierarchy": [
       {
@@ -317,7 +321,7 @@
     "wof:lang_x_spoken": [
       "msa"
     ],
-    "wof:lastmodified": 1626825081,
+    "wof:lastmodified": 1652217946,
     "wof:name": "Brunei and Muara",
     "wof:parent_id": 85632749,
     "wof:placetype": "region",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0014451913659999243,
-    "geom:area_square_m": 11796499.375917,
+    "geom:area_square_m": 11796499.375919,
     "geom:bbox": "9.150002,48.672646,9.252719,48.711613",
     "geom:latitude": 48.6904335128705,
     "geom:longitude": 9.200266142699025,
@@ -149,11 +149,8 @@
     "oa:elevation_ft": "1276",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 169,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Stuttgart Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -175,11 +172,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22236827,
       "iata:code": "STR",
-      "icao:code": "EDDS"
+      "icao:code": "EDDS",
+      "oa:id": "2222",
+      "wd:id": "Q158732",
+      "wk:page": "Stuttgart_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:created": 1652218256,
     "wof:geomhash": "2364ae2c0ec4fa3fa443e2b436eb6425",
     "wof:hierarchy": [
       {
@@ -193,11 +194,11 @@
       }
     ],
     "wof:id": 102549047,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218256,
     "wof:name": "Stuttgart Airport",
     "wof:parent_id": 101761809,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01728747297249998,
-    "geom:area_square_m": 149895431.859287,
+    "geom:area_square_m": 149895431.859294,
     "geom:bbox": "9.050087,45.396279,9.282442,45.536289",
     "geom:latitude": 45.4748241670389,
     "geom:longitude": 9.17865348431094,
@@ -691,11 +691,11 @@
     "wd:population": 1343163,
     "wd:wordcount": 11737,
     "wof:belongsto": [
-      85685243,
       102191581,
-      404468459,
       85633253,
-      404227497
+      404468459,
+      404227497,
+      85685243
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -711,7 +711,7 @@
       "wk:page": "Milan"
     },
     "wof:country": "IT",
-    "wof:created": 1624906516,
+    "wof:created": 1652217835,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -730,14 +730,14 @@
     "wof:lang": [
       "ita"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217835,
     "wof:megacity": 1,
     "wof:name": "Milano",
     "wof:parent_id": 404468459,
     "wof:placetype": "locality",
     "wof:population": 1343163,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01788199173200009,
-    "geom:area_square_m": 154112406.338434,
+    "geom:area_square_m": 154112406.3384,
     "geom:bbox": "15.826614,45.741670,16.097204,45.907025",
     "geom:latitude": 45.814748120868614,
     "geom:longitude": 15.978361768816262,
@@ -694,7 +694,9 @@
       85684811
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633229,
+    "wof:capital_of": [
+      85633229
+    ],
     "wof:concordances": {
       "dbp:id": "Zagreb",
       "fb:id": "en.zagreb",
@@ -706,7 +708,7 @@
       "wd:id": "Q1435"
     },
     "wof:country": "HR",
-    "wof:created": 1624906516,
+    "wof:created": 1652217824,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -723,14 +725,14 @@
     "wof:lang": [
       "unk"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217824,
     "wof:megacity": 0,
     "wof:name": "Zagreb",
     "wof:parent_id": 85684811,
     "wof:placetype": "locality",
     "wof:population": 698966,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-hr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

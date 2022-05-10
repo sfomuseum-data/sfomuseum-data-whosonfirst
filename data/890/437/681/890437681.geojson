@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.05318370725050019,
-    "geom:area_square_m": 539863567.285261,
+    "geom:area_square_m": 539863567.285232,
     "geom:bbox": "-56.420766,-34.941188,-56.035876,-34.713436",
     "geom:latitude": -34.822149550472325,
     "geom:longitude": -56.218755761836555,
@@ -663,11 +663,13 @@
     "wof:belongsto": [
       102191577,
       85632511,
-      85680339,
-      1092076411
+      1092076411,
+      85680339
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632511,
+    "wof:capital_of": [
+      85632511
+    ],
     "wof:concordances": {
       "gn:id": 3441575,
       "gp:id": 468052,
@@ -698,7 +700,7 @@
       }
     ],
     "wof:id": 890437681,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218062,
     "wof:megacity": 1,
     "wof:name": "Montevideo",
     "wof:parent_id": 1092076411,

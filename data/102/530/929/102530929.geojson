@@ -8,11 +8,11 @@
     "date:inception_upper": "1947-12-31",
     "edtf:cessation": "1985",
     "edtf:inception": "1947",
-    "geom:area": 0.0002876058544999322,
-    "geom:area_square_m": 2788148.833437,
+    "geom:area": 0.00028760285220128467,
+    "geom:area_square_m": 2788119.741583,
     "geom:bbox": "-81.604322,38.362167,-81.581706,38.384369",
-    "geom:latitude": 38.3715051835272,
-    "geom:longitude": -81.59329433353571,
+    "geom:latitude": 38.37150486614739,
+    "geom:longitude": -81.5932945402235,
     "iso:country": "US",
     "lbl:latitude": 38.367011,
     "lbl:longitude": -81.596471,
@@ -72,11 +72,8 @@
     "oa:elevation_ft": "981",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 210,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Kanawha Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "whosonfirst",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -93,12 +90,18 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "CRW",
+      "gn:id": 4827897,
+      "gp:id": 12522530,
       "iata:code": "CRW",
-      "icao:code": "KCRW"
+      "icao:code": "KCRW",
+      "oa:id": "3467",
+      "wd:id": "Q2875740",
+      "wk:page": "Yeager_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1626825244,
-    "wof:geomhash": "f6cb1364056c1a00e491cc02ea2895c4",
+    "wof:created": 1652218173,
+    "wof:geomhash": "6ffe9cddcdf8a364c0693159eb6c3170",
     "wof:hierarchy": [
       {
         "campus_id": 102530929,
@@ -110,11 +113,11 @@
       }
     ],
     "wof:id": 102530929,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218173,
     "wof:name": "Yeager Airport",
     "wof:parent_id": 420549807,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
@@ -122,10 +125,10 @@
     ]
   },
   "bbox": [
-    -81.604322,
+    -81.6043220522892,
     38.362167,
-    -81.581706,
-    38.384369
+    -81.58170646914189,
+    38.38436853176465
   ],
-  "geometry": {"coordinates":[[[[-81.594033,38.379425],[-81.584927,38.384369],[-81.581706,38.380964],[-81.588936,38.372736],[-81.585639,38.365579],[-81.585989,38.362177],[-81.597168,38.362167],[-81.599503,38.362831],[-81.600998,38.363499],[-81.602669,38.364834],[-81.604179,38.366335],[-81.604322,38.368796],[-81.603229,38.371723],[-81.599597,38.375871],[-81.594033,38.379425]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-81.59403300157116,38.37942460788894],[-81.58492722980235,38.38436853176465],[-81.58170646914189,38.38096415952146],[-81.5889362750038,38.37273564435946],[-81.5856387543758,38.36557929299514],[-81.5859892662697,38.36217654415481],[-81.597168,38.362167],[-81.599503,38.362831],[-81.600998,38.363499],[-81.602669,38.364834],[-81.60417893660245,38.36633522361242],[-81.6043220522892,38.36879605657676],[-81.60322919490615,38.37172308457102],[-81.59959728366275,38.37587128271544],[-81.59403300157116,38.37942460788894]]]],"type":"MultiPolygon"}
 }

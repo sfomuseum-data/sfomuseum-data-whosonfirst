@@ -7,7 +7,7 @@
     "edtf:cessation": "..",
     "edtf:inception": "1948-12-19",
     "geom:area": 0.000016108219999998703,
-    "geom:area_square_m": 160908.954594,
+    "geom:area_square_m": 160908.954595,
     "geom:bbox": "-115.175339,36.108826,-115.170967,36.119610",
     "geom:latitude": 36.1129889848008,
     "geom:longitude": -115.17299022738925,
@@ -154,11 +154,8 @@
     "oa:elevation_ft": "2181",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 65,
-    "sfomuseum:count_objects_public": 5,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "McCarran International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -179,11 +176,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "LAS",
+      "gn:id": 5507974,
+      "gp:id": 12520849,
       "iata:code": "LAS",
-      "icao:code": "KLAS"
+      "icao:code": "KLAS",
+      "oa:id": "3631",
+      "wd:id": "Q853886",
+      "wk:page": "McCarran_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218130,
     "wof:geomhash": "e90a812d3d5df85c3dd22e1b7af7d7aa",
     "wof:hierarchy": [
       {
@@ -197,11 +200,11 @@
       }
     ],
     "wof:id": 102527209,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218130,
     "wof:name": "McCarran International Airport",
     "wof:parent_id": 85840429,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

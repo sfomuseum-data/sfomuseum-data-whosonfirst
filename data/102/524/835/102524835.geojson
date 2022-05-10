@@ -67,11 +67,8 @@
     "oa:elevation_ft": "418",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 243,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Evansville Regional Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -85,35 +82,44 @@
     },
     "wof:belongsto": [
       85688709,
+      102191575,
+      404502161,
       85633793,
       85942147,
-      102087105,
-      85824997
+      102087105
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "EVV",
+      "gn:id": 4257229,
+      "gp:id": 12519675,
       "iata:code": "EVV",
-      "icao:code": "KEVV"
+      "icao:code": "KEVV",
+      "oa:id": "3518",
+      "wd:id": "Q3545435",
+      "wk:page": "Evansville_Regional_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218110,
     "wof:geomhash": "74c5387b3ffdf4ade97fa1e56d79ce8a",
     "wof:hierarchy": [
       {
         "campus_id": 102524835,
+        "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087105,
+        "localadmin_id": 404502161,
         "locality_id": 85942147,
-        "neighbourhood_id": 85824997,
+        "neighbourhood_id": -1,
         "region_id": 85688709
       }
     ],
     "wof:id": 102524835,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218110,
     "wof:name": "Evansville Regional Airport",
-    "wof:parent_id": 85824997,
+    "wof:parent_id": 85942147,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.006877604014999996,
-    "geom:area_square_m": 54792638.142299,
+    "geom:area_square_m": 54792638.142302,
     "geom:bbox": "10.826424,49.842468,10.959998,49.927023",
     "geom:latitude": 49.8872401319202,
     "geom:longitude": 10.898911606131845,
@@ -338,12 +338,12 @@
     "woe:name_adm1": "Bayern",
     "woe:placetype": "LocalAdmin",
     "wof:belongsto": [
-      85682571,
       102191581,
       85633111,
+      1175611271,
       1377687025,
       404227583,
-      1175611271
+      85682571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -356,8 +356,11 @@
       "wd:id": "Q3936",
       "wk:page": "Bamberg"
     },
+    "wof:coterminous": [
+      1377687025
+    ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217800,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -375,13 +378,13 @@
       }
     ],
     "wof:id": 101748561,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217800,
     "wof:name": "Bamberg",
     "wof:parent_id": 1377687025,
     "wof:placetype": "locality",
     "wof:population": 70047,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125336421,

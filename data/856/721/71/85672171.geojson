@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 26.4776489546215,
-    "geom:area_square_m": 308626546267.6257,
+    "geom:area_square_m": 308626546267.6379,
     "geom:bbox": "72.642930,15.606794,80.899558,22.029028",
     "geom:latitude": 19.450869554953854,
     "geom:longitude": 76.10584013684245,
@@ -640,6 +640,10 @@
       85632469
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      102030609,
+      102029277
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 1320,
       "fips:code": "IN16",
@@ -654,7 +658,7 @@
       "wk:page": "Maharashtra"
     },
     "wof:country": "IN",
-    "wof:created": 1624906861,
+    "wof:created": 1652217959,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -694,7 +698,7 @@
       "kha",
       "san"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217959,
     "wof:name": "Maharashtra",
     "wof:parent_id": 85632469,
     "wof:placetype": "region",

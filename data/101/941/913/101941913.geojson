@@ -469,7 +469,7 @@
     "qs:pop": 0,
     "qs:source": "ABrasil IBGE",
     "qs:type": "Metrópole",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -496,12 +496,13 @@
       "fct:id": "0389e6c6-8f76-11e1-848f-cfd5bf3ef515",
       "gn:id": 3663517,
       "gp:id": 455833,
+      "ne:id": 1159151005,
       "nyt:id": "N38418509674884000301",
       "qs_pg:id": 274491,
       "wd:id": "Q40236"
     },
     "wof:country": "BR",
-    "wof:created": 1624906517,
+    "wof:created": 1652217861,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -520,14 +521,14 @@
     "wof:lang": [
       "por"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217861,
     "wof:megacity": 1,
     "wof:name": "Manaus",
     "wof:parent_id": 102050371,
     "wof:placetype": "locality",
     "wof:population": 1405835,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-br",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

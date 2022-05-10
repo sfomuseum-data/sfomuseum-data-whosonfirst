@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1929",
     "geom:area": 0.000005394262500006306,
-    "geom:area_square_m": 50309.806648,
+    "geom:area_square_m": 50309.806647,
     "geom:bbox": "-81.468040,41.037292,-81.465340,41.041393",
     "geom:latitude": 41.039099289542364,
     "geom:longitude": -81.46670192932073,
@@ -57,11 +57,8 @@
     "oa:elevation_ft": "1067",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 185,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Akron Fulton International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -73,21 +70,26 @@
       "suburb_id": 2398656
     },
     "wof:belongsto": [
-      85817823,
+      85688485,
       102191575,
-      404526061,
+      404524273,
       85633793,
-      101714063,
-      102084807,
-      85688485
+      101713359,
+      102084807
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "AKR",
+      "gn:id": 5145491,
+      "gp:id": 12518549,
       "iata:code": "AKC",
-      "icao:code": "KAKR"
+      "icao:code": "KAKR",
+      "oa:id": "3370",
+      "wd:id": "Q4059807",
+      "wk:page": "Akron_Fulton_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218157,
     "wof:geomhash": "2ecf8e6d46661b87dfc72d728d745172",
     "wof:hierarchy": [
       {
@@ -95,18 +97,18 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084807,
-        "localadmin_id": 404526061,
-        "locality_id": 101714063,
-        "neighbourhood_id": 85817823,
+        "localadmin_id": 404524273,
+        "locality_id": 101713359,
+        "neighbourhood_id": -1,
         "region_id": 85688485
       }
     ],
     "wof:id": 102529303,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218157,
     "wof:name": "Fulton International Airport",
-    "wof:parent_id": 85817823,
+    "wof:parent_id": 101713359,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00016687265549996088,
-    "geom:area_square_m": 1554439.195573,
+    "geom:area_square_m": 1554439.195574,
     "geom:bbox": "-95.928299,41.110397,-95.899246,41.134491",
     "geom:latitude": 41.11995908176495,
     "geom:longitude": -95.91241903123874,
@@ -117,20 +117,19 @@
       "state_id": 2347586
     },
     "wof:belongsto": [
-      85820061,
+      85688563,
       102191575,
       404520905,
       85633793,
       85974747,
-      102082777,
-      85688563
+      102082777
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "OFF"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218165,
     "wof:geomhash": "363f0fb8b94b5dff7a5a8059ed233df5",
     "wof:hierarchy": [
       {
@@ -140,18 +139,18 @@
         "county_id": 102082777,
         "localadmin_id": 404520905,
         "locality_id": 85974747,
-        "neighbourhood_id": 85820061,
+        "neighbourhood_id": -1,
         "region_id": 85688563
       }
     ],
     "wof:id": 102529985,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218165,
     "wof:name": "Offutt Air Force Base",
-    "wof:parent_id": 85820061,
+    "wof:parent_id": 85974747,
     "wof:placetype": "campus",
     "wof:population": 4644,
     "wof:population_rank": 4,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

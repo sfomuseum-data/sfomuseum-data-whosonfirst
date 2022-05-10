@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.035274839044000056,
-    "geom:area_square_m": 351856644.806542,
+    "geom:area_square_m": 351856644.807133,
     "geom:bbox": "-115.414628,36.129554,-115.062066,36.380491",
     "geom:latitude": 36.22742019299663,
     "geom:longitude": -115.26265215401394,
@@ -620,8 +620,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688531,
-      102081553
+      102081553,
+      85688531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -631,13 +631,14 @@
       "gn:id": 5506956,
       "gp:id": 2436704,
       "loc:id": "n79041932",
+      "ne:id": 1159150483,
       "nyt:id": "N57505176129465402971",
       "qs_pg:id": 823019,
       "wd:id": "Q23768",
       "wk:page": "Las Vegas"
     },
     "wof:country": "US",
-    "wof:created": 1624906863,
+    "wof:created": 1652218041,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -652,14 +653,14 @@
       }
     ],
     "wof:id": 85974801,
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218041,
     "wof:megacity": 1,
     "wof:name": "Las Vegas",
     "wof:parent_id": 102081553,
     "wof:placetype": "locality",
     "wof:population": 583756,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [

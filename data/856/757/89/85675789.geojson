@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.7217699688290005,
-    "geom:area_square_m": 8813200925.36877,
+    "geom:area_square_m": 8813200697.480808,
     "geom:bbox": "-79.691480,8.205167,-78.062597,9.498281",
     "geom:latitude": 9.068609630158448,
     "geom:longitude": -78.85031540505442,
@@ -39,6 +39,9 @@
     "name:bel_x_preferred": [
       "Панама"
     ],
+    "name:ben_x_preferred": [
+      "পানামা"
+    ],
     "name:bul_x_preferred": [
       "Панама"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred": [
       "Provinz Panamá"
+    ],
+    "name:ell_x_preferred": [
+      "Παναμάς"
     ],
     "name:eng_x_preferred": [
       "Panama"
@@ -70,6 +76,15 @@
       "Panama"
     ],
     "name:frr_x_preferred": [
+      "Panama"
+    ],
+    "name:heb_x_preferred": [
+      "פנמה"
+    ],
+    "name:hin_x_preferred": [
+      "पनामा"
+    ],
+    "name:hun_x_preferred": [
       "Panama"
     ],
     "name:hye_x_preferred": [
@@ -268,7 +283,7 @@
       "wk:page": "Panamá Province"
     },
     "wof:country": "PA",
-    "wof:created": 1624906863,
+    "wof:created": 1652217980,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -287,14 +302,14 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217980,
     "wof:name": "Panama",
     "wof:parent_id": 85632179,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 1249032,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-pa",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "PM",
     "wof:subdivision": "PA-8",
     "wof:superseded_by": [],

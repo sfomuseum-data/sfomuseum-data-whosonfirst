@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.005298360067499922,
-    "geom:area_square_m": 42696654.172174,
+    "geom:area_square_m": 42696654.172175,
     "geom:bbox": "8.375421,49.282976,8.491796,49.376571",
     "geom:latitude": 49.32969826870043,
     "geom:longitude": 8.434998625737988,
@@ -302,11 +302,11 @@
     "woe:name_adm1": "Rheinland-Pfalz",
     "woe:placetype": "LocalAdmin",
     "wof:belongsto": [
-      85682491,
       102191581,
-      1377686145,
       85633111,
-      102063419
+      102063419,
+      1377686145,
+      85682491
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -318,10 +318,11 @@
       "wk:page": "Speyer"
     },
     "wof:coterminous": [
-      102063419
+      102063419,
+      1377686145
     ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217801,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -338,13 +339,13 @@
       }
     ],
     "wof:id": 101748531,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217801,
     "wof:name": "Speyer",
     "wof:parent_id": 1377686145,
     "wof:placetype": "locality",
     "wof:population": 50343,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125366099,

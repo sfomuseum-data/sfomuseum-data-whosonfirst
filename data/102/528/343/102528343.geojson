@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000054368095000032274,
-    "geom:area_square_m": 450291.076037,
+    "geom:area_square_m": 450291.076036,
     "geom:bbox": "-97.181335,47.941990,-97.171730,47.953167",
     "geom:latitude": 47.94805226284841,
     "geom:longitude": -97.1775693158138,
@@ -84,20 +84,19 @@
       "state_id": 2347593
     },
     "wof:belongsto": [
-      85808891,
+      85688525,
       102191575,
       404480591,
       85633793,
       85982323,
-      102081493,
-      85688525
+      102081493
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "GFK"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218143,
     "wof:geomhash": "6bfcffc0f6517bf51bb0455e4828e04a",
     "wof:hierarchy": [
       {
@@ -107,16 +106,16 @@
         "county_id": 102081493,
         "localadmin_id": 404480591,
         "locality_id": 85982323,
-        "neighbourhood_id": 85808891,
+        "neighbourhood_id": -1,
         "region_id": 85688525
       }
     ],
     "wof:id": 102528343,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1652218143,
     "wof:name": "Grand Forks Mark Andrews International Airport",
-    "wof:parent_id": 85808891,
+    "wof:parent_id": 85982323,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

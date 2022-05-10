@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.15497914604349985,
-    "geom:area_square_m": 1468410171.367735,
+    "geom:area_square_m": 1468410171.367541,
     "geom:bbox": "115.613909,39.592447,117.450111,40.342992",
     "geom:latitude": 39.98107218028381,
     "geom:longitude": 116.40365926088803,
@@ -19,7 +19,7 @@
     "mps:longitude": 116.417592,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "mz:min_zoom": 2,
+    "mz:min_zoom": 1.7,
     "name:ace_x_preferred": [
       "Beijing"
     ],
@@ -931,20 +931,23 @@
     "src:lbl_centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85669727,
       102191569,
       85632695,
+      1108732371,
       136253041,
-      1108732371
+      85669727
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632695,
+    "wof:capital_of": [
+      85632695
+    ],
     "wof:concordances": {
       "dbp:id": "Beijing",
       "fb:id": "en.beijing",
       "gn:id": 1816670,
       "gp:id": 2151330,
       "loc:id": "n79076155",
+      "ne:id": 1159151595,
       "nyt:id": "49823253852479839961",
       "qs_pg:id": 274069,
       "wd:id": "Q956",
@@ -955,7 +958,7 @@
       1108732371
     ],
     "wof:country": "CN",
-    "wof:created": 1624906905,
+    "wof:created": 1652218104,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -971,14 +974,14 @@
       }
     ],
     "wof:id": 102027745,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218104,
     "wof:megacity": 1,
     "wof:name": "Beijing",
     "wof:parent_id": 1108732371,
     "wof:placetype": "locality",
     "wof:population": 11716620,
     "wof:population_rank": 14,
-    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [],

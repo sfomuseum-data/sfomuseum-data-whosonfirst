@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.3962952001175002,
-    "geom:area_square_m": 3869721419.023806,
+    "geom:area_square_m": 3869721964.917675,
     "geom:bbox": "22.883449,35.823658,24.091463,38.339138",
     "geom:latitude": 37.83987802712243,
     "geom:longitude": 23.602836212062556,
@@ -68,10 +68,11 @@
       "Attika"
     ],
     "name:ell_x_preferred": [
-      "ΑΤΤΙΚΗ"
+      "Ατιική"
     ],
     "name:ell_x_variant": [
-      "Αττική"
+      "Αττική",
+      "ΑΤΤΙΚΗ"
     ],
     "name:eng_x_preferred": [
       "Attica"
@@ -242,7 +243,7 @@
     "wof:breaches": [],
     "wof:concordances": {},
     "wof:country": "GR",
-    "wof:created": 1624906881,
+    "wof:created": 1652218027,
     "wof:geomhash": "cadf11e6d62731894f1f3c8996512cde",
     "wof:hierarchy": [
       {
@@ -258,12 +259,12 @@
     "wof:lang_x_spoken": [
       "ell"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218027,
     "wof:name": "Attica",
     "wof:parent_id": 85633171,
     "wof:placetype": "region",
     "wof:placetype_local": "region",
-    "wof:repo": "whosonfirst-data-admin-gr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "AT",
     "wof:superseded_by": [],
     "wof:supersedes": [],

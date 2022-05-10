@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00012436225649997497,
-    "geom:area_square_m": 1139220.668635,
+    "geom:area_square_m": 1139220.668633,
     "geom:bbox": "-89.109482,42.192982,-89.085472,42.202667",
     "geom:latitude": 42.197938269791045,
     "geom:longitude": -89.0968025331744,
@@ -94,7 +94,7 @@
       "iata:code": "RFD"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218142,
     "wof:geomhash": "8a9d152dfa5e5c59074bc3241cb920b3",
     "wof:hierarchy": [
       {
@@ -104,15 +104,16 @@
         "county_id": 102080827,
         "localadmin_id": 404499349,
         "locality_id": 85939829,
+        "neighbourhood_id": -1,
         "region_id": 85688697
       }
     ],
     "wof:id": 102528325,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1652218142,
     "wof:name": "Greater Rockford Airport",
     "wof:parent_id": 85939829,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.026098725417499885,
-    "geom:area_square_m": 242378001.496943,
+    "geom:area_square_m": 242378001.49692,
     "geom:bbox": "69.136069,41.219172,69.363770,41.403552",
     "geom:latitude": 41.31780406715744,
     "geom:longitude": 69.24915652302185,
@@ -639,10 +639,13 @@
       85680429
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632645,
+    "wof:capital_of": [
+      85632645
+    ],
     "wof:concordances": {
       "gn:id": 1512569,
       "gp:id": 2272113,
+      "ne:id": 1159151501,
       "qs_pg:id": 1064617,
       "wd:id": "Q269"
     },
@@ -664,7 +667,8 @@
       }
     ],
     "wof:id": 421168855,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217871,
+    "wof:megacity": 1,
     "wof:name": "Tashkent",
     "wof:parent_id": 85680429,
     "wof:placetype": "locality",

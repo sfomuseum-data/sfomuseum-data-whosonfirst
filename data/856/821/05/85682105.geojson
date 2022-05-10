@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 519.7482554603138,
-    "geom:area_square_m": 2078646165665.6814,
+    "geom:area_square_m": 2078646165665.7056,
     "geom:bbox": "-120.724914,51.499324,-61.095324,83.135050",
     "geom:latitude": 71.02163946169121,
     "geom:longitude": -88.8812255036963,
@@ -18,7 +18,7 @@
       "Nvt."
     ],
     "label:eng_x_preferred_longname": [
-      "Nunavut Territory"
+      "Nunavut"
     ],
     "label:eng_x_preferred_placetype": [
       "territory"
@@ -26,8 +26,21 @@
     "label:eng_x_preferred_shortcode": [
       "NU"
     ],
+    "label:eng_x_variant_longname": [
+      "Nunavut Territory",
+      "Territory of Nunavut"
+    ],
     "label:fra_x_preferred_abbreviation": [
       "Nt"
+    ],
+    "label:fra_x_preferred_longname": [
+      "Nunavut"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "territoire"
+    ],
+    "label:fra_x_preferred_shortcode": [
+      "NU"
     ],
     "lbl:latitude": 71.082001,
     "lbl:longitude": -90.610158,
@@ -517,6 +530,9 @@
       85633041
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101735445
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 60,
       "fips:code": "CA14",
@@ -528,7 +544,7 @@
       "wd:id": "Q2023"
     },
     "wof:country": "CA",
-    "wof:created": 1624906878,
+    "wof:created": 1652218016,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -551,14 +567,14 @@
       "iku",
       "ikt"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218016,
     "wof:name": "Nunavut",
     "wof:parent_id": 85633041,
     "wof:placetype": "region",
     "wof:placetype_local": "territory",
     "wof:population": 31906,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-ca",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "NU",
     "wof:subdivision": "CA-NU",
     "wof:superseded_by": [],

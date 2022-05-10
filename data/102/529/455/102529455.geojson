@@ -54,8 +54,6 @@
     "oa:elevation_ft": "1497",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 278,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Eastern Oregon Regional Airport",
     "sfomuseum:placetype": "airport",
     "src:centroid_lbl": "geonames",
@@ -77,11 +75,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PDT",
+      "gn:id": 5745389,
+      "gp:id": 12521330,
       "iata:code": "PDT",
-      "icao:code": "KPDT"
+      "icao:code": "KPDT",
+      "oa:id": "20815",
+      "wd:id": "Q5330354",
+      "wk:page": "Eastern_Oregon_Regional_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640221038,
+    "wof:created": 1652218159,
     "wof:geomhash": "e74a27f42a4dd1c64c9091bdfe0d2372",
     "wof:hierarchy": [
       {
@@ -95,7 +99,7 @@
       }
     ],
     "wof:id": 102529455,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218159,
     "wof:name": "Eastern Oregon Regional Airport",
     "wof:parent_id": 420536139,
     "wof:placetype": "campus",

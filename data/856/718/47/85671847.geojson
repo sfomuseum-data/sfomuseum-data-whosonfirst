@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.05823131460000088,
-    "geom:area_square_m": 666557132.072802,
+    "geom:area_square_m": 666557132.0728,
     "geom:bbox": "113.817230,22.136720,114.309250,22.324630",
     "geom:latitude": 22.22223279329768,
     "geom:longitude": 114.01882100829826,
@@ -31,11 +31,50 @@
     "name:eng_x_preferred": [
       "Islands"
     ],
+    "name:fra_x_preferred": [
+      "Islands"
+    ],
     "name:kor_x_preferred": [
+      "아일랜즈"
+    ],
+    "name:kor_x_variant": [
       "리다오 구"
+    ],
+    "name:nld_x_preferred": [
+      "Eilanden"
+    ],
+    "name:pol_x_preferred": [
+      "Wyspy"
+    ],
+    "name:por_x_preferred": [
+      "Islands"
+    ],
+    "name:rus_x_preferred": [
+      "район Айлендс"
+    ],
+    "name:swe_x_preferred": [
+      "Lantau"
+    ],
+    "name:tur_x_preferred": [
+      "Adalar"
+    ],
+    "name:ukr_x_preferred": [
+      "Айлендс"
     ],
     "name:und_x_variant": [
       "Southern District"
+    ],
+    "name:urd_x_preferred": [
+      "جزائر"
+    ],
+    "name:vie_x_preferred": [
+      "Li Đảo"
+    ],
+    "name:zho_cn_x_preferred": [
+      "群岛"
+    ],
+    "name:zho_tw_x_preferred": [
+      "島嶼"
     ],
     "name:zho_x_preferred": [
       "離島區"
@@ -146,7 +185,7 @@
       "qs_pg:id": 223958
     },
     "wof:country": "HK",
-    "wof:created": 1624906860,
+    "wof:created": 1652217956,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -168,14 +207,14 @@
       "zho",
       "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217956,
     "wof:name": "Islands",
     "wof:parent_id": 1159397229,
     "wof:placetype": "region",
     "wof:placetype_local": "rural district",
     "wof:population": 141327,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-hk",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "IS",
     "wof:superseded_by": [],
     "wof:supersedes": [],

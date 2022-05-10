@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.09620201745950034,
-    "geom:area_square_m": 999967998.329201,
+    "geom:area_square_m": 999967998.326564,
     "geom:bbox": "-97.000482,32.613216,-96.463738,33.023792",
     "geom:latitude": 32.793980066666336,
     "geom:longitude": -96.76569213416711,
@@ -606,8 +606,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688753,
-      102080647
+      102080647,
+      85688753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -618,13 +618,14 @@
       "gn:id": 4684888,
       "gp:id": 2388929,
       "loc:id": "n79023321",
+      "ne:id": 1159151235,
       "nyt:id": "N50557194570297334931",
       "qs_pg:id": 1147209,
       "wd:id": "Q16557",
       "wk:page": "Dallas"
     },
     "wof:country": "US",
-    "wof:created": 1624906513,
+    "wof:created": 1652217772,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -642,14 +643,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217772,
     "wof:megacity": 1,
     "wof:name": "Dallas",
     "wof:parent_id": 102080647,
     "wof:placetype": "locality",
     "wof:population": 1197816,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [

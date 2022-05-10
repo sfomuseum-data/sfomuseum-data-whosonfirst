@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0011007239344999983,
-    "geom:area_square_m": 8478285.402716,
+    "geom:area_square_m": 8478285.402717,
     "geom:bbox": "-0.496959,51.452133,-0.418124,51.485100",
     "geom:latitude": 51.470712958582,
     "geom:longitude": -0.4537227270022674,
@@ -256,11 +256,8 @@
       "伦敦希思罗机场"
     ],
     "sfomuseum:airport_id": 70,
-    "sfomuseum:count_objects_public": 13,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "London Heathrow Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -283,11 +280,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23382429,
       "iata:code": "LHR",
-      "icao:code": "EGLL"
+      "icao:code": "EGLL",
+      "wd:id": "Q8691"
     },
     "wof:country": "GB",
-    "wof:created": 1624906753,
+    "wof:created": 1652218287,
     "wof:geomhash": "55eccaa772c10719babc4466d23b00d2",
     "wof:hierarchy": [
       {
@@ -302,7 +301,7 @@
       }
     ],
     "wof:id": 102556703,
-    "wof:lastmodified": 1648799211,
+    "wof:lastmodified": 1652218287,
     "wof:name": "London Heathrow Airport",
     "wof:parent_id": 85788065,
     "wof:placetype": "campus",

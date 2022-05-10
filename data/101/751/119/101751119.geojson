@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.012911931871499839,
-    "geom:area_square_m": 105046692.515955,
+    "geom:area_square_m": 105046692.515952,
     "geom:bbox": "2.224225,48.815607,2.469769,48.902008",
     "geom:latitude": 48.85659932294579,
     "geom:longitude": 2.342841036812924,
@@ -17,7 +17,7 @@
     "mps:longitude": 2.342865,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "mz:min_zoom": 2,
+    "mz:min_zoom": 1.7,
     "name:ace_x_preferred": [
       "Paris"
     ],
@@ -1041,14 +1041,16 @@
     "src:lbl_centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683497,
       102191581,
-      1159322569,
       85633147,
-      404227465
+      1159322569,
+      404227465,
+      85683497
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633147,
+    "wof:capital_of": [
+      85633147
+    ],
     "wof:concordances": {
       "dbp:id": "Paris",
       "fb:id": "en.paris",
@@ -1056,6 +1058,7 @@
       "gn:id": 2988507,
       "gp:id": 615702,
       "loc:id": "n79058874",
+      "ne:id": 1159151613,
       "nyt:id": "N38451885616396959731",
       "qs:id": 783857,
       "qs_pg:id": 783857,
@@ -1063,10 +1066,11 @@
       "wk:page": "Paris"
     },
     "wof:coterminous": [
-      1159322569
+      1159322569,
+      85683497
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217821,
     "wof:geom_alt": [
       "naturalearth",
       "quattroshapes_pg",
@@ -1088,13 +1092,14 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217821,
+    "wof:megacity": 1,
     "wof:name": "Paris",
     "wof:parent_id": 1159322569,
     "wof:placetype": "locality",
     "wof:population": 2138551,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1141909433

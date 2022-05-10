@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01776651833399996,
-    "geom:area_square_m": 219537278.37362,
+    "geom:area_square_m": 219537278.373639,
     "geom:bbox": "45.279931,1.999021,45.608667,2.185002",
     "geom:latitude": 2.1114233394292548,
     "geom:longitude": 45.42657662872393,
@@ -589,14 +589,17 @@
     "wof:belongsto": [
       102191573,
       85632379,
-      85677263,
-      1108757805
+      1108757805,
+      85677263
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632379,
+    "wof:capital_of": [
+      85632379
+    ],
     "wof:concordances": {
       "gn:id": 53654,
       "gp:id": 1428499,
+      "ne:id": 1159150715,
       "qs_pg:id": 57324,
       "wd:id": "Q2449",
       "wk:page": "Mogadishu"
@@ -620,13 +623,14 @@
       }
     ],
     "wof:id": 890449737,
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218065,
+    "wof:megacity": 1,
     "wof:name": "Mogadishu",
     "wof:parent_id": 1108757805,
     "wof:placetype": "locality",
     "wof:population": 2587183,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-so",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

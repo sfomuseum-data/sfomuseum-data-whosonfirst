@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.08692552910399892,
-    "geom:area_square_m": 903679606.045231,
+    "geom:area_square_m": 903679606.047451,
     "geom:bbox": "-97.592388,32.551592,-97.033715,33.049529",
     "geom:latitude": 32.780587623739194,
     "geom:longitude": -97.34683095239536,
@@ -14,24 +14,24 @@
     "iso:country": "US",
     "lbl:latitude": 32.729442,
     "lbl:longitude": -97.33181,
+    "lbl:max_zoom": 13,
+    "lbl:min_zoom": 7,
     "mps:latitude": 32.729442,
     "mps:longitude": -97.33181,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
+    "mz:min_zoom": 5,
     "name:afr_x_preferred": [
-      "Fort Worth"
-    ],
-    "name:alb_x_preferred": [
       "Fort Worth"
     ],
     "name:ara_x_preferred": [
       "فورت وورث، تكساس"
     ],
+    "name:ara_x_variant": [
+      "فورت وورث"
+    ],
     "name:arg_x_preferred": [
       "Fort Worth"
-    ],
-    "name:arm_x_preferred": [
-      "Ֆորտ-Ուերտ"
     ],
     "name:ast_x_preferred": [
       "Fort Worth"
@@ -42,11 +42,14 @@
     "name:aze_x_preferred": [
       "Fort Vort"
     ],
-    "name:baq_x_preferred": [
+    "name:bam_x_preferred": [
       "Fort Worth"
     ],
     "name:bel_x_preferred": [
       "Горад Форт-Уэрт"
+    ],
+    "name:bel_x_variant": [
+      "Форт-Уэрт"
     ],
     "name:ben_x_preferred": [
       "ফোর্ট ওয়ার্থ"
@@ -60,20 +63,26 @@
     "name:cat_x_preferred": [
       "Fort Worth"
     ],
-    "name:chi_x_preferred": [
-      "沃思堡"
+    "name:ceb_x_preferred": [
+      "Fort Worth"
+    ],
+    "name:ces_x_preferred": [
+      "Fort Worth"
     ],
     "name:cor_x_preferred": [
       "Fort Worth"
     ],
-    "name:cze_x_preferred": [
+    "name:cym_x_preferred": [
       "Fort Worth"
     ],
     "name:dan_x_preferred": [
       "Fort Worth"
     ],
-    "name:dut_x_preferred": [
+    "name:deu_x_preferred": [
       "Fort Worth"
+    ],
+    "name:ell_x_preferred": [
+      "Φορτ Γουόρθ"
     ],
     "name:eml_x_preferred": [
       "Fort Worth"
@@ -98,29 +107,29 @@
     "name:est_x_preferred": [
       "Fort Worth"
     ],
+    "name:eus_x_preferred": [
+      "Fort Worth"
+    ],
+    "name:fas_x_preferred": [
+      "فورت وورث"
+    ],
     "name:fin_x_preferred": [
       "Fort Worth"
     ],
-    "name:fre_x_preferred": [
+    "name:fra_x_preferred": [
       "Fort Worth"
     ],
     "name:fry_x_preferred": [
       "Fort Worth"
     ],
-    "name:geo_x_preferred": [
-      "ფორტ-უერთი"
-    ],
-    "name:ger_x_preferred": [
+    "name:gla_x_preferred": [
       "Fort Worth"
     ],
-    "name:gla_x_preferred": [
+    "name:gle_x_preferred": [
       "Fort Worth"
     ],
     "name:glg_x_preferred": [
       "Fort Worth"
-    ],
-    "name:gre_x_preferred": [
-      "Φορτ Γουόρθ"
     ],
     "name:guj_x_preferred": [
       "ફોર્ટ વર્થ"
@@ -140,8 +149,8 @@
     "name:hun_x_preferred": [
       "Fort Worth"
     ],
-    "name:ice_x_preferred": [
-      "Fort Worth"
+    "name:hye_x_preferred": [
+      "Ֆորտ-Ուերտ"
     ],
     "name:ido_x_preferred": [
       "Fort Worth"
@@ -152,6 +161,9 @@
     "name:ind_x_preferred": [
       "Fort Worth"
     ],
+    "name:isl_x_preferred": [
+      "Fort Worth"
+    ],
     "name:ita_x_preferred": [
       "Fort Worth"
     ],
@@ -160,6 +172,9 @@
     ],
     "name:kan_x_preferred": [
       "ಫೋರ್ಟ್ ವರ್ತ್"
+    ],
+    "name:kat_x_preferred": [
+      "ფორტ-უერთი"
     ],
     "name:kor_x_preferred": [
       "포트워스"
@@ -176,22 +191,25 @@
     "name:lmo_x_preferred": [
       "Fort Worth"
     ],
-    "name:mac_x_preferred": [
-      "Форт Ворт"
-    ],
     "name:mal_x_preferred": [
       "ഫോർട്ട് വർത്ത്"
     ],
     "name:mar_x_preferred": [
       "फोर्ट वर्थ"
     ],
-    "name:may_x_preferred": [
-      "Fort Worth"
+    "name:mkd_x_preferred": [
+      "Форт Ворт"
     ],
     "name:mlg_x_preferred": [
       "Fort Worth"
     ],
+    "name:msa_x_preferred": [
+      "Fort Worth"
+    ],
     "name:nan_x_preferred": [
+      "Fort Worth"
+    ],
+    "name:nld_x_preferred": [
       "Fort Worth"
     ],
     "name:nno_x_preferred": [
@@ -209,9 +227,6 @@
     "name:pan_x_preferred": [
       "ਫ਼ੋਰਟ ਵਰਥ"
     ],
-    "name:per_x_preferred": [
-      "فورت وورث"
-    ],
     "name:pnb_x_preferred": [
       "فورٹ ورتھ"
     ],
@@ -224,7 +239,7 @@
     "name:que_x_preferred": [
       "Fort Worth"
     ],
-    "name:rum_x_preferred": [
+    "name:ron_x_preferred": [
       "Fort Worth"
     ],
     "name:rus_x_preferred": [
@@ -239,18 +254,20 @@
     "name:sin_x_preferred": [
       "ෆෝර්ට් වර්ත්"
     ],
-    "name:slo_x_preferred": [
+    "name:slk_x_preferred": [
       "Fort Worth"
     ],
     "name:slv_x_preferred": [
       "Fort Worth"
     ],
     "name:spa_x_preferred": [
-      "Valor de Fortaleza"
+      "Fort Worth"
     ],
     "name:spa_x_variant": [
       "Ciudad del Valor de Fortaleza",
-      "Valor de Fortaleza",
+      "Valor de Fortaleza"
+    ],
+    "name:sqi_x_preferred": [
       "Fort Worth"
     ],
     "name:srd_x_preferred": [
@@ -274,6 +291,9 @@
     "name:tam_x_preferred": [
       "வொர்த் கோட்டை"
     ],
+    "name:tat_x_preferred": [
+      "Форт-Верт"
+    ],
     "name:tel_x_preferred": [
       "ఫోర్ట్ వర్త్"
     ],
@@ -288,6 +308,9 @@
     ],
     "name:ukr_x_preferred": [
       "Форт-Ворт"
+    ],
+    "name:ukr_x_variant": [
+      "Форт-Верт"
     ],
     "name:urd_x_preferred": [
       "فورٹ وورتھ"
@@ -304,9 +327,6 @@
     "name:war_x_preferred": [
       "Fort Worth"
     ],
-    "name:wel_x_preferred": [
-      "Fort Worth"
-    ],
     "name:xmf_x_preferred": [
       "ფორთ უერთი"
     ],
@@ -318,6 +338,9 @@
     ],
     "name:zho_x_preferred": [
       "沃斯堡"
+    ],
+    "name:zho_x_variant": [
+      "沃思堡"
     ],
     "qs:a0": "United States",
     "qs:a1": "*Texas",
@@ -339,7 +362,7 @@
     "src:geom_alt": [
       "quattroshapes_pg"
     ],
-    "src:lbl:centroid": "mapshaper",
+    "src:lbl_centroid": "mapshaper",
     "src:population": "wk",
     "wd:elevation": 216,
     "wd:latitude": 32.757222,
@@ -349,8 +372,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688753,
-      102083201
+      102083201,
+      85688753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -362,13 +385,15 @@
       "gp:id": 2406080,
       "loc:id": "n79027008",
       "nyt:id": "50495356098784195861",
-      "qs:id": 1049599,
       "qs_pg:id": 1049599,
       "wd:id": "Q16558",
       "wk:page": "Fort Worth, Texas"
     },
     "wof:country": "US",
-    "wof:created": 1624906953,
+    "wof:created": 1652217773,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
+    ],
     "wof:geomhash": "943d52a793ba7a8c65796dbf71f4ea69",
     "wof:hierarchy": [
       {
@@ -383,7 +408,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217773,
     "wof:megacity": 0,
     "wof:name": "Fort Worth",
     "wof:parent_id": 102083201,

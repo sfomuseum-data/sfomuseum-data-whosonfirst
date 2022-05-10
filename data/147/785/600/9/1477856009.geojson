@@ -5,6 +5,7 @@
     "date:inception_lower": "2019-01-01",
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2021-12-29",
     "edtf:inception": "2019",
     "geom:area": 0,
     "geom:bbox": "116.410103,39.511060,116.410103,39.511060",
@@ -14,8 +15,12 @@
     "lbl:latitude": 39.51106,
     "lbl:longitude": 116.410103,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:min_zoom": 13,
+    "name:eng_x_variant": [
+      "PKX",
+      "ZBAD"
+    ],
     "sfomuseum:placetype": "airport",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "whosonfirst",
@@ -35,7 +40,7 @@
       "wd:id": "Q1139574"
     },
     "wof:country": "CN",
-    "wof:created": 1624906904,
+    "wof:created": 1640809779,
     "wof:geomhash": "8530abf34e9b206e837632e3e50d9378",
     "wof:hierarchy": [
       {
@@ -49,12 +54,14 @@
       }
     ],
     "wof:id": 1477856009,
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218083,
     "wof:name": "Beijing Daxing International Airport",
     "wof:parent_id": 102027745,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-cn",
-    "wof:superseded_by": [],
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [
+      1729567093
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airport"

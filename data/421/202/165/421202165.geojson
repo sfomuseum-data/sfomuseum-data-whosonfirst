@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01010602072999994,
-    "geom:area_square_m": 104185730.376906,
+    "geom:area_square_m": 104185730.376911,
     "geom:bbox": "36.197303,33.462504,36.351810,33.565360",
     "geom:latitude": 33.515846631231945,
     "geom:longitude": 36.28145211042698,
@@ -569,6 +569,9 @@
       "Damask"
     ],
     "name:vie_x_preferred": [
+      "Damascus"
+    ],
+    "name:vie_x_variant": [
       "Damas"
     ],
     "name:vol_x_preferred": [
@@ -728,16 +731,20 @@
       1108779107
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632413,
+    "wof:capital_of": [
+      85632413
+    ],
     "wof:concordances": {
       "gn:id": 170654,
       "gp:id": 1947122,
+      "ne:id": 1159151269,
       "qs_pg:id": 219482,
       "wd:id": "Q3766",
       "wk:page": "Damascus"
     },
     "wof:coterminous": [
-      85678403
+      85678403,
+      1108779107
     ],
     "wof:country": "SY",
     "wof:created": 1459010107,
@@ -755,13 +762,14 @@
       }
     ],
     "wof:id": 421202165,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217900,
+    "wof:megacity": 1,
     "wof:name": "Damascus",
     "wof:parent_id": 85678403,
     "wof:placetype": "locality",
     "wof:population": 1569394,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-sy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

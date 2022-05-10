@@ -2,8 +2,12 @@
   "id": 102525961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2016-01-01",
+    "date:cessation_upper": "2016-12-31",
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "2016",
+    "edtf:inception": "1971",
     "geom:area": 0.0001021487749999923,
     "geom:area_square_m": 985157.740167,
     "geom:bbox": "-90.377838,38.738499,-90.354164,38.749531",
@@ -108,11 +112,8 @@
     "oa:elevation_ft": "618",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 136,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Lambert St. Louis International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -125,11 +126,17 @@
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "STL",
+      "gn:id": 4394516,
+      "gp:id": 12520553,
       "iata:code": "STL",
-      "icao:code": "KSTL"
+      "icao:code": "KSTL",
+      "oa:id": "3905",
+      "wd:id": "Q1425838",
+      "wk:page": "Lambert-St._Louis_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640221721,
+    "wof:created": 1640287837,
     "wof:geomhash": "5c7de15ca781df5e6235e25f55f24378",
     "wof:hierarchy": [
       {
@@ -142,13 +149,17 @@
       }
     ],
     "wof:id": 102525961,
-    "wof:lastmodified": 1649405541,
-    "wof:name": "Lambert St Louis International Airport",
+    "wof:lastmodified": 1652218119,
+    "wof:name": "Lambert-St. Louis International Airport",
     "wof:parent_id": 1729434409,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:superseded_by": [
+      1746879059
+    ],
+    "wof:supersedes": [
+      1746879061
+    ],
     "wof:tags": [
       "airport"
     ]

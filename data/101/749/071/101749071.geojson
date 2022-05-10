@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0007091918785000358,
-    "geom:area_square_m": 5763286.456877,
+    "geom:area_square_m": 5763286.456876,
     "geom:bbox": "2.365643,48.901148,2.411281,48.924403",
     "geom:latitude": 48.912427888386325,
     "geom:longitude": 2.384444999963852,
@@ -214,13 +214,13 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683475,
       102191581,
       85633147,
+      102071949,
       1159321961,
       404228189,
       404227465,
-      102071949
+      85683475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -233,10 +233,11 @@
       "wk:page": "Aubervilliers"
     },
     "wof:coterminous": [
-      1159321961
+      1159321961,
+      102071949
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217800,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -258,13 +259,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217800,
     "wof:name": "Aubervilliers",
     "wof:parent_id": 1159321961,
     "wof:placetype": "locality",
     "wof:population": 70914,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

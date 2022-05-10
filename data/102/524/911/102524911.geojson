@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1951",
     "geom:area": 0.0010625271975000464,
-    "geom:area_square_m": 5589470.689447,
+    "geom:area_square_m": 5589470.689439,
     "geom:bbox": "-147.894333,64.809532,-147.829041,64.834831",
     "geom:latitude": 64.82204749452849,
     "geom:longitude": -147.86429884303578,
@@ -83,11 +83,8 @@
     "oa:elevation_ft": "439",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 244,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Fairbanks International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -107,11 +104,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "FAI",
+      "gn:id": 5861905,
+      "gp:id": 12519682,
       "iata:code": "FAI",
-      "icao:code": "PAFA"
+      "icao:code": "PAFA",
+      "oa:id": "5360",
+      "wd:id": "Q1431295",
+      "wk:page": "Fairbanks_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218112,
     "wof:geomhash": "da17fe9754cad3fe2c0acc704c8970f9",
     "wof:hierarchy": [
       {
@@ -124,11 +127,11 @@
       }
     ],
     "wof:id": 102524911,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218112,
     "wof:name": "Fairbanks International Airport",
     "wof:parent_id": 85916551,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

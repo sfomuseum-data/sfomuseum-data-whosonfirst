@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.009444241151999983,
-    "geom:area_square_m": 71146105.80566,
+    "geom:area_square_m": 71146105.805656,
     "geom:bbox": "9.628568,52.422786,9.776604,52.506467",
     "geom:latitude": 52.46597623033746,
     "geom:longitude": 9.704648591117472,
@@ -333,11 +333,11 @@
     "woe:name_adm1": "Niedersachsen",
     "woe:placetype": "LocalAdmin",
     "wof:belongsto": [
-      85682555,
       102191581,
-      1377686343,
       85633111,
-      102063941
+      102063941,
+      1377686343,
+      85682555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -347,8 +347,11 @@
       "wd:id": "Q4158",
       "wk:page": "Langenhagen"
     },
+    "wof:coterminous": [
+      1377686343
+    ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217808,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -365,13 +368,13 @@
       }
     ],
     "wof:id": 101748821,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217808,
     "wof:name": "Langenhagen",
     "wof:parent_id": 1377686343,
     "wof:placetype": "locality",
     "wof:population": 50439,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125279597,

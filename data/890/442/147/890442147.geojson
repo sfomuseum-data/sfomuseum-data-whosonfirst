@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.003969098738499837,
-    "geom:area_square_m": 48256611.366398,
+    "geom:area_square_m": 48256611.366399,
     "geom:bbox": "-66.945359,10.474732,-66.799771,10.530785",
     "geom:latitude": 10.501608209484338,
     "geom:longitude": -66.87744825582232,
@@ -662,14 +662,17 @@
     "wof:belongsto": [
       102191577,
       85632317,
-      85680535,
-      1108694107
+      1108694107,
+      85680535
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632317,
+    "wof:capital_of": [
+      85632317
+    ],
     "wof:concordances": {
       "gn:id": 3646738,
       "gp:id": 395269,
+      "ne:id": 1159151493,
       "qs_pg:id": 274476,
       "wd:id": "Q1533",
       "wk:page": "Caracas"
@@ -693,13 +696,14 @@
       }
     ],
     "wof:id": 890442147,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218063,
+    "wof:megacity": 1,
     "wof:name": "Caracas",
     "wof:parent_id": 1108694107,
     "wof:placetype": "locality",
     "wof:population": 3000000,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-ve",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       421168295

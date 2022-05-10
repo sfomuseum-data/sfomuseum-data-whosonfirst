@@ -113,11 +113,8 @@
     "oa:elevation_ft": "502",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 31,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cork Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -131,32 +128,38 @@
     "wof:belongsto": [
       102191581,
       85633241,
+      1746652153,
       85684963
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12512720,
       "iata:code": "ORK",
-      "icao:code": "EICK"
+      "icao:code": "EICK",
+      "oa:id": "2530",
+      "wd:id": "Q1345361",
+      "wk:page": "Cork_Airport"
     },
     "wof:country": "IE",
-    "wof:created": 1624906444,
+    "wof:created": 1652218252,
     "wof:geomhash": "6a1b58dae611ece3a6044796e25e1f81",
     "wof:hierarchy": [
       {
         "campus_id": 102547663,
         "continent_id": 102191581,
         "country_id": 85633241,
+        "county_id": 1746652153,
         "locality_id": -1,
         "neighbourhood_id": -1,
         "region_id": 85684963
       }
     ],
     "wof:id": 102547663,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218252,
     "wof:name": "Cork Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-ie",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

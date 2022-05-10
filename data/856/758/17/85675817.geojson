@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.011476047681499969,
-    "geom:area_square_m": 138833281.902909,
+    "geom:area_square_m": 138833281.902544,
     "geom:bbox": "-77.187287,-12.079503,-77.076867,-11.819660",
     "geom:latitude": -11.940109703603127,
     "geom:longitude": -77.1251264271822,
@@ -42,25 +42,52 @@
     "name:aym_x_preferred": [
       "Kallao Jach’a Suyu"
     ],
+    "name:ben_x_preferred": [
+      "কাল্লাও"
+    ],
+    "name:deu_x_preferred": [
+      "Callao"
+    ],
+    "name:ell_x_preferred": [
+      "Καλλάο"
+    ],
     "name:eng_x_preferred": [
       "Callao"
     ],
     "name:eng_x_variant": [
       "Callao Province"
     ],
+    "name:fas_x_preferred": [
+      "کالائو"
+    ],
     "name:fra_x_preferred": [
       "Callao"
+    ],
+    "name:heb_x_preferred": [
+      "קאלאו"
+    ],
+    "name:hin_x_preferred": [
+      "कलाओ"
     ],
     "name:hun_x_preferred": [
       "Callao tartomány"
     ],
+    "name:ind_x_preferred": [
+      "Callao"
+    ],
     "name:jpn_x_preferred": [
       "カヤオ特別区"
+    ],
+    "name:kor_x_preferred": [
+      "칼라오"
     ],
     "name:lat_x_preferred": [
       "Provincia Callaënsis"
     ],
     "name:nld_x_preferred": [
+      "Callao"
+    ],
+    "name:pol_x_preferred": [
       "Callao"
     ],
     "name:que_x_preferred": [
@@ -78,11 +105,23 @@
     "name:spa_x_variant": [
       "Provincia Constitucional del Callao"
     ],
+    "name:swe_x_preferred": [
+      "Callao"
+    ],
+    "name:tur_x_preferred": [
+      "Callao"
+    ],
     "name:ukr_x_preferred": [
       "Кальяо"
     ],
     "name:und_x_variant": [
       "Provincia Constitucional Callao"
+    ],
+    "name:urd_x_preferred": [
+      "کیلاؤ"
+    ],
+    "name:vie_x_preferred": [
+      "Callao"
     ],
     "name:zho_x_preferred": [
       "卡亞俄憲法省"
@@ -190,8 +229,11 @@
       "qs_pg:id": 219585,
       "wd:id": "Q3199075"
     },
+    "wof:coterminous": [
+      421187933
+    ],
     "wof:country": "PE",
-    "wof:created": 1624906863,
+    "wof:created": 1652217981,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -212,14 +254,14 @@
       "spa",
       "que"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217981,
     "wof:name": "Callao",
     "wof:parent_id": 85632521,
     "wof:placetype": "region",
     "wof:placetype_local": "region",
     "wof:population": 876877,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-pe",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CL",
     "wof:superseded_by": [],
     "wof:supersedes": [],

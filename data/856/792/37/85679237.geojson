@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5820859979914993,
-    "geom:area_square_m": 5419274660.859074,
+    "geom:area_square_m": 5419274660.858948,
     "geom:bbox": "27.972623,40.801277,29.915492,41.585109",
     "geom:latitude": 41.155229414820695,
     "geom:longitude": 28.80654615781644,
@@ -59,6 +59,9 @@
     ],
     "name:bel_x_preferred": [
       "Правінцыя Стамбул"
+    ],
+    "name:ben_x_preferred": [
+      "ইস্তানবুল"
     ],
     "name:bos_x_preferred": [
       "Istanbul"
@@ -409,8 +412,11 @@
       "wd:id": "Q534799",
       "wk:page": "Istanbul Province"
     },
+    "wof:coterminous": [
+      890460455
+    ],
     "wof:country": "TR",
-    "wof:created": 1624906865,
+    "wof:created": 1652217996,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -429,14 +435,14 @@
     "wof:lang_x_spoken": [
       "tur"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217996,
     "wof:name": "Istanbul",
     "wof:parent_id": 85632393,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 12573836,
     "wof:population_rank": 14,
-    "wof:repo": "whosonfirst-data-admin-tr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "IB",
     "wof:subdivision": "TR-34",
     "wof:superseded_by": [],

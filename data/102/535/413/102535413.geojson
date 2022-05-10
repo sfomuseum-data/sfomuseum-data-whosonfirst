@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0004900407495000058,
-    "geom:area_square_m": 5559673.401062,
+    "geom:area_square_m": 5559673.401063,
     "geom:bbox": "-46.498001,-23.464151,-46.456932,-23.415977",
     "geom:latitude": -23.43364458808881,
     "geom:longitude": -46.48029087195824,
@@ -140,11 +140,8 @@
     "oa:elevation_ft": "2459",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 126,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "São Paulo - Guarulhos International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -155,21 +152,25 @@
       "state_id": 2344868
     },
     "wof:belongsto": [
+      85682041,
       102191577,
       404566473,
       85633009,
       1511777411,
       101956159,
-      102061469,
-      85682041
+      102061469
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12511170,
       "iata:code": "GRU",
-      "icao:code": "SBGR"
+      "icao:code": "SBGR",
+      "oa:id": "5910",
+      "wd:id": "Q385406",
+      "wk:page": "S%C3%A3o_Paulo-Guarulhos_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906850,
+    "wof:created": 1652218218,
     "wof:geomhash": "d76dfb395b870c0ecda45ecd4517d696",
     "wof:hierarchy": [
       {
@@ -185,11 +186,11 @@
       }
     ],
     "wof:id": 102535413,
-    "wof:lastmodified": 1648799211,
+    "wof:lastmodified": 1652218218,
     "wof:name": "Sao Paulo-Guarulhos International Airport",
     "wof:parent_id": 101956159,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

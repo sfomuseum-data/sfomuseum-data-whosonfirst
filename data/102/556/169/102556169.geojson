@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0009662176544999667,
-    "geom:area_square_m": 9975503.644637,
+    "geom:area_square_m": 9975503.644634,
     "geom:bbox": "-70.803192,-33.417664,-70.748520,-33.364231",
     "geom:latitude": -33.389693935543825,
     "geom:longitude": -70.78736658887625,
@@ -120,11 +120,8 @@
     "oa:elevation_ft": "1555",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 125,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Comodoro Arturo Merino Benítez International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -145,11 +142,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12512304,
       "iata:code": "SCL",
-      "icao:code": "SCEL"
+      "icao:code": "SCEL",
+      "oa:id": "6015",
+      "wd:id": "Q127671",
+      "wk:page": "Comodoro_Arturo_Merino_Ben%C3%ADtez_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906825,
+    "wof:created": 1652218282,
     "wof:geomhash": "19528134963fea42552e88a00a3a4635",
     "wof:hierarchy": [
       {
@@ -170,7 +171,7 @@
       }
     ],
     "wof:id": 102556169,
-    "wof:lastmodified": 1626825265,
+    "wof:lastmodified": 1652218282,
     "wof:name": "Arturo Merino Benitez International Airport",
     "wof:parent_id": -3,
     "wof:placetype": "campus",

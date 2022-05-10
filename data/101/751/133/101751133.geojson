@@ -373,13 +373,13 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683157,
       102191581,
       85633147,
+      102070871,
       1159322497,
       404227997,
       404227465,
-      102070871
+      85683157
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -392,10 +392,11 @@
       "wk:page": "Suresnes"
     },
     "wof:coterminous": [
-      1159322497
+      1159322497,
+      102070871
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217821,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -417,13 +418,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217821,
     "wof:name": "Suresnes",
     "wof:parent_id": 1159322497,
     "wof:placetype": "locality",
     "wof:population": 44697,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

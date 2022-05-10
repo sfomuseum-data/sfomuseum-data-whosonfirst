@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00007283724899999573,
-    "geom:area_square_m": 683184.418659,
+    "geom:area_square_m": 683184.418658,
     "geom:bbox": "-89.693237,40.659676,-89.679291,40.667618",
     "geom:latitude": 40.66360191329758,
     "geom:longitude": -89.68610430171644,
@@ -66,34 +66,30 @@
       "planet_id": 1,
       "state_id": 2347572
     },
-    "wof:belongsto": [
-      85688697,
-      85633793,
-      85879835,
-      102081247
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "PIA"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218142,
     "wof:geomhash": "a9aa49f4b66981af33eb0b0a36498bb1",
     "wof:hierarchy": [
       {
         "campus_id": 102528311,
-        "country_id": 85633793,
-        "county_id": 102081247,
-        "neighbourhood_id": 85879835,
-        "region_id": 85688697
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102528311,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1652218142,
     "wof:name": "Greater Peoria Regional Airport",
-    "wof:parent_id": 85879835,
+    "wof:parent_id": 1729440323,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

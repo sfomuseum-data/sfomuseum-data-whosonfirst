@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 18.61500133815668,
-    "geom:area_square_m": 180429726103.52997,
+    "geom:area_square_m": 180429726103.51755,
     "geom:bbox": "-95.774704,35.995683,-89.098968,40.613640",
     "geom:latitude": 38.36763014285585,
     "geom:longitude": -92.47742580520021,
@@ -757,6 +757,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85970647
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 26,
       "fips:code": "US29",
@@ -768,7 +771,7 @@
       "wd:id": "Q1581"
     },
     "wof:country": "US",
-    "wof:created": 1624906897,
+    "wof:created": 1652218056,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -789,7 +792,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825094,
+    "wof:lastmodified": 1652218056,
     "wof:name": "Missouri",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

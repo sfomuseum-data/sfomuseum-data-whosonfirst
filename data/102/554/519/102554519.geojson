@@ -22,6 +22,10 @@
     "name:eng_x_preferred": [
       "CFB Goose Bay"
     ],
+    "name:eng_x_variant": [
+      "YYR",
+      "CYYR"
+    ],
     "name:fas_x_preferred": [
       "سی‌اف‌بی گوس بی"
     ],
@@ -74,7 +78,7 @@
       "icao:code": "CYYR"
     },
     "wof:country": "CA",
-    "wof:created": 1624906458,
+    "wof:created": 1652218274,
     "wof:geomhash": "b8ccdd6f2e225e2dcb1d52aaaad416ae",
     "wof:hierarchy": [
       {
@@ -84,11 +88,11 @@
       }
     ],
     "wof:id": 102554519,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1652218274,
     "wof:name": "Goose Bay Airport",
     "wof:parent_id": 85682123,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-ca",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

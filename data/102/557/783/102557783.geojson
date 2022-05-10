@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0003783894045000278,
-    "geom:area_square_m": 3881764.644345,
+    "geom:area_square_m": 3881764.64434,
     "geom:bbox": "151.161011,-33.960590,151.184753,-33.926132",
     "geom:latitude": -33.93828730552151,
     "geom:longitude": 151.1741965571895,
@@ -20,14 +20,13 @@
     "mz:is_current": 1,
     "mz:min_zoom": 13,
     "name:eng_x_variant": [
-      "ZDN"
+      "ZDN",
+      "SYD",
+      "YSSY"
     ],
     "sfomuseum:airport_id": 138,
-    "sfomuseum:count_objects_public": 11,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Sydney (Kingsford Smith) Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -49,11 +48,12 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23388205,
       "iata:code": "SYD",
       "icao:code": "YSSY"
     },
     "wof:country": "",
-    "wof:created": 1624906753,
+    "wof:created": 1652218292,
     "wof:geomhash": "9c29ed3e9d6f74bcfce4e21fc63fc3e7",
     "wof:hierarchy": [
       {
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 102557783,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218292,
     "wof:name": "Kingsford Smith Airport",
     "wof:parent_id": 101931173,
     "wof:placetype": "campus",

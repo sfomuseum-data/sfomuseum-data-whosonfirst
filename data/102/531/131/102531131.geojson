@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0012840334099997516,
-    "geom:area_square_m": 11250429.059712,
+    "geom:area_square_m": 11250429.059708,
     "geom:bbox": "-93.243973,44.853069,-93.179192,44.902576",
     "geom:latitude": 44.880111504697915,
     "geom:longitude": -93.20620597679745,
@@ -125,11 +125,8 @@
     "oa:elevation_ft": "841",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 84,
-    "sfomuseum:count_objects_public": 3,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Minneapolis - St. Paul International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -139,37 +136,37 @@
       "planet_id": 1,
       "state_id": 2347582
     },
-    "wof:belongsto": [
-      85688727,
-      102191575,
-      404511715,
-      85633793,
-      102087709
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "MSP",
+      "gn:id": 5037658,
+      "gp:id": 12520966,
       "iata:code": "MSP",
-      "icao:code": "KMSP"
+      "icao:code": "KMSP",
+      "oa:id": "3709",
+      "wd:id": "Q875749",
+      "wk:page": "Minneapolis-Saint_Paul_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906809,
+    "wof:created": 1652218179,
     "wof:geomhash": "c93dccba3498c196574dd31a8739d1bf",
     "wof:hierarchy": [
       {
         "campus_id": 102531131,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087709,
-        "localadmin_id": 404511715,
-        "region_id": 85688727
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102531131,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218179,
     "wof:name": "Minneapolis St Paul International Airport",
-    "wof:parent_id": 404511715,
+    "wof:parent_id": 1729436957,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

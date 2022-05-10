@@ -101,11 +101,8 @@
     "oa:elevation_ft": "861",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 260,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Capital Region International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -116,21 +113,26 @@
       "state_id": 2347581
     },
     "wof:belongsto": [
-      85878669,
+      85688599,
       102191575,
       404507643,
       85633793,
       85951849,
-      102083649,
-      85688599
+      102083649
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "LAN",
+      "gn:id": 4988000,
+      "gp:id": 12519060,
       "iata:code": "LAN",
-      "icao:code": "KLAN"
+      "icao:code": "KLAN",
+      "oa:id": "3629",
+      "wd:id": "Q597590",
+      "wk:page": "Lansing_Capital_City_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218116,
     "wof:geomhash": "f1334c37188e464220d1a318b73d3361",
     "wof:hierarchy": [
       {
@@ -140,16 +142,16 @@
         "county_id": 102083649,
         "localadmin_id": 404507643,
         "locality_id": 85951849,
-        "neighbourhood_id": 85878669,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102525431,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218116,
     "wof:name": "Lansing Capital City Airport",
-    "wof:parent_id": 85878669,
+    "wof:parent_id": 85951849,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

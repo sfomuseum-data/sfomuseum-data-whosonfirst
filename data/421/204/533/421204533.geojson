@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.16441578036099985,
-    "geom:area_square_m": 1650561749.248118,
+    "geom:area_square_m": 1650561749.248173,
     "geom:bbox": "51.072299,35.518649,51.889893,35.939648",
     "geom:latitude": 35.72073518487065,
     "geom:longitude": 51.468741050931975,
@@ -753,19 +753,25 @@
     "wof:belongsto": [
       102191569,
       85632361,
-      85672313,
-      1108720491
+      1108720491,
+      85672313
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632361,
+    "wof:capital_of": [
+      85632361
+    ],
     "wof:concordances": {
       "gn:id": 112931,
       "gp:id": 2251945,
       "loc:id": "n79039626",
+      "ne:id": 1159151551,
       "qs_pg:id": 241183,
       "wd:id": "Q3616",
       "wk:page": "Tehran"
     },
+    "wof:coterminous": [
+      1108720491
+    ],
     "wof:country": "IR",
     "wof:created": 1459010189,
     "wof:geom_alt": [
@@ -782,13 +788,14 @@
       }
     ],
     "wof:id": 421204533,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217903,
+    "wof:megacity": 1,
     "wof:name": "Tehran",
     "wof:parent_id": 1108720491,
     "wof:placetype": "locality",
     "wof:population": 7153309,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-ir",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.5500617612874996,
-    "geom:area_square_m": 14338266849.043304,
+    "geom:area_square_m": 14338266849.044157,
     "geom:bbox": "-73.727775,40.950943,-71.787239,42.050587",
     "geom:latitude": 41.5751513246568,
     "geom:longitude": -72.73826937579761,
@@ -86,6 +86,9 @@
       "Канектыкут"
     ],
     "name:ben_x_preferred": [
+      "কানেক্টিকাট"
+    ],
+    "name:ben_x_variant": [
       "কানেটিকাট"
     ],
     "name:bho_x_preferred": [
@@ -592,6 +595,9 @@
       "Konnektikut"
     ],
     "name:vie_x_preferred": [
+      "Sông Connecticut"
+    ],
+    "name:vie_x_variant": [
       "Connecticut"
     ],
     "name:vol_x_preferred": [
@@ -739,6 +745,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85930819
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 7,
       "fips:code": "US09",
@@ -750,7 +759,7 @@
       "wd:id": "Q779"
     },
     "wof:country": "US",
-    "wof:created": 1624906896,
+    "wof:created": 1652218055,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -771,7 +780,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825093,
+    "wof:lastmodified": 1652218055,
     "wof:name": "Connecticut",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

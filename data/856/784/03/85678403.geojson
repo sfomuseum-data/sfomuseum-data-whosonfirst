@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01010602072999994,
-    "geom:area_square_m": 104185730.376906,
+    "geom:area_square_m": 104185772.849654,
     "geom:bbox": "36.197303,33.462504,36.351810,33.565360",
     "geom:latitude": 33.515846631231945,
     "geom:longitude": 36.28145211042698,
@@ -85,6 +85,9 @@
       "Дамаск"
     ],
     "name:ben_x_preferred": [
+      "দামাস্কাস"
+    ],
+    "name:ben_x_variant": [
       "দামেস্ক"
     ],
     "name:bjn_x_preferred": [
@@ -697,7 +700,7 @@
       421202165
     ],
     "wof:country": "SY",
-    "wof:created": 1624906864,
+    "wof:created": 1652217993,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -718,14 +721,14 @@
       "ara",
       "fra"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217993,
     "wof:name": "Damascus",
     "wof:parent_id": 85632413,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 1552161,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-sy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "DI",
     "wof:superseded_by": [],
     "wof:supersedes": [],

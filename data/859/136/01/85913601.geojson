@@ -269,10 +269,11 @@
       "Hunts Spring"
     ],
     "name:urd_x_preferred": [
-      "ہنٹسویل، الاباما"
+      "ہنٹس ولے"
     ],
     "name:urd_x_variant": [
-      "ہنٹسویل"
+      "ہنٹسویل",
+      "ہنٹسویل، الاباما"
     ],
     "name:uzb_x_preferred": [
       "Huntsville"
@@ -395,7 +396,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -431,7 +432,7 @@
       "wk:page": "Huntsville, Alabama"
     },
     "wof:country": "US",
-    "wof:created": 1624906825,
+    "wof:created": 1652217961,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -449,14 +450,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217961,
     "wof:megacity": 0,
     "wof:name": "Huntsville",
     "wof:parent_id": 102085487,
     "wof:placetype": "locality",
     "wof:population": 180105,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,
     "wof:superseded_by": [],
     "wof:supersedes": [

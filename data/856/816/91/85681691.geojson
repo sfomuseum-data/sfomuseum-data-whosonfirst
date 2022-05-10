@@ -8,11 +8,17 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.48857065180650106,
-    "geom:area_square_m": 3841039289.928265,
+    "geom:area_square_m": 3841039130.326172,
     "geom:bbox": "4.979547,50.129902,6.406391,50.812252",
     "geom:latitude": 50.520542365856,
     "geom:longitude": 5.736152265556479,
     "iso:country": "BE",
+    "label:deu_x_preferred_longname": [
+      "Provinz Lüttich"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "provinz"
+    ],
     "label:eng_x_preferred_longname": [
       "Liege Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode": [
       "LG"
+    ],
+    "label:fra_x_preferred_longname": [
+      "Province de Liège"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "province"
+    ],
+    "label:nld_x_preferred_longname": [
+      "Provincie Luik"
+    ],
+    "label:nld_x_preferred_placetype": [
+      "provincie"
     ],
     "lbl:latitude": 50.558223,
     "lbl:longitude": 5.725104,
@@ -135,8 +153,8 @@
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-01-01",
+    "src:population": "wk",
+    "src:population_date": "2019-01-01",
     "statoids:area_km": "3,862",
     "statoids:area_mi": "1,491",
     "statoids:as_of_date": "2010-01-01",
@@ -166,7 +184,7 @@
       "unlc:id": "BE-WLG"
     },
     "wof:country": "BE",
-    "wof:created": 1624906874,
+    "wof:created": 1652218010,
     "wof:geomhash": "f4a2be2715fd47207e6df442c075ecff",
     "wof:hierarchy": [
       {
@@ -187,12 +205,12 @@
       "fra",
       "deu"
     ],
-    "wof:lastmodified": 1626825087,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Liege",
     "wof:parent_id": 404227353,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
-    "wof:population": 1067685,
+    "wof:population": 1106992,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "LG",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 6.328784933682025,
-    "geom:area_square_m": 56691719275.65173,
+    "geom:area_square_m": 56691719275.67556,
     "geom:bbox": "169.542498,-45.080929,174.264103,-41.907383",
     "geom:latitude": -43.573455801248365,
     "geom:longitude": 171.79724098687342,
@@ -336,6 +336,9 @@
       85633345
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101914521
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 25043,
       "fips:code": "NZE9",
@@ -347,7 +350,7 @@
       "wd:id": "Q657004"
     },
     "wof:country": "NZ",
-    "wof:created": 1624906890,
+    "wof:created": 1652218043,
     "wof:geomhash": "5fed96e7454decaee5f9e203e77a5fa8",
     "wof:hierarchy": [
       {
@@ -365,14 +368,14 @@
       "eng",
       "mri"
     ],
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218043,
     "wof:name": "Canterbury Region",
     "wof:parent_id": 85633345,
     "wof:placetype": "region",
     "wof:placetype_local": "regional council",
     "wof:population": 539433,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-nz",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CA",
     "wof:subdivision": "NZ-CAN",
     "wof:superseded_by": [],

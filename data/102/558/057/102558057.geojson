@@ -19,6 +19,10 @@
     "name:eng_x_preferred": [
       "Cunnamulla Airport"
     ],
+    "name:eng_x_variant": [
+      "CMA",
+      "YCMU"
+    ],
     "name:fas_x_preferred": [
       "فرودگاه کونامولا"
     ],
@@ -64,7 +68,7 @@
       "iata:code": "CMA"
     },
     "wof:country": "AU",
-    "wof:created": 1624906753,
+    "wof:created": 1652218293,
     "wof:geomhash": "7dd32e0627a58764c3b562cab933eb36",
     "wof:hierarchy": [
       {
@@ -74,11 +78,11 @@
       }
     ],
     "wof:id": 102558057,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1652218293,
     "wof:name": "Cunnamulla Aerodrome",
     "wof:parent_id": 85681463,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-au",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

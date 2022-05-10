@@ -2,14 +2,16 @@
   "id": 102550391,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "2004-08-04",
+    "date:inception_upper": "2004-08-04",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "2004-08-04",
     "geom:area": 0.0002773918620001557,
     "geom:area_square_m": 3152848.783684,
     "geom:bbox": "113.253670,23.178396,113.289345,23.206289",
     "geom:latitude": 23.19098343325838,
     "geom:longitude": 113.27155950658165,
-    "iso:country": "",
+    "iso:country": "CN",
     "lbl:latitude": 23.447348,
     "lbl:longitude": 113.399556,
     "millsfield:count_images": 2,
@@ -41,11 +43,8 @@
     "oa:elevation_ft": "50",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 44,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Guangzhou Baiyun International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -65,11 +64,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12511984,
       "iata:code": "CAN",
-      "icao:code": "ZGGG"
+      "icao:code": "ZGGG",
+      "oa:id": "27194",
+      "wd:id": "Q5613723",
+      "wk:page": "Guangzhou_Baiyun_International_Airport"
     },
-    "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:country": "CN",
+    "wof:created": 1652218261,
     "wof:geomhash": "46e18e00b1f896005cc630dc56958088",
     "wof:hierarchy": [
       {
@@ -82,11 +85,11 @@
       }
     ],
     "wof:id": 102550391,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218261,
     "wof:name": "Baiyun Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

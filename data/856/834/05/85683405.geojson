@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.0053782777509979,
-    "geom:area_square_m": 8164146891.341496,
+    "geom:area_square_m": 8164146891.341548,
     "geom:bbox": "3.396018,48.515171,5.039685,49.407718",
     "geom:latitude": 48.94944462285478,
     "geom:longitude": 4.238850150075526,
@@ -302,10 +302,11 @@
       "Département de la Marne"
     ],
     "name:urd_x_preferred": [
-      "مارن، فرانس"
+      "مارنے"
     ],
     "name:urd_x_variant": [
-      "مارن"
+      "مارن",
+      "مارن، فرانس"
     ],
     "name:vie_x_preferred": [
       "Marne"
@@ -433,7 +434,7 @@
       "wd:id": "Q12594"
     },
     "wof:country": "FR",
-    "wof:created": 1624906881,
+    "wof:created": 1652218022,
     "wof:geomhash": "8da4abe879b50b393fff5e909e8fb859",
     "wof:hierarchy": [
       {
@@ -451,14 +452,14 @@
     "wof:lang_x_spoken": [
       "fra"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218022,
     "wof:name": "Marne",
     "wof:parent_id": 1108826391,
     "wof:placetype": "region",
     "wof:placetype_local": "department",
     "wof:population": 579533,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "MR",
     "wof:superseded_by": [],
     "wof:supersedes": [],

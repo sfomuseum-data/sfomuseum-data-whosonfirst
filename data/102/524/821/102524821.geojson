@@ -46,11 +46,8 @@
     "oa:elevation_ft": "5140",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 241,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Elko Regional Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -70,11 +67,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "EKO",
+      "gn:id": 5703691,
+      "gp:id": 12519626,
       "iata:code": "EKO",
-      "icao:code": "KEKO"
+      "icao:code": "KEKO",
+      "oa:id": "3508",
+      "wd:id": "Q5364362",
+      "wk:page": "Elko_Regional_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218110,
     "wof:geomhash": "fe328786f6b44a940e1a62edca8e2578",
     "wof:hierarchy": [
       {
@@ -88,11 +91,11 @@
       }
     ],
     "wof:id": 102524821,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218110,
     "wof:name": "Elko Municipal Airport-J C Harris Field",
     "wof:parent_id": 85804355,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

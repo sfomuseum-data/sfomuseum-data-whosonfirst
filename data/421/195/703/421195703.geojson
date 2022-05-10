@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.029752221421000164,
-    "geom:area_square_m": 294580324.298939,
+    "geom:area_square_m": 294580324.298937,
     "geom:bbox": "10.005783,36.689451,10.356250,36.941993",
     "geom:latitude": 36.800586668415534,
     "geom:longitude": 10.17926862569194,
@@ -192,6 +192,9 @@
       "Tunis"
     ],
     "name:hun_x_preferred": [
+      "Tunis"
+    ],
+    "name:hun_x_variant": [
       "Tunisz"
     ],
     "name:hye_x_preferred": [
@@ -591,7 +594,9 @@
       1108757755
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632703,
+    "wof:capital_of": [
+      85632703
+    ],
     "wof:concordances": {
       "gn:id": 2464470,
       "gp:id": 1442746,
@@ -599,6 +604,10 @@
       "wd:id": "Q3572",
       "wk:page": "Tunis"
     },
+    "wof:coterminous": [
+      1108757755,
+      85679123
+    ],
     "wof:country": "TN",
     "wof:created": 1459009856,
     "wof:geom_alt": [
@@ -615,13 +624,13 @@
       }
     ],
     "wof:id": 421195703,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217896,
     "wof:name": "Tunis",
     "wof:parent_id": 85679123,
     "wof:placetype": "locality",
     "wof:population": 693210,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-tn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

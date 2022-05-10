@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0001506589009999913,
-    "geom:area_square_m": 1543308.539865,
+    "geom:area_square_m": 1543308.539863,
     "geom:bbox": "-117.606850,34.053833,-117.577484,34.069534",
     "geom:latitude": 34.06195267849024,
     "geom:longitude": -117.59164200426399,
@@ -94,11 +94,8 @@
     "oa:elevation_ft": "944",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 98,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Ontario International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -119,11 +116,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "ONT",
+      "gn:id": 5379449,
+      "gp:id": 12521228,
       "iata:code": "ONT",
-      "icao:code": "KONT"
+      "icao:code": "KONT",
+      "oa:id": "3752",
+      "wd:id": "Q949831",
+      "wk:page": "Ontario_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906850,
+    "wof:created": 1652218205,
     "wof:geomhash": "cc13f5e742d169d40cafd2827683fdb6",
     "wof:hierarchy": [
       {
@@ -137,11 +140,11 @@
       }
     ],
     "wof:id": 102533575,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218205,
     "wof:name": "Ontario International Airport",
     "wof:parent_id": 85837891,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

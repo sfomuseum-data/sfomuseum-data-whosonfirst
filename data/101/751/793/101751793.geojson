@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.014509603267999847,
-    "geom:area_square_m": 122326479.593997,
+    "geom:area_square_m": 122326479.593959,
     "geom:bbox": "28.745107,46.919887,28.972170,47.080075",
     "geom:latitude": 47.014676633481116,
     "geom:longitude": 28.85650315760803,
@@ -395,6 +395,9 @@
     "name:roh_x_variant": [
       "Chișinău"
     ],
+    "name:rom_x_preferred": [
+      "Chișinău"
+    ],
     "name:ron_x_preferred": [
       "Chișinău"
     ],
@@ -666,7 +669,9 @@
       85686391
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633287,
+    "wof:capital_of": [
+      85633287
+    ],
     "wof:concordances": {
       "gn:id": 618426,
       "gp:id": 480793,
@@ -676,7 +681,7 @@
       "wk:page": "Chișinău"
     },
     "wof:country": "MD",
-    "wof:created": 1624906516,
+    "wof:created": 1652217830,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -690,14 +695,14 @@
       }
     ],
     "wof:id": 101751793,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217830,
     "wof:megacity": 0,
     "wof:name": "Chisinau",
     "wof:parent_id": 85686391,
     "wof:placetype": "locality",
     "wof:population": 723500,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-md",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -16,6 +16,10 @@
     "name:ast_x_preferred": [
       "Aeropuertu Internacional General Francisco J. Mujica"
     ],
+    "name:eng_x_variant": [
+      "MLM",
+      "MMMM"
+    ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی ژنرال فرنسیسکو موییکا"
     ],
@@ -64,7 +68,7 @@
       "icao:code": "MMMM"
     },
     "wof:country": "MX",
-    "wof:created": 1624906850,
+    "wof:created": 1652218224,
     "wof:geomhash": "fc0a6e55ef91d7b12af7b2cdd5c92233",
     "wof:hierarchy": [
       {
@@ -74,11 +78,11 @@
       }
     ],
     "wof:id": 102536381,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218224,
     "wof:name": "General Francisco J Mujica Airport",
     "wof:parent_id": 85686595,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-mx",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

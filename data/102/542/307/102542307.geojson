@@ -4,16 +4,16 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.000030623304999967754,
-    "geom:area_square_m": 330316.916809,
-    "geom:bbox": "47.961609,29.265858,47.971310,29.273682",
-    "geom:latitude": 29.26930623793281,
-    "geom:longitude": 47.96686537795772,
-    "iso:country": "",
-    "lbl:latitude": 29.268239,
-    "lbl:longitude": 47.970715,
-    "mps:latitude": 29.268239,
-    "mps:longitude": 47.970715,
+    "geom:area": 0.0036648147990000425,
+    "geom:area_square_m": 39547477.406868,
+    "geom:bbox": "47.931769,29.189547,48.008525,29.265916",
+    "geom:latitude": 29.226586558669634,
+    "geom:longitude": 47.968706193605286,
+    "iso:country": "KW",
+    "lbl:latitude": 29.227607,
+    "lbl:longitude": 47.965599,
+    "mps:latitude": 29.227607,
+    "mps:longitude": 47.965599,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:min_zoom": 13,
@@ -111,8 +111,10 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "airport",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
-    "src:geom": "woedb",
-    "src:geom_alt": [],
+    "src:geom": "whosonfirst",
+    "src:geom_alt": [
+      "woedb"
+    ],
     "src:lbl_centroid": "mapshaper",
     "wd:wordcount": 1222,
     "woe:hierarchy": {
@@ -122,31 +124,48 @@
       "state_id": 20070168
     },
     "wof:belongsto": [
+      85673389,
+      102191569,
       85632401,
-      85932335,
-      85673389
+      421204583,
+      1729726339
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "icao:code": "OKBK"
     },
-    "wof:country": "",
-    "wof:created": 1624906851,
-    "wof:geomhash": "ed842b3748772b34a4f4bc8c0cd0ff26",
+    "wof:coterminous": [
+      1729726339
+    ],
+    "wof:country": "KW",
+    "wof:created": 1652218239,
+    "wof:geom_alt": [
+      "woedb"
+    ],
+    "wof:geomhash": "80d48c4fdfdda0e54e597d93f668f614",
     "wof:hierarchy": [
       {
         "campus_id": 102542307,
+        "continent_id": 102191569,
         "country_id": 85632401,
-        "neighbourhood_id": 85932335,
+        "county_id": 421204583,
+        "locality_id": -1,
+        "neighbourhood_id": 1729726339,
         "region_id": 85673389
       }
     ],
     "wof:id": 102542307,
-    "wof:lastmodified": 1626825296,
+    "wof:lang_x_official": [
+      "ara"
+    ],
+    "wof:lang_x_spoken": [
+      "ara"
+    ],
+    "wof:lastmodified": 1652218239,
     "wof:name": "Kuwait International Airport",
-    "wof:parent_id": 85932335,
+    "wof:parent_id": 1729726339,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
@@ -154,10 +173,10 @@
     ]
   },
   "bbox": [
-    47.961609,
-    29.265858,
-    47.97131,
-    29.273682
+    47.931769,
+    29.189547,
+    48.008525,
+    29.265916
   ],
-  "geometry": {"coordinates":[[[47.961609,29.265858],[47.967167,29.273048],[47.967766,29.273682],[47.971199,29.268431],[47.97131,29.268328],[47.961609,29.265858]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.953641,29.258853],[47.95781,29.258716],[47.960681,29.257349],[47.962048,29.256666],[47.971617,29.259537],[47.970742,29.265916],[47.987895,29.265916],[47.989661,29.252018],[47.992258,29.233837],[48.002921,29.212239],[48.007842,29.203354],[48.008525,29.200073],[48.007295,29.196382],[47.996633,29.200483],[47.969977,29.194331],[47.953026,29.189547],[47.932795,29.23165],[47.938126,29.237118],[47.931769,29.245047],[47.940791,29.249284],[47.946123,29.251745],[47.952001,29.257213],[47.953641,29.258853]]],"type":"Polygon"}
 }

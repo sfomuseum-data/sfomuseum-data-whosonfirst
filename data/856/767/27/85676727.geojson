@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.09857655240199835,
-    "geom:area_square_m": 1161552842.683396,
+    "geom:area_square_m": 1161552217.710919,
     "geom:bbox": "-150.655263,-17.869073,-149.149119,-16.982192",
     "geom:latitude": -17.647505594621755,
     "geom:longitude": -149.46809310415432,
@@ -177,6 +177,9 @@
       "Tahiti"
     ],
     "name:urd_x_preferred": [
+      "ونڈورڈ جزائر"
+    ],
+    "name:urd_x_variant": [
       "ویندوارد آئی لینڈ"
     ],
     "name:vie_x_preferred": [
@@ -184,6 +187,12 @@
     ],
     "name:yue_x_preferred": [
       "上風群島"
+    ],
+    "name:zho_cn_x_preferred": [
+      "向风群岛"
+    ],
+    "name:zho_tw_x_preferred": [
+      "向風群島"
     ],
     "name:zho_x_preferred": [
       "向风群岛"
@@ -294,7 +303,7 @@
       "wk:page": "Windward Islands (Society Islands)"
     },
     "wof:country": "PF",
-    "wof:created": 1624906864,
+    "wof:created": 1652217987,
     "wof:geomhash": "ca79142aa61305a15e87fa597e4a706c",
     "wof:hierarchy": [
       {
@@ -314,14 +323,14 @@
       "fra",
       "tah"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217987,
     "wof:name": "Windward Islands",
     "wof:parent_id": 85632653,
     "wof:placetype": "region",
     "wof:placetype_local": "administrative subdivision",
     "wof:population": 200714,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-pf",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "WI",
     "wof:superseded_by": [],
     "wof:supersedes": [],

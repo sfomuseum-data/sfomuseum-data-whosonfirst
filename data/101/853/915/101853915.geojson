@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0013052571245000101,
-    "geom:area_square_m": 11015779.190743,
+    "geom:area_square_m": 11015779.190746,
     "geom:bbox": "8.341672,46.931289,8.388648,46.981927",
     "geom:latitude": 46.95878198256741,
     "geom:longitude": 8.363299093423585,
@@ -31,6 +31,9 @@
     ],
     "name:bel_x_variant": [
       "Штанс"
+    ],
+    "name:ben_x_preferred": [
+      "স্"
     ],
     "name:bre_x_preferred": [
       "Stans"
@@ -106,6 +109,12 @@
     ],
     "name:hbs_x_preferred": [
       "Stans"
+    ],
+    "name:heb_x_preferred": [
+      "סטנס"
+    ],
+    "name:hin_x_preferred": [
+      "स्टेंस"
     ],
     "name:hrv_x_preferred": [
       "Stans"
@@ -213,6 +222,9 @@
       "Stans"
     ],
     "name:vec_x_preferred": [
+      "Stans"
+    ],
+    "name:vie_x_preferred": [
       "Stans"
     ],
     "name:vol_x_preferred": [
@@ -369,7 +381,7 @@
       404328413
     ],
     "wof:country": "CH",
-    "wof:created": 1624906516,
+    "wof:created": 1652217850,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "whosonfirst",
@@ -390,13 +402,13 @@
     "wof:lang": [
       "ger"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217850,
     "wof:name": "Stans",
     "wof:parent_id": 404328413,
     "wof:placetype": "locality",
     "wof:population": 7475,
     "wof:population_rank": 5,
-    "wof:repo": "whosonfirst-data-admin-ch",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

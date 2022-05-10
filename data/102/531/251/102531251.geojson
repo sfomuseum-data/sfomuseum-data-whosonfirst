@@ -50,11 +50,8 @@
     "oa:elevation_ft": "483",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 220,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cincinnati Lunken Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -76,11 +73,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "LUK",
+      "gn:id": 4508753,
+      "gp:id": 12519199,
       "iata:code": "LUK",
-      "icao:code": "KLUK"
+      "icao:code": "KLUK",
+      "oa:id": "3659",
+      "wd:id": "Q3275007",
+      "wk:page": "Cincinnati_Municipal_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640301644,
+    "wof:created": 1652218183,
     "wof:geomhash": "db440bc275097259177357dabcc8117f",
     "wof:hierarchy": [
       {
@@ -95,7 +98,7 @@
       }
     ],
     "wof:id": 102531251,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218183,
     "wof:name": "Cincinnati Municipal Airport-Lunken Field",
     "wof:parent_id": 85868473,
     "wof:placetype": "campus",

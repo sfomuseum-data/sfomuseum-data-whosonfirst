@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00028978928099990627,
-    "geom:area_square_m": 2617134.329358,
+    "geom:area_square_m": 2617134.329366,
     "geom:bbox": "-70.826241,43.069923,-70.799522,43.095371",
     "geom:latitude": 43.082592090975794,
     "geom:longitude": -70.81321602344212,
@@ -69,7 +69,7 @@
       "icao:code": "KPSM"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218160,
     "wof:geomhash": "1be051612ed1978605db6d80105090b8",
     "wof:hierarchy": [
       {
@@ -79,15 +79,16 @@
         "county_id": 102086507,
         "localadmin_id": 404476777,
         "locality_id": 85975061,
+        "neighbourhood_id": -1,
         "region_id": 85688689
       }
     ],
     "wof:id": 102529547,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218160,
     "wof:name": "Pease International Tradeport Airport",
     "wof:parent_id": 85975061,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

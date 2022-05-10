@@ -64,6 +64,7 @@
       102191575,
       404508389,
       85633793,
+      1729468837,
       102083713
     ],
     "wof:breaches": [],
@@ -72,7 +73,7 @@
       "icao:code": "KPTK"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218164,
     "wof:geomhash": "104064f6469847c3fb1f3d90d896d23e",
     "wof:hierarchy": [
       {
@@ -81,15 +82,17 @@
         "country_id": 85633793,
         "county_id": 102083713,
         "localadmin_id": 404508389,
+        "locality_id": 1729468837,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102529959,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218164,
     "wof:name": "Oakland County International Airport",
-    "wof:parent_id": 404508389,
+    "wof:parent_id": 1729468837,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.06584515269599962,
-    "geom:area_square_m": 749076238.935785,
+    "geom:area_square_m": 749076961.819265,
     "geom:bbox": "-82.538978,22.932974,-82.074825,23.181250",
     "geom:latitude": 23.069728053337148,
     "geom:longitude": -82.30689582582073,
@@ -53,6 +53,9 @@
     "name:fin_x_preferred": [
       "Havanna"
     ],
+    "name:fra_x_preferred": [
+      "La Havane"
+    ],
     "name:hrv_x_preferred": [
       "La Habana"
     ],
@@ -99,14 +102,15 @@
       "Provincia Havana"
     ],
     "name:spa_x_preferred": [
-      "Ciudad de la Habana"
+      "La Habana"
     ],
     "name:spa_x_unknown": [
       "CH"
     ],
     "name:spa_x_variant": [
       "Ciudaddelahabana",
-      "Provincia de La Habana"
+      "Provincia de La Habana",
+      "Ciudad de la Habana"
     ],
     "name:swe_x_preferred": [
       "Havanna"
@@ -236,7 +240,7 @@
       421186583
     ],
     "wof:country": "CU",
-    "wof:created": 1624906858,
+    "wof:created": 1652217954,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -255,7 +259,7 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217954,
     "wof:name": "Ciudad De La Habana",
     "wof:parent_id": 85632675,
     "wof:placetype": "region",
@@ -263,7 +267,7 @@
     "wof:placetype_local": "province",
     "wof:population": 2106146,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-cu",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CH",
     "wof:subdivision": "CU-03",
     "wof:superseded_by": [],

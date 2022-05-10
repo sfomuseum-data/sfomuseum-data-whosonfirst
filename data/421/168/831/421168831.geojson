@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.03801991007150004,
-    "geom:area_square_m": 416136800.549017,
+    "geom:area_square_m": 416136800.549083,
     "geom:bbox": "85.188721,27.571345,85.564449,27.816314",
     "geom:latitude": 27.72818523910624,
     "geom:longitude": 85.3474793956158,
@@ -645,20 +645,26 @@
     "wof:belongsto": [
       102191569,
       85632465,
-      1108807143,
       1092048931,
+      1108807143,
       85675575
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632465,
+    "wof:capital_of": [
+      85632465
+    ],
     "wof:concordances": {
       "gn:id": 1283240,
       "gp:id": 2269179,
       "loc:id": "n81047119",
+      "ne:id": 1159150655,
       "qs_pg:id": 1168582,
       "wd:id": "Q3037",
       "wk:page": "Kathmandu"
     },
+    "wof:coterminous": [
+      1092048931
+    ],
     "wof:country": "NP",
     "wof:created": 1459008782,
     "wof:geom_alt": [
@@ -682,13 +688,14 @@
       }
     ],
     "wof:id": 421168831,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217870,
+    "wof:megacity": 1,
     "wof:name": "Kathmandu",
     "wof:parent_id": 1092048931,
     "wof:placetype": "locality",
     "wof:population": 975453,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-np",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

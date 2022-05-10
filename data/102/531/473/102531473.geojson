@@ -54,11 +54,8 @@
     "oa:elevation_ft": "44",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 231,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Corpus Christi International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -80,11 +77,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "CRP",
+      "gn:id": 4683441,
+      "gp:id": 12519324,
       "iata:code": "CRP",
-      "icao:code": "KCRP"
+      "icao:code": "KCRP",
+      "oa:id": "3466",
+      "wd:id": "Q1656909",
+      "wk:page": "Corpus_Christi_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640730876,
+    "wof:created": 1652218185,
     "wof:geomhash": "369c6658c14c95828bc3511068986617",
     "wof:hierarchy": [
       {
@@ -98,7 +101,7 @@
       }
     ],
     "wof:id": 102531473,
-    "wof:lastmodified": 1640730876,
+    "wof:lastmodified": 1652218185,
     "wof:name": "Corpus Christi International Airport",
     "wof:parent_id": 85873327,
     "wof:placetype": "campus",

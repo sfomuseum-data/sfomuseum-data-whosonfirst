@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0021177910029999245,
-    "geom:area_square_m": 19786305.275819,
+    "geom:area_square_m": 19786173.733843,
     "geom:bbox": "9.444444,40.888603,9.554384,40.954612",
     "geom:latitude": 40.92390438203191,
     "geom:longitude": 9.501469728836575,
@@ -32,6 +32,9 @@
     ],
     "name:aze_x_preferred": [
       "Olbiya"
+    ],
+    "name:ben_x_preferred": [
+      "ওলবিয়া"
     ],
     "name:bul_x_preferred": [
       "Олбия"
@@ -94,6 +97,9 @@
     ],
     "name:heb_x_preferred": [
       "אולביה"
+    ],
+    "name:hin_x_preferred": [
+      "ओल्बिया"
     ],
     "name:hrv_x_preferred": [
       "Olbia"
@@ -374,7 +380,7 @@
       "wd:id": "Q13630"
     },
     "wof:country": "IT",
-    "wof:created": 1624906516,
+    "wof:created": 1652217843,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -393,13 +399,13 @@
     "wof:lang": [
       "ita"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217843,
     "wof:name": "Olbia",
     "wof:parent_id": 404467199,
     "wof:placetype": "locality",
     "wof:population": 42930,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

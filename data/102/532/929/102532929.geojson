@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0002980597810001537,
-    "geom:area_square_m": 3443235.4124,
+    "geom:area_square_m": 3443235.412397,
     "geom:bbox": "-156.451340,20.882904,-156.424683,20.903574",
     "geom:latitude": 20.892985109118687,
     "geom:longitude": -156.4380784736702,
@@ -87,11 +87,8 @@
     "oa:elevation_ft": "54",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 78,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Kahului Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -112,11 +109,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "OGG",
+      "gn:id": 5847412,
+      "gp:id": 12520412,
       "iata:code": "OGG",
-      "icao:code": "PHOG"
+      "icao:code": "PHOG",
+      "oa:id": "5455",
+      "wd:id": "Q1431637",
+      "wk:page": "Kahului_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218199,
     "wof:geomhash": "b02a0c035ad4f55fcf72ee1ea2a3a5ae",
     "wof:hierarchy": [
       {
@@ -130,11 +133,11 @@
       }
     ],
     "wof:id": 102532929,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218199,
     "wof:name": "Kahului Airport",
     "wof:parent_id": 85890309,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

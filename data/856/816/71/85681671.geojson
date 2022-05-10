@@ -5,19 +5,28 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 2.325518732912525,
-    "geom:area_square_m": 19139116323.75896,
+    "geom:area_square_m": 19139116509.29704,
     "geom:bbox": "14.452636,47.422186,17.068835,49.020525",
     "geom:latitude": 48.272131726205195,
     "geom:longitude": 15.751646471442728,
     "iso:country": "AT",
+    "label:deu_x_preferred_longname": [
+      "Niederösterreich"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "länder"
+    ],
+    "label:deu_x_preferred_shortcode": [
+      "NO"
+    ],
     "label:eng_x_preferred_longname": [
-      "Niederösterreich State"
+      "Lower Austria State"
     ],
     "label:eng_x_preferred_placetype": [
       "state"
     ],
-    "label:eng_x_preferred_shortcode": [
-      "NO"
+    "label:eng_x_variant_longname": [
+      "State of Lower Austria"
     ],
     "lbl:latitude": 48.305564,
     "lbl:longitude": 15.636522,
@@ -441,10 +450,11 @@
       "hasc:id": "AT.NO",
       "iso:id": "AT-3",
       "unlc:id": "AT-3",
-      "wd:id": "Q42497"
+      "wd:id": "Q42497",
+      "wk:page": "Lower_Austria"
     },
     "wof:country": "AT",
-    "wof:created": 1624906873,
+    "wof:created": 1652218010,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -466,7 +476,7 @@
       "slv",
       "hun"
     ],
-    "wof:lastmodified": 1626825086,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Niederösterreich",
     "wof:parent_id": 85632785,
     "wof:placetype": "region",

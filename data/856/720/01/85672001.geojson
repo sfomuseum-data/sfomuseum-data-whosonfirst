@@ -5,20 +5,29 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.05257399104650004,
-    "geom:area_square_m": 646274253.791204,
+    "geom:area_square_m": 646274253.790944,
     "geom:bbox": "106.686958,-6.370783,106.972275,-6.088531",
     "geom:latitude": -6.208664177057667,
     "geom:longitude": 106.83929394192141,
     "gn:population": 9953016,
     "iso:country": "ID",
     "label:eng_x_preferred_longname": [
-      "Jakarta Raya Special District"
+      "Jakarta"
     ],
     "label:eng_x_preferred_placetype": [
-      "special district"
+      "special capital region"
     ],
     "label:eng_x_preferred_shortcode": [
       "JK"
+    ],
+    "label:eng_x_variant_longname": [
+      "Jakarta"
+    ],
+    "label:ind_x_preferred_longname": [
+      "Jakarta"
+    ],
+    "label:ind_x_preferred_placetype": [
+      "daerah khusus ibukota"
     ],
     "lbl:latitude": -6.20596,
     "lbl:longitude": 106.82776,
@@ -147,12 +156,12 @@
       "Jakarta"
     ],
     "name:eng_x_preferred": [
-      "DKI Jakarta"
+      "Jakarta"
     ],
     "name:eng_x_variant": [
       "Jakarta Special Capital Region",
-      "Jakarta",
-      "Jakarta Raya"
+      "Jakarta Raya",
+      "DKI Jakarta"
     ],
     "name:epo_x_preferred": [
       "Ĝakarto"
@@ -260,10 +269,10 @@
       "Jakarta"
     ],
     "name:ind_x_preferred": [
-      "Daerah Khusus Ibukota Jakarta"
+      "Jakarta"
     ],
     "name:ind_x_variant": [
-      "Jakarta"
+      "Daerah Khusus Ibukota Jakarta"
     ],
     "name:inh_x_preferred": [
       "Джакарта"
@@ -706,8 +715,8 @@
       "quattroshapes"
     ],
     "src:lbl:centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population:date": "2010-05-17",
+    "src:population": "wk",
+    "src:population_date": "2020-01-01",
     "statoids:area_km": "664",
     "statoids:area_mi": "256",
     "statoids:as_of_date": "2010-05-17",
@@ -738,7 +747,7 @@
       "wk:page": "Greater Jakarta"
     },
     "wof:country": "ID",
-    "wof:created": 1624906861,
+    "wof:created": 1652217958,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -755,17 +764,18 @@
       "ind"
     ],
     "wof:lang_x_spoken": [
-      "ind"
+      "ind",
+      "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217958,
     "wof:name": "Jakarta Raya",
     "wof:parent_id": 85632203,
     "wof:placetype": "region",
     "wof:placetype_alt": [],
-    "wof:placetype_local": "special district",
-    "wof:population": 9607787,
-    "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-id",
+    "wof:placetype_local": "special capital region",
+    "wof:population": 10562088,
+    "wof:population_rank": 14,
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "JK",
     "wof:subdivision": "ID-JK",
     "wof:superseded_by": [],

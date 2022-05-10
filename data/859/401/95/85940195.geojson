@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.06482944115150063,
-    "geom:area_square_m": 597246646.890232,
+    "geom:area_square_m": 597246646.890137,
     "geom:bbox": "-87.940114,41.644543,-87.524137,42.023039",
     "geom:latitude": 41.837234608776434,
     "geom:longitude": -87.6859691225504,
@@ -21,7 +21,7 @@
     "mps:latitude": 41.81173,
     "mps:longitude": -87.666227,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "mz:min_zoom": 3,
     "name:ace_x_preferred": [
       "Chicago"
@@ -844,11 +844,11 @@
     "wd:population": 2695598,
     "wd:wordcount": 18451,
     "wof:belongsto": [
-      85688697,
       102191575,
-      404496273,
       85633793,
-      102084317
+      102084317,
+      404496273,
+      85688697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -859,13 +859,14 @@
       "gn:id": 4887398,
       "gp:id": 2379574,
       "loc:id": "n78086438",
+      "ne:id": 1159151491,
       "nyt:id": "64666906337535149581",
       "qs_pg:id": 816020,
       "wd:id": "Q1297",
       "wk:page": "Chicago"
     },
     "wof:country": "US",
-    "wof:created": 1624906860,
+    "wof:created": 1652218007,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -885,14 +886,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825086,
+    "wof:lastmodified": 1652218007,
     "wof:megacity": 1,
     "wof:name": "Chicago",
     "wof:parent_id": 404496273,
     "wof:placetype": "locality",
     "wof:population": 2695598,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [

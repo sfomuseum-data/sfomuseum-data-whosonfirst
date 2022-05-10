@@ -19,6 +19,10 @@
     "name:eng_x_preferred": [
       "Mesa Del Rey Airport"
     ],
+    "name:eng_x_variant": [
+      "KIC",
+      "KKIC"
+    ],
     "name:fas_x_preferred": [
       "فرودگاه مسا دل ری"
     ],
@@ -57,7 +61,7 @@
       "iata:code": "KIC"
     },
     "wof:country": "",
-    "wof:created": 1624906906,
+    "wof:created": 1652218176,
     "wof:geomhash": "8435294279cdc95e817322ef0b8b05ba",
     "wof:hierarchy": [
       {
@@ -69,11 +73,11 @@
       }
     ],
     "wof:id": 102531005,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218176,
     "wof:name": "Mesa del Rey Airport",
     "wof:parent_id": 85922621,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

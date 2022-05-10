@@ -8,19 +8,40 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.3697877774914996,
-    "geom:area_square_m": 2863301197.529515,
+    "geom:area_square_m": 2863301197.529501,
     "geom:bbox": "4.172294,50.990200,5.262405,51.504844",
     "geom:latitude": 51.229521828336686,
     "geom:longitude": 4.719654766906641,
     "iso:country": "BE",
+    "label:deu_x_preferred_longname": [
+      "Provinz Antwerpen"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "provinz"
+    ],
     "label:eng_x_preferred_longname": [
-      "Antwerpen Province"
+      "Antwerp Province"
     ],
     "label:eng_x_preferred_placetype": [
       "province"
     ],
     "label:eng_x_preferred_shortcode": [
       "AN"
+    ],
+    "label:eng_x_variant_longname": [
+      "Antwerpen Province"
+    ],
+    "label:fra_x_preferred_longname": [
+      "Province d'Anvers"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "province"
+    ],
+    "label:nld_x_preferred_longname": [
+      "Provincie Antwerpen"
+    ],
+    "label:nld_x_preferred_placetype": [
+      "provincie"
     ],
     "lbl:latitude": 51.222805,
     "lbl:longitude": 4.655059,
@@ -468,8 +489,8 @@
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-01-01",
+    "src:population": "wk",
+    "src:population_date": "2019-01-01",
     "statoids:area_km": "2,867",
     "statoids:area_mi": "1,107",
     "statoids:as_of_date": "2010-01-01",
@@ -501,7 +522,7 @@
       "wd:id": "Q12892"
     },
     "wof:country": "BE",
-    "wof:created": 1624906875,
+    "wof:created": 1652218010,
     "wof:geomhash": "4571ce636ce417dcd9886f1b0a3578f1",
     "wof:hierarchy": [
       {
@@ -522,14 +543,14 @@
       "fra",
       "deu"
     ],
-    "wof:lastmodified": 1626825087,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Antwerpen",
     "wof:parent_id": 404227357,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
-    "wof:population": 1744862,
+    "wof:population": 1857986,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-be",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "AN",
     "wof:subdivision": "BE-VAN",
     "wof:superseded_by": [],

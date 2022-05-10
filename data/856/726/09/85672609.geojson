@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.03703869795000003,
-    "geom:area_square_m": 435445581.385027,
+    "geom:area_square_m": 435445581.385109,
     "geom:bbox": "-76.887905,17.937815,-76.617122,18.179596",
     "geom:latitude": 18.052290600586574,
     "geom:longitude": -76.76077351801271,
@@ -79,6 +79,9 @@
     ],
     "name:hin_x_preferred": [
       "सेंट एंड्रू पैरिश"
+    ],
+    "name:hun_x_preferred": [
+      "Saint Andrew"
     ],
     "name:ind_x_preferred": [
       "Saint Andrew"
@@ -289,7 +292,7 @@
       "wk:page": "Saint Andrew Parish, Jamaica"
     },
     "wof:country": "JM",
-    "wof:created": 1624906862,
+    "wof:created": 1652217961,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -308,14 +311,14 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217961,
     "wof:name": "Saint Andrew",
     "wof:parent_id": 85632215,
     "wof:placetype": "region",
     "wof:placetype_local": "parish",
     "wof:population": 573369,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-jm",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "SD",
     "wof:subdivision": "JM-02",
     "wof:superseded_by": [],

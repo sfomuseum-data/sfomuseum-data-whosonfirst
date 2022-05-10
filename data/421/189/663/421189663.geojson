@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.013315037702000014,
-    "geom:area_square_m": 164637898.987047,
+    "geom:area_square_m": 164637898.987059,
     "geom:bbox": "9.367466,0.341596,9.527352,0.563814",
     "geom:latitude": 0.450835224716247,
     "geom:longitude": 9.449908862376393,
@@ -567,11 +567,13 @@
     "wof:belongsto": [
       102191573,
       85632407,
-      85671235,
-      1091908769
+      1091908769,
+      85671235
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632407,
+    "wof:capital_of": [
+      85632407
+    ],
     "wof:concordances": {
       "gn:id": 2399697,
       "gp:id": 1324195,
@@ -598,13 +600,13 @@
       }
     ],
     "wof:id": 421189663,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217894,
     "wof:name": "Libreville",
     "wof:parent_id": 1091908769,
     "wof:placetype": "locality",
     "wof:population": 797003,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-ga",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

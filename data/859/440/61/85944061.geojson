@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.025371297099999853,
-    "geom:area_square_m": 234699899.730852,
+    "geom:area_square_m": 234699899.730856,
     "geom:bbox": "-93.709817,41.479264,-93.493739,41.658614",
     "geom:latitude": 41.57250138554376,
     "geom:longitude": -93.61037234188245,
@@ -366,10 +366,11 @@
       "Де-Мойн"
     ],
     "name:urd_x_preferred": [
-      "دی موین، آئیووا"
+      "ڈیس موئنیس"
     ],
     "name:urd_x_variant": [
-      "دی موین"
+      "دی موین",
+      "دی موین، آئیووا"
     ],
     "name:uzb_x_preferred": [
       "Des Moines"
@@ -378,6 +379,9 @@
       "Des Moines"
     ],
     "name:vie_x_preferred": [
+      "Sông Des Moines"
+    ],
+    "name:vie_x_variant": [
       "Des Moines"
     ],
     "name:vol_x_preferred": [
@@ -527,6 +531,9 @@
       102086603
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85688713
+    ],
     "wof:concordances": {
       "fct:id": "08c2278e-8f76-11e1-848f-cfd5bf3ef515",
       "fips:code": "1921000",
@@ -538,7 +545,7 @@
       "wk:page": "Des Moines, Iowa"
     },
     "wof:country": "US",
-    "wof:created": 1624906860,
+    "wof:created": 1652218012,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -556,14 +563,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218012,
     "wof:megacity": 0,
     "wof:name": "Des Moines",
     "wof:parent_id": 102086603,
     "wof:placetype": "locality",
     "wof:population": 203433,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [

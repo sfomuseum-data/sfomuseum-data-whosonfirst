@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 3.2058399994465065,
-    "geom:area_square_m": 34720525571.62898,
+    "geom:area_square_m": 34720525326.562546,
     "geom:bbox": "27.417710,27.644231,31.335292,30.342287",
     "geom:latitude": 28.842013294874224,
     "geom:longitude": 29.409065316969837,
@@ -110,10 +110,10 @@
       "Al-Gizan kuvernoraatti"
     ],
     "name:fra_x_preferred": [
-      "Gouvernorat de Gizeh"
+      "Gizeh"
     ],
     "name:fra_x_variant": [
-      "Gizeh"
+      "Gouvernorat de Gizeh"
     ],
     "name:guj_x_preferred": [
       "ગિઝા ગવર્નોરેટ"
@@ -123,6 +123,9 @@
     ],
     "name:hin_x_preferred": [
       "गीज़ा मुहाफ़ज़ाह"
+    ],
+    "name:hun_x_preferred": [
+      "El-Gíza"
     ],
     "name:hye_x_preferred": [
       "Ալ-Գիզա"
@@ -345,7 +348,7 @@
       "wd:id": "Q30832"
     },
     "wof:country": "EG",
-    "wof:created": 1624906858,
+    "wof:created": 1652217955,
     "wof:geom_alt": [
       "meso",
       "quattroshapes"
@@ -365,14 +368,14 @@
     "wof:lang_x_spoken": [
       "ara"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217955,
     "wof:name": "Al Jizah",
     "wof:parent_id": 85632581,
     "wof:placetype": "region",
     "wof:placetype_local": "governorate",
     "wof:population": 6272571,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-eg",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "JZ",
     "wof:superseded_by": [],
     "wof:supersedes": [],

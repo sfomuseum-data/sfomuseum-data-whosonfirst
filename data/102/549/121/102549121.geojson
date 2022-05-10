@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0033499033369999228,
-    "geom:area_square_m": 25915435.390509,
+    "geom:area_square_m": 25915435.39051,
     "geom:bbox": "6.718167,51.215630,6.819634,51.309048",
     "geom:latitude": 51.27076237642413,
     "geom:longitude": 6.770912167999249,
@@ -86,11 +86,8 @@
     "oa:elevation_ft": "147",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 37,
-    "sfomuseum:count_objects_public": 3,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Düsseldorf International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,11 +107,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23024911,
       "iata:code": "DUS",
-      "icao:code": "EDDL"
+      "icao:code": "EDDL",
+      "oa:id": "2217",
+      "wd:id": "Q800701",
+      "wk:page": "D%C3%BCsseldorf_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:created": 1652218257,
     "wof:geomhash": "735aa7334a0a2853632601e23f786dd6",
     "wof:hierarchy": [
       {
@@ -128,11 +129,11 @@
       }
     ],
     "wof:id": 102549121,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218257,
     "wof:name": "Dusseldorf International Airport",
     "wof:parent_id": 101748671,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.495270918167502,
-    "geom:area_square_m": 15399102157.601543,
+    "geom:area_square_m": 15399102020.364119,
     "geom:bbox": "-71.714492,-34.290669,-69.770032,-32.922479",
     "geom:latitude": -33.604596433338514,
     "geom:longitude": -70.62691900873406,
@@ -213,11 +213,12 @@
       "Región hlavného mesta Santiago"
     ],
     "name:spa_x_preferred": [
-      "Región Metropolitana de Santiago de Chile"
+      "Metropolitana de Santiago de Chile"
     ],
     "name:spa_x_variant": [
       "Metropolitana",
-      "Región Metropolitana de Santiago"
+      "Región Metropolitana de Santiago",
+      "Región Metropolitana de Santiago de Chile"
     ],
     "name:swe_x_preferred": [
       "Región Metropolitana de Santiago"
@@ -352,7 +353,7 @@
       "wd:id": "Q2131"
     },
     "wof:country": "CL",
-    "wof:created": 1624906876,
+    "wof:created": 1652218015,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -371,14 +372,14 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218015,
     "wof:name": "Metropolitana",
     "wof:parent_id": 85633057,
     "wof:placetype": "region",
     "wof:placetype_local": "region",
     "wof:population": 6604835,
     "wof:population_rank": 13,
-    "wof:repo": "whosonfirst-data-admin-cl",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "RM",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.000008133830500014227,
-    "geom:area_square_m": 100435.534906,
+    "geom:area_square_m": 100435.534907,
     "geom:bbox": "-60.049362,-3.037426,-60.044014,-3.030255",
     "geom:latitude": -3.032976568190964,
     "geom:longitude": -60.046167712385305,
@@ -95,19 +95,19 @@
       "state_id": 2344847
     },
     "wof:belongsto": [
+      85681885,
       102191577,
       85633009,
       1511777407,
       101941913,
-      102050371,
-      85681885
+      102050371
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "icao:code": "SBEG"
     },
     "wof:country": "BR",
-    "wof:created": 1624906850,
+    "wof:created": 1652218217,
     "wof:geomhash": "4d0c28e8759b1ea03b2f88fb76a70fb1",
     "wof:hierarchy": [
       {
@@ -122,11 +122,11 @@
       }
     ],
     "wof:id": 102535315,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218217,
     "wof:name": "Aeroporto Internacional Eduardo Gomes",
     "wof:parent_id": 101941913,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-br",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

@@ -18,7 +18,7 @@
       "N.B."
     ],
     "label:eng_x_preferred_longname": [
-      "New Brunswick Province"
+      "New Brunswick"
     ],
     "label:eng_x_preferred_placetype": [
       "province"
@@ -26,8 +26,21 @@
     "label:eng_x_preferred_shortcode": [
       "NB"
     ],
+    "label:eng_x_variant_longname": [
+      "New Brunswick Province",
+      "Province of New Brunswick"
+    ],
     "label:fra_x_preferred_abbreviation": [
-      "N.-B."
+      "N.B."
+    ],
+    "label:fra_x_preferred_longname": [
+      "Nouveau-Brunswick"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "province"
+    ],
+    "label:fra_x_preferred_shortcode": [
+      "NB"
     ],
     "lbl:latitude": 46.595511,
     "lbl:longitude": -66.334856,
@@ -526,6 +539,9 @@
       85633041
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101735269
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 58,
       "fips:code": "CA04",
@@ -537,7 +553,7 @@
       "wd:id": "Q1965"
     },
     "wof:country": "CA",
-    "wof:created": 1624906451,
+    "wof:created": 1652218013,
     "wof:geomhash": "1214cf33a127e54dd00f91ce433e0a3f",
     "wof:hierarchy": [
       {
@@ -557,7 +573,7 @@
       "iku",
       "ikt"
     ],
-    "wof:lastmodified": 1626825088,
+    "wof:lastmodified": 1652218013,
     "wof:name": "New Brunswick",
     "wof:parent_id": 85633041,
     "wof:placetype": "region",

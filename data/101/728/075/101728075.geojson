@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.030868532477000072,
-    "geom:area_square_m": 289037938.046474,
+    "geom:area_square_m": 289037938.046426,
     "geom:bbox": "-112.101607,40.699893,-111.739476,40.852970",
     "geom:latitude": 40.77784903373599,
     "geom:longitude": -111.93122077812427,
@@ -605,10 +605,13 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688567,
-      102082877
+      102082877,
+      85688567
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85688567
+    ],
     "wof:concordances": {
       "dbp:id": "Salt_Lake_City",
       "fb:id": "en.salt_lake_city",
@@ -616,13 +619,14 @@
       "fips:code": "4967000",
       "gn:id": 5780993,
       "gp:id": 2487610,
+      "ne:id": 1159150489,
       "nyt:id": "10651462208226820381",
       "qs_pg:id": 829677,
       "wd:id": "Q23337",
       "wk:page": "Salt Lake City"
     },
     "wof:country": "US",
-    "wof:created": 1624906514,
+    "wof:created": 1652217774,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -640,14 +644,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217774,
     "wof:megacity": 1,
     "wof:name": "Salt Lake City",
     "wof:parent_id": 102082877,
     "wof:placetype": "locality",
     "wof:population": 186440,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:shortcode": "SLC",
     "wof:superseded_by": [],

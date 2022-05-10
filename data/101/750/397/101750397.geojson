@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.01926345586399996,
-    "geom:area_square_m": 148252735.952023,
+    "geom:area_square_m": 148252735.952026,
     "geom:bbox": "-3.343699,51.442964,-3.068901,51.560440",
     "geom:latitude": 51.508845484240545,
     "geom:longitude": -3.1999837782756626,
@@ -437,13 +437,16 @@
     "wd:population": 346100,
     "wd:wordcount": 15849,
     "wof:belongsto": [
-      1360698627,
       102191581,
       85633159,
+      1360699107,
       404227475,
-      1360699107
+      1360698627
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      1360698627
+    ],
     "wof:concordances": {
       "dbp:id": "Cardiff",
       "fb:id": "en.cardiff",
@@ -459,7 +462,7 @@
       1360699107
     ],
     "wof:country": "GB",
-    "wof:created": 1624906515,
+    "wof:created": 1652217817,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -485,13 +488,13 @@
       "gla",
       "gle"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217817,
     "wof:name": "Cardiff",
     "wof:parent_id": 1360699107,
     "wof:placetype": "locality",
     "wof:population": 346100,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

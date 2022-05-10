@@ -59,11 +59,8 @@
     "oa:elevation_ft": "1636",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 197,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Broome County Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -74,20 +71,26 @@
       "state_id": 2347591
     },
     "wof:belongsto": [
-      420528103,
+      85688543,
       102191575,
-      404521629,
+      404521823,
       85633793,
-      102081755,
-      85688543
+      1729461557,
+      102081755
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "BGM",
+      "gn:id": 5109179,
+      "gp:id": 12519598,
       "iata:code": "BGM",
-      "icao:code": "KBGM"
+      "icao:code": "KBGM",
+      "oa:id": "3404",
+      "wd:id": "Q3914547",
+      "wk:page": "Greater_Binghamton_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1626825244,
+    "wof:created": 1652218147,
     "wof:geomhash": "c6fcfbef444a48ae63f1d34eee3e0b06",
     "wof:hierarchy": [
       {
@@ -95,18 +98,18 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081755,
-        "localadmin_id": 404521629,
-        "locality_id": -1,
-        "neighbourhood_id": 420528103,
+        "localadmin_id": 404521823,
+        "locality_id": 1729461557,
+        "neighbourhood_id": -1,
         "region_id": 85688543
       }
     ],
     "wof:id": 102528741,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218147,
     "wof:name": "Greater Binghamton Edwin A Link Field Airport",
-    "wof:parent_id": 420528103,
+    "wof:parent_id": 1729461557,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

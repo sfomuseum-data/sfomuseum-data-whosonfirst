@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.015304619808499868,
-    "geom:area_square_m": 103385624.882919,
+    "geom:area_square_m": 103385642.58917,
     "geom:bbox": "23.834197,56.830654,24.082074,56.939074",
     "geom:latitude": 56.886600405300904,
     "geom:longitude": 23.958755454555742,
@@ -82,8 +82,14 @@
     "name:guj_x_preferred": [
       "મરૂપ મ્યુનિસિપાલિટી"
     ],
+    "name:heb_x_preferred": [
+      "מארי"
+    ],
     "name:hin_x_preferred": [
       "मरूप नगरपालिका"
+    ],
+    "name:hun_x_preferred": [
+      "Mārupe"
     ],
     "name:hye_x_preferred": [
       "Մարուպեի շրջան"
@@ -276,7 +282,7 @@
       "wd:id": "Q2232018"
     },
     "wof:country": "LV",
-    "wof:created": 1624906883,
+    "wof:created": 1652218033,
     "wof:geomhash": "15f4af5b4c3363da7039adec65b6099d",
     "wof:hierarchy": [
       {
@@ -292,14 +298,14 @@
     "wof:lang_x_spoken": [
       "lav"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218033,
     "wof:name": "Marupes",
     "wof:parent_id": 85633279,
     "wof:placetype": "region",
     "wof:placetype_local": "amalgamated municipality",
     "wof:population": 15950,
     "wof:population_rank": 6,
-    "wof:repo": "whosonfirst-data-admin-lv",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "MR",
     "wof:superseded_by": [],
     "wof:supersedes": [],

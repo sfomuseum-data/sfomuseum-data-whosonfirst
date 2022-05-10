@@ -2,8 +2,10 @@
   "id": 102521851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "1999-01-01",
+    "date:inception_upper": "1999-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1999",
     "geom:area": 0.00001845916650000069,
     "geom:area_square_m": 197229.406844,
     "geom:bbox": "-97.680214,30.218666,-97.673264,30.223698",
@@ -158,7 +160,7 @@
       "wk:page": "Austin-Bergstrom_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1640651832,
     "wof:geomhash": "3aa995779eb2f8ac78daea20c69b0d81",
     "wof:hierarchy": [
       {
@@ -172,13 +174,15 @@
       }
     ],
     "wof:id": 102521851,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218108,
     "wof:name": "Austin-Bergstrom International Airport",
     "wof:parent_id": 85814153,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746899335
+    ],
     "wof:tags": [
       "airport"
     ]

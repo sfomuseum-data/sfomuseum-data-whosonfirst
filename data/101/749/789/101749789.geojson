@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0005200678755000236,
-    "geom:area_square_m": 4233903.624594,
+    "geom:area_square_m": 4233903.624593,
     "geom:bbox": "2.236114,48.813297,2.289399,48.834658",
     "geom:latitude": 48.823146166510995,
     "geom:longitude": 2.2648050281938232,
@@ -350,13 +350,13 @@
     "src:lbl:centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85683157,
       102191581,
       85633147,
+      102071993,
       1159322471,
       404228185,
       404227465,
-      102071993
+      85683157
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -369,10 +369,11 @@
       "wk:page": "Issy-les-Moulineaux"
     },
     "wof:coterminous": [
-      1159322471
+      1159322471,
+      102071993
     ],
     "wof:country": "FR",
-    "wof:created": 1624906515,
+    "wof:created": 1652217805,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -394,13 +395,13 @@
     "wof:lang": [
       "fre"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217805,
     "wof:name": "Issy-les-Moulineaux",
     "wof:parent_id": 1159322471,
     "wof:placetype": "locality",
     "wof:population": 61447,
     "wof:population_rank": 8,
-    "wof:repo": "whosonfirst-data-admin-fr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

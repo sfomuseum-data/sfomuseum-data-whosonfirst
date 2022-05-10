@@ -64,11 +64,8 @@
     "oa:elevation_ft": "6159",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 217,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cheyenne Regional Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -88,11 +85,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "CYS",
+      "gn:id": 5821087,
+      "gp:id": 12519176,
       "iata:code": "CYS",
-      "icao:code": "KCYS"
+      "icao:code": "KCYS",
+      "oa:id": "3476",
+      "wd:id": "Q723248",
+      "wk:page": "Cheyenne_Regional_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1640645399,
+    "wof:created": 1652218182,
     "wof:geomhash": "af98c2a2ba58bb9f544a37669b98bd99",
     "wof:hierarchy": [
       {
@@ -105,8 +108,8 @@
       }
     ],
     "wof:id": 102531225,
-    "wof:lastmodified": 1640645399,
-    "wof:name": "Cheyenne Airport",
+    "wof:lastmodified": 1652218182,
+    "wof:name": "Cheyenne Regional Airport",
     "wof:parent_id": 101734121,
     "wof:placetype": "campus",
     "wof:repo": "sfomuseum-data-whosonfirst",

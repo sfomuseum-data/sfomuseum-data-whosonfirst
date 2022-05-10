@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 2.7029250492295036,
-    "geom:area_square_m": 24169575786.74578,
+    "geom:area_square_m": 24169575786.74811,
     "geom:bbox": "-72.557185,42.696985,-70.575094,45.305476",
     "geom:latitude": 43.68018300471862,
     "geom:longitude": -71.57122504356833,
@@ -731,6 +731,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85975075
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 30,
       "fips:code": "US33",
@@ -742,7 +745,7 @@
       "wd:id": "Q759"
     },
     "wof:country": "US",
-    "wof:created": 1624906898,
+    "wof:created": 1652218056,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -763,14 +766,14 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218056,
     "wof:name": "New Hampshire",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
     "wof:population": 1316470,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "NH",
     "wof:subdivision": "US-NH",
     "wof:superseded_by": [],

@@ -2,12 +2,10 @@
   "id": 102535643,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1942-01-01",
-    "date:inception_upper": "1942-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1942",
+    "edtf:inception": "",
     "geom:area": 0.0008899270300000983,
-    "geom:area_square_m": 8578238.882292,
+    "geom:area_square_m": 8578238.882291,
     "geom:bbox": "-9.147191,38.760124,-9.089711,38.800018",
     "geom:latitude": 38.780787184798065,
     "geom:longitude": -9.123624688850764,
@@ -154,11 +152,8 @@
       "里斯本机场"
     ],
     "sfomuseum:airport_id": 284,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Humberto Delgado Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -180,11 +175,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22405520,
       "iata:code": "LIS",
-      "icao:code": "LPPT"
+      "icao:code": "LPPT",
+      "wd:id": "Q403671"
     },
     "wof:country": "",
-    "wof:created": 1624906850,
+    "wof:created": 1652218218,
     "wof:geomhash": "2aaef6b1db6e1fcba4adc32201583675",
     "wof:hierarchy": [
       {
@@ -198,11 +195,11 @@
       }
     ],
     "wof:id": 102535643,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218218,
     "wof:name": "Lisbon Portela Airport",
     "wof:parent_id": 85799047,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

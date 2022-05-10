@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.08007295208099995,
-    "geom:area_square_m": 942449630.161676,
+    "geom:area_square_m": 942449630.161678,
     "geom:bbox": "30.878537,-18.050072,31.220937,-17.665572",
     "geom:latitude": -17.850979246567267,
     "geom:longitude": 31.053813878326253,
@@ -32,11 +32,17 @@
     "name:ara_x_preferred": [
       "إقليم هراري"
     ],
+    "name:ben_x_preferred": [
+      "হারারে"
+    ],
     "name:ceb_x_preferred": [
       "Harare Province"
     ],
     "name:deu_x_preferred": [
       "Provinz Harare"
+    ],
+    "name:ell_x_preferred": [
+      "Χαράρε"
     ],
     "name:eng_x_preferred": [
       "Harare"
@@ -50,6 +56,21 @@
     "name:frr_x_preferred": [
       "Harare"
     ],
+    "name:heb_x_preferred": [
+      "הרארה"
+    ],
+    "name:hin_x_preferred": [
+      "हरारे"
+    ],
+    "name:hun_x_preferred": [
+      "Harare"
+    ],
+    "name:ind_x_preferred": [
+      "Harare"
+    ],
+    "name:ita_x_preferred": [
+      "Harare"
+    ],
     "name:jpn_x_preferred": [
       "ハラレ州"
     ],
@@ -59,14 +80,35 @@
     "name:nep_x_preferred": [
       "हरारे प्रदेश"
     ],
+    "name:nld_x_preferred": [
+      "Harare"
+    ],
     "name:nob_x_preferred": [
       "Harare Province"
+    ],
+    "name:pol_x_preferred": [
+      "Harare"
     ],
     "name:por_x_preferred": [
       "Harare"
     ],
     "name:rus_x_preferred": [
       "Хараре"
+    ],
+    "name:spa_x_preferred": [
+      "Harare"
+    ],
+    "name:swe_x_preferred": [
+      "Harare"
+    ],
+    "name:tur_x_preferred": [
+      "Harare"
+    ],
+    "name:urd_x_preferred": [
+      "ہرارے"
+    ],
+    "name:vie_x_preferred": [
+      "Harare"
     ],
     "ne:abbrev": "",
     "ne:adm0_a3": "ZWE",
@@ -175,10 +217,11 @@
       "wk:page": "Harare Province"
     },
     "wof:coterminous": [
-      421201479
+      421201479,
+      421190261
     ],
     "wof:country": "ZW",
-    "wof:created": 1624906865,
+    "wof:created": 1652218004,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -201,7 +244,7 @@
       "sna",
       "nde"
     ],
-    "wof:lastmodified": 1626825084,
+    "wof:lastmodified": 1652218004,
     "wof:name": "Harare",
     "wof:parent_id": 85632243,
     "wof:placetype": "region",

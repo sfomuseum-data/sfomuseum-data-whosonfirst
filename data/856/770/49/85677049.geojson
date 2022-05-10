@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-02-25",
     "edtf:inception": "",
     "geom:area": 0.007768755106499356,
-    "geom:area_square_m": 96033514.831347,
+    "geom:area_square_m": 96033557.272932,
     "geom:bbox": "103.758453,1.324884,103.881470,1.448635",
     "geom:latitude": 1.3994761449352808,
     "geom:longitude": 103.80735167122577,
@@ -22,7 +23,7 @@
     "mps:latitude": 1.401928,
     "mps:longitude": 103.796168,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "mz:max_zoom": 11,
     "mz:min_zoom": 11,
     "name:eng_x_preferred": [
@@ -43,10 +44,16 @@
     "name:kor_x_preferred": [
       "북서부 지구 사회 발전 이사회"
     ],
+    "name:msa_x_preferred": [
+      "Barat Laut"
+    ],
     "name:spa_x_preferred": [
       "Consejo del Noroeste"
     ],
     "name:zho_x_preferred": [
+      "西北区"
+    ],
+    "name:zho_x_variant": [
       "西北社区发展理事会"
     ],
     "ne:abbrev": "",
@@ -138,7 +145,7 @@
       "wk:page": "North West Community Development Council"
     },
     "wof:country": "SG",
-    "wof:created": 1624906864,
+    "wof:created": 1652217991,
     "wof:geomhash": "51fccfa7ee4c1424a8b56f4e0e3a4d42",
     "wof:hierarchy": [
       {
@@ -160,7 +167,7 @@
       "msa",
       "tam"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217991,
     "wof:name": "North West",
     "wof:parent_id": 85632605,
     "wof:placetype": "region",

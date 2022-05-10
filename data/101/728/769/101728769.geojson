@@ -112,6 +112,9 @@
       "נורפוק"
     ],
     "name:hin_x_preferred": [
+      "नॉर्फ़ोक"
+    ],
+    "name:hin_x_variant": [
       "नॉरफ़ॉक"
     ],
     "name:hrv_x_preferred": [
@@ -373,7 +376,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
@@ -401,7 +404,7 @@
       "wk:page": "Norfolk, Virginia"
     },
     "wof:country": "US",
-    "wof:created": 1624906514,
+    "wof:created": 1652217776,
     "wof:geomhash": "226a061c04e1f243ac705ed8e38c8cd0",
     "wof:hierarchy": [
       {
@@ -416,14 +419,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217776,
     "wof:megacity": 0,
     "wof:name": "Norfolk",
     "wof:parent_id": 102085935,
     "wof:placetype": "locality",
     "wof:population": 242803,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

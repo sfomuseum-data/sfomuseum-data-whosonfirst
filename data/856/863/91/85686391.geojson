@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.06746456009949994,
-    "geom:area_square_m": 568754512.275091,
+    "geom:area_square_m": 568754512.275121,
     "geom:bbox": "28.630944,46.858110,29.123422,47.156330",
     "geom:latitude": 47.0165737761348,
     "geom:longitude": 28.871172862953284,
@@ -31,6 +31,9 @@
     "name:eng_x_preferred": [
       "Chișinău Municipality"
     ],
+    "name:fra_x_preferred": [
+      "Municipalité de Chișinău"
+    ],
     "name:heb_x_preferred": [
       "חינוך במולדובה"
     ],
@@ -40,12 +43,18 @@
     "name:mal_x_preferred": [
       "മോൾദോവായിലെ വിദ്യാഭ്യാസം"
     ],
+    "name:rom_x_preferred": [
+      "Chișinău"
+    ],
     "name:ron_x_preferred": [
       "Educația în Republica Moldova"
     ],
     "name:ron_x_variant": [
       "Municipiul Chişinău",
       "Municipiul Chișinău"
+    ],
+    "name:rus_x_preferred": [
+      "Муниципалитет Кишинева"
     ],
     "name:und_x_variant": [
       "Gorod Kishinëv"
@@ -154,7 +163,7 @@
       "wd:id": "Q5341085"
     },
     "wof:country": "MD",
-    "wof:created": 1624906883,
+    "wof:created": 1652218033,
     "wof:geomhash": "8b8134cc69ef0e076e5def392cfc5666",
     "wof:hierarchy": [
       {
@@ -170,14 +179,14 @@
     "wof:lang_x_spoken": [
       "ron"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218033,
     "wof:name": "mun.Chişinău",
     "wof:parent_id": 85633287,
     "wof:placetype": "region",
     "wof:placetype_local": "city",
     "wof:population": 716530,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-md",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CV",
     "wof:subdivision": "MD-CU",
     "wof:superseded_by": [],

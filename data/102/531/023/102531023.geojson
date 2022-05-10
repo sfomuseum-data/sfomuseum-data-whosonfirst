@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00007515109699994586,
-    "geom:area_square_m": 836696.822974,
+    "geom:area_square_m": 836696.822973,
     "geom:bbox": "-80.302673,25.785826,-80.290405,25.794985",
     "geom:latitude": 25.790342960776037,
     "geom:longitude": -80.2964835058706,
@@ -129,11 +129,8 @@
     "oa:elevation_ft": "8",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 82,
-    "sfomuseum:count_objects_public": 19,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Miami International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -153,11 +150,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "MIA",
+      "gn:id": 4164181,
+      "gp:id": 12520923,
       "iata:code": "MIA",
-      "icao:code": "KMIA"
+      "icao:code": "KMIA",
+      "oa:id": "3685",
+      "wd:id": "Q127530",
+      "wk:page": "Miami_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906809,
+    "wof:created": 1652218176,
     "wof:geomhash": "d6da8566f70f6c020e688a54ea1279a7",
     "wof:hierarchy": [
       {
@@ -171,11 +174,11 @@
       }
     ],
     "wof:id": 102531023,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218176,
     "wof:name": "Miami International Airport",
     "wof:parent_id": 85896183,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

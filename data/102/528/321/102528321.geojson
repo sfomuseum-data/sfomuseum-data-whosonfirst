@@ -2,8 +2,10 @@
   "id": 102528321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "1997-11-03",
+    "date:inception_upper": "1997-11-03",
+    "edtf:cessation": "..",
+    "edtf:inception": "1997-11-03",
     "geom:area": 0.000008845080500012168,
     "geom:area_square_m": 80052.510964,
     "geom:bbox": "-78.717598,42.949135,-78.713264,42.952911",
@@ -106,7 +108,7 @@
       "wk:page": "Buffalo_Niagara_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1640301939,
     "wof:geomhash": "aba1b4f92e5d2e75491eebeb1c4b018d",
     "wof:hierarchy": [
       {
@@ -116,17 +118,20 @@
         "county_id": 102082387,
         "localadmin_id": 404522333,
         "locality_id": 85979431,
+        "neighbourhood_id": -1,
         "region_id": 85688543
       }
     ],
     "wof:id": 102528321,
-    "wof:lastmodified": 1626825243,
-    "wof:name": "Greater Buffalo International Airport",
+    "wof:lastmodified": 1652218142,
+    "wof:name": "Buffalo-Niagara International Airport",
     "wof:parent_id": 85979431,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1746879121
+    ],
     "wof:tags": [
       "airport"
     ]

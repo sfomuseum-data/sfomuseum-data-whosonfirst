@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.468200248093004,
-    "geom:area_square_m": 9319524498.031271,
+    "geom:area_square_m": 9319524498.031143,
     "geom:bbox": "4.844402,58.277595,7.214667,59.844574",
     "geom:latitude": 59.11241237909963,
     "geom:longitude": 6.211575978213395,
@@ -51,6 +51,9 @@
     ],
     "name:bel_x_variant": [
       "Ругалян"
+    ],
+    "name:ben_x_preferred": [
+      "রোগাল্যান্ড"
     ],
     "name:bos_x_preferred": [
       "Rogaland"
@@ -118,6 +121,9 @@
     ],
     "name:heb_x_preferred": [
       "רוגלנד"
+    ],
+    "name:hin_x_preferred": [
+      "रोगालैंड"
     ],
     "name:hrv_x_preferred": [
       "Rogaland"
@@ -365,6 +371,9 @@
       85633341
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      1495123971
+    ],
     "wof:concordances": {
       "fips:code": "NO14",
       "gn:id": 3141558,
@@ -375,7 +384,7 @@
       "wd:id": "Q50624"
     },
     "wof:country": "NO",
-    "wof:created": 1624906889,
+    "wof:created": 1652218041,
     "wof:geom_alt": [
       "quattroshapes-reversegeo"
     ],
@@ -399,7 +408,7 @@
       "nno",
       "sme"
     ],
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218041,
     "wof:name": "Rogaland",
     "wof:parent_id": 85633341,
     "wof:placetype": "region",

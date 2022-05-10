@@ -56,11 +56,8 @@
     "oa:elevation_ft": "1308",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 64,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Lanai Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:centroid_lbl": "geonames",
     "src:geom": "ourairports",
     "src:geom_alt": [],
@@ -80,11 +77,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "LNY",
+      "gn:id": 5850057,
+      "gp:id": 12520557,
       "iata:code": "LNY",
-      "icao:code": "PHNY"
+      "icao:code": "PHNY",
+      "oa:id": "5454",
+      "wd:id": "Q6482872",
+      "wk:page": "Lanai_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218121,
     "wof:geomhash": "280f5b0e928bee97629b1b6541650265",
     "wof:hierarchy": [
       {
@@ -98,11 +101,11 @@
       }
     ],
     "wof:id": 102526231,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218121,
     "wof:name": "Lanai Airport",
     "wof:parent_id": 85890549,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

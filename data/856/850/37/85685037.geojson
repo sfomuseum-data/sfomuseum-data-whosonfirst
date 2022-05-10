@@ -5,19 +5,22 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.459998579221001,
-    "geom:area_square_m": 3435738807.882466,
+    "geom:area_square_m": 3435738598.040949,
     "geom:bbox": "-9.938690,52.554516,-8.282425,53.168769",
     "geom:latitude": 52.84039067650983,
     "geom:longitude": -9.042809178649206,
     "iso:country": "IE",
     "label:eng_x_preferred_longname": [
-      "Clare County"
+      "County Clare"
     ],
     "label:eng_x_preferred_placetype": [
       "county"
     ],
     "label:eng_x_preferred_shortcode": [
       "CE"
+    ],
+    "label:eng_x_variant_longname": [
+      "Clare County"
     ],
     "label:gle_x_preferred_longname": [
       "Contae an Chláir"
@@ -231,7 +234,16 @@
       "کاؤنٹی کلیئر"
     ],
     "name:vie_x_preferred": [
+      "Clare"
+    ],
+    "name:vie_x_variant": [
       "Hạt Clare"
+    ],
+    "name:zho_cn_x_preferred": [
+      "克莱尔"
+    ],
+    "name:zho_tw_x_preferred": [
+      "克萊爾"
     ],
     "name:zho_x_preferred": [
       "克莱尔郡"
@@ -342,8 +354,11 @@
       "unlc:id": "IE-CE",
       "wd:id": "Q181862"
     },
+    "wof:coterminous": [
+      1746652105
+    ],
     "wof:country": "IE",
-    "wof:created": 1624906882,
+    "wof:created": 1652218030,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -364,7 +379,7 @@
       "eng",
       "gle"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218030,
     "wof:name": "Clare",
     "wof:parent_id": 85633241,
     "wof:placetype": "region",

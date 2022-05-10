@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.07423106229649987,
-    "geom:area_square_m": 639800834.42974,
+    "geom:area_square_m": 639800905.550309,
     "geom:bbox": "15.773189,45.613968,16.239620,45.969059",
     "geom:latitude": 45.80989583890302,
     "geom:longitude": 16.000017758764464,
@@ -62,10 +62,11 @@
       "Zagreb County"
     ],
     "name:deu_x_preferred": [
-      "Zagreb Stadt"
+      "Zagreb"
     ],
     "name:deu_x_variant": [
-      "Gespanschaft Zagreb"
+      "Gespanschaft Zagreb",
+      "Zagreb Stadt"
     ],
     "name:ell_x_preferred": [
       "Ζάγκρεμπ"
@@ -352,7 +353,7 @@
       "wd:id": "Q27038"
     },
     "wof:country": "HR",
-    "wof:created": 1624906881,
+    "wof:created": 1652218027,
     "wof:geomhash": "58ac2e9b56149cd95ae5eb6a9e37309a",
     "wof:hierarchy": [
       {
@@ -369,14 +370,14 @@
       "hrv",
       "ita"
     ],
-    "wof:lastmodified": 1626825090,
+    "wof:lastmodified": 1652218027,
     "wof:name": "Grad Zagreb",
     "wof:parent_id": 85633229,
     "wof:placetype": "region",
     "wof:placetype_local": "city",
     "wof:population": 790017,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-hr",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "GZ",
     "wof:subdivision": "HR-21",
     "wof:superseded_by": [],

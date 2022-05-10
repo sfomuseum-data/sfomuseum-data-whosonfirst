@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-02-25",
     "edtf:inception": "",
     "geom:area": 0.008826812067499638,
-    "geom:area_square_m": 109115098.878454,
+    "geom:area_square_m": 109115599.294577,
     "geom:bbox": "103.806351,1.271918,103.909439,1.426579",
     "geom:latitude": 1.3466452092086882,
     "geom:longitude": 103.8545381896495,
@@ -22,7 +23,7 @@
     "mps:latitude": 1.317709,
     "mps:longitude": 103.849462,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "mz:max_zoom": 11,
     "mz:min_zoom": 11,
     "name:deu_x_preferred": [
@@ -65,6 +66,9 @@
     "name:kor_x_variant": [
       "중부 싱가포르 지구 사회 발전 이사회"
     ],
+    "name:msa_x_preferred": [
+      "Singapura Tengah"
+    ],
     "name:spa_x_preferred": [
       "Consejo Central"
     ],
@@ -72,6 +76,9 @@
       "Singapore"
     ],
     "name:zho_x_preferred": [
+      "中区"
+    ],
+    "name:zho_x_variant": [
       "中区社区发展理事会"
     ],
     "ne:abbrev": "",
@@ -163,7 +170,7 @@
       "wk:page": "Central Singapore Community Development Council"
     },
     "wof:country": "SG",
-    "wof:created": 1624906864,
+    "wof:created": 1652217991,
     "wof:geomhash": "f001fa35602904771c49218e1bd2b65a",
     "wof:hierarchy": [
       {
@@ -185,11 +192,11 @@
       "msa",
       "tam"
     ],
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217991,
     "wof:name": "Central Singapore",
     "wof:parent_id": 85632605,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-sg",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CS",
     "wof:subdivision": "SG-01",
     "wof:superseded_by": [],

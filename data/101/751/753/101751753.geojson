@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.009885057344999882,
-    "geom:area_square_m": 53330202.749723,
+    "geom:area_square_m": 53330202.749727,
     "geom:bbox": "-22.036844,64.089428,-21.708679,64.174827",
     "geom:latitude": 64.13145123990941,
     "geom:longitude": -21.851843275537973,
@@ -757,7 +757,9 @@
       85672493
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633249,
+    "wof:capital_of": [
+      85633249
+    ],
     "wof:concordances": {
       "dbp:id": "Reykjavik",
       "fb:id": "en.reykjavik",
@@ -770,7 +772,7 @@
       "wk:page": "Reykjavík"
     },
     "wof:country": "IS",
-    "wof:created": 1624906516,
+    "wof:created": 1652217827,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -787,14 +789,14 @@
     "wof:lang": [
       "unk"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217827,
     "wof:megacity": 0,
     "wof:name": "Reykjavik",
     "wof:parent_id": 85672493,
     "wof:placetype": "locality",
     "wof:population": 118918,
     "wof:population_rank": 9,
-    "wof:repo": "whosonfirst-data-admin-is",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,
     "wof:superseded_by": [],
     "wof:supersedes": [],

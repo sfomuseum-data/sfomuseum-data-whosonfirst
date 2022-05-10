@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.015792173095499944,
-    "geom:area_square_m": 140735531.122213,
+    "geom:area_square_m": 140735531.122209,
     "geom:bbox": "18.259881,43.822830,18.519924,43.966291",
     "geom:latitude": 43.886820328160084,
     "geom:longitude": 18.406811222949155,
@@ -200,6 +200,9 @@
       "Sarajevo"
     ],
     "name:hin_x_preferred": [
+      "सारायेवो"
+    ],
+    "name:hin_x_variant": [
       "साराजेवो"
     ],
     "name:hrv_x_preferred": [
@@ -389,6 +392,9 @@
       "Sarajewo"
     ],
     "name:por_x_preferred": [
+      "Saraievo"
+    ],
+    "name:por_x_variant": [
       "Sarajevo"
     ],
     "name:que_x_preferred": [
@@ -646,7 +652,9 @@
       1108759181
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632609,
+    "wof:capital_of": [
+      85632609
+    ],
     "wof:concordances": {
       "gn:id": 3191281,
       "qs_pg:id": 1043938,
@@ -669,13 +677,13 @@
       }
     ],
     "wof:id": 890518775,
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218068,
     "wof:name": "Sarajevo",
     "wof:parent_id": 1108759181,
     "wof:placetype": "locality",
     "wof:population": 696731,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-ba",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

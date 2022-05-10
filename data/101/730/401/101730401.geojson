@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.026905162272000065,
-    "geom:area_square_m": 224240603.0973,
+    "geom:area_square_m": 224240603.096629,
     "geom:bbox": "-122.435956,47.495514,-122.236044,47.734165",
     "geom:latitude": 47.62129135975085,
     "geom:longitude": -122.33301863273775,
@@ -647,8 +647,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688623,
-      102086191
+      102086191,
+      85688623
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -659,6 +659,7 @@
       "gn:id": 5793725,
       "gp:id": 2399317,
       "loc:id": "n79041965",
+      "ne:id": 1159151223,
       "nyt:id": "9961568093830127011",
       "qs_pg:id": 274832,
       "wd:id": "Q5083",
@@ -669,7 +670,7 @@
       "qs_pg:id": 323454
     },
     "wof:country": "US",
-    "wof:created": 1624906514,
+    "wof:created": 1652217779,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -688,14 +689,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217779,
     "wof:megacity": 1,
     "wof:name": "Seattle",
     "wof:parent_id": 102086191,
     "wof:placetype": "locality",
     "wof:population": 608660,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:superseded_by": [],
     "wof:supersedes": [

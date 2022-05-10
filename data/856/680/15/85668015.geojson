@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 30.805395749321,
-    "geom:area_square_m": 305388349488.5825,
+    "geom:area_square_m": 305388348411.2785,
     "geom:bbox": "-63.391372,-41.037918,-56.667084,-33.257463",
     "geom:latitude": -36.67511791488133,
     "geom:longitude": -60.55601067444364,
@@ -88,10 +88,11 @@
       "Provincia de Buenos Aires"
     ],
     "name:deu_x_preferred": [
-      "Provinz Buenos Aires"
+      " Buenos Aires"
     ],
     "name:deu_x_variant": [
-      "Buenos Aires"
+      "Buenos Aires",
+      "Provinz Buenos Aires"
     ],
     "name:ell_x_preferred": [
       "Μπουένος Άιρες"
@@ -163,6 +164,9 @@
       "Provinsi Buenos Aires"
     ],
     "name:ita_x_preferred": [
+      "Buenos Aires"
+    ],
+    "name:ita_x_variant": [
       "provincia di Buenos Aires"
     ],
     "name:jpn_x_preferred": [
@@ -446,7 +450,7 @@
       "wk:page": "Buenos Aires Province"
     },
     "wof:country": "AR",
-    "wof:created": 1624906855,
+    "wof:created": 1652217945,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -465,14 +469,14 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1626825081,
+    "wof:lastmodified": 1652217945,
     "wof:name": "Buenos Aires",
     "wof:parent_id": 85632505,
     "wof:placetype": "region",
     "wof:placetype_local": "province",
     "wof:population": 15625084,
     "wof:population_rank": 14,
-    "wof:repo": "whosonfirst-data-admin-ar",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "BA",
     "wof:superseded_by": [],
     "wof:supersedes": [],

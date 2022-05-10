@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.008931541638000607,
-    "geom:area_square_m": 105185308.142929,
+    "geom:area_square_m": 105185308.14299,
     "geom:bbox": "168.257387,-17.806732,168.415476,-17.672381",
     "geom:latitude": -17.746252322501544,
     "geom:longitude": 168.3369044367587,
@@ -496,7 +496,9 @@
       85680893
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632263,
+    "wof:capital_of": [
+      85632263
+    ],
     "wof:concordances": {
       "gn:id": 2135171,
       "gp:id": 1050907,
@@ -523,13 +525,13 @@
       }
     ],
     "wof:id": 890416453,
-    "wof:lastmodified": 1626825095,
+    "wof:lastmodified": 1652218060,
     "wof:name": "Port-Vila",
     "wof:parent_id": 85680893,
     "wof:placetype": "locality",
     "wof:population": 44040,
     "wof:population_rank": 7,
-    "wof:repo": "whosonfirst-data-admin-vu",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

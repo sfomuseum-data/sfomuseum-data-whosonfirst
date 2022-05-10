@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0981989224839999,
-    "geom:area_square_m": 773157413.880721,
+    "geom:area_square_m": 773157413.880651,
     "geom:bbox": "30.237090,50.213540,30.828148,50.588962",
     "geom:latitude": 50.451016705431286,
     "geom:longitude": 30.547873816885815,
@@ -165,12 +165,12 @@
       "Mother of Rus' Cities",
       "Mater’ Gorodov Rrus'kih"
     ],
-    "name:eng_x_preferred": [
-      "Kiev City"
-    ],
-    "name:eng_x_variant": [
-      "Kyiv",
+    "name:eng_x_historical": [
+      "Kiev City",
       "Kiev"
+    ],
+    "name:eng_x_preferred": [
+      "Kyiv"
     ],
     "name:epo_x_preferred": [
       "Kievo"
@@ -487,6 +487,9 @@
     "name:roh_x_preferred": [
       "Kiev"
     ],
+    "name:rom_x_preferred": [
+      "Kiev"
+    ],
     "name:ron_x_preferred": [
       "Киев"
     ],
@@ -776,11 +779,13 @@
     "wof:belongsto": [
       102191581,
       85633805,
-      85688801,
-      1108730705
+      1108730705,
+      85688801
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633805,
+    "wof:capital_of": [
+      85633805
+    ],
     "wof:concordances": {
       "gn:id": 703448,
       "gp:id": 924938,
@@ -790,7 +795,7 @@
       "wd:id": "Q1899"
     },
     "wof:country": "UA",
-    "wof:created": 1624906516,
+    "wof:created": 1652217831,
     "wof:geomhash": "a87dd60251333157904fbcdb05d94fca",
     "wof:hierarchy": [
       {
@@ -802,15 +807,15 @@
       }
     ],
     "wof:id": 101752489,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217831,
     "wof:megacity": 1,
-    "wof:name": "Kiev City",
+    "wof:name": "Kyiv",
     "wof:parent_id": 85688801,
     "wof:placetype": "locality",
     "wof:placetype_local": "independent city",
     "wof:population": 2845023,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-ua",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,
     "wof:shortcode": "KC",
     "wof:superseded_by": [],

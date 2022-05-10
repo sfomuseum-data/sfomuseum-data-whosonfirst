@@ -8,7 +8,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 12.067509329495463,
-    "geom:area_square_m": 125517488979.21477,
+    "geom:area_square_m": 125517488979.23293,
     "geom:bbox": "-91.655009,30.146096,-88.097888,34.996099",
     "geom:latitude": 32.71334373777566,
     "geom:longitude": -89.6534799538413,
@@ -702,6 +702,9 @@
       85633793
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      85969693
+    ],
     "wof:concordances": {
       "digitalenvoy:region_code": 25,
       "fips:code": "US28",
@@ -713,7 +716,7 @@
       "wd:id": "Q1494"
     },
     "wof:country": "US",
-    "wof:created": 1624906895,
+    "wof:created": 1652218054,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -734,7 +737,7 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218054,
     "wof:name": "Mississippi",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",

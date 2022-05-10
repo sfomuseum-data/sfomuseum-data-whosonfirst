@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.2911186257755007,
-    "geom:area_square_m": 2797580043.249167,
+    "geom:area_square_m": 2797579502.872366,
     "geom:bbox": "-9.500469,38.673057,-8.781865,39.317726",
     "geom:latitude": 38.99827456505555,
     "geom:longitude": -9.163635321136063,
@@ -42,6 +42,9 @@
     ],
     "name:bel_x_preferred": [
       "акруга Лісабон"
+    ],
+    "name:ben_x_preferred": [
+      "লিসোবা"
     ],
     "name:bre_x_preferred": [
       "Distrig Lisbon"
@@ -94,6 +97,12 @@
     ],
     "name:glg_x_preferred": [
       "Distrito de Lisboa"
+    ],
+    "name:heb_x_preferred": [
+      "ליסבואה"
+    ],
+    "name:hin_x_preferred": [
+      "लिस्बोआ"
     ],
     "name:hun_x_preferred": [
       "Lisszabon"
@@ -295,7 +304,7 @@
       "wd:id": "Q207199"
     },
     "wof:country": "PT",
-    "wof:created": 1624906890,
+    "wof:created": 1652218044,
     "wof:geomhash": "f821d1cee1c6add3df038231c09a64ab",
     "wof:hierarchy": [
       {
@@ -311,7 +320,7 @@
     "wof:lang_x_spoken": [
       "por"
     ],
-    "wof:lastmodified": 1626825092,
+    "wof:lastmodified": 1652218044,
     "wof:name": "Lisboa",
     "wof:parent_id": 85633735,
     "wof:placetype": "region",

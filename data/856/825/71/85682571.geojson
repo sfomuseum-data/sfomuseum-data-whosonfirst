@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 8.661115143303439,
-    "geom:area_square_m": 70328246129.22365,
+    "geom:area_square_m": 70328246129.22409,
     "geom:bbox": "8.975926,47.270124,13.839584,50.564225",
     "geom:latitude": 48.94757659507127,
     "geom:longitude": 11.419912752143107,
@@ -593,6 +593,9 @@
       85633111
     ],
     "wof:breaches": [],
+    "wof:capital": [
+      101748479
+    ],
     "wof:concordances": {
       "digitalenvoy:metro_code": 276005,
       "digitalenvoy:region_code": 10436,
@@ -601,10 +604,11 @@
       "gp:id": 2345482,
       "hasc:id": "DE.BY",
       "iso:id": "DE-BY",
-      "unlc:id": "DE-BY"
+      "unlc:id": "DE-BY",
+      "wd:id": "Q980"
     },
     "wof:country": "DE",
-    "wof:created": 1624906879,
+    "wof:created": 1652218017,
     "wof:geom_alt": [
       "quattroshapes",
       "de-bkg-reversegeo"
@@ -624,7 +628,7 @@
     "wof:lang_x_spoken": [
       "deu"
     ],
-    "wof:lastmodified": 1626825089,
+    "wof:lastmodified": 1652218017,
     "wof:name": "Bavaria",
     "wof:parent_id": 85633111,
     "wof:placetype": "region",

@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1951",
     "geom:area": 0.0013607127710000924,
-    "geom:area_square_m": 7378826.74226,
+    "geom:area_square_m": 7378826.742261,
     "geom:bbox": "-22.636299,63.961388,-22.538967,64.011711",
     "geom:latitude": 63.98845631463376,
     "geom:longitude": -22.58593677052586,
@@ -46,7 +46,9 @@
       "Keflavík International Airport"
     ],
     "name:eng_x_variant": [
-      "Keflavík Airport"
+      "Keflavík Airport",
+      "KEF",
+      "BIKF"
     ],
     "name:est_x_preferred": [
       "Keflavíki rahvusvaheline lennujaam"
@@ -136,11 +138,8 @@
       "凯夫拉维克国际机场"
     ],
     "sfomuseum:airport_id": 261,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Keflavík International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -157,11 +156,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12513445,
       "iata:code": "KEF",
-      "icao:code": "BIKF"
+      "icao:code": "BIKF",
+      "wd:id": "Q139921"
     },
     "wof:country": "",
-    "wof:created": 1624906954,
+    "wof:created": 1652218269,
     "wof:geomhash": "3be614ac9816cca2841015fabb8787c9",
     "wof:hierarchy": [
       {
@@ -173,11 +174,11 @@
       }
     ],
     "wof:id": 102553077,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218269,
     "wof:name": "Keflavik Airport",
     "wof:parent_id": 101845653,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

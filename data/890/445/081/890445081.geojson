@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.020325982070999477,
-    "geom:area_square_m": 248210352.151063,
+    "geom:area_square_m": 248210352.15112,
     "geom:bbox": "-79.595869,8.928972,-79.331984,9.133238",
     "geom:latitude": 9.043435030803062,
     "geom:longitude": -79.45061440363293,
@@ -533,13 +533,16 @@
     "wof:belongsto": [
       102191575,
       85632179,
-      85675789,
-      421196975
+      421196975,
+      85675789
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632179,
+    "wof:capital_of": [
+      85632179
+    ],
     "wof:concordances": {
       "gn:id": 3703443,
+      "ne:id": 1159150667,
       "qs_pg:id": 1046581,
       "wd:id": "Q3306",
       "wk:page": "Panama"
@@ -560,7 +563,8 @@
       }
     ],
     "wof:id": 890445081,
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218065,
+    "wof:megacity": 1,
     "wof:name": "Panamá",
     "wof:parent_id": 421196975,
     "wof:placetype": "locality",

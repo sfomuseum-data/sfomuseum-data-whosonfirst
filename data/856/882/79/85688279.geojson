@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.36699660053649946,
-    "geom:area_square_m": 3228484431.043602,
+    "geom:area_square_m": 3228484631.687898,
     "geom:bbox": "19.975504,44.262782,20.853699,45.096896",
     "geom:latitude": 44.64785126777484,
     "geom:longitude": 20.417818989816876,
@@ -77,6 +77,9 @@
     ],
     "name:pol_x_preferred": [
       "Miasto Belgrad"
+    ],
+    "name:rom_x_preferred": [
+      "Belgrad"
     ],
     "name:rus_x_preferred": [
       "Белград"
@@ -200,7 +203,7 @@
       "wd:id": "Q2074197"
     },
     "wof:country": "RS",
-    "wof:created": 1624906892,
+    "wof:created": 1652218051,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -225,14 +228,14 @@
       "slk",
       "ukr"
     ],
-    "wof:lastmodified": 1626825093,
+    "wof:lastmodified": 1652218051,
     "wof:name": "Grad Beograd",
     "wof:parent_id": 404228357,
     "wof:placetype": "region",
     "wof:placetype_local": "city",
     "wof:population": 1659440,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-rs",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "BG",
     "wof:subdivision": "RS-00",
     "wof:superseded_by": [],

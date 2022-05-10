@@ -54,11 +54,8 @@
     "oa:elevation_ft": "782",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 247,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Bishop International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -71,20 +68,26 @@
       "suburb_id": 55858978
     },
     "wof:belongsto": [
-      85877393,
+      85688599,
       102191575,
-      404506599,
+      404506601,
       85633793,
-      85951927,
-      102083111,
-      85688599
+      1729473317,
+      102083111
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "iata:code": "FNT"
+      "faa:code": "FNT",
+      "gn:id": 4986190,
+      "gp:id": 12518841,
+      "iata:code": "FNT",
+      "icao:code": "KFNT",
+      "oa:id": "3535",
+      "wd:id": "Q597396",
+      "wk:page": "Bishop_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218134,
     "wof:geomhash": "637c3ff5463139862fa09a4ff1009d27",
     "wof:hierarchy": [
       {
@@ -92,18 +95,18 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083111,
-        "localadmin_id": 404506599,
-        "locality_id": 85951927,
-        "neighbourhood_id": 85877393,
+        "localadmin_id": 404506601,
+        "locality_id": 1729473317,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102527543,
-    "wof:lastmodified": 1626825243,
+    "wof:lastmodified": 1652218134,
     "wof:name": "Bishop International Airport",
-    "wof:parent_id": 85877393,
+    "wof:parent_id": 1729473317,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

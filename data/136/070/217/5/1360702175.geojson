@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "2016-02-04",
     "geom:area": 0.8207959164470018,
-    "geom:area_square_m": 7689114720.055994,
+    "geom:area_square_m": 7689115096.502048,
     "geom:bbox": "8.130806,40.296498,9.778997,41.313198",
     "geom:latitude": 40.74645678410244,
     "geom:longitude": 8.96429872093132,
@@ -85,6 +85,9 @@
       "Sassari"
     ],
     "name:deu_x_preferred": [
+      "Sassari"
+    ],
+    "name:deu_x_variant": [
       "Provinz Sassari"
     ],
     "name:ell_x_preferred": [
@@ -113,10 +116,10 @@
       "Sassarin maakunta"
     ],
     "name:fra_x_preferred": [
-      "province de Sassari"
+      "Sassari"
     ],
     "name:fra_x_variant": [
-      "Sassari"
+      "province de Sassari"
     ],
     "name:glg_x_preferred": [
       "Provincia de Sassari"
@@ -331,7 +334,7 @@
       ]
     },
     "wof:country": "IT",
-    "wof:created": 1624906904,
+    "wof:created": 1652218078,
     "wof:geomhash": "92a5a6364f0552415cb4da28e27651d2",
     "wof:hierarchy": [
       {
@@ -349,13 +352,13 @@
       "ita",
       "fra"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218078,
     "wof:name": "Sassari",
     "wof:parent_id": 404227535,
     "wof:placetype": "region",
     "wof:population": 493357,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "SS",
     "wof:superseded_by": [],
     "wof:supersedes": [

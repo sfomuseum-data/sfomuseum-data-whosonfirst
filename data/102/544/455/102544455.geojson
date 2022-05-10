@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00033802941399998186,
-    "geom:area_square_m": 2744706.226179,
+    "geom:area_square_m": 2744706.226178,
     "geom:bbox": "2.414953,48.941811,2.447762,48.970356",
     "geom:latitude": 48.95437951417275,
     "geom:longitude": 2.4323384308517255,
@@ -39,6 +39,10 @@
     ],
     "name:eng_x_preferred": [
       "Paris–Le Bourget Airport"
+    ],
+    "name:eng_x_variant": [
+      "LBG",
+      "LFPB"
     ],
     "name:fas_x_preferred": [
       "فرودگاه پاری – لو بورژه"
@@ -116,11 +120,8 @@
       "巴黎－勒布尔热机场"
     ],
     "sfomuseum:airport_id": 106,
-    "sfomuseum:count_objects_public": 3,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Paris - Le Bourget Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -143,11 +144,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22137770,
       "iata:code": "LBG",
-      "icao:code": "LFPB"
+      "icao:code": "LFPB",
+      "wd:id": "Q738719"
     },
     "wof:country": "",
-    "wof:created": 1624906851,
+    "wof:created": 1652218242,
     "wof:geomhash": "0842c3710df1f61c7c103b22b75473fb",
     "wof:hierarchy": [
       {
@@ -164,11 +167,11 @@
       }
     ],
     "wof:id": 102544455,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218242,
     "wof:name": "Paris-Le Bourget Airport",
     "wof:parent_id": 101749819,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

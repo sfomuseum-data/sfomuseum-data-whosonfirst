@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.00032008614099988855,
-    "geom:area_square_m": 2930845.720823,
+    "geom:area_square_m": 2930845.720827,
     "geom:bbox": "-83.359619,42.209114,-83.326721,42.249432",
     "geom:latitude": 42.22596686179587,
     "geom:longitude": -83.34645905682575,
@@ -123,11 +123,8 @@
     "oa:elevation_ft": "645",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 35,
-    "sfomuseum:count_objects_public": 2,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Detroit Metro Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -148,11 +145,16 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "DTW",
+      "gp:id": 12519481,
       "iata:code": "DTW",
-      "icao:code": "KDTW"
+      "icao:code": "KDTW",
+      "oa:id": "3497",
+      "wd:id": "Q652505",
+      "wk:page": "Detroit_Metropolitan_Wayne_County_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218117,
     "wof:geomhash": "a9ccb9c06518bc8fa05f9fdddfdb4f87",
     "wof:hierarchy": [
       {
@@ -162,15 +164,16 @@
         "county_id": 102083147,
         "localadmin_id": 404508657,
         "locality_id": 85951131,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102525635,
-    "wof:lastmodified": 1649405541,
+    "wof:lastmodified": 1652218117,
     "wof:name": "Detroit Metro Airport",
     "wof:parent_id": 85951131,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

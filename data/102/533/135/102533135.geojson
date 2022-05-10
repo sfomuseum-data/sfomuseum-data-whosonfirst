@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0006538476604999317,
-    "geom:area_square_m": 6056031.99397,
+    "geom:area_square_m": 6056031.993967,
     "geom:bbox": "-74.119003,41.469994,-74.075996,41.506104",
     "geom:latitude": 41.491796781421904,
     "geom:longitude": -74.0954679445147,
@@ -89,36 +89,30 @@
       "planet_id": 1,
       "state_id": 2347591
     },
-    "wof:belongsto": [
-      85688543,
-      102191575,
-      404522915,
-      85633793,
-      102083061
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "SWF"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218201,
     "wof:geomhash": "a9b5bf4f2d3f0540393084900ede4d61",
     "wof:hierarchy": [
       {
         "campus_id": 102533135,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102083061,
-        "localadmin_id": 404522915,
-        "region_id": 85688543
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102533135,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218201,
     "wof:name": "Stewart International Airport",
-    "wof:parent_id": 404522915,
+    "wof:parent_id": 1729445147,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

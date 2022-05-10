@@ -2,10 +2,10 @@
   "id": 102541685,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1978-01-01",
-    "date:inception_upper": "1978-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "1978",
+    "date:inception_lower": "2004-04-01",
+    "date:inception_upper": "2004-04-01",
+    "edtf:cessation": "..",
+    "edtf:inception": "2004-04-01",
     "geom:area": 0.0016744580509999254,
     "geom:area_square_m": 16801178.658207,
     "geom:bbox": "140.360840,35.734528,140.414719,35.812778",
@@ -159,11 +159,8 @@
       "成田国际机场"
     ],
     "sfomuseum:airport_id": 273,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Narita International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -181,8 +178,10 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12513999,
       "iata:code": "NRT",
-      "icao:code": "RJAA"
+      "icao:code": "RJAA",
+      "wd:id": "Q36454"
     },
     "wof:country": "JP",
     "wof:created": 1640294782,
@@ -198,7 +197,7 @@
       }
     ],
     "wof:id": 102541685,
-    "wof:lastmodified": 1640298783,
+    "wof:lastmodified": 1652218237,
     "wof:name": "Narita International Airport",
     "wof:parent_id": 102031933,
     "wof:placetype": "campus",

@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.014960197741499986,
-    "geom:area_square_m": 146185558.338655,
+    "geom:area_square_m": 146185809.851674,
     "geom:bbox": "-122.341562,37.698758,-122.111965,37.884926",
     "geom:latitude": 37.79089045319005,
     "geom:longitude": -122.21475944981813,
@@ -121,9 +121,6 @@
       "Oakland"
     ],
     "name:fra_x_preferred": [
-      "Oakland"
-    ],
-    "name:fra_x_variant": [
       "Oakland"
     ],
     "name:fry_x_preferred": [
@@ -483,8 +480,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688637,
-      102086959
+      102086959,
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -500,7 +497,7 @@
       "wk:page": "Oakland, California"
     },
     "wof:country": "US",
-    "wof:created": 1624906826,
+    "wof:created": 1652217974,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -516,14 +513,14 @@
       }
     ],
     "wof:id": 85921881,
-    "wof:lastmodified": 1626825083,
+    "wof:lastmodified": 1652217974,
     "wof:megacity": 0,
     "wof:name": "Oakland",
     "wof:parent_id": 102086959,
     "wof:placetype": "locality",
     "wof:population": 390724,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,
     "wof:superseded_by": [],
     "wof:supersedes": [],

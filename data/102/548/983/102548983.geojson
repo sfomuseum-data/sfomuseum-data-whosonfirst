@@ -136,11 +136,8 @@
     "oa:elevation_ft": "167",
     "oa:type": "closed",
     "sfomuseum:airport_id": 14,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Berlin Tempelhof Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -161,11 +158,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 22164089,
       "iata:code": "THF",
-      "icao:code": "EDDI"
+      "icao:code": "EDDI",
+      "oa:id": "2215",
+      "wd:id": "Q9686",
+      "wk:page": "Tempelhof_International_Airport"
     },
     "wof:country": "",
-    "wof:created": 1640300732,
+    "wof:created": 1652218255,
     "wof:geomhash": "c4b3a27d438514129c35e98e4af64005",
     "wof:hierarchy": [
       {
@@ -180,7 +181,7 @@
       }
     ],
     "wof:id": 102548983,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218255,
     "wof:name": "Tempelhof Central Airport",
     "wof:parent_id": 420784305,
     "wof:placetype": "campus",

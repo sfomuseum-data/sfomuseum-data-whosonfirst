@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.06323898615499977,
-    "geom:area_square_m": 664237242.230343,
+    "geom:area_square_m": 664237242.230271,
     "geom:bbox": "-106.635922,31.621356,-106.213113,32.001481",
     "geom:latitude": 31.848099818390857,
     "geom:longitude": -106.43202200689055,
@@ -470,8 +470,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688753,
-      102085989
+      102085989,
+      85688753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -482,13 +482,14 @@
       "gn:id": 5520993,
       "gp:id": 2397816,
       "loc:id": "n79121678",
+      "ne:id": 1159149265,
       "nyt:id": "N13249314768494705091",
       "qs_pg:id": 1060540,
       "wd:id": "Q16562",
       "wk:page": "El Paso, Texas"
     },
     "wof:country": "US",
-    "wof:created": 1624906513,
+    "wof:created": 1652217773,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -506,14 +507,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825065,
+    "wof:lastmodified": 1652217773,
     "wof:megacity": 1,
     "wof:name": "El Paso",
     "wof:parent_id": 102085989,
     "wof:placetype": "locality",
     "wof:population": 649133,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 4,
     "wof:superseded_by": [],
     "wof:supersedes": [],

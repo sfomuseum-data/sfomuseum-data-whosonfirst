@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0187240480375001,
-    "geom:area_square_m": 210673908.699748,
+    "geom:area_square_m": 210673908.699839,
     "geom:bbox": "118.010762,24.413114,118.206280,24.611105",
     "geom:latitude": 24.503699479664842,
     "geom:longitude": 118.10453392666422,
@@ -18,7 +18,7 @@
     "mps:latitude": 24.489945,
     "mps:longitude": 118.103833,
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "mz:min_zoom": 5.6,
     "name:afr_x_preferred": [
       "Xiamen"
@@ -413,12 +413,13 @@
     "wof:concordances": {
       "gn:id": 1790645,
       "gp:id": 26198335,
+      "ne:id": 1159149129,
       "qs_pg:id": 136385,
       "wd:id": "Q68744",
       "wk:page": "Xiamen"
     },
     "wof:country": "CN",
-    "wof:created": 1624906905,
+    "wof:created": 1652218102,
     "wof:geomhash": "f5b97431c87ca5472b14853400a55cab",
     "wof:hierarchy": [
       {
@@ -429,14 +430,14 @@
       }
     ],
     "wof:id": 102027043,
-    "wof:lastmodified": 1626825098,
+    "wof:lastmodified": 1652218102,
     "wof:megacity": 1,
     "wof:name": "Xiamen",
     "wof:parent_id": -1,
     "wof:placetype": "locality",
     "wof:population": 3531347,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 4,
     "wof:superseded_by": [],
     "wof:supersedes": [],

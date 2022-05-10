@@ -7,7 +7,7 @@
     "edtf:cessation": "",
     "edtf:inception": "1925",
     "geom:area": 0.00007801094200005394,
-    "geom:area_square_m": 724677.040068,
+    "geom:area_square_m": 724677.040067,
     "geom:bbox": "-95.904999,41.292488,-95.888672,41.305908",
     "geom:latitude": 41.300669282366236,
     "geom:longitude": -95.89772416868448,
@@ -81,11 +81,8 @@
     "oa:elevation_ft": "984",
     "oa:type": "medium_airport",
     "sfomuseum:airport_id": 251,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Omaha Eppley Airfield",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -98,21 +95,26 @@
       "suburb_id": 55806359
     },
     "wof:belongsto": [
-      85867053,
+      85688563,
       102191575,
       404518711,
       85633793,
       85973483,
-      102082789,
-      85688563
+      102082789
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "OMA",
+      "gn:id": 5067741,
+      "gp:id": 12519653,
       "iata:code": "OMA",
-      "icao:code": "KOMA"
+      "icao:code": "KOMA",
+      "oa:id": "3751",
+      "wd:id": "Q1347672",
+      "wk:page": "Eppley_Airfield"
     },
     "wof:country": "US",
-    "wof:created": 1624906905,
+    "wof:created": 1652218109,
     "wof:geomhash": "fb0d344d5c543cdd0e1d39c022eded72",
     "wof:hierarchy": [
       {
@@ -122,16 +124,16 @@
         "county_id": 102082789,
         "localadmin_id": 404518711,
         "locality_id": 85973483,
-        "neighbourhood_id": 85867053,
+        "neighbourhood_id": -1,
         "region_id": 85688563
       }
     ],
     "wof:id": 102524739,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218109,
     "wof:name": "Eppley Airfield",
-    "wof:parent_id": 85867053,
+    "wof:parent_id": 85973483,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

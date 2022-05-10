@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.5141159319420031,
-    "geom:area_square_m": 3932651222.493406,
+    "geom:area_square_m": 3932651222.493415,
     "geom:bbox": "-0.019770,51.448278,1.296592,52.092663",
     "geom:latitude": 51.784471939575155,
     "geom:longitude": 0.5744948163829168,
@@ -255,8 +255,11 @@
     "wof:concordances": {
       "digitalenvoy:metro_code": 826035
     },
+    "wof:coterminous": [
+      1360698979
+    ],
     "wof:country": "GB",
-    "wof:created": 1624906753,
+    "wof:created": 1652218081,
     "wof:geomhash": "d29832f51541c84968f974b0fdb8e5c5",
     "wof:hierarchy": [
       {
@@ -276,11 +279,11 @@
       "gla",
       "gle"
     ],
-    "wof:lastmodified": 1626825097,
+    "wof:lastmodified": 1652218081,
     "wof:name": "Essex",
     "wof:parent_id": 404227469,
     "wof:placetype": "region",
-    "wof:repo": "whosonfirst-data-admin-gb",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

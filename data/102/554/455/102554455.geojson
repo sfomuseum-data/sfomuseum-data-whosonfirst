@@ -30,6 +30,10 @@
     "name:eng_x_preferred": [
       "Gander International Airport"
     ],
+    "name:eng_x_variant": [
+      "YQX",
+      "CYQX"
+    ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی گندر"
     ],
@@ -76,11 +80,8 @@
       "甘德國際機場"
     ],
     "sfomuseum:airport_id": 274,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Gander International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -99,11 +100,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12511673,
       "iata:code": "YQX",
-      "icao:code": "CYQX"
+      "icao:code": "CYQX",
+      "wd:id": "Q1431350"
     },
     "wof:country": "",
-    "wof:created": 1624906458,
+    "wof:created": 1652218273,
     "wof:geomhash": "9e2fa7e1bc218d9dd161d22c52e98a7a",
     "wof:hierarchy": [
       {
@@ -117,12 +120,12 @@
       }
     ],
     "wof:id": 102554455,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218273,
     "wof:name": "Gander International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
     "wof:population_rank": 0,
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

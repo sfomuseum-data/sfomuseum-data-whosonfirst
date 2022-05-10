@@ -553,12 +553,12 @@
     "src:lbl_centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85682571,
       102191581,
       85633111,
+      102063283,
       1377692203,
       404227547,
-      102063283
+      85682571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -573,10 +573,11 @@
       "qs_pg:id": 1143881
     },
     "wof:coterminous": [
-      102063283
+      102063283,
+      1377692203
     ],
     "wof:country": "DE",
-    "wof:created": 1624906515,
+    "wof:created": 1652217797,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -594,14 +595,14 @@
       }
     ],
     "wof:id": 101748481,
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217797,
     "wof:megacity": 0,
     "wof:name": "Augsburg",
     "wof:parent_id": 1377692203,
     "wof:placetype": "locality",
     "wof:population": 259196,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 0,
     "wof:superseded_by": [],
     "wof:supersedes": [

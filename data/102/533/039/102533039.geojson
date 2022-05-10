@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0007162245389999557,
-    "geom:area_square_m": 6489113.972988,
+    "geom:area_square_m": 6489113.972985,
     "geom:bbox": "-85.550194,42.867374,-85.501335,42.896942",
     "geom:latitude": 42.885569513500094,
     "geom:longitude": -85.52921509641729,
@@ -85,37 +85,31 @@
       "planet_id": 1,
       "state_id": 2347581
     },
-    "wof:belongsto": [
-      85688599,
-      85633793,
-      85951353,
-      102083023,
-      85816657
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:concordances": {
       "iata:code": "GRR",
       "icao:code": "KGRR"
     },
     "wof:country": "US",
-    "wof:created": 1624906954,
+    "wof:created": 1652218200,
     "wof:geomhash": "b65c98cf5a7a84832c250a33f0a04e48",
     "wof:hierarchy": [
       {
         "campus_id": 102533039,
-        "country_id": 85633793,
-        "county_id": 102083023,
-        "locality_id": 85951353,
-        "neighbourhood_id": 85816657,
-        "region_id": 85688599
+        "continent_id": -1,
+        "country_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": -1
       }
     ],
     "wof:id": 102533039,
-    "wof:lastmodified": 1626825296,
+    "wof:lastmodified": 1652218200,
     "wof:name": "Gerald R. Ford International Airport",
-    "wof:parent_id": 85816657,
+    "wof:parent_id": 1729433965,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

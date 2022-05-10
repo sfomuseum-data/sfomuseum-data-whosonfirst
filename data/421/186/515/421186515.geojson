@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0018981493049999017,
-    "geom:area_square_m": 22326932.233134,
+    "geom:area_square_m": 22326932.233152,
     "geom:bbox": "-76.846774,17.928238,-76.719651,17.986246",
     "geom:latitude": 17.96284861107495,
     "geom:longitude": -76.77726344563764,
@@ -152,6 +152,9 @@
       "Kingston"
     ],
     "name:hin_x_preferred": [
+      "किंगस्टन"
+    ],
+    "name:hin_x_variant": [
       "किंग्सटन"
     ],
     "name:hrv_x_preferred": [
@@ -527,7 +530,9 @@
       85672609
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632215,
+    "wof:capital_of": [
+      85632215
+    ],
     "wof:concordances": {
       "gn:id": 3489854,
       "gp:id": 109251,
@@ -553,7 +558,7 @@
       }
     ],
     "wof:id": 421186515,
-    "wof:lastmodified": 1626825067,
+    "wof:lastmodified": 1652217889,
     "wof:name": "Kingston",
     "wof:parent_id": 85672609,
     "wof:placetype": "locality",

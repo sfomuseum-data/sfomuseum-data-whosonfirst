@@ -9,8 +9,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-83.271556,43.066472,-83.271556,43.066472",
-    "geom:latitude": 43.066472,
-    "geom:longitude": -83.271556,
+    "geom:latitude": 43.0664722,
+    "geom:longitude": -83.2715556,
     "iso:country": "US",
     "lbl:latitude": 43.066472,
     "lbl:longitude": -83.271556,
@@ -18,11 +18,8 @@
     "mz:is_current": 1,
     "mz:min_zoom": 13,
     "sfomuseum:airport_id": 156,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "DuPont Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "sfomuseum",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -32,8 +29,12 @@
       "state_id": 2347581
     },
     "wof:belongsto": [
+      85688599,
+      102191575,
+      404508077,
       85633793,
-      85688599
+      1729465619,
+      102083637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -41,21 +42,26 @@
       "gp:id": 12519549
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
-    "wof:geomhash": "d58eb262ef39e08690c989dedf93f333",
+    "wof:created": 1652218148,
+    "wof:geomhash": "776441a762b50a5909f969f23cc309fb",
     "wof:hierarchy": [
       {
         "campus_id": 102528795,
+        "continent_id": 102191575,
         "country_id": 85633793,
+        "county_id": 102083637,
+        "localadmin_id": 404508077,
+        "locality_id": 1729465619,
+        "neighbourhood_id": -1,
         "region_id": 85688599
       }
     ],
     "wof:id": 102528795,
-    "wof:lastmodified": 1626825244,
+    "wof:lastmodified": 1652218148,
     "wof:name": "Dupont Lapeer Airport",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1729465619,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
@@ -63,10 +69,10 @@
     ]
   },
   "bbox": [
-    -83.271556,
-    43.066472,
-    -83.271556,
-    43.066472
+    -83.2715556,
+    43.0664722,
+    -83.2715556,
+    43.0664722
   ],
-  "geometry": {"coordinates":[-83.271556,43.066472],"type":"Point"}
+  "geometry": {"coordinates":[-83.2715556,43.0664722],"type":"Point"}
 }

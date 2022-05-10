@@ -539,7 +539,7 @@
     "qs:pop": 0,
     "qs:source": "AUS Census",
     "qs:type": "G4110",
-    "sfomuseum:placetype": "locality",
+    "sfomuseum:placetype": "city",
     "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
@@ -555,10 +555,13 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688675,
-      102085733
+      102085733,
+      85688675
     ],
     "wof:breaches": [],
+    "wof:capital_of": [
+      85688675
+    ],
     "wof:concordances": {
       "dbp:id": "Montgomery%2C_Alabama",
       "fb:id": "en.montgomery",
@@ -573,7 +576,7 @@
       "wk:page": "Montgomery, Alabama"
     },
     "wof:country": "US",
-    "wof:created": 1624906825,
+    "wof:created": 1652217963,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -591,14 +594,14 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1626825082,
+    "wof:lastmodified": 1652217963,
     "wof:megacity": 0,
     "wof:name": "Montgomery",
     "wof:parent_id": 102085733,
     "wof:placetype": "locality",
     "wof:population": 205764,
     "wof:population_rank": 10,
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 4,
     "wof:superseded_by": [],
     "wof:supersedes": [

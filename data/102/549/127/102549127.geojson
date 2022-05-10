@@ -7,7 +7,7 @@
     "edtf:cessation": "..",
     "edtf:inception": "1951",
     "geom:area": 0.0008284148254999856,
-    "geom:area_square_m": 6464308.602142,
+    "geom:area_square_m": 6464308.602141,
     "geom:bbox": "7.107811,50.851624,7.168536,50.888794",
     "geom:latitude": 50.87139299088055,
     "geom:longitude": 7.132959530843931,
@@ -142,11 +142,8 @@
     "oa:elevation_ft": "302",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 28,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Cologne Bonn Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -166,11 +163,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 23030981,
       "iata:code": "CGN",
-      "icao:code": "EDDK"
+      "icao:code": "EDDK",
+      "oa:id": "2216",
+      "wd:id": "Q157741",
+      "wk:page": "Cologne_Bonn_Airport"
     },
     "wof:country": "",
-    "wof:created": 1624906444,
+    "wof:created": 1652218257,
     "wof:geomhash": "dbecaf4bdaad404bf9b9073a17549c8e",
     "wof:hierarchy": [
       {
@@ -184,11 +185,11 @@
       }
     ],
     "wof:id": 102549127,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218257,
     "wof:name": "Cologne Bonn Airport",
     "wof:parent_id": 101752771,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

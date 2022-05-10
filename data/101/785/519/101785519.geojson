@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.004242422870000039,
-    "geom:area_square_m": 34887277.271139,
+    "geom:area_square_m": 34887277.27114,
     "geom:bbox": "11.683806,48.269741,11.781584,48.357879",
     "geom:latitude": 48.31409398326284,
     "geom:longitude": 11.732712741087944,
@@ -338,12 +338,12 @@
     "woe:name_adm1": "Bayern",
     "woe:placetype": "LocalAdmin",
     "wof:belongsto": [
-      85682571,
       102191581,
       85633111,
+      102063307,
       1377691865,
       404227567,
-      102063307
+      85682571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -354,8 +354,11 @@
       "wd:id": "Q285955",
       "wk:page": "Hallbergmoos"
     },
+    "wof:coterminous": [
+      1377691865
+    ],
     "wof:country": "DE",
-    "wof:created": 1624906516,
+    "wof:created": 1652217843,
     "wof:geom_alt": [
       "quattroshapes",
       "quattroshapes_pg"
@@ -376,13 +379,13 @@
     "wof:lang": [
       "ger"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217843,
     "wof:name": "Hallbergmoos",
     "wof:parent_id": 1377691865,
     "wof:placetype": "locality",
     "wof:population": 8074,
     "wof:population_rank": 5,
-    "wof:repo": "whosonfirst-data-admin-de",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1125408405,

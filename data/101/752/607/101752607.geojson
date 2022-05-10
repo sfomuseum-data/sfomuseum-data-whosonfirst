@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.05036113977549964,
-    "geom:area_square_m": 463533321.655422,
+    "geom:area_square_m": 463533321.655415,
     "geom:bbox": "12.334070,41.763576,12.731048,42.051758",
     "geom:latitude": 41.89561068992396,
     "geom:longitude": 12.508631701500768,
@@ -981,14 +981,16 @@
     "src:lbl_centroid": "mapshaper",
     "src:population": "geonames",
     "wof:belongsto": [
-      85685461,
       102191581,
-      404461721,
       85633253,
-      404227517
+      404461721,
+      404227517,
+      85685461
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85633253,
+    "wof:capital_of": [
+      85633253
+    ],
     "wof:concordances": {
       "dbp:id": "Rome",
       "fb:id": "en.rome",
@@ -1002,7 +1004,7 @@
       "wk:page": "Rome"
     },
     "wof:country": "IT",
-    "wof:created": 1624906516,
+    "wof:created": 1652217832,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -1021,14 +1023,14 @@
     "wof:lang": [
       "ita"
     ],
-    "wof:lastmodified": 1626825066,
+    "wof:lastmodified": 1652217832,
     "wof:megacity": 1,
     "wof:name": "Rome",
     "wof:parent_id": 404461721,
     "wof:placetype": "locality",
     "wof:population": 2318895,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-it",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

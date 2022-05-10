@@ -7,7 +7,7 @@
     "edtf:cessation": "..",
     "edtf:inception": "1959",
     "geom:area": 0.0002976557985000343,
-    "geom:area_square_m": 2431865.152394,
+    "geom:area_square_m": 2431865.152391,
     "geom:bbox": "-123.440834,48.634144,-123.405998,48.655239",
     "geom:latitude": 48.64438314170359,
     "geom:longitude": -123.42124751504677,
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred": [
       "Victoria International Airport"
+    ],
+    "name:eng_x_variant": [
+      "YYJ",
+      "CYYJ"
     ],
     "name:epo_x_preferred": [
       "Internacia Flughaveno Viktorio"
@@ -86,11 +90,8 @@
       "维多利亚国际机场"
     ],
     "sfomuseum:airport_id": 173,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Victoria Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,11 +111,13 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12511899,
       "iata:code": "YYJ",
-      "icao:code": "CYYJ"
+      "icao:code": "CYYJ",
+      "wd:id": "Q130193"
     },
     "wof:country": "",
-    "wof:created": 1624906458,
+    "wof:created": 1652218277,
     "wof:geomhash": "db70162e9f247265f6a9d407d1e5f505",
     "wof:hierarchy": [
       {
@@ -128,12 +131,12 @@
       }
     ],
     "wof:id": 102555149,
-    "wof:lastmodified": 1626825297,
+    "wof:lastmodified": 1652218277,
     "wof:name": "Victoria International Airport",
     "wof:parent_id": 101740883,
     "wof:placetype": "campus",
     "wof:population_rank": 0,
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

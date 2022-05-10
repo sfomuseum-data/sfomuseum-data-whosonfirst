@@ -5,19 +5,28 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 1.50132099148,
-    "geom:area_square_m": 12614401994.876476,
+    "geom:area_square_m": 12614402060.967058,
     "geom:bbox": "10.097827,46.651366,12.965998,47.743038",
     "geom:latitude": 47.19466537414777,
     "geom:longitude": 11.501729653085007,
     "iso:country": "AT",
+    "label:deu_x_preferred_longname": [
+      "Tirol"
+    ],
+    "label:deu_x_preferred_placetype": [
+      "länder"
+    ],
+    "label:deu_x_preferred_shortcode": [
+      "TR"
+    ],
     "label:eng_x_preferred_longname": [
-      "Tirol State"
+      "Tyrol State"
     ],
     "label:eng_x_preferred_placetype": [
       "state"
     ],
-    "label:eng_x_preferred_shortcode": [
-      "TR"
+    "label:eng_x_variant_longname": [
+      "State of Tyrol"
     ],
     "lbl:latitude": 47.123291,
     "lbl:longitude": 10.876187,
@@ -83,10 +92,10 @@
       "Τιρόλο"
     ],
     "name:eng_x_preferred": [
-      "Tirol"
+      "Tyrol"
     ],
     "name:eng_x_variant": [
-      "Tyrol"
+      "Tirol"
     ],
     "name:epo_x_preferred": [
       "Tirolo"
@@ -422,10 +431,11 @@
       "hasc:id": "AT.TR",
       "iso:id": "AT-7",
       "unlc:id": "AT-7",
-      "wd:id": "Q42880"
+      "wd:id": "Q42880",
+      "wk:page": "Tyrol_(state)"
     },
     "wof:country": "AT",
-    "wof:created": 1624906870,
+    "wof:created": 1652218010,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -447,14 +457,14 @@
       "slv",
       "hun"
     ],
-    "wof:lastmodified": 1626825085,
+    "wof:lastmodified": 1652218010,
     "wof:name": "Tirol",
     "wof:parent_id": 85632785,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
     "wof:population": 712077,
     "wof:population_rank": 11,
-    "wof:repo": "whosonfirst-data-admin-at",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "TR",
     "wof:subdivision": "AT-7",
     "wof:superseded_by": [],

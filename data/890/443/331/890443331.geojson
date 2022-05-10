@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.039764531326999704,
-    "geom:area_square_m": 289737724.912193,
+    "geom:area_square_m": 289737724.912186,
     "geom:bbox": "27.375153,53.794558,27.814146,53.971424",
     "geom:latitude": 53.89532805662045,
     "geom:longitude": 27.577228131983308,
@@ -703,14 +703,17 @@
     "wof:belongsto": [
       102191581,
       85632395,
-      85669313,
-      1092004873
+      1092004873,
+      85669313
     ],
     "wof:breaches": [],
-    "wof:capital_of": 85632395,
+    "wof:capital_of": [
+      85632395
+    ],
     "wof:concordances": {
       "gn:id": 625144,
       "gp:id": 834463,
+      "ne:id": 1159151149,
       "qs_pg:id": 1027176,
       "wd:id": "Q2280",
       "wk:page": "Minsk"
@@ -738,13 +741,14 @@
       }
     ],
     "wof:id": 890443331,
-    "wof:lastmodified": 1626825096,
+    "wof:lastmodified": 1652218063,
+    "wof:megacity": 1,
     "wof:name": "Minsk",
     "wof:parent_id": 1092004873,
     "wof:placetype": "locality",
     "wof:population": 1921800,
     "wof:population_rank": 12,
-    "wof:repo": "whosonfirst-data-admin-by",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []

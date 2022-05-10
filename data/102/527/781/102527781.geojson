@@ -2,12 +2,10 @@
   "id": 102527781,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1928-01-01",
-    "date:inception_upper": "1928-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "1928",
+    "edtf:inception": "",
     "geom:area": 0.0007332004909999207,
-    "geom:area_square_m": 7315212.84415,
+    "geom:area_square_m": 7315212.84416,
     "geom:bbox": "-95.903564,36.182442,-95.870644,36.233395",
     "geom:latitude": 36.208857737577965,
     "geom:longitude": -95.8870636110898,
@@ -77,11 +75,8 @@
     "oa:elevation_ft": "677",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 290,
-    "sfomuseum:count_objects_public": 1,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Tulsa International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -103,11 +98,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "TUL",
+      "gn:id": 6299195,
+      "gp:id": 12522219,
       "iata:code": "TUL",
-      "icao:code": "KTUL"
+      "icao:code": "KTUL",
+      "oa:id": "3930",
+      "wd:id": "Q515522",
+      "wk:page": "Tulsa_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906906,
+    "wof:created": 1652218136,
     "wof:geomhash": "5a2c21c34bf7a3ceb3c300b7eac4a546",
     "wof:hierarchy": [
       {
@@ -121,11 +122,11 @@
       }
     ],
     "wof:id": 102527781,
-    "wof:lastmodified": 1635209266,
+    "wof:lastmodified": 1652218136,
     "wof:name": "Tulsa International Airport",
     "wof:parent_id": 85872493,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

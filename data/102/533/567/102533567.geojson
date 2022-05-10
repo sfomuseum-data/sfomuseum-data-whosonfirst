@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.0004589631225000684,
-    "geom:area_square_m": 5070725.803604,
+    "geom:area": 0.0004589426665957809,
+    "geom:area_square_m": 5070499.798596,
     "geom:bbox": "-80.109660,26.677147,-80.074332,26.693958",
-    "geom:latitude": 26.68444090250138,
-    "geom:longitude": -80.09342433423217,
+    "geom:latitude": 26.68444098198602,
+    "geom:longitude": -80.09342403084428,
     "gn:elevation": 5,
     "iso:country": "US",
     "lbl:latitude": 26.688269,
@@ -84,11 +84,8 @@
     "oa:elevation_ft": "19",
     "oa:type": "large_airport",
     "sfomuseum:airport_id": 184,
-    "sfomuseum:count_objects_public": 0,
-    "sfomuseum:is_sfo": 1,
     "sfomuseum:name": "Palm Beach International Airport",
     "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "whosonfirst",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -110,12 +107,18 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "faa:code": "PBI",
+      "gn:id": 6298874,
+      "gp:id": 12521288,
       "iata:code": "PBI",
-      "icao:code": "KPBI"
+      "icao:code": "KPBI",
+      "oa:id": "3766",
+      "wd:id": "Q1432310",
+      "wk:page": "Palm_Beach_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1624906850,
-    "wof:geomhash": "8ebe07acfbf96d83cc6ff506d144309b",
+    "wof:created": 1652218205,
+    "wof:geomhash": "96eedb484e5b9b6473e87b54bffee354",
     "wof:hierarchy": [
       {
         "campus_id": 102533567,
@@ -128,11 +131,11 @@
       }
     ],
     "wof:id": 102533567,
-    "wof:lastmodified": 1641361411,
+    "wof:lastmodified": 1652218205,
     "wof:name": "Palm Beach International Airport",
     "wof:parent_id": 85811465,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
@@ -140,10 +143,10 @@
     ]
   },
   "bbox": [
-    -80.10966,
-    26.677147,
-    -80.074332,
-    26.693958
+    -80.1096598280962,
+    26.67714738704449,
+    -80.07433241342694,
+    26.69395752522654
   ],
-  "geometry": {"coordinates":[[[[-80.078537,26.690608],[-80.078514,26.685927],[-80.074332,26.685306],[-80.074579,26.681152],[-80.07654,26.678595],[-80.0857,26.677147],[-80.104322,26.677654],[-80.10966,26.67847],[-80.109565,26.691493],[-80.104751,26.693958],[-80.100563,26.691205],[-80.091787,26.691233],[-80.078537,26.690608]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-80.07853654468028,26.69060840755714],[-80.07851423104572,26.68592675641103],[-80.07433241342694,26.68530619130121],[-80.07457891798926,26.68115195641112],[-80.07654037235771,26.67859486554471],[-80.08570019769527,26.67714738704449],[-80.10432157849024,26.67765440760379],[-80.1096598280962,26.67847029375528],[-80.10956459495726,26.69149296372244],[-80.10475067367022,26.69395752522654],[-80.1005628875146,26.69120463796636],[-80.09178667614395,26.69123273163333],[-80.07853654468028,26.69060840755714]]]],"type":"MultiPolygon"}
 }

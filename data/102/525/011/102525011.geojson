@@ -1,0 +1,117 @@
+{
+  "id": 102525011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000014707739999992491,
+    "geom:area_square_m": 149611.745499,
+    "geom:bbox": "-112.428055,34.645737,-112.422112,34.652042",
+    "geom:latitude": 34.648545449063135,
+    "geom:longitude": -112.42455180639664,
+    "gn:elevation": 1525,
+    "iso:country": "US",
+    "lbl:latitude": 34.648398,
+    "lbl:longitude": -112.424508,
+    "mps:latitude": 34.648398,
+    "mps:longitude": -112.424508,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "Ernest A Love Field Airport"
+    ],
+    "name:eng_x_variant": [
+      "PRC",
+      "KPRC",
+      "Ernest A. Love Field"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه صحرایی برندزینو لاو فیلد"
+    ],
+    "name:fra_x_preferred": [
+      "aérodrome d'Ernest A Love Field"
+    ],
+    "name:jpn_x_preferred": [
+      "Prescott市営空港"
+    ],
+    "name:nav_x_preferred": [
+      "Náshdóí Bikoohdi chidí naatʼaʼí ńdinibįįhígi"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи саҳро брндзину лов филд"
+    ],
+    "name:und_x_variant": [
+      "Ernest A Love Field"
+    ],
+    "name:urd_x_preferred": [
+      "ارنسٹ اے لوو فیلڈ"
+    ],
+    "name:zho_x_preferred": [
+      "普雷斯特科"
+    ],
+    "oa:elevation_ft": "5045",
+    "oa:type": "medium_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587593,
+      "planet_id": 1,
+      "state_id": 2347561
+    },
+    "wof:belongsto": [
+      85852851,
+      102191575,
+      85633793,
+      85917377,
+      102081535,
+      85688719
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "PRC",
+      "gn:id": 5294280,
+      "gp:id": 12519656,
+      "iata:code": "PRC",
+      "icao:code": "KPRC",
+      "oa:id": "3789",
+      "wd:id": "Q5392664",
+      "wk:page": "Ernest_A._Love_Field"
+    },
+    "wof:country": "US",
+    "wof:created": 1653084452,
+    "wof:geomhash": "926d63ba87c5db39d826aaa9fb19b7bd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102525011,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081535,
+        "locality_id": 85917377,
+        "neighbourhood_id": 85852851,
+        "region_id": 85688719
+      }
+    ],
+    "wof:id": 102525011,
+    "wof:lastmodified": 1653084452,
+    "wof:name": "Ernest A Love Field Airport",
+    "wof:parent_id": 85852851,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -112.428055,
+    34.645737,
+    -112.422112,
+    34.652042
+  ],
+  "geometry": {"coordinates":[[[[-112.42395,34.645847],[-112.425034,34.645737],[-112.426163,34.648018],[-112.42791,34.649181],[-112.428055,34.64938],[-112.424385,34.649944],[-112.422112,34.652042],[-112.423355,34.646641],[-112.42395,34.645847]]]],"type":"MultiPolygon"}
+}

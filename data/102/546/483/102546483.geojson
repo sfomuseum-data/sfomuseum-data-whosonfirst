@@ -1,0 +1,160 @@
+{
+  "id": 102546483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.000006621728999997009,
+    "geom:area_square_m": 68378.486376,
+    "geom:bbox": "-7.583575,33.370415,-7.579986,33.373440",
+    "geom:latitude": 33.372157552721774,
+    "geom:longitude": -7.581672333430915,
+    "iso:country": "",
+    "lbl:latitude": 33.372184,
+    "lbl:longitude": -7.581707,
+    "mps:latitude": 33.372184,
+    "mps:longitude": -7.581707,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار محمد الخامس الدولي"
+    ],
+    "name:cat_x_preferred": [
+      "Aeroport Internacional Mohammed V"
+    ],
+    "name:dan_x_preferred": [
+      "Casablanca lufthavn"
+    ],
+    "name:deu_x_preferred": [
+      "Flughafen Casablanca"
+    ],
+    "name:eng_x_preferred": [
+      "Mohammed V International Airport"
+    ],
+    "name:eng_x_variant": [
+      "CMN",
+      "GMMN"
+    ],
+    "name:est_x_preferred": [
+      "Mohammed V rahvusvaheline lennujaam"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی محمد پنجم"
+    ],
+    "name:fin_x_preferred": [
+      "Mohammed V:n kansainvälinen lentoasema"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport Mohammed V"
+    ],
+    "name:heb_x_preferred": [
+      "נמל התעופה הבינלאומי מוחמד החמישי"
+    ],
+    "name:hun_x_preferred": [
+      "V. Mohammed nemzetközi repülőtér"
+    ],
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Mohammed V"
+    ],
+    "name:ita_x_preferred": [
+      "Aeroporto di Casablanca-Muhammad V"
+    ],
+    "name:jpn_x_preferred": [
+      "ムハンマド5世国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "무함마드 5세 국제공항"
+    ],
+    "name:lit_x_preferred": [
+      "Mahometo V oro uostas"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Mohamed V"
+    ],
+    "name:nld_x_preferred": [
+      "Internationale luchthaven Mohammed V"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Casablanca"
+    ],
+    "name:por_x_preferred": [
+      "Aeroporto Internacional Mohammed V"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Mohammed V"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Mohammed V"
+    ],
+    "name:swe_x_preferred": [
+      "Mohammed V International Airport"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ муҳаммад панҷ"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Mohammed V"
+    ],
+    "name:zho_x_preferred": [
+      "穆罕默德五世国际机场"
+    ],
+    "oa:elevation_ft": "656",
+    "oa:type": "large_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424893,
+      "county_id": 56120067,
+      "planet_id": 1,
+      "state_id": 56120054
+    },
+    "wof:belongsto": [
+      102191573,
+      85632693,
+      85673901,
+      890424145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12514788,
+      "iata:code": "CMN",
+      "icao:code": "GMMN",
+      "oa:id": "3113",
+      "wd:id": "Q955433",
+      "wk:page": "Mohammed_V_International_Airport"
+    },
+    "wof:country": "",
+    "wof:created": 1653418914,
+    "wof:geomhash": "e78a5b5ced97ec9debd988a649685854",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102546483,
+        "continent_id": 102191573,
+        "country_id": 85632693,
+        "county_id": 890424145,
+        "region_id": 85673901
+      }
+    ],
+    "wof:id": 102546483,
+    "wof:lastmodified": 1653418914,
+    "wof:name": "Mohamed V Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -7.583575,
+    33.370415,
+    -7.579986,
+    33.37344
+  ],
+  "geometry": {"coordinates":[[[[-7.580794,33.37344],[-7.579986,33.373295],[-7.581008,33.370415],[-7.583575,33.371719],[-7.582519,33.373352],[-7.580794,33.37344]]]],"type":"MultiPolygon"}
+}

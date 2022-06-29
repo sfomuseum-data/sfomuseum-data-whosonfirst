@@ -72,10 +72,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "iata:code": "FCA"
+      "faa:code": "FCA",
+      "gn:id": 5654296,
+      "gp:id": 12519905,
+      "iata:code": "FCA",
+      "icao:code": "KGPI",
+      "oa:id": "3527",
+      "wd:id": "Q3273831",
+      "wk:page": "Glacier_Park_International_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1652218143,
+    "wof:created": 1656463048,
     "wof:geomhash": "9bc297350dd83dfaf9005fadb9a3f85c",
     "wof:hierarchy": [
       {
@@ -89,7 +96,7 @@
       }
     ],
     "wof:id": 102528363,
-    "wof:lastmodified": 1652218143,
+    "wof:lastmodified": 1656463048,
     "wof:name": "Glacier Park International Airport",
     "wof:parent_id": 85838307,
     "wof:placetype": "campus",

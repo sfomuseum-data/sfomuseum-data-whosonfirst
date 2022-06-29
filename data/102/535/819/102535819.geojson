@@ -2,6 +2,10 @@
   "id": 102535819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-02-05",
+    "date:cessation_upper": "2022-02-05",
+    "date:inception_lower": "1953-01-01",
+    "date:inception_upper": "1953-12-31",
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.0003807401230000407,
@@ -9,7 +13,7 @@
     "geom:bbox": "28.804714,40.964443,28.833050,40.993309",
     "geom:latitude": 40.98148784510962,
     "geom:longitude": 28.819079270458467,
-    "iso:country": "",
+    "iso:country": "TR",
     "lbl:latitude": 40.981491,
     "lbl:longitude": 28.818113,
     "millsfield:count_images": 2,
@@ -17,10 +21,10 @@
     "mps:latitude": 40.981491,
     "mps:longitude": 28.818113,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:min_zoom": 13,
     "name:eng_x_variant": [
-      "IST",
+      "ISL",
       "LTBA"
     ],
     "sfomuseum:airport_id": 57,
@@ -44,11 +48,12 @@
     "wof:breaches": [],
     "wof:concordances": {
       "gp:id": 23388365,
-      "iata:code": "IST",
-      "icao:code": "LTBA"
+      "iata:code": "ISL",
+      "icao:code": "LTBA",
+      "wk:id": "Q86473"
     },
-    "wof:country": "",
-    "wof:created": 1652218219,
+    "wof:country": "TR",
+    "wof:created": 1656465030,
     "wof:geomhash": "c84b6ab83be43e80dbaefa456c4e47ca",
     "wof:hierarchy": [
       {
@@ -60,7 +65,7 @@
       }
     ],
     "wof:id": 102535819,
-    "wof:lastmodified": 1652218219,
+    "wof:lastmodified": 1656465327,
     "wof:name": "Ataturk Hava Limani Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",

@@ -66,10 +66,16 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "iata:code": "BIH"
+      "faa:code": "BIH",
+      "gp:id": 12518838,
+      "iata:code": "BIH",
+      "icao:code": "KBIH",
+      "oa:id": "19377",
+      "wd:id": "Q4087670",
+      "wk:page": "Eastern_Sierra_Regional_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1652218134,
+    "wof:created": 1656462128,
     "wof:geomhash": "735a6f3bb9fa99a0366f4543469834a2",
     "wof:hierarchy": [
       {
@@ -79,7 +85,7 @@
       }
     ],
     "wof:id": 102527547,
-    "wof:lastmodified": 1652218134,
+    "wof:lastmodified": 1656462128,
     "wof:name": "Bishop Airport",
     "wof:parent_id": 85688637,
     "wof:placetype": "campus",

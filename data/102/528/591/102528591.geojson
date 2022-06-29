@@ -72,10 +72,17 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "iata:code": "AFW"
+      "faa:code": "AFW",
+      "gn:id": 4691932,
+      "gp:id": 12519785,
+      "iata:code": "AFW",
+      "icao:code": "KAFW",
+      "oa:id": "3366",
+      "wd:id": "Q5472378",
+      "wk:page": "Fort_Worth_Alliance_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1652218146,
+    "wof:created": 1656462128,
     "wof:geomhash": "825cc76a9b7f75d56cdc67bd264f46e2",
     "wof:hierarchy": [
       {
@@ -89,7 +96,7 @@
       }
     ],
     "wof:id": 102528591,
-    "wof:lastmodified": 1652218146,
+    "wof:lastmodified": 1656462128,
     "wof:name": "Fort Worth Alliance Airport",
     "wof:parent_id": 85897409,
     "wof:placetype": "campus",

@@ -1,0 +1,788 @@
+{
+  "id": 85671209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.14028589133849995,
+    "geom:area_square_m": 1665711204.218184,
+    "geom:bbox": "-61.797841,15.836493,-60.989247,16.513088",
+    "geom:latitude": 16.208271901489585,
+    "geom:longitude": -61.52938061795523,
+    "iso:country": "GP",
+    "itu:country_code": [
+      "590"
+    ],
+    "label:eng_x_preferred_longname": [
+      "Guadeloupe Overseas Department"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "department"
+    ],
+    "label:eng_x_preferred_shortcode": [
+      "GP"
+    ],
+    "label:fra_x_preferred_longname": [
+      "Département de la Guadeloupe"
+    ],
+    "label:fra_x_preferred_placetype": [
+      "département"
+    ],
+    "label:fra_x_variant_longname": [
+      "département de la Guadeloupe"
+    ],
+    "lbl:latitude": 16.299331,
+    "lbl:longitude": -61.433565,
+    "mps:latitude": 16.299331,
+    "mps:longitude": -61.433565,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8,
+    "name:afr_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:aka_x_preferred": [
+      "Guwadelup"
+    ],
+    "name:als_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:amh_x_preferred": [
+      "ጉዋደሉፕ"
+    ],
+    "name:amh_x_variant": [
+      "ጓድሉፕ"
+    ],
+    "name:ara_x_preferred": [
+      "غوادلوب"
+    ],
+    "name:ara_x_variant": [
+      "جوادلوب"
+    ],
+    "name:arg_x_preferred": [
+      "Guadalupe (Francia)",
+      "Guadalupe"
+    ],
+    "name:ast_x_preferred": [
+      "Guadalupe (Francia)",
+      "Guadalupe"
+    ],
+    "name:azb_x_preferred": [
+      "قوادلوپ"
+    ],
+    "name:aze_x_preferred": [
+      "Qvadelupa"
+    ],
+    "name:aze_x_variant": [
+      "Qvadalup"
+    ],
+    "name:bam_x_preferred": [
+      "Gwadelup"
+    ],
+    "name:bel_x_preferred": [
+      "Гвадэлупа"
+    ],
+    "name:bel_x_variant": [
+      "Гвадэлюпа"
+    ],
+    "name:ben_x_preferred": [
+      "গুয়াদলুপ"
+    ],
+    "name:ben_x_variant": [
+      "গুয়াদেলৌপ"
+    ],
+    "name:bos_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:bos_x_variant": [
+      "Gvadelupe",
+      "Gvadalupe"
+    ],
+    "name:bpy_x_preferred": [
+      "গুৱাডালুপে"
+    ],
+    "name:bre_x_preferred": [
+      "Gwadeloup"
+    ],
+    "name:bre_x_variant": [
+      "Gwadaloup"
+    ],
+    "name:bul_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:cat_x_preferred": [
+      "Guadalupe (França)",
+      "Guadalupe"
+    ],
+    "name:cat_x_variant": [
+      "Guadeloupe"
+    ],
+    "name:cdo_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:ceb_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:ces_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:che_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:chi_x_variant": [
+      "瓜德羅普"
+    ],
+    "name:cor_x_preferred": [
+      "Gwadeloup"
+    ],
+    "name:cym_x_preferred": [
+      "Gwadelwp"
+    ],
+    "name:cym_x_variant": [
+      "Guadeloupe"
+    ],
+    "name:dan_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:deu_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:div_x_preferred": [
+      "ގޯޑިލޫޕު"
+    ],
+    "name:dsb_x_preferred": [
+      "Guadelupa"
+    ],
+    "name:ell_x_preferred": [
+      "Γουαδελούπη"
+    ],
+    "name:eng_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:eng_x_unknown": [
+      "GLP",
+      "GP"
+    ],
+    "name:eng_x_variant": [
+      "Department of Guadeloupe",
+      "Guadaloupe",
+      "Guadeloupian"
+    ],
+    "name:epo_x_preferred": [
+      "Gvadelupo"
+    ],
+    "name:est_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:eus_x_preferred": [
+      "Guadalupe (eskualdea)",
+      "Guadalupe"
+    ],
+    "name:ewe_x_preferred": [
+      "Guadelupe nutome"
+    ],
+    "name:fao_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:fas_x_preferred": [
+      "گوادلوپ"
+    ],
+    "name:fas_x_variant": [
+      "جزیره گوادلوپ"
+    ],
+    "name:fin_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:fra_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:frp_x_preferred": [
+      "Goadeloupe"
+    ],
+    "name:frr_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:fry_x_preferred": [
+      "Gûadelûp"
+    ],
+    "name:ful_x_preferred": [
+      "Gwaadalup"
+    ],
+    "name:gag_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:gla_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:gle_x_preferred": [
+      "Guadalúip"
+    ],
+    "name:glg_x_preferred": [
+      "Guadalupe, Francia",
+      "Guadalupe"
+    ],
+    "name:gsw_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:guj_x_preferred": [
+      "ગ્વાડેલોપ"
+    ],
+    "name:hak_x_preferred": [
+      "Kôa-tet-lò-phú"
+    ],
+    "name:hat_x_preferred": [
+      "Gwadloup"
+    ],
+    "name:hau_x_preferred": [
+      "Gwadaluf"
+    ],
+    "name:hbs_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:heb_x_preferred": [
+      "גוואדלופ"
+    ],
+    "name:hif_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:hin_x_preferred": [
+      "गुआदेलूप"
+    ],
+    "name:hin_x_variant": [
+      "ग्वाडेलोप"
+    ],
+    "name:hrv_x_preferred": [
+      "Gvadalupa"
+    ],
+    "name:hrv_x_variant": [
+      "Guadeloupe"
+    ],
+    "name:hun_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:hye_x_preferred": [
+      "Գվադելուպա"
+    ],
+    "name:ido_x_preferred": [
+      "Guadelupa"
+    ],
+    "name:ina_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:ind_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:isl_x_preferred": [
+      "Gvadelúpeyjar"
+    ],
+    "name:ita_x_preferred": [
+      "Guadalupa"
+    ],
+    "name:jam_x_preferred": [
+      "Guadiluup"
+    ],
+    "name:jav_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:jpn_x_preferred": [
+      "グアドループ"
+    ],
+    "name:kal_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:kan_x_preferred": [
+      "ಗುಡೆಲೋಪ್"
+    ],
+    "name:kat_x_preferred": [
+      "გვადელუპა"
+    ],
+    "name:kat_x_variant": [
+      "გვადელუპე"
+    ],
+    "name:kaz_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:kik_x_preferred": [
+      "Gwadelupe"
+    ],
+    "name:kin_x_preferred": [
+      "Gwadelupe"
+    ],
+    "name:kir_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:kon_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:kor_x_preferred": [
+      "과들루프"
+    ],
+    "name:kor_x_variant": [
+      "과달로프",
+      "과들루프섬"
+    ],
+    "name:kur_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:lao_x_preferred": [
+      "ກົວເດີລູບ"
+    ],
+    "name:lat_x_preferred": [
+      "Guadalupia (praefectura)",
+      "Guadalupia"
+    ],
+    "name:lat_x_variant": [
+      "Guadalupa"
+    ],
+    "name:lav_x_preferred": [
+      "Gvadelupa"
+    ],
+    "name:lfn_x_preferred": [
+      "Guadelupe"
+    ],
+    "name:lij_x_preferred": [
+      "Guadaluppa"
+    ],
+    "name:lim_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:lin_x_preferred": [
+      "Gwadɛlupɛ"
+    ],
+    "name:lin_x_variant": [
+      "Gwadelupe"
+    ],
+    "name:lit_x_preferred": [
+      "Gvadelupa"
+    ],
+    "name:lit_x_variant": [
+      "Gvadelupė"
+    ],
+    "name:ltz_x_preferred": [
+      "Departement Guadeloupe"
+    ],
+    "name:lub_x_preferred": [
+      "Ngwadelupe"
+    ],
+    "name:lug_x_preferred": [
+      "Gwadalupe"
+    ],
+    "name:mal_x_preferred": [
+      "ഗുവാഡെലോപ്"
+    ],
+    "name:mar_x_preferred": [
+      "ग्वादेलोप"
+    ],
+    "name:mar_x_variant": [
+      "ग्वाडेलोउपे"
+    ],
+    "name:mkd_x_preferred": [
+      "Гваделуп"
+    ],
+    "name:mkd_x_variant": [
+      "Гвадалупе"
+    ],
+    "name:mlg_x_preferred": [
+      "Goadelopy"
+    ],
+    "name:mlt_x_preferred": [
+      "Gwadelupe"
+    ],
+    "name:mlt_x_variant": [
+      "Gwadalup"
+    ],
+    "name:mrj_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:msa_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:mya_x_preferred": [
+      "ဂွါဒလ်ကျွန်း"
+    ],
+    "name:myv_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:nan_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nde_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nds_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nep_x_preferred": [
+      "ग्वाडलप"
+    ],
+    "name:nep_x_variant": [
+      "ग्वाडेलुप"
+    ],
+    "name:nld_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nno_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nob_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nor_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:nov_x_preferred": [
+      "Guadelupe"
+    ],
+    "name:oci_x_preferred": [
+      "Guadalope"
+    ],
+    "name:ori_x_preferred": [
+      "ଗୌଡେଲୌପେ"
+    ],
+    "name:oss_x_preferred": [
+      "Гваделупæ"
+    ],
+    "name:pam_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:pan_x_preferred": [
+      "ਗੁਆਡਲੂਪ"
+    ],
+    "name:pap_x_preferred": [
+      "Guadelupe"
+    ],
+    "name:pms_x_preferred": [
+      "Guadalupa"
+    ],
+    "name:pnb_x_preferred": [
+      "گواڈلوپ"
+    ],
+    "name:pol_x_preferred": [
+      "Gwadelupa"
+    ],
+    "name:por_x_preferred": [
+      "Guadalupe"
+    ],
+    "name:roh_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:ron_x_preferred": [
+      "Guadelupa"
+    ],
+    "name:run_x_preferred": [
+      "Gwadelupe"
+    ],
+    "name:rup_x_preferred": [
+      "Guadalupe"
+    ],
+    "name:rus_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:sag_x_preferred": [
+      "Guadelûpu"
+    ],
+    "name:scn_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:sco_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:sin_x_preferred": [
+      "ගඩෙලුපේ"
+    ],
+    "name:slk_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:slv_x_preferred": [
+      "Gvadelup"
+    ],
+    "name:slv_x_variant": [
+      "Gvadalupe"
+    ],
+    "name:sme_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:sna_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:som_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:spa_x_preferred": [
+      "Guadalupe",
+      "Guadalupe (Francia)"
+    ],
+    "name:sqi_x_preferred": [
+      "Guadalupa"
+    ],
+    "name:srp_x_preferred": [
+      "Гваделуп"
+    ],
+    "name:srp_x_variant": [
+      "Гваделупе"
+    ],
+    "name:sun_x_preferred": [
+      "Guadelup"
+    ],
+    "name:swa_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:swa_x_variant": [
+      "Gwadelupe"
+    ],
+    "name:swe_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:tam_x_preferred": [
+      "குவாதலூப்பே"
+    ],
+    "name:tam_x_variant": [
+      "க்வாதேலோப்"
+    ],
+    "name:tel_x_preferred": [
+      "గ్వాడేలోప్"
+    ],
+    "name:tel_x_variant": [
+      "గ్వాడెలోప్"
+    ],
+    "name:tgl_x_preferred": [
+      "Guadalupe (Pransya)",
+      "Guadalupe"
+    ],
+    "name:tha_x_preferred": [
+      "กัวเดอลุป"
+    ],
+    "name:tha_x_variant": [
+      "กวาเดอลูป"
+    ],
+    "name:tir_x_preferred": [
+      "ጉዋደሉፕ"
+    ],
+    "name:ton_x_preferred": [
+      "Kuatalupe"
+    ],
+    "name:tur_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:tur_x_variant": [
+      "Guadalupe"
+    ],
+    "name:uig_x_preferred": [
+      "گۇئادەلوپە"
+    ],
+    "name:ukr_x_preferred": [
+      "Гваделупа"
+    ],
+    "name:unk_x_variant": [
+      "Guadaloupe"
+    ],
+    "name:urd_x_preferred": [
+      "گواڈیلوپ"
+    ],
+    "name:uzb_x_preferred": [
+      "Gvadelupa"
+    ],
+    "name:vie_x_preferred": [
+      "Đảo Guadeloupe"
+    ],
+    "name:vie_x_variant": [
+      "Guadeloupe"
+    ],
+    "name:war_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:wol_x_preferred": [
+      "Guwaadalup"
+    ],
+    "name:xmf_x_preferred": [
+      "გვადელუპა"
+    ],
+    "name:yor_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:yor_x_variant": [
+      "Orílẹ́ède Gadelope"
+    ],
+    "name:yue_x_preferred": [
+      "瓜德羅普"
+    ],
+    "name:zho_cn_x_preferred": [
+      "瓜德罗普岛"
+    ],
+    "name:zho_min_nan_x_preferred": [
+      "Guadeloupe"
+    ],
+    "name:zho_tw_x_preferred": [
+      "瓜德羅普島"
+    ],
+    "name:zho_x_preferred": [
+      "瓜德罗普"
+    ],
+    "name:zho_x_variant": [
+      "瓜德罗普岛"
+    ],
+    "name:zho_yue_x_preferred": [
+      "瓜德羅普"
+    ],
+    "name:zul_x_preferred": [
+      "i-Guadeloupe"
+    ],
+    "ne:abbrev": "",
+    "ne:adm0_a3": "FRA",
+    "ne:adm0_label": "7",
+    "ne:adm0_sr": "4",
+    "ne:adm1_cod_1": "FRA-4603",
+    "ne:adm1_code": "FRA-4603",
+    "ne:admin": "France",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "GP.",
+    "ne:code_local": "971",
+    "ne:datarank": "9",
+    "ne:diss_me": "4603",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "0",
+    "ne:geonunit": "Guadeloupe",
+    "ne:gn_a1_code": "FR.971",
+    "ne:gn_id": "6690364",
+    "ne:gn_level": "2",
+    "ne:gn_name": "Guadeloupe",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "",
+    "ne:gns_id": "-1203022",
+    "ne:gns_lang": "fra",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Guadeloupe, Departement de la",
+    "ne:gns_region": "GP00",
+    "ne:gu_a3": "GLP",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "FR-",
+    "ne:iso_a2": "FR",
+    "ne:labelrank": "20",
+    "ne:latitude": "16.18810000000",
+    "ne:longitude": "-61.68220000000",
+    "ne:mapcolor13": 11,
+    "ne:mapcolor9": 9,
+    "ne:name": "Guadeloupe",
+    "ne:name_alt": "",
+    "ne:name_len": 10,
+    "ne:name_local": "",
+    "ne:note": "",
+    "ne:postal": "",
+    "ne:provnum_ne": "0",
+    "ne:region": "Guadeloupe",
+    "ne:region_cod": "FR-GP",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "9",
+    "ne:sov_a3": "FR1",
+    "ne:sub_code": "",
+    "ne:type": "Overseas département",
+    "ne:type_en": "Overseas department",
+    "ne:wikipedia": "",
+    "ne:woe_id": 23424831,
+    "ne:woe_label": "",
+    "ne:woe_name": "Guadeloupe",
+    "qs:a0": "France",
+    "qs:a0_lc": "FR",
+    "qs:a1": "Guadeloupe",
+    "qs:a1_lc": "FRA-4603",
+    "qs:a1r": "Guadeloupe",
+    "qs:a1r_lc": "FR-GP",
+    "qs:adm0": "France",
+    "qs:adm0_a3": "FRA",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Overseas department",
+    "sfomuseum:placetype": "region",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl:centroid": "mapshaper",
+    "statoids:dial": "590",
+    "statoids:ds": "F",
+    "statoids:fifa": "GLP",
+    "statoids:gaul": "100",
+    "statoids:gec": "GP",
+    "statoids:independent": "Part of FR",
+    "statoids:ioc": "GUD",
+    "statoids:iso_a2": "GP",
+    "statoids:iso_a3": "GLP",
+    "statoids:iso_num": "312",
+    "statoids:itu": "GDL",
+    "statoids:marc": "gp",
+    "statoids:name": "Guadeloupe",
+    "statoids:wmo": "MF",
+    "wof:belongs_to": [],
+    "wof:belongsto": [
+      102191581,
+      85633147,
+      136253037
+    ],
+    "wof:breaches": [],
+    "wof:capital": [
+      890434945
+    ],
+    "wof:concordances": {
+      "dbp:id": "Guadeloupe",
+      "digitalenvoy:country_code": 312,
+      "fb:id": "en.guadeloupe",
+      "fifa:id": "GLP",
+      "fips:code": "GP",
+      "gaul:id": "100",
+      "gn:id": 3579143,
+      "gp:id": 23424831,
+      "hasc:id": "GP",
+      "ioc:id": "GUD",
+      "iso:id": "GP",
+      "itu:id": "GDL",
+      "loc:id": "n80131903",
+      "marc:id": "gp",
+      "nyt:id": "N45013861569000129011",
+      "qs:id": 95993,
+      "uncrt:id": "F",
+      "wd:id": "Q17012",
+      "wk:page": "Guadeloupe",
+      "wmo:id": "MF"
+    },
+    "wof:country": "FR",
+    "wof:created": 1657049343,
+    "wof:geomhash": "e12b8f7c1375cb893beb61ac1a06bbab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "empire_id": 136253037,
+        "region_id": 85671209
+      }
+    ],
+    "wof:id": 85671209,
+    "wof:lang_x_official": [
+      "fra"
+    ],
+    "wof:lang_x_spoken": [
+      "fra"
+    ],
+    "wof:lastmodified": 1657049343,
+    "wof:name": "Guadeloupe",
+    "wof:parent_id": 85633147,
+    "wof:placetype": "region",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:shortcode": "GP",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      85632423
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -61.797841,
+    15.836493,
+    -60.989247,
+    16.513088
+  ],
+  "geometry": {"coordinates":[[[[-61.605011,15.840928],[-61.603505,15.838975],[-61.605987,15.839016],[-61.607696,15.840806],[-61.605011,15.840928]]],[[[-61.586415,15.84044],[-61.585927,15.836493],[-61.590566,15.840155],[-61.591013,15.844102],[-61.586415,15.84044]]],[[[-61.618804,15.852281],[-61.627553,15.846991],[-61.638336,15.853217],[-61.634592,15.866156],[-61.624664,15.871243],[-61.621083,15.867743],[-61.616078,15.860053],[-61.618804,15.852281]]],[[[-61.590647,15.880479],[-61.588816,15.877183],[-61.594146,15.877956],[-61.596018,15.881252],[-61.590647,15.880479]]],[[[-61.582183,15.861802],[-61.592641,15.858385],[-61.595693,15.86286],[-61.590484,15.86758],[-61.585113,15.870673],[-61.579945,15.880805],[-61.573883,15.883368],[-61.567983,15.881049],[-61.566477,15.878363],[-61.566029,15.876776],[-61.565012,15.874416],[-61.570546,15.869615],[-61.582183,15.861802]]],[[[-61.240712,15.881822],[-61.274892,15.873765],[-61.305084,15.878485],[-61.318186,15.904486],[-61.319203,15.911078],[-61.321685,15.919094],[-61.325103,15.925849],[-61.328725,15.928656],[-61.332021,15.931952],[-61.327789,15.939276],[-61.318186,15.952541],[-61.315297,15.966946],[-61.308258,15.977688],[-61.290191,15.997504],[-61.2683,16.009263],[-61.243886,16.003974],[-61.223988,15.987535],[-61.212392,15.95893],[-61.204905,15.95303],[-61.197377,15.945054],[-61.194,15.932074],[-61.194692,15.919582],[-61.197743,15.91059],[-61.204254,15.902777],[-61.215728,15.893948],[-61.240712,15.881822]]],[[[-61.111724,16.176988],[-61.106272,16.176215],[-61.109609,16.171454],[-61.116729,16.170315],[-61.119537,16.170396],[-61.127309,16.176988],[-61.121571,16.17654],[-61.111724,16.176988]]],[[[-61.103953,16.180528],[-61.105824,16.178575],[-61.105784,16.181138],[-61.103953,16.180528]]],[[[-61.039906,16.31391],[-61.068593,16.302232],[-61.091624,16.305406],[-61.078521,16.312201],[-61.039133,16.344468],[-61.014882,16.35399],[-60.989247,16.346381],[-61.039906,16.31391]]],[[[-61.586415,16.350084],[-61.591054,16.345404],[-61.593495,16.349555],[-61.588694,16.35574],[-61.584177,16.357327],[-61.580963,16.355577],[-61.57665,16.352647],[-61.586415,16.350084]]],[[[-61.604644,16.282294],[-61.603139,16.281195],[-61.603017,16.282213],[-61.598744,16.285549],[-61.59557,16.281643],[-61.585072,16.271308],[-61.58023,16.282131],[-61.570546,16.28974],[-61.557973,16.291693],[-61.551666,16.285549],[-61.549184,16.280585],[-61.555409,16.258246],[-61.547963,16.23843],[-61.554596,16.236518],[-61.572662,16.232571],[-61.579457,16.222317],[-61.577301,16.17593],[-61.564565,16.140937],[-61.557729,16.08633],[-61.565989,16.033515],[-61.597483,15.996731],[-61.643422,15.970364],[-61.694936,15.949164],[-61.696523,15.955024],[-61.702382,15.969631],[-61.694936,15.976467],[-61.702016,15.989895],[-61.710805,15.997382],[-61.721059,16.003852],[-61.732777,16.013983],[-61.740061,16.025824],[-61.743642,16.037299],[-61.747792,16.046698],[-61.756418,16.052191],[-61.768625,16.087633],[-61.769439,16.16649],[-61.784291,16.202338],[-61.779449,16.217231],[-61.784006,16.229315],[-61.7919,16.240058],[-61.797353,16.2508],[-61.797841,16.26789],[-61.793853,16.299058],[-61.797353,16.312201],[-61.787587,16.320299],[-61.770823,16.348822],[-61.756418,16.360663],[-61.737864,16.365302],[-61.728586,16.359605],[-61.722035,16.350898],[-61.712026,16.346381],[-61.687001,16.341702],[-61.650136,16.329332],[-61.615834,16.311835],[-61.598744,16.291693],[-61.612945,16.285549],[-61.604644,16.282294]]],[[[-61.353139,16.340277],[-61.338694,16.332709],[-61.331776,16.340155],[-61.321523,16.334906],[-61.311838,16.334174],[-61.301666,16.33454],[-61.290191,16.332709],[-61.280588,16.327053],[-61.258901,16.309231],[-61.253,16.305406],[-61.242584,16.30036],[-61.188385,16.263821],[-61.169179,16.258694],[-61.163564,16.252997],[-61.174794,16.243964],[-61.183176,16.244127],[-61.211252,16.250718],[-61.218861,16.254218],[-61.234446,16.258287],[-61.410715,16.219468],[-61.444447,16.205064],[-61.462148,16.202338],[-61.483713,16.205878],[-61.503407,16.213284],[-61.520416,16.222968],[-61.533844,16.233385],[-61.544097,16.245673],[-61.548329,16.258043],[-61.547963,16.271064],[-61.544179,16.285386],[-61.544097,16.285468],[-61.544097,16.285549],[-61.527659,16.337836],[-61.518137,16.348944],[-61.499664,16.353217],[-61.49706,16.356757],[-61.495513,16.365139],[-61.495229,16.374457],[-61.496246,16.381171],[-61.500356,16.385647],[-61.507314,16.389838],[-61.515614,16.393052],[-61.52359,16.394761],[-61.529164,16.430487],[-61.533844,16.439439],[-61.534291,16.449286],[-61.525624,16.462307],[-61.509918,16.480414],[-61.505849,16.486965],[-61.496246,16.49372],[-61.465321,16.509833],[-61.462514,16.513088],[-61.459299,16.511786],[-61.426829,16.489203],[-61.409413,16.47248],[-61.397613,16.45185],[-61.393219,16.425482],[-61.39566,16.399237],[-61.394154,16.38935],[-61.386464,16.373684],[-61.376617,16.359565],[-61.365712,16.348822],[-61.353139,16.340277]]]],"type":"MultiPolygon"}
+}

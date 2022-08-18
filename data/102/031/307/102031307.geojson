@@ -2,962 +2,964 @@
   "id": 102031307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.044797,
-    "geom:area_square_m":449799964.931181,
-    "geom:bbox":"139.279417,35.53308,140.147168,35.813461",
-    "geom:latitude":35.706104,
-    "geom:longitude":139.721352,
-    "gn:population":8336599,
-    "iso:country":"JP",
-    "lbl:latitude":35.695126,
-    "lbl:longitude":139.75391,
-    "lbl:max_zoom":12.0,
-    "lbl:min_zoom":5.0,
-    "mps:latitude":35.695126,
-    "mps:longitude":139.75391,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":2.0,
-    "name:ace_x_preferred":[
-        "Toky\u00f4"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.04479722818250046,
+    "geom:area_square_m": 449799964.931181,
+    "geom:bbox": "139.279417,35.533080,140.147168,35.813461",
+    "geom:latitude": 35.70610382745651,
+    "geom:longitude": 139.7213518527929,
+    "gn:population": 8336599,
+    "iso:country": "JP",
+    "lbl:latitude": 35.695126,
+    "lbl:longitude": 139.75391,
+    "lbl:max_zoom": 12,
+    "lbl:min_zoom": 5,
+    "mps:latitude": 35.695126,
+    "mps:longitude": 139.75391,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 2,
+    "name:ace_x_preferred": [
+      "Tokyô"
     ],
-    "name:ady_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:ady_x_preferred": [
+      "Токио"
     ],
-    "name:afr_x_preferred":[
-        "Tokio"
+    "name:afr_x_preferred": [
+      "Tokio"
     ],
-    "name:aka_x_preferred":[
-        "Tokyo"
+    "name:aka_x_preferred": [
+      "Tokyo"
     ],
-    "name:als_x_preferred":[
-        "Tokio"
+    "name:als_x_preferred": [
+      "Tokio"
     ],
-    "name:amh_x_preferred":[
-        "\u1276\u12ad\u12ee"
+    "name:amh_x_preferred": [
+      "ቶክዮ"
     ],
-    "name:ara_x_preferred":[
-        "\u0637\u0648\u0643\u064a\u0648"
+    "name:ara_x_preferred": [
+      "طوكيو"
     ],
-    "name:arc_x_preferred":[
-        "\u071b\u0718\u071f\u071d\u0718"
+    "name:arc_x_preferred": [
+      "ܛܘܟܝܘ"
     ],
-    "name:arc_x_variant":[
-        "\u071c\u0718\u071f\u071d\u0718",
-        "\u071b\u0718\u0729\u071d\u0718"
+    "name:arc_x_variant": [
+      "ܜܘܟܝܘ",
+      "ܛܘܩܝܘ"
     ],
-    "name:arg_x_preferred":[
-        "Tokio"
+    "name:arg_x_preferred": [
+      "Tokio"
     ],
-    "name:arz_x_preferred":[
-        "\u0637\u0648\u0643\u064a\u0648"
+    "name:arz_x_preferred": [
+      "طوكيو"
     ],
-    "name:asm_x_preferred":[
-        "\u099f\u0995\u09bf\u0985'"
+    "name:asm_x_preferred": [
+      "টকিঅ'"
     ],
-    "name:ast_x_preferred":[
-        "Tokiu"
+    "name:ast_x_preferred": [
+      "Tokiu"
     ],
-    "name:aym_x_preferred":[
-        "Tokyo"
+    "name:aym_x_preferred": [
+      "Tokyo"
     ],
-    "name:azb_x_preferred":[
-        "\u062a\u0648\u06a9\u06cc\u0648"
+    "name:azb_x_preferred": [
+      "توکیو"
     ],
-    "name:aze_x_preferred":[
-        "Tokio"
+    "name:aze_x_preferred": [
+      "Tokio"
     ],
-    "name:bak_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:bak_x_preferred": [
+      "Токио"
     ],
-    "name:bam_x_preferred":[
-        "Tokyo"
+    "name:bam_x_preferred": [
+      "Tokyo"
     ],
-    "name:ban_x_preferred":[
-        "Tokyo"
+    "name:ban_x_preferred": [
+      "Tokyo"
     ],
-    "name:bar_x_preferred":[
-        "Prefektua Tokio"
+    "name:bar_x_preferred": [
+      "Prefektua Tokio"
     ],
-    "name:bcl_x_preferred":[
-        "Tokyo"
+    "name:bcl_x_preferred": [
+      "Tokyo"
     ],
-    "name:bel_x_preferred":[
-        "\u0422\u043e\u043a\u0456\u0430"
+    "name:bel_x_preferred": [
+      "Токіа"
     ],
-    "name:ben_x_preferred":[
-        "\u099f\u09cb\u0995\u09bf\u0993"
+    "name:ben_x_preferred": [
+      "টোকিও"
     ],
-    "name:bih_x_preferred":[
-        "\u091f\u094b\u0915\u093f\u092f\u094b"
+    "name:bih_x_preferred": [
+      "टोकियो"
     ],
-    "name:bis_x_preferred":[
-        "Tokyo"
+    "name:bis_x_preferred": [
+      "Tokyo"
     ],
-    "name:bjn_x_preferred":[
-        "Tokyo"
+    "name:bjn_x_preferred": [
+      "Tokyo"
     ],
-    "name:bod_x_preferred":[
-        "\u0f50\u0f7c\u0f0b\u0f41\u0f7a\u0f0b\u0f61\u0f7c\u0f0d"
+    "name:bod_x_preferred": [
+      "ཐོ་ཁེ་ཡོ།"
     ],
-    "name:bos_x_preferred":[
-        "Tokio"
+    "name:bos_x_preferred": [
+      "Tokio"
     ],
-    "name:bre_x_preferred":[
-        "Tokyo"
+    "name:bre_x_preferred": [
+      "Tokyo"
     ],
-    "name:bul_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:bul_x_preferred": [
+      "Токио"
     ],
-    "name:bxr_x_preferred":[
-        "\u0422\u043e\u043a\u0451\u043e"
+    "name:bxr_x_preferred": [
+      "Токёо"
     ],
-    "name:cat_x_preferred":[
-        "T\u00f2quio"
+    "name:cat_x_preferred": [
+      "Tòquio"
     ],
-    "name:cdo_x_preferred":[
-        "D\u016dng-g\u012dng-d\u016d"
+    "name:cdo_x_preferred": [
+      "Dŭng-gĭng-dŭ"
     ],
-    "name:ceb_x_preferred":[
-        "Tokyo"
+    "name:ceb_x_preferred": [
+      "Tokyo"
     ],
-    "name:ces_x_preferred":[
-        "Tokio"
+    "name:ces_x_preferred": [
+      "Tokio"
     ],
-    "name:ces_x_variant":[
-        "Prefektura Tokio"
+    "name:ces_x_variant": [
+      "Prefektura Tokio"
     ],
-    "name:cha_x_preferred":[
-        "Tokyo"
+    "name:cha_x_preferred": [
+      "Tokyo"
     ],
-    "name:che_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:che_x_preferred": [
+      "Токио"
     ],
-    "name:chr_x_preferred":[
-        "\u13d9\u13a9\u13f2"
+    "name:chr_x_preferred": [
+      "ᏙᎩᏲ"
     ],
-    "name:chv_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:chv_x_preferred": [
+      "Токио"
     ],
-    "name:chy_x_preferred":[
-        "Tokyo"
+    "name:chy_x_preferred": [
+      "Tokyo"
     ],
-    "name:ckb_x_preferred":[
-        "\u062a\u06c6\u06a9\u06cc\u06c6"
+    "name:ckb_x_preferred": [
+      "تۆکیۆ"
     ],
-    "name:cor_x_preferred":[
-        "Tokyo"
+    "name:cor_x_preferred": [
+      "Tokyo"
     ],
-    "name:cos_x_preferred":[
-        "Tokiu"
+    "name:cos_x_preferred": [
+      "Tokiu"
     ],
-    "name:cre_x_preferred":[
-        "\u1450\u146d\u152a"
+    "name:cre_x_preferred": [
+      "ᑐᑭᔪ"
     ],
-    "name:crh_x_preferred":[
-        "Tokyo"
+    "name:crh_x_preferred": [
+      "Tokyo"
     ],
-    "name:cym_x_preferred":[
-        "Tokyo"
+    "name:cym_x_preferred": [
+      "Tokyo"
     ],
-    "name:dan_x_preferred":[
-        "Tokyo"
+    "name:dan_x_preferred": [
+      "Tokyo"
     ],
-    "name:deu_x_preferred":[
-        "Tokyo"
+    "name:deu_x_preferred": [
+      "Tokyo"
     ],
-    "name:deu_x_variant":[
-        "Tokio",
-        "Pr\u00e4fektur Tokio"
+    "name:deu_x_variant": [
+      "Tokio",
+      "Präfektur Tokio"
     ],
-    "name:diq_x_preferred":[
-        "Tokyo"
+    "name:diq_x_preferred": [
+      "Tokyo"
     ],
-    "name:dsb_x_preferred":[
-        "Tokio"
+    "name:dsb_x_preferred": [
+      "Tokio"
     ],
-    "name:dty_x_preferred":[
-        "\u091f\u094b\u0915\u093f\u092f\u094b"
+    "name:dty_x_preferred": [
+      "टोकियो"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f4a\u0f7c\u0f0b\u0f40\u0f72\u0f0b\u0f61"
+    "name:dzo_x_preferred": [
+      "ཊོ་ཀི་ཡ"
     ],
-    "name:ell_x_preferred":[
-        "\u03a4\u03cc\u03ba\u03b9\u03bf"
+    "name:ell_x_preferred": [
+      "Τόκιο"
     ],
-    "name:eml_x_preferred":[
-        "Tokyo"
+    "name:eml_x_preferred": [
+      "Tokyo"
     ],
-    "name:eng_x_colloquial":[
-        ""
+    "name:eng_x_colloquial": [
+      ""
     ],
-    "name:eng_x_historical":[
-        "Edo"
+    "name:eng_x_historical": [
+      "Edo"
     ],
-    "name:eng_x_preferred":[
-        "Tokyo"
+    "name:eng_x_preferred": [
+      "Tokyo"
     ],
-    "name:eng_x_variant":[
-        "23 Ku",
-        "23 Wards Area",
-        "Tokyo 23 Ku",
-        "Tokyo 23 Wards",
-        "Toukyou 23 Ku",
-        "Toukyou 23 Wards",
-        "Edo"
+    "name:eng_x_variant": [
+      "23 Ku",
+      "23 Wards Area",
+      "Tokyo 23 Ku",
+      "Tokyo 23 Wards",
+      "Toukyou 23 Ku",
+      "Toukyou 23 Wards",
+      "Edo"
     ],
-    "name:epo_x_preferred":[
-        "Tokio"
+    "name:epo_x_preferred": [
+      "Tokio"
     ],
-    "name:est_x_preferred":[
-        "T\u014dky\u014d"
+    "name:est_x_preferred": [
+      "Tōkyō"
     ],
-    "name:est_x_variant":[
-        "T\u014dky\u014d prefektuur"
+    "name:est_x_variant": [
+      "Tōkyō prefektuur"
     ],
-    "name:eus_x_preferred":[
-        "Tokio"
+    "name:eus_x_preferred": [
+      "Tokio"
     ],
-    "name:ewe_x_preferred":[
-        "Tokyo"
+    "name:ewe_x_preferred": [
+      "Tokyo"
     ],
-    "name:ext_x_preferred":[
-        "T\u00f3quiu"
+    "name:ext_x_preferred": [
+      "Tóquiu"
     ],
-    "name:fao_x_preferred":[
-        "Tokyo"
+    "name:fao_x_preferred": [
+      "Tokyo"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0648\u06a9\u06cc\u0648"
+    "name:fas_x_preferred": [
+      "توکیو"
     ],
-    "name:fin_x_preferred":[
-        "Tokio"
+    "name:fin_x_preferred": [
+      "Tokio"
     ],
-    "name:fin_x_variant":[
-        "Tokion Kautta",
-        "Tokioon",
-        "Tokiossa",
-        "Tokiosta"
+    "name:fin_x_variant": [
+      "Tokion Kautta",
+      "Tokioon",
+      "Tokiossa",
+      "Tokiosta"
     ],
-    "name:fra_x_preferred":[
-        "Tokyo"
+    "name:fra_x_preferred": [
+      "Tokyo"
     ],
-    "name:frr_x_preferred":[
-        "Prefektuur Tokio"
+    "name:frr_x_preferred": [
+      "Prefektuur Tokio"
     ],
-    "name:fry_x_preferred":[
-        "Tokio"
+    "name:fry_x_preferred": [
+      "Tokio"
     ],
-    "name:gcr_x_preferred":[
-        "Tokyo"
+    "name:gcr_x_preferred": [
+      "Tokyo"
     ],
-    "name:gla_x_preferred":[
-        "Tokyo"
+    "name:gla_x_preferred": [
+      "Tokyo"
     ],
-    "name:gle_x_preferred":[
-        "T\u014dky\u014d"
+    "name:gle_x_preferred": [
+      "Tōkyō"
     ],
-    "name:glg_x_preferred":[
-        "Toquio - \u6771\u4eac"
+    "name:glg_x_preferred": [
+      "Toquio - 東京"
     ],
-    "name:glg_x_variant":[
-        "Toquio"
+    "name:glg_x_variant": [
+      "Toquio"
     ],
-    "name:glv_x_preferred":[
-        "Tokyo"
+    "name:glv_x_preferred": [
+      "Tokyo"
     ],
-    "name:gor_x_preferred":[
-        "Tokyo"
+    "name:gor_x_preferred": [
+      "Tokyo"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf44\ud800\udf30\ud800\udf3f\ud800\udf3a\ud800\udf39\ud800\udf30\ud800\udf3f"
+    "name:got_x_preferred": [
+      "𐍄𐌰𐌿𐌺𐌹𐌰𐌿"
     ],
-    "name:grn_x_preferred":[
-        "T\u00f3kio"
+    "name:grn_x_preferred": [
+      "Tókio"
     ],
-    "name:hak_x_preferred":[
-        "T\u00fbng-k\u00een-t\u00fb"
+    "name:hak_x_preferred": [
+      "Tûng-kîn-tû"
     ],
-    "name:hat_x_preferred":[
-        "Tokyo"
+    "name:hat_x_preferred": [
+      "Tokyo"
     ],
-    "name:hau_x_preferred":[
-        "Tokyo"
+    "name:hau_x_preferred": [
+      "Tokyo"
     ],
-    "name:haw_x_preferred":[
-        "T\u014dki\u014d"
+    "name:haw_x_preferred": [
+      "Tōkiō"
     ],
-    "name:hbs_x_preferred":[
-        "Tokyo"
+    "name:hbs_x_preferred": [
+      "Tokyo"
     ],
-    "name:heb_x_preferred":[
-        "\u05d8\u05d5\u05e7\u05d9\u05d5"
+    "name:heb_x_preferred": [
+      "טוקיו"
     ],
-    "name:hif_x_preferred":[
-        "Tokyo"
+    "name:hif_x_preferred": [
+      "Tokyo"
     ],
-    "name:hin_x_preferred":[
-        "\u091f\u094b\u0915\u094d\u092f\u094b"
+    "name:hin_x_preferred": [
+      "टोक्यो"
     ],
-    "name:hrv_x_preferred":[
-        "Tokio"
+    "name:hrv_x_preferred": [
+      "Tokio"
     ],
-    "name:hsb_x_preferred":[
-        "Tokio"
+    "name:hsb_x_preferred": [
+      "Tokio"
     ],
-    "name:hun_x_preferred":[
-        "Toki\u00f3"
+    "name:hun_x_preferred": [
+      "Tokió"
     ],
-    "name:hye_x_preferred":[
-        "\u054f\u0578\u056f\u056b\u0578"
+    "name:hye_x_preferred": [
+      "Տոկիո"
     ],
-    "name:ido_x_preferred":[
-        "Tokyo"
+    "name:ido_x_preferred": [
+      "Tokyo"
     ],
-    "name:iku_x_preferred":[
-        "\u1451\u146d\u1405"
+    "name:iku_x_preferred": [
+      "ᑑᑭᐅ"
     ],
-    "name:ile_x_preferred":[
-        "T\u014dky\u014d"
+    "name:ile_x_preferred": [
+      "Tōkyō"
     ],
-    "name:ilo_x_preferred":[
-        "Tokyo"
+    "name:ilo_x_preferred": [
+      "Tokyo"
     ],
-    "name:ina_x_preferred":[
-        "Tokyo"
+    "name:ina_x_preferred": [
+      "Tokyo"
     ],
-    "name:ind_x_preferred":[
-        "Tokyo"
+    "name:ind_x_preferred": [
+      "Tokyo"
     ],
-    "name:inh_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:inh_x_preferred": [
+      "Токио"
     ],
-    "name:ipk_x_preferred":[
-        "Tokyo"
+    "name:ipk_x_preferred": [
+      "Tokyo"
     ],
-    "name:isl_x_preferred":[
-        "T\u00f3k\u00fd\u00f3"
+    "name:isl_x_preferred": [
+      "Tókýó"
     ],
-    "name:ita_x_preferred":[
-        "Tokyo"
+    "name:ita_x_preferred": [
+      "Tokyo"
     ],
-    "name:jam_x_preferred":[
-        "Tuokio"
+    "name:jam_x_preferred": [
+      "Tuokio"
     ],
-    "name:jav_x_preferred":[
-        "Tokyo"
+    "name:jav_x_preferred": [
+      "Tokyo"
     ],
-    "name:jbo_x_preferred":[
-        "tokios"
+    "name:jbo_x_preferred": [
+      "tokios"
     ],
-    "name:jpn_x_preferred":[
-        "\u6771\u4eac"
+    "name:jpn_x_preferred": [
+      "東京"
     ],
-    "name:jpn_x_variant":[
-        "\u3068\u3046\u304d\u3087\u3046",
-        "\u6771\u4eac\u90fd"
+    "name:jpn_x_variant": [
+      "とうきょう",
+      "東京都"
     ],
-    "name:kaa_x_preferred":[
-        "Tokiyo"
+    "name:kaa_x_preferred": [
+      "Tokiyo"
     ],
-    "name:kab_x_preferred":[
-        "Tokyo"
+    "name:kab_x_preferred": [
+      "Tokyo"
     ],
-    "name:kal_x_preferred":[
-        "Tokyo"
+    "name:kal_x_preferred": [
+      "Tokyo"
     ],
-    "name:kan_x_preferred":[
-        "\u0c9f\u0ccb\u0c95\u0ccd\u0caf\u0cca"
+    "name:kan_x_preferred": [
+      "ಟೋಕ್ಯೊ"
     ],
-    "name:kat_x_preferred":[
-        "\u10e2\u10dd\u10d9\u10d8\u10dd"
+    "name:kat_x_preferred": [
+      "ტოკიო"
     ],
-    "name:kaz_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:kaz_x_preferred": [
+      "Токио"
     ],
-    "name:kbp_x_preferred":[
-        "Tokiyo"
+    "name:kbp_x_preferred": [
+      "Tokiyo"
     ],
-    "name:khm_x_preferred":[
-        "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u178f\u17bc\u1781\u17d2\u1799\u17bc"
+    "name:khm_x_preferred": [
+      "ទីក្រុងតូខ្យូ"
     ],
-    "name:kik_x_preferred":[
-        "Tokyo"
+    "name:kik_x_preferred": [
+      "Tokyo"
     ],
-    "name:kin_x_preferred":[
-        "Tokyo"
+    "name:kin_x_preferred": [
+      "Tokyo"
     ],
-    "name:kir_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:kir_x_preferred": [
+      "Токио"
     ],
-    "name:kor_x_preferred":[
-        "\ub3c4\ucfc4"
+    "name:kor_x_preferred": [
+      "도쿄"
     ],
-    "name:kor_x_variant":[
-        "\ub3d9\uacbd",
-        "\ub3c4\ucfc4\ub3c4"
+    "name:kor_x_variant": [
+      "동경",
+      "도쿄도"
     ],
-    "name:kur_x_preferred":[
-        "Tokyo"
+    "name:kur_x_preferred": [
+      "Tokyo"
     ],
-    "name:lad_x_preferred":[
-        "Tokio"
+    "name:lad_x_preferred": [
+      "Tokio"
     ],
-    "name:lao_x_preferred":[
-        "\u0ec2\u0e95\u0e81\u0ebd\u0ea7"
+    "name:lao_x_preferred": [
+      "ໂຕກຽວ"
     ],
-    "name:lat_x_preferred":[
-        "Tocio"
+    "name:lat_x_preferred": [
+      "Tocio"
     ],
-    "name:lat_x_variant":[
-        "Tokium"
+    "name:lat_x_variant": [
+      "Tokium"
     ],
-    "name:lav_x_preferred":[
-        "Tokija"
+    "name:lav_x_preferred": [
+      "Tokija"
     ],
-    "name:lez_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:lez_x_preferred": [
+      "Токио"
     ],
-    "name:lij_x_preferred":[
-        "T\u00f2kyo"
+    "name:lij_x_preferred": [
+      "Tòkyo"
     ],
-    "name:lim_x_preferred":[
-        "Tokio"
+    "name:lim_x_preferred": [
+      "Tokio"
     ],
-    "name:lin_x_preferred":[
-        "Tokyo"
+    "name:lin_x_preferred": [
+      "Tokyo"
     ],
-    "name:lit_x_preferred":[
-        "Tokijas"
+    "name:lit_x_preferred": [
+      "Tokijas"
     ],
-    "name:lmo_x_preferred":[
-        "Tokyo"
+    "name:lmo_x_preferred": [
+      "Tokyo"
     ],
-    "name:lrc_x_preferred":[
-        "\u062a\u0648\u06a9\u06cc\u0648"
+    "name:lrc_x_preferred": [
+      "توکیو"
     ],
-    "name:ltz_x_preferred":[
-        "Prefektur Tokio"
+    "name:ltz_x_preferred": [
+      "Prefektur Tokio"
     ],
-    "name:lug_x_preferred":[
-        "Tokyo"
+    "name:lug_x_preferred": [
+      "Tokyo"
     ],
-    "name:mai_x_preferred":[
-        "\u091f\u094b\u0915\u094d\u092f\u094b"
+    "name:mai_x_preferred": [
+      "टोक्यो"
     ],
-    "name:mal_x_preferred":[
-        "\u0d1f\u0d4b\u0d15\u0d4d\u0d15\u0d3f\u0d2f\u0d4b"
+    "name:mal_x_preferred": [
+      "ടോക്കിയോ"
     ],
-    "name:mar_x_preferred":[
-        "\u091f\u094b\u0915\u094d\u092f\u094b"
+    "name:mar_x_preferred": [
+      "टोक्यो"
     ],
-    "name:mar_x_variant":[
-        "\u0924\u094b\u0915\u094d\u092f\u094b"
+    "name:mar_x_variant": [
+      "तोक्यो"
     ],
-    "name:mdf_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:mdf_x_preferred": [
+      "Токио"
     ],
-    "name:mhr_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:mhr_x_preferred": [
+      "Токио"
     ],
-    "name:min_x_preferred":[
-        "Tokyo"
+    "name:min_x_preferred": [
+      "Tokyo"
     ],
-    "name:mkd_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:mkd_x_preferred": [
+      "Токио"
     ],
-    "name:mlg_x_preferred":[
-        "Tokyo"
+    "name:mlg_x_preferred": [
+      "Tokyo"
     ],
-    "name:mlt_x_preferred":[
-        "Tokjo"
+    "name:mlt_x_preferred": [
+      "Tokjo"
     ],
-    "name:mon_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:mon_x_preferred": [
+      "Токио"
     ],
-    "name:mri_x_preferred":[
-        "Tokyo"
+    "name:mri_x_preferred": [
+      "Tokyo"
     ],
-    "name:mrj_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:mrj_x_preferred": [
+      "Токио"
     ],
-    "name:msa_x_preferred":[
-        "Tokyo"
+    "name:msa_x_preferred": [
+      "Tokyo"
     ],
-    "name:mwl_x_preferred":[
-        "T\u00f3quio"
+    "name:mwl_x_preferred": [
+      "Tóquio"
     ],
-    "name:mya_x_preferred":[
-        "\u1010\u102d\u102f\u1000\u103b\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "တိုကျိုမြို့"
     ],
-    "name:myv_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e \u043e\u0448"
+    "name:myv_x_preferred": [
+      "Токио ош"
     ],
-    "name:mzn_x_preferred":[
-        "\u062a\u0648\u06a9\u064a\u0648"
+    "name:mzn_x_preferred": [
+      "توکيو"
     ],
-    "name:nap_x_preferred":[
-        "Tokyo"
+    "name:nap_x_preferred": [
+      "Tokyo"
     ],
-    "name:nau_x_preferred":[
-        "Tokyo"
+    "name:nau_x_preferred": [
+      "Tokyo"
     ],
-    "name:nds_x_preferred":[
-        "Tokio"
+    "name:nds_x_preferred": [
+      "Tokio"
     ],
-    "name:nep_x_preferred":[
-        "\u091f\u094b\u0915\u094d\u092f\u094b"
+    "name:nep_x_preferred": [
+      "टोक्यो"
     ],
-    "name:new_x_preferred":[
-        "\u0924\u094b\u0915\u094d\u092f\u094b"
+    "name:new_x_preferred": [
+      "तोक्यो"
     ],
-    "name:nld_x_preferred":[
-        "Tokio"
+    "name:nld_x_preferred": [
+      "Tokio"
     ],
-    "name:nno_x_preferred":[
-        "Tokyo"
+    "name:nno_x_preferred": [
+      "Tokyo"
     ],
-    "name:nor_x_preferred":[
-        "Tokyo"
+    "name:nor_x_preferred": [
+      "Tokyo"
     ],
-    "name:nov_x_preferred":[
-        "Tokyo"
+    "name:nov_x_preferred": [
+      "Tokyo"
     ],
-    "name:nrm_x_preferred":[
-        "Tokyo"
+    "name:nrm_x_preferred": [
+      "Tokyo"
     ],
-    "name:nya_x_preferred":[
-        "Tokyo"
+    "name:nya_x_preferred": [
+      "Tokyo"
     ],
-    "name:oci_x_preferred":[
-        "T\u00f2quio"
+    "name:oci_x_preferred": [
+      "Tòquio"
     ],
-    "name:olo_x_preferred":[
-        "Tokio"
+    "name:olo_x_preferred": [
+      "Tokio"
     ],
-    "name:ori_x_preferred":[
-        "\u0b1f\u0b4b\u0b15\u0b3f\u0b13"
+    "name:ori_x_preferred": [
+      "ଟୋକିଓ"
     ],
-    "name:oss_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:oss_x_preferred": [
+      "Токио"
     ],
-    "name:pam_x_preferred":[
-        "Tokyo"
+    "name:pam_x_preferred": [
+      "Tokyo"
     ],
-    "name:pan_x_preferred":[
-        "\u0a1f\u0a4b\u0a15\u0a40\u0a13"
+    "name:pan_x_preferred": [
+      "ਟੋਕੀਓ"
     ],
-    "name:pap_x_preferred":[
-        "Tokyo"
+    "name:pap_x_preferred": [
+      "Tokyo"
     ],
-    "name:pcd_x_preferred":[
-        "T\u014dky\u014d"
+    "name:pcd_x_preferred": [
+      "Tōkyō"
     ],
-    "name:pfl_x_preferred":[
-        "Tokio"
+    "name:pfl_x_preferred": [
+      "Tokio"
     ],
-    "name:pih_x_preferred":[
-        "Tokyo"
+    "name:pih_x_preferred": [
+      "Tokyo"
     ],
-    "name:pms_x_preferred":[
-        "Tokyo"
+    "name:pms_x_preferred": [
+      "Tokyo"
     ],
-    "name:pnb_x_preferred":[
-        "\u0679\u0648\u06a9\u06cc\u0648"
+    "name:pnb_x_preferred": [
+      "ٹوکیو"
     ],
-    "name:pnt_x_preferred":[
-        "\u03a4\u03cc\u03ba\u03b9\u03bf"
+    "name:pnt_x_preferred": [
+      "Τόκιο"
     ],
-    "name:pol_x_preferred":[
-        "Tokio"
+    "name:pol_x_preferred": [
+      "Tokio"
     ],
-    "name:por_x_colloquial":[
-        "Toquio"
+    "name:por_x_colloquial": [
+      "Toquio"
     ],
-    "name:por_x_preferred":[
-        "T\u00f3quio"
+    "name:por_x_preferred": [
+      "Tóquio"
     ],
-    "name:pus_x_preferred":[
-        "\u062a\u0648\u06a9\u06cc\u0648"
+    "name:pus_x_preferred": [
+      "توکیو"
     ],
-    "name:que_x_preferred":[
-        "Tokyo"
+    "name:que_x_preferred": [
+      "Tokyo"
     ],
-    "name:roh_x_preferred":[
-        "Tokio"
+    "name:roh_x_preferred": [
+      "Tokio"
     ],
-    "name:ron_x_preferred":[
-        "\u0422\u043e\u043a\u0451"
+    "name:ron_x_preferred": [
+      "Токё"
     ],
-    "name:ron_x_variant":[
-        "Tokio",
-        "T\u014dky\u014d"
+    "name:ron_x_variant": [
+      "Tokio",
+      "Tōkyō"
     ],
-    "name:rue_x_preferred":[
-        "\u0422\u043e\u043a\u0456\u043e"
+    "name:rue_x_preferred": [
+      "Токіо"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:rus_x_preferred": [
+      "Токио"
     ],
-    "name:sah_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:sah_x_preferred": [
+      "Токио"
     ],
-    "name:san_x_preferred":[
-        "\u091f\u094b\u0915\u094d\u092f\u094b"
+    "name:san_x_preferred": [
+      "टोक्यो"
     ],
-    "name:sat_x_preferred":[
-        "\u1c74\u1c5a\u1c60\u1c6d\u1c5a"
+    "name:sat_x_preferred": [
+      "ᱴᱚᱠᱭᱚ"
     ],
-    "name:scn_x_preferred":[
-        "Tochiu"
+    "name:scn_x_preferred": [
+      "Tochiu"
     ],
-    "name:sco_x_preferred":[
-        "Tokyo"
+    "name:sco_x_preferred": [
+      "Tokyo"
     ],
-    "name:sin_x_preferred":[
-        "\u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd"
+    "name:sin_x_preferred": [
+      "ටෝකියෝ"
     ],
-    "name:slk_x_preferred":[
-        "Tokio"
+    "name:slk_x_preferred": [
+      "Tokio"
     ],
-    "name:slv_x_preferred":[
-        "Tokio"
+    "name:slv_x_preferred": [
+      "Tokio"
     ],
-    "name:sme_x_preferred":[
-        "Tokio"
+    "name:sme_x_preferred": [
+      "Tokio"
     ],
-    "name:smo_x_preferred":[
-        "Tokyo"
+    "name:smo_x_preferred": [
+      "Tokyo"
     ],
-    "name:sna_x_preferred":[
-        "Tokyo"
+    "name:sna_x_preferred": [
+      "Tokyo"
     ],
-    "name:som_x_preferred":[
-        "Tokyo"
+    "name:som_x_preferred": [
+      "Tokyo"
     ],
-    "name:spa_x_preferred":[
-        "Tokio"
+    "name:spa_x_preferred": [
+      "Tokio"
     ],
-    "name:sqi_x_preferred":[
-        "Tokyo"
+    "name:sqi_x_preferred": [
+      "Tokyo"
     ],
-    "name:sqi_x_variant":[
-        "Tokjo",
-        "Tokio"
+    "name:sqi_x_variant": [
+      "Tokjo",
+      "Tokio"
     ],
-    "name:srd_x_preferred":[
-        "Tokio"
+    "name:srd_x_preferred": [
+      "Tokio"
     ],
-    "name:srp_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:srp_x_preferred": [
+      "Токио"
     ],
-    "name:stq_x_preferred":[
-        "Tokio"
+    "name:stq_x_preferred": [
+      "Tokio"
     ],
-    "name:sun_x_preferred":[
-        "Tokyo"
+    "name:sun_x_preferred": [
+      "Tokyo"
     ],
-    "name:swa_x_preferred":[
-        "Tokyo"
+    "name:swa_x_preferred": [
+      "Tokyo"
     ],
-    "name:swe_x_preferred":[
-        "Tokyo"
+    "name:swe_x_preferred": [
+      "Tokyo"
     ],
-    "name:swe_x_variant":[
-        "Tokyo prefektur"
+    "name:swe_x_variant": [
+      "Tokyo prefektur"
     ],
-    "name:szl_x_preferred":[
-        "Tokjo"
+    "name:szl_x_preferred": [
+      "Tokjo"
     ],
-    "name:tah_x_preferred":[
-        "Tokyo"
+    "name:tah_x_preferred": [
+      "Tokyo"
     ],
-    "name:tam_x_preferred":[
-        "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb"
+    "name:tam_x_preferred": [
+      "டோக்கியோ"
     ],
-    "name:tam_x_variant":[
-        "\u0ba4\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb"
+    "name:tam_x_variant": [
+      "தோக்கியோ"
     ],
-    "name:tat_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:tat_x_preferred": [
+      "Токио"
     ],
-    "name:tcy_x_preferred":[
-        "\u0c9f\u0ccb\u0c95\u0cbf\u0caf\u0ccb"
+    "name:tcy_x_preferred": [
+      "ಟೋಕಿಯೋ"
     ],
-    "name:tel_x_preferred":[
-        "\u0c1f\u0c4b\u0c15\u0c4d\u0c2f\u0c4b"
+    "name:tel_x_preferred": [
+      "టోక్యో"
     ],
-    "name:tet_x_preferred":[
-        "Tokio"
+    "name:tet_x_preferred": [
+      "Tokio"
     ],
-    "name:tgk_x_preferred":[
-        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430\u0438 \u0422\u043e\u043a\u0438\u043e"
+    "name:tgk_x_preferred": [
+      "Префектураи Токио"
     ],
-    "name:tgk_x_variant":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:tgk_x_variant": [
+      "Токио"
     ],
-    "name:tgl_x_preferred":[
-        "Tokyo"
+    "name:tgl_x_preferred": [
+      "Tokyo"
     ],
-    "name:tha_x_preferred":[
-        "\u0e42\u0e15\u0e40\u0e01\u0e35\u0e22\u0e27"
+    "name:tha_x_preferred": [
+      "โตเกียว"
     ],
-    "name:ton_x_preferred":[
-        "Tokio"
+    "name:ton_x_preferred": [
+      "Tokio"
     ],
-    "name:tpi_x_preferred":[
-        "Tokyo"
+    "name:tpi_x_preferred": [
+      "Tokyo"
     ],
-    "name:tsn_x_preferred":[
-        "Tokyo"
+    "name:tsn_x_preferred": [
+      "Tokyo"
     ],
-    "name:tuk_x_preferred":[
-        "Tokio"
+    "name:tuk_x_preferred": [
+      "Tokio"
     ],
-    "name:tum_x_preferred":[
-        "Tokyo"
+    "name:tum_x_preferred": [
+      "Tokyo"
     ],
-    "name:tur_x_preferred":[
-        "Tokyo"
+    "name:tur_x_preferred": [
+      "Tokyo"
     ],
-    "name:twi_x_preferred":[
-        "Tokyo"
+    "name:twi_x_preferred": [
+      "Tokyo"
     ],
-    "name:udm_x_preferred":[
-        "\u0422\u043e\u043a\u0438\u043e"
+    "name:udm_x_preferred": [
+      "Токио"
     ],
-    "name:uig_x_preferred":[
-        "\u062a\u0648\u0643\u064a\u0648"
+    "name:uig_x_preferred": [
+      "توكيو"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u043e\u043a\u0456\u043e"
+    "name:ukr_x_preferred": [
+      "Токіо"
     ],
-    "name:urd_x_preferred":[
-        "\u062a\u0648\u06a9\u06cc\u0648"
+    "name:urd_x_preferred": [
+      "توکیو"
     ],
-    "name:uzb_x_preferred":[
-        "Tokio"
+    "name:uzb_x_preferred": [
+      "Tokio"
     ],
-    "name:vec_x_preferred":[
-        "Tokyo"
+    "name:vec_x_preferred": [
+      "Tokyo"
     ],
-    "name:vep_x_preferred":[
-        "Tokio"
+    "name:vep_x_preferred": [
+      "Tokio"
     ],
-    "name:vie_x_preferred":[
-        "Tokyo"
+    "name:vie_x_preferred": [
+      "Tokyo"
     ],
-    "name:vls_x_preferred":[
-        "Tokio"
+    "name:vls_x_preferred": [
+      "Tokio"
     ],
-    "name:vol_x_preferred":[
-        "Tokyo"
+    "name:vol_x_preferred": [
+      "Tokyo"
     ],
-    "name:war_x_preferred":[
-        "Tokyo"
+    "name:war_x_preferred": [
+      "Tokyo"
     ],
-    "name:wol_x_preferred":[
-        "Tokyo"
+    "name:wol_x_preferred": [
+      "Tokyo"
     ],
-    "name:wuu_x_preferred":[
-        "\u4e1c\u4eac\u90fd"
+    "name:wuu_x_preferred": [
+      "东京都"
     ],
-    "name:xmf_x_preferred":[
-        "\u10e2\u10dd\u10d9\u10d8\u10dd"
+    "name:xmf_x_preferred": [
+      "ტოკიო"
     ],
-    "name:yid_x_preferred":[
-        "\u05d8\u05d0\u05e7\u05d9\u05d0"
+    "name:yid_x_preferred": [
+      "טאקיא"
     ],
-    "name:yor_x_preferred":[
-        "Tokyo"
+    "name:yor_x_preferred": [
+      "Tokyo"
     ],
-    "name:zea_x_preferred":[
-        "Tokio"
+    "name:zea_x_preferred": [
+      "Tokio"
     ],
-    "name:zha_x_preferred":[
-        "Dunghgingh"
+    "name:zha_x_preferred": [
+      "Dunghgingh"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u4eac"
+    "name:zho_x_preferred": [
+      "东京"
     ],
-    "name:zho_x_variant":[
-        "\u6771\u4eac\u90fd"
+    "name:zho_x_variant": [
+      "東京都"
     ],
-    "name:zul_x_preferred":[
-        "ITokyo"
+    "name:zul_x_preferred": [
+      "ITokyo"
     ],
-    "ne:ADM0CAP":1.0,
-    "ne:ADM0NAME":"Japan",
-    "ne:ADM0_A3":"JPN",
-    "ne:ADM1NAME":"Tokyo",
-    "ne:ADMIN1_COD":40,
-    "ne:CAPALT":0,
-    "ne:CAPIN":"De facto capita",
-    "ne:CHANGED":0,
-    "ne:CHECKME":0,
-    "ne:CITYALT":null,
-    "ne:COMPARE":0,
-    "ne:DIFFASCII":0,
-    "ne:DIFFNOTE":null,
-    "ne:ELEVATION":0.0,
-    "ne:FEATURECLA":"Admin-0 capital",
-    "ne:FEATURE_CL":"P",
-    "ne:FEATURE_CO":"PPLC",
-    "ne:GEONAMEID":1850147,
-    "ne:GEONAMESNO":"GeoNames match general.",
-    "ne:GN_ASCII":"Tokyo",
-    "ne:GN_POP":8336599,
-    "ne:GTOPO30":40.0,
-    "ne:ISO_A2":"JP",
-    "ne:LABELRANK":2,
-    "ne:LATITUDE":35.685017,
-    "ne:LONGITUDE":139.751407,
-    "ne:LS_MATCH":1,
-    "ne:LS_NAME":"Tokyo",
-    "ne:MAX_AREAKM":5750.0,
-    "ne:MAX_AREAMI":2220.0,
-    "ne:MAX_BBXMAX":140.433333,
-    "ne:MAX_BBXMIN":139.536465,
-    "ne:MAX_BBYMAX":36.241667,
-    "ne:MAX_BBYMIN":35.486247,
-    "ne:MAX_NATSCA":300.0,
-    "ne:MAX_PERKM":2284.0,
-    "ne:MAX_PERMI":1419.0,
-    "ne:MAX_POP10":13762740,
-    "ne:MAX_POP20":24218878,
-    "ne:MAX_POP300":31303497,
-    "ne:MAX_POP310":31303497,
-    "ne:MAX_POP50":31303497,
-    "ne:MEAN_BBXC":139.75102,
-    "ne:MEAN_BBYC":35.743469,
-    "ne:MEGACITY":1,
-    "ne:MEGANAME":"Tokyo",
-    "ne:MIN_AREAKM":2130.0,
-    "ne:MIN_AREAMI":823.0,
-    "ne:MIN_BBXMAX":140.433333,
-    "ne:MIN_BBXMIN":139.166667,
-    "ne:MIN_BBYMAX":36.05,
-    "ne:MIN_BBYMIN":35.175,
-    "ne:MIN_PERKM":838.0,
-    "ne:MIN_PERMI":521.0,
-    "ne:NAME":"Tokyo",
-    "ne:NAMEALT":null,
-    "ne:NAMEASCII":"Tokyo",
-    "ne:NAMEDIFF":0,
-    "ne:NAMEPAR":null,
-    "ne:NATSCALE":600,
-    "ne:NOTE":null,
-    "ne:POP1950":11275,
-    "ne:POP1955":13713,
-    "ne:POP1960":16679,
-    "ne:POP1965":20284,
-    "ne:POP1970":23298,
-    "ne:POP1975":26615,
-    "ne:POP1980":28549,
-    "ne:POP1985":30304,
-    "ne:POP1990":32530,
-    "ne:POP1995":33587,
-    "ne:POP2000":34450,
-    "ne:POP2005":35327,
-    "ne:POP2010":35676,
-    "ne:POP2015":36094,
-    "ne:POP2020":36371,
-    "ne:POP2025":36399,
-    "ne:POP2050":36400,
-    "ne:POP_MAX":35676000,
-    "ne:POP_MIN":8336599,
-    "ne:POP_OTHER":12945252,
-    "ne:RANK_MAX":14,
-    "ne:RANK_MIN":13,
-    "ne:SCALERANK":0,
-    "ne:SOV0NAME":"Japan",
-    "ne:SOV_A3":"JPN",
-    "ne:TIMEZONE":"Asia/Tokyo",
-    "ne:UN_ADM0":"Japan",
-    "ne:UN_FID":318,
-    "ne:UN_LAT":35.68,
-    "ne:UN_LONG":139.8,
-    "ne:WORLDCITY":1,
-    "qs:a0":"\u65e5\u672c",
-    "qs:a1":"*\u6771\u4eac\u90fd",
-    "qs:a1r":"*",
-    "qs:adm0":"Japan",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Tokyo",
-    "qs:loc_alt":"\u6771\u4eac",
-    "qs:loc_lc":"1850147",
-    "qs:pop":0,
-    "qs:source":"Nquattroshapes",
-    "qs:type":"Town",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "ne:ADM0CAP": 1,
+    "ne:ADM0NAME": "Japan",
+    "ne:ADM0_A3": "JPN",
+    "ne:ADM1NAME": "Tokyo",
+    "ne:ADMIN1_COD": 40,
+    "ne:CAPALT": 0,
+    "ne:CAPIN": "De facto capita",
+    "ne:CHANGED": 0,
+    "ne:CHECKME": 0,
+    "ne:CITYALT": null,
+    "ne:COMPARE": 0,
+    "ne:DIFFASCII": 0,
+    "ne:DIFFNOTE": null,
+    "ne:ELEVATION": 0,
+    "ne:FEATURECLA": "Admin-0 capital",
+    "ne:FEATURE_CL": "P",
+    "ne:FEATURE_CO": "PPLC",
+    "ne:GEONAMEID": 1850147,
+    "ne:GEONAMESNO": "GeoNames match general.",
+    "ne:GN_ASCII": "Tokyo",
+    "ne:GN_POP": 8336599,
+    "ne:GTOPO30": 40,
+    "ne:ISO_A2": "JP",
+    "ne:LABELRANK": 2,
+    "ne:LATITUDE": 35.685017,
+    "ne:LONGITUDE": 139.751407,
+    "ne:LS_MATCH": 1,
+    "ne:LS_NAME": "Tokyo",
+    "ne:MAX_AREAKM": 5750,
+    "ne:MAX_AREAMI": 2220,
+    "ne:MAX_BBXMAX": 140.433333,
+    "ne:MAX_BBXMIN": 139.536465,
+    "ne:MAX_BBYMAX": 36.241667,
+    "ne:MAX_BBYMIN": 35.486247,
+    "ne:MAX_NATSCA": 300,
+    "ne:MAX_PERKM": 2284,
+    "ne:MAX_PERMI": 1419,
+    "ne:MAX_POP10": 13762740,
+    "ne:MAX_POP20": 24218878,
+    "ne:MAX_POP300": 31303497,
+    "ne:MAX_POP310": 31303497,
+    "ne:MAX_POP50": 31303497,
+    "ne:MEAN_BBXC": 139.75102,
+    "ne:MEAN_BBYC": 35.743469,
+    "ne:MEGACITY": 1,
+    "ne:MEGANAME": "Tokyo",
+    "ne:MIN_AREAKM": 2130,
+    "ne:MIN_AREAMI": 823,
+    "ne:MIN_BBXMAX": 140.433333,
+    "ne:MIN_BBXMIN": 139.166667,
+    "ne:MIN_BBYMAX": 36.05,
+    "ne:MIN_BBYMIN": 35.175,
+    "ne:MIN_PERKM": 838,
+    "ne:MIN_PERMI": 521,
+    "ne:NAME": "Tokyo",
+    "ne:NAMEALT": null,
+    "ne:NAMEASCII": "Tokyo",
+    "ne:NAMEDIFF": 0,
+    "ne:NAMEPAR": null,
+    "ne:NATSCALE": 600,
+    "ne:NOTE": null,
+    "ne:POP1950": 11275,
+    "ne:POP1955": 13713,
+    "ne:POP1960": 16679,
+    "ne:POP1965": 20284,
+    "ne:POP1970": 23298,
+    "ne:POP1975": 26615,
+    "ne:POP1980": 28549,
+    "ne:POP1985": 30304,
+    "ne:POP1990": 32530,
+    "ne:POP1995": 33587,
+    "ne:POP2000": 34450,
+    "ne:POP2005": 35327,
+    "ne:POP2010": 35676,
+    "ne:POP2015": 36094,
+    "ne:POP2020": 36371,
+    "ne:POP2025": 36399,
+    "ne:POP2050": 36400,
+    "ne:POP_MAX": 35676000,
+    "ne:POP_MIN": 8336599,
+    "ne:POP_OTHER": 12945252,
+    "ne:RANK_MAX": 14,
+    "ne:RANK_MIN": 13,
+    "ne:SCALERANK": 0,
+    "ne:SOV0NAME": "Japan",
+    "ne:SOV_A3": "JPN",
+    "ne:TIMEZONE": "Asia/Tokyo",
+    "ne:UN_ADM0": "Japan",
+    "ne:UN_FID": 318,
+    "ne:UN_LAT": 35.68,
+    "ne:UN_LONG": 139.8,
+    "ne:WORLDCITY": 1,
+    "qs:a0": "日本",
+    "qs:a1": "*東京都",
+    "qs:a1r": "*",
+    "qs:adm0": "Japan",
+    "qs:id": 0,
+    "qs:la_lc": "*",
+    "qs:level": "locality",
+    "qs:loc": "Tokyo",
+    "qs:loc_alt": "東京",
+    "qs:loc_lc": "1850147",
+    "qs:pop": 0,
+    "qs:source": "Nquattroshapes",
+    "qs:type": "Town",
+    "sfomuseum:placetype": "city",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632429,
-        85672817,
-        1108741679
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      102191569,
+      85632429,
+      85672817,
+      1108741679
     ],
-    "wof:breaches":[],
-    "wof:capital_of":[
-        85632429
+    "wof:breaches": [],
+    "wof:capital_of": [
+      85632429
     ],
-    "wof:concordances":{
-        "dbp:id":"Tokyo",
-        "fb:id":"en.tokyo",
-        "fct:id":"1340f35c-8f76-11e1-848f-cfd5bf3ef515",
-        "gn:id":1850147,
-        "gp:id":1118370,
-        "loc:id":"n79034998",
-        "nyt:id":"56992597117380105501",
-        "qs_pg:id":301367
+    "wof:concordances": {
+      "dbp:id": "Tokyo",
+      "fb:id": "en.tokyo",
+      "fct:id": "1340f35c-8f76-11e1-848f-cfd5bf3ef515",
+      "gn:id": 1850147,
+      "gp:id": 1118370,
+      "loc:id": "n79034998",
+      "nyt:id": "56992597117380105501",
+      "qs_pg:id": 301367
     },
-    "wof:coterminous":[
-        85672817
+    "wof:coterminous": [
+      85672817
     ],
-    "wof:country":"JP",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "JP",
+    "wof:created": 1660851294,
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"153bcf4c2469ed082e07c5cb0bda259e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632429,
-            "county_id":1108741679,
-            "locality_id":102031307,
-            "region_id":85672817
-        }
+    "wof:geomhash": "153bcf4c2469ed082e07c5cb0bda259e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 1108741679,
+        "locality_id": 102031307,
+        "region_id": 85672817
+      }
     ],
-    "wof:id":102031307,
-    "wof:lang":[
-        "jpn"
+    "wof:id": 102031307,
+    "wof:lang": [
+      "jpn"
     ],
-    "wof:lastmodified":1617130317,
-    "wof:megacity":1,
-    "wof:name":"Tokyo",
-    "wof:parent_id":1108741679,
-    "wof:placetype":"locality",
-    "wof:population":8336599,
-    "wof:population_rank":13,
-    "wof:repo":"whosonfirst-data-admin-jp",
-    "wof:scale":1,
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1660851294,
+    "wof:megacity": 1,
+    "wof:name": "Tokyo",
+    "wof:parent_id": 1108741679,
+    "wof:placetype": "locality",
+    "wof:population": 8336599,
+    "wof:population_rank": 13,
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:scale": 1,
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     139.279417,
     35.53308,
     140.147168,
     35.813461
-],
-  "geometry": {"coordinates":[[[[140.138361,35.742144],[140.13620599999999,35.741955],[140.13404700000001,35.742113],[140.131967,35.742611],[140.13004599999999,35.74343],[140.12835799999999,35.744539],[140.12696800000001,35.745895],[140.12592900000001,35.747447],[140.125281,35.749133],[140.12504899999999,35.75089],[140.12524199999999,35.752651],[140.12585300000001,35.754346],[140.126858,35.755913],[140.128219,35.757289],[140.12988300000001,35.758422],[140.13178600000001,35.759269],[140.13385500000001,35.759797],[140.136011,35.759986],[140.138171,35.759828],[140.14025100000001,35.75933],[140.14217199999999,35.75851],[140.14385999999999,35.757401],[140.14525,35.756045],[140.146289,35.754493],[140.14693700000001,35.752807],[140.14716799999999,35.751049],[140.146974,35.749289],[140.14636300000001,35.747593],[140.14535799999999,35.746027],[140.14399700000001,35.744651],[140.14233300000001,35.743518],[140.14043000000001,35.742672],[140.138361,35.742144]]],[[[139.940969,35.635546],[139.94036299999999,35.633849],[139.93936299999999,35.632282],[139.938008,35.630903],[139.93634900000001,35.629768],[139.934451,35.628918],[139.93238700000001,35.628386],[139.93145000000001,35.628303],[139.93033199999999,35.627802],[139.92826700000001,35.62727],[139.927797,35.627228],[139.92733999999999,35.626764],[139.927423,35.626146],[139.927322,35.6252],[139.92682500000001,35.625676],[139.924622,35.630194],[139.921875,35.633574],[139.921875,35.634977],[139.916382,35.634977],[139.916382,35.639441],[139.916382,35.641673],[139.916382,35.643905],[139.919128,35.643905],[139.921875,35.643905],[139.921875,35.648369],[139.92550199999999,35.652833],[139.92702199999999,35.653768],[139.93182400000001,35.652923],[139.932346,35.652581],[139.93373800000001,35.651227],[139.93477899999999,35.649678],[139.93543,35.647992],[139.935666,35.646235],[139.93553600000001,35.64502],[139.936151,35.644759],[139.937839,35.643652],[139.93923100000001,35.642299],[139.94027199999999,35.640749],[139.940922,35.639063],[139.941158,35.637306],[139.940969,35.635546]]],[[[139.79964100000001,35.803909],[139.80103399999999,35.80332],[139.80215899999999,35.803824],[139.804227,35.804358],[139.805204,35.804446],[139.80517,35.804448],[139.815698,35.804448],[139.81750500000001,35.799994],[139.81750500000001,35.794854],[139.81750199999999,35.794879],[139.817397,35.793887],[139.81679199999999,35.79219],[139.81608199999999,35.791076],[139.816689,35.790177],[139.81734299999999,35.788493],[139.81758199999999,35.786736],[139.817395,35.784975],[139.81679099999999,35.783278],[139.81579199999999,35.78171],[139.814436,35.78033],[139.81277600000001,35.779192],[139.81087600000001,35.778341],[139.81037799999999,35.778212],[139.811498,35.777481],[139.812298,35.776706],[139.81314800000001,35.777087],[139.81521599999999,35.77762],[139.81737100000001,35.777815],[139.81953200000001,35.777663],[139.82161500000001,35.77717],[139.82354000000001,35.776356],[139.825232,35.775251],[139.826628,35.773899],[139.827673,35.77235],[139.828327,35.770665],[139.828495,35.769431],[139.82860299999999,35.770454],[139.82920799999999,35.772151],[139.830207,35.77372],[139.83156299999999,35.775099],[139.833223,35.776236],[139.83512300000001,35.777088],[139.83719099999999,35.777621],[139.839347,35.777815],[139.84150700000001,35.777663],[139.84359000000001,35.77717],[139.844979,35.776581],[139.84611100000001,35.777088],[139.84817799999999,35.777621],[139.849186,35.777712],[139.84915799999999,35.777714],[139.85176899999999,35.777714],[139.852495,35.777662],[139.85457700000001,35.777169],[139.85650200000001,35.776354],[139.858194,35.775249],[139.859589,35.773896],[139.860634,35.772347],[139.861287,35.770662],[139.861525,35.768906],[139.86152300000001,35.768886],[139.863482,35.768748],[139.86556400000001,35.768254],[139.866952,35.767667],[139.86808600000001,35.768175],[139.87015400000001,35.768707],[139.872309,35.7689],[139.87447,35.768747],[139.876552,35.768254],[139.87847600000001,35.767439],[139.880168,35.766333],[139.881562,35.76498],[139.88260600000001,35.763431],[139.88325900000001,35.761746],[139.88349600000001,35.759989],[139.88349400000001,35.759971],[139.885457,35.759832],[139.88638900000001,35.759611],[139.886482,35.75987],[139.88633300000001,35.760256],[139.886155,35.76157],[139.88623699999999,35.761536],[139.887576,35.759886],[139.88891599999999,35.757134],[139.88891599999999,35.755428],[139.88891599999999,35.746512],[139.89119400000001,35.746512],[139.894409,35.74255],[139.894409,35.742054],[139.894409,35.741556],[139.89119400000001,35.737595],[139.88891599999999,35.737595],[139.88891599999999,35.733136],[139.88891599999999,35.728677],[139.88891599999999,35.724218],[139.88891599999999,35.719758],[139.89119400000001,35.719758],[139.89233400000001,35.715548],[139.892537,35.715297],[139.88891599999999,35.710838],[139.883655,35.704359],[139.88359399999999,35.704519],[139.88335699999999,35.706275],[139.88335900000001,35.706297],[139.88139000000001,35.706436],[139.87930900000001,35.70693],[139.87792099999999,35.707519],[139.87678299999999,35.707009],[139.874717,35.706477],[139.87256300000001,35.706283],[139.87040500000001,35.706436],[139.868324,35.70693],[139.86693500000001,35.707519],[139.86579800000001,35.707009],[139.863732,35.706477],[139.86157800000001,35.706283],[139.85942,35.706436],[139.857339,35.706929],[139.85541599999999,35.707744],[139.853725,35.708849],[139.85233099999999,35.710202],[139.85128800000001,35.711751],[139.85063400000001,35.713436],[139.85039699999999,35.715193],[139.850584,35.716953],[139.85118900000001,35.718651],[139.85218800000001,35.720219],[139.853543,35.721598],[139.85520199999999,35.722735],[139.857101,35.723586],[139.85916800000001,35.724119],[139.86024599999999,35.724216],[139.859419,35.724274],[139.857338,35.724768],[139.85594800000001,35.725356],[139.854814,35.724848],[139.85274799999999,35.724315],[139.850593,35.724122],[139.848434,35.724274],[139.84635299999999,35.724767],[139.84496200000001,35.725356],[139.843829,35.724849],[139.84176199999999,35.724316],[139.839608,35.724122],[139.83744899999999,35.724274],[139.83536799999999,35.724767],[139.83344399999999,35.725581],[139.83175299999999,35.726686],[139.83035799999999,35.728039],[139.82931400000001,35.729587],[139.82866000000001,35.731272],[139.828487,35.732547],[139.828374,35.731484],[139.82776999999999,35.729786],[139.82705899999999,35.72867],[139.82766799999999,35.727767],[139.82832099999999,35.726082],[139.82856000000001,35.724326],[139.82855699999999,35.724298],[139.83051800000001,35.72416],[139.83260000000001,35.723667],[139.83452299999999,35.722853],[139.83621500000001,35.721748],[139.83760899999999,35.720395],[139.83865299999999,35.718847],[139.83930699999999,35.717162],[139.83954499999999,35.715405],[139.83954199999999,35.715378],[139.84150600000001,35.715239],[139.84358700000001,35.714746],[139.84550999999999,35.713932],[139.84720100000001,35.712827],[139.84859499999999,35.711474],[139.849639,35.709925],[139.850292,35.70824],[139.85052999999999,35.706483],[139.850527,35.706457],[139.85249300000001,35.706318],[139.85457400000001,35.705824],[139.85649599999999,35.70501],[139.85818699999999,35.703904],[139.85958099999999,35.702551],[139.860625,35.701003],[139.861278,35.699317],[139.861515,35.697561],[139.861512,35.697534],[139.86348000000001,35.697395],[139.86556100000001,35.696901],[139.86748299999999,35.696086],[139.86917399999999,35.694981],[139.87056699999999,35.693628],[139.87161,35.692079],[139.872263,35.690394],[139.87244100000001,35.689073],[139.87255999999999,35.690191],[139.872682,35.690532],[139.87792899999999,35.684072],[139.87792999999999,35.684072],[139.87792999999999,35.675147],[139.87803299999999,35.675021],[139.87792999999999,35.674641],[139.87792999999999,35.666222],[139.87792999999999,35.663416],[139.87944999999999,35.661545],[139.87896599999999,35.658572],[139.87792999999999,35.657296],[139.87544299999999,35.654235],[139.87243699999999,35.653707],[139.86694299999999,35.654673],[139.86345399999999,35.652832],[139.860342,35.652832],[139.859421,35.652897],[139.85734199999999,35.653391],[139.85542000000001,35.654206],[139.85373000000001,35.655311],[139.85233700000001,35.656664],[139.851294,35.658213],[139.850641,35.659898],[139.850404,35.661654],[139.85059100000001,35.663415],[139.85119499999999,35.665112],[139.85190600000001,35.666228],[139.851293,35.667138],[139.85064,35.668823],[139.850403,35.67058],[139.85059000000001,35.672341],[139.85119399999999,35.674038],[139.85190499999999,35.675153],[139.851292,35.676063],[139.850639,35.677748],[139.850459,35.679081],[139.85033899999999,35.677955],[139.84973500000001,35.676258],[139.848736,35.674689],[139.84738200000001,35.67331],[139.84572399999999,35.672173],[139.84382600000001,35.671322],[139.84176099999999,35.670789],[139.839608,35.670595],[139.83744999999999,35.670747],[139.83537000000001,35.67124],[139.833448,35.672055],[139.83175800000001,35.67316],[139.83095499999999,35.673939],[139.830094,35.673553],[139.82812200000001,35.673044],[139.82831400000001,35.672549],[139.828552,35.670793],[139.82836599999999,35.669032],[139.82776200000001,35.667335],[139.826764,35.665767],[139.82541000000001,35.664387],[139.82375200000001,35.66325],[139.821855,35.662398],[139.81979000000001,35.661865],[139.81763799999999,35.66167],[139.81548000000001,35.661822],[139.813401,35.662315],[139.812003,35.662907],[139.81086999999999,35.662398],[139.80889400000001,35.661888],[139.80908600000001,35.661394],[139.80918700000001,35.660648],[139.80980500000001,35.659731],[139.81045900000001,35.658047],[139.810697,35.65629],[139.81051099999999,35.654529],[139.80990800000001,35.652832],[139.809189,35.651702],[139.80932300000001,35.650711],[139.80913699999999,35.64895],[139.80853400000001,35.647253],[139.807536,35.645684],[139.806183,35.644304],[139.80562699999999,35.643923],[139.80638400000001,35.643991],[139.80854199999999,35.643839],[139.810621,35.643347],[139.81254200000001,35.642532],[139.814232,35.641428],[139.81562600000001,35.640075],[139.81666899999999,35.638527],[139.81732299999999,35.636842],[139.81756100000001,35.635085],[139.817375,35.633325],[139.81677099999999,35.631627],[139.815774,35.630059],[139.81442100000001,35.628679],[139.81276399999999,35.627542],[139.810868,35.62669],[139.80880400000001,35.626157],[139.80758499999999,35.626046],[139.80854099999999,35.625979],[139.81062,35.625487],[139.81254100000001,35.624672],[139.81423100000001,35.623568],[139.81562400000001,35.622215],[139.816667,35.620667],[139.81732,35.618982],[139.81755799999999,35.617225],[139.81737200000001,35.615464],[139.81676899999999,35.613767],[139.81577200000001,35.612199],[139.81441899999999,35.610819],[139.81276299999999,35.609682],[139.810867,35.60883],[139.80880300000001,35.608296],[139.80665200000001,35.608102],[139.804496,35.608254],[139.80241799999999,35.608746],[139.80049700000001,35.60956],[139.79880800000001,35.610665],[139.797414,35.612017],[139.79637099999999,35.613565],[139.795717,35.61525],[139.795479,35.617006],[139.79548299999999,35.617045],[139.793511,35.617184],[139.79143199999999,35.617676],[139.79003,35.61827],[139.78889699999999,35.617761],[139.78700900000001,35.617273],[139.78655800000001,35.616003],[139.785561,35.614434],[139.784209,35.613054],[139.78255300000001,35.611916],[139.78065699999999,35.611064],[139.778594,35.61053],[139.776443,35.610335],[139.77428699999999,35.610486],[139.77357900000001,35.610654],[139.77318,35.61055],[139.77337299999999,35.610054],[139.77345199999999,35.609474],[139.77265700000001,35.609365],[139.76820599999999,35.612651],[139.768066,35.613165],[139.768066,35.617116],[139.768066,35.621582],[139.76578599999999,35.621582],[139.762573,35.625534],[139.762573,35.626047],[139.762573,35.626559],[139.75935999999999,35.630512],[139.75708,35.630512],[139.746094,35.630512],[139.743347,35.630512],[139.740601,35.630512],[139.735107,35.630512],[139.729614,35.630512],[139.729614,35.634977],[139.724121,35.634977],[139.724121,35.639441],[139.718628,35.639441],[139.71313499999999,35.639441],[139.70764199999999,35.639441],[139.70214799999999,35.639441],[139.70214799999999,35.630512],[139.69665499999999,35.630512],[139.69665499999999,35.626047],[139.69484,35.623814],[139.69116199999999,35.623814],[139.69116199999999,35.621582],[139.69116199999999,35.612651],[139.68017599999999,35.612651],[139.67468299999999,35.612651],[139.67468299999999,35.617116],[139.67416499999999,35.617754],[139.673732,35.620413],[139.67468299999999,35.621582],[139.67468299999999,35.626047],[139.68017599999999,35.626047],[139.68017599999999,35.630512],[139.69116199999999,35.630512],[139.69116199999999,35.639441],[139.68566899999999,35.639441],[139.68566899999999,35.643905],[139.68566899999999,35.648369],[139.68566899999999,35.652833],[139.68566899999999,35.657296],[139.68017599999999,35.657296],[139.68017599999999,35.666222],[139.68017599999999,35.670685],[139.67468299999999,35.670685],[139.67468299999999,35.675147],[139.66918899999999,35.675147],[139.65820299999999,35.675147],[139.65820299999999,35.684072],[139.64721700000001,35.684072],[139.64359300000001,35.688533],[139.63623000000001,35.688533],[139.62886800000001,35.688533],[139.62524400000001,35.692994],[139.62524400000001,35.692995],[139.621621,35.697455],[139.61425800000001,35.697455],[139.60689400000001,35.697455],[139.60668999999999,35.697707],[139.60327100000001,35.69911],[139.60327100000001,35.701917],[139.59777800000001,35.701917],[139.59777800000001,35.706377],[139.595032,35.70976],[139.595032,35.710261],[139.59456399999999,35.710838],[139.592285,35.710838],[139.581299,35.710838],[139.581299,35.717528],[139.57761600000001,35.717528],[139.575806,35.719758],[139.570313,35.719758],[139.570313,35.724218],[139.570313,35.728677],[139.575806,35.728677],[139.575806,35.733136],[139.58007699999999,35.738398],[139.57829699999999,35.742054],[139.580468,35.746512],[139.578744,35.757133],[139.57885999999999,35.757252],[139.58051599999999,35.758392],[139.582413,35.759248],[139.58447799999999,35.759785],[139.58663300000001,35.759984],[139.58879300000001,35.759836],[139.59087700000001,35.759347],[139.592803,35.758537],[139.59411399999999,35.757685],[139.59487300000001,35.757755],[139.59703400000001,35.757607],[139.59821199999999,35.757331],[139.597949,35.758001],[139.59770599999999,35.759757],[139.59788800000001,35.761518],[139.59848700000001,35.763217],[139.59948199999999,35.764787],[139.60083299999999,35.766169],[139.60248999999999,35.767309],[139.604387,35.768164],[139.60645299999999,35.768701],[139.60750200000001,35.768798],[139.607471,35.7688],[139.61425800000001,35.7688],[139.61772099999999,35.770934],[139.61850699999999,35.777714],[139.61772099999999,35.784491],[139.62869900000001,35.790291],[139.62768399999999,35.789254],[139.62716,35.788894],[139.627836,35.788956],[139.629997,35.788808],[139.63071500000001,35.788639],[139.63117399999999,35.788758],[139.63333,35.788956],[139.635491,35.788808],[139.637575,35.788318],[139.63950199999999,35.787507],[139.64080799999999,35.786658],[139.64157,35.786728],[139.643731,35.786579],[139.645815,35.78609],[139.64722699999999,35.785495],[139.648336,35.785994],[139.65040300000001,35.786531],[139.652558,35.786728],[139.654719,35.786579],[139.656803,35.786089],[139.65821299999999,35.785495],[139.659323,35.785995],[139.66129799999999,35.786507],[139.661115,35.786976],[139.66087300000001,35.788732],[139.661056,35.790493],[139.661258,35.791064],[139.661115,35.791432],[139.660943,35.792675],[139.66195300000001,35.794543],[139.66631100000001,35.797766],[139.67468299999999,35.797766],[139.67829699999999,35.795538],[139.67883900000001,35.795538],[139.68017599999999,35.79389],[139.68017599999999,35.791083],[139.68245300000001,35.791083],[139.68606700000001,35.786626],[139.68809999999999,35.786626],[139.688052,35.786491],[139.68976499999999,35.786088],[139.69169199999999,35.785276],[139.693386,35.784173],[139.694784,35.782822],[139.695832,35.781275],[139.69648900000001,35.779591],[139.69673,35.777835],[139.69672700000001,35.777799],[139.698669,35.777665],[139.70075199999999,35.777174],[139.70267799999999,35.776362],[139.704373,35.775259],[139.70577,35.773908],[139.706818,35.77236],[139.70747499999999,35.770676],[139.70764600000001,35.76943],[139.707752,35.770443],[139.70835400000001,35.772141],[139.709067,35.773264],[139.70846399999999,35.774155],[139.707807,35.77584],[139.70756600000001,35.777596],[139.70775,35.779357],[139.70835299999999,35.781054],[139.70935,35.782624],[139.710703,35.784004],[139.71139700000001,35.784481],[139.718628,35.785754],[139.724121,35.784787],[139.72644199999999,35.783561],[139.72834,35.781941],[139.728793,35.781272],[139.72944899999999,35.779588],[139.72969000000001,35.777832],[139.72950499999999,35.776071],[139.72890200000001,35.774373],[139.72818899999999,35.77325],[139.728792,35.772359],[139.72944799999999,35.770674],[139.72968800000001,35.768918],[139.72950399999999,35.767157],[139.72890100000001,35.765459],[139.727904,35.76389],[139.72655,35.76251],[139.72489200000001,35.761371],[139.722994,35.760518],[139.72092699999999,35.759983],[139.71987899999999,35.759887],[139.72064399999999,35.759834],[139.72272699999999,35.759343],[139.72465199999999,35.758531],[139.72634600000001,35.757427],[139.727743,35.756076],[139.72878900000001,35.754528],[139.729445,35.752844],[139.72961900000001,35.751579],[139.729727,35.752615],[139.73033000000001,35.754312],[139.73132699999999,35.755882],[139.73267999999999,35.757262],[139.73433800000001,35.758401],[139.73623699999999,35.759254],[139.738304,35.759789],[139.74045899999999,35.759984],[139.74261899999999,35.759834],[139.74470199999999,35.759343],[139.74610300000001,35.758751],[139.74722499999999,35.759254],[139.749291,35.759789],[139.75144599999999,35.759984],[139.75360599999999,35.759834],[139.75568899999999,35.759342],[139.75708900000001,35.758751],[139.75821199999999,35.759255],[139.760279,35.759789],[139.76243400000001,35.759985],[139.76459399999999,35.759833],[139.76667599999999,35.759342],[139.76860099999999,35.758528],[139.77029400000001,35.757425],[139.771691,35.756073],[139.77273700000001,35.754525],[139.773392,35.75284],[139.77346,35.752344],[139.774168,35.75283],[139.77606700000001,35.753683],[139.77645999999999,35.753784],[139.77542700000001,35.754785],[139.77438100000001,35.756333],[139.77372600000001,35.758017],[139.77348599999999,35.759774],[139.773672,35.761534],[139.77427499999999,35.763232],[139.77498700000001,35.76435],[139.77438000000001,35.765247],[139.77372500000001,35.766932],[139.77348499999999,35.768688],[139.77348799999999,35.768715],[139.77153799999999,35.768851],[139.76945499999999,35.769343],[139.768057,35.769933],[139.76693499999999,35.76943],[139.76486800000001,35.768895],[139.76271299999999,35.7687],[139.76055199999999,35.768851],[139.75846999999999,35.769343],[139.75654399999999,35.770156],[139.754851,35.771259],[139.753454,35.772611],[139.75240700000001,35.774159],[139.75238200000001,35.774225],[139.75585599999999,35.781364],[139.756947,35.78217],[139.75708,35.782662],[139.75708,35.791083],[139.768066,35.791083],[139.768067,35.791083],[139.77333300000001,35.797575],[139.77339799999999,35.797408],[139.773563,35.796199],[139.77366699999999,35.797187],[139.774271,35.798884],[139.77526900000001,35.800453],[139.776624,35.801833],[139.77828400000001,35.802971],[139.78018399999999,35.803824],[139.782252,35.804358],[139.78440900000001,35.804553],[139.78657000000001,35.804401],[139.78865400000001,35.803909],[139.79004800000001,35.80332],[139.79117199999999,35.803824],[139.79324,35.804358],[139.79539600000001,35.804553],[139.79755800000001,35.804401],[139.79964100000001,35.803909]]],[[[139.83077499999999,35.635085],[139.82862299999999,35.634891],[139.82646600000001,35.635043],[139.824387,35.635536],[139.82246599999999,35.63635],[139.820776,35.637455],[139.81938199999999,35.638807],[139.81833900000001,35.640356],[139.81768600000001,35.642041],[139.81744800000001,35.643797],[139.817634,35.645558],[139.81823700000001,35.647255],[139.81895,35.648375],[139.81833800000001,35.649283],[139.81768500000001,35.650968],[139.81744599999999,35.652725],[139.817633,35.654485],[139.81823600000001,35.656183],[139.81923399999999,35.657751],[139.82058799999999,35.659131],[139.82224500000001,35.660268],[139.82414199999999,35.66112],[139.82620700000001,35.661653],[139.82836,35.661847],[139.83051699999999,35.661695],[139.83259699999999,35.661202],[139.834518,35.660388],[139.836209,35.659283],[139.837602,35.65793],[139.83864500000001,35.656381],[139.83929800000001,35.654696],[139.83953600000001,35.65294],[139.839349,35.651179],[139.83874499999999,35.649482],[139.838033,35.648362],[139.83864399999999,35.647454],[139.83929699999999,35.645769],[139.83953500000001,35.644012],[139.839348,35.642251],[139.83874399999999,35.640554],[139.83774600000001,35.638986],[139.83639299999999,35.637607],[139.83473599999999,35.636469],[139.83283900000001,35.635618],[139.83077499999999,35.635085]]],[[[139.77580800000001,35.555055],[139.77822499999999,35.550105],[139.77749800000001,35.545636],[139.77886000000001,35.537261],[139.77870899999999,35.537106],[139.77705499999999,35.535968],[139.77516,35.535116],[139.773099,35.534582],[139.770951,35.534387],[139.76988900000001,35.534461],[139.770274,35.53421],[139.77143699999999,35.53308],[139.76457199999999,35.536696],[139.75708,35.536696],[139.75218100000001,35.539706],[139.75099399999999,35.542624],[139.75708,35.550105],[139.760324,35.554093],[139.76492099999999,35.553286],[139.77121099999999,35.555863],[139.77580800000001,35.555055]]],[[[139.71313499999999,35.585852],[139.71313499999999,35.576917],[139.724121,35.576917],[139.724121,35.56798],[139.729614,35.56798],[139.730966,35.56798],[139.734072,35.566708],[139.733552,35.563512],[139.734072,35.560315],[139.735107,35.559043],[139.740601,35.552291],[139.740601,35.549011],[139.733946,35.544922],[139.729614,35.54433],[139.72872000000001,35.544452],[139.72426300000001,35.541166],[139.724121,35.541166],[139.71313499999999,35.541166],[139.71313499999999,35.545636],[139.70764199999999,35.545636],[139.70764199999999,35.550105],[139.70214799999999,35.550105],[139.70214799999999,35.558521],[139.70204200000001,35.558913],[139.69972000000001,35.558342],[139.69800799999999,35.559043],[139.69116199999999,35.559043],[139.69116199999999,35.56798],[139.68017599999999,35.56798],[139.680035,35.56798],[139.67925399999999,35.568556],[139.67789400000001,35.576916],[139.67620400000001,35.578994],[139.67600300000001,35.580721],[139.68017599999999,35.585851],[139.68017599999999,35.585852],[139.69116199999999,35.585852],[139.69116199999999,35.585851],[139.694796,35.581384],[139.69851499999999,35.581384],[139.70214799999999,35.585851],[139.70214799999999,35.585852],[139.71313499999999,35.585852]]],[[[139.52057400000001,35.778122],[139.520037,35.777752],[139.52070699999999,35.777814],[139.52286799999999,35.777667],[139.52495300000001,35.77718],[139.52688000000001,35.77637],[139.52857700000001,35.77527],[139.529977,35.773921],[139.53102799999999,35.772375],[139.531689,35.770692],[139.53193400000001,35.768936],[139.53192799999999,35.768883],[139.53385499999999,35.768752],[139.53594000000001,35.768265],[139.53735399999999,35.767671],[139.53735399999999,35.764343],[139.53735399999999,35.755428],[139.52636699999999,35.755428],[139.522749,35.75097],[139.519609,35.75097],[139.51888099999999,35.751019],[139.516797,35.751507],[139.51487,35.752316],[139.51317299999999,35.753416],[139.51177300000001,35.754765],[139.51072199999999,35.756311],[139.51006100000001,35.757994],[139.50988799999999,35.759235],[139.50988799999999,35.764343],[139.50988799999999,35.768194],[139.511923,35.774048],[139.52157399999999,35.779146],[139.52057400000001,35.778122]]],[[[139.53144699999999,35.661759],[139.53507300000001,35.657296],[139.53735399999999,35.657296],[139.53735399999999,35.648369],[139.53735399999999,35.645051],[139.537342,35.645056],[139.536238,35.644557],[139.534176,35.644019],[139.532025,35.643819],[139.52986799999999,35.643966],[139.52778699999999,35.644454],[139.52636699999999,35.645051],[139.52636699999999,35.648369],[139.52636699999999,35.657296],[139.52636699999999,35.661759],[139.53144699999999,35.661759]]],[[[139.52911399999999,35.684072],[139.52636699999999,35.684072],[139.52636699999999,35.686302],[139.52636699999999,35.688533],[139.52911399999999,35.688533],[139.53048699999999,35.688533],[139.53185999999999,35.688533],[139.53185999999999,35.687418],[139.53185999999999,35.686302],[139.53185999999999,35.685187],[139.53185999999999,35.684198],[139.531826,35.684072],[139.53048699999999,35.684072],[139.52911399999999,35.684072]]],[[[139.46664899999999,35.68104],[139.47143500000001,35.675147],[139.47143600000001,35.675147],[139.48242200000001,35.675147],[139.486479,35.675147],[139.48647399999999,35.675138],[139.48706899999999,35.674263],[139.487729,35.67258],[139.48797400000001,35.670824],[139.48779500000001,35.669063],[139.487199,35.667364],[139.48620700000001,35.665793],[139.48486,35.66441],[139.48320699999999,35.663268],[139.481313,35.662411],[139.479251,35.661872],[139.47710000000001,35.661672],[139.47696500000001,35.661681],[139.47680800000001,35.660138],[139.476212,35.65844],[139.475221,35.656868],[139.473873,35.655485],[139.47222099999999,35.654343],[139.47032799999999,35.653486],[139.468266,35.652947],[139.466115,35.652746],[139.46395699999999,35.652892],[139.46187599999999,35.653378],[139.46043700000001,35.653982],[139.45934299999999,35.653486],[139.45728099999999,35.652947],[139.45513,35.652746],[139.45499100000001,35.652756],[139.454835,35.651214],[139.454239,35.649515],[139.45351099999999,35.64836],[139.454105,35.647486],[139.45476600000001,35.645803],[139.45501200000001,35.644047],[139.45483300000001,35.642286],[139.454238,35.640587],[139.453247,35.639016],[139.45189999999999,35.637632],[139.450568,35.636711],[139.45078000000001,35.636661],[139.45270500000001,35.635853],[139.45403400000001,35.63499],[139.45478299999999,35.63506],[139.45694,35.634915],[139.45902100000001,35.634428],[139.46044900000001,35.633828],[139.46044900000001,35.630512],[139.46044900000001,35.621582],[139.458169,35.621582],[139.45335,35.615654],[139.452586,35.612835],[139.44908899999999,35.611115],[139.444873,35.611586],[139.438579,35.617116],[139.440031,35.626047],[139.43930499999999,35.630512],[139.44171600000001,35.635455],[139.43847700000001,35.639441],[139.43847600000001,35.639441],[139.43298300000001,35.6462],[139.43298300000001,35.648369],[139.43298300000001,35.657296],[139.43847700000001,35.657296],[139.44946300000001,35.657296],[139.44946300000001,35.666222],[139.46044900000001,35.666222],[139.46044900000001,35.675147],[139.46417700000001,35.679736],[139.46664899999999,35.68104]]],[[[139.47304299999999,35.706702],[139.47692900000001,35.701917],[139.47692900000001,35.697456],[139.47143600000001,35.697456],[139.47143600000001,35.701917],[139.47143600000001,35.704723],[139.47304299999999,35.706702]]],[[[139.43218400000001,35.709846],[139.42749000000001,35.700213],[139.42749000000001,35.697456],[139.42749000000001,35.694697],[139.42832000000001,35.692995],[139.42901000000001,35.688748],[139.42749000000001,35.686878],[139.42749000000001,35.684072],[139.416504,35.684072],[139.416504,35.684071],[139.41244499999999,35.684071],[139.412451,35.68408],[139.41185899999999,35.68495],[139.41119599999999,35.686632],[139.41094899999999,35.688388],[139.410956,35.688458],[139.409031,35.688587],[139.406948,35.689073],[139.405021,35.689881],[139.403325,35.690979],[139.40192400000001,35.692327],[139.40087199999999,35.693871],[139.40020899999999,35.695554],[139.39996199999999,35.697309],[139.399969,35.69738],[139.39804599999999,35.697509],[139.39596299999999,35.697994],[139.394036,35.698802],[139.39233899999999,35.6999],[139.39093700000001,35.701248],[139.38988499999999,35.702792],[139.38922199999999,35.704474],[139.38897399999999,35.70623],[139.389151,35.707991],[139.389746,35.70969],[139.390736,35.711262],[139.39208300000001,35.712646],[139.39373499999999,35.713789],[139.39562900000001,35.714648],[139.39769200000001,35.715188],[139.399844,35.71539],[139.40200400000001,35.715246],[139.404087,35.71476],[139.406014,35.713953],[139.40771100000001,35.712854],[139.40911299999999,35.711506],[139.41016500000001,35.709962],[139.41082700000001,35.708279],[139.41101699999999,35.706931],[139.411124,35.707993],[139.41171900000001,35.709692],[139.41271,35.711264],[139.41405700000001,35.712648],[139.41570999999999,35.713791],[139.41760400000001,35.714649],[139.419667,35.715189],[139.421819,35.71539],[139.423979,35.715245],[139.426062,35.71476],[139.427989,35.713952],[139.429686,35.712853],[139.43108699999999,35.711505],[139.43213900000001,35.70996],[139.43218400000001,35.709846]]],[[[139.29614699999999,35.81203],[139.29748699999999,35.811166],[139.29820900000001,35.811234],[139.30037100000001,35.811091],[139.302457,35.810608],[139.30438799999999,35.809802],[139.30608799999999,35.808705],[139.30749299999999,35.807358],[139.308549,35.805815],[139.309214,35.804133],[139.30946399999999,35.802378],[139.30937700000001,35.801502],[139.310239,35.800675],[139.311294,35.799131],[139.31196,35.797449],[139.31220999999999,35.795694],[139.31203400000001,35.793933],[139.31144,35.792234],[139.310451,35.790661],[139.30910499999999,35.789276],[139.30745200000001,35.788132],[139.30555799999999,35.787272],[139.303493,35.78673],[139.30242999999999,35.786629],[139.30247299999999,35.786626],[139.29982200000001,35.786626],[139.29917800000001,35.786669],[139.29709199999999,35.787152],[139.295162,35.787958],[139.29346200000001,35.789055],[139.292057,35.790401],[139.29100099999999,35.791945],[139.290336,35.793626],[139.290156,35.794885],[139.29006200000001,35.793935],[139.289917,35.793521],[139.28466800000001,35.799994],[139.279417,35.806467],[139.279866,35.807752],[139.280855,35.809325],[139.28220099999999,35.81071],[139.28385399999999,35.811855],[139.28574800000001,35.812715],[139.287813,35.813257],[139.28996799999999,35.813461],[139.29212999999999,35.813319],[139.294217,35.812835],[139.29614699999999,35.81203]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[140.138361,35.742144],[140.136206,35.741955],[140.134047,35.742113],[140.131967,35.742611],[140.130046,35.74343],[140.128358,35.744539],[140.126968,35.745895],[140.125929,35.747447],[140.125281,35.749133],[140.125049,35.75089],[140.125242,35.752651],[140.125853,35.754346],[140.126858,35.755913],[140.128219,35.757289],[140.129883,35.758422],[140.131786,35.759269],[140.133855,35.759797],[140.136011,35.759986],[140.138171,35.759828],[140.140251,35.75933],[140.142172,35.75851],[140.14386,35.757401],[140.14525,35.756045],[140.146289,35.754493],[140.146937,35.752807],[140.147168,35.751049],[140.146974,35.749289],[140.146363,35.747593],[140.145358,35.746027],[140.143997,35.744651],[140.142333,35.743518],[140.14043,35.742672],[140.138361,35.742144]]],[[[139.940969,35.635546],[139.940363,35.633849],[139.939363,35.632282],[139.938008,35.630903],[139.936349,35.629768],[139.934451,35.628918],[139.932387,35.628386],[139.93145,35.628303],[139.930332,35.627802],[139.928267,35.62727],[139.927797,35.627228],[139.92734,35.626764],[139.927423,35.626146],[139.927322,35.6252],[139.926825,35.625676],[139.924622,35.630194],[139.921875,35.633574],[139.921875,35.634977],[139.916382,35.634977],[139.916382,35.639441],[139.916382,35.641673],[139.916382,35.643905],[139.919128,35.643905],[139.921875,35.643905],[139.921875,35.648369],[139.925502,35.652833],[139.927022,35.653768],[139.931824,35.652923],[139.932346,35.652581],[139.933738,35.651227],[139.934779,35.649678],[139.93543,35.647992],[139.935666,35.646235],[139.935536,35.64502],[139.936151,35.644759],[139.937839,35.643652],[139.939231,35.642299],[139.940272,35.640749],[139.940922,35.639063],[139.941158,35.637306],[139.940969,35.635546]]],[[[139.799641,35.803909],[139.801034,35.80332],[139.802159,35.803824],[139.804227,35.804358],[139.805204,35.804446],[139.80517,35.804448],[139.815698,35.804448],[139.817505,35.799994],[139.817505,35.794854],[139.817502,35.794879],[139.817397,35.793887],[139.816792,35.79219],[139.816082,35.791076],[139.816689,35.790177],[139.817343,35.788493],[139.817582,35.786736],[139.817395,35.784975],[139.816791,35.783278],[139.815792,35.78171],[139.814436,35.78033],[139.812776,35.779192],[139.810876,35.778341],[139.810378,35.778212],[139.811498,35.777481],[139.812298,35.776706],[139.813148,35.777087],[139.815216,35.77762],[139.817371,35.777815],[139.819532,35.777663],[139.821615,35.77717],[139.82354,35.776356],[139.825232,35.775251],[139.826628,35.773899],[139.827673,35.77235],[139.828327,35.770665],[139.828495,35.769431],[139.828603,35.770454],[139.829208,35.772151],[139.830207,35.77372],[139.831563,35.775099],[139.833223,35.776236],[139.835123,35.777088],[139.837191,35.777621],[139.839347,35.777815],[139.841507,35.777663],[139.84359,35.77717],[139.844979,35.776581],[139.846111,35.777088],[139.848178,35.777621],[139.849186,35.777712],[139.849158,35.777714],[139.851769,35.777714],[139.852495,35.777662],[139.854577,35.777169],[139.856502,35.776354],[139.858194,35.775249],[139.859589,35.773896],[139.860634,35.772347],[139.861287,35.770662],[139.861525,35.768906],[139.861523,35.768886],[139.863482,35.768748],[139.865564,35.768254],[139.866952,35.767667],[139.868086,35.768175],[139.870154,35.768707],[139.872309,35.7689],[139.87447,35.768747],[139.876552,35.768254],[139.878476,35.767439],[139.880168,35.766333],[139.881562,35.76498],[139.882606,35.763431],[139.883259,35.761746],[139.883496,35.759989],[139.883494,35.759971],[139.885457,35.759832],[139.886389,35.759611],[139.886482,35.75987],[139.886333,35.760256],[139.886155,35.76157],[139.886237,35.761536],[139.887576,35.759886],[139.888916,35.757134],[139.888916,35.755428],[139.888916,35.746512],[139.891194,35.746512],[139.894409,35.74255],[139.894409,35.742054],[139.894409,35.741556],[139.891194,35.737595],[139.888916,35.737595],[139.888916,35.733136],[139.888916,35.728677],[139.888916,35.724218],[139.888916,35.719758],[139.891194,35.719758],[139.892334,35.715548],[139.892537,35.715297],[139.888916,35.710838],[139.883655,35.704359],[139.883594,35.704519],[139.883357,35.706275],[139.883359,35.706297],[139.88139,35.706436],[139.879309,35.70693],[139.877921,35.707519],[139.876783,35.707009],[139.874717,35.706477],[139.872563,35.706283],[139.870405,35.706436],[139.868324,35.70693],[139.866935,35.707519],[139.865798,35.707009],[139.863732,35.706477],[139.861578,35.706283],[139.85942,35.706436],[139.857339,35.706929],[139.855416,35.707744],[139.853725,35.708849],[139.852331,35.710202],[139.851288,35.711751],[139.850634,35.713436],[139.850397,35.715193],[139.850584,35.716953],[139.851189,35.718651],[139.852188,35.720219],[139.853543,35.721598],[139.855202,35.722735],[139.857101,35.723586],[139.859168,35.724119],[139.860246,35.724216],[139.859419,35.724274],[139.857338,35.724768],[139.855948,35.725356],[139.854814,35.724848],[139.852748,35.724315],[139.850593,35.724122],[139.848434,35.724274],[139.846353,35.724767],[139.844962,35.725356],[139.843829,35.724849],[139.841762,35.724316],[139.839608,35.724122],[139.837449,35.724274],[139.835368,35.724767],[139.833444,35.725581],[139.831753,35.726686],[139.830358,35.728039],[139.829314,35.729587],[139.82866,35.731272],[139.828487,35.732547],[139.828374,35.731484],[139.82777,35.729786],[139.827059,35.72867],[139.827668,35.727767],[139.828321,35.726082],[139.82856,35.724326],[139.828557,35.724298],[139.830518,35.72416],[139.8326,35.723667],[139.834523,35.722853],[139.836215,35.721748],[139.837609,35.720395],[139.838653,35.718847],[139.839307,35.717162],[139.839545,35.715405],[139.839542,35.715378],[139.841506,35.715239],[139.843587,35.714746],[139.84551,35.713932],[139.847201,35.712827],[139.848595,35.711474],[139.849639,35.709925],[139.850292,35.70824],[139.85053,35.706483],[139.850527,35.706457],[139.852493,35.706318],[139.854574,35.705824],[139.856496,35.70501],[139.858187,35.703904],[139.859581,35.702551],[139.860625,35.701003],[139.861278,35.699317],[139.861515,35.697561],[139.861512,35.697534],[139.86348,35.697395],[139.865561,35.696901],[139.867483,35.696086],[139.869174,35.694981],[139.870567,35.693628],[139.87161,35.692079],[139.872263,35.690394],[139.872441,35.689073],[139.87256,35.690191],[139.872682,35.690532],[139.877929,35.684072],[139.87793,35.684072],[139.87793,35.675147],[139.878033,35.675021],[139.87793,35.674641],[139.87793,35.666222],[139.87793,35.663416],[139.87945,35.661545],[139.878966,35.658572],[139.87793,35.657296],[139.875443,35.654235],[139.872437,35.653707],[139.866943,35.654673],[139.863454,35.652832],[139.860342,35.652832],[139.859421,35.652897],[139.857342,35.653391],[139.85542,35.654206],[139.85373,35.655311],[139.852337,35.656664],[139.851294,35.658213],[139.850641,35.659898],[139.850404,35.661654],[139.850591,35.663415],[139.851195,35.665112],[139.851906,35.666228],[139.851293,35.667138],[139.85064,35.668823],[139.850403,35.67058],[139.85059,35.672341],[139.851194,35.674038],[139.851905,35.675153],[139.851292,35.676063],[139.850639,35.677748],[139.850459,35.679081],[139.850339,35.677955],[139.849735,35.676258],[139.848736,35.674689],[139.847382,35.67331],[139.845724,35.672173],[139.843826,35.671322],[139.841761,35.670789],[139.839608,35.670595],[139.83745,35.670747],[139.83537,35.67124],[139.833448,35.672055],[139.831758,35.67316],[139.830955,35.673939],[139.830094,35.673553],[139.828122,35.673044],[139.828314,35.672549],[139.828552,35.670793],[139.828366,35.669032],[139.827762,35.667335],[139.826764,35.665767],[139.82541,35.664387],[139.823752,35.66325],[139.821855,35.662398],[139.81979,35.661865],[139.817638,35.66167],[139.81548,35.661822],[139.813401,35.662315],[139.812003,35.662907],[139.81087,35.662398],[139.808894,35.661888],[139.809086,35.661394],[139.809187,35.660648],[139.809805,35.659731],[139.810459,35.658047],[139.810697,35.65629],[139.810511,35.654529],[139.809908,35.652832],[139.809189,35.651702],[139.809323,35.650711],[139.809137,35.64895],[139.808534,35.647253],[139.807536,35.645684],[139.806183,35.644304],[139.805627,35.643923],[139.806384,35.643991],[139.808542,35.643839],[139.810621,35.643347],[139.812542,35.642532],[139.814232,35.641428],[139.815626,35.640075],[139.816669,35.638527],[139.817323,35.636842],[139.817561,35.635085],[139.817375,35.633325],[139.816771,35.631627],[139.815774,35.630059],[139.814421,35.628679],[139.812764,35.627542],[139.810868,35.62669],[139.808804,35.626157],[139.807585,35.626046],[139.808541,35.625979],[139.81062,35.625487],[139.812541,35.624672],[139.814231,35.623568],[139.815624,35.622215],[139.816667,35.620667],[139.81732,35.618982],[139.817558,35.617225],[139.817372,35.615464],[139.816769,35.613767],[139.815772,35.612199],[139.814419,35.610819],[139.812763,35.609682],[139.810867,35.60883],[139.808803,35.608296],[139.806652,35.608102],[139.804496,35.608254],[139.802418,35.608746],[139.800497,35.60956],[139.798808,35.610665],[139.797414,35.612017],[139.796371,35.613565],[139.795717,35.61525],[139.795479,35.617006],[139.795483,35.617045],[139.793511,35.617184],[139.791432,35.617676],[139.79003,35.61827],[139.788897,35.617761],[139.787009,35.617273],[139.786558,35.616003],[139.785561,35.614434],[139.784209,35.613054],[139.782553,35.611916],[139.780657,35.611064],[139.778594,35.61053],[139.776443,35.610335],[139.774287,35.610486],[139.773579,35.610654],[139.77318,35.61055],[139.773373,35.610054],[139.773452,35.609474],[139.772657,35.609365],[139.768206,35.612651],[139.768066,35.613165],[139.768066,35.617116],[139.768066,35.621582],[139.765786,35.621582],[139.762573,35.625534],[139.762573,35.626047],[139.762573,35.626559],[139.75936,35.630512],[139.75708,35.630512],[139.746094,35.630512],[139.743347,35.630512],[139.740601,35.630512],[139.735107,35.630512],[139.729614,35.630512],[139.729614,35.634977],[139.724121,35.634977],[139.724121,35.639441],[139.718628,35.639441],[139.713135,35.639441],[139.707642,35.639441],[139.702148,35.639441],[139.702148,35.630512],[139.696655,35.630512],[139.696655,35.626047],[139.69484,35.623814],[139.691162,35.623814],[139.691162,35.621582],[139.691162,35.612651],[139.680176,35.612651],[139.674683,35.612651],[139.674683,35.617116],[139.674165,35.617754],[139.673732,35.620413],[139.674683,35.621582],[139.674683,35.626047],[139.680176,35.626047],[139.680176,35.630512],[139.691162,35.630512],[139.691162,35.639441],[139.685669,35.639441],[139.685669,35.643905],[139.685669,35.648369],[139.685669,35.652833],[139.685669,35.657296],[139.680176,35.657296],[139.680176,35.666222],[139.680176,35.670685],[139.674683,35.670685],[139.674683,35.675147],[139.669189,35.675147],[139.658203,35.675147],[139.658203,35.684072],[139.647217,35.684072],[139.643593,35.688533],[139.63623,35.688533],[139.628868,35.688533],[139.625244,35.692994],[139.625244,35.692995],[139.621621,35.697455],[139.614258,35.697455],[139.606894,35.697455],[139.60669,35.697707],[139.603271,35.69911],[139.603271,35.701917],[139.597778,35.701917],[139.597778,35.706377],[139.595032,35.70976],[139.595032,35.710261],[139.594564,35.710838],[139.592285,35.710838],[139.581299,35.710838],[139.581299,35.717528],[139.577616,35.717528],[139.575806,35.719758],[139.570313,35.719758],[139.570313,35.724218],[139.570313,35.728677],[139.575806,35.728677],[139.575806,35.733136],[139.580077,35.738398],[139.578297,35.742054],[139.580468,35.746512],[139.578744,35.757133],[139.57886,35.757252],[139.580516,35.758392],[139.582413,35.759248],[139.584478,35.759785],[139.586633,35.759984],[139.588793,35.759836],[139.590877,35.759347],[139.592803,35.758537],[139.594114,35.757685],[139.594873,35.757755],[139.597034,35.757607],[139.598212,35.757331],[139.597949,35.758001],[139.597706,35.759757],[139.597888,35.761518],[139.598487,35.763217],[139.599482,35.764787],[139.600833,35.766169],[139.60249,35.767309],[139.604387,35.768164],[139.606453,35.768701],[139.607502,35.768798],[139.607471,35.7688],[139.614258,35.7688],[139.617721,35.770934],[139.618507,35.777714],[139.617721,35.784491],[139.628699,35.790291],[139.627684,35.789254],[139.62716,35.788894],[139.627836,35.788956],[139.629997,35.788808],[139.630715,35.788639],[139.631174,35.788758],[139.63333,35.788956],[139.635491,35.788808],[139.637575,35.788318],[139.639502,35.787507],[139.640808,35.786658],[139.64157,35.786728],[139.643731,35.786579],[139.645815,35.78609],[139.647227,35.785495],[139.648336,35.785994],[139.650403,35.786531],[139.652558,35.786728],[139.654719,35.786579],[139.656803,35.786089],[139.658213,35.785495],[139.659323,35.785995],[139.661298,35.786507],[139.661115,35.786976],[139.660873,35.788732],[139.661056,35.790493],[139.661258,35.791064],[139.661115,35.791432],[139.660943,35.792675],[139.661953,35.794543],[139.666311,35.797766],[139.674683,35.797766],[139.678297,35.795538],[139.678839,35.795538],[139.680176,35.79389],[139.680176,35.791083],[139.682453,35.791083],[139.686067,35.786626],[139.6881,35.786626],[139.688052,35.786491],[139.689765,35.786088],[139.691692,35.785276],[139.693386,35.784173],[139.694784,35.782822],[139.695832,35.781275],[139.696489,35.779591],[139.69673,35.777835],[139.696727,35.777799],[139.698669,35.777665],[139.700752,35.777174],[139.702678,35.776362],[139.704373,35.775259],[139.70577,35.773908],[139.706818,35.77236],[139.707475,35.770676],[139.707646,35.76943],[139.707752,35.770443],[139.708354,35.772141],[139.709067,35.773264],[139.708464,35.774155],[139.707807,35.77584],[139.707566,35.777596],[139.70775,35.779357],[139.708353,35.781054],[139.70935,35.782624],[139.710703,35.784004],[139.711397,35.784481],[139.718628,35.785754],[139.724121,35.784787],[139.726442,35.783561],[139.72834,35.781941],[139.728793,35.781272],[139.729449,35.779588],[139.72969,35.777832],[139.729505,35.776071],[139.728902,35.774373],[139.728189,35.77325],[139.728792,35.772359],[139.729448,35.770674],[139.729688,35.768918],[139.729504,35.767157],[139.728901,35.765459],[139.727904,35.76389],[139.72655,35.76251],[139.724892,35.761371],[139.722994,35.760518],[139.720927,35.759983],[139.719879,35.759887],[139.720644,35.759834],[139.722727,35.759343],[139.724652,35.758531],[139.726346,35.757427],[139.727743,35.756076],[139.728789,35.754528],[139.729445,35.752844],[139.729619,35.751579],[139.729727,35.752615],[139.73033,35.754312],[139.731327,35.755882],[139.73268,35.757262],[139.734338,35.758401],[139.736237,35.759254],[139.738304,35.759789],[139.740459,35.759984],[139.742619,35.759834],[139.744702,35.759343],[139.746103,35.758751],[139.747225,35.759254],[139.749291,35.759789],[139.751446,35.759984],[139.753606,35.759834],[139.755689,35.759342],[139.757089,35.758751],[139.758212,35.759255],[139.760279,35.759789],[139.762434,35.759985],[139.764594,35.759833],[139.766676,35.759342],[139.768601,35.758528],[139.770294,35.757425],[139.771691,35.756073],[139.772737,35.754525],[139.773392,35.75284],[139.77346,35.752344],[139.774168,35.75283],[139.776067,35.753683],[139.77646,35.753784],[139.775427,35.754785],[139.774381,35.756333],[139.773726,35.758017],[139.773486,35.759774],[139.773672,35.761534],[139.774275,35.763232],[139.774987,35.76435],[139.77438,35.765247],[139.773725,35.766932],[139.773485,35.768688],[139.773488,35.768715],[139.771538,35.768851],[139.769455,35.769343],[139.768057,35.769933],[139.766935,35.76943],[139.764868,35.768895],[139.762713,35.7687],[139.760552,35.768851],[139.75847,35.769343],[139.756544,35.770156],[139.754851,35.771259],[139.753454,35.772611],[139.752407,35.774159],[139.752382,35.774225],[139.755856,35.781364],[139.756947,35.78217],[139.75708,35.782662],[139.75708,35.791083],[139.768066,35.791083],[139.768067,35.791083],[139.773333,35.797575],[139.773398,35.797408],[139.773563,35.796199],[139.773667,35.797187],[139.774271,35.798884],[139.775269,35.800453],[139.776624,35.801833],[139.778284,35.802971],[139.780184,35.803824],[139.782252,35.804358],[139.784409,35.804553],[139.78657,35.804401],[139.788654,35.803909],[139.790048,35.80332],[139.791172,35.803824],[139.79324,35.804358],[139.795396,35.804553],[139.797558,35.804401],[139.799641,35.803909]]],[[[139.830775,35.635085],[139.828623,35.634891],[139.826466,35.635043],[139.824387,35.635536],[139.822466,35.63635],[139.820776,35.637455],[139.819382,35.638807],[139.818339,35.640356],[139.817686,35.642041],[139.817448,35.643797],[139.817634,35.645558],[139.818237,35.647255],[139.81895,35.648375],[139.818338,35.649283],[139.817685,35.650968],[139.817446,35.652725],[139.817633,35.654485],[139.818236,35.656183],[139.819234,35.657751],[139.820588,35.659131],[139.822245,35.660268],[139.824142,35.66112],[139.826207,35.661653],[139.82836,35.661847],[139.830517,35.661695],[139.832597,35.661202],[139.834518,35.660388],[139.836209,35.659283],[139.837602,35.65793],[139.838645,35.656381],[139.839298,35.654696],[139.839536,35.65294],[139.839349,35.651179],[139.838745,35.649482],[139.838033,35.648362],[139.838644,35.647454],[139.839297,35.645769],[139.839535,35.644012],[139.839348,35.642251],[139.838744,35.640554],[139.837746,35.638986],[139.836393,35.637607],[139.834736,35.636469],[139.832839,35.635618],[139.830775,35.635085]]],[[[139.775808,35.555055],[139.778225,35.550105],[139.777498,35.545636],[139.77886,35.537261],[139.778709,35.537106],[139.777055,35.535968],[139.77516,35.535116],[139.773099,35.534582],[139.770951,35.534387],[139.769889,35.534461],[139.770274,35.53421],[139.771437,35.53308],[139.764572,35.536696],[139.75708,35.536696],[139.752181,35.539706],[139.750994,35.542624],[139.75708,35.550105],[139.760324,35.554093],[139.764921,35.553286],[139.771211,35.555863],[139.775808,35.555055]]],[[[139.713135,35.585852],[139.713135,35.576917],[139.724121,35.576917],[139.724121,35.56798],[139.729614,35.56798],[139.730966,35.56798],[139.734072,35.566708],[139.733552,35.563512],[139.734072,35.560315],[139.735107,35.559043],[139.740601,35.552291],[139.740601,35.549011],[139.733946,35.544922],[139.729614,35.54433],[139.72872,35.544452],[139.724263,35.541166],[139.724121,35.541166],[139.713135,35.541166],[139.713135,35.545636],[139.707642,35.545636],[139.707642,35.550105],[139.702148,35.550105],[139.702148,35.558521],[139.702042,35.558913],[139.69972,35.558342],[139.698008,35.559043],[139.691162,35.559043],[139.691162,35.56798],[139.680176,35.56798],[139.680035,35.56798],[139.679254,35.568556],[139.677894,35.576916],[139.676204,35.578994],[139.676003,35.580721],[139.680176,35.585851],[139.680176,35.585852],[139.691162,35.585852],[139.691162,35.585851],[139.694796,35.581384],[139.698515,35.581384],[139.702148,35.585851],[139.702148,35.585852],[139.713135,35.585852]]],[[[139.520574,35.778122],[139.520037,35.777752],[139.520707,35.777814],[139.522868,35.777667],[139.524953,35.77718],[139.52688,35.77637],[139.528577,35.77527],[139.529977,35.773921],[139.531028,35.772375],[139.531689,35.770692],[139.531934,35.768936],[139.531928,35.768883],[139.533855,35.768752],[139.53594,35.768265],[139.537354,35.767671],[139.537354,35.764343],[139.537354,35.755428],[139.526367,35.755428],[139.522749,35.75097],[139.519609,35.75097],[139.518881,35.751019],[139.516797,35.751507],[139.51487,35.752316],[139.513173,35.753416],[139.511773,35.754765],[139.510722,35.756311],[139.510061,35.757994],[139.509888,35.759235],[139.509888,35.764343],[139.509888,35.768194],[139.511923,35.774048],[139.521574,35.779146],[139.520574,35.778122]]],[[[139.531447,35.661759],[139.535073,35.657296],[139.537354,35.657296],[139.537354,35.648369],[139.537354,35.645051],[139.537342,35.645056],[139.536238,35.644557],[139.534176,35.644019],[139.532025,35.643819],[139.529868,35.643966],[139.527787,35.644454],[139.526367,35.645051],[139.526367,35.648369],[139.526367,35.657296],[139.526367,35.661759],[139.531447,35.661759]]],[[[139.529114,35.684072],[139.526367,35.684072],[139.526367,35.686302],[139.526367,35.688533],[139.529114,35.688533],[139.530487,35.688533],[139.53186,35.688533],[139.53186,35.687418],[139.53186,35.686302],[139.53186,35.685187],[139.53186,35.684198],[139.531826,35.684072],[139.530487,35.684072],[139.529114,35.684072]]],[[[139.466649,35.68104],[139.471435,35.675147],[139.471436,35.675147],[139.482422,35.675147],[139.486479,35.675147],[139.486474,35.675138],[139.487069,35.674263],[139.487729,35.67258],[139.487974,35.670824],[139.487795,35.669063],[139.487199,35.667364],[139.486207,35.665793],[139.48486,35.66441],[139.483207,35.663268],[139.481313,35.662411],[139.479251,35.661872],[139.4771,35.661672],[139.476965,35.661681],[139.476808,35.660138],[139.476212,35.65844],[139.475221,35.656868],[139.473873,35.655485],[139.472221,35.654343],[139.470328,35.653486],[139.468266,35.652947],[139.466115,35.652746],[139.463957,35.652892],[139.461876,35.653378],[139.460437,35.653982],[139.459343,35.653486],[139.457281,35.652947],[139.45513,35.652746],[139.454991,35.652756],[139.454835,35.651214],[139.454239,35.649515],[139.453511,35.64836],[139.454105,35.647486],[139.454766,35.645803],[139.455012,35.644047],[139.454833,35.642286],[139.454238,35.640587],[139.453247,35.639016],[139.4519,35.637632],[139.450568,35.636711],[139.45078,35.636661],[139.452705,35.635853],[139.454034,35.63499],[139.454783,35.63506],[139.45694,35.634915],[139.459021,35.634428],[139.460449,35.633828],[139.460449,35.630512],[139.460449,35.621582],[139.458169,35.621582],[139.45335,35.615654],[139.452586,35.612835],[139.449089,35.611115],[139.444873,35.611586],[139.438579,35.617116],[139.440031,35.626047],[139.439305,35.630512],[139.441716,35.635455],[139.438477,35.639441],[139.438476,35.639441],[139.432983,35.6462],[139.432983,35.648369],[139.432983,35.657296],[139.438477,35.657296],[139.449463,35.657296],[139.449463,35.666222],[139.460449,35.666222],[139.460449,35.675147],[139.464177,35.679736],[139.466649,35.68104]]],[[[139.473043,35.706702],[139.476929,35.701917],[139.476929,35.697456],[139.471436,35.697456],[139.471436,35.701917],[139.471436,35.704723],[139.473043,35.706702]]],[[[139.432184,35.709846],[139.42749,35.700213],[139.42749,35.697456],[139.42749,35.694697],[139.42832,35.692995],[139.42901,35.688748],[139.42749,35.686878],[139.42749,35.684072],[139.416504,35.684072],[139.416504,35.684071],[139.412445,35.684071],[139.412451,35.68408],[139.411859,35.68495],[139.411196,35.686632],[139.410949,35.688388],[139.410956,35.688458],[139.409031,35.688587],[139.406948,35.689073],[139.405021,35.689881],[139.403325,35.690979],[139.401924,35.692327],[139.400872,35.693871],[139.400209,35.695554],[139.399962,35.697309],[139.399969,35.69738],[139.398046,35.697509],[139.395963,35.697994],[139.394036,35.698802],[139.392339,35.6999],[139.390937,35.701248],[139.389885,35.702792],[139.389222,35.704474],[139.388974,35.70623],[139.389151,35.707991],[139.389746,35.70969],[139.390736,35.711262],[139.392083,35.712646],[139.393735,35.713789],[139.395629,35.714648],[139.397692,35.715188],[139.399844,35.71539],[139.402004,35.715246],[139.404087,35.71476],[139.406014,35.713953],[139.407711,35.712854],[139.409113,35.711506],[139.410165,35.709962],[139.410827,35.708279],[139.411017,35.706931],[139.411124,35.707993],[139.411719,35.709692],[139.41271,35.711264],[139.414057,35.712648],[139.41571,35.713791],[139.417604,35.714649],[139.419667,35.715189],[139.421819,35.71539],[139.423979,35.715245],[139.426062,35.71476],[139.427989,35.713952],[139.429686,35.712853],[139.431087,35.711505],[139.432139,35.70996],[139.432184,35.709846]]],[[[139.296147,35.81203],[139.297487,35.811166],[139.298209,35.811234],[139.300371,35.811091],[139.302457,35.810608],[139.304388,35.809802],[139.306088,35.808705],[139.307493,35.807358],[139.308549,35.805815],[139.309214,35.804133],[139.309464,35.802378],[139.309377,35.801502],[139.310239,35.800675],[139.311294,35.799131],[139.31196,35.797449],[139.31221,35.795694],[139.312034,35.793933],[139.31144,35.792234],[139.310451,35.790661],[139.309105,35.789276],[139.307452,35.788132],[139.305558,35.787272],[139.303493,35.78673],[139.30243,35.786629],[139.302473,35.786626],[139.299822,35.786626],[139.299178,35.786669],[139.297092,35.787152],[139.295162,35.787958],[139.293462,35.789055],[139.292057,35.790401],[139.291001,35.791945],[139.290336,35.793626],[139.290156,35.794885],[139.290062,35.793935],[139.289917,35.793521],[139.284668,35.799994],[139.279417,35.806467],[139.279866,35.807752],[139.280855,35.809325],[139.282201,35.81071],[139.283854,35.811855],[139.285748,35.812715],[139.287813,35.813257],[139.289968,35.813461],[139.29213,35.813319],[139.294217,35.812835],[139.296147,35.81203]]]],"type":"MultiPolygon"}
 }

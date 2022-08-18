@@ -2,1425 +2,1432 @@
   "id": 85633337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":5.456195,
-    "geom:area_square_m":41238965973.081795,
-    "geom:bbox":"3.30944,50.750667,7.230902,53.565815",
-    "geom:latitude":52.317332,
-    "geom:longitude":5.530858,
-    "gn:population":16645000,
-    "iso:country":"NL",
-    "itu:country_code":[
-        "31"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 5.456194922981008,
+    "geom:area_square_m": 41238965973.081795,
+    "geom:bbox": "3.309440,50.750667,7.230902,53.565815",
+    "geom:latitude": 52.31733158846111,
+    "geom:longitude": 5.5308576559252,
+    "gn:population": 16645000,
+    "iso:country": "NL",
+    "itu:country_code": [
+      "31"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NL"
+    "label:eng_x_preferred_shortcode": [
+      "NL"
     ],
-    "lbl:latitude":52.554205,
-    "lbl:longitude":5.501896,
-    "lbl:max_zoom":8.0,
-    "lbl:min_zoom":4.0,
-    "mps:latitude":52.554205,
-    "mps:longitude":5.501896,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":9.0,
-    "mz:min_zoom":4.0,
-    "name:ace_x_preferred":[
-        "Blanda"
+    "lbl:latitude": 52.554205,
+    "lbl:longitude": 5.501896,
+    "lbl:max_zoom": 8,
+    "lbl:min_zoom": 4,
+    "mps:latitude": 52.554205,
+    "mps:longitude": 5.501896,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 9,
+    "mz:min_zoom": 4,
+    "name:ace_x_preferred": [
+      "Blanda"
     ],
-    "name:ace_x_variant":[
-        "Beulanda"
+    "name:ace_x_variant": [
+      "Beulanda"
     ],
-    "name:afr_x_preferred":[
-        "Nederland"
+    "name:afr_x_preferred": [
+      "Nederland"
     ],
-    "name:aka_x_preferred":[
-        "N\u025bd\u025bland"
+    "name:aka_x_preferred": [
+      "Nɛdɛland"
     ],
-    "name:als_x_preferred":[
-        "Niederlande"
+    "name:als_x_preferred": [
+      "Niederlande"
     ],
-    "name:amh_x_preferred":[
-        "\u1206\u120b\u1295\u12f5"
+    "name:amh_x_preferred": [
+      "ሆላንድ"
     ],
-    "name:amh_x_variant":[
-        "\u1294\u12d8\u122d\u120b\u1295\u12f5"
+    "name:amh_x_variant": [
+      "ኔዘርላንድ"
     ],
-    "name:ang_x_preferred":[
-        "Ni\u00f0erland"
+    "name:ang_x_preferred": [
+      "Niðerland"
     ],
-    "name:ara_x_preferred":[
-        "\u0647\u0648\u0644\u0646\u062f\u0627"
+    "name:ara_x_preferred": [
+      "هولندا"
     ],
-    "name:arc_x_preferred":[
-        "\u0717\u0718\u0720\u0722\u0715\u0710"
+    "name:arc_x_preferred": [
+      "ܗܘܠܢܕܐ"
     ],
-    "name:arg_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:arg_x_preferred": [
+      "Países Baixos"
     ],
-    "name:ary_x_preferred":[
-        "\u0647\u0648\u0644\u0627\u0646\u062f\u0627"
+    "name:ary_x_preferred": [
+      "هولاندا"
     ],
-    "name:arz_x_preferred":[
-        "\u0646\u064a\u062f\u064a\u0631\u0644\u0627\u0646\u062f"
+    "name:arz_x_preferred": [
+      "نيديرلاند"
     ],
-    "name:ast_x_preferred":[
-        "Pa\u00edses Baxos"
+    "name:ast_x_preferred": [
+      "Países Baxos"
     ],
-    "name:ava_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u043b"
+    "name:ava_x_preferred": [
+      "Нидерландал"
     ],
-    "name:aym_x_preferred":[
-        "Aynacha Jach'a Markanaka"
+    "name:aym_x_preferred": [
+      "Aynacha Jach'a Markanaka"
     ],
-    "name:azb_x_preferred":[
-        "\u0647\u0648\u0644\u0646\u062f"
+    "name:azb_x_preferred": [
+      "هولند"
     ],
-    "name:aze_x_preferred":[
-        "Niderland"
+    "name:aze_x_preferred": [
+      "Niderland"
     ],
-    "name:aze_x_variant":[
-        "Hollandiya"
+    "name:aze_x_variant": [
+      "Hollandiya"
     ],
-    "name:bak_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:bak_x_preferred": [
+      "Нидерланд"
     ],
-    "name:bak_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
+    "name:bak_x_variant": [
+      "Нидерландтар"
     ],
-    "name:bam_x_preferred":[
-        "Peyiba"
+    "name:bam_x_preferred": [
+      "Peyiba"
     ],
-    "name:ban_x_preferred":[
-        "Belanda"
+    "name:ban_x_preferred": [
+      "Belanda"
     ],
-    "name:bar_x_preferred":[
-        "Holland"
+    "name:bar_x_preferred": [
+      "Holland"
     ],
-    "name:bcl_x_preferred":[
-        "Nederlands"
+    "name:bcl_x_preferred": [
+      "Nederlands"
     ],
-    "name:bel_x_preferred":[
-        "\u041d\u0456\u0434\u044d\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:bel_x_preferred": [
+      "Нідэрланды"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0456\u0434\u044d\u0440\u043b\u044f\u043d\u0434\u044b"
+    "name:bel_x_variant": [
+      "Нідэрлянды"
     ],
-    "name:ben_x_preferred":[
-        "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    "name:ben_x_preferred": [
+      "নেদারল্যান্ডস"
     ],
-    "name:ben_x_variant":[
-        "\u09b9\u09b2\u09a3\u09cd\u09a1",
-        "\u09b9\u09b2\u09cd\u09af\u09be\u09a3\u09cd\u09a1"
+    "name:ben_x_variant": [
+      "হলণ্ড",
+      "হল্যাণ্ড"
     ],
-    "name:bgn_x_preferred":[
-        "\u0647\u0627\u0644\u0646\u0688"
+    "name:bgn_x_preferred": [
+      "هالنڈ"
     ],
-    "name:bho_x_preferred":[
-        "\u0928\u0940\u0926\u0930\u0932\u0948\u0902\u0921"
+    "name:bho_x_preferred": [
+      "नीदरलैंड"
     ],
-    "name:bis_x_preferred":[
-        "Netherlands"
+    "name:bis_x_preferred": [
+      "Netherlands"
     ],
-    "name:bjn_x_preferred":[
-        "Walanda"
+    "name:bjn_x_preferred": [
+      "Walanda"
     ],
-    "name:bod_x_preferred":[
-        "\u0f67\u0f7c\u0f0b\u0f63\u0f53\u0f0d"
+    "name:bod_x_preferred": [
+      "ཧོ་ལན།"
     ],
-    "name:bod_x_variant":[
-        "\u0f67\u0f60\u0f7c\u0f0b\u0f63\u0f53\u0f0d"
+    "name:bod_x_variant": [
+      "ཧའོ་ལན།"
     ],
-    "name:bos_x_preferred":[
-        "Holandija"
+    "name:bos_x_preferred": [
+      "Holandija"
     ],
-    "name:bos_x_variant":[
-        "Nizozemska"
+    "name:bos_x_variant": [
+      "Nizozemska"
     ],
-    "name:bpy_x_preferred":[
-        "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    "name:bpy_x_preferred": [
+      "নেদারল্যান্ড"
     ],
-    "name:bre_x_preferred":[
-        "Izelvroio\u00f9"
+    "name:bre_x_preferred": [
+      "Izelvroioù"
     ],
-    "name:bug_x_preferred":[
-        "Belanda"
+    "name:bug_x_preferred": [
+      "Belanda"
     ],
-    "name:bul_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    "name:bul_x_preferred": [
+      "Нидерландия"
     ],
-    "name:bul_x_variant":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u044f"
+    "name:bul_x_variant": [
+      "Холандия"
     ],
-    "name:bxr_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:bxr_x_preferred": [
+      "Нидерланд"
     ],
-    "name:cat_x_preferred":[
-        "Pa\u00efsos Baixos"
+    "name:cat_x_preferred": [
+      "Països Baixos"
     ],
-    "name:cdo_x_preferred":[
-        "H\u00f2\u0324-l\u00e0ng"
+    "name:cdo_x_preferred": [
+      "Hò̤-làng"
     ],
-    "name:ceb_x_preferred":[
-        "Olanda"
+    "name:ceb_x_preferred": [
+      "Olanda"
     ],
-    "name:ceb_x_variant":[
-        "Netherlands"
+    "name:ceb_x_variant": [
+      "Netherlands"
     ],
-    "name:ces_x_preferred":[
-        "Nizozemsko"
+    "name:ces_x_preferred": [
+      "Nizozemsko"
     ],
-    "name:cha_x_preferred":[
-        "Netherlands"
+    "name:cha_x_preferred": [
+      "Netherlands"
     ],
-    "name:che_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0448"
+    "name:che_x_preferred": [
+      "Нидерландаш"
     ],
-    "name:chr_x_preferred":[
-        "\u13be\u13cd\u13a9 \u13c1\u13db\u13b3\u13c2"
+    "name:chr_x_preferred": [
+      "ᎾᏍᎩ ᏁᏛᎳᏂ"
     ],
-    "name:chr_x_variant":[
-        "\u13db\u13e5\u13f1"
+    "name:chr_x_variant": [
+      "ᏛᏥᏱ"
     ],
-    "name:chu_x_preferred":[
-        "\u041d\u0438\u0434\u0454\u0440\u043b\u0430\u043d\u0434\ua651"
+    "name:chu_x_preferred": [
+      "Нидєрландꙑ"
     ],
-    "name:chv_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u0435\u043c"
+    "name:chv_x_preferred": [
+      "Нидерландсем"
     ],
-    "name:chy_x_preferred":[
-        "Netherlands"
+    "name:chy_x_preferred": [
+      "Netherlands"
     ],
-    "name:ckb_x_preferred":[
-        "\u06be\u06c6\u0644\u06d5\u0646\u062f"
+    "name:ckb_x_preferred": [
+      "ھۆلەند"
     ],
-    "name:cor_x_preferred":[
-        "Iseldiryow"
+    "name:cor_x_preferred": [
+      "Iseldiryow"
     ],
-    "name:cos_x_preferred":[
-        "Paesi Bassi"
+    "name:cos_x_preferred": [
+      "Paesi Bassi"
     ],
-    "name:crh_x_preferred":[
-        "Felemenk"
+    "name:crh_x_preferred": [
+      "Felemenk"
     ],
-    "name:csb_x_preferred":[
-        "N\u00e9derlandzk\u00f4"
+    "name:csb_x_preferred": [
+      "Néderlandzkô"
     ],
-    "name:cym_x_preferred":[
-        "Yr Iseldiroedd"
+    "name:cym_x_preferred": [
+      "Yr Iseldiroedd"
     ],
-    "name:cze_x_variant":[
-        "Holandsko"
+    "name:cze_x_variant": [
+      "Holandsko"
     ],
-    "name:dan_x_preferred":[
-        "Nederlandene",
-        "Holland"
+    "name:dan_x_preferred": [
+      "Nederlandene",
+      "Holland"
     ],
-    "name:deu_at_x_preferred":[
-        "Niederlande"
+    "name:deu_at_x_preferred": [
+      "Niederlande"
     ],
-    "name:deu_ch_x_preferred":[
-        "Niederlande"
+    "name:deu_ch_x_preferred": [
+      "Niederlande"
     ],
-    "name:deu_x_colloquial":[
-        "Koenigreich der Niederlande",
-        "Konigreich der Niederlande"
+    "name:deu_x_colloquial": [
+      "Koenigreich der Niederlande",
+      "Konigreich der Niederlande"
     ],
-    "name:deu_x_preferred":[
-        "Niederlande"
+    "name:deu_x_preferred": [
+      "Niederlande"
     ],
-    "name:deu_x_variant":[
-        "K\u00f6nigreich der Niederlande"
+    "name:deu_x_variant": [
+      "Königreich der Niederlande"
     ],
-    "name:diq_x_preferred":[
-        "Hollanda"
+    "name:diq_x_preferred": [
+      "Hollanda"
     ],
-    "name:div_x_preferred":[
-        "\u0782\u07ac\u078b\u07a6\u078d\u07ad\u0782\u07b0\u0791\u07aa"
+    "name:div_x_preferred": [
+      "ނެދަލޭންޑު"
     ],
-    "name:dsb_x_preferred":[
-        "Ni\u017eozemska"
+    "name:dsb_x_preferred": [
+      "Nižozemska"
     ],
-    "name:dty_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
+    "name:dty_x_preferred": [
+      "नेदरल्यान्ड"
     ],
-    "name:dzo_x_preferred":[
-        "\u0f53\u0f7a\u0f0b\u0f51\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f66\u0f72\u0f0b"
+    "name:dzo_x_preferred": [
+      "ནེ་དར་ལེནཌསི་"
     ],
-    "name:dzo_x_variant":[
-        "\u0f53\u0f7a\u0f0b\u0f51\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f66\u0f72"
+    "name:dzo_x_variant": [
+      "ནེ་དར་ལེནཌསི"
     ],
-    "name:ell_x_preferred":[
-        "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    "name:ell_x_preferred": [
+      "Ολλανδία"
     ],
-    "name:eml_x_preferred":[
-        "Ul\u00e0nda"
+    "name:eml_x_preferred": [
+      "Ulànda"
     ],
-    "name:eng_ca_x_preferred":[
-        "Netherlands"
+    "name:eng_ca_x_preferred": [
+      "Netherlands"
     ],
-    "name:eng_gb_x_preferred":[
-        "Netherlands"
+    "name:eng_gb_x_preferred": [
+      "Netherlands"
     ],
-    "name:eng_x_preferred":[
-        "Netherlands"
+    "name:eng_x_preferred": [
+      "Netherlands"
     ],
-    "name:eng_x_unknown":[
-        "NL",
-        "NLD"
+    "name:eng_x_unknown": [
+      "NL",
+      "NLD"
     ],
-    "name:eng_x_variant":[
-        "Dutch",
-        "Holland",
-        "Kingdom of the Netherlands",
-        "The Netherlands",
-        "Thenetherlands"
+    "name:eng_x_variant": [
+      "Dutch",
+      "Holland",
+      "Kingdom of the Netherlands",
+      "The Netherlands",
+      "Thenetherlands"
     ],
-    "name:epo_x_preferred":[
-        "Nederlando"
+    "name:epo_x_preferred": [
+      "Nederlando"
     ],
-    "name:est_x_preferred":[
-        "Holland"
+    "name:est_x_preferred": [
+      "Holland"
     ],
-    "name:est_x_variant":[
-        "Madalmaad"
+    "name:est_x_variant": [
+      "Madalmaad"
     ],
-    "name:eus_x_preferred":[
-        "Herbehereak"
+    "name:eus_x_preferred": [
+      "Herbehereak"
     ],
-    "name:ewe_x_preferred":[
-        "Netherlands"
+    "name:ewe_x_preferred": [
+      "Netherlands"
     ],
-    "name:ewe_x_variant":[
-        "Nedalands nutome"
+    "name:ewe_x_variant": [
+      "Nedalands nutome"
     ],
-    "name:ext_x_preferred":[
-        "Paisis Baxus"
+    "name:ext_x_preferred": [
+      "Paisis Baxus"
     ],
-    "name:fao_x_preferred":[
-        "Ni\u00f0urlond"
+    "name:fao_x_preferred": [
+      "Niðurlond"
     ],
-    "name:fas_x_preferred":[
-        "\u0647\u0644\u0646\u062f"
+    "name:fas_x_preferred": [
+      "هلند"
     ],
-    "name:fij_x_preferred":[
-        "Holland"
+    "name:fij_x_preferred": [
+      "Holland"
     ],
-    "name:fin_x_preferred":[
-        "Alankomaat"
+    "name:fin_x_preferred": [
+      "Alankomaat"
     ],
-    "name:fra_x_preferred":[
-        "Pays-Bas"
+    "name:fra_x_preferred": [
+      "Pays-Bas"
     ],
-    "name:fra_x_variant":[
-        "Hollande",
-        "Paysbas"
+    "name:fra_x_variant": [
+      "Hollande",
+      "Paysbas"
     ],
-    "name:frp_x_preferred":[
-        "Payis-B\u00e2s"
+    "name:frp_x_preferred": [
+      "Payis-Bâs"
     ],
-    "name:frr_x_preferred":[
-        "Nederl\u00f6nje"
+    "name:frr_x_preferred": [
+      "Nederlönje"
     ],
-    "name:fry_x_preferred":[
-        "Nederl\u00e2n"
+    "name:fry_x_preferred": [
+      "Nederlân"
     ],
-    "name:ful_x_preferred":[
-        "Holannda"
+    "name:ful_x_preferred": [
+      "Holannda"
     ],
-    "name:ful_x_variant":[
-        "Nederlannda"
+    "name:ful_x_variant": [
+      "Nederlannda"
     ],
-    "name:fur_x_preferred":[
-        "Pa\u00ees Bas"
+    "name:fur_x_preferred": [
+      "Paîs Bas"
     ],
-    "name:gag_x_preferred":[
-        "Niderland"
+    "name:gag_x_preferred": [
+      "Niderland"
     ],
-    "name:gan_x_preferred":[
-        "\u8377\u862d"
+    "name:gan_x_preferred": [
+      "荷蘭"
     ],
-    "name:gla_x_preferred":[
-        "Na T\u00ecrean \u00ccsle"
+    "name:gla_x_preferred": [
+      "Na Tìrean Ìsle"
     ],
-    "name:gle_x_preferred":[
-        "An \u00cdsilt\u00edr"
+    "name:gle_x_preferred": [
+      "An Ísiltír"
     ],
-    "name:glg_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:glg_x_preferred": [
+      "Países Baixos"
     ],
-    "name:glg_x_variant":[
-        "Pa\u00edses Baixos - Nederland"
+    "name:glg_x_variant": [
+      "Países Baixos - Nederland"
     ],
-    "name:glv_x_preferred":[
-        "Yn \u00c7heer Injil"
+    "name:glv_x_preferred": [
+      "Yn Çheer Injil"
     ],
-    "name:gom_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0901\u0921\u094d\u0938"
+    "name:gom_x_preferred": [
+      "नेदरलँड्स"
     ],
-    "name:gor_x_preferred":[
-        "Walanta"
+    "name:gor_x_preferred": [
+      "Walanta"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    "name:got_x_preferred": [
+      "𐌽𐌹𐌸𐌰𐍂𐌰𐌻𐌰𐌽𐌳"
     ],
-    "name:got_x_variant":[
-        "\ud800\udf3d\ud800\udf39\ud800\udf38\ud800\udf34\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    "name:got_x_variant": [
+      "𐌽𐌹𐌸𐌴𐍂𐌰𐌻𐌰𐌽𐌳"
     ],
-    "name:grn_x_preferred":[
-        "Tet\u00e3ngu\u00e9ra Yv\u00fdi"
+    "name:grn_x_preferred": [
+      "Tetãnguéra Yvýi"
     ],
-    "name:grn_x_variant":[
-        "Holanda"
+    "name:grn_x_variant": [
+      "Holanda"
     ],
-    "name:gsw_x_preferred":[
-        "Niderland"
+    "name:gsw_x_preferred": [
+      "Niderland"
     ],
-    "name:guj_x_preferred":[
-        "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0a82\u0aa1"
+    "name:guj_x_preferred": [
+      "નેધરલેંડ"
     ],
-    "name:guj_x_variant":[
-        "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    "name:guj_x_variant": [
+      "નેધરલેન્ડ"
     ],
-    "name:hak_x_preferred":[
-        "H\u00f2-l\u00e0n"
+    "name:hak_x_preferred": [
+      "Hò-làn"
     ],
-    "name:hat_x_preferred":[
-        "Peyiba"
+    "name:hat_x_preferred": [
+      "Peyiba"
     ],
-    "name:hau_x_preferred":[
-        "Holan"
+    "name:hau_x_preferred": [
+      "Holan"
     ],
-    "name:hau_x_variant":[
-        "Holand"
+    "name:hau_x_variant": [
+      "Holand"
     ],
-    "name:haw_x_preferred":[
-        "H\u014dlani"
+    "name:haw_x_preferred": [
+      "Hōlani"
     ],
-    "name:hbs_x_preferred":[
-        "Nizozemska"
+    "name:hbs_x_preferred": [
+      "Nizozemska"
     ],
-    "name:heb_x_preferred":[
-        "\u05d4\u05d5\u05dc\u05e0\u05d3"
+    "name:heb_x_preferred": [
+      "הולנד"
     ],
-    "name:hif_x_preferred":[
-        "The Netherlands"
+    "name:hif_x_preferred": [
+      "The Netherlands"
     ],
-    "name:hin_x_preferred":[
-        "\u0928\u0940\u0926\u0930\u0932\u0948\u0923\u094d\u0921"
+    "name:hin_x_preferred": [
+      "नीदरलैण्ड"
     ],
-    "name:hrv_x_preferred":[
-        "Nizozemska"
+    "name:hrv_x_preferred": [
+      "Nizozemska"
     ],
-    "name:hsb_x_preferred":[
-        "Ni\u017eozemska"
+    "name:hsb_x_preferred": [
+      "Nižozemska"
     ],
-    "name:hun_x_preferred":[
-        "Hollandia"
+    "name:hun_x_preferred": [
+      "Hollandia"
     ],
-    "name:hye_x_preferred":[
-        "\u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0576\u0565\u0580"
+    "name:hye_x_preferred": [
+      "Նիդերլանդներ"
     ],
-    "name:hye_x_variant":[
-        "\u0546\u056b\u0564\u0565\u0580\u056c\u0561\u0576\u0564\u0565\u0580"
+    "name:hye_x_variant": [
+      "Նիդերլանդեր"
     ],
-    "name:hyw_x_preferred":[
-        "\u0540\u0578\u056c\u0561\u0576\u057f\u0561"
+    "name:hyw_x_preferred": [
+      "Հոլանտա"
     ],
-    "name:ibo_x_preferred":[
-        "Netherlands"
+    "name:ibo_x_preferred": [
+      "Netherlands"
     ],
-    "name:ido_x_preferred":[
-        "Nederlando"
+    "name:ido_x_preferred": [
+      "Nederlando"
     ],
-    "name:ile_x_preferred":[
-        "Nederland"
+    "name:ile_x_preferred": [
+      "Nederland"
     ],
-    "name:ilo_x_preferred":[
-        "Olanda"
+    "name:ilo_x_preferred": [
+      "Olanda"
     ],
-    "name:ina_x_preferred":[
-        "Pais Basse"
+    "name:ina_x_preferred": [
+      "Pais Basse"
     ],
-    "name:ina_x_variant":[
-        "Nederlandia"
+    "name:ina_x_variant": [
+      "Nederlandia"
     ],
-    "name:ind_x_preferred":[
-        "Belanda"
+    "name:ind_x_preferred": [
+      "Belanda"
     ],
-    "name:ind_x_variant":[
-        "Netherlands"
+    "name:ind_x_variant": [
+      "Netherlands"
     ],
-    "name:inh_x_preferred":[
-        "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438"
+    "name:inh_x_preferred": [
+      "Голланди"
     ],
-    "name:isl_x_preferred":[
-        "Holland"
+    "name:isl_x_preferred": [
+      "Holland"
     ],
-    "name:isl_x_variant":[
-        "Ni\u00f0url\u00f6nd"
+    "name:isl_x_variant": [
+      "Niðurlönd"
     ],
-    "name:ita_x_preferred":[
-        "Paesi Bassi"
+    "name:ita_x_preferred": [
+      "Paesi Bassi"
     ],
-    "name:ita_x_variant":[
-        "Olanda"
+    "name:ita_x_variant": [
+      "Olanda"
     ],
-    "name:jam_x_preferred":[
-        "Nedalanz"
+    "name:jam_x_preferred": [
+      "Nedalanz"
     ],
-    "name:jav_x_preferred":[
-        "Walanda"
+    "name:jav_x_preferred": [
+      "Walanda"
     ],
-    "name:jbo_x_preferred":[
-        "nederland"
+    "name:jbo_x_preferred": [
+      "nederland"
     ],
-    "name:jbo_x_variant":[
-        "la nederland"
+    "name:jbo_x_variant": [
+      "la nederland"
     ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30e9\u30f3\u30c0"
+    "name:jpn_x_preferred": [
+      "オランダ"
     ],
-    "name:jpn_x_variant":[
-        "\u30aa\u30e9\u30f3\u30c0\u738b\u56fd"
+    "name:jpn_x_variant": [
+      "オランダ王国"
     ],
-    "name:kaa_x_preferred":[
-        "Niderlandiya"
+    "name:kaa_x_preferred": [
+      "Niderlandiya"
     ],
-    "name:kab_x_preferred":[
-        "Timura n Wadda"
+    "name:kab_x_preferred": [
+      "Timura n Wadda"
     ],
-    "name:kal_x_preferred":[
-        "Hollandi"
+    "name:kal_x_preferred": [
+      "Hollandi"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca8\u0cc6\u0ca6\u0cb0\u0ccd\u200d\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd"
+    "name:kan_x_preferred": [
+      "ನೆದರ್‍ಲ್ಯಾಂಡ್ಸ್"
     ],
-    "name:kan_x_variant":[
-        "\u0ca8\u0cc6\u0ca6\u0cb0\u0ccd\u200c\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd"
+    "name:kan_x_variant": [
+      "ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8"
+    "name:kat_x_preferred": [
+      "ნიდერლანდები"
     ],
-    "name:kat_x_variant":[
-        "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d8"
+    "name:kat_x_variant": [
+      "ნიდერლანდი"
     ],
-    "name:kaz_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:kaz_x_preferred": [
+      "Нидерланд"
     ],
-    "name:kaz_x_variant":[
-        "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f"
+    "name:kaz_x_variant": [
+      "Голландия"
     ],
-    "name:kbd_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u044d\u043d\u0434\u0445\u044d\u0440"
+    "name:kbd_x_preferred": [
+      "Нидерлэндхэр"
     ],
-    "name:kbp_x_preferred":[
-        "Peyibaa"
+    "name:kbp_x_preferred": [
+      "Peyibaa"
     ],
-    "name:kea_x_preferred":[
-        "Olanda"
+    "name:kea_x_preferred": [
+      "Olanda"
     ],
-    "name:khm_x_preferred":[
-        "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17bc\u17a1\u1784\u17cb"
+    "name:khm_x_preferred": [
+      "ប្រទេសហូឡង់"
     ],
-    "name:khm_x_variant":[
-        "\u17a0\u17bc\u179b\u17d2\u179b\u1784\u17cb",
-        "\u17a0\u17bb\u179b\u17d2\u179b\u1784\u17cb"
+    "name:khm_x_variant": [
+      "ហូល្លង់",
+      "ហុល្លង់"
     ],
-    "name:kik_x_preferred":[
-        "Netharandi"
+    "name:kik_x_preferred": [
+      "Netharandi"
     ],
-    "name:kik_x_variant":[
-        "Uholanzi",
-        "Netherlands"
+    "name:kik_x_variant": [
+      "Uholanzi",
+      "Netherlands"
     ],
-    "name:kin_x_preferred":[
-        "Ubuholandi"
+    "name:kin_x_preferred": [
+      "Ubuholandi"
     ],
-    "name:kir_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:kir_x_preferred": [
+      "Нидерланд"
     ],
-    "name:kir_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u0430\u0440"
+    "name:kir_x_variant": [
+      "Нидерландтар"
     ],
-    "name:koi_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:koi_x_preferred": [
+      "Недерланд"
     ],
-    "name:kom_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044a\u044f\u0441"
+    "name:kom_x_preferred": [
+      "Нидерландъяс"
     ],
-    "name:kon_x_preferred":[
-        "Pays-Bas"
+    "name:kon_x_preferred": [
+      "Pays-Bas"
     ],
-    "name:kor_x_preferred":[
-        "\ub124\ub35c\ub780\ub4dc"
+    "name:kor_x_preferred": [
+      "네덜란드"
     ],
-    "name:kor_x_variant":[
-        "\ub124\ub4e4\ub780\ub4dc"
+    "name:kor_x_variant": [
+      "네들란드"
     ],
-    "name:krc_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u043b\u0430"
+    "name:krc_x_preferred": [
+      "Нидерландла"
     ],
-    "name:ksh_x_preferred":[
-        "Niederlande"
+    "name:ksh_x_preferred": [
+      "Niederlande"
     ],
-    "name:ksh_x_variant":[
-        "Nederl\u00e4ng"
+    "name:ksh_x_variant": [
+      "Nederläng"
     ],
-    "name:kur_x_preferred":[
-        "Holenda"
+    "name:kur_x_preferred": [
+      "Holenda"
     ],
-    "name:kur_x_variant":[
-        "\u06be\u06c6\u06b5\u06d5\u0646\u062f\u0627",
-        "Holand"
+    "name:kur_x_variant": [
+      "ھۆڵەندا",
+      "Holand"
     ],
-    "name:lad_x_preferred":[
-        "Payises Bashos"
+    "name:lad_x_preferred": [
+      "Payises Bashos"
     ],
-    "name:lao_x_preferred":[
-        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0eae\u0e99\u0ea5\u0eb1\u0e87"
+    "name:lao_x_preferred": [
+      "ປະເທດໂຮນລັງ"
     ],
-    "name:lao_x_variant":[
-        "\u0ec0\u0e99\u0ec0\u0e97\u0eb5\u0ec1\u0ea5\u0e99"
+    "name:lao_x_variant": [
+      "ເນເທີແລນ"
     ],
-    "name:lat_x_preferred":[
-        "Nederlandia"
+    "name:lat_x_preferred": [
+      "Nederlandia"
     ],
-    "name:lav_x_preferred":[
-        "N\u012bderlande"
+    "name:lav_x_preferred": [
+      "Nīderlande"
     ],
-    "name:lbe_x_preferred":[
-        "\u041d\u0438\u0434\u0438\u0440\u043b\u0430\u043d\u0434"
+    "name:lbe_x_preferred": [
+      "Нидирланд"
     ],
-    "name:lez_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0440"
+    "name:lez_x_preferred": [
+      "Нидерландар"
     ],
-    "name:lfn_x_preferred":[
-        "Nederland"
+    "name:lfn_x_preferred": [
+      "Nederland"
     ],
-    "name:lij_x_preferred":[
-        "Paixi Basci"
+    "name:lij_x_preferred": [
+      "Paixi Basci"
     ],
-    "name:lim_x_preferred":[
-        "Nederland"
+    "name:lim_x_preferred": [
+      "Nederland"
     ],
-    "name:lin_x_preferred":[
-        "Holanda"
+    "name:lin_x_preferred": [
+      "Holanda"
     ],
-    "name:lin_x_variant":[
-        "Oland\u025b"
+    "name:lin_x_variant": [
+      "Olandɛ"
     ],
-    "name:lit_x_preferred":[
-        "Nyderlandai"
+    "name:lit_x_preferred": [
+      "Nyderlandai"
     ],
-    "name:lit_x_variant":[
-        "Olandija"
+    "name:lit_x_variant": [
+      "Olandija"
     ],
-    "name:liv_x_preferred":[
-        "Mad\u0101lm\u014dd"
+    "name:liv_x_preferred": [
+      "Madālmōd"
     ],
-    "name:lmo_x_preferred":[
-        "Paes Bass"
+    "name:lmo_x_preferred": [
+      "Paes Bass"
     ],
-    "name:lrc_x_preferred":[
-        "\u06be\u0648\u0644\u0623\u0646\u062f"
+    "name:lrc_x_preferred": [
+      "ھولأند"
     ],
-    "name:lrc_x_variant":[
-        "\u0647\u0644\u0646\u062f"
+    "name:lrc_x_variant": [
+      "هلند"
     ],
-    "name:ltg_x_preferred":[
-        "N\u012bderlandeja"
+    "name:ltg_x_preferred": [
+      "Nīderlandeja"
     ],
-    "name:ltz_x_preferred":[
-        "Holland"
+    "name:ltz_x_preferred": [
+      "Holland"
     ],
-    "name:lub_x_preferred":[
-        "Oland\u025b"
+    "name:lub_x_preferred": [
+      "Olandɛ"
     ],
-    "name:lug_x_preferred":[
-        "Holandi"
+    "name:lug_x_preferred": [
+      "Holandi"
     ],
-    "name:lzh_x_preferred":[
-        "\u8377\u862d"
+    "name:lzh_x_preferred": [
+      "荷蘭"
     ],
-    "name:mal_x_preferred":[
-        "\u0d28\u0d46\u0d24\u0d7c\u0d32\u0d28\u0d4d\u0d31\u0d4d\u0d38\u0d4d"
+    "name:mal_x_preferred": [
+      "നെതർലന്റ്സ്"
     ],
-    "name:mal_x_variant":[
-        "\u0d28\u0d46\u0d24\u0d30\u0d4d\u200d\u0d32\u0d28\u0d4d\u200d\u0d21\u0d4d\u0d38\u0d4d"
+    "name:mal_x_variant": [
+      "നെതര്‍ലന്‍ഡ്സ്"
     ],
-    "name:mar_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0901\u0921\u094d\u0938"
+    "name:mar_x_preferred": [
+      "नेदरलँड्स"
     ],
-    "name:mar_x_variant":[
-        "\u0928\u0947\u0926\u0930\u0932\u0901\u0921"
+    "name:mar_x_variant": [
+      "नेदरलँड"
     ],
-    "name:mdf_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0442\u0442"
+    "name:mdf_x_preferred": [
+      "Недерлантт"
     ],
-    "name:mhr_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0435"
+    "name:mhr_x_preferred": [
+      "Нидерланде"
     ],
-    "name:min_x_preferred":[
-        "Balando"
+    "name:min_x_preferred": [
+      "Balando"
     ],
-    "name:mkd_x_preferred":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    "name:mkd_x_preferred": [
+      "Холандија"
     ],
-    "name:mlg_x_preferred":[
-        "Nederlandy"
+    "name:mlg_x_preferred": [
+      "Nederlandy"
     ],
-    "name:mlg_x_variant":[
-        "Holanda"
+    "name:mlg_x_variant": [
+      "Holanda"
     ],
-    "name:mlt_x_preferred":[
-        "Pajji\u017ci l-Baxxi"
+    "name:mlt_x_preferred": [
+      "Pajjiżi l-Baxxi"
     ],
-    "name:mlt_x_variant":[
-        "Olanda"
+    "name:mlt_x_variant": [
+      "Olanda"
     ],
-    "name:mon_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:mon_x_preferred": [
+      "Нидерланд"
     ],
-    "name:mri_x_preferred":[
-        "H\u014drana"
+    "name:mri_x_preferred": [
+      "Hōrana"
     ],
-    "name:msa_x_preferred":[
-        "Belanda"
+    "name:msa_x_preferred": [
+      "Belanda"
     ],
-    "name:mya_x_preferred":[
-        "\u1014\u101a\u103a\u101e\u102c\u101c\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    "name:mya_x_preferred": [
+      "နယ်သာလန်နိုင်ငံ"
     ],
-    "name:mya_x_variant":[
-        "\u1014\u101a\u103a\u101e\u102c\u101c\u1014\u103a"
+    "name:mya_x_variant": [
+      "နယ်သာလန်"
     ],
-    "name:myv_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b \u041c\u0430\u0441\u0442\u043e\u0440"
+    "name:myv_x_preferred": [
+      "Нидерланды Мастор"
     ],
-    "name:myv_x_variant":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:myv_x_variant": [
+      "Нидерланды"
     ],
-    "name:mzn_x_preferred":[
-        "\u0647\u0644\u0646\u062f"
+    "name:mzn_x_preferred": [
+      "هلند"
     ],
-    "name:nah_x_preferred":[
-        "Tlanitlalpan"
+    "name:nah_x_preferred": [
+      "Tlanitlalpan"
     ],
-    "name:nah_x_variant":[
-        "Tlanitl\u0101lpan"
+    "name:nah_x_variant": [
+      "Tlanitlālpan"
     ],
-    "name:nan_x_preferred":[
-        "H\u00f4-l\u00e2n"
+    "name:nan_x_preferred": [
+      "Hô-lân"
     ],
-    "name:nap_x_preferred":[
-        "Ulanna"
+    "name:nap_x_preferred": [
+      "Ulanna"
     ],
-    "name:nau_x_preferred":[
-        "Niterand"
+    "name:nau_x_preferred": [
+      "Niterand"
     ],
-    "name:nau_x_variant":[
-        "Eben Eyong"
+    "name:nau_x_variant": [
+      "Eben Eyong"
     ],
-    "name:nav_x_preferred":[
-        "Tsin Bikee\u02bc Dine\u02bc\u00e9 Bik\u00e9yah"
+    "name:nav_x_preferred": [
+      "Tsin Bikeeʼ Dineʼé Bikéyah"
     ],
-    "name:nde_x_preferred":[
-        "Netherlands"
+    "name:nde_x_preferred": [
+      "Netherlands"
     ],
-    "name:nds_nld_x_preferred":[
-        "Nederlaand"
+    "name:nds_nld_x_preferred": [
+      "Nederlaand"
     ],
-    "name:nds_x_preferred":[
-        "Nedderlannen"
+    "name:nds_x_preferred": [
+      "Nedderlannen"
     ],
-    "name:nep_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921\u094d\u0938"
+    "name:nep_x_preferred": [
+      "नेदरल्यान्ड्स"
     ],
-    "name:nep_x_variant":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921\u094d\u0938"
+    "name:nep_x_variant": [
+      "नेदरल्याण्ड्स"
     ],
-    "name:new_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0926\u094d\u0938\u094d"
+    "name:new_x_preferred": [
+      "नेदरल्यान्द्स्"
     ],
-    "name:nld_x_historical":[
-        "Nederlandt",
-        "Hollandt"
+    "name:nld_x_historical": [
+      "Nederlandt",
+      "Hollandt"
     ],
-    "name:nld_x_preferred":[
-        "Nederland"
+    "name:nld_x_preferred": [
+      "Nederland"
     ],
-    "name:nld_x_variant":[
-        "Koninkrijk der Nederlanden",
-        "Nederlandt",
-        "Hollandt"
+    "name:nld_x_variant": [
+      "Koninkrijk der Nederlanden",
+      "Nederlandt",
+      "Hollandt"
     ],
-    "name:nno_x_preferred":[
-        "Nederland"
+    "name:nno_x_preferred": [
+      "Nederland"
     ],
-    "name:nob_x_preferred":[
-        "Nederland"
+    "name:nob_x_preferred": [
+      "Nederland"
     ],
-    "name:nor_x_preferred":[
-        "Nederland"
+    "name:nor_x_preferred": [
+      "Nederland"
     ],
-    "name:nor_x_variant":[
-        "Holland"
+    "name:nor_x_variant": [
+      "Holland"
     ],
-    "name:nov_x_preferred":[
-        "Nederlande"
+    "name:nov_x_preferred": [
+      "Nederlande"
     ],
-    "name:nrm_x_preferred":[
-        "Pays Bas"
+    "name:nrm_x_preferred": [
+      "Pays Bas"
     ],
-    "name:nso_x_preferred":[
-        "Netherlands"
+    "name:nso_x_preferred": [
+      "Netherlands"
     ],
-    "name:nya_x_preferred":[
-        "Netherlands"
+    "name:nya_x_preferred": [
+      "Netherlands"
     ],
-    "name:oci_x_preferred":[
-        "Pa\u00efses Basses"
+    "name:oci_x_preferred": [
+      "Païses Basses"
     ],
-    "name:olo_x_preferred":[
-        "Gollandii"
+    "name:olo_x_preferred": [
+      "Gollandii"
     ],
-    "name:olo_x_variant":[
-        "Hollandii"
+    "name:olo_x_variant": [
+      "Hollandii"
     ],
-    "name:ori_x_preferred":[
-        "\u0b28\u0b47\u0b26\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
+    "name:ori_x_preferred": [
+      "ନେଦରଲ୍ୟାଣ୍ଡ"
     ],
-    "name:ori_x_variant":[
-        "\u0b28\u0b47\u0b26\u0b30\u0b32\u0b3e\u0b23\u0b4d\u0b21"
+    "name:ori_x_variant": [
+      "ନେଦରଲାଣ୍ଡ"
     ],
-    "name:orm_x_preferred":[
-        "Neezerlaandi"
+    "name:orm_x_preferred": [
+      "Neezerlaandi"
     ],
-    "name:oss_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0442\u00e6"
+    "name:oss_x_preferred": [
+      "Нидерландтæ"
     ],
-    "name:pag_x_preferred":[
-        "Ol\u00e1nda"
+    "name:pag_x_preferred": [
+      "Olánda"
     ],
-    "name:pam_x_preferred":[
-        "Paises Bahes"
+    "name:pam_x_preferred": [
+      "Paises Bahes"
     ],
-    "name:pan_x_preferred":[
-        "\u0a28\u0a40\u0a26\u0a30\u0a32\u0a48\u0a02\u0a21"
+    "name:pan_x_preferred": [
+      "ਨੀਦਰਲੈਂਡ"
     ],
-    "name:pap_x_preferred":[
-        "Hulanda"
+    "name:pap_x_preferred": [
+      "Hulanda"
     ],
-    "name:pcd_x_preferred":[
-        "Bas-Pa\u00efs"
+    "name:pcd_x_preferred": [
+      "Bas-Païs"
     ],
-    "name:pdc_x_preferred":[
-        "Holland"
+    "name:pdc_x_preferred": [
+      "Holland"
     ],
-    "name:pdt_x_preferred":[
-        "Nadalaunt"
+    "name:pdt_x_preferred": [
+      "Nadalaunt"
     ],
-    "name:pfl_x_preferred":[
-        "Niederlande"
+    "name:pfl_x_preferred": [
+      "Niederlande"
     ],
-    "name:pih_x_preferred":[
-        "Dem Nethiland"
+    "name:pih_x_preferred": [
+      "Dem Nethiland"
     ],
-    "name:pli_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
+    "name:pli_x_preferred": [
+      "नेदरलैंड्स"
     ],
-    "name:pms_x_preferred":[
-        "Pais Bass"
+    "name:pms_x_preferred": [
+      "Pais Bass"
     ],
-    "name:pnb_x_preferred":[
-        "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
+    "name:pnb_x_preferred": [
+      "نیدرلینڈز"
     ],
-    "name:pnt_x_preferred":[
-        "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    "name:pnt_x_preferred": [
+      "Ολλανδία"
     ],
-    "name:pol_x_preferred":[
-        "Niderlandy",
-        "Holandia"
+    "name:pol_x_preferred": [
+      "Niderlandy",
+      "Holandia"
     ],
-    "name:por_br_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:por_br_x_preferred": [
+      "Países Baixos"
     ],
-    "name:por_x_colloquial":[
-        "Paises Baixos",
-        "Holanda"
+    "name:por_x_colloquial": [
+      "Paises Baixos",
+      "Holanda"
     ],
-    "name:por_x_preferred":[
-        "Pa\u00edses Baixos"
+    "name:por_x_preferred": [
+      "Países Baixos"
     ],
-    "name:por_x_variant":[
-        "Neerl\u00e2ndia",
-        "Holanda"
+    "name:por_x_variant": [
+      "Neerlândia",
+      "Holanda"
     ],
-    "name:pus_x_preferred":[
-        "\u0647\u0627\u0644\u0646\u0689"
+    "name:pus_x_preferred": [
+      "هالنډ"
     ],
-    "name:pus_x_variant":[
-        "\u0647\u0627\u0644\u06d0\u0646\u0689"
+    "name:pus_x_variant": [
+      "هالېنډ"
     ],
-    "name:que_x_preferred":[
-        "Urasuyu"
+    "name:que_x_preferred": [
+      "Urasuyu"
     ],
-    "name:que_x_variant":[
-        "Uray Llaqta Suyu"
+    "name:que_x_variant": [
+      "Uray Llaqta Suyu"
     ],
-    "name:rmy_x_preferred":[
-        "Olanda"
+    "name:rmy_x_preferred": [
+      "Olanda"
     ],
-    "name:roh_x_preferred":[
-        "Pajais Bass"
+    "name:roh_x_preferred": [
+      "Pajais Bass"
     ],
-    "name:ron_x_preferred":[
-        "\u021a\u0103rile de Jos"
+    "name:ron_x_preferred": [
+      "Țările de Jos"
     ],
-    "name:ron_x_variant":[
-        "Olanda"
+    "name:ron_x_variant": [
+      "Olanda"
     ],
-    "name:rue_x_preferred":[
-        "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:rue_x_preferred": [
+      "Нідерланды"
     ],
-    "name:rum_x_variant":[
-        "\u0162\u0103rile de Jos"
+    "name:rum_x_variant": [
+      "Ţările de Jos"
     ],
-    "name:run_x_preferred":[
-        "Ubuholandi"
+    "name:run_x_preferred": [
+      "Ubuholandi"
     ],
-    "name:rup_x_preferred":[
-        "Olanda"
+    "name:rup_x_preferred": [
+      "Olanda"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+    "name:rus_x_preferred": [
+      "Нидерланды"
     ],
-    "name:sag_x_preferred":[
-        "Hol\u00e4nde"
+    "name:sag_x_preferred": [
+      "Holände"
     ],
-    "name:sah_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:sah_x_preferred": [
+      "Недерланд"
     ],
-    "name:san_x_preferred":[
-        "\u0928\u0947\u0926\u0930\u094d\u0932\u0947\u0923\u094d\u0921\u094d\u0926\u0947\u0936\u0903"
+    "name:san_x_preferred": [
+      "नेदर्लेण्ड्देशः"
     ],
-    "name:san_x_variant":[
-        "\u0928\u0947\u0926\u0930\u0932\u0948\u0902\u0921\u094d\u0938"
+    "name:san_x_variant": [
+      "नेदरलैंड्स"
     ],
-    "name:sat_x_preferred":[
-        "\u1c71\u1c6e\u1c6b\u1c5f\u1c68\u1c5e\u1c6e\u1c71\u1c70\u1c65"
+    "name:sat_x_preferred": [
+      "ᱱᱮᱫᱟᱨᱞᱮᱱᱰᱥ"
     ],
-    "name:scn_x_preferred":[
-        "Paisi Vasci"
+    "name:scn_x_preferred": [
+      "Paisi Vasci"
     ],
-    "name:sco_x_preferred":[
-        "Netherlands"
+    "name:sco_x_preferred": [
+      "Netherlands"
     ],
-    "name:sgs_x_preferred":[
-        "N\u012bderland\u0101"
+    "name:sgs_x_preferred": [
+      "Nīderlandā"
     ],
-    "name:sin_x_preferred":[
-        "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
+    "name:sin_x_preferred": [
+      "නෙදර්ලන්තය"
     ],
-    "name:slk_x_preferred":[
-        "Holandsko"
+    "name:slk_x_preferred": [
+      "Holandsko"
     ],
-    "name:slv_x_preferred":[
-        "Nizozemska"
+    "name:slv_x_preferred": [
+      "Nizozemska"
     ],
-    "name:sma_x_preferred":[
-        "Vuelielaanteh"
+    "name:sma_x_preferred": [
+      "Vuelielaanteh"
     ],
-    "name:sme_x_preferred":[
-        "Vuolleeatnamat"
+    "name:sme_x_preferred": [
+      "Vuolleeatnamat"
     ],
-    "name:sme_x_variant":[
-        "Holl\u00e1nda"
+    "name:sme_x_variant": [
+      "Hollánda"
     ],
-    "name:smn_x_preferred":[
-        "Vu\u00e1l\u00e1d\u00e2hen\u00e2meh"
+    "name:smn_x_preferred": [
+      "Vuáládâhenâmeh"
     ],
-    "name:smo_x_preferred":[
-        "Netalani"
+    "name:smo_x_preferred": [
+      "Netalani"
     ],
-    "name:sna_x_preferred":[
-        "Netherlands"
+    "name:sna_x_preferred": [
+      "Netherlands"
     ],
-    "name:snd_x_preferred":[
-        "\u0646\u064a\u062f\u0631\u0644\u064a\u0646\u068a\u0632"
+    "name:snd_x_preferred": [
+      "نيدرلينڊز"
     ],
-    "name:som_x_preferred":[
-        "Holland"
+    "name:som_x_preferred": [
+      "Holland"
     ],
-    "name:som_x_variant":[
-        "Netherlands"
+    "name:som_x_variant": [
+      "Netherlands"
     ],
-    "name:sot_x_preferred":[
-        "H\u00f4lan\u00ea"
+    "name:sot_x_preferred": [
+      "Hôlanê"
     ],
-    "name:spa_x_colloquial":[
-        "Paises Bajos"
+    "name:spa_x_colloquial": [
+      "Paises Bajos"
     ],
-    "name:spa_x_preferred":[
-        "Pa\u00edses Bajos"
+    "name:spa_x_preferred": [
+      "Países Bajos"
     ],
-    "name:spa_x_variant":[
-        "Holanda"
+    "name:spa_x_variant": [
+      "Holanda"
     ],
-    "name:sqi_x_preferred":[
-        "Holanda"
+    "name:sqi_x_preferred": [
+      "Holanda"
     ],
-    "name:sqi_x_variant":[
-        "Vendet e Ul\u00ebta"
+    "name:sqi_x_variant": [
+      "Vendet e Ulëta"
     ],
-    "name:srd_x_preferred":[
-        "Logos Bascios"
+    "name:srd_x_preferred": [
+      "Logos Bascios"
     ],
-    "name:srn_x_preferred":[
-        "Bakrakondre"
+    "name:srn_x_preferred": [
+      "Bakrakondre"
     ],
-    "name:srp_ec_x_preferred":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    "name:srp_ec_x_preferred": [
+      "Холандија"
     ],
-    "name:srp_el_x_preferred":[
-        "Holandija"
+    "name:srp_el_x_preferred": [
+      "Holandija"
     ],
-    "name:srp_x_preferred":[
-        "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430"
+    "name:srp_x_preferred": [
+      "Холандија"
     ],
-    "name:ssw_x_preferred":[
-        "IDashi"
+    "name:ssw_x_preferred": [
+      "IDashi"
     ],
-    "name:stq_x_preferred":[
-        "Niederlounde"
+    "name:stq_x_preferred": [
+      "Niederlounde"
     ],
-    "name:sun_x_preferred":[
-        "Walanda"
+    "name:sun_x_preferred": [
+      "Walanda"
     ],
-    "name:swa_x_preferred":[
-        "Uholanzi"
+    "name:swa_x_preferred": [
+      "Uholanzi"
     ],
-    "name:swe_x_colloquial":[
-        "Nederlaenderna",
-        "Nederlanderna"
+    "name:swe_x_colloquial": [
+      "Nederlaenderna",
+      "Nederlanderna"
     ],
-    "name:swe_x_preferred":[
-        "Nederl\u00e4nderna"
+    "name:swe_x_preferred": [
+      "Nederländerna"
     ],
-    "name:swe_x_variant":[
-        "Holland"
+    "name:swe_x_variant": [
+      "Holland"
     ],
-    "name:szl_x_preferred":[
-        "\u0143iderlandy"
+    "name:szl_x_preferred": [
+      "Ńiderlandy"
     ],
-    "name:tah_x_preferred":[
-        "H\u014drane"
+    "name:tah_x_preferred": [
+      "Hōrane"
     ],
-    "name:tam_x_preferred":[
-        "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    "name:tam_x_preferred": [
+      "நெதர்லாந்து"
     ],
-    "name:tat_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u043b\u0430\u0440"
+    "name:tat_x_preferred": [
+      "Нидерландлар"
     ],
-    "name:tat_x_variant":[
-        "\u041d\u0438\u0434\u0438\u0440\u043b\u0430\u043d"
+    "name:tat_x_variant": [
+      "Нидирлан"
     ],
-    "name:tel_x_preferred":[
-        "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d"
+    "name:tel_x_preferred": [
+      "నెదర్లాండ్స్"
     ],
-    "name:tel_x_variant":[
-        "\u0c28\u0c47\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d",
-        "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+    "name:tel_x_variant": [
+      "నేదర్లాండ్స్",
+      "నెదర్లాండ్"
     ],
-    "name:tet_x_preferred":[
-        "Olanda"
+    "name:tet_x_preferred": [
+      "Olanda"
     ],
-    "name:tgk_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:tgk_x_preferred": [
+      "Нидерланд"
     ],
-    "name:tgl_x_preferred":[
-        "Netherlands"
+    "name:tgl_x_preferred": [
+      "Netherlands"
     ],
-    "name:tgl_x_variant":[
-        "Olanda"
+    "name:tgl_x_variant": [
+      "Olanda"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    "name:tha_x_preferred": [
+      "ประเทศเนเธอร์แลนด์"
     ],
-    "name:tha_x_variant":[
-        "\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    "name:tha_x_variant": [
+      "เนเธอร์แลนด์"
     ],
-    "name:tir_x_preferred":[
-        "\u1294\u12d8\u122d\u120b\u1295\u12f5"
+    "name:tir_x_preferred": [
+      "ኔዘርላንድ"
     ],
-    "name:ton_x_preferred":[
-        "Holani"
+    "name:ton_x_preferred": [
+      "Holani"
     ],
-    "name:ton_x_variant":[
-        "H\u014dlani"
+    "name:ton_x_variant": [
+      "Hōlani"
     ],
-    "name:tpi_x_preferred":[
-        "Netherlands"
+    "name:tpi_x_preferred": [
+      "Netherlands"
     ],
-    "name:tpi_x_variant":[
-        "Ol Nitelan"
+    "name:tpi_x_variant": [
+      "Ol Nitelan"
     ],
-    "name:tso_x_preferred":[
-        "Netherlands"
+    "name:tso_x_preferred": [
+      "Netherlands"
     ],
-    "name:tuk_x_preferred":[
-        "Niderlandlar"
+    "name:tuk_x_preferred": [
+      "Niderlandlar"
     ],
-    "name:tum_x_preferred":[
-        "Netherlands"
+    "name:tum_x_preferred": [
+      "Netherlands"
     ],
-    "name:tur_x_preferred":[
-        "Hollanda"
+    "name:tur_x_preferred": [
+      "Hollanda"
     ],
-    "name:twi_x_preferred":[
-        "Netherlands"
+    "name:twi_x_preferred": [
+      "Netherlands"
     ],
-    "name:udm_x_preferred":[
-        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434"
+    "name:udm_x_preferred": [
+      "Нидерланд"
     ],
-    "name:uig_x_preferred":[
-        "\u06af\u0648\u0644\u0644\u0627\u0646\u062f\u0649\u064a\u06d5"
+    "name:uig_x_preferred": [
+      "گوللاندىيە"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438"
+    "name:ukr_x_preferred": [
+      "Нідерланди"
     ],
-    "name:und_x_colloquial":[
-        "Kato Chores",
-        "Paisos Baixos"
+    "name:und_x_colloquial": [
+      "Kato Chores",
+      "Paisos Baixos"
     ],
-    "name:und_x_variant":[
-        "Oranda",
-        "Kraljevina Nizozemska",
-        "K\u00e1to Ch\u00f3res"
+    "name:und_x_variant": [
+      "Oranda",
+      "Kraljevina Nizozemska",
+      "Káto Chóres"
     ],
-    "name:urd_x_preferred":[
-        "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
+    "name:urd_x_preferred": [
+      "نیدرلینڈز"
     ],
-    "name:urd_x_variant":[
-        "\u0646\u06cc\u062f\u0631 \u0644\u06cc\u0646\u0688\u0632"
+    "name:urd_x_variant": [
+      "نیدر لینڈز"
     ],
-    "name:uzb_x_preferred":[
-        "Niderlandlar"
+    "name:uzb_x_preferred": [
+      "Niderlandlar"
     ],
-    "name:vec_x_preferred":[
-        "Pa\u00e9xi Basi"
+    "name:vec_x_preferred": [
+      "Paéxi Basi"
     ],
-    "name:vep_x_preferred":[
-        "Alamad"
+    "name:vep_x_preferred": [
+      "Alamad"
     ],
-    "name:vie_x_preferred":[
-        "H\u00e0 Lan"
+    "name:vie_x_preferred": [
+      "Hà Lan"
     ],
-    "name:vls_x_preferred":[
-        "Holland"
+    "name:vls_x_preferred": [
+      "Holland"
     ],
-    "name:vls_x_variant":[
-        "Olland"
+    "name:vls_x_variant": [
+      "Olland"
     ],
-    "name:vol_x_preferred":[
-        "Ned\u00e4n"
+    "name:vol_x_preferred": [
+      "Nedän"
     ],
-    "name:vro_x_preferred":[
-        "Holland"
+    "name:vro_x_preferred": [
+      "Holland"
     ],
-    "name:war_x_preferred":[
-        "Nederlandes"
+    "name:war_x_preferred": [
+      "Nederlandes"
     ],
-    "name:wln_x_preferred":[
-        "Bas Payis"
+    "name:wln_x_preferred": [
+      "Bas Payis"
     ],
-    "name:wol_x_preferred":[
-        "Olaand"
+    "name:wol_x_preferred": [
+      "Olaand"
     ],
-    "name:wuu_x_preferred":[
-        "\u5c3c\u5fb7\u5170"
+    "name:wuu_x_preferred": [
+      "尼德兰"
     ],
-    "name:xal_x_preferred":[
-        "\u041d\u0435\u0434\u0435\u0440\u043b\u0435\u043d\u0434\u0438\u043d \u041d\u0443\u0442\u0433"
+    "name:xal_x_preferred": [
+      "Недерлендин Нутг"
     ],
-    "name:xho_x_preferred":[
-        "ENetherlands"
+    "name:xho_x_preferred": [
+      "ENetherlands"
     ],
-    "name:xmf_x_preferred":[
-        "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d8"
+    "name:xmf_x_preferred": [
+      "ნიდერლანდი"
     ],
-    "name:yid_x_preferred":[
-        "\u05d4\u05d0\u05dc\u05d0\u05e0\u05d3"
+    "name:yid_x_preferred": [
+      "האלאנד"
     ],
-    "name:yor_x_preferred":[
-        "N\u1eb9\u0301d\u00e1l\u00e1nd\u00ec"
+    "name:yor_x_preferred": [
+      "Nẹ́dálándì"
     ],
-    "name:yor_x_variant":[
-        "Or\u00edl\u1eb9\u0301\u00e8de Nedalandi"
+    "name:yor_x_variant": [
+      "Orílẹ́ède Nedalandi"
     ],
-    "name:yue_x_preferred":[
-        "\u8377\u862d"
+    "name:yue_x_preferred": [
+      "荷蘭"
     ],
-    "name:zea_x_preferred":[
-        "Nederland"
+    "name:zea_x_preferred": [
+      "Nederland"
     ],
-    "name:zha_x_preferred":[
-        "Hwzlanz"
+    "name:zha_x_preferred": [
+      "Hwzlanz"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "O-l\u00e2n"
+    "name:zho_min_nan_x_preferred": [
+      "O-lân"
     ],
-    "name:zho_x_preferred":[
-        "\u8377\u5170"
+    "name:zho_x_preferred": [
+      "荷兰"
     ],
-    "name:zho_x_variant":[
-        "\u8377\u862d"
+    "name:zho_x_variant": [
+      "荷蘭"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u8377\u862d"
+    "name:zho_yue_x_preferred": [
+      "荷蘭"
     ],
-    "name:zul_x_preferred":[
-        "Netherlands"
+    "name:zul_x_preferred": [
+      "Netherlands"
     ],
-    "name:zul_x_variant":[
-        "i-Netherlands"
+    "name:zul_x_variant": [
+      "i-Netherlands"
     ],
-    "ne:abbrev":"Neth.",
-    "ne:abbrev_len":5,
-    "ne:adm0_a3":"NLD",
-    "ne:adm0_a3_ar":"NLD",
-    "ne:adm0_a3_bd":"NLD",
-    "ne:adm0_a3_br":"NLD",
-    "ne:adm0_a3_cn":"NLD",
-    "ne:adm0_a3_de":"NLD",
-    "ne:adm0_a3_eg":"NLD",
-    "ne:adm0_a3_es":"NLD",
-    "ne:adm0_a3_fr":"NLD",
-    "ne:adm0_a3_gb":"NLD",
-    "ne:adm0_a3_gr":"NLD",
-    "ne:adm0_a3_id":"NLD",
-    "ne:adm0_a3_il":"NLD",
-    "ne:adm0_a3_in":"NLD",
-    "ne:adm0_a3_is":"NLD",
-    "ne:adm0_a3_it":"NLD",
-    "ne:adm0_a3_jp":"NLD",
-    "ne:adm0_a3_ko":"NLD",
-    "ne:adm0_a3_ma":"NLD",
-    "ne:adm0_a3_nl":"NLD",
-    "ne:adm0_a3_np":"NLD",
-    "ne:adm0_a3_pk":"NLD",
-    "ne:adm0_a3_pl":"NLD",
-    "ne:adm0_a3_ps":"NLD",
-    "ne:adm0_a3_pt":"NLD",
-    "ne:adm0_a3_ru":"NLD",
-    "ne:adm0_a3_sa":"NLD",
-    "ne:adm0_a3_se":"NLD",
-    "ne:adm0_a3_tr":"NLD",
-    "ne:adm0_a3_tw":"NLD",
-    "ne:adm0_a3_ua":"NLD",
-    "ne:adm0_a3_un":-99,
-    "ne:adm0_a3_us":"NLD",
-    "ne:adm0_a3_vn":"NLD",
-    "ne:adm0_a3_wb":-99,
-    "ne:adm0_dif":1,
-    "ne:admin":"Netherlands",
-    "ne:brk_a3":"NLD",
-    "ne:brk_diff":0,
-    "ne:brk_group":null,
-    "ne:brk_name":"Netherlands",
-    "ne:continent":"Europe",
-    "ne:economy":"2. Developed region: nonG7",
-    "ne:featurecla":"Admin-0 country",
-    "ne:fips_10":"NL",
-    "ne:fips_10_":"NL",
-    "ne:formal_en":"Kingdom of the Netherlands",
-    "ne:formal_fr":null,
-    "ne:gdp_md":907050,
-    "ne:gdp_md_est":672000,
-    "ne:gdp_year":2019,
-    "ne:geou_dif":0,
-    "ne:geounit":"Netherlands",
-    "ne:gu_a3":"NLD",
-    "ne:homepart":1,
-    "ne:income_grp":"1. High income: OECD",
-    "ne:iso_a2":"NL",
-    "ne:iso_a2_eh":"NL",
-    "ne:iso_a3":"NLD",
-    "ne:iso_a3_eh":"NLD",
-    "ne:iso_n3":"528",
-    "ne:iso_n3_eh":"528",
-    "ne:labelrank":5,
-    "ne:lastcensus":2011,
-    "ne:level":2,
-    "ne:long_len":11,
-    "ne:mapcolor13":9,
-    "ne:mapcolor7":4,
-    "ne:mapcolor8":2,
-    "ne:mapcolor9":2,
-    "ne:max_label":10,
-    "ne:min_label":5,
-    "ne:min_zoom":0,
-    "ne:name_alt":null,
-    "ne:name_ar":"\u0647\u0648\u0644\u0646\u062f\u0627",
-    "ne:name_bn":"\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8",
-    "ne:name_ciawf":"Netherlands",
-    "ne:name_de":"Niederlande",
-    "ne:name_el":"\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
-    "ne:name_en":"Netherlands",
-    "ne:name_es":"Pa\u00edses Bajos",
-    "ne:name_fr":"Pays-Bas",
-    "ne:name_he":"\u05d4\u05d5\u05dc\u05e0\u05d3",
-    "ne:name_hi":"\u0928\u0940\u0926\u0930\u0932\u0948\u0923\u094d\u0921",
-    "ne:name_hu":"Hollandia",
-    "ne:name_id":"Belanda",
-    "ne:name_it":"Paesi Bassi",
-    "ne:name_ja":"\u30aa\u30e9\u30f3\u30c0",
-    "ne:name_ko":"\ub124\ub35c\ub780\ub4dc",
-    "ne:name_len":11,
-    "ne:name_long":"Netherlands",
-    "ne:name_nl":"Nederland",
-    "ne:name_pl":"Holandia",
-    "ne:name_pt":"Pa\u00edses Baixos",
-    "ne:name_ru":"\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
-    "ne:name_sort":"Netherlands",
-    "ne:name_sv":"Nederl\u00e4nderna",
-    "ne:name_tr":"Hollanda",
-    "ne:name_uk":"\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438",
-    "ne:name_ur":"\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632",
-    "ne:name_vi":"H\u00e0 Lan",
-    "ne:name_zh":"\u8377\u862d",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
-    "ne:pop_est":17332850,
-    "ne:pop_rank":14,
-    "ne:pop_year":2019,
-    "ne:postal":"NL",
-    "ne:region_un":"Europe",
-    "ne:region_wb":"Europe & Central Asia",
-    "ne:scalerank":0,
-    "ne:sov_a3":"NL1",
-    "ne:sovereignt":"Netherlands",
-    "ne:su_a3":"NLD",
-    "ne:su_dif":0,
-    "ne:subregion":"Western Europe",
-    "ne:subunit":"Netherlands",
-    "ne:tiny":-99,
-    "ne:type":"Country",
-    "ne:un_a3":"528",
-    "ne:wb_a2":"NL",
-    "ne:wb_a3":"NLD",
-    "ne:wikidataid":"Q55",
-    "ne:wikipedia":"-99",
-    "ne:woe_id":-90,
-    "ne:woe_id_eh":23424909,
-    "ne:woe_note":"Doesn't include new former units of Netherlands Antilles (24549811, 24549808, and 24549809)",
-    "qs:a0":"Nederland",
-    "qs:a0_alt":"Nederland",
-    "qs:a0_lc":"NL000000",
-    "qs:adm0":"Netherlands",
-    "qs:adm0_a3":"NLD",
-    "qs:id":0,
-    "qs:level":"adm0",
-    "qs:source":"EuroGlobalMap",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "naturalearth"
+    "ne:abbrev": "Neth.",
+    "ne:abbrev_len": 5,
+    "ne:adm0_a3": "NLD",
+    "ne:adm0_a3_ar": "NLD",
+    "ne:adm0_a3_bd": "NLD",
+    "ne:adm0_a3_br": "NLD",
+    "ne:adm0_a3_cn": "NLD",
+    "ne:adm0_a3_de": "NLD",
+    "ne:adm0_a3_eg": "NLD",
+    "ne:adm0_a3_es": "NLD",
+    "ne:adm0_a3_fr": "NLD",
+    "ne:adm0_a3_gb": "NLD",
+    "ne:adm0_a3_gr": "NLD",
+    "ne:adm0_a3_id": "NLD",
+    "ne:adm0_a3_il": "NLD",
+    "ne:adm0_a3_in": "NLD",
+    "ne:adm0_a3_is": "NLD",
+    "ne:adm0_a3_it": "NLD",
+    "ne:adm0_a3_jp": "NLD",
+    "ne:adm0_a3_ko": "NLD",
+    "ne:adm0_a3_ma": "NLD",
+    "ne:adm0_a3_nl": "NLD",
+    "ne:adm0_a3_np": "NLD",
+    "ne:adm0_a3_pk": "NLD",
+    "ne:adm0_a3_pl": "NLD",
+    "ne:adm0_a3_ps": "NLD",
+    "ne:adm0_a3_pt": "NLD",
+    "ne:adm0_a3_ru": "NLD",
+    "ne:adm0_a3_sa": "NLD",
+    "ne:adm0_a3_se": "NLD",
+    "ne:adm0_a3_tr": "NLD",
+    "ne:adm0_a3_tw": "NLD",
+    "ne:adm0_a3_ua": "NLD",
+    "ne:adm0_a3_un": -99,
+    "ne:adm0_a3_us": "NLD",
+    "ne:adm0_a3_vn": "NLD",
+    "ne:adm0_a3_wb": -99,
+    "ne:adm0_dif": 1,
+    "ne:admin": "Netherlands",
+    "ne:brk_a3": "NLD",
+    "ne:brk_diff": 0,
+    "ne:brk_group": null,
+    "ne:brk_name": "Netherlands",
+    "ne:continent": "Europe",
+    "ne:economy": "2. Developed region: nonG7",
+    "ne:featurecla": "Admin-0 country",
+    "ne:fips_10": "NL",
+    "ne:fips_10_": "NL",
+    "ne:formal_en": "Kingdom of the Netherlands",
+    "ne:formal_fr": null,
+    "ne:gdp_md": 907050,
+    "ne:gdp_md_est": 672000,
+    "ne:gdp_year": 2019,
+    "ne:geou_dif": 0,
+    "ne:geounit": "Netherlands",
+    "ne:gu_a3": "NLD",
+    "ne:homepart": 1,
+    "ne:income_grp": "1. High income: OECD",
+    "ne:iso_a2": "NL",
+    "ne:iso_a2_eh": "NL",
+    "ne:iso_a3": "NLD",
+    "ne:iso_a3_eh": "NLD",
+    "ne:iso_n3": "528",
+    "ne:iso_n3_eh": "528",
+    "ne:labelrank": 5,
+    "ne:lastcensus": 2011,
+    "ne:level": 2,
+    "ne:long_len": 11,
+    "ne:mapcolor13": 9,
+    "ne:mapcolor7": 4,
+    "ne:mapcolor8": 2,
+    "ne:mapcolor9": 2,
+    "ne:max_label": 10,
+    "ne:min_label": 5,
+    "ne:min_zoom": 0,
+    "ne:name_alt": null,
+    "ne:name_ar": "هولندا",
+    "ne:name_bn": "নেদারল্যান্ডস",
+    "ne:name_ciawf": "Netherlands",
+    "ne:name_de": "Niederlande",
+    "ne:name_el": "Ολλανδία",
+    "ne:name_en": "Netherlands",
+    "ne:name_es": "Países Bajos",
+    "ne:name_fr": "Pays-Bas",
+    "ne:name_he": "הולנד",
+    "ne:name_hi": "नीदरलैण्ड",
+    "ne:name_hu": "Hollandia",
+    "ne:name_id": "Belanda",
+    "ne:name_it": "Paesi Bassi",
+    "ne:name_ja": "オランダ",
+    "ne:name_ko": "네덜란드",
+    "ne:name_len": 11,
+    "ne:name_long": "Netherlands",
+    "ne:name_nl": "Nederland",
+    "ne:name_pl": "Holandia",
+    "ne:name_pt": "Países Baixos",
+    "ne:name_ru": "Нидерланды",
+    "ne:name_sort": "Netherlands",
+    "ne:name_sv": "Nederländerna",
+    "ne:name_tr": "Hollanda",
+    "ne:name_uk": "Нідерланди",
+    "ne:name_ur": "نیدرلینڈز",
+    "ne:name_vi": "Hà Lan",
+    "ne:name_zh": "荷蘭",
+    "ne:note_adm0": null,
+    "ne:note_brk": null,
+    "ne:pop_est": 17332850,
+    "ne:pop_rank": 14,
+    "ne:pop_year": 2019,
+    "ne:postal": "NL",
+    "ne:region_un": "Europe",
+    "ne:region_wb": "Europe \u0026 Central Asia",
+    "ne:scalerank": 0,
+    "ne:sov_a3": "NL1",
+    "ne:sovereignt": "Netherlands",
+    "ne:su_a3": "NLD",
+    "ne:su_dif": 0,
+    "ne:subregion": "Western Europe",
+    "ne:subunit": "Netherlands",
+    "ne:tiny": -99,
+    "ne:type": "Country",
+    "ne:un_a3": "528",
+    "ne:wb_a2": "NL",
+    "ne:wb_a3": "NLD",
+    "ne:wikidataid": "Q55",
+    "ne:wikipedia": "-99",
+    "ne:woe_id": -90,
+    "ne:woe_id_eh": 23424909,
+    "ne:woe_note": "Doesn't include new former units of Netherlands Antilles (24549811, 24549808, and 24549809)",
+    "qs:a0": "Nederland",
+    "qs:a0_alt": "Nederland",
+    "qs:a0_lc": "NL000000",
+    "qs:adm0": "Netherlands",
+    "qs:adm0_a3": "NLD",
+    "qs:id": 0,
+    "qs:level": "adm0",
+    "qs:source": "EuroGlobalMap",
+    "sfomuseum:hashtags": [
+      "netherlands"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
-    "statoids:dial":"31",
-    "statoids:ds":"NL",
-    "statoids:fifa":"NED",
-    "statoids:gaul":"177",
-    "statoids:gec":"NL",
-    "statoids:independent":"Yes",
-    "statoids:ioc":"NED",
-    "statoids:iso_a2":"NL",
-    "statoids:iso_a3":"NLD",
-    "statoids:iso_num":"528",
-    "statoids:itu":"HOL",
-    "statoids:marc":"ne",
-    "statoids:name":"Netherlands",
-    "statoids:wmo":"NL",
-    "wd:wordcount":19987,
-    "wof:belongsto":[
-        102191581,
-        136253051
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "country",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "naturalearth"
     ],
-    "wof:breaches":[],
-    "wof:capital":[
-        101751893,
-        101752763
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "geonames",
+    "statoids:dial": "31",
+    "statoids:ds": "NL",
+    "statoids:fifa": "NED",
+    "statoids:gaul": "177",
+    "statoids:gec": "NL",
+    "statoids:independent": "Yes",
+    "statoids:ioc": "NED",
+    "statoids:iso_a2": "NL",
+    "statoids:iso_a3": "NLD",
+    "statoids:iso_num": "528",
+    "statoids:itu": "HOL",
+    "statoids:marc": "ne",
+    "statoids:name": "Netherlands",
+    "statoids:wmo": "NL",
+    "wd:wordcount": 19987,
+    "wof:belongsto": [
+      102191581,
+      136253051
     ],
-    "wof:concordances":{
-        "dbp:id":"Netherlands",
-        "digitalenvoy:country_code":528,
-        "fb:id":"en.netherlands",
-        "fifa:id":"NED",
-        "fips:code":"NL",
-        "gaul:id":"177",
-        "gn:id":2750405,
-        "gp:id":23424909,
-        "hasc:id":"NL",
-        "icao:code":"PH",
-        "ioc:id":"NED",
-        "itu:id":"HOL",
-        "m49:code":"528",
-        "marc:id":"ne",
-        "mzb:id":"the-netherlands",
-        "ne:adm0_a3":"NLD",
-        "ne:id":1159321101,
-        "nyt:id":"N9126831021305207931",
-        "qs_pg:id":1032451,
-        "uncrt:id":"NL",
-        "wd:id":"Q55",
-        "wmo:id":"NL"
+    "wof:breaches": [],
+    "wof:capital": [
+      101751893,
+      101752763
+    ],
+    "wof:concordances": {
+      "dbp:id": "Netherlands",
+      "digitalenvoy:country_code": 528,
+      "fb:id": "en.netherlands",
+      "fifa:id": "NED",
+      "fips:code": "NL",
+      "gaul:id": "177",
+      "gn:id": 2750405,
+      "gp:id": 23424909,
+      "hasc:id": "NL",
+      "icao:code": "PH",
+      "ioc:id": "NED",
+      "itu:id": "HOL",
+      "m49:code": "528",
+      "marc:id": "ne",
+      "mzb:id": "the-netherlands",
+      "ne:adm0_a3": "NLD",
+      "ne:id": 1159321101,
+      "nyt:id": "N9126831021305207931",
+      "qs_pg:id": 1032451,
+      "uncrt:id": "NL",
+      "wd:id": "Q55",
+      "wmo:id": "NL"
     },
-    "wof:controlled":[
-        "wof:parent_id",
-        "wof:hierarchy"
+    "wof:controlled": [
+      "wof:parent_id",
+      "wof:hierarchy"
     ],
-    "wof:country":"NL",
-    "wof:country_alpha3":"NLD",
-    "wof:geom_alt":[
-        "naturalearth-display-terrestrial-zoom6",
-        "naturalearth"
+    "wof:country": "NL",
+    "wof:country_alpha3": "NLD",
+    "wof:created": 1660851283,
+    "wof:geom_alt": [
+      "naturalearth-display-terrestrial-zoom6",
+      "naturalearth"
     ],
-    "wof:geomhash":"83a33fa813d29c44a07e4d57ad13b3c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "empire_id":136253051
-        }
+    "wof:geomhash": "7b2ef175b64ca9ae7785d0cdf101b0cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633337,
+        "empire_id": 136253051
+      }
     ],
-    "wof:id":85633337,
-    "wof:lang_x_official":[
-        "nld"
+    "wof:id": 85633337,
+    "wof:lang_x_official": [
+      "nld"
     ],
-    "wof:lang_x_spoken":[
-        "nld",
-        "fry"
+    "wof:lang_x_spoken": [
+      "nld",
+      "fry"
     ],
-    "wof:lastmodified":1617827635,
-    "wof:name":"Netherlands",
-    "wof:parent_id":102191581,
-    "wof:placetype":"country",
-    "wof:population":16645000,
-    "wof:population_rank":14,
-    "wof:repo":"whosonfirst-data-admin-nl",
-    "wof:shortcode":"NL",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1660851283,
+    "wof:name": "Netherlands",
+    "wof:parent_id": 102191581,
+    "wof:placetype": "country",
+    "wof:population": 16645000,
+    "wof:population_rank": 14,
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:shortcode": "NL",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     3.30944,
     50.750667,
     7.230902,
     53.565815
-],
-  "geometry": {"coordinates":[[[5.952791,51.744884],[5.952768,51.742477],[5.955327,51.738628],[5.989715,51.73877],[5.99285,51.738422],[5.994953,51.737797],[5.997981,51.736222],[6.0,51.73531],[6.032474,51.72417],[6.03569,51.718209],[6.039924,51.719006],[6.045317,51.716945],[6.046299,51.71653],[6.046459,51.716099],[6.04624,51.715451],[6.044585,51.713196],[6.043998,51.712906],[6.035556,51.712483],[6.034003,51.712288],[6.032294,51.711839],[6.030428,51.711064],[6.02734,51.70956],[6.026725,51.708828],[6.026593,51.707824],[6.02801,51.701947],[6.028583,51.700783],[6.029701,51.699493],[6.030369,51.698581],[6.03083,51.697338],[6.031297,51.692311],[6.031067,51.691464],[6.030349,51.690666],[6.029086,51.6902],[6.028029,51.689975],[6.03085,51.686455],[6.03141,51.685372],[6.032232,51.68327],[6.030095,51.678882],[6.030218,51.677624],[6.031334,51.676613],[6.040124,51.67202],[6.075276,51.664025],[6.078951,51.662792],[6.088042,51.660232],[6.101464,51.659858],[6.117946,51.656021],[6.117045,51.655183],[6.116444,51.654469],[6.116161,51.65371],[6.116163,51.652767],[6.116577,51.651699],[6.116923,51.651219],[6.115865,51.650116],[6.111078,51.645584],[6.098211,51.621505],[6.093856,51.622463],[6.094188,51.616162],[6.091795,51.606014],[6.120465,51.592437],[6.125387,51.586773],[6.12985,51.581634],[6.131397,51.580257],[6.141276,51.573959],[6.143999,51.572411],[6.146304,51.571213],[6.157421,51.566338],[6.177288,51.538693],[6.188627,51.533519],[6.191208,51.532265],[6.200802,51.526913],[6.206596,51.520886],[6.212406,51.513218],[6.213077,51.511715],[6.214169,51.505096],[6.214239,51.503693],[6.212755,51.491688],[6.213144,51.490647],[6.217991,51.485081],[6.223033,51.472653],[6.223473,51.470993],[6.223518,51.46946],[6.220022,51.45422],[6.219986,51.447212],[6.213707,51.446923],[6.214605,51.434296],[6.205993,51.400494],[6.225405,51.400524],[6.226517,51.399658],[6.217798,51.391594],[6.215115,51.388783],[6.214998,51.387737],[6.224294,51.365684],[6.225975,51.360894],[6.190255,51.339718],[6.192926,51.334862],[6.16908,51.332386],[6.16921,51.329937],[6.16292,51.323776],[6.161482,51.322445],[6.160651,51.321057],[6.159953,51.319523],[6.158797,51.315693],[6.158242,51.314133],[6.15387,51.307544],[6.146301,51.299397],[6.129264,51.286125],[6.123862,51.274395],[6.085498,51.247776],[6.071946,51.242244],[6.086058,51.223224],[6.083984,51.222473],[6.070845,51.222653],[6.068672,51.221672],[6.067606,51.220356],[6.071356,51.200001],[6.073416,51.183281],[6.082085,51.172047],[6.082899,51.1716],[6.084187,51.171383],[6.087019,51.17112],[6.08814,51.170872],[6.08985,51.170856],[6.093467,51.170521],[6.096447,51.170445],[6.099256,51.170536],[6.102135,51.170929],[6.106849,51.171902],[6.109918,51.172909],[6.112488,51.174069],[6.114266,51.175113],[6.115117,51.175751],[6.119272,51.179035],[6.120819,51.180053],[6.12302,51.181205],[6.124108,51.181617],[6.165735,51.194137],[6.180105,51.186791],[6.180076,51.186054],[6.1751,51.18451],[6.140158,51.17368],[6.139925,51.173061],[6.17574,51.158607],[6.173261,51.156811],[6.162907,51.151917],[6.163009,51.148957],[6.161055,51.149086],[6.159346,51.149051],[6.158802,51.148964],[6.157647,51.148739],[6.155581,51.148178],[6.154433,51.148025],[6.153057,51.147957],[6.150641,51.147995],[6.149342,51.148041],[6.148058,51.147938],[6.146943,51.147747],[6.145816,51.147537],[6.136178,51.145237],[6.134209,51.144906],[6.132376,51.144688],[6.127852,51.144314],[6.126394,51.144184],[6.125276,51.143868],[6.124437,51.14341],[6.121607,51.141304],[6.120523,51.140633],[6.119427,51.140095],[6.118127,51.139546],[6.116987,51.139153],[6.097985,51.135247],[6.096207,51.134983],[6.093095,51.134922],[6.092154,51.134922],[6.091047,51.134938],[6.088509,51.12928],[6.087846,51.127338],[6.081412,51.125725],[6.08056,51.124679],[6.080688,51.122295],[6.076478,51.120575],[6.075116,51.119152],[6.074457,51.118724],[6.0735,51.118359],[6.071718,51.117916],[6.063472,51.116955],[6.061848,51.116524],[6.060422,51.115792],[6.055754,51.111935],[6.05741,51.109429],[6.053818,51.106891],[6.035918,51.096447],[6.033933,51.095696],[6.03174,51.095054],[6.022643,51.092854],[6.020691,51.092804],[6.01713,51.094124],[6.010105,51.090767],[6.00201,51.085685],[6.0,51.084461],[5.997874,51.083435],[5.9953,51.081898],[5.993068,51.080131],[5.989071,51.07489],[5.981408,51.072216],[5.979179,51.069798],[5.978443,51.067017],[5.977576,51.065575],[5.976454,51.064396],[5.971427,51.06089],[5.968739,51.049114],[5.968513,51.047691],[5.967794,51.04612],[5.966772,51.044796],[5.959296,51.040646],[5.958223,51.035015],[5.955426,51.034905],[5.953808,51.036011],[5.952158,51.036576],[5.950101,51.03677],[5.944155,51.036049],[5.93746,51.035053],[5.936951,51.037266],[5.936097,51.039036],[5.934971,51.040615],[5.933111,51.042694],[5.926584,51.04813],[5.922569,51.056095],[5.918576,51.064022],[5.913344,51.066532],[5.899717,51.058728],[5.897682,51.057338],[5.893474,51.054001],[5.891701,51.053104],[5.889042,51.05249],[5.868178,51.051167],[5.866003,51.051132],[5.86789,51.045364],[5.868751,51.043808],[5.870301,51.042412],[5.874549,51.039215],[5.876921,51.037655],[5.877897,51.036457],[5.878164,51.035294],[5.877488,51.033996],[5.875622,51.030491],[5.875247,51.029205],[5.875248,51.028191],[5.875794,51.026752],[5.878801,51.018566],[5.879596,51.017407],[5.880619,51.016243],[5.883931,51.013565],[5.88694,51.013645],[5.88866,51.013378],[5.89283,51.011795],[5.896144,51.010536],[5.896008,51.004452],[5.905009,51.002292],[5.904653,50.99617],[5.904135,50.987262],[5.893098,50.980557],[5.897551,50.974987],[5.905056,50.974388],[5.918661,50.977837],[5.933779,50.985145],[5.954895,50.987988],[5.957109,50.984997],[5.965834,50.979778],[5.967063,50.979305],[5.968491,50.979211],[5.970228,50.979576],[5.97665,50.981591],[5.97946,50.982472],[5.980823,50.982731],[5.982369,50.982639],[5.98475,50.982155],[5.986413,50.982071],[5.9978,50.982456],[6.0,50.982537],[6.025051,50.983662],[6.025643,50.982105],[6.02544,50.980972],[6.01369,50.962067],[6.013339,50.961659],[6.009727,50.960541],[6.008295,50.959831],[6.00454,50.957206],[6.017004,50.952473],[6.015601,50.947883],[6.01864,50.935032],[6.049662,50.929352],[6.055506,50.926411],[6.054104,50.922405],[6.057404,50.922035],[6.068307,50.92081],[6.072558,50.92321],[6.079018,50.9225],[6.083235,50.921489],[6.087846,50.919228],[6.091881,50.920822],[6.093969,50.92165],[6.094813,50.921479],[6.094418,50.919845],[6.093781,50.918499],[6.092911,50.917705],[6.089483,50.915798],[6.088237,50.91491],[6.087078,50.913822],[6.08089,50.908027],[6.080366,50.907127],[6.080122,50.906014],[6.080213,50.904145],[6.080205,50.903316],[6.079936,50.902478],[6.076972,50.8979],[6.076163,50.896324],[6.075573,50.8946],[6.075273,50.892327],[6.075282,50.890419],[6.075737,50.889267],[6.07621,50.888663],[6.080032,50.884087],[6.081065,50.883141],[6.088399,50.877503],[6.086696,50.875843],[6.086523,50.875698],[6.088127,50.872967],[6.083592,50.865017],[6.077549,50.861099],[6.074237,50.847751],[6.073483,50.847332],[6.058048,50.851036],[6.057761,50.855099],[6.057346,50.855751],[6.056349,50.856049],[6.055125,50.855946],[6.051635,50.854641],[6.044379,50.852188],[6.041551,50.851353],[6.039157,50.85059],[6.021751,50.845569],[6.02121,50.837826],[6.019982,50.833374],[6.021157,50.830342],[6.024674,50.828235],[6.027865,50.820034],[6.022266,50.81625],[6.023682,50.813748],[6.016877,50.809857],[6.015213,50.80875],[6.013793,50.807492],[6.010162,50.804062],[6.004725,50.801751],[6.0,50.803932],[5.984889,50.810978],[5.976643,50.803005],[5.975121,50.797622],[5.977126,50.796505],[5.980084,50.795204],[5.981471,50.79474],[5.986494,50.793659],[5.987946,50.793289],[5.989346,50.792682],[5.994087,50.78989],[5.99474,50.789303],[5.995316,50.787201],[5.996132,50.786476],[6.0,50.784455],[6.004827,50.782219],[6.009423,50.780297],[6.018599,50.776928],[6.02183,50.775898],[6.024911,50.775044],[6.02696,50.774281],[6.027834,50.773701],[6.025101,50.770515],[6.021312,50.766264],[6.019695,50.76445],[6.019003,50.763249],[6.018922,50.761925],[6.020961,50.755199],[6.021252,50.754238],[6.021068,50.754318],[6.017202,50.755069],[6.013377,50.75515],[6.004347,50.753868],[6.002936,50.754047],[5.998759,50.753067],[5.996433,50.753643],[5.991041,50.752929],[5.984772,50.75336],[5.983066,50.752914],[5.978961,50.754646],[5.976692,50.754497],[5.974912,50.755001],[5.974933,50.757969],[5.973205,50.759556],[5.959456,50.762333],[5.956437,50.761574],[5.952393,50.76041],[5.946522,50.75988],[5.944168,50.75848],[5.942035,50.758274],[5.939061,50.757988],[5.936146,50.756805],[5.931737,50.75679],[5.92207,50.751228],[5.915589,50.750667],[5.915057,50.755207],[5.909283,50.755497],[5.904493,50.754699],[5.901778,50.751415],[5.900845,50.751499],[5.897937,50.752689],[5.895161,50.754539],[5.892114,50.755245],[5.889386,50.756935],[5.889291,50.757496],[5.890275,50.761635],[5.886839,50.769863],[5.87625,50.76506],[5.870526,50.765014],[5.859634,50.761764],[5.848962,50.753509],[5.844957,50.765388],[5.830789,50.758445],[5.822982,50.758976],[5.816792,50.756897],[5.807919,50.755924],[5.793393,50.77013],[5.784806,50.767429],[5.776425,50.783066],[5.765845,50.782116],[5.740799,50.763637],[5.740251,50.761856],[5.738884,50.758003],[5.730073,50.758224],[5.720058,50.764095],[5.715519,50.760047],[5.702546,50.758468],[5.699027,50.755298],[5.694603,50.754711],[5.687892,50.755981],[5.687936,50.757545],[5.682036,50.75745],[5.682406,50.760082],[5.685098,50.763584],[5.695649,50.772213],[5.70113,50.782051],[5.701144,50.783561],[5.699911,50.78556],[5.695915,50.789203],[5.694749,50.792103],[5.69119,50.79573],[5.691379,50.797363],[5.69838,50.803676],[5.698933,50.805687],[5.697736,50.807506],[5.693706,50.810791],[5.693214,50.811191],[5.69318,50.812],[5.690876,50.812252],[5.689768,50.811741],[5.687715,50.812092],[5.68587,50.812404],[5.683697,50.813373],[5.682853,50.813125],[5.681692,50.812248],[5.680302,50.812263],[5.678247,50.816429],[5.673227,50.816055],[5.672495,50.816738],[5.669446,50.817867],[5.667968,50.817795],[5.668156,50.816452],[5.662915,50.818317],[5.658859,50.818477],[5.654077,50.820015],[5.654338,50.821308],[5.656419,50.823161],[5.656165,50.824272],[5.651755,50.827484],[5.648741,50.826843],[5.651296,50.832023],[5.649884,50.833896],[5.643549,50.837921],[5.645335,50.839397],[5.641779,50.840786],[5.642071,50.843109],[5.63914,50.846145],[5.638887,50.847747],[5.640183,50.849487],[5.642557,50.85009],[5.641546,50.852627],[5.640228,50.853801],[5.64335,50.856796],[5.641622,50.857536],[5.643365,50.860447],[5.642096,50.861377],[5.643855,50.862888],[5.641433,50.864189],[5.649432,50.868339],[5.644074,50.871391],[5.647716,50.873646],[5.64867,50.873256],[5.651308,50.875114],[5.65327,50.874077],[5.656319,50.876507],[5.65857,50.876201],[5.66106,50.877361],[5.661367,50.878144],[5.670535,50.881809],[5.674147,50.880893],[5.678435,50.88071],[5.679167,50.882469],[5.680978,50.886825],[5.682933,50.888618],[5.693281,50.89468],[5.695699,50.898224],[5.696783,50.903316],[5.696339,50.907242],[5.698074,50.909755],[5.699271,50.910408],[5.705767,50.911773],[5.708903,50.911495],[5.71619,50.908275],[5.719059,50.908142],[5.721652,50.908806],[5.723963,50.910488],[5.726253,50.913463],[5.726695,50.914978],[5.726226,50.920871],[5.727198,50.92353],[5.730651,50.927788],[5.741357,50.936111],[5.746515,50.946773],[5.74788,50.947654],[5.753028,50.949428],[5.757472,50.950519],[5.758246,50.951217],[5.758857,50.953125],[5.758311,50.954803],[5.754262,50.958492],[5.748992,50.960811],[5.744877,50.96122],[5.74376,50.96101],[5.736331,50.956249],[5.731565,50.955341],[5.729327,50.955208],[5.723531,50.956642],[5.721741,50.95776],[5.720289,50.961189],[5.721768,50.9636],[5.732932,50.971996],[5.735284,50.975006],[5.736361,50.977737],[5.737821,50.97895],[5.747346,50.981331],[5.748678,50.982025],[5.755401,50.990219],[5.764772,50.996364],[5.767049,50.999114],[5.767386,51.000435],[5.766296,51.009228],[5.76714,51.012169],[5.776279,51.021759],[5.776415,51.023461],[5.773808,51.026825],[5.771768,51.027775],[5.759738,51.030723],[5.758971,51.031345],[5.758234,51.033401],[5.758538,51.034523],[5.769481,51.047565],[5.772094,51.052909],[5.772567,51.061554],[5.773737,51.062519],[5.774864,51.062919],[5.778146,51.062988],[5.783327,51.061649],[5.788241,51.059494],[5.791075,51.058811],[5.794898,51.058838],[5.799119,51.060173],[5.800766,51.062202],[5.80095,51.063583],[5.799927,51.065429],[5.796573,51.071483],[5.796693,51.072483],[5.799211,51.074798],[5.801831,51.076076],[5.803136,51.076935],[5.803929,51.078468],[5.803654,51.079948],[5.797653,51.089356],[5.797641,51.090664],[5.799077,51.092357],[5.803429,51.095161],[5.804776,51.095645],[5.807309,51.095936],[5.809747,51.096058],[5.812029,51.095725],[5.818935,51.093189],[5.820896,51.092796],[5.823449,51.092632],[5.825763,51.093307],[5.829297,51.095512],[5.832122,51.098938],[5.832646,51.10202],[5.831867,51.104377],[5.829204,51.106189],[5.827365,51.107086],[5.823499,51.107906],[5.820228,51.107963],[5.819073,51.107982],[5.818065,51.107967],[5.81486,51.107944],[5.812509,51.108497],[5.810427,51.109409],[5.80887,51.11084],[5.808035,51.112457],[5.807764,51.113907],[5.81002,51.118221],[5.813887,51.120968],[5.816141,51.122291],[5.824036,51.128719],[5.827394,51.129989],[5.831683,51.130581],[5.84011,51.130714],[5.840882,51.13105],[5.842746,51.132995],[5.843276,51.134636],[5.844803,51.139362],[5.846783,51.141239],[5.852652,51.143055],[5.855691,51.144619],[5.854871,51.145004],[5.8538,51.145508],[5.83981,51.15208],[5.836732,51.153526],[5.838892,51.157078],[5.833267,51.159152],[5.833567,51.161438],[5.824653,51.16756],[5.815814,51.161514],[5.815738,51.15908],[5.813915,51.158962],[5.805383,51.162788],[5.802325,51.15953],[5.799082,51.157711],[5.792689,51.157074],[5.787624,51.155128],[5.785287,51.153152],[5.778184,51.151523],[5.775368,51.156276],[5.779335,51.159523],[5.77901,51.163822],[5.77038,51.164497],[5.769621,51.169513],[5.779477,51.1721],[5.773378,51.173332],[5.776947,51.178444],[5.767322,51.183998],[5.757095,51.184688],[5.745852,51.189544],[5.739845,51.186607],[5.719975,51.184693],[5.714479,51.183609],[5.709384,51.18066],[5.707832,51.18211],[5.70147,51.182613],[5.701283,51.184044],[5.696503,51.184097],[5.694872,51.182831],[5.689478,51.185322],[5.67666,51.183033],[5.676022,51.184613],[5.67059,51.185817],[5.664687,51.186455],[5.658122,51.184734],[5.649915,51.193653],[5.654081,51.194275],[5.652872,51.197654],[5.645418,51.200298],[5.566214,51.220825],[5.565522,51.221005],[5.56044,51.22232],[5.560286,51.222892],[5.554941,51.244678],[5.556718,51.250232],[5.556514,51.253261],[5.555386,51.254738],[5.556639,51.257534],[5.557794,51.260261],[5.557911,51.262703],[5.556846,51.262752],[5.556264,51.266544],[5.544411,51.271251],[5.54382,51.271728],[5.528464,51.281975],[5.519109,51.289474],[5.515723,51.295162],[5.483093,51.300228],[5.483295,51.298698],[5.479431,51.296802],[5.477038,51.293709],[5.476936,51.291523],[5.470321,51.288376],[5.464936,51.284641],[5.441782,51.282127],[5.440501,51.278538],[5.438333,51.276061],[5.433836,51.276386],[5.417337,51.262256],[5.384142,51.269069],[5.346117,51.275799],[5.345497,51.273872],[5.346033,51.273357],[5.345901,51.272289],[5.343817,51.269748],[5.342712,51.265884],[5.33689,51.263237],[5.313143,51.263546],[5.295951,51.261577],[5.263041,51.266887],[5.237615,51.261532],[5.225989,51.268299],[5.242045,51.305111],[5.230017,51.310154],[5.200254,51.322624],[5.196531,51.320335],[5.190479,51.32011],[5.172887,51.315765],[5.162808,51.310356],[5.134479,51.315487],[5.131696,51.34713],[5.124581,51.351303],[5.11952,51.355652],[5.11692,51.360943],[5.07118,51.393451],[5.093395,51.420234],[5.104871,51.431389],[5.079369,51.471134],[5.07808,51.471496],[5.074052,51.471119],[5.064743,51.47113],[5.04571,51.471157],[5.043505,51.474758],[5.043283,51.475143],[5.038023,51.479072],[5.039203,51.479835],[5.040257,51.48653],[5.038771,51.487186],[5.03385,51.487358],[5.032502,51.485924],[5.02192,51.48146],[5.016503,51.475559],[5.010837,51.472252],[5.007428,51.46524],[5.007728,51.462475],[5.008866,51.462272],[5.010302,51.457683],[5.010956,51.455982],[5.010503,51.453991],[5.009503,51.452797],[5.007729,51.451641],[5.006306,51.451553],[5.005436,51.450798],[5.004644,51.444114],[5.00093,51.442779],[4.999386,51.44144],[4.962965,51.422146],[4.928202,51.395382],[4.920901,51.393585],[4.913914,51.39505],[4.91533,51.395294],[4.918051,51.39685],[4.917979,51.398319],[4.917091,51.399677],[4.914851,51.401272],[4.910616,51.402252],[4.909278,51.403671],[4.908844,51.405197],[4.909679,51.407005],[4.906181,51.409221],[4.893669,51.413574],[4.890886,51.415226],[4.889084,51.41563],[4.88682,51.415245],[4.88358,51.416443],[4.881278,51.415657],[4.873641,51.414814],[4.873483,51.414081],[4.868165,51.412567],[4.866305,51.411075],[4.866931,51.410632],[4.86786,51.410579],[4.868366,51.409649],[4.867375,51.409061],[4.865969,51.409992],[4.860088,51.410766],[4.859609,51.411411],[4.860862,51.413788],[4.860355,51.414253],[4.857211,51.4142],[4.852125,51.415508],[4.850762,51.415451],[4.846069,51.412964],[4.839799,51.414684],[4.796631,51.410423],[4.789253,51.408893],[4.780291,51.411857],[4.777916,51.41354],[4.775242,51.413967],[4.773039,51.413494],[4.768594,51.419311],[4.768995,51.421341],[4.770446,51.423252],[4.768394,51.429359],[4.767199,51.430336],[4.773868,51.431671],[4.787075,51.432464],[4.789443,51.429825],[4.79178,51.429313],[4.79584,51.428425],[4.800055,51.429069],[4.804062,51.427978],[4.805278,51.428497],[4.808543,51.426464],[4.815613,51.425422],[4.821326,51.422828],[4.836578,51.417686],[4.840928,51.422275],[4.828443,51.424061],[4.826436,51.430343],[4.823472,51.448791],[4.828902,51.450851],[4.834921,51.45842],[4.839441,51.455944],[4.843972,51.459114],[4.836513,51.462524],[4.836986,51.468242],[4.840365,51.472912],[4.840431,51.479412],[4.839621,51.481498],[4.821307,51.482868],[4.817618,51.489124],[4.817649,51.492244],[4.815783,51.49472],[4.809949,51.495918],[4.804837,51.497673],[4.796005,51.499843],[4.79308,51.498775],[4.78749,51.498737],[4.783622,51.499603],[4.779521,51.504471],[4.772273,51.504844],[4.759948,51.502445],[4.75811,51.500133],[4.755433,51.500282],[4.752663,51.499778],[4.748869,51.496666],[4.749786,51.49559],[4.749576,51.494213],[4.746359,51.489395],[4.729782,51.48426],[4.720234,51.473507],[4.716017,51.471084],[4.716896,51.468834],[4.703251,51.466949],[4.702765,51.466041],[4.703715,51.465252],[4.699175,51.460613],[4.693158,51.451755],[4.686295,51.451244],[4.666556,51.444416],[4.669603,51.426426],[4.664553,51.426174],[4.656555,51.424965],[4.651829,51.426712],[4.649511,51.425812],[4.646537,51.423469],[4.641709,51.422504],[4.641265,51.422008],[4.637907,51.422924],[4.633914,51.425178],[4.586685,51.431423],[4.582515,51.431381],[4.582231,51.431942],[4.574614,51.432827],[4.535453,51.423038],[4.530144,51.449489],[4.548232,51.473202],[4.538032,51.48233],[4.486725,51.477382],[4.484002,51.477661],[4.477565,51.478321],[4.475641,51.478058],[4.471983,51.476441],[4.465379,51.471309],[4.442393,51.468609],[4.384973,51.44928],[4.38285,51.45021],[4.381579,51.44828],[4.379964,51.447712],[4.379502,51.446655],[4.386806,51.445175],[4.392053,51.446251],[4.396227,51.442562],[4.397167,51.440799],[4.395401,51.439777],[4.395483,51.435489],[4.398979,51.435241],[4.3973,51.431534],[4.392717,51.432743],[4.392401,51.431431],[4.394149,51.431205],[4.395187,51.426849],[4.391357,51.42725],[4.390568,51.424263],[4.389404,51.42427],[4.383449,51.420917],[4.391436,51.408096],[4.43149,51.374916],[4.424868,51.371223],[4.428052,51.369331],[4.430584,51.366398],[4.431244,51.363853],[4.421716,51.365261],[4.418256,51.363915],[4.409967,51.361053],[4.394813,51.355819],[4.384562,51.354309],[4.384007,51.355354],[4.379141,51.355018],[4.366425,51.357185],[4.350364,51.358577],[4.341085,51.357559],[4.33446,51.377628],[4.311551,51.377182],[4.279565,51.376041],[4.276915,51.375946],[4.271141,51.375737],[4.268178,51.375631],[4.26566,51.375541],[4.241931,51.374687],[4.240638,51.37464],[4.236131,51.374477],[4.234923,51.374433],[4.216513,51.373768],[4.222623,51.363224],[4.22703,51.35944],[4.235832,51.354645],[4.240662,51.352955],[4.234532,51.348034],[4.165789,51.29274],[4.078655,51.253647],[4.078461,51.253074],[4.070705,51.250808],[4.071188,51.250038],[4.06405,51.247398],[4.061829,51.244663],[4.054359,51.242866],[4.039869,51.241558],[4.036546,51.245704],[4.035066,51.245018],[4.034801,51.244446],[4.024547,51.241607],[4.023622,51.243297],[4.02101,51.245392],[4.015467,51.244544],[4.01496,51.245163],[4.009265,51.243404],[4.000346,51.239475],[3.999708,51.238586],[3.999804,51.237922],[3.991783,51.235889],[3.988422,51.233383],[3.986591,51.234062],[3.985805,51.233803],[3.981177,51.228607],[3.979644,51.225803],[3.978968,51.225364],[3.977698,51.225147],[3.976801,51.225403],[3.964717,51.224014],[3.963953,51.223404],[3.963652,51.220886],[3.961743,51.220352],[3.960703,51.218506],[3.958865,51.215969],[3.953225,51.216591],[3.950101,51.215725],[3.94308,51.214756],[3.943233,51.213577],[3.936022,51.21191],[3.933315,51.214432],[3.929468,51.220257],[3.925507,51.217087],[3.91996,51.217155],[3.918782,51.215118],[3.916262,51.21476],[3.918518,51.208202],[3.917236,51.208503],[3.916037,51.208488],[3.914327,51.207729],[3.911525,51.205246],[3.900679,51.202461],[3.899916,51.201885],[3.894658,51.203541],[3.893248,51.203323],[3.886286,51.200306],[3.884231,51.203644],[3.877711,51.207977],[3.882716,51.209942],[3.89047,51.214367],[3.893291,51.218467],[3.888664,51.222976],[3.873246,51.217441],[3.859327,51.210911],[3.856373,51.211067],[3.852359,51.213409],[3.849729,51.211811],[3.84569,51.212986],[3.842444,51.212051],[3.836522,51.213752],[3.834556,51.212059],[3.827555,51.209511],[3.821118,51.209278],[3.809914,51.212833],[3.806114,51.213386],[3.804633,51.213256],[3.80356,51.213161],[3.804729,51.210106],[3.802372,51.210361],[3.801166,51.210585],[3.799239,51.210941],[3.797122,51.212986],[3.790789,51.214405],[3.789752,51.215816],[3.788747,51.227371],[3.789468,51.245868],[3.79552,51.256046],[3.786179,51.258404],[3.778374,51.262409],[3.774079,51.263691],[3.772866,51.261875],[3.769629,51.260074],[3.762551,51.261848],[3.755682,51.269451],[3.752374,51.270389],[3.751727,51.269253],[3.724073,51.27338],[3.71937,51.272602],[3.718653,51.271465],[3.712698,51.272197],[3.69349,51.276195],[3.68978,51.28072],[3.681869,51.281158],[3.678031,51.28059],[3.676816,51.283012],[3.65793,51.290291],[3.644498,51.290176],[3.643276,51.288818],[3.64082,51.288181],[3.632511,51.291073],[3.625661,51.293411],[3.621461,51.292793],[3.619303,51.294296],[3.618693,51.295906],[3.591118,51.304432],[3.592003,51.305439],[3.590216,51.306057],[3.581071,51.298301],[3.583489,51.295879],[3.587752,51.293102],[3.586722,51.292648],[3.583357,51.292248],[3.582574,51.290699],[3.583889,51.288921],[3.581899,51.286945],[3.579649,51.288837],[3.577754,51.288803],[3.575763,51.288604],[3.5734,51.289467],[3.571484,51.291099],[3.571972,51.291954],[3.566344,51.293922],[3.566172,51.294636],[3.562633,51.295883],[3.559802,51.295444],[3.555852,51.290161],[3.553996,51.289703],[3.551762,51.289985],[3.550191,51.291031],[3.543572,51.291115],[3.54214,51.288097],[3.538236,51.283622],[3.533579,51.28355],[3.529232,51.288727],[3.51544,51.287185],[3.527973,51.246303],[3.47501,51.242676],[3.459325,51.241798],[3.447816,51.24171],[3.432345,51.245521],[3.427392,51.244624],[3.424587,51.254528],[3.421054,51.256626],[3.41816,51.25806],[3.417134,51.259781],[3.416341,51.260063],[3.415472,51.259758],[3.412529,51.257374],[3.410529,51.256729],[3.407808,51.256813],[3.406434,51.257629],[3.40404,51.261821],[3.402442,51.262921],[3.397154,51.264038],[3.3947,51.265301],[3.388931,51.271137],[3.388549,51.272682],[3.387439,51.273437],[3.380722,51.274308],[3.378945,51.274742],[3.375926,51.276863],[3.375291,51.278523],[3.376299,51.279865],[3.379621,51.28025],[3.381939,51.281936],[3.380951,51.284137],[3.38116,51.28574],[3.380509,51.287754],[3.375359,51.289734],[3.372969,51.290543],[3.370715,51.291729],[3.367775,51.294586],[3.366124,51.297813],[3.36641,51.298656],[3.367611,51.299392],[3.370216,51.299869],[3.377274,51.302273],[3.372106,51.305645],[3.358345,51.315021],[3.385328,51.334198],[3.383543,51.341236],[3.37405,51.348594],[3.373671,51.354301],[3.374952,51.358963],[3.365824,51.369847],[3.30944,51.436085],[3.323727,51.464813],[3.374826,51.567265],[3.387456,51.592514],[3.452737,51.616405],[3.486072,51.573624],[3.571073,51.604736],[3.594644,51.631352],[3.659623,51.70454],[3.685518,51.733631],[3.721783,51.753357],[3.786154,51.78817],[3.86052,51.828358],[3.953301,51.850025],[3.972771,51.910961],[3.940903,51.921566],[3.953129,51.989143],[4.032776,52.00357],[4.110271,52.004436],[4.119259,52.009323],[4.145106,52.03249],[4.184619,52.061329],[4.238218,52.099834],[4.237189,52.104061],[4.242823,52.110534],[4.254941,52.112568],[4.289933,52.13496],[4.360577,52.193084],[4.390673,52.224907],[4.441095,52.283159],[4.476963,52.332531],[4.525983,52.40493],[4.544346,52.439182],[4.543613,52.449104],[4.533714,52.449386],[4.522047,52.455436],[4.517693,52.464031],[4.523162,52.470672],[4.538909,52.477195],[4.555339,52.478252],[4.566277,52.49308],[4.576978,52.514],[4.583421,52.53389],[4.592876,52.569866],[4.611816,52.661464],[4.62084,52.69836],[4.624546,52.728027],[4.634477,52.758327],[4.647275,52.781547],[4.693944,52.884406],[4.629449,52.889724],[4.646201,52.94107],[4.613153,52.960587],[4.612908,52.979695],[4.686772,53.003113],[4.686194,53.047802],[4.716046,53.088505],[4.731554,53.103134],[4.803693,53.169307],[4.818566,53.182556],[4.818053,53.214267],[4.841054,53.232743],[4.908959,53.260181],[4.930542,53.270217],[5.003747,53.303501],[5.027177,53.314209],[5.08707,53.323299],[5.101159,53.367909],[5.161857,53.386177],[5.176583,53.408532],[5.20401,53.412029],[5.329567,53.427811],[5.358928,53.431557],[5.383855,53.436493],[5.464164,53.452522],[5.492746,53.458061],[5.553002,53.471512],[5.613248,53.493858],[5.638793,53.487274],[5.677839,53.477494],[5.702602,53.471215],[5.731909,53.472187],[5.812567,53.474583],[5.840634,53.475364],[5.868333,53.477398],[5.931536,53.48172],[5.959864,53.48367],[6.004313,53.492519],[6.028218,53.492195],[6.049881,53.492192],[6.064968,53.492806],[6.110461,53.496486],[6.125993,53.523342],[6.153068,53.518811],[6.279044,53.522384],[6.321329,53.526264],[6.35212,53.53936],[6.428092,53.565815],[6.523486,53.565353],[6.584562,53.564815],[6.591141,53.561939],[6.596345,53.55999],[6.608892,53.555767],[6.610152,53.555276],[6.612549,53.554177],[6.613637,53.553593],[6.615315,53.552166],[6.616539,53.550224],[6.617379,53.54789],[6.617787,53.547027],[6.618242,53.546143],[6.618776,53.545303],[6.621258,53.542443],[6.623909,53.539837],[6.62473,53.539101],[6.625653,53.538303],[6.628082,53.536918],[6.629207,53.536331],[6.631572,53.535191],[6.632819,53.534687],[6.633416,53.534502],[6.635323,53.533912],[6.653444,53.531559],[6.65709,53.531086],[6.658559,53.530887],[6.662784,53.530285],[6.665834,53.529438],[6.66806,53.528244],[6.669118,53.527603],[6.67735,53.522354],[6.679884,53.520065],[6.681943,53.517796],[6.684589,53.514523],[6.688388,53.510525],[6.693064,53.506882],[6.698064,53.503678],[6.704386,53.49987],[6.710805,53.497036],[6.71848,53.494346],[6.726699,53.491677],[6.730093,53.490727],[6.759407,53.483852],[6.763815,53.482712],[6.768517,53.481312],[6.79591,53.472317],[6.801152,53.470932],[6.805777,53.469879],[6.816492,53.467602],[6.823417,53.466587],[6.847082,53.46323],[6.858457,53.461323],[6.864768,53.460178],[6.869401,53.459152],[6.874151,53.457947],[6.886325,53.454308],[6.889381,53.453327],[6.892971,53.452087],[6.89526,53.451114],[6.897858,53.449829],[6.899997,53.448509],[6.901175,53.447609],[6.90214,53.446621],[6.903332,53.445088],[6.903779,53.443886],[6.903397,53.441921],[6.902355,53.440082],[6.898659,53.435402],[6.896153,53.432427],[6.893622,53.429207],[6.891604,53.425862],[6.889602,53.421779],[6.889221,53.420738],[6.888405,53.418514],[6.888358,53.418315],[6.887725,53.415646],[6.887502,53.407208],[6.887774,53.405026],[6.888593,53.402859],[6.890167,53.40044],[6.891721,53.398243],[6.892839,53.396011],[6.894589,53.390526],[6.894825,53.387832],[6.894571,53.384273],[6.894463,53.381153],[6.895493,53.377987],[6.896788,53.375294],[6.89878,53.372303],[6.899427,53.370957],[6.899678,53.369515],[6.900763,53.364487],[6.902084,53.361473],[6.903435,53.359272],[6.905393,53.357052],[6.907746,53.354657],[6.910327,53.352566],[6.913418,53.350456],[6.930004,53.340088],[6.934955,53.337612],[6.943621,53.333771],[6.945963,53.332855],[6.948426,53.33205],[6.972586,53.325764],[6.984071,53.322602],[6.986613,53.321621],[6.989096,53.320484],[6.997888,53.316059],[7.000717,53.315151],[7.003429,53.314484],[7.033596,53.309536],[7.039314,53.308376],[7.041603,53.307701],[7.042783,53.307199],[7.043296,53.30698],[7.047579,53.304535],[7.049186,53.303943],[7.05119,53.303447],[7.054292,53.303059],[7.062424,53.302994],[7.066494,53.303364],[7.070853,53.304013],[7.077209,53.305348],[7.079683,53.305882],[7.083886,53.306828],[7.09371,53.308865],[7.098575,53.309097],[7.159707,53.313064],[7.192195,53.315171],[7.196511,53.295192],[7.197412,53.291024],[7.202137,53.269148],[7.207657,53.243593],[7.211113,53.227596],[7.215021,53.217812],[7.215526,53.216034],[7.21618,53.200997],[7.216139,53.199036],[7.215774,53.197681],[7.214652,53.196476],[7.209904,53.193428],[7.207736,53.189671],[7.210139,53.188614],[7.213099,53.187485],[7.22769,53.181549],[7.229164,53.180626],[7.230098,53.179425],[7.230607,53.178314],[7.230902,53.177433],[7.214653,53.17305],[7.212456,53.172745],[7.208571,53.172596],[7.205494,53.17289],[7.201663,53.173527],[7.190693,53.159603],[7.189045,53.156052],[7.188649,53.149342],[7.188326,53.147339],[7.18781,53.146332],[7.181873,53.140339],[7.181003,53.139321],[7.180622,53.138099],[7.185113,53.121353],[7.202651,53.113022],[7.199743,53.088372],[7.199592,53.08701],[7.198924,53.081203],[7.21231,53.012505],[7.216125,53.007183],[7.208629,53.000218],[7.204349,52.990105],[7.181115,52.940911],[7.106827,52.867618],[7.087276,52.850731],[7.091696,52.838196],[7.091595,52.838055],[7.072318,52.811138],[7.05343,52.643875],[7.040663,52.632965],[7.037753,52.633736],[7.036126,52.634106],[7.034275,52.634423],[7.029305,52.634742],[7.027544,52.634877],[7.010367,52.637222],[7.007664,52.637771],[7.005419,52.63871],[7.003251,52.640343],[7.001949,52.640934],[7.000436,52.641384],[6.997827,52.641666],[6.992789,52.641777],[6.990613,52.641903],[6.977833,52.645474],[6.976188,52.645729],[6.974644,52.64576],[6.973097,52.64531],[6.969267,52.643272],[6.967684,52.642513],[6.965465,52.641888],[6.954659,52.639839],[6.952735,52.639599],[6.950446,52.639344],[6.940202,52.63871],[6.937734,52.638584],[6.935805,52.638626],[6.933696,52.638787],[6.919004,52.640274],[6.917609,52.640503],[6.916476,52.640866],[6.915599,52.641423],[6.915075,52.641983],[6.913728,52.645595],[6.912822,52.646343],[6.91125,52.646939],[6.896759,52.651001],[6.893408,52.651542],[6.872236,52.652759],[6.870221,52.652603],[6.868684,52.652142],[6.865085,52.650704],[6.863213,52.650162],[6.861447,52.649948],[6.852631,52.649327],[6.850798,52.649308],[6.848889,52.649548],[6.839554,52.651901],[6.837146,52.652268],[6.834507,52.65223],[6.832193,52.651924],[6.830045,52.651291],[6.823655,52.648731],[6.821419,52.648296],[6.818664,52.648194],[6.809556,52.649369],[6.806134,52.649898],[6.794179,52.652256],[6.790824,52.652748],[6.78795,52.652935],[6.783957,52.652954],[6.780827,52.652698],[6.777525,52.652066],[6.774332,52.651054],[6.77202,52.649983],[6.766884,52.647575],[6.759735,52.649311],[6.756952,52.648704],[6.75422,52.648133],[6.751674,52.647568],[6.742277,52.645572],[6.726928,52.634285],[6.725085,52.633244],[6.711132,52.628342],[6.711312,52.62709],[6.711485,52.62698],[6.722588,52.619816],[6.726551,52.61496],[6.718754,52.589073],[6.764143,52.564834],[6.765159,52.564057],[6.766237,52.561977],[6.753567,52.55938],[6.751878,52.559086],[6.750628,52.559048],[6.749289,52.559288],[6.740825,52.561485],[6.738908,52.561901],[6.737008,52.562104],[6.725357,52.563202],[6.719524,52.551659],[6.715545,52.54897],[6.683161,52.552788],[6.681482,52.551953],[6.705138,52.520535],[6.697741,52.486492],[6.754067,52.463562],[6.775317,52.459602],[6.854118,52.459645],[6.852351,52.450341],[6.85284,52.449856],[6.862819,52.451298],[6.937564,52.436329],[6.941901,52.435452],[6.946673,52.436608],[6.948962,52.437592],[6.950147,52.438141],[6.952379,52.439308],[6.959935,52.443829],[6.962277,52.445561],[6.964039,52.447345],[6.968225,52.452454],[6.977864,52.46492],[6.987848,52.469166],[6.991693,52.467033],[6.993096,52.465461],[6.998849,52.456299],[7.002632,52.449302],[7.004049,52.44651],[7.005537,52.443569],[7.010801,52.429566],[7.021907,52.422879],[7.035115,52.402618],[7.054143,52.400642],[7.059026,52.398346],[7.063801,52.389835],[7.072566,52.373043],[7.072296,52.352314],[7.056074,52.337948],[7.054227,52.332463],[7.053424,52.330853],[7.046641,52.323071],[7.047065,52.319149],[7.027256,52.292572],[7.026516,52.29084],[7.026338,52.289123],[7.026804,52.286999],[7.027845,52.28434],[7.028154,52.283016],[7.028268,52.275246],[7.028567,52.274128],[7.029284,52.273151],[7.031649,52.271786],[7.032722,52.270729],[7.042701,52.256329],[7.063733,52.241291],[7.063818,52.240174],[7.063429,52.239285],[7.061476,52.237126],[7.05587,52.233929],[7.050037,52.231468],[7.039047,52.227894],[7.0188,52.224831],[7.013242,52.227558],[7.005962,52.228546],[7.003928,52.228604],[6.991674,52.22752],[6.987863,52.226998],[6.985113,52.224945],[6.982092,52.222073],[6.980814,52.220524],[6.979975,52.219094],[6.975706,52.209275],[6.974268,52.205796],[6.95122,52.181092],[6.91018,52.17664],[6.907844,52.176052],[6.906566,52.175369],[6.905746,52.174225],[6.905549,52.170227],[6.880863,52.156074],[6.872767,52.131775],[6.871905,52.130565],[6.870337,52.129444],[6.855135,52.120522],[6.82231,52.11861],[6.760121,52.118805],[6.758368,52.102279],[6.757621,52.100292],[6.756643,52.098458],[6.754344,52.094803],[6.750949,52.095787],[6.749027,52.095863],[6.747628,52.095581],[6.744446,52.093697],[6.743088,52.092911],[6.749137,52.087517],[6.749717,52.086693],[6.749799,52.085713],[6.749368,52.084717],[6.748379,52.083595],[6.73488,52.075161],[6.695324,52.070946],[6.69646,52.067821],[6.69633,52.066319],[6.695671,52.065037],[6.687919,52.056385],[6.687014,52.054989],[6.68663,52.053967],[6.687576,52.04004],[6.715455,52.039913],[6.752575,52.028515],[6.806466,52.0],[6.810368,51.998017],[6.808061,51.995262],[6.825934,51.99326],[6.829513,51.986225],[6.829566,51.979759],[6.830004,51.976859],[6.831914,51.974113],[6.832197,51.97284],[6.831887,51.971412],[6.828282,51.964463],[6.813179,51.962742],[6.798778,51.958938],[6.795739,51.944348],[6.794078,51.936871],[6.785498,51.931389],[6.788025,51.929837],[6.769825,51.917011],[6.764233,51.915741],[6.756733,51.913964],[6.754588,51.913239],[6.753887,51.91251],[6.753524,51.910476],[6.75271,51.909275],[6.75135,51.908245],[6.749596,51.907391],[6.747706,51.906769],[6.743567,51.905838],[6.73809,51.904957],[6.736549,51.904297],[6.735217,51.902939],[6.731821,51.898975],[6.721327,51.89629],[6.702866,51.906749],[6.697011,51.910198],[6.694593,51.915791],[6.691022,51.915348],[6.688588,51.915375],[6.686806,51.915684],[6.684993,51.916218],[6.683184,51.917023],[6.673338,51.915523],[6.657889,51.909755],[6.636739,51.904049],[6.633862,51.901066],[6.629421,51.900795],[6.628668,51.900872],[6.62476,51.901706],[6.614063,51.899205],[6.594826,51.895382],[6.585634,51.893555],[6.579626,51.891906],[6.572121,51.889378],[6.565812,51.887073],[6.564317,51.886299],[6.563454,51.885734],[6.560778,51.882583],[6.560296,51.882138],[6.559786,51.882015],[6.556528,51.882065],[6.556163,51.882271],[6.552191,51.886184],[6.549951,51.885819],[6.544581,51.885193],[6.544028,51.885036],[6.543572,51.884827],[6.537283,51.880264],[6.535317,51.879135],[6.528978,51.876148],[6.52681,51.87521],[6.525283,51.874656],[6.523583,51.874126],[6.521987,51.87386],[6.517223,51.873306],[6.515585,51.873039],[6.514712,51.872799],[6.513303,51.872357],[6.503822,51.867935],[6.503342,51.867595],[6.502996,51.867183],[6.502866,51.866658],[6.502846,51.866325],[6.502746,51.865234],[6.502553,51.86427],[6.502066,51.863495],[6.501182,51.862728],[6.500057,51.862],[6.498526,51.861359],[6.496402,51.860698],[6.4805,51.857139],[6.477988,51.856426],[6.476948,51.856079],[6.470896,51.854107],[6.469465,51.854271],[6.466389,51.854686],[6.464034,51.855256],[6.461916,51.856091],[6.45993,51.857224],[6.458273,51.858372],[6.45161,51.865177],[6.449119,51.865116],[6.448181,51.864998],[6.447319,51.864804],[6.433449,51.859447],[6.432863,51.859341],[6.4323,51.859368],[6.430083,51.860268],[6.429414,51.860698],[6.429237,51.861107],[6.428551,51.864464],[6.428357,51.865066],[6.428,51.865532],[6.42734,51.865856],[6.420343,51.866916],[6.419098,51.867134],[6.417976,51.867531],[6.416571,51.868347],[6.413641,51.87035],[6.412943,51.870716],[6.412304,51.870804],[6.403047,51.870274],[6.401412,51.870304],[6.399396,51.870632],[6.397126,51.871254],[6.395935,51.871757],[6.393414,51.873554],[6.392933,51.873844],[6.392327,51.873952],[6.390278,51.874085],[6.390576,51.871448],[6.390561,51.870343],[6.389612,51.866864],[6.389422,51.865787],[6.389515,51.864761],[6.390843,51.86214],[6.391807,51.861],[6.392615,51.860317],[6.399312,51.856102],[6.400808,51.855446],[6.40228,51.855034],[6.407168,51.854313],[6.408342,51.854034],[6.409185,51.8536],[6.409681,51.853192],[6.410002,51.852268],[6.403063,51.845627],[6.402799,51.844948],[6.402759,51.844185],[6.402928,51.843521],[6.40328,51.842819],[6.405819,51.839844],[6.407008,51.838257],[6.408062,51.836571],[6.408297,51.835953],[6.408149,51.835591],[6.407696,51.835418],[6.406979,51.835373],[6.40466,51.835896],[6.404005,51.835961],[6.403763,51.835842],[6.404039,51.835285],[6.4078,51.828488],[6.400588,51.827583],[6.397496,51.829529],[6.395653,51.830528],[6.393882,51.831356],[6.391646,51.832302],[6.388003,51.833451],[6.385633,51.834107],[6.382549,51.83469],[6.380145,51.835018],[6.376979,51.83503],[6.37248,51.834755],[6.371078,51.834854],[6.36446,51.83738],[6.363878,51.837803],[6.363754,51.83905],[6.363311,51.841557],[6.362443,51.843254],[6.360524,51.845486],[6.358223,51.847221],[6.355898,51.848423],[6.353162,51.849434],[6.349362,51.850364],[6.346103,51.850827],[6.334015,51.851731],[6.330651,51.851788],[6.319451,51.85157],[6.317619,51.851284],[6.307171,51.848553],[6.303653,51.854161],[6.301614,51.859508],[6.299319,51.867637],[6.298762,51.868096],[6.298075,51.86855],[6.291052,51.870693],[6.279946,51.873806],[6.277312,51.874428],[6.273552,51.874695],[6.272136,51.874714],[6.271192,51.874546],[6.269885,51.874066],[6.269158,51.873448],[6.263988,51.869026],[6.263361,51.868733],[6.262645,51.868465],[6.261709,51.868214],[6.260234,51.868134],[6.258439,51.868206],[6.247856,51.869473],[6.246448,51.86961],[6.245057,51.86956],[6.24364,51.869323],[6.241657,51.869087],[6.240435,51.869098],[6.239154,51.869206],[6.236417,51.869946],[6.233345,51.87022],[6.222004,51.868786],[6.219613,51.868607],[6.2143,51.869911],[6.211633,51.870628],[6.20697,51.872082],[6.203679,51.87323],[6.199789,51.874862],[6.196489,51.876404],[6.194,51.877827],[6.188475,51.881546],[6.187606,51.88245],[6.18596,51.88654],[6.191873,51.88739],[6.191259,51.891629],[6.188235,51.89217],[6.169657,51.901829],[6.164272,51.89777],[6.163535,51.897236],[6.159235,51.900654],[6.157258,51.902031],[6.153873,51.904037],[6.150012,51.903267],[6.148446,51.902961],[6.126377,51.898697],[6.125555,51.898693],[6.125005,51.898812],[6.117971,51.901336],[6.105735,51.892506],[6.105179,51.891815],[6.106396,51.891716],[6.112654,51.892143],[6.114925,51.892258],[6.117152,51.892098],[6.118603,51.891808],[6.119946,51.891472],[6.121246,51.891048],[6.122022,51.890763],[6.13617,51.886589],[6.13744,51.885708],[6.138358,51.884372],[6.143773,51.872952],[6.144859,51.870052],[6.145412,51.869144],[6.146506,51.868202],[6.148407,51.866668],[6.150264,51.865597],[6.152917,51.864544],[6.16472,51.860333],[6.164202,51.855256],[6.164135,51.853871],[6.164327,51.852978],[6.165841,51.843544],[6.166266,51.840896],[6.160182,51.842366],[6.146362,51.845764],[6.142401,51.846665],[6.138796,51.84729],[6.13534,51.847617],[6.131757,51.847763],[6.119784,51.847755],[6.110388,51.847679],[6.1062,51.84798],[6.102737,51.848381],[6.099148,51.84909],[6.094377,51.850582],[6.085207,51.855094],[6.073955,51.860505],[6.069007,51.862999],[6.063658,51.865399],[6.062619,51.863472],[6.059409,51.857521],[6.052877,51.856705],[6.055124,51.852619],[6.032906,51.843018],[6.029178,51.845253],[6.017222,51.841241],[6.016234,51.838856],[6.015021,51.837521],[6.013298,51.836396],[6.010842,51.835362],[6.005256,51.833657],[6.002668,51.832916],[6.0,51.83226],[5.996898,51.831676],[5.994793,51.831356],[5.991765,51.831032],[5.989425,51.830952],[5.986351,51.8312],[5.973357,51.833267],[5.971153,51.833668],[5.969015,51.834381],[5.96296,51.836891],[5.946132,51.824593],[5.958717,51.817451],[5.956576,51.815983],[5.954376,51.814583],[5.947973,51.816567],[5.945307,51.814698],[5.948109,51.811272],[5.955602,51.810096],[5.962002,51.807049],[5.963268,51.806183],[5.965053,51.804058],[5.977047,51.797142],[5.97254,51.789238],[5.974364,51.785809],[5.978724,51.786431],[5.98138,51.785675],[5.988534,51.783638],[5.990463,51.782521],[5.984702,51.778675],[5.983009,51.773712],[5.990891,51.769844],[5.989967,51.766117],[5.95283,51.748974],[5.952791,51.744884]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[5.952791,51.744884],[5.952768,51.742477],[5.955327,51.738628],[5.989715,51.73877],[5.99285,51.738422],[5.994953,51.737797],[5.997981,51.736222],[6,51.73531],[6.032474,51.72417],[6.03569,51.718209],[6.039924,51.719006],[6.045317,51.716945],[6.046299,51.71653],[6.046459,51.716099],[6.04624,51.715451],[6.044585,51.713196],[6.043998,51.712906],[6.035556,51.712483],[6.034003,51.712288],[6.032294,51.711839],[6.030428,51.711064],[6.02734,51.70956],[6.026725,51.708828],[6.026593,51.707824],[6.02801,51.701947],[6.028583,51.700783],[6.029701,51.699493],[6.030369,51.698581],[6.03083,51.697338],[6.031297,51.692311],[6.031067,51.691464],[6.030349,51.690666],[6.029086,51.6902],[6.028029,51.689975],[6.03085,51.686455],[6.03141,51.685372],[6.032232,51.68327],[6.030095,51.678882],[6.030218,51.677624],[6.031334,51.676613],[6.040124,51.67202],[6.075276,51.664025],[6.078951,51.662792],[6.088042,51.660232],[6.101464,51.659858],[6.117946,51.656021],[6.117045,51.655183],[6.116444,51.654469],[6.116161,51.65371],[6.116163,51.652767],[6.116577,51.651699],[6.116923,51.651219],[6.115865,51.650116],[6.111078,51.645584],[6.098211,51.621505],[6.093856,51.622463],[6.094188,51.616162],[6.091795,51.606014],[6.120465,51.592437],[6.125387,51.586773],[6.12985,51.581634],[6.131397,51.580257],[6.141276,51.573959],[6.143999,51.572411],[6.146304,51.571213],[6.157421,51.566338],[6.177288,51.538693],[6.188627,51.533519],[6.191208,51.532265],[6.200802,51.526913],[6.206596,51.520886],[6.212406,51.513218],[6.213077,51.511715],[6.214169,51.505096],[6.214239,51.503693],[6.212755,51.491688],[6.213144,51.490647],[6.217991,51.485081],[6.223033,51.472653],[6.223473,51.470993],[6.223518,51.46946],[6.220022,51.45422],[6.219986,51.447212],[6.213707,51.446923],[6.214605,51.434296],[6.205993,51.400494],[6.225405,51.400524],[6.226517,51.399658],[6.217798,51.391594],[6.215115,51.388783],[6.214998,51.387737],[6.224294,51.365684],[6.225975,51.360894],[6.190255,51.339718],[6.192926,51.334862],[6.16908,51.332386],[6.16921,51.329937],[6.16292,51.323776],[6.161482,51.322445],[6.160651,51.321057],[6.159953,51.319523],[6.158797,51.315693],[6.158242,51.314133],[6.15387,51.307544],[6.146301,51.299397],[6.129264,51.286125],[6.123862,51.274395],[6.085498,51.247776],[6.071946,51.242244],[6.086058,51.223224],[6.083984,51.222473],[6.070845,51.222653],[6.068672,51.221672],[6.067606,51.220356],[6.071356,51.200001],[6.073416,51.183281],[6.082085,51.172047],[6.082899,51.1716],[6.084187,51.171383],[6.087019,51.17112],[6.08814,51.170872],[6.08985,51.170856],[6.093467,51.170521],[6.096447,51.170445],[6.099256,51.170536],[6.102135,51.170929],[6.106849,51.171902],[6.109918,51.172909],[6.112488,51.174069],[6.114266,51.175113],[6.115117,51.175751],[6.119272,51.179035],[6.120819,51.180053],[6.12302,51.181205],[6.124108,51.181617],[6.165735,51.194137],[6.180105,51.186791],[6.180076,51.186054],[6.1751,51.18451],[6.140158,51.17368],[6.139925,51.173061],[6.17574,51.158607],[6.173261,51.156811],[6.162907,51.151917],[6.163009,51.148957],[6.161055,51.149086],[6.159346,51.149051],[6.158802,51.148964],[6.157647,51.148739],[6.155581,51.148178],[6.154433,51.148025],[6.153057,51.147957],[6.150641,51.147995],[6.149342,51.148041],[6.148058,51.147938],[6.146943,51.147747],[6.145816,51.147537],[6.136178,51.145237],[6.134209,51.144906],[6.132376,51.144688],[6.127852,51.144314],[6.126394,51.144184],[6.125276,51.143868],[6.124437,51.14341],[6.121607,51.141304],[6.120523,51.140633],[6.119427,51.140095],[6.118127,51.139546],[6.116987,51.139153],[6.097985,51.135247],[6.096207,51.134983],[6.093095,51.134922],[6.092154,51.134922],[6.091047,51.134938],[6.088509,51.12928],[6.087846,51.127338],[6.081412,51.125725],[6.08056,51.124679],[6.080688,51.122295],[6.076478,51.120575],[6.075116,51.119152],[6.074457,51.118724],[6.0735,51.118359],[6.071718,51.117916],[6.063472,51.116955],[6.061848,51.116524],[6.060422,51.115792],[6.055754,51.111935],[6.05741,51.109429],[6.053818,51.106891],[6.035918,51.096447],[6.033933,51.095696],[6.03174,51.095054],[6.022643,51.092854],[6.020691,51.092804],[6.01713,51.094124],[6.010105,51.090767],[6.00201,51.085685],[6,51.084461],[5.997874,51.083435],[5.9953,51.081898],[5.993068,51.080131],[5.989071,51.07489],[5.981408,51.072216],[5.979179,51.069798],[5.978443,51.067017],[5.977576,51.065575],[5.976454,51.064396],[5.971427,51.06089],[5.968739,51.049114],[5.968513,51.047691],[5.967794,51.04612],[5.966772,51.044796],[5.959296,51.040646],[5.958223,51.035015],[5.955426,51.034905],[5.953808,51.036011],[5.952158,51.036576],[5.950101,51.03677],[5.944155,51.036049],[5.93746,51.035053],[5.936951,51.037266],[5.936097,51.039036],[5.934971,51.040615],[5.933111,51.042694],[5.926584,51.04813],[5.922569,51.056095],[5.918576,51.064022],[5.913344,51.066532],[5.899717,51.058728],[5.897682,51.057338],[5.893474,51.054001],[5.891701,51.053104],[5.889042,51.05249],[5.868178,51.051167],[5.866003,51.051132],[5.86789,51.045364],[5.868751,51.043808],[5.870301,51.042412],[5.874549,51.039215],[5.876921,51.037655],[5.877897,51.036457],[5.878164,51.035294],[5.877488,51.033996],[5.875622,51.030491],[5.875247,51.029205],[5.875248,51.028191],[5.875794,51.026752],[5.878801,51.018566],[5.879596,51.017407],[5.880619,51.016243],[5.883931,51.013565],[5.88694,51.013645],[5.88866,51.013378],[5.89283,51.011795],[5.896144,51.010536],[5.896008,51.004452],[5.905009,51.002292],[5.904653,50.99617],[5.904135,50.987262],[5.893098,50.980557],[5.897551,50.974987],[5.905056,50.974388],[5.918661,50.977837],[5.933779,50.985145],[5.954895,50.987988],[5.957109,50.984997],[5.965834,50.979778],[5.967063,50.979305],[5.968491,50.979211],[5.970228,50.979576],[5.97665,50.981591],[5.97946,50.982472],[5.980823,50.982731],[5.982369,50.982639],[5.98475,50.982155],[5.986413,50.982071],[5.9978,50.982456],[6,50.982537],[6.025051,50.983662],[6.025643,50.982105],[6.02544,50.980972],[6.01369,50.962067],[6.013339,50.961659],[6.009727,50.960541],[6.008295,50.959831],[6.00454,50.957206],[6.017004,50.952473],[6.015601,50.947883],[6.01864,50.935032],[6.049662,50.929352],[6.055506,50.926411],[6.054104,50.922405],[6.057404,50.922035],[6.068307,50.92081],[6.072558,50.92321],[6.079018,50.9225],[6.083235,50.921489],[6.087846,50.919228],[6.091881,50.920822],[6.093969,50.92165],[6.094813,50.921479],[6.094418,50.919845],[6.093781,50.918499],[6.092911,50.917705],[6.089483,50.915798],[6.088237,50.91491],[6.087078,50.913822],[6.08089,50.908027],[6.080366,50.907127],[6.080122,50.906014],[6.080213,50.904145],[6.080205,50.903316],[6.079936,50.902478],[6.076972,50.8979],[6.076163,50.896324],[6.075573,50.8946],[6.075273,50.892327],[6.075282,50.890419],[6.075737,50.889267],[6.07621,50.888663],[6.080032,50.884087],[6.081065,50.883141],[6.088399,50.877503],[6.086696,50.875843],[6.086523,50.875698],[6.088127,50.872967],[6.083592,50.865017],[6.077549,50.861099],[6.074237,50.847751],[6.073483,50.847332],[6.058048,50.851036],[6.057761,50.855099],[6.057346,50.855751],[6.056349,50.856049],[6.055125,50.855946],[6.051635,50.854641],[6.044379,50.852188],[6.041551,50.851353],[6.039157,50.85059],[6.021751,50.845569],[6.02121,50.837826],[6.019982,50.833374],[6.021157,50.830342],[6.024674,50.828235],[6.027865,50.820034],[6.022266,50.81625],[6.023682,50.813748],[6.016877,50.809857],[6.015213,50.80875],[6.013793,50.807492],[6.010162,50.804062],[6.004725,50.801751],[6,50.803932],[5.984889,50.810978],[5.976643,50.803005],[5.975121,50.797622],[5.977126,50.796505],[5.980084,50.795204],[5.981471,50.79474],[5.986494,50.793659],[5.987946,50.793289],[5.989346,50.792682],[5.994087,50.78989],[5.99474,50.789303],[5.995316,50.787201],[5.996132,50.786476],[6,50.784455],[6.004827,50.782219],[6.009423,50.780297],[6.018599,50.776928],[6.02183,50.775898],[6.024911,50.775044],[6.02696,50.774281],[6.027834,50.773701],[6.025101,50.770515],[6.021312,50.766264],[6.019695,50.76445],[6.019003,50.763249],[6.018922,50.761925],[6.020961,50.755199],[6.021252,50.754238],[6.021068,50.754318],[6.017202,50.755069],[6.013377,50.75515],[6.004347,50.753868],[6.002936,50.754047],[5.998759,50.753067],[5.996433,50.753643],[5.991041,50.752929],[5.984772,50.75336],[5.983066,50.752914],[5.978961,50.754646],[5.976692,50.754497],[5.974912,50.755001],[5.974933,50.757969],[5.973205,50.759556],[5.959456,50.762333],[5.956437,50.761574],[5.952393,50.76041],[5.946522,50.75988],[5.944168,50.75848],[5.942035,50.758274],[5.939061,50.757988],[5.936146,50.756805],[5.931737,50.75679],[5.92207,50.751228],[5.915589,50.750667],[5.915057,50.755207],[5.909283,50.755497],[5.904493,50.754699],[5.901778,50.751415],[5.900845,50.751499],[5.897937,50.752689],[5.895161,50.754539],[5.892114,50.755245],[5.889386,50.756935],[5.889291,50.757496],[5.890275,50.761635],[5.886839,50.769863],[5.87625,50.76506],[5.870526,50.765014],[5.859634,50.761764],[5.848962,50.753509],[5.844957,50.765388],[5.830789,50.758445],[5.822982,50.758976],[5.816792,50.756897],[5.807919,50.755924],[5.793393,50.77013],[5.784806,50.767429],[5.776425,50.783066],[5.765845,50.782116],[5.740799,50.763637],[5.740251,50.761856],[5.738884,50.758003],[5.730073,50.758224],[5.720058,50.764095],[5.715519,50.760047],[5.702546,50.758468],[5.699027,50.755298],[5.694603,50.754711],[5.687892,50.755981],[5.687936,50.757545],[5.682036,50.75745],[5.682406,50.760082],[5.685098,50.763584],[5.695649,50.772213],[5.70113,50.782051],[5.701144,50.783561],[5.699911,50.78556],[5.695915,50.789203],[5.694749,50.792103],[5.69119,50.79573],[5.691379,50.797363],[5.69838,50.803676],[5.698933,50.805687],[5.697736,50.807506],[5.693706,50.810791],[5.693214,50.811191],[5.69318,50.812],[5.690876,50.812252],[5.689768,50.811741],[5.687715,50.812092],[5.68587,50.812404],[5.683697,50.813373],[5.682853,50.813125],[5.681692,50.812248],[5.680302,50.812263],[5.678247,50.816429],[5.673227,50.816055],[5.672495,50.816738],[5.669446,50.817867],[5.667968,50.817795],[5.668156,50.816452],[5.662915,50.818317],[5.658859,50.818477],[5.654077,50.820015],[5.654338,50.821308],[5.656419,50.823161],[5.656165,50.824272],[5.651755,50.827484],[5.648741,50.826843],[5.651296,50.832023],[5.649884,50.833896],[5.643549,50.837921],[5.645335,50.839397],[5.641779,50.840786],[5.642071,50.843109],[5.63914,50.846145],[5.638887,50.847747],[5.640183,50.849487],[5.642557,50.85009],[5.641546,50.852627],[5.640228,50.853801],[5.64335,50.856796],[5.641622,50.857536],[5.643365,50.860447],[5.642096,50.861377],[5.643855,50.862888],[5.641433,50.864189],[5.649432,50.868339],[5.644074,50.871391],[5.647716,50.873646],[5.64867,50.873256],[5.651308,50.875114],[5.65327,50.874077],[5.656319,50.876507],[5.65857,50.876201],[5.66106,50.877361],[5.661367,50.878144],[5.670535,50.881809],[5.674147,50.880893],[5.678435,50.88071],[5.679167,50.882469],[5.680978,50.886825],[5.682933,50.888618],[5.693281,50.89468],[5.695699,50.898224],[5.696783,50.903316],[5.696339,50.907242],[5.698074,50.909755],[5.699271,50.910408],[5.705767,50.911773],[5.708903,50.911495],[5.71619,50.908275],[5.719059,50.908142],[5.721652,50.908806],[5.723963,50.910488],[5.726253,50.913463],[5.726695,50.914978],[5.726226,50.920871],[5.727198,50.92353],[5.730651,50.927788],[5.741357,50.936111],[5.746515,50.946773],[5.74788,50.947654],[5.753028,50.949428],[5.757472,50.950519],[5.758246,50.951217],[5.758857,50.953125],[5.758311,50.954803],[5.754262,50.958492],[5.748992,50.960811],[5.744877,50.96122],[5.74376,50.96101],[5.736331,50.956249],[5.731565,50.955341],[5.729327,50.955208],[5.723531,50.956642],[5.721741,50.95776],[5.720289,50.961189],[5.721768,50.9636],[5.732932,50.971996],[5.735284,50.975006],[5.736361,50.977737],[5.737821,50.97895],[5.747346,50.981331],[5.748678,50.982025],[5.755401,50.990219],[5.764772,50.996364],[5.767049,50.999114],[5.767386,51.000435],[5.766296,51.009228],[5.76714,51.012169],[5.776279,51.021759],[5.776415,51.023461],[5.773808,51.026825],[5.771768,51.027775],[5.759738,51.030723],[5.758971,51.031345],[5.758234,51.033401],[5.758538,51.034523],[5.769481,51.047565],[5.772094,51.052909],[5.772567,51.061554],[5.773737,51.062519],[5.774864,51.062919],[5.778146,51.062988],[5.783327,51.061649],[5.788241,51.059494],[5.791075,51.058811],[5.794898,51.058838],[5.799119,51.060173],[5.800766,51.062202],[5.80095,51.063583],[5.799927,51.065429],[5.796573,51.071483],[5.796693,51.072483],[5.799211,51.074798],[5.801831,51.076076],[5.803136,51.076935],[5.803929,51.078468],[5.803654,51.079948],[5.797653,51.089356],[5.797641,51.090664],[5.799077,51.092357],[5.803429,51.095161],[5.804776,51.095645],[5.807309,51.095936],[5.809747,51.096058],[5.812029,51.095725],[5.818935,51.093189],[5.820896,51.092796],[5.823449,51.092632],[5.825763,51.093307],[5.829297,51.095512],[5.832122,51.098938],[5.832646,51.10202],[5.831867,51.104377],[5.829204,51.106189],[5.827365,51.107086],[5.823499,51.107906],[5.820228,51.107963],[5.819073,51.107982],[5.818065,51.107967],[5.81486,51.107944],[5.812509,51.108497],[5.810427,51.109409],[5.80887,51.11084],[5.808035,51.112457],[5.807764,51.113907],[5.81002,51.118221],[5.813887,51.120968],[5.816141,51.122291],[5.824036,51.128719],[5.827394,51.129989],[5.831683,51.130581],[5.84011,51.130714],[5.840882,51.13105],[5.842746,51.132995],[5.843276,51.134636],[5.844803,51.139362],[5.846783,51.141239],[5.852652,51.143055],[5.855691,51.144619],[5.854871,51.145004],[5.8538,51.145508],[5.83981,51.15208],[5.836732,51.153526],[5.838892,51.157078],[5.833267,51.159152],[5.833567,51.161438],[5.824653,51.16756],[5.815814,51.161514],[5.815738,51.15908],[5.813915,51.158962],[5.805383,51.162788],[5.802325,51.15953],[5.799082,51.157711],[5.792689,51.157074],[5.787624,51.155128],[5.785287,51.153152],[5.778184,51.151523],[5.775368,51.156276],[5.779335,51.159523],[5.77901,51.163822],[5.77038,51.164497],[5.769621,51.169513],[5.779477,51.1721],[5.773378,51.173332],[5.776947,51.178444],[5.767322,51.183998],[5.757095,51.184688],[5.745852,51.189544],[5.739845,51.186607],[5.719975,51.184693],[5.714479,51.183609],[5.709384,51.18066],[5.707832,51.18211],[5.70147,51.182613],[5.701283,51.184044],[5.696503,51.184097],[5.694872,51.182831],[5.689478,51.185322],[5.67666,51.183033],[5.676022,51.184613],[5.67059,51.185817],[5.664687,51.186455],[5.658122,51.184734],[5.649915,51.193653],[5.654081,51.194275],[5.652872,51.197654],[5.645418,51.200298],[5.566214,51.220825],[5.565522,51.221005],[5.56044,51.22232],[5.560286,51.222892],[5.554941,51.244678],[5.556718,51.250232],[5.556514,51.253261],[5.555386,51.254738],[5.556639,51.257534],[5.557794,51.260261],[5.557911,51.262703],[5.556846,51.262752],[5.556264,51.266544],[5.544411,51.271251],[5.54382,51.271728],[5.528464,51.281975],[5.519109,51.289474],[5.515723,51.295162],[5.483093,51.300228],[5.483295,51.298698],[5.479431,51.296802],[5.477038,51.293709],[5.476936,51.291523],[5.470321,51.288376],[5.464936,51.284641],[5.441782,51.282127],[5.440501,51.278538],[5.438333,51.276061],[5.433836,51.276386],[5.417337,51.262256],[5.384142,51.269069],[5.346117,51.275799],[5.345497,51.273872],[5.346033,51.273357],[5.345901,51.272289],[5.343817,51.269748],[5.342712,51.265884],[5.33689,51.263237],[5.313143,51.263546],[5.295951,51.261577],[5.263041,51.266887],[5.237615,51.261532],[5.225989,51.268299],[5.242045,51.305111],[5.230017,51.310154],[5.200254,51.322624],[5.196531,51.320335],[5.190479,51.32011],[5.172887,51.315765],[5.162808,51.310356],[5.134479,51.315487],[5.131696,51.34713],[5.124581,51.351303],[5.11952,51.355652],[5.11692,51.360943],[5.07118,51.393451],[5.093395,51.420234],[5.104871,51.431389],[5.079369,51.471134],[5.07808,51.471496],[5.074052,51.471119],[5.064743,51.47113],[5.04571,51.471157],[5.043505,51.474758],[5.043283,51.475143],[5.038023,51.479072],[5.039203,51.479835],[5.040257,51.48653],[5.038771,51.487186],[5.03385,51.487358],[5.032502,51.485924],[5.02192,51.48146],[5.016503,51.475559],[5.010837,51.472252],[5.007428,51.46524],[5.007728,51.462475],[5.008866,51.462272],[5.010302,51.457683],[5.010956,51.455982],[5.010503,51.453991],[5.009503,51.452797],[5.007729,51.451641],[5.006306,51.451553],[5.005436,51.450798],[5.004644,51.444114],[5.00093,51.442779],[4.999386,51.44144],[4.962965,51.422146],[4.928202,51.395382],[4.920901,51.393585],[4.913914,51.39505],[4.91533,51.395294],[4.918051,51.39685],[4.917979,51.398319],[4.917091,51.399677],[4.914851,51.401272],[4.910616,51.402252],[4.909278,51.403671],[4.908844,51.405197],[4.909679,51.407005],[4.906181,51.409221],[4.893669,51.413574],[4.890886,51.415226],[4.889084,51.41563],[4.88682,51.415245],[4.88358,51.416443],[4.881278,51.415657],[4.873641,51.414814],[4.873483,51.414081],[4.868165,51.412567],[4.866305,51.411075],[4.866931,51.410632],[4.86786,51.410579],[4.868366,51.409649],[4.867375,51.409061],[4.865969,51.409992],[4.860088,51.410766],[4.859609,51.411411],[4.860862,51.413788],[4.860355,51.414253],[4.857211,51.4142],[4.852125,51.415508],[4.850762,51.415451],[4.846069,51.412964],[4.839799,51.414684],[4.796631,51.410423],[4.789253,51.408893],[4.780291,51.411857],[4.777916,51.41354],[4.775242,51.413967],[4.773039,51.413494],[4.768594,51.419311],[4.768995,51.421341],[4.770446,51.423252],[4.768394,51.429359],[4.767199,51.430336],[4.773868,51.431671],[4.787075,51.432464],[4.789443,51.429825],[4.79178,51.429313],[4.79584,51.428425],[4.800055,51.429069],[4.804062,51.427978],[4.805278,51.428497],[4.808543,51.426464],[4.815613,51.425422],[4.821326,51.422828],[4.836578,51.417686],[4.840928,51.422275],[4.828443,51.424061],[4.826436,51.430343],[4.823472,51.448791],[4.828902,51.450851],[4.834921,51.45842],[4.839441,51.455944],[4.843972,51.459114],[4.836513,51.462524],[4.836986,51.468242],[4.840365,51.472912],[4.840431,51.479412],[4.839621,51.481498],[4.821307,51.482868],[4.817618,51.489124],[4.817649,51.492244],[4.815783,51.49472],[4.809949,51.495918],[4.804837,51.497673],[4.796005,51.499843],[4.79308,51.498775],[4.78749,51.498737],[4.783622,51.499603],[4.779521,51.504471],[4.772273,51.504844],[4.759948,51.502445],[4.75811,51.500133],[4.755433,51.500282],[4.752663,51.499778],[4.748869,51.496666],[4.749786,51.49559],[4.749576,51.494213],[4.746359,51.489395],[4.729782,51.48426],[4.720234,51.473507],[4.716017,51.471084],[4.716896,51.468834],[4.703251,51.466949],[4.702765,51.466041],[4.703715,51.465252],[4.699175,51.460613],[4.693158,51.451755],[4.686295,51.451244],[4.666556,51.444416],[4.669603,51.426426],[4.664553,51.426174],[4.656555,51.424965],[4.651829,51.426712],[4.649511,51.425812],[4.646537,51.423469],[4.641709,51.422504],[4.641265,51.422008],[4.637907,51.422924],[4.633914,51.425178],[4.586685,51.431423],[4.582515,51.431381],[4.582231,51.431942],[4.574614,51.432827],[4.535453,51.423038],[4.530144,51.449489],[4.548232,51.473202],[4.538032,51.48233],[4.486725,51.477382],[4.484002,51.477661],[4.477565,51.478321],[4.475641,51.478058],[4.471983,51.476441],[4.465379,51.471309],[4.442393,51.468609],[4.384973,51.44928],[4.38285,51.45021],[4.381579,51.44828],[4.379964,51.447712],[4.379502,51.446655],[4.386806,51.445175],[4.392053,51.446251],[4.396227,51.442562],[4.397167,51.440799],[4.395401,51.439777],[4.395483,51.435489],[4.398979,51.435241],[4.3973,51.431534],[4.392717,51.432743],[4.392401,51.431431],[4.394149,51.431205],[4.395187,51.426849],[4.391357,51.42725],[4.390568,51.424263],[4.389404,51.42427],[4.383449,51.420917],[4.391436,51.408096],[4.43149,51.374916],[4.424868,51.371223],[4.428052,51.369331],[4.430584,51.366398],[4.431244,51.363853],[4.421716,51.365261],[4.418256,51.363915],[4.409967,51.361053],[4.394813,51.355819],[4.384562,51.354309],[4.384007,51.355354],[4.379141,51.355018],[4.366425,51.357185],[4.350364,51.358577],[4.341085,51.357559],[4.33446,51.377628],[4.311551,51.377182],[4.279565,51.376041],[4.276915,51.375946],[4.271141,51.375737],[4.268178,51.375631],[4.26566,51.375541],[4.241931,51.374687],[4.240638,51.37464],[4.236131,51.374477],[4.234923,51.374433],[4.216513,51.373768],[4.222623,51.363224],[4.22703,51.35944],[4.235832,51.354645],[4.240662,51.352955],[4.234532,51.348034],[4.165789,51.29274],[4.078655,51.253647],[4.078461,51.253074],[4.070705,51.250808],[4.071188,51.250038],[4.06405,51.247398],[4.061829,51.244663],[4.054359,51.242866],[4.039869,51.241558],[4.036546,51.245704],[4.035066,51.245018],[4.034801,51.244446],[4.024547,51.241607],[4.023622,51.243297],[4.02101,51.245392],[4.015467,51.244544],[4.01496,51.245163],[4.009265,51.243404],[4.000346,51.239475],[3.999708,51.238586],[3.999804,51.237922],[3.991783,51.235889],[3.988422,51.233383],[3.986591,51.234062],[3.985805,51.233803],[3.981177,51.228607],[3.979644,51.225803],[3.978968,51.225364],[3.977698,51.225147],[3.976801,51.225403],[3.964717,51.224014],[3.963953,51.223404],[3.963652,51.220886],[3.961743,51.220352],[3.960703,51.218506],[3.958865,51.215969],[3.953225,51.216591],[3.950101,51.215725],[3.94308,51.214756],[3.943233,51.213577],[3.936022,51.21191],[3.933315,51.214432],[3.929468,51.220257],[3.925507,51.217087],[3.91996,51.217155],[3.918782,51.215118],[3.916262,51.21476],[3.918518,51.208202],[3.917236,51.208503],[3.916037,51.208488],[3.914327,51.207729],[3.911525,51.205246],[3.900679,51.202461],[3.899916,51.201885],[3.894658,51.203541],[3.893248,51.203323],[3.886286,51.200306],[3.884231,51.203644],[3.877711,51.207977],[3.882716,51.209942],[3.89047,51.214367],[3.893291,51.218467],[3.888664,51.222976],[3.873246,51.217441],[3.859327,51.210911],[3.856373,51.211067],[3.852359,51.213409],[3.849729,51.211811],[3.84569,51.212986],[3.842444,51.212051],[3.836522,51.213752],[3.834556,51.212059],[3.827555,51.209511],[3.821118,51.209278],[3.809914,51.212833],[3.806114,51.213386],[3.804633,51.213256],[3.80356,51.213161],[3.804729,51.210106],[3.802372,51.210361],[3.801166,51.210585],[3.799239,51.210941],[3.797122,51.212986],[3.790789,51.214405],[3.789752,51.215816],[3.788747,51.227371],[3.789468,51.245868],[3.79552,51.256046],[3.786179,51.258404],[3.778374,51.262409],[3.774079,51.263691],[3.772866,51.261875],[3.769629,51.260074],[3.762551,51.261848],[3.755682,51.269451],[3.752374,51.270389],[3.751727,51.269253],[3.724073,51.27338],[3.71937,51.272602],[3.718653,51.271465],[3.712698,51.272197],[3.69349,51.276195],[3.68978,51.28072],[3.681869,51.281158],[3.678031,51.28059],[3.676816,51.283012],[3.65793,51.290291],[3.644498,51.290176],[3.643276,51.288818],[3.64082,51.288181],[3.632511,51.291073],[3.625661,51.293411],[3.621461,51.292793],[3.619303,51.294296],[3.618693,51.295906],[3.591118,51.304432],[3.592003,51.305439],[3.590216,51.306057],[3.581071,51.298301],[3.583489,51.295879],[3.587752,51.293102],[3.586722,51.292648],[3.583357,51.292248],[3.582574,51.290699],[3.583889,51.288921],[3.581899,51.286945],[3.579649,51.288837],[3.577754,51.288803],[3.575763,51.288604],[3.5734,51.289467],[3.571484,51.291099],[3.571972,51.291954],[3.566344,51.293922],[3.566172,51.294636],[3.562633,51.295883],[3.559802,51.295444],[3.555852,51.290161],[3.553996,51.289703],[3.551762,51.289985],[3.550191,51.291031],[3.543572,51.291115],[3.54214,51.288097],[3.538236,51.283622],[3.533579,51.28355],[3.529232,51.288727],[3.51544,51.287185],[3.527973,51.246303],[3.47501,51.242676],[3.459325,51.241798],[3.447816,51.24171],[3.432345,51.245521],[3.427392,51.244624],[3.424587,51.254528],[3.421054,51.256626],[3.41816,51.25806],[3.417134,51.259781],[3.416341,51.260063],[3.415472,51.259758],[3.412529,51.257374],[3.410529,51.256729],[3.407808,51.256813],[3.406434,51.257629],[3.40404,51.261821],[3.402442,51.262921],[3.397154,51.264038],[3.3947,51.265301],[3.388931,51.271137],[3.388549,51.272682],[3.387439,51.273437],[3.380722,51.274308],[3.378945,51.274742],[3.375926,51.276863],[3.375291,51.278523],[3.376299,51.279865],[3.379621,51.28025],[3.381939,51.281936],[3.380951,51.284137],[3.38116,51.28574],[3.380509,51.287754],[3.375359,51.289734],[3.372969,51.290543],[3.370715,51.291729],[3.367775,51.294586],[3.366124,51.297813],[3.36641,51.298656],[3.367611,51.299392],[3.370216,51.299869],[3.377274,51.302273],[3.372106,51.305645],[3.358345,51.315021],[3.385328,51.334198],[3.383543,51.341236],[3.37405,51.348594],[3.373671,51.354301],[3.374952,51.358963],[3.365824,51.369847],[3.30944,51.436085],[3.323727,51.464813],[3.374826,51.567265],[3.387456,51.592514],[3.452737,51.616405],[3.486072,51.573624],[3.571073,51.604736],[3.594644,51.631352],[3.659623,51.70454],[3.685518,51.733631],[3.721783,51.753357],[3.786154,51.78817],[3.86052,51.828358],[3.953301,51.850025],[3.972771,51.910961],[3.940903,51.921566],[3.953129,51.989143],[4.032776,52.00357],[4.110271,52.004436],[4.119259,52.009323],[4.145106,52.03249],[4.184619,52.061329],[4.238218,52.099834],[4.237189,52.104061],[4.242823,52.110534],[4.254941,52.112568],[4.289933,52.13496],[4.360577,52.193084],[4.390673,52.224907],[4.441095,52.283159],[4.476963,52.332531],[4.525983,52.40493],[4.544346,52.439182],[4.543613,52.449104],[4.533714,52.449386],[4.522047,52.455436],[4.517693,52.464031],[4.523162,52.470672],[4.538909,52.477195],[4.555339,52.478252],[4.566277,52.49308],[4.576978,52.514],[4.583421,52.53389],[4.592876,52.569866],[4.611816,52.661464],[4.62084,52.69836],[4.624546,52.728027],[4.634477,52.758327],[4.647275,52.781547],[4.693944,52.884406],[4.629449,52.889724],[4.646201,52.94107],[4.613153,52.960587],[4.612908,52.979695],[4.686772,53.003113],[4.686194,53.047802],[4.716046,53.088505],[4.731554,53.103134],[4.803693,53.169307],[4.818566,53.182556],[4.818053,53.214267],[4.841054,53.232743],[4.908959,53.260181],[4.930542,53.270217],[5.003747,53.303501],[5.027177,53.314209],[5.08707,53.323299],[5.101159,53.367909],[5.161857,53.386177],[5.176583,53.408532],[5.20401,53.412029],[5.329567,53.427811],[5.358928,53.431557],[5.383855,53.436493],[5.464164,53.452522],[5.492746,53.458061],[5.553002,53.471512],[5.613248,53.493858],[5.638793,53.487274],[5.677839,53.477494],[5.702602,53.471215],[5.731909,53.472187],[5.812567,53.474583],[5.840634,53.475364],[5.868333,53.477398],[5.931536,53.48172],[5.959864,53.48367],[6.004313,53.492519],[6.028218,53.492195],[6.049881,53.492192],[6.064968,53.492806],[6.110461,53.496486],[6.125993,53.523342],[6.153068,53.518811],[6.279044,53.522384],[6.321329,53.526264],[6.35212,53.53936],[6.428092,53.565815],[6.523486,53.565353],[6.584562,53.564815],[6.591141,53.561939],[6.596345,53.55999],[6.608892,53.555767],[6.610152,53.555276],[6.612549,53.554177],[6.613637,53.553593],[6.615315,53.552166],[6.616539,53.550224],[6.617379,53.54789],[6.617787,53.547027],[6.618242,53.546143],[6.618776,53.545303],[6.621258,53.542443],[6.623909,53.539837],[6.62473,53.539101],[6.625653,53.538303],[6.628082,53.536918],[6.629207,53.536331],[6.631572,53.535191],[6.632819,53.534687],[6.633416,53.534502],[6.635323,53.533912],[6.653444,53.531559],[6.65709,53.531086],[6.658559,53.530887],[6.662784,53.530285],[6.665834,53.529438],[6.66806,53.528244],[6.669118,53.527603],[6.67735,53.522354],[6.679884,53.520065],[6.681943,53.517796],[6.684589,53.514523],[6.688388,53.510525],[6.693064,53.506882],[6.698064,53.503678],[6.704386,53.49987],[6.710805,53.497036],[6.71848,53.494346],[6.726699,53.491677],[6.730093,53.490727],[6.759407,53.483852],[6.763815,53.482712],[6.768517,53.481312],[6.79591,53.472317],[6.801152,53.470932],[6.805777,53.469879],[6.816492,53.467602],[6.823417,53.466587],[6.847082,53.46323],[6.858457,53.461323],[6.864768,53.460178],[6.869401,53.459152],[6.874151,53.457947],[6.886325,53.454308],[6.889381,53.453327],[6.892971,53.452087],[6.89526,53.451114],[6.897858,53.449829],[6.899997,53.448509],[6.901175,53.447609],[6.90214,53.446621],[6.903332,53.445088],[6.903779,53.443886],[6.903397,53.441921],[6.902355,53.440082],[6.898659,53.435402],[6.896153,53.432427],[6.893622,53.429207],[6.891604,53.425862],[6.889602,53.421779],[6.889221,53.420738],[6.888405,53.418514],[6.888358,53.418315],[6.887725,53.415646],[6.887502,53.407208],[6.887774,53.405026],[6.888593,53.402859],[6.890167,53.40044],[6.891721,53.398243],[6.892839,53.396011],[6.894589,53.390526],[6.894825,53.387832],[6.894571,53.384273],[6.894463,53.381153],[6.895493,53.377987],[6.896788,53.375294],[6.89878,53.372303],[6.899427,53.370957],[6.899678,53.369515],[6.900763,53.364487],[6.902084,53.361473],[6.903435,53.359272],[6.905393,53.357052],[6.907746,53.354657],[6.910327,53.352566],[6.913418,53.350456],[6.930004,53.340088],[6.934955,53.337612],[6.943621,53.333771],[6.945963,53.332855],[6.948426,53.33205],[6.972586,53.325764],[6.984071,53.322602],[6.986613,53.321621],[6.989096,53.320484],[6.997888,53.316059],[7.000717,53.315151],[7.003429,53.314484],[7.033596,53.309536],[7.039314,53.308376],[7.041603,53.307701],[7.042783,53.307199],[7.043296,53.30698],[7.047579,53.304535],[7.049186,53.303943],[7.05119,53.303447],[7.054292,53.303059],[7.062424,53.302994],[7.066494,53.303364],[7.070853,53.304013],[7.077209,53.305348],[7.079683,53.305882],[7.083886,53.306828],[7.09371,53.308865],[7.098575,53.309097],[7.159707,53.313064],[7.192195,53.315171],[7.196511,53.295192],[7.197412,53.291024],[7.202137,53.269148],[7.207657,53.243593],[7.211113,53.227596],[7.215021,53.217812],[7.215526,53.216034],[7.21618,53.200997],[7.216139,53.199036],[7.215774,53.197681],[7.214652,53.196476],[7.209904,53.193428],[7.207736,53.189671],[7.210139,53.188614],[7.213099,53.187485],[7.22769,53.181549],[7.229164,53.180626],[7.230098,53.179425],[7.230607,53.178314],[7.230902,53.177433],[7.214653,53.17305],[7.212456,53.172745],[7.208571,53.172596],[7.205494,53.17289],[7.201663,53.173527],[7.190693,53.159603],[7.189045,53.156052],[7.188649,53.149342],[7.188326,53.147339],[7.18781,53.146332],[7.181873,53.140339],[7.181003,53.139321],[7.180622,53.138099],[7.185113,53.121353],[7.202651,53.113022],[7.199743,53.088372],[7.199592,53.08701],[7.198924,53.081203],[7.21231,53.012505],[7.216125,53.007183],[7.208629,53.000218],[7.204349,52.990105],[7.181115,52.940911],[7.106827,52.867618],[7.087276,52.850731],[7.091696,52.838196],[7.091595,52.838055],[7.072318,52.811138],[7.05343,52.643875],[7.040663,52.632965],[7.037753,52.633736],[7.036126,52.634106],[7.034275,52.634423],[7.029305,52.634742],[7.027544,52.634877],[7.010367,52.637222],[7.007664,52.637771],[7.005419,52.63871],[7.003251,52.640343],[7.001949,52.640934],[7.000436,52.641384],[6.997827,52.641666],[6.992789,52.641777],[6.990613,52.641903],[6.977833,52.645474],[6.976188,52.645729],[6.974644,52.64576],[6.973097,52.64531],[6.969267,52.643272],[6.967684,52.642513],[6.965465,52.641888],[6.954659,52.639839],[6.952735,52.639599],[6.950446,52.639344],[6.940202,52.63871],[6.937734,52.638584],[6.935805,52.638626],[6.933696,52.638787],[6.919004,52.640274],[6.917609,52.640503],[6.916476,52.640866],[6.915599,52.641423],[6.915075,52.641983],[6.913728,52.645595],[6.912822,52.646343],[6.91125,52.646939],[6.896759,52.651001],[6.893408,52.651542],[6.872236,52.652759],[6.870221,52.652603],[6.868684,52.652142],[6.865085,52.650704],[6.863213,52.650162],[6.861447,52.649948],[6.852631,52.649327],[6.850798,52.649308],[6.848889,52.649548],[6.839554,52.651901],[6.837146,52.652268],[6.834507,52.65223],[6.832193,52.651924],[6.830045,52.651291],[6.823655,52.648731],[6.821419,52.648296],[6.818664,52.648194],[6.809556,52.649369],[6.806134,52.649898],[6.794179,52.652256],[6.790824,52.652748],[6.78795,52.652935],[6.783957,52.652954],[6.780827,52.652698],[6.777525,52.652066],[6.774332,52.651054],[6.77202,52.649983],[6.766884,52.647575],[6.759735,52.649311],[6.756952,52.648704],[6.75422,52.648133],[6.751674,52.647568],[6.742277,52.645572],[6.726928,52.634285],[6.725085,52.633244],[6.711132,52.628342],[6.711312,52.62709],[6.711485,52.62698],[6.722588,52.619816],[6.726551,52.61496],[6.718754,52.589073],[6.764143,52.564834],[6.765159,52.564057],[6.766237,52.561977],[6.753567,52.55938],[6.751878,52.559086],[6.750628,52.559048],[6.749289,52.559288],[6.740825,52.561485],[6.738908,52.561901],[6.737008,52.562104],[6.725357,52.563202],[6.719524,52.551659],[6.715545,52.54897],[6.683161,52.552788],[6.681482,52.551953],[6.705138,52.520535],[6.697741,52.486492],[6.754067,52.463562],[6.775317,52.459602],[6.854118,52.459645],[6.852351,52.450341],[6.85284,52.449856],[6.862819,52.451298],[6.937564,52.436329],[6.941901,52.435452],[6.946673,52.436608],[6.948962,52.437592],[6.950147,52.438141],[6.952379,52.439308],[6.959935,52.443829],[6.962277,52.445561],[6.964039,52.447345],[6.968225,52.452454],[6.977864,52.46492],[6.987848,52.469166],[6.991693,52.467033],[6.993096,52.465461],[6.998849,52.456299],[7.002632,52.449302],[7.004049,52.44651],[7.005537,52.443569],[7.010801,52.429566],[7.021907,52.422879],[7.035115,52.402618],[7.054143,52.400642],[7.059026,52.398346],[7.063801,52.389835],[7.072566,52.373043],[7.072296,52.352314],[7.056074,52.337948],[7.054227,52.332463],[7.053424,52.330853],[7.046641,52.323071],[7.047065,52.319149],[7.027256,52.292572],[7.026516,52.29084],[7.026338,52.289123],[7.026804,52.286999],[7.027845,52.28434],[7.028154,52.283016],[7.028268,52.275246],[7.028567,52.274128],[7.029284,52.273151],[7.031649,52.271786],[7.032722,52.270729],[7.042701,52.256329],[7.063733,52.241291],[7.063818,52.240174],[7.063429,52.239285],[7.061476,52.237126],[7.05587,52.233929],[7.050037,52.231468],[7.039047,52.227894],[7.0188,52.224831],[7.013242,52.227558],[7.005962,52.228546],[7.003928,52.228604],[6.991674,52.22752],[6.987863,52.226998],[6.985113,52.224945],[6.982092,52.222073],[6.980814,52.220524],[6.979975,52.219094],[6.975706,52.209275],[6.974268,52.205796],[6.95122,52.181092],[6.91018,52.17664],[6.907844,52.176052],[6.906566,52.175369],[6.905746,52.174225],[6.905549,52.170227],[6.880863,52.156074],[6.872767,52.131775],[6.871905,52.130565],[6.870337,52.129444],[6.855135,52.120522],[6.82231,52.11861],[6.760121,52.118805],[6.758368,52.102279],[6.757621,52.100292],[6.756643,52.098458],[6.754344,52.094803],[6.750949,52.095787],[6.749027,52.095863],[6.747628,52.095581],[6.744446,52.093697],[6.743088,52.092911],[6.749137,52.087517],[6.749717,52.086693],[6.749799,52.085713],[6.749368,52.084717],[6.748379,52.083595],[6.73488,52.075161],[6.695324,52.070946],[6.69646,52.067821],[6.69633,52.066319],[6.695671,52.065037],[6.687919,52.056385],[6.687014,52.054989],[6.68663,52.053967],[6.687576,52.04004],[6.715455,52.039913],[6.752575,52.028515],[6.806466,52],[6.810368,51.998017],[6.808061,51.995262],[6.825934,51.99326],[6.829513,51.986225],[6.829566,51.979759],[6.830004,51.976859],[6.831914,51.974113],[6.832197,51.97284],[6.831887,51.971412],[6.828282,51.964463],[6.813179,51.962742],[6.798778,51.958938],[6.795739,51.944348],[6.794078,51.936871],[6.785498,51.931389],[6.788025,51.929837],[6.769825,51.917011],[6.764233,51.915741],[6.756733,51.913964],[6.754588,51.913239],[6.753887,51.91251],[6.753524,51.910476],[6.75271,51.909275],[6.75135,51.908245],[6.749596,51.907391],[6.747706,51.906769],[6.743567,51.905838],[6.73809,51.904957],[6.736549,51.904297],[6.735217,51.902939],[6.731821,51.898975],[6.721327,51.89629],[6.702866,51.906749],[6.697011,51.910198],[6.694593,51.915791],[6.691022,51.915348],[6.688588,51.915375],[6.686806,51.915684],[6.684993,51.916218],[6.683184,51.917023],[6.673338,51.915523],[6.657889,51.909755],[6.636739,51.904049],[6.633862,51.901066],[6.629421,51.900795],[6.628668,51.900872],[6.62476,51.901706],[6.614063,51.899205],[6.594826,51.895382],[6.585634,51.893555],[6.579626,51.891906],[6.572121,51.889378],[6.565812,51.887073],[6.564317,51.886299],[6.563454,51.885734],[6.560778,51.882583],[6.560296,51.882138],[6.559786,51.882015],[6.556528,51.882065],[6.556163,51.882271],[6.552191,51.886184],[6.549951,51.885819],[6.544581,51.885193],[6.544028,51.885036],[6.543572,51.884827],[6.537283,51.880264],[6.535317,51.879135],[6.528978,51.876148],[6.52681,51.87521],[6.525283,51.874656],[6.523583,51.874126],[6.521987,51.87386],[6.517223,51.873306],[6.515585,51.873039],[6.514712,51.872799],[6.513303,51.872357],[6.503822,51.867935],[6.503342,51.867595],[6.502996,51.867183],[6.502866,51.866658],[6.502846,51.866325],[6.502746,51.865234],[6.502553,51.86427],[6.502066,51.863495],[6.501182,51.862728],[6.500057,51.862],[6.498526,51.861359],[6.496402,51.860698],[6.4805,51.857139],[6.477988,51.856426],[6.476948,51.856079],[6.470896,51.854107],[6.469465,51.854271],[6.466389,51.854686],[6.464034,51.855256],[6.461916,51.856091],[6.45993,51.857224],[6.458273,51.858372],[6.45161,51.865177],[6.449119,51.865116],[6.448181,51.864998],[6.447319,51.864804],[6.433449,51.859447],[6.432863,51.859341],[6.4323,51.859368],[6.430083,51.860268],[6.429414,51.860698],[6.429237,51.861107],[6.428551,51.864464],[6.428357,51.865066],[6.428,51.865532],[6.42734,51.865856],[6.420343,51.866916],[6.419098,51.867134],[6.417976,51.867531],[6.416571,51.868347],[6.413641,51.87035],[6.412943,51.870716],[6.412304,51.870804],[6.403047,51.870274],[6.401412,51.870304],[6.399396,51.870632],[6.397126,51.871254],[6.395935,51.871757],[6.393414,51.873554],[6.392933,51.873844],[6.392327,51.873952],[6.390278,51.874085],[6.390576,51.871448],[6.390561,51.870343],[6.389612,51.866864],[6.389422,51.865787],[6.389515,51.864761],[6.390843,51.86214],[6.391807,51.861],[6.392615,51.860317],[6.399312,51.856102],[6.400808,51.855446],[6.40228,51.855034],[6.407168,51.854313],[6.408342,51.854034],[6.409185,51.8536],[6.409681,51.853192],[6.410002,51.852268],[6.403063,51.845627],[6.402799,51.844948],[6.402759,51.844185],[6.402928,51.843521],[6.40328,51.842819],[6.405819,51.839844],[6.407008,51.838257],[6.408062,51.836571],[6.408297,51.835953],[6.408149,51.835591],[6.407696,51.835418],[6.406979,51.835373],[6.40466,51.835896],[6.404005,51.835961],[6.403763,51.835842],[6.404039,51.835285],[6.4078,51.828488],[6.400588,51.827583],[6.397496,51.829529],[6.395653,51.830528],[6.393882,51.831356],[6.391646,51.832302],[6.388003,51.833451],[6.385633,51.834107],[6.382549,51.83469],[6.380145,51.835018],[6.376979,51.83503],[6.37248,51.834755],[6.371078,51.834854],[6.36446,51.83738],[6.363878,51.837803],[6.363754,51.83905],[6.363311,51.841557],[6.362443,51.843254],[6.360524,51.845486],[6.358223,51.847221],[6.355898,51.848423],[6.353162,51.849434],[6.349362,51.850364],[6.346103,51.850827],[6.334015,51.851731],[6.330651,51.851788],[6.319451,51.85157],[6.317619,51.851284],[6.307171,51.848553],[6.303653,51.854161],[6.301614,51.859508],[6.299319,51.867637],[6.298762,51.868096],[6.298075,51.86855],[6.291052,51.870693],[6.279946,51.873806],[6.277312,51.874428],[6.273552,51.874695],[6.272136,51.874714],[6.271192,51.874546],[6.269885,51.874066],[6.269158,51.873448],[6.263988,51.869026],[6.263361,51.868733],[6.262645,51.868465],[6.261709,51.868214],[6.260234,51.868134],[6.258439,51.868206],[6.247856,51.869473],[6.246448,51.86961],[6.245057,51.86956],[6.24364,51.869323],[6.241657,51.869087],[6.240435,51.869098],[6.239154,51.869206],[6.236417,51.869946],[6.233345,51.87022],[6.222004,51.868786],[6.219613,51.868607],[6.2143,51.869911],[6.211633,51.870628],[6.20697,51.872082],[6.203679,51.87323],[6.199789,51.874862],[6.196489,51.876404],[6.194,51.877827],[6.188475,51.881546],[6.187606,51.88245],[6.18596,51.88654],[6.191873,51.88739],[6.191259,51.891629],[6.188235,51.89217],[6.169657,51.901829],[6.164272,51.89777],[6.163535,51.897236],[6.159235,51.900654],[6.157258,51.902031],[6.153873,51.904037],[6.150012,51.903267],[6.148446,51.902961],[6.126377,51.898697],[6.125555,51.898693],[6.125005,51.898812],[6.117971,51.901336],[6.105735,51.892506],[6.105179,51.891815],[6.106396,51.891716],[6.112654,51.892143],[6.114925,51.892258],[6.117152,51.892098],[6.118603,51.891808],[6.119946,51.891472],[6.121246,51.891048],[6.122022,51.890763],[6.13617,51.886589],[6.13744,51.885708],[6.138358,51.884372],[6.143773,51.872952],[6.144859,51.870052],[6.145412,51.869144],[6.146506,51.868202],[6.148407,51.866668],[6.150264,51.865597],[6.152917,51.864544],[6.16472,51.860333],[6.164202,51.855256],[6.164135,51.853871],[6.164327,51.852978],[6.165841,51.843544],[6.166266,51.840896],[6.160182,51.842366],[6.146362,51.845764],[6.142401,51.846665],[6.138796,51.84729],[6.13534,51.847617],[6.131757,51.847763],[6.119784,51.847755],[6.110388,51.847679],[6.1062,51.84798],[6.102737,51.848381],[6.099148,51.84909],[6.094377,51.850582],[6.085207,51.855094],[6.073955,51.860505],[6.069007,51.862999],[6.063658,51.865399],[6.062619,51.863472],[6.059409,51.857521],[6.052877,51.856705],[6.055124,51.852619],[6.032906,51.843018],[6.029178,51.845253],[6.017222,51.841241],[6.016234,51.838856],[6.015021,51.837521],[6.013298,51.836396],[6.010842,51.835362],[6.005256,51.833657],[6.002668,51.832916],[6,51.83226],[5.996898,51.831676],[5.994793,51.831356],[5.991765,51.831032],[5.989425,51.830952],[5.986351,51.8312],[5.973357,51.833267],[5.971153,51.833668],[5.969015,51.834381],[5.96296,51.836891],[5.946132,51.824593],[5.958717,51.817451],[5.956576,51.815983],[5.954376,51.814583],[5.947973,51.816567],[5.945307,51.814698],[5.948109,51.811272],[5.955602,51.810096],[5.962002,51.807049],[5.963268,51.806183],[5.965053,51.804058],[5.977047,51.797142],[5.97254,51.789238],[5.974364,51.785809],[5.978724,51.786431],[5.98138,51.785675],[5.988534,51.783638],[5.990463,51.782521],[5.984702,51.778675],[5.983009,51.773712],[5.990891,51.769844],[5.989967,51.766117],[5.95283,51.748974],[5.952791,51.744884]]],"type":"Polygon"}
 }

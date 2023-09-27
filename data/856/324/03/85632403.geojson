@@ -4,15 +4,21 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 3.213880634843996,
-    "geom:area_square_m": 36370077329.21458,
+    "geom:area": 3.213880634844005,
+    "geom:area_square_m": 36370077329.21803,
     "geom:bbox": "116.702026,20.705389,122.102943,26.396250",
-    "geom:latitude": 23.75476428958529,
+    "geom:latitude": 23.754764289585285,
     "geom:longitude": 120.95201567687019,
     "gn:population": 22894384,
     "iso:country": "TW",
     "itu:country_code": [
       "886"
+    ],
+    "label:eng_x_preferred_longname": [
+      "Taiwan"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "disputed territory"
     ],
     "label:eng_x_preferred_shortcode": [
       "TW"
@@ -28,49 +34,77 @@
     "mz:max_zoom": 8,
     "mz:min_zoom": 3,
     "name:ace_x_preferred": [
+      "Taiwan"
+    ],
+    "name:ace_x_variant": [
       "Taywan"
     ],
     "name:afr_x_preferred": [
-      "Republiek van Sjina"
+      "Taiwan"
     ],
     "name:afr_x_variant": [
-      "Taiwan"
+      "Republiek China",
+      "Republiek van Sjina"
     ],
     "name:aka_x_preferred": [
       "Taiwan"
     ],
-    "name:als_x_preferred": [
+    "name:als_x_variant": [
       "Republik China"
     ],
+    "name:alt_x_preferred": [
+      "Тайвань"
+    ],
     "name:amh_x_preferred": [
-      "የቻይና ሪፐብሊክ"
+      "ታይዋን"
     ],
     "name:amh_x_variant": [
-      "ታይዋን"
+      "የቻይና ሪፐብሊክ"
+    ],
+    "name:ami_x_preferred": [
+      "Taywan"
+    ],
+    "name:anp_x_preferred": [
+      "ताईवान"
     ],
     "name:ara_x_preferred": [
       "تايوان"
     ],
-    "name:arg_x_preferred": [
+    "name:ara_x_variant": [
+      "جمهورية الصين"
+    ],
+    "name:arg_x_variant": [
       "Republica de China"
     ],
+    "name:ary_x_preferred": [
+      "طايوان"
+    ],
     "name:arz_x_preferred": [
+      "تايوان"
+    ],
+    "name:arz_x_variant": [
       "جمهورية الصين"
     ],
     "name:asm_x_preferred": [
       "টাইৱান"
     ],
     "name:ast_x_preferred": [
+      "Taiwán"
+    ],
+    "name:ast_x_variant": [
       "República de China"
+    ],
+    "name:awa_x_preferred": [
+      "ताइवान"
     ],
     "name:azb_x_preferred": [
       "تایوان"
     ],
     "name:aze_x_preferred": [
-      "Çin Respublikası"
+      "Tayvan"
     ],
     "name:aze_x_variant": [
-      "Tayvan"
+      "Çin Respublikası"
     ],
     "name:bak_x_preferred": [
       "Ҡытай Республикаһы"
@@ -78,11 +112,14 @@
     "name:bam_x_preferred": [
       "Tayiwani"
     ],
+    "name:ban_x_preferred": [
+      "Taiwan"
+    ],
     "name:bar_x_preferred": [
-      "Republik Kina"
+      "Republik China"
     ],
     "name:bar_x_variant": [
-      "Republik China"
+      "Republik Kina"
     ],
     "name:bcl_x_preferred": [
       "Taiwan"
@@ -94,17 +131,38 @@
       "Рэспубліка Кітай",
       "Востраў Тайвань"
     ],
+    "name:ben_bn_x_preferred": [
+      "তাইওয়ান"
+    ],
+    "name:ben_bn_x_variant": [
+      "চীনা প্রজাতন্ত্র"
+    ],
+    "name:ben_in_x_preferred": [
+      "তাইওয়ান"
+    ],
+    "name:ben_in_x_variant": [
+      "চীনা প্রজাতন্ত্র"
+    ],
     "name:ben_x_preferred": [
       "তাইওয়ান"
+    ],
+    "name:ben_x_variant": [
+      "চীনা প্রজাতন্ত্র"
     ],
     "name:bgn_x_preferred": [
       "تایوان"
     ],
     "name:bho_x_preferred": [
+      "ताइवान"
+    ],
+    "name:bho_x_variant": [
       "चीन"
     ],
     "name:bih_x_preferred": [
       "ताइवान"
+    ],
+    "name:bis_x_preferred": [
+      "Taewan"
     ],
     "name:bod_x_preferred": [
       "ཐའེ་ཝན།"
@@ -119,50 +177,53 @@
       "তাইৱান"
     ],
     "name:bre_x_preferred": [
-      "Republik Sina"
+      "Taiwan"
     ],
     "name:bre_x_variant": [
-      "Taiwan",
-      "Enez Taiwan"
+      "Enez Taiwan",
+      "Republik Sina"
     ],
     "name:brh_x_preferred": [
       "Táíván"
     ],
+    "name:bug_x_preferred": [
+      "ᨈᨕᨗᨓᨕᨊ"
+    ],
     "name:bul_x_preferred": [
       "Република Китай"
     ],
-    "name:bxr_x_preferred": [
-      "Бүгэдэ Найрамдаха Хитад Улас"
-    ],
     "name:cat_x_preferred": [
-      "República de la Xina"
-    ],
-    "name:cat_x_variant": [
       "Taiwan"
     ],
-    "name:cdo_x_preferred": [
-      "Dṳ̆ng-huà Mìng-guók"
+    "name:cat_x_variant": [
+      "República de la Xina"
     ],
-    "name:cdo_x_variant": [
+    "name:cdo_x_preferred": [
       "Dài-uăng"
     ],
-    "name:ceb_x_preferred": [
+    "name:cdo_x_variant": [
+      "Dṳ̆ng-huà Mìng-guók"
+    ],
+    "name:ceb_x_variant": [
       "Republika sa Tsina"
     ],
     "name:ces_x_preferred": [
-      "Čínská republika"
+      "Tajwan"
     ],
     "name:ces_x_variant": [
-      "Tajwan",
-      "Tchaj-wan"
+      "Tchaj-wan",
+      "Čínská republika"
     ],
     "name:che_x_preferred": [
       "Тайвань"
     ],
+    "name:chr_x_preferred": [
+      "ᏔᎢᏩᏂ"
+    ],
     "name:chv_x_preferred": [
       "Тайвань"
     ],
-    "name:chy_x_preferred": [
+    "name:chy_x_variant": [
       "Republic of China"
     ],
     "name:ckb_x_preferred": [
@@ -186,40 +247,53 @@
     "name:cym_x_preferred": [
       "Taiwan"
     ],
-    "name:cze_x_variant": [
+    "name:cze_x_preferred": [
       "Tajwan"
+    ],
+    "name:dag_x_preferred": [
+      "Taiwan"
     ],
     "name:dan_x_preferred": [
       "Taiwan"
     ],
     "name:dan_x_variant": [
-      "Republikken Kina"
+      "Republikken Kina",
+      "Folkerepublikken Kina"
     ],
     "name:deu_at_x_preferred": [
+      "Taiwan"
+    ],
+    "name:deu_at_x_variant": [
       "Republik China"
     ],
     "name:deu_ch_x_preferred": [
+      "Taiwan"
+    ],
+    "name:deu_ch_x_variant": [
       "Republik China"
     ],
     "name:deu_x_preferred": [
-      "Republik China (Taiwan)"
+      "Taiwan"
     ],
     "name:deu_x_variant": [
-      "Taiwan",
+      "Republik China auf Taiwan",
       "Republik China",
-      "Republik China auf Taiwan"
+      "Republik China (Taiwan)"
     ],
     "name:diq_x_preferred": [
       "Cumhuriyetê Çini"
     ],
     "name:div_x_preferred": [
-      "ޖުމްހޫރީ ޗައިނާ"
+      "ޓައިވާން"
     ],
     "name:div_x_variant": [
-      "ޓައިވާން"
+      "ޖުމްހޫރީ ޗައިނާ"
     ],
     "name:dsb_x_preferred": [
       "Republika Chinskeje"
+    ],
+    "name:dtp_x_preferred": [
+      "Taiwan"
     ],
     "name:dty_x_preferred": [
       "ताइवान"
@@ -231,16 +305,36 @@
       "ཏའི་ཝཱན"
     ],
     "name:ell_x_preferred": [
-      "Δημοκρατία της Κίνας"
+      "Ταϊβάν"
     ],
     "name:ell_x_variant": [
-      "Ταϊβάν"
+      "Δημοκρατία της Κίνας"
     ],
     "name:eng_ca_x_preferred": [
       "Taiwan"
     ],
+    "name:eng_ca_x_variant": [
+      "Chinese Republic of Taiwan",
+      "Formosa",
+      "Rep. China",
+      "Republic of China",
+      "T'aiwan",
+      "Greater China",
+      "ROC",
+      "Taiwanese"
+    ],
     "name:eng_gb_x_preferred": [
       "Taiwan"
+    ],
+    "name:eng_gb_x_variant": [
+      "Chinese Republic of Taiwan",
+      "Formosa",
+      "Rep. China",
+      "Republic of China",
+      "T'aiwan",
+      "Greater China",
+      "ROC",
+      "Taiwanese"
     ],
     "name:eng_x_preferred": [
       "Taiwan"
@@ -256,18 +350,18 @@
       "Rep. China",
       "Republic of China",
       "T'aiwan",
-      "Taiwan, Greater China",
-      "Taiwan, ROC",
+      "Greater China",
+      "ROC",
       "Taiwanese"
     ],
     "name:epo_x_preferred": [
       "Tajvano"
     ],
     "name:est_x_preferred": [
-      "Hiina Vabariik"
+      "Taiwan"
     ],
     "name:est_x_variant": [
-      "Taiwan"
+      "Hiina Vabariik"
     ],
     "name:eus_x_preferred": [
       "Taiwan"
@@ -278,7 +372,7 @@
     "name:ewe_x_variant": [
       "Taiwan nutome"
     ],
-    "name:ext_x_preferred": [
+    "name:ext_x_variant": [
       "Repúbrica de China"
     ],
     "name:fao_x_preferred": [
@@ -307,10 +401,10 @@
       "Rèpublica de Ch·ina"
     ],
     "name:frr_x_preferred": [
-      "Taiwan (republiik)"
+      "Taiwan"
     ],
     "name:frr_x_variant": [
-      "Taiwan"
+      "Taiwan (republiik)"
     ],
     "name:fry_x_preferred": [
       "Taiwan"
@@ -319,10 +413,11 @@
       "Taywaan"
     ],
     "name:gag_x_preferred": [
-      "Kitay Respublikası (Tayvan)"
+      "Tayvan"
     ],
     "name:gag_x_variant": [
-      "Kitay Respublikası"
+      "Kitay Respublikası",
+      "Kitay Respublikası (Tayvan)"
     ],
     "name:gan_x_preferred": [
       "中華民國"
@@ -331,10 +426,10 @@
       "Taywan"
     ],
     "name:gla_x_preferred": [
-      "Poblachd na Sìne"
+      "Taidh-Bhàn"
     ],
     "name:gla_x_variant": [
-      "Taidh-Bhàn"
+      "Poblachd na Sìne"
     ],
     "name:gle_x_preferred": [
       "An Téaváin"
@@ -345,7 +440,7 @@
     "name:glg_x_variant": [
       "Illa de Taiwán"
     ],
-    "name:glv_x_preferred": [
+    "name:glv_x_variant": [
       "Pobblaght ny Sheen"
     ],
     "name:gom_x_preferred": [
@@ -354,6 +449,9 @@
     "name:got_x_preferred": [
       "𐍄𐌰𐌹̈𐍅𐌰"
     ],
+    "name:gpe_x_preferred": [
+      "Taiwan"
+    ],
     "name:grn_x_preferred": [
       "Taiuã"
     ],
@@ -361,10 +459,11 @@
       "Republik China"
     ],
     "name:guj_x_preferred": [
-      "ચીની ગણતંત્ર"
+      "તાઇવાન"
     ],
     "name:guj_x_variant": [
-      "તાઇવાન"
+      "ચીની ગણતંત્ર",
+      "ચીન ગણરાજ્ય"
     ],
     "name:hak_x_preferred": [
       "Chûng-fà Mìn-koet"
@@ -381,7 +480,7 @@
     "name:haw_x_preferred": [
       "Taiuana"
     ],
-    "name:hbs_x_preferred": [
+    "name:hbs_x_variant": [
       "Republika Kina"
     ],
     "name:heb_x_preferred": [
@@ -390,29 +489,30 @@
     "name:heb_x_variant": [
       "טייוואן"
     ],
-    "name:hif_x_preferred": [
+    "name:hif_x_variant": [
       "Republic of China"
     ],
     "name:hin_x_preferred": [
-      "चीनी गणराज्य"
-    ],
-    "name:hin_x_variant": [
       "ताइवान"
     ],
+    "name:hin_x_variant": [
+      "चीन गणराज्य",
+      "चीनी गणराज्य"
+    ],
     "name:hrv_x_preferred": [
-      "Republika Kina"
+      "Tajvan"
     ],
     "name:hrv_x_variant": [
-      "Tajvan"
+      "Republika Kina"
     ],
     "name:hsb_x_preferred": [
       "Chinska republika"
     ],
     "name:hun_x_preferred": [
-      "Kínai Köztársaság"
+      "Tajvan"
     ],
     "name:hun_x_variant": [
-      "Tajvan"
+      "Kínai Köztársaság"
     ],
     "name:hye_x_preferred": [
       "Թայվան"
@@ -420,8 +520,12 @@
     "name:hye_x_variant": [
       "Չինաստանի Հանրապետություն"
     ],
-    "name:ido_x_preferred": [
+    "name:ido_x_variant": [
+      "Republiko Chinia",
       "Republiko di Chinia"
+    ],
+    "name:iku_x_preferred": [
+      "ᑕᐃᐅᐋᓐ"
     ],
     "name:ile_x_preferred": [
       "Taiwan"
@@ -429,67 +533,79 @@
     "name:ilo_x_preferred": [
       "Taiwan"
     ],
-    "name:ina_x_preferred": [
+    "name:ina_x_variant": [
       "Republica de China"
     ],
     "name:ind_x_preferred": [
-      "Republik Tiongkok"
-    ],
-    "name:ind_x_variant": [
       "Taiwan"
     ],
+    "name:ind_x_variant": [
+      "Republik Tiongkok"
+    ],
     "name:isl_x_preferred": [
-      "Lýðveldið Kína"
+      "Taívan"
     ],
     "name:isl_x_variant": [
-      "Taívan"
+      "Lýðveldið Kína"
     ],
     "name:ita_x_preferred": [
       "Taiwan"
     ],
     "name:ita_x_variant": [
       "Repubblica di Cina",
-      "Isola di Formosa"
+      "Isola di Formosa",
+      "Repubblica Popolare Cinese"
     ],
     "name:jam_x_preferred": [
-      "Ripoblik a Chaina"
+      "Taiwan"
     ],
     "name:jam_x_variant": [
-      "Taiwan"
+      "Ripoblik a Chaina"
     ],
     "name:jav_x_preferred": [
       "Républik Cina"
     ],
     "name:jpn_x_preferred": [
-      "台湾",
+      "台湾"
+    ],
+    "name:jpn_x_variant": [
       "中華民国"
     ],
     "name:kaa_x_preferred": [
       "Tayvan"
     ],
+    "name:kab_x_preferred": [
+      "Taywan"
+    ],
     "name:kal_x_preferred": [
       "Taiwan"
     ],
     "name:kan_x_preferred": [
-      "ಚೀನಿ ಗಣರಾಜ್ಯ"
+      "ತೈವಾನ್"
     ],
     "name:kan_x_variant": [
+      "ರಿಪಬ್ಲಿಕ್",
+      "ಚೀನಿ ಗಣರಾಜ್ಯ",
       "ಥೈವಾನ್"
     ],
     "name:kat_x_preferred": [
       "ტაივანი"
     ],
     "name:kaz_x_preferred": [
-      "Тайвань"
+      "Тайуан"
     ],
     "name:kaz_x_variant": [
-      "Тайуан"
+      "Қытай Республикасы",
+      "Тайвань"
     ],
     "name:kbd_x_preferred": [
       "Хъутей Республикэ"
     ],
     "name:kbp_x_preferred": [
       "Tayɩwanɩ"
+    ],
+    "name:kcg_x_preferred": [
+      "Taiwan"
     ],
     "name:khm_x_preferred": [
       "តៃវ៉ាន់"
@@ -504,13 +620,13 @@
       "Тайвань"
     ],
     "name:kor_x_preferred": [
-      "타이완 섬",
-      "중화민국"
+      "대만"
     ],
     "name:kor_x_variant": [
-      "대만",
       "티이완",
-      "타이완"
+      "타이완",
+      "중화민국",
+      "타이완 섬"
     ],
     "name:kur_x_preferred": [
       "Taywan"
@@ -518,26 +634,25 @@
     "name:kur_x_variant": [
       "تایوان"
     ],
-    "name:lad_x_preferred": [
+    "name:lad_x_variant": [
       "Repuvlika de Kina"
     ],
     "name:lao_x_preferred": [
       "ໄຕ້ຫວັນ"
     ],
     "name:lao_x_variant": [
-      "Tâi-oân"
-    ],
-    "name:lat_x_preferred": [
-      "Res publica Sinarum"
+      "Tâi-oân",
+      "ປະເທດໄຕ້ຫວັນ"
     ],
     "name:lat_x_variant": [
+      "Res publica Sinarum",
       "Formosa"
     ],
     "name:lav_x_preferred": [
-      "Ķīnas Republika"
+      "Taivāna"
     ],
     "name:lav_x_variant": [
-      "Taivāna"
+      "Ķīnas Republika"
     ],
     "name:lfn_x_preferred": [
       "Taiuan"
@@ -560,6 +675,9 @@
     "name:lit_x_preferred": [
       "Taivanas"
     ],
+    "name:lld_x_preferred": [
+      "Taiwan"
+    ],
     "name:lmo_x_preferred": [
       "Taiwan"
     ],
@@ -570,11 +688,11 @@
       "تایوان"
     ],
     "name:ltz_x_preferred": [
-      "Republik China (Taiwan)"
+      "Taiwan"
     ],
     "name:ltz_x_variant": [
       "Republik China",
-      "Taiwan"
+      "Republik China (Taiwan)"
     ],
     "name:lub_x_preferred": [
       "Taiwani"
@@ -585,20 +703,25 @@
     "name:lzh_x_preferred": [
       "中華民國"
     ],
+    "name:mad_x_preferred": [
+      "Taiwan"
+    ],
     "name:mai_x_preferred": [
       "ताइवान"
     ],
     "name:mal_x_preferred": [
-      "തായ്‌വാൻ"
+      "തായ്"
     ],
     "name:mal_x_variant": [
-      "തായ്‌വാന്‍"
+      "റിപ്പബ്ലിക്ക് ഓഫ് ചൈന",
+      "തായ്‌വാന്‍",
+      "തായ്‌വാൻ"
     ],
     "name:mar_x_preferred": [
-      "चीनचे प्रजासत्ताक"
+      "तैवान"
     ],
     "name:mar_x_variant": [
-      "तैवान"
+      "चीनचे प्रजासत्ताक"
     ],
     "name:mhr_x_preferred": [
       "Тайвань"
@@ -610,10 +733,10 @@
       "Taiwan"
     ],
     "name:mkd_x_preferred": [
-      "Република Кина"
+      "Тајван"
     ],
     "name:mkd_x_variant": [
-      "Тајван"
+      "Република Кина"
     ],
     "name:mlg_x_preferred": [
       "Taiwan"
@@ -624,6 +747,9 @@
     "name:mlt_x_preferred": [
       "Tajwan"
     ],
+    "name:mni_x_preferred": [
+      "ꯇꯥꯏꯋꯥꯟ"
+    ],
     "name:mon_x_preferred": [
       "Тайвань"
     ],
@@ -631,17 +757,17 @@
       "Taiwana"
     ],
     "name:msa_x_preferred": [
-      "Republik China di Taiwan"
+      "Taiwan"
     ],
     "name:msa_x_variant": [
       "Pulau Taiwan",
-      "Taiwan"
+      "Republik China di Taiwan"
     ],
     "name:mya_x_preferred": [
-      "တရုတ်သမ္မတနိုင်ငံ"
+      "ထိုင်ဝမ်"
     ],
     "name:mya_x_variant": [
-      "ထိုင်ဝမ်"
+      "တရုတ်သမ္မတနိုင်ငံ"
     ],
     "name:myv_x_preferred": [
       "Китайень Республикась"
@@ -680,6 +806,9 @@
       "Republiek China"
     ],
     "name:nno_x_preferred": [
+      "Taiwan"
+    ],
+    "name:nno_x_variant": [
       "Republikken Kina"
     ],
     "name:nob_x_preferred": [
@@ -689,17 +818,23 @@
       "Republikken Kina"
     ],
     "name:nor_x_preferred": [
-      "Taiwan",
+      "Taiwan"
+    ],
+    "name:nor_x_variant": [
       "Republikken Kina"
     ],
-    "name:nov_x_preferred": [
+    "name:nov_x_variant": [
       "Republike de China"
     ],
     "name:oci_x_preferred": [
-      "Republica de China (Taiwan)"
+      "Taiwan"
     ],
     "name:oci_x_variant": [
-      "Republica de China"
+      "Republica de China",
+      "Republica de China (Taiwan)"
+    ],
+    "name:olo_x_preferred": [
+      "Taivan'"
     ],
     "name:ori_x_preferred": [
       "ତାଇୱାନ"
@@ -708,24 +843,34 @@
       "ତାଇୱାନ୍"
     ],
     "name:oss_x_preferred": [
+      "Тайван"
+    ],
+    "name:oss_x_variant": [
       "Китайы Республикæ"
     ],
-    "name:pam_x_preferred": [
+    "name:pam_x_variant": [
       "Republika ning Tsina"
     ],
     "name:pan_x_preferred": [
-      "ਤਾਇਵਾਨ"
+      "ਤਾਈਵਾਨ"
     ],
     "name:pan_x_variant": [
-      "ਚੀਨ ਗਣਰਾਜ"
+      "ਚੀਨ ਗਣਰਾਜ",
+      "ਤਾਇਵਾਨ"
     ],
     "name:pap_x_preferred": [
+      "Taiwan"
+    ],
+    "name:pap_x_variant": [
       "Republika di China"
     ],
     "name:pcd_x_preferred": [
       "Taïwan"
     ],
     "name:pfl_x_preferred": [
+      "Taiwan"
+    ],
+    "name:pfl_x_variant": [
       "Taiwon"
     ],
     "name:pli_x_preferred": [
@@ -738,28 +883,34 @@
       "تائیوان"
     ],
     "name:pol_x_preferred": [
-      "Tajwan",
-      "Republika Chińska"
+      "Tajwan"
     ],
     "name:pol_x_variant": [
-      "Formoza"
+      "Formoza",
+      "Republika Chińska"
     ],
     "name:por_br_x_preferred": [
       "Taiwan"
     ],
+    "name:por_br_x_variant": [
+      "República da China"
+    ],
     "name:por_x_preferred": [
-      "Ilha de Formosa",
       "Taiwan"
     ],
     "name:por_x_variant": [
       "República da China",
-      "Ilha Formosa"
+      "Ilha Formosa",
+      "Ilha de Formosa"
     ],
     "name:pus_x_preferred": [
-      "د چين جمهوريت"
+      "تایوان"
     ],
     "name:pus_x_variant": [
-      "تایوان"
+      "د چين جمهوريت"
+    ],
+    "name:pwn_x_preferred": [
+      "Taiwan"
     ],
     "name:que_x_preferred": [
       "Chunwa Republika"
@@ -770,26 +921,36 @@
     "name:ron_x_preferred": [
       "Taiwan"
     ],
+    "name:ron_x_variant": [
+      "Republica Populară Chineză"
+    ],
     "name:rue_x_preferred": [
       "Тайван"
     ],
     "name:run_x_preferred": [
       "Tayiwani"
     ],
+    "name:rup_x_preferred": [
+      "Taiwan"
+    ],
     "name:rus_x_preferred": [
-      "Китайская Республика"
+      "Тайвань"
     ],
     "name:rus_x_variant": [
-      "Тайвань"
+      "Китайская Республика (Тайвань)",
+      "Китайская Республика"
+    ],
+    "name:ryu_x_preferred": [
+      "中華民国"
     ],
     "name:sag_x_preferred": [
       "Tâiwâni"
     ],
     "name:sah_x_preferred": [
-      "Кытай Өрөспүүбүлүкэтэ"
+      "Кытай Республиката"
     ],
     "name:sah_x_variant": [
-      "Кытай Республиката"
+      "Кытай Өрөспүүбүлүкэтэ"
     ],
     "name:san_x_preferred": [
       "तैवान"
@@ -800,11 +961,14 @@
     "name:scn_x_preferred": [
       "Taiwan"
     ],
-    "name:sco_x_preferred": [
+    "name:sco_x_variant": [
       "Republic o Cheenae"
     ],
     "name:sgs_x_preferred": [
       "Taivans"
+    ],
+    "name:shn_x_preferred": [
+      "ထၢႆႇဝၢၼ်း"
     ],
     "name:sin_x_preferred": [
       "තායිවානය"
@@ -821,8 +985,14 @@
     "name:sme_x_preferred": [
       "Taiwan"
     ],
+    "name:smn_x_preferred": [
+      "Taiwan"
+    ],
     "name:smo_x_preferred": [
       "Saina Taipei"
+    ],
+    "name:sms_x_preferred": [
+      "Taiwaan"
     ],
     "name:sna_x_preferred": [
       "Taiwan"
@@ -837,27 +1007,27 @@
       "Taywaan"
     ],
     "name:spa_x_preferred": [
-      "Isla de Taiwán",
-      "República de China"
+      "Taiwán"
     ],
     "name:spa_x_variant": [
       "República de China en Taiwán",
-      "Taiwán"
+      "República de China",
+      "Isla de Taiwán"
     ],
     "name:sqi_x_preferred": [
-      "Republika e Kinës"
+      "Tajvan"
     ],
     "name:sqi_x_variant": [
-      "Tajvan"
+      "Republika e Kinës"
     ],
     "name:srd_x_preferred": [
       "Taiwan"
     ],
     "name:srp_x_preferred": [
-      "Република Кина"
+      "Тајван"
     ],
     "name:srp_x_variant": [
-      "Тајван"
+      "Република Кина"
     ],
     "name:ssw_x_preferred": [
       "IThayiwani"
@@ -869,10 +1039,10 @@
       "Républik Tiongkok"
     ],
     "name:swa_x_preferred": [
-      "Jamhuri ya China"
+      "Taiwani"
     ],
     "name:swa_x_variant": [
-      "Taiwani"
+      "Jamhuri ya China"
     ],
     "name:swe_x_preferred": [
       "Taiwan"
@@ -884,20 +1054,26 @@
     "name:szl_x_preferred": [
       "Republika Chińsko"
     ],
+    "name:szy_x_preferred": [
+      "Taywan"
+    ],
     "name:tam_x_preferred": [
-      "சீனக் குடியரசு"
+      "தைவான்"
     ],
     "name:tam_x_variant": [
-      "தைவான்"
+      "சீனக் குடியரசு"
     ],
     "name:tat_x_preferred": [
       "Кытай Җөмһүрияте"
+    ],
+    "name:tay_x_preferred": [
+      "Taywan"
     ],
     "name:tel_x_preferred": [
       "తైవాన్"
     ],
     "name:tel_x_variant": [
-      "టైవాన్"
+      "రిపబ్లిక్ ఆఫ్ చైనా"
     ],
     "name:tet_x_preferred": [
       "Taiwán"
@@ -906,28 +1082,41 @@
       "Тайван"
     ],
     "name:tgl_x_preferred": [
-      "Republika ng Tsina"
+      "Taiwan"
     ],
     "name:tgl_x_variant": [
       "Heograpiya ng Taiwan",
-      "Taiwan"
+      "Republika ng Tsina"
     ],
     "name:tha_x_preferred": [
+      "ไต้หวัน"
+    ],
+    "name:tha_x_variant": [
+      "สาธารณรัฐจีน",
       "ประเทศไต้หวัน"
     ],
     "name:tir_x_preferred": [
       "ታይዋን"
     ],
+    "name:tok_x_preferred": [
+      "ma Tawan"
+    ],
     "name:ton_x_preferred": [
       "Taiuani"
     ],
-    "name:tpi_x_preferred": [
+    "name:tpi_x_variant": [
       "Ripablik bilong Saina"
+    ],
+    "name:trv_x_preferred": [
+      "Taiwan"
     ],
     "name:tuk_x_preferred": [
       "Taýwan"
     ],
     "name:tur_x_preferred": [
+      "Tayvan"
+    ],
+    "name:tur_x_variant": [
       "Çin Cumhuriyeti"
     ],
     "name:udm_x_preferred": [
@@ -937,30 +1126,28 @@
       "تەيۋەن"
     ],
     "name:ukr_x_preferred": [
-      "Республіка Китай"
-    ],
-    "name:ukr_x_variant": [
       "Тайвань"
     ],
-    "name:und_x_colloquial": [
-      "Taivan"
+    "name:ukr_x_variant": [
+      "Республіка Китай"
     ],
     "name:und_x_variant": [
+      "宜蘭縣",
       "Daeman"
     ],
     "name:urd_x_preferred": [
       "تائیوان"
     ],
     "name:urd_x_variant": [
-      "جمہوریۂ چین"
+      "جمہوریہ چین"
     ],
     "name:uzb_x_preferred": [
-      "Xitoy Respublikasi"
-    ],
-    "name:uzb_x_variant": [
       "Tayvan"
     ],
-    "name:vec_x_preferred": [
+    "name:uzb_x_variant": [
+      "Xitoy Respublikasi"
+    ],
+    "name:vec_x_variant": [
       "Republica de Cina"
     ],
     "name:vep_x_preferred": [
@@ -970,10 +1157,10 @@
       "Taivan'"
     ],
     "name:vie_x_preferred": [
-      "Trung Hoa Dân Quốc"
+      "Đài Loan"
     ],
     "name:vie_x_variant": [
-      "Đài Loan"
+      "Đài Loan (Trung Quốc)"
     ],
     "name:vls_x_preferred": [
       "Taiwan"
@@ -984,8 +1171,11 @@
     "name:vro_x_preferred": [
       "Hiina Vabariik"
     ],
-    "name:war_x_preferred": [
+    "name:war_x_variant": [
       "Republika han Tsina"
+    ],
+    "name:wln_x_preferred": [
+      "Taywane"
     ],
     "name:wol_x_preferred": [
       "Taaywaan"
@@ -1000,15 +1190,16 @@
       "ტაივანი"
     ],
     "name:yid_x_preferred": [
-      "רעפובליק פון כינע"
-    ],
-    "name:yid_x_variant": [
       "טייוואן"
     ],
+    "name:yid_x_variant": [
+      "רעפובליק פון כינע"
+    ],
     "name:yor_x_preferred": [
-      "Orílẹ̀-èdè Olómìnira ilẹ̀ Ṣáínà"
+      "Taiwani"
     ],
     "name:yor_x_variant": [
+      "Orílẹ̀-èdè Olómìnira ilẹ̀ Ṣáínà",
       "Orílẹ́ède Taiwani"
     ],
     "name:yue_x_preferred": [
@@ -1020,37 +1211,115 @@
     "name:zha_x_preferred": [
       "Cunghvaz Minzgoz"
     ],
+    "name:zho_chs_x_preferred": [
+      "台湾"
+    ],
+    "name:zho_chs_x_variant": [
+      "台灣",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
+    ],
+    "name:zho_cht_x_preferred": [
+      "台灣"
+    ],
+    "name:zho_cht_x_variant": [
+      "台湾",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
+    ],
     "name:zho_cn_x_preferred": [
-      "中华民国"
+      "台湾"
+    ],
+    "name:zho_cn_x_variant": [
+      "台灣",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
+    ],
+    "name:zho_hans_x_preferred": [
+      "台湾"
+    ],
+    "name:zho_hans_x_variant": [
+      "台灣",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
+    ],
+    "name:zho_hant_x_preferred": [
+      "台灣"
+    ],
+    "name:zho_hant_x_variant": [
+      "台湾",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
     ],
     "name:zho_hk_x_preferred": [
-      "中華民國"
+      "台灣"
     ],
-    "name:zho_min_nan_x_preferred": [
-      "Tiong-hoâ Bîn-kok"
+    "name:zho_hk_x_variant": [
+      "台湾",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
     ],
     "name:zho_mo_x_preferred": [
-      "中華民國"
+      "台灣"
     ],
-    "name:zho_my_x_preferred": [
-      "中华民国"
+    "name:zho_mo_x_variant": [
+      "台湾",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
     ],
     "name:zho_sg_x_preferred": [
-      "中华民国"
+      "台湾"
+    ],
+    "name:zho_sg_x_variant": [
+      "台灣",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
     ],
     "name:zho_tw_x_preferred": [
-      "中華民國"
+      "台灣"
+    ],
+    "name:zho_tw_x_variant": [
+      "台湾",
+      "中华民国",
+      "中國台灣",
+      "中華民國",
+      "中国台湾",
+      "臺灣"
     ],
     "name:zho_x_preferred": [
       "台湾"
     ],
     "name:zho_x_variant": [
       "台灣",
+      "中华民国",
+      "中國台灣",
       "中華民國",
+      "中国台湾",
       "臺灣"
-    ],
-    "name:zho_yue_x_preferred": [
-      "中華民國"
     ],
     "name:zul_x_preferred": [
       "i-Taiwan"
@@ -1208,7 +1477,8 @@
       "meso"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "geonames",
+    "src:population": "naturalearth",
+    "src:population_date": "",
     "statoids:dial": "886",
     "statoids:ds": "RC",
     "statoids:fifa": "TPE",
@@ -1259,7 +1529,7 @@
     },
     "wof:country": "TW",
     "wof:country_alpha3": "TWN",
-    "wof:created": 1652217915,
+    "wof:created": 1695843243,
     "wof:geom_alt": [
       "naturalearth",
       "naturalearth-display-terrestrial-zoom6",
@@ -1279,12 +1549,12 @@
     "wof:lang_x_spoken": [
       "zho"
     ],
-    "wof:lastmodified": 1652217915,
+    "wof:lastmodified": 1695843243,
     "wof:name": "Taiwan",
     "wof:parent_id": 102191569,
     "wof:placetype": "country",
-    "wof:population": 22894384,
-    "wof:population_rank": 15,
+    "wof:population": 23568378,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "TW",
     "wof:superseded_by": [],

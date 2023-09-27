@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.02577225444906489,
-    "geom:area_square_m": 288627699.830534,
+    "geom:area": 0.025772195852999478,
+    "geom:area_square_m": 288627044.009942,
     "geom:bbox": "121.462178,24.970621,121.655241,25.205852",
-    "geom:latitude": 25.08220512083684,
-    "geom:longitude": 121.55946474336308,
+    "geom:latitude": 25.082204949685554,
+    "geom:longitude": 121.55946481514981,
     "gn:population": 2702315,
     "iso:country": "TW",
     "label:eng_x_preferred_longname": [
@@ -41,6 +41,12 @@
     "name:ara_x_preferred": [
       "تايبيه"
     ],
+    "name:arg_x_preferred": [
+      "Taipei"
+    ],
+    "name:ary_x_preferred": [
+      "طايپي"
+    ],
     "name:arz_x_preferred": [
       "تايبيه"
     ],
@@ -52,6 +58,12 @@
     ],
     "name:aze_x_preferred": [
       "Taybey"
+    ],
+    "name:bak_x_preferred": [
+      "Тайбэй"
+    ],
+    "name:ban_x_preferred": [
+      "Taipéi"
     ],
     "name:bcl_x_preferred": [
       "Taipei"
@@ -95,10 +107,16 @@
     "name:che_x_preferred": [
       "Тайбэй"
     ],
+    "name:chv_x_preferred": [
+      "Тайбэй"
+    ],
     "name:ckb_x_preferred": [
       "تایپێ"
     ],
     "name:cym_x_preferred": [
+      "Taipei"
+    ],
+    "name:dag_x_preferred": [
       "Taipei"
     ],
     "name:dan_x_preferred": [
@@ -141,11 +159,17 @@
     "name:fin_x_preferred": [
       "Taipei"
     ],
+    "name:fit_x_preferred": [
+      "Taipei"
+    ],
     "name:fra_x_preferred": [
       "Taipei"
     ],
     "name:frp_x_preferred": [
       "Tayipèh"
+    ],
+    "name:frr_x_preferred": [
+      "Taipeh"
     ],
     "name:fry_x_preferred": [
       "Taipei"
@@ -161,6 +185,9 @@
     ],
     "name:glg_x_preferred": [
       "Taipei"
+    ],
+    "name:grn_x_preferred": [
+      "Taipéi"
     ],
     "name:gsw_x_preferred": [
       "Taipeh"
@@ -210,8 +237,14 @@
     "name:ina_x_preferred": [
       "Citate Taibei"
     ],
+    "name:ina_x_variant": [
+      "Taipei"
+    ],
     "name:ind_x_preferred": [
       "Kota Taipei"
+    ],
+    "name:ind_x_variant": [
+      "Taipei"
     ],
     "name:isl_x_preferred": [
       "Taípei"
@@ -267,6 +300,9 @@
     "name:lij_x_preferred": [
       "Taipei"
     ],
+    "name:lim_x_preferred": [
+      "Taipei"
+    ],
     "name:lit_x_preferred": [
       "Taipėjus"
     ],
@@ -285,10 +321,19 @@
     "name:mar_x_preferred": [
       "ताइपेइ"
     ],
+    "name:mdf_x_preferred": [
+      "Тайпэй"
+    ],
+    "name:min_x_preferred": [
+      "Taipei"
+    ],
     "name:mkd_x_preferred": [
       "Тајпеј"
     ],
     "name:mlg_x_preferred": [
+      "Taipei"
+    ],
+    "name:mlt_x_preferred": [
       "Taipei"
     ],
     "name:mon_x_preferred": [
@@ -299,6 +344,9 @@
     ],
     "name:mya_x_preferred": [
       "ထိုင်ပေမြို့"
+    ],
+    "name:mzn_x_preferred": [
+      "تایپه"
     ],
     "name:nan_x_preferred": [
       "Tâi-pak-chhī"
@@ -351,6 +399,12 @@
     "name:por_x_preferred": [
       "Taipé"
     ],
+    "name:pus_x_preferred": [
+      "تایپي"
+    ],
+    "name:pwn_x_preferred": [
+      "taihuku"
+    ],
     "name:que_x_preferred": [
       "T'aypik"
     ],
@@ -363,6 +417,12 @@
     "name:sah_x_preferred": [
       "Тайпэй"
     ],
+    "name:san_x_preferred": [
+      "तैपेइ"
+    ],
+    "name:sat_x_preferred": [
+      "ᱛᱟᱭᱯᱮ"
+    ],
     "name:scn_x_preferred": [
       "Taipei"
     ],
@@ -372,13 +432,31 @@
     "name:sin_x_preferred": [
       "තායිපේ"
     ],
+    "name:sje_x_preferred": [
+      "Taipei"
+    ],
+    "name:sju_x_preferred": [
+      "Taipei"
+    ],
     "name:slk_x_preferred": [
       "Tchaj-pej"
     ],
     "name:slv_x_preferred": [
       "Tajpej"
     ],
+    "name:sma_x_preferred": [
+      "Taipei"
+    ],
     "name:sme_x_preferred": [
+      "Taipei"
+    ],
+    "name:smj_x_preferred": [
+      "Taipei"
+    ],
+    "name:smn_x_preferred": [
+      "Taipei"
+    ],
+    "name:sms_x_preferred": [
       "Taipei"
     ],
     "name:sna_x_preferred": [
@@ -393,6 +471,9 @@
     "name:sqi_x_preferred": [
       "Taipei"
     ],
+    "name:srd_x_preferred": [
+      "Taipei"
+    ],
     "name:srp_x_preferred": [
       "Тајпеј"
     ],
@@ -404,6 +485,9 @@
     ],
     "name:szl_x_preferred": [
       "Tajpej"
+    ],
+    "name:szy_x_preferred": [
+      "Taypak"
     ],
     "name:tam_x_preferred": [
       "தாய்பெய்"
@@ -438,6 +522,9 @@
     "name:tur_x_preferred": [
       "Taipei"
     ],
+    "name:udm_x_preferred": [
+      "Тайпей"
+    ],
     "name:uig_x_preferred": [
       "تەيبېي شەھىرى"
     ],
@@ -459,11 +546,20 @@
     "name:vie_x_preferred": [
       "Đài Bắc"
     ],
+    "name:vol_x_preferred": [
+      "Táiběi"
+    ],
     "name:war_x_preferred": [
       "Taipei"
     ],
     "name:wuu_x_preferred": [
       "臺北市"
+    ],
+    "name:xmf_x_preferred": [
+      "ტაიბეი"
+    ],
+    "name:yid_x_preferred": [
+      "טאאיפי"
     ],
     "name:yor_x_preferred": [
       "Taipei"
@@ -588,8 +684,8 @@
       102026641
     ],
     "wof:country": "TW",
-    "wof:created": 1652217999,
-    "wof:geomhash": "1db71d954dc8f45875c7f93fa3d93da3",
+    "wof:created": 1695843243,
+    "wof:geomhash": "eb93ad02e1096a223e7e41d64ce5d7af",
     "wof:hierarchy": [
       {
         "continent_id": 102191569,
@@ -605,7 +701,7 @@
     "wof:lang_x_spoken": [
       "zho"
     ],
-    "wof:lastmodified": 1652217999,
+    "wof:lastmodified": 1695843243,
     "wof:name": "Taipei City",
     "wof:parent_id": 1108808545,
     "wof:placetype": "region",
@@ -624,10 +720,10 @@
     "wof:tags": []
   },
   "bbox": [
-    121.4621781759821,
-    24.97062083638252,
-    121.65524132692576,
-    25.20585195610295
+    121.462178,
+    24.970621,
+    121.655241,
+    25.205852
   ],
-  "geometry": {"coordinates":[[[121.60284142499188,24.97062083638252],[121.58072391227881,24.97082754195753],[121.56243045540123,24.97454824500556],[121.54847781829676,24.9857103541496],[121.53400841725477,25.00069651912912],[121.51209761011671,25.01630280173299],[121.49700809055105,25.03945384411963],[121.50300255672266,25.06508535430572],[121.49845503137465,25.08658275029376],[121.47654422423659,25.10559967758309],[121.4621781759821,25.12017243141264],[121.46827599494122,25.13040436546913],[121.47509728431226,25.13867259386518],[121.48315880713335,25.1543822292565],[121.4966980330878,25.16812815988669],[121.53814253055339,25.19045237907409],[121.5493046405968,25.19903066673191],[121.5644975120506,25.20585195610295],[121.57907026588009,25.20151113543062],[121.58692508402544,25.19406972933461],[121.58485802557743,25.18166738494193],[121.58640831918865,25.16978180628536],[121.5922994316735,25.15851634435387],[121.59870730989451,25.14632070643552],[121.6081124207517,25.11169749654226],[121.6228918801562,25.09981191698643],[121.62909305190294,25.08451569274507],[121.6228918801562,25.06177806240771],[121.62361534966874,25.04420807504266],[121.64108198514555,25.03531972902232],[121.65524132692576,25.02436432545329],[121.64769656804219,25.00968821883629],[121.61875776595821,24.97661530255419],[121.60284142499188,24.97062083638252]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.602841,24.970621],[121.580724,24.970828],[121.56243,24.974548],[121.548478,24.98571],[121.534008,25.000697],[121.512098,25.016303],[121.497008,25.039454],[121.503003,25.065085],[121.498455,25.086583],[121.476544,25.1056],[121.462178,25.120172],[121.468276,25.130404],[121.475097,25.138673],[121.483159,25.154382],[121.496698,25.168128],[121.538143,25.190452],[121.549305,25.199031],[121.564498,25.205852],[121.57907,25.201511],[121.586925,25.19407],[121.584858,25.181667],[121.586408,25.169782],[121.592299,25.158516],[121.598707,25.146321],[121.608112,25.111697],[121.622892,25.099812],[121.629093,25.084516],[121.622892,25.061778],[121.623615,25.044208],[121.641082,25.03532],[121.655241,25.024364],[121.647697,25.009688],[121.618758,24.976615],[121.602841,24.970621]]],"type":"Polygon"}
 }

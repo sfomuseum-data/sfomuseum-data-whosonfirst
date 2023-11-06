@@ -7,10 +7,10 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 18.005014425766984,
-    "geom:area_square_m": 181039499377.29758,
+    "geom:area": 18.005014425767005,
+    "geom:area_square_m": 181039499377.31433,
     "geom:bbox": "-103.002455,33.615787,-94.430662,37.002312",
-    "geom:latitude": 35.58346020921398,
+    "geom:latitude": 35.583460209213975,
     "geom:longitude": -97.50822079361942,
     "iso:country": "US",
     "iso:subdivision": "US-OK",
@@ -54,6 +54,9 @@
     "name:arg_x_preferred": [
       "Oklahoma"
     ],
+    "name:ary_x_preferred": [
+      "أوكلاهوما"
+    ],
     "name:arz_x_preferred": [
       "اوكلاهوما"
     ],
@@ -67,6 +70,9 @@
       "اوکلاهما ایالتی"
     ],
     "name:aze_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:ban_x_preferred": [
       "Oklahoma"
     ],
     "name:bar_x_preferred": [
@@ -144,11 +150,17 @@
     "name:cos_x_preferred": [
       "Oklahoma"
     ],
+    "name:crh_x_preferred": [
+      "Oklahoma"
+    ],
     "name:cym_x_preferred": [
       "Oklahoma"
     ],
     "name:cym_x_variant": [
       "Oclahoma"
+    ],
+    "name:dag_x_preferred": [
+      "Oklahoma"
     ],
     "name:dan_x_preferred": [
       "Oklahoma"
@@ -200,6 +212,9 @@
       "اکلاهما"
     ],
     "name:fin_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:fit_x_preferred": [
       "Oklahoma"
     ],
     "name:fra_x_preferred": [
@@ -355,6 +370,9 @@
     "name:lit_x_preferred": [
       "Oklahoma"
     ],
+    "name:lld_x_preferred": [
+      "Oklahoma"
+    ],
     "name:lmo_x_preferred": [
       "Oklahoma"
     ],
@@ -379,6 +397,9 @@
     "name:mar_x_preferred": [
       "ओक्लाहोमा"
     ],
+    "name:mdf_x_preferred": [
+      "Оклагома"
+    ],
     "name:mhr_x_preferred": [
       "Оклахомо"
     ],
@@ -387,6 +408,9 @@
     ],
     "name:mlg_x_preferred": [
       "Oklahoma"
+    ],
+    "name:mni_x_preferred": [
+      "ꯑꯣꯛꯂꯥꯍꯣꯃꯥ"
     ],
     "name:mon_x_preferred": [
       "Оклахома"
@@ -451,6 +475,9 @@
     "name:pap_x_preferred": [
       "Oklahoma"
     ],
+    "name:pcd_x_preferred": [
+      "Oklahoma"
+    ],
     "name:pdc_x_preferred": [
       "Oklahoma"
     ],
@@ -511,6 +538,12 @@
     "name:sin_x_preferred": [
       "ඔක්ලොහොමා"
     ],
+    "name:sje_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:sju_x_preferred": [
+      "Oklahoma"
+    ],
     "name:slk_x_preferred": [
       "Oklahoma"
     ],
@@ -518,6 +551,15 @@
       "Oklahoma"
     ],
     "name:sme_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:smn_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:sms_x_preferred": [
+      "Oklahoma"
+    ],
+    "name:som_x_preferred": [
       "Oklahoma"
     ],
     "name:spa_x_preferred": [
@@ -565,6 +607,9 @@
     "name:tha_x_preferred": [
       "รัฐโอคลาโฮมา"
     ],
+    "name:tok_x_preferred": [
+      "ma Okajoma"
+    ],
     "name:tur_x_preferred": [
       "Oklahoma"
     ],
@@ -574,11 +619,17 @@
     "name:ukr_x_preferred": [
       "Оклахома"
     ],
+    "name:ukr_x_variant": [
+      "Оклагома"
+    ],
     "name:urd_x_preferred": [
       "اوکلاہوما"
     ],
     "name:uzb_x_preferred": [
       "Oklaxoma"
+    ],
+    "name:vec_x_preferred": [
+      "Oklahoma"
     ],
     "name:vie_x_preferred": [
       "Oklahoma"
@@ -615,6 +666,9 @@
     ],
     "name:zho_x_preferred": [
       "奧克拉荷馬州"
+    ],
+    "name:zho_x_variant": [
+      "俄克拉荷馬州"
     ],
     "ne:abbrev": "Okla.",
     "ne:adm0_a3": "USA",
@@ -689,8 +743,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2020",
     "statoids:area_km": "181,186",
     "statoids:area_mi": "69,956",
     "statoids:as_of_date": "2010-04-01",
@@ -704,6 +758,8 @@
     "statoids:timezone": "-6~",
     "statoids:type": "state",
     "unlc:subdivision": "US-OK",
+    "uscensus:population": 3959353,
+    "uscensus:population_year": 2020,
     "wof:belongsto": [
       102191575,
       85633793
@@ -718,12 +774,18 @@
       "gn:id": 4544379,
       "gp:id": 2347595,
       "hasc:id": "US.OK",
+      "iso:code": "US-OK",
       "iso:id": "US-OK",
       "unlc:id": "US-OK",
+      "uscensus:geoid": "40",
       "wd:id": "Q1649"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1660067942,
+    "wof:created": 1699297553,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -744,12 +806,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1660067942,
+    "wof:lastmodified": 1699297553,
     "wof:name": "Oklahoma",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 3751351,
+    "wof:population": 3959353,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "OK",

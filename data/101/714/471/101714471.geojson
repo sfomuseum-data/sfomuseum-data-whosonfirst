@@ -4,8 +4,8 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.004218750605499758,
-    "geom:area_square_m": 42529692.035827,
+    "geom:area": 0.004218750605499769,
+    "geom:area_square_m": 42529692.036095,
     "geom:bbox": "-99.639948,35.240232,-99.364265,35.443408",
     "geom:latitude": 35.38480825396111,
     "geom:longitude": -99.43317451079798,
@@ -24,6 +24,9 @@
     "name:ara_x_preferred": [
       "إلك سيتي"
     ],
+    "name:arz_x_preferred": [
+      "الك سيتى"
+    ],
     "name:azb_x_preferred": [
       "الک سیتی، اوکلاهوما"
     ],
@@ -34,6 +37,18 @@
       "Elk City"
     ],
     "name:ceb_x_preferred": [
+      "Elk City"
+    ],
+    "name:che_x_preferred": [
+      "Элк-Сити"
+    ],
+    "name:cym_x_preferred": [
+      "Elk City"
+    ],
+    "name:dag_x_preferred": [
+      "Elk City"
+    ],
+    "name:dan_x_preferred": [
       "Elk City"
     ],
     "name:deu_x_preferred": [
@@ -52,6 +67,9 @@
       "الک سیتی"
     ],
     "name:fra_x_preferred": [
+      "Elk City"
+    ],
+    "name:gle_x_preferred": [
       "Elk City"
     ],
     "name:hat_x_preferred": [
@@ -75,6 +93,9 @@
     "name:kir_x_preferred": [
       "Элк Сити"
     ],
+    "name:lld_x_preferred": [
+      "Elk City"
+    ],
     "name:mlg_x_preferred": [
       "Elk City"
     ],
@@ -96,14 +117,26 @@
     "name:por_x_preferred": [
       "Elk City"
     ],
+    "name:rus_x_preferred": [
+      "Элк-Сити"
+    ],
     "name:spa_x_preferred": [
       "Elk City"
     ],
     "name:srp_x_preferred": [
       "Елк Сити"
     ],
+    "name:swe_x_preferred": [
+      "Elk City"
+    ],
+    "name:tat_x_preferred": [
+      "Элк-Сити"
+    ],
     "name:tur_x_preferred": [
       "Elk City"
+    ],
+    "name:ukr_x_preferred": [
+      "Елк-Сіті"
     ],
     "name:und_x_variant": [
       "Busch"
@@ -154,11 +187,12 @@
       "gn:id": 4535823,
       "gp:id": 2398379,
       "qs_pg:id": 1049208,
+      "uscensus:geoid": "4023500",
       "wd:id": "Q1007885",
       "wk:page": "Elk City, Oklahoma"
     },
     "wof:country": "US",
-    "wof:created": 1660067938,
+    "wof:created": 1699297542,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -173,7 +207,7 @@
       }
     ],
     "wof:id": 101714471,
-    "wof:lastmodified": 1660067938,
+    "wof:lastmodified": 1699297542,
     "wof:name": "Elk City",
     "wof:parent_id": 102083279,
     "wof:placetype": "locality",

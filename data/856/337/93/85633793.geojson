@@ -7,14 +7,17 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 1166.1901251273046,
-    "geom:area_square_m": 9816684960897.723,
+    "geom:area": 1166.1901251273027,
+    "geom:area_square_m": 9816715528449.193,
     "geom:bbox": "-179.231086,18.865460,179.859681,71.441059",
-    "geom:latitude": 45.96446915964039,
-    "geom:longitude": -113.26857979993204,
+    "geom:latitude": 45.96446915964041,
+    "geom:longitude": -113.26857979993201,
     "iso:country": "US",
     "itu:country_code": [
       "1"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "US"
@@ -38,6 +41,9 @@
     "name:abk_x_preferred": [
       "Америка Еиду Аштатқәа"
     ],
+    "name:abk_x_variant": [
+      "Еиду Америкатәи Аштатқәа"
+    ],
     "name:ace_x_preferred": [
       "Amirika Syarikat"
     ],
@@ -60,11 +66,23 @@
     "name:als_x_preferred": [
       "USA"
     ],
+    "name:alt_x_preferred": [
+      "Американыҥ Бириктирилген Штаттары"
+    ],
     "name:amh_x_preferred": [
       "አሜሪካ"
     ],
+    "name:ami_x_preferred": [
+      "Amilika"
+    ],
     "name:ang_x_preferred": [
       "Geānedu Rīcu American"
+    ],
+    "name:ang_x_variant": [
+      "Geānedu Rīcu America"
+    ],
+    "name:anp_x_preferred": [
+      "अमेरिका"
     ],
     "name:ara_x_preferred": [
       "الولايات المتحدة"
@@ -79,8 +97,14 @@
     "name:arg_x_preferred": [
       "Estatos Unitos"
     ],
+    "name:arq_x_preferred": [
+      "مريكان"
+    ],
     "name:ary_x_preferred": [
       "لميريكان"
+    ],
+    "name:ary_x_variant": [
+      "الولايات المتاحدة د ميريكان"
     ],
     "name:arz_x_preferred": [
       "امريكا"
@@ -105,6 +129,12 @@
     ],
     "name:ava_x_preferred": [
       "Америкалъул Цолъарал Штатал"
+    ],
+    "name:avk_x_preferred": [
+      "Amerikatanarasokeem"
+    ],
+    "name:awa_x_preferred": [
+      "संयुक्त राज्य अमेरिका"
     ],
     "name:aym_x_preferred": [
       "Istadus Unidus"
@@ -161,6 +191,9 @@
     "name:bjn_x_preferred": [
       "Amirika Serikat"
     ],
+    "name:blk_x_preferred": [
+      "အမေႏရိကန်ႏခမ်းခြွဉ်းဗူႏ"
+    ],
     "name:bod_x_preferred": [
       "ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།"
     ],
@@ -181,6 +214,9 @@
     ],
     "name:brh_x_preferred": [
       "Amríká ná Baddhí Riyásat"
+    ],
+    "name:bug_x_preferred": [
+      "ᨕᨆᨙᨑᨗᨀ ᨔᨙᨑᨗᨀᨈ"
     ],
     "name:bul_x_preferred": [
       "Съединени американски щати"
@@ -207,6 +243,9 @@
     "name:ceb_x_preferred": [
       "Estados Unidos"
     ],
+    "name:ceb_x_variant": [
+      "mga Estadong Hiniusa"
+    ],
     "name:ces_x_preferred": [
       "Spojené státy americké"
     ],
@@ -225,6 +264,9 @@
     ],
     "name:chr_x_preferred": [
       "ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ"
+    ],
+    "name:chr_x_variant": [
+      "ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ"
     ],
     "name:chu_x_preferred": [
       "Амєрїканьскꙑ Ѥдьнѥнꙑ Дрьжавꙑ"
@@ -256,6 +298,9 @@
     "name:crh_x_preferred": [
       "Amerika Qoşma Ştatları"
     ],
+    "name:crh_x_variant": [
+      "Amerika Qoşma Devletleri"
+    ],
     "name:csb_x_preferred": [
       "Zjednóné Kraje Americzi"
     ],
@@ -268,13 +313,13 @@
     "name:cze_x_variant": [
       "Spojené státy"
     ],
+    "name:dag_x_preferred": [
+      "America"
+    ],
     "name:dan_x_colloquial": [
       "USA"
     ],
     "name:dan_x_preferred": [
-      "USA"
-    ],
-    "name:dan_x_variant": [
       "Amerikas Forenede Stater"
     ],
     "name:deu_at_x_preferred": [
@@ -298,7 +343,8 @@
       "Dewletê Amerikayê Yewbiyayey"
     ],
     "name:diq_x_variant": [
-      "Dewletê Amerikaê Yewbiyaey"
+      "Dewletê Amerikaê Yewbiyaey",
+      "Dewletê Yewbiyaeyê Amerika"
     ],
     "name:div_x_preferred": [
       "އެމެރިކާ"
@@ -369,10 +415,11 @@
       "Estaus Unius"
     ],
     "name:fao_x_preferred": [
-      "USA"
+      "Sambandsríki Amerika"
     ],
     "name:fao_x_variant": [
-      "Sambandsríki Amerika"
+      "USA",
+      "Sameindu Statirnir"
     ],
     "name:fas_x_preferred": [
       "ایالات متحده آمریکا"
@@ -401,6 +448,9 @@
       "Yhdysvalloista",
       "Yhdysvaltoihin",
       "Yhdysvaltojen"
+    ],
+    "name:fit_x_preferred": [
+      "Yhtysvallat"
     ],
     "name:fra_x_colloquial": [
       "Amerique",
@@ -490,6 +540,15 @@
     "name:grn_x_preferred": [
       "Tetã peteĩ reko Amérikagua"
     ],
+    "name:grn_x_variant": [
+      "Tetãvore Joapykuéra"
+    ],
+    "name:gsw_x_preferred": [
+      "Verainigte Staate vu Amerika"
+    ],
+    "name:guc_x_preferred": [
+      "Mma Mulo'usu Ameerikajatü"
+    ],
     "name:guj_x_preferred": [
       "સંયુક્ત રાજ્ય અમેરિકા"
     ],
@@ -521,6 +580,9 @@
     ],
     "name:hif_x_preferred": [
       "United States"
+    ],
+    "name:hil_x_preferred": [
+      "mga Estado Tingob"
     ],
     "name:hin_x_preferred": [
       "संयुक्त राज्य अमेरिका"
@@ -584,8 +646,14 @@
     "name:inh_x_preferred": [
       "АьВlШ"
     ],
+    "name:inh_x_variant": [
+      "Хетта Америкера Штаташ"
+    ],
     "name:ipk_x_preferred": [
       "United States of America"
+    ],
+    "name:ipk_x_variant": [
+      "Tannapta Nunaat"
     ],
     "name:isl_x_preferred": [
       "Bandaríkin"
@@ -604,6 +672,9 @@
     ],
     "name:jav_x_preferred": [
       "Amérika Sarékat"
+    ],
+    "name:jav_x_variant": [
+      "Amérikah Sarékat"
     ],
     "name:jbo_x_preferred": [
       "mergu'e"
@@ -624,11 +695,17 @@
     "name:kal_x_preferred": [
       "Naalagaaffeqatigiit"
     ],
+    "name:kal_x_variant": [
+      "Amerika"
+    ],
     "name:kan_x_preferred": [
       "ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ"
     ],
     "name:kan_x_variant": [
       "ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ"
+    ],
+    "name:kas_x_preferred": [
+      "اَمريٖکہ"
     ],
     "name:kat_x_preferred": [
       "ამერიკის შეერთებული შტატები"
@@ -647,6 +724,9 @@
     ],
     "name:kbp_x_preferred": [
       "Etaazuunii"
+    ],
+    "name:kcg_x_preferred": [
+      "Muná̱pyia̱ Sí̱tet Amerika"
     ],
     "name:kea_x_preferred": [
       "Stadus Unidus"
@@ -684,6 +764,9 @@
     "name:krc_x_preferred": [
       "Американы Бирлешген Штатлары"
     ],
+    "name:krj_x_preferred": [
+      "manga Estado Tingëb"
+    ],
     "name:ksh_x_preferred": [
       "Vereenichde Staate van Amerika"
     ],
@@ -698,6 +781,9 @@
     ],
     "name:lao_x_preferred": [
       "ສະຫະລັດອາເມລິກາ"
+    ],
+    "name:lao_x_variant": [
+      "ສະຫະລັດ"
     ],
     "name:lat_x_preferred": [
       "Civitates Foederatae Americae"
@@ -739,8 +825,14 @@
     "name:liv_x_preferred": [
       "Amērik Ītõnd-Valdõd"
     ],
+    "name:lld_x_preferred": [
+      "Stac Unii d'America"
+    ],
     "name:lmo_x_preferred": [
       "Stat Ünì d'America"
+    ],
+    "name:lmo_x_variant": [
+      "Stat Unid d'America"
     ],
     "name:lrc_x_preferred": [
       "ڤولاتچە یا یأکاگئرئتە ئمریکا"
@@ -765,6 +857,9 @@
     ],
     "name:lzh_x_preferred": [
       "美國"
+    ],
+    "name:mad_x_preferred": [
+      "Amèrika Sarikat"
     ],
     "name:mai_x_preferred": [
       "संयुक्त राज्य अमेरिका"
@@ -803,10 +898,20 @@
       "Stati Uniti"
     ],
     "name:mlt_x_variant": [
-      "Stati Uniti tal-Amerika"
+      "Stati Uniti tal-Amerika",
+      "Stati Uniti tal-Amerka"
+    ],
+    "name:mni_x_preferred": [
+      "ꯑꯃꯦꯔꯤꯀꯥ"
+    ],
+    "name:mnw_x_preferred": [
+      "အမေရိကန်ပြည်ထောင်စု"
     ],
     "name:mon_x_preferred": [
       "Америкийн Нэгдсэн Улс"
+    ],
+    "name:mos_x_preferred": [
+      "America"
     ],
     "name:mri_x_preferred": [
       "Hononga-o-Amerika"
@@ -835,6 +940,9 @@
     "name:nah_x_preferred": [
       "Tlacetilīlli Tlahtohcāyōtl Ixachitlān"
     ],
+    "name:nah_x_variant": [
+      "Estadosonidos"
+    ],
     "name:nan_x_preferred": [
       "Bí-kok"
     ],
@@ -856,6 +964,9 @@
     "name:nds_x_preferred": [
       "USA"
     ],
+    "name:nds_x_variant": [
+      "Verenigten Staten vun Amerika"
+    ],
     "name:nep_x_preferred": [
       "संयुक्त राज्य अमेरिका"
     ],
@@ -868,6 +979,9 @@
     "name:new_x_variant": [
       "अमेरिका"
     ],
+    "name:nia_x_preferred": [
+      "Amerika Sorudu"
+    ],
     "name:nld_x_preferred": [
       "Verenigde Staten"
     ],
@@ -879,25 +993,26 @@
       "USA"
     ],
     "name:nno_x_preferred": [
-      "USA"
+      "Dei Amerikanske Sambandsstatane"
     ],
     "name:nno_x_variant": [
-      "Dei amerikanske sambandsstatane",
       "Sambandsstatane"
     ],
     "name:nob_x_colloquial": [
       "USA"
     ],
     "name:nob_x_preferred": [
-      "Amerikas forente stater"
+      "Amerikas Forente Stater"
     ],
     "name:nob_x_variant": [
-      "Forente stater",
+      "Amerikas Forente Stater",
+      "Forente stater"
+    ],
+    "name:nor_x_colloquial": [
       "USA"
     ],
     "name:nor_x_preferred": [
-      "Amerikas Forente Stater",
-      "USA"
+      "Amerikas Forente Stater"
     ],
     "name:nov_x_preferred": [
       "Unionati States de Amerika"
@@ -948,6 +1063,9 @@
     "name:pam_x_preferred": [
       "Estados Unidos"
     ],
+    "name:pam_x_variant": [
+      "Kaestaduang Misásanmetung"
+    ],
     "name:pan_x_preferred": [
       "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
     ],
@@ -956,6 +1074,9 @@
     ],
     "name:pcd_x_preferred": [
       "États-Unis Anmérikes"
+    ],
+    "name:pcm_x_preferred": [
+      "Amerika"
     ],
     "name:pdc_x_preferred": [
       "Amerikaa"
@@ -977,6 +1098,9 @@
     ],
     "name:pnb_x_preferred": [
       "امریکہ"
+    ],
+    "name:pnt_x_preferred": [
+      "Ηνωμένες Πολιτείες Αμερικής"
     ],
     "name:pol_x_preferred": [
       "Stany Zjednoczone"
@@ -1002,6 +1126,15 @@
     ],
     "name:que_x_preferred": [
       "Hukllachasqa Amirika Suyukuna"
+    ],
+    "name:qug_x_preferred": [
+      "Shukllachishka America Suyukuna"
+    ],
+    "name:rmc_x_preferred": [
+      "Amerikakere spojimen Thema"
+    ],
+    "name:rmf_x_preferred": [
+      "Ameriko them"
     ],
     "name:rmy_x_preferred": [
       "Phandle Staturya la Amerikiyake"
@@ -1041,6 +1174,9 @@
       "Соединенные Штаты",
       "США"
     ],
+    "name:ryu_x_preferred": [
+      "アミリカ合衆国"
+    ],
     "name:sag_x_preferred": [
       "ÂKödörö-ôko tî Amerîka"
     ],
@@ -1068,11 +1204,17 @@
     "name:sco_x_preferred": [
       "Unitit States"
     ],
+    "name:shn_x_preferred": [
+      "မိူင်းႁူမ်ႈတုမ် ဢမႄႇရိၵ"
+    ],
     "name:sin_x_preferred": [
       "ඇමරිකානු එක්සත් ජනපදය"
     ],
     "name:sin_x_variant": [
       "එක්සත් ජනපදය"
+    ],
+    "name:skr_x_preferred": [
+      "امریکہ"
     ],
     "name:slk_x_preferred": [
       "Spojené štáty"
@@ -1092,8 +1234,14 @@
     "name:sme_x_variant": [
       "Amerihká Ovttastuvvan Stáhtat"
     ],
+    "name:smn_x_preferred": [
+      "Amerik ovtâstum staatah"
+    ],
     "name:smo_x_preferred": [
       "Iunaite Sitete o Amerika"
+    ],
+    "name:sms_x_preferred": [
+      "Ameriikk õhttõõvvâmvääʹld"
     ],
     "name:sna_x_preferred": [
       "United States of America"
@@ -1175,10 +1323,9 @@
       "USA"
     ],
     "name:swe_x_preferred": [
-      "USA"
+      "Amerikas Förenta Stater"
     ],
     "name:swe_x_variant": [
-      "Amerikas Förenta Stater",
       "Förenta Staterna"
     ],
     "name:szl_x_preferred": [
@@ -1198,6 +1345,9 @@
     ],
     "name:tat_x_preferred": [
       "Америка Кушма Штатлары"
+    ],
+    "name:tay_x_preferred": [
+      "Amirika'"
     ],
     "name:tcy_x_preferred": [
       "ಅಮೇರಿಕದ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನೊಲು"
@@ -1231,13 +1381,20 @@
     ],
     "name:tir_x_variant": [
       "ዩናይትድ ስቴትስ",
-      "ሕቡራት ናይ ኣመሪካ መንግስታት"
+      "ሕቡራት ናይ ኣመሪካ መንግስታት",
+      "ኣመሪካ"
+    ],
+    "name:tok_x_preferred": [
+      "ma Mewika"
     ],
     "name:ton_x_preferred": [
       "Puleʻanga fakatahataha ʻAmelika"
     ],
     "name:tpi_x_preferred": [
       "Ol Yunaitet Stet"
+    ],
+    "name:trv_x_preferred": [
+      "United States"
     ],
     "name:tsn_x_preferred": [
       "USA"
@@ -1529,7 +1686,8 @@
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "uscensus",
+    "src:population_date": "2020",
     "statoids:dial": "1",
     "statoids:ds": "USA",
     "statoids:fifa": "USA",
@@ -1544,6 +1702,8 @@
     "statoids:marc": "xxu",
     "statoids:name": "United States of America",
     "statoids:wmo": "US",
+    "uscensus:population": 331449281,
+    "uscensus:population_year": 2020,
     "wd:latitude": 40,
     "wd:longitude": -100,
     "wd:population": 318697314,
@@ -1568,6 +1728,7 @@
       "hasc:id": "US",
       "icao:code": "N",
       "ioc:id": "USA",
+      "iso:code": "US",
       "itu:id": "USA",
       "loc:id": "n78095330",
       "m49:code": "840",
@@ -1578,12 +1739,14 @@
       "nyt:id": "N84789043836346105961",
       "qs_pg:id": 1041677,
       "uncrt:id": "USA",
+      "uscensus:geoid": "US",
       "wd:id": "Q30",
       "wmo:id": "US"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "US",
     "wof:country_alpha3": "USA",
-    "wof:created": 1662757065,
+    "wof:created": 1699297547,
     "wof:geom_alt": [
       "naturalearth-display-terrestrial-zoom6",
       "naturalearth",
@@ -1606,11 +1769,11 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1662757065,
+    "wof:lastmodified": 1699297548,
     "wof:name": "United States",
     "wof:parent_id": 102191575,
     "wof:placetype": "country",
-    "wof:population": 318697314,
+    "wof:population": 331449281,
     "wof:population_rank": 17,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "US",

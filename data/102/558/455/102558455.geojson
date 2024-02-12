@@ -2,26 +2,33 @@
   "id": 102558455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:cessation_lower": "2024-02-01",
+    "date:cessation_upper": "2024-02-29",
+    "date:inception_lower": "1982-01-02",
+    "date:inception_upper": "1982-01-02",
+    "edtf:cessation": "2024-02",
+    "edtf:inception": "1982-01-02",
     "geom:area": 0.000017358838499995944,
     "geom:area_square_m": 195428.261232,
     "geom:bbox": "54.642048,24.424488,54.651112,24.434500",
     "geom:latitude": 24.42962406469202,
     "geom:longitude": 54.64780151117418,
-    "iso:country": "",
+    "iso:country": "AE",
     "lbl:latitude": 24.429616,
     "lbl:longitude": 54.649003,
     "mps:latitude": 24.429616,
     "mps:longitude": 54.649003,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:min_zoom": 13,
     "name:afr_x_preferred": [
       "Aboe Dhabi Internasionale Lughawe"
     ],
     "name:ara_x_preferred": [
       "مطار أبوظبي الدولي"
+    ],
+    "name:ast_x_preferred": [
+      "Aeropuertu Internacional d'Abu Dhabi"
     ],
     "name:ben_x_preferred": [
       "আবুধাবি আন্তর্জাতিক বিমানবন্দর"
@@ -34,6 +41,9 @@
     ],
     "name:ces_x_preferred": [
       "mezinárodní letiště Abú Zabí"
+    ],
+    "name:cym_x_preferred": [
+      "Maes Awyr Rhyngwladol Abu Dhabi"
     ],
     "name:deu_x_preferred": [
       "Flughafen Abu Dhabi"
@@ -60,6 +70,9 @@
     "name:fra_x_preferred": [
       "aéroport international d'Abou Dabi"
     ],
+    "name:hau_x_preferred": [
+      "Filin jirgin saman Abu Dhabi"
+    ],
     "name:heb_x_preferred": [
       "נמל התעופה הבינלאומי אבו דאבי"
     ],
@@ -68,6 +81,9 @@
     ],
     "name:hrv_x_preferred": [
       "Zračna luka Abu Dhabi"
+    ],
+    "name:hun_x_preferred": [
+      "Abu-Dzabi nemzetközi repülőtér"
     ],
     "name:ind_x_preferred": [
       "Bandar Udara Internasional Abu Dhabi"
@@ -83,6 +99,9 @@
     ],
     "name:mai_x_preferred": [
       "अबु धाबी अन्तर्राष्ट्रिय विमानस्थल"
+    ],
+    "name:mal_x_preferred": [
+      "അബുദാബി അന്താരാഷ്ട്ര വിമാനത്താവളം"
     ],
     "name:mar_x_preferred": [
       "अबु धाबी आंतरराष्ट्रीय विमानतळ"
@@ -123,6 +142,9 @@
     "name:swe_x_preferred": [
       "Abu Dhabi International Airport"
     ],
+    "name:tam_x_preferred": [
+      "அபுதாபி பன்னாட்டு வானூர்தி நிலையம்"
+    ],
     "name:tgk_x_preferred": [
       "Фурудгоҳи Байн‌алмиллалии Абу-Даби"
     ],
@@ -146,10 +168,6 @@
     ],
     "oa:elevation_ft": "88",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": -1,
-    "sfomuseum:is_sfo": 1,
-    "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -169,11 +187,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "gp:id": 12517727,
       "iata:code": "AUH",
-      "icao:code": "OMAA"
+      "icao:code": "OMAA",
+      "oa:id": "5226",
+      "wd:id": "Q643562",
+      "wk:page": "Abu_Dhabi_International_Airport"
     },
-    "wof:country": "",
-    "wof:created": 1652218295,
+    "wof:country": "AE",
+    "wof:created": 1707766941,
     "wof:geomhash": "c540e296a90613371c3d75dae989dd3b",
     "wof:hierarchy": [
       {
@@ -187,12 +209,14 @@
       }
     ],
     "wof:id": 102558455,
-    "wof:lastmodified": 1652218295,
+    "wof:lastmodified": 1707767154,
     "wof:name": "Abu Dhabi International Airport",
     "wof:parent_id": 421179641,
     "wof:placetype": "campus",
-    "wof:repo": "sfomuseum-data-whosonfirst",
-    "wof:superseded_by": [],
+    "wof:repo": "whosonfirst-data-admin-ae",
+    "wof:superseded_by": [
+      1897348703
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airport"

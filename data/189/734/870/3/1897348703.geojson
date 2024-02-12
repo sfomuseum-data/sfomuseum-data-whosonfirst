@@ -1,0 +1,93 @@
+{
+  "id": 102558455,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-29",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-02",
+    "geom:area": 0.000017358838499995944,
+    "geom:area_square_m": 195428.261232,
+    "geom:bbox": "54.642048,24.424488,54.651112,24.434500",
+    "geom:latitude": 24.42962406469202,
+    "geom:longitude": 54.64780151117418,
+    "iso:country": "AE",
+    "lbl:latitude": 24.429616,
+    "lbl:longitude": 54.649003,
+    "mps:latitude": 24.429616,
+    "mps:longitude": 54.649003,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "name:eng_x_preferred": [
+      "Zayed International Airport"
+    ],
+    "name:eng_x_variant": [
+      "AUH",
+      "OMAA"
+    ],
+    "oa:elevation_ft": "88",
+    "oa:type": "large_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 1583,
+    "woe:hierarchy": {
+      "country_id": 23424738,
+      "county_id": 55922608,
+      "planet_id": 1,
+      "state_id": 2347109
+    },
+    "wof:belongsto": [
+      102191569,
+      85632573,
+      421179641,
+      421172075,
+      85667981
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12517727,
+      "iata:code": "AUH",
+      "icao:code": "OMAA",
+      "oa:id": "5226",
+      "wd:id": "Q643562",
+      "wk:page": "Abu_Dhabi_International_Airport"
+    },
+    "wof:country": "AE",
+    "wof:created": 1707766941,
+    "wof:geomhash": "c540e296a90613371c3d75dae989dd3b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1897348703,
+        "continent_id": 102191569,
+        "country_id": 85632573,
+        "county_id": 421172075,
+        "locality_id": 421179641,
+        "neighbourhood_id": -1,
+        "region_id": 85667981
+      }
+    ],
+    "wof:id": 1897348703,
+    "wof:lastmodified": 1707768329,
+    "wof:name": "Zayed International Airport",
+    "wof:parent_id": 421179641,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      102558455
+    ],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    54.642048,
+    24.424488,
+    54.651112,
+    24.4345
+  ],
+  "geometry": {"coordinates":[[[[54.64703,24.428074],[54.643936,24.426519],[54.643593,24.426207],[54.642048,24.424488],[54.64325,24.42687],[54.644165,24.428833],[54.646706,24.428299],[54.647797,24.428707],[54.6497,24.4345],[54.651112,24.433056],[54.649109,24.427223],[54.64703,24.428074]]]],"type":"MultiPolygon"}
+}

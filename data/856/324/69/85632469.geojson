@@ -4,15 +4,18 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 278.978765143443,
-    "geom:area_square_m": 3091245950914.6953,
+    "geom:area": 278.9787651434421,
+    "geom:area_square_m": 3163296497955.161,
     "geom:bbox": "68.162430,6.755953,97.395561,35.513331",
-    "geom:latitude": 22.880296001775537,
+    "geom:latitude": 22.880296001775502,
     "geom:longitude": 79.62699130724774,
     "gn:population": 1173108018,
     "iso:country": "IN",
     "itu:country_code": [
       "91"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "IN"
@@ -33,6 +36,9 @@
     "name:abk_x_preferred": [
       "India"
     ],
+    "name:abk_x_variant": [
+      "Индиа"
+    ],
     "name:ace_x_preferred": [
       "India"
     ],
@@ -51,11 +57,17 @@
     "name:amh_x_preferred": [
       "ህንድ"
     ],
+    "name:ami_x_preferred": [
+      "India"
+    ],
     "name:ang_x_preferred": [
       "Indea"
     ],
     "name:ang_x_variant": [
       "India"
+    ],
+    "name:anp_x_preferred": [
+      "भारत"
     ],
     "name:ara_x_preferred": [
       "الهند"
@@ -84,12 +96,21 @@
     "name:ast_x_preferred": [
       "India"
     ],
+    "name:atj_x_preferred": [
+      "Inda"
+    ],
     "name:ava_x_preferred": [
       "Гьиндустан"
     ],
     "name:ava_x_variant": [
       "India",
       "Хиндистан"
+    ],
+    "name:avk_x_preferred": [
+      "Barata"
+    ],
+    "name:awa_x_preferred": [
+      "भारत"
     ],
     "name:aym_x_preferred": [
       "Indya"
@@ -150,6 +171,9 @@
     ],
     "name:bjn_x_preferred": [
       "India"
+    ],
+    "name:blk_x_preferred": [
+      "အေင်ဒိယခမ်းထီ"
     ],
     "name:bod_x_preferred": [
       "རྒྱ་གར།"
@@ -216,6 +240,9 @@
       "India",
       "ᎢᏅᏗᎾ"
     ],
+    "name:chu_x_preferred": [
+      "Їндїꙗ"
+    ],
     "name:chv_x_preferred": [
       "Инди"
     ],
@@ -243,6 +270,9 @@
     "name:cym_x_preferred": [
       "India"
     ],
+    "name:dag_x_preferred": [
+      "India"
+    ],
     "name:dan_x_preferred": [
       "Indien"
     ],
@@ -257,6 +287,9 @@
     ],
     "name:deu_x_variant": [
       "Republik Indien"
+    ],
+    "name:dga_x_preferred": [
+      "India"
     ],
     "name:din_x_preferred": [
       "Indiɛn"
@@ -365,6 +398,9 @@
     "name:ful_x_preferred": [
       "Enndo"
     ],
+    "name:ful_x_variant": [
+      "Hinndi"
+    ],
     "name:fur_x_preferred": [
       "Indie"
     ],
@@ -406,6 +442,9 @@
     ],
     "name:got_x_variant": [
       "𐌹𐌽𐌳𐌹𐌰/India"
+    ],
+    "name:gpe_x_preferred": [
+      "India"
     ],
     "name:grn_x_preferred": [
       "Índia"
@@ -500,6 +539,9 @@
     "name:inh_x_preferred": [
       "ХIиндиче"
     ],
+    "name:ipk_x_preferred": [
+      "India"
+    ],
     "name:isl_x_preferred": [
       "Indland"
     ],
@@ -511,6 +553,9 @@
     ],
     "name:jav_x_preferred": [
       "India"
+    ],
+    "name:jav_x_variant": [
+      "Indhi"
     ],
     "name:jbo_x_preferred": [
       "xingu'e"
@@ -550,6 +595,9 @@
     ],
     "name:kbp_x_preferred": [
       "Ɛɛndɩ"
+    ],
+    "name:kcg_x_preferred": [
+      "Ndiya"
     ],
     "name:kea_x_preferred": [
       "Índia"
@@ -642,6 +690,9 @@
     "name:lit_x_preferred": [
       "Indija"
     ],
+    "name:lld_x_preferred": [
+      "India"
+    ],
     "name:lmo_x_preferred": [
       "India"
     ],
@@ -669,6 +720,12 @@
     "name:lzh_x_preferred": [
       "印度"
     ],
+    "name:mad_x_preferred": [
+      "India"
+    ],
+    "name:mag_x_preferred": [
+      "भारत"
+    ],
     "name:mah_x_preferred": [
       "India"
     ],
@@ -683,6 +740,9 @@
     ],
     "name:mdf_x_preferred": [
       "Индие"
+    ],
+    "name:mdf_x_variant": [
+      "Индия"
     ],
     "name:mhr_x_preferred": [
       "Индий"
@@ -702,8 +762,14 @@
     "name:mlt_x_preferred": [
       "Indja"
     ],
+    "name:mni_x_preferred": [
+      "ꯏꯟꯗꯤꯌꯥ"
+    ],
     "name:mon_x_preferred": [
       "Энэтхэг"
+    ],
+    "name:mos_x_preferred": [
+      "India"
     ],
     "name:mri_x_preferred": [
       "Īnia"
@@ -850,6 +916,9 @@
     "name:pnb_x_preferred": [
       "ھندستان"
     ],
+    "name:pnb_x_variant": [
+      "بھارت"
+    ],
     "name:pol_x_preferred": [
       "Indie"
     ],
@@ -937,6 +1006,9 @@
     "name:sin_x_variant": [
       "ඉන්දියාව"
     ],
+    "name:skr_x_preferred": [
+      "بھارت"
+    ],
     "name:slk_x_preferred": [
       "India"
     ],
@@ -946,11 +1018,17 @@
     "name:sme_x_preferred": [
       "India"
     ],
+    "name:smn_x_preferred": [
+      "India"
+    ],
     "name:smo_x_preferred": [
       "Igitia"
     ],
     "name:smo_x_variant": [
       "India"
+    ],
+    "name:sms_x_preferred": [
+      "Intia"
     ],
     "name:sna_x_preferred": [
       "India"
@@ -1015,6 +1093,9 @@
     "name:swe_x_preferred": [
       "Indien"
     ],
+    "name:syl_x_preferred": [
+      "ꠄꠘ꠆ꠒꠤꠀ"
+    ],
     "name:szl_x_preferred": [
       "Indyje"
     ],
@@ -1033,6 +1114,9 @@
     "name:tat_x_variant": [
       "Hindstan"
     ],
+    "name:tay_x_preferred": [
+      "India"
+    ],
     "name:tcy_x_preferred": [
       "ಬಾರತೊ"
     ],
@@ -1041,7 +1125,8 @@
     ],
     "name:tel_x_variant": [
       "భారత దేశము",
-      "భారత దేశం"
+      "భారత దేశం",
+      "భారతదేశం"
     ],
     "name:tet_x_preferred": [
       "Índia"
@@ -1062,12 +1147,19 @@
       "India"
     ],
     "name:tir_x_variant": [
-      "ህንድ"
+      "ህንድ",
+      "ህንዲ"
+    ],
+    "name:tok_x_preferred": [
+      "ma Palata"
     ],
     "name:ton_x_preferred": [
       "ʻInitia"
     ],
     "name:tpi_x_preferred": [
+      "India"
+    ],
+    "name:trv_x_preferred": [
       "India"
     ],
     "name:tso_x_preferred": [
@@ -1353,7 +1445,8 @@
       "whosonfirst"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "91",
     "statoids:ds": "IND",
     "statoids:fifa": "IND",
@@ -1391,6 +1484,7 @@
       "hasc:id": "IN",
       "icao:code": "VT",
       "ioc:id": "IND",
+      "iso:code": "IN",
       "itu:id": "IND",
       "loc:id": "n80125948",
       "m49:code": "356",
@@ -1404,9 +1498,10 @@
       "wk:page": "India",
       "wmo:id": "IN"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "IN",
     "wof:country_alpha3": "IND",
-    "wof:created": 1652217919,
+    "wof:created": 1721861310,
     "wof:geom_alt": [
       "naturalearth",
       "quattroshapes",
@@ -1449,11 +1544,11 @@
       "kha",
       "san"
     ],
-    "wof:lastmodified": 1652217919,
+    "wof:lastmodified": 1721861310,
     "wof:name": "India",
     "wof:parent_id": 102191569,
     "wof:placetype": "country",
-    "wof:population": 1263200000,
+    "wof:population": 1366417754,
     "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "IN",

@@ -4,15 +4,18 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 695.8772183431953,
-    "geom:area_square_m": 7706248818762.777,
+    "geom:area": 695.8772183431918,
+    "geom:area_square_m": 7706248818762.8545,
     "geom:bbox": "112.921124,-54.777194,159.104288,-9.219936",
-    "geom:latitude": -25.729375755852583,
-    "geom:longitude": 134.49200219571128,
+    "geom:latitude": -25.729375755852566,
+    "geom:longitude": 134.49200219571117,
     "gn:population": 21515754,
     "iso:country": "AU",
     "itu:country_code": [
       "61"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "AU"
@@ -42,6 +45,9 @@
     "name:aka_x_preferred": [
       "Ɔstrelia"
     ],
+    "name:aka_x_variant": [
+      "Ɔstrelehyia"
+    ],
     "name:als_x_preferred": [
       "Australien"
     ],
@@ -51,8 +57,14 @@
     "name:amh_x_variant": [
       "አውስትሬሊያ"
     ],
+    "name:ami_x_preferred": [
+      "Ostorariya"
+    ],
     "name:ang_x_preferred": [
       "Australia"
+    ],
+    "name:anp_x_preferred": [
+      "ऑस्ट्रेलिया"
     ],
     "name:ara_x_preferred": [
       "أستراليا"
@@ -79,6 +91,12 @@
       "অষ্ট্ৰেলিয়া"
     ],
     "name:ast_x_preferred": [
+      "Australia"
+    ],
+    "name:ava_x_preferred": [
+      "Австралия"
+    ],
+    "name:avk_x_preferred": [
       "Australia"
     ],
     "name:aym_x_preferred": [
@@ -135,6 +153,9 @@
     "name:bjn_x_preferred": [
       "Australia"
     ],
+    "name:blk_x_preferred": [
+      "ဩသတေးလျခမ်းထီ"
+    ],
     "name:bod_x_preferred": [
       "ཨོ་སེ་ཐེ་ལི་ཡ།"
     ],
@@ -175,6 +196,9 @@
     "name:ces_x_preferred": [
       "Austrálie"
     ],
+    "name:cha_x_preferred": [
+      "Ostereilia"
+    ],
     "name:che_x_preferred": [
       "Австрали"
     ],
@@ -190,6 +214,9 @@
     "name:chv_x_preferred": [
       "Австрали"
     ],
+    "name:chy_x_preferred": [
+      "Australia"
+    ],
     "name:ckb_x_preferred": [
       "ئوسترالیا"
     ],
@@ -202,6 +229,9 @@
     "name:cos_x_preferred": [
       "Australia"
     ],
+    "name:cre_x_preferred": [
+      "ᐊᐢᑕᐊᐃᐧᐊ"
+    ],
     "name:crh_x_preferred": [
       "Avstraliya"
     ],
@@ -210,6 +240,9 @@
     ],
     "name:cym_x_preferred": [
       "Awstralia"
+    ],
+    "name:dag_x_preferred": [
+      "Australia"
     ],
     "name:dan_x_preferred": [
       "Australien"
@@ -295,6 +328,9 @@
     "name:fas_x_preferred": [
       "استرالیا"
     ],
+    "name:fij_x_preferred": [
+      "Ositerelia"
+    ],
     "name:fin_x_preferred": [
       "Australia"
     ],
@@ -321,6 +357,9 @@
     ],
     "name:ful_x_preferred": [
       "Ostaraalii"
+    ],
+    "name:ful_x_variant": [
+      "Osterliya"
     ],
     "name:fur_x_preferred": [
       "Australie"
@@ -351,6 +390,15 @@
     ],
     "name:gom_x_variant": [
       "ಆಸ್ಟ್ರೇಲಿಯ"
+    ],
+    "name:got_x_preferred": [
+      "𐌰𐌿𐍃𐍄𐍂𐌰𐌻𐌾𐍉𐍃"
+    ],
+    "name:gpe_x_preferred": [
+      "Australia"
+    ],
+    "name:grc_x_preferred": [
+      "Αὐστραλία"
     ],
     "name:grn_x_preferred": [
       "Autaralia"
@@ -434,6 +482,9 @@
     "name:inh_x_preferred": [
       "Астрали"
     ],
+    "name:ipk_x_preferred": [
+      "Ausitralia"
+    ],
     "name:isl_x_preferred": [
       "Ástralía"
     ],
@@ -467,6 +518,9 @@
     "name:kan_x_preferred": [
       "ಆಸ್ಟ್ರೇಲಿಯ"
     ],
+    "name:kas_x_preferred": [
+      "آسٹریلیا"
+    ],
     "name:kat_x_preferred": [
       "ავსტრალია"
     ],
@@ -482,6 +536,9 @@
     ],
     "name:kbp_x_preferred": [
       "Ositraalii"
+    ],
+    "name:kcg_x_preferred": [
+      "A̱strelya"
     ],
     "name:kea_x_preferred": [
       "Austrália"
@@ -533,13 +590,17 @@
     ],
     "name:lao_x_variant": [
       "ອົອດສະຕາລີ",
-      "ປະເທດອົດສະຕາລີ"
+      "ປະເທດອົດສະຕາລີ",
+      "ປະເທດອົດສະຕຣາລີ"
     ],
     "name:lat_x_preferred": [
       "Australia"
     ],
     "name:lav_x_preferred": [
       "Austrālija"
+    ],
+    "name:lbe_x_preferred": [
+      "Австралия"
     ],
     "name:lez_x_preferred": [
       "Австралия"
@@ -562,6 +623,9 @@
     "name:lit_x_preferred": [
       "Australija"
     ],
+    "name:lld_x_preferred": [
+      "Australia"
+    ],
     "name:lmo_x_preferred": [
       "Aüstralia"
     ],
@@ -583,6 +647,9 @@
     "name:lzh_x_preferred": [
       "澳大利亞"
     ],
+    "name:mad_x_preferred": [
+      "Australia"
+    ],
     "name:mai_x_preferred": [
       "अस्ट्रेलिया"
     ],
@@ -594,6 +661,9 @@
     ],
     "name:mdf_x_preferred": [
       "Австралие"
+    ],
+    "name:mdf_x_variant": [
+      "Австралия"
     ],
     "name:mhr_x_preferred": [
       "Австралий"
@@ -610,8 +680,14 @@
     "name:mlt_x_preferred": [
       "Awstralja"
     ],
+    "name:mni_x_preferred": [
+      "ꯑꯁꯇ꯭ꯔꯦꯂꯤꯌꯥ"
+    ],
     "name:mon_x_preferred": [
       "Австрали"
+    ],
+    "name:mos_x_preferred": [
+      "Australia"
     ],
     "name:mri_x_preferred": [
       "Ahitereiria"
@@ -739,6 +815,9 @@
     "name:pcd_x_preferred": [
       "Australie"
     ],
+    "name:pcm_x_preferred": [
+      "Ostrelia"
+    ],
     "name:pdc_x_preferred": [
       "Australie"
     ],
@@ -774,6 +853,12 @@
     ],
     "name:que_x_preferred": [
       "Awstralya"
+    ],
+    "name:que_x_variant": [
+      "Awstraliya"
+    ],
+    "name:rmy_x_preferred": [
+      "Australiya"
     ],
     "name:roh_x_preferred": [
       "Australia"
@@ -826,6 +911,12 @@
     "name:sgs_x_preferred": [
       "Australėjė"
     ],
+    "name:shi_x_preferred": [
+      "Ustralya"
+    ],
+    "name:shn_x_preferred": [
+      "မိူင်းဢေႃႉသထရေးလီးယႃး"
+    ],
     "name:sin_x_preferred": [
       "ඕස්ට්‍රේලියාව"
     ],
@@ -838,17 +929,26 @@
     "name:slv_x_preferred": [
       "Avstralija"
     ],
+    "name:sma_x_preferred": [
+      "Austraalije"
+    ],
     "name:sme_x_preferred": [
       "Australia"
     ],
     "name:sme_x_variant": [
       "Austrália"
     ],
+    "name:smj_x_preferred": [
+      "Austrálla"
+    ],
     "name:smn_x_preferred": [
       "Australia"
     ],
     "name:smo_x_preferred": [
       "Ausetalia"
+    ],
+    "name:sms_x_preferred": [
+      "Australia"
     ],
     "name:sna_x_preferred": [
       "Australia"
@@ -861,6 +961,9 @@
     ],
     "name:som_x_variant": [
       "Awstaraaliya"
+    ],
+    "name:sot_x_preferred": [
+      "Australia"
     ],
     "name:spa_x_preferred": [
       "Australia"
@@ -923,6 +1026,9 @@
     "name:tat_x_variant": [
       "Аустралия"
     ],
+    "name:tay_x_preferred": [
+      "Australia"
+    ],
     "name:tcy_x_preferred": [
       "ಆಸ್ಟೇಲಿಯಾ"
     ],
@@ -953,6 +1059,9 @@
     "name:tir_x_variant": [
       "አውስትሬሊያ"
     ],
+    "name:tok_x_preferred": [
+      "ma Oselija"
+    ],
     "name:ton_x_preferred": [
       "ʻAositelēlia"
     ],
@@ -972,6 +1081,9 @@
       "Australia"
     ],
     "name:tyv_x_preferred": [
+      "Австралия"
+    ],
+    "name:udm_x_preferred": [
       "Австралия"
     ],
     "name:uig_x_preferred": [
@@ -997,6 +1109,9 @@
     ],
     "name:vec_x_preferred": [
       "Austrałia"
+    ],
+    "name:vec_x_variant": [
+      "Austràlia"
     ],
     "name:vep_x_preferred": [
       "Avstralii"
@@ -1033,6 +1148,9 @@
     ],
     "name:xal_x_preferred": [
       "Австралмудин Ниицән"
+    ],
+    "name:xho_x_preferred": [
+      "Ostreliya"
     ],
     "name:xmf_x_preferred": [
       "ავსტრალია"
@@ -1233,7 +1351,8 @@
     ],
     "src:geom_via": "quattroshapes",
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "61",
     "statoids:ds": "AUS",
     "statoids:fifa": "AUS",
@@ -1272,6 +1391,7 @@
       "hasc:id": "AU",
       "icao:code": "VH",
       "ioc:id": "AUS",
+      "iso:code": "AU",
       "itu:id": "AUS",
       "loc:id": "n79021326",
       "m49:code": "036",
@@ -1286,9 +1406,10 @@
       "wk:page": "Australia",
       "wmo:id": "AU"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "AU",
     "wof:country_alpha3": "AUS",
-    "wof:created": 1652217936,
+    "wof:created": 1721850608,
     "wof:geom_alt": [
       "naturalearth",
       "quattroshapes-reversegeo",
@@ -1310,12 +1431,12 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1652217936,
+    "wof:lastmodified": 1721850608,
     "wof:name": "Australia",
     "wof:parent_id": 102191583,
     "wof:placetype": "country",
-    "wof:population": 23130931,
-    "wof:population_rank": 15,
+    "wof:population": 25364307,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "AU",
     "wof:superseded_by": [],

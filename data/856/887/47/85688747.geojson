@@ -7,8 +7,8 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 11.29095953031217,
-    "geom:area_square_m": 110740030229.47716,
+    "geom:area": 11.29095953031205,
+    "geom:area_square_m": 110740030229.47235,
     "geom:bbox": "-83.675395,36.540759,-75.166435,39.466012",
     "geom:latitude": 37.51086723753289,
     "geom:longitude": -78.66636053032747,
@@ -56,6 +56,9 @@
     "name:arg_x_preferred": [
       "Virchinia"
     ],
+    "name:ary_x_preferred": [
+      "ڤيرجينيا"
+    ],
     "name:arz_x_preferred": [
       "فيرجينيا"
     ],
@@ -74,6 +77,9 @@
     "name:bak_x_preferred": [
       "Виргиния"
     ],
+    "name:ban_x_preferred": [
+      "Virginia"
+    ],
     "name:bar_x_preferred": [
       "Virginia"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:bho_x_preferred": [
       "भर्जिनिया"
+    ],
+    "name:bho_x_variant": [
+      "वर्जीनिया"
     ],
     "name:bis_x_preferred": [
       "Virginia"
@@ -143,7 +152,13 @@
     "name:cos_x_preferred": [
       "Virginia"
     ],
+    "name:crh_x_preferred": [
+      "Virginiya"
+    ],
     "name:cym_x_preferred": [
+      "Virginia"
+    ],
+    "name:dag_x_preferred": [
       "Virginia"
     ],
     "name:dan_x_preferred": [
@@ -198,7 +213,13 @@
     "name:fas_x_preferred": [
       "ویرجینیا"
     ],
+    "name:fij_x_preferred": [
+      "Virginia"
+    ],
     "name:fin_x_preferred": [
+      "Virginia"
+    ],
+    "name:fit_x_preferred": [
       "Virginia"
     ],
     "name:fra_x_preferred": [
@@ -281,6 +302,9 @@
     ],
     "name:hye_x_preferred": [
       "Վիրջինիա"
+    ],
+    "name:hyw_x_preferred": [
+      "Վերճինիա"
     ],
     "name:ibo_x_preferred": [
       "Végíníyà"
@@ -366,6 +390,9 @@
     "name:lit_x_preferred": [
       "Virdžinija"
     ],
+    "name:lld_x_preferred": [
+      "Virginia"
+    ],
     "name:lmo_x_preferred": [
       "Virginia"
     ],
@@ -398,6 +425,9 @@
     ],
     "name:mlg_x_preferred": [
       "Virjinia"
+    ],
+    "name:mni_x_preferred": [
+      "ꯚꯔꯖꯤꯅꯤꯌꯥ"
     ],
     "name:mon_x_preferred": [
       "Виржини"
@@ -462,6 +492,12 @@
     "name:pap_x_preferred": [
       "Virginia"
     ],
+    "name:pcd_x_preferred": [
+      "Virginie"
+    ],
+    "name:pdc_x_preferred": [
+      "Virginia"
+    ],
     "name:pli_x_preferred": [
       "भर्जिनिया"
     ],
@@ -491,6 +527,9 @@
     ],
     "name:ron_x_preferred": [
       "Virginia"
+    ],
+    "name:rue_x_preferred": [
+      "Вирджиния"
     ],
     "name:rus_x_preferred": [
       "Вирджиния"
@@ -522,13 +561,31 @@
     "name:sin_x_preferred": [
       "වර්ජිනියා"
     ],
+    "name:sje_x_preferred": [
+      "Virginia"
+    ],
+    "name:sju_x_preferred": [
+      "Virginia"
+    ],
     "name:slk_x_preferred": [
       "Virgínia"
     ],
     "name:slv_x_preferred": [
       "Virginija"
     ],
+    "name:sma_x_preferred": [
+      "Virginia"
+    ],
     "name:sme_x_preferred": [
+      "Virginia"
+    ],
+    "name:smj_x_preferred": [
+      "Virginia"
+    ],
+    "name:smn_x_preferred": [
+      "Virginia"
+    ],
+    "name:sms_x_preferred": [
       "Virginia"
     ],
     "name:spa_x_preferred": [
@@ -573,6 +630,9 @@
     "name:tha_x_preferred": [
       "รัฐเวอร์จิเนีย"
     ],
+    "name:tok_x_preferred": [
+      "ma Wesinja"
+    ],
     "name:tur_x_preferred": [
       "Virjinya"
     ],
@@ -592,6 +652,9 @@
       "Virginia"
     ],
     "name:vie_x_preferred": [
+      "Virginia"
+    ],
+    "name:vls_x_preferred": [
       "Virginia"
     ],
     "name:vol_x_preferred": [
@@ -617,6 +680,9 @@
     ],
     "name:yor_x_preferred": [
       "Firginia"
+    ],
+    "name:yor_x_variant": [
+      "Virginia"
     ],
     "name:yue_x_preferred": [
       "維珍尼亞州"
@@ -709,8 +775,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2020",
     "statoids:area_km": "105,586",
     "statoids:area_mi": "40,767",
     "statoids:as_of_date": "2010-04-01",
@@ -724,6 +790,8 @@
     "statoids:timezone": "-5~",
     "statoids:type": "state",
     "unlc:subdivision": "US-VA",
+    "uscensus:population": 8631393,
+    "uscensus:population_year": 2020,
     "wd:wordcount": 15706,
     "wof:belongsto": [
       102191575,
@@ -739,12 +807,18 @@
       "gn:id": 6254928,
       "gp:id": 2347605,
       "hasc:id": "US.VA",
+      "iso:code": "US-VA",
       "iso:id": "US-VA",
       "unlc:id": "US-VA",
+      "uscensus:geoid": "51",
       "wd:id": "Q1370"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1652218057,
+    "wof:created": 1721850428,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -765,12 +839,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1652218057,
+    "wof:lastmodified": 1721850428,
     "wof:name": "Virginia",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 8001024,
+    "wof:population": 8631393,
     "wof:population_rank": 13,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "VA",

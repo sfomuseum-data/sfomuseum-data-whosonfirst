@@ -170,7 +170,10 @@
       "quattroshapes_pg"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "geonames",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
+    "uscensus:population": 11279,
+    "uscensus:population_date": "2023",
     "wd:elevation": 585,
     "wd:latitude": 35.402778,
     "wd:longitude": -99.423889,
@@ -178,8 +181,8 @@
     "wof:belongsto": [
       102191575,
       85633793,
-      85688585,
-      102083279
+      102083279,
+      85688585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -191,8 +194,9 @@
       "wd:id": "Q1007885",
       "wk:page": "Elk City, Oklahoma"
     },
+    "wof:concordances_official": "uscensus:geoid",
     "wof:country": "US",
-    "wof:created": 1699297542,
+    "wof:created": 1724785718,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -207,11 +211,11 @@
       }
     ],
     "wof:id": 101714471,
-    "wof:lastmodified": 1699297542,
+    "wof:lastmodified": 1724785718,
     "wof:name": "Elk City",
     "wof:parent_id": 102083279,
     "wof:placetype": "locality",
-    "wof:population": 11693,
+    "wof:population": 11279,
     "wof:population_rank": 6,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],

@@ -744,7 +744,7 @@
     ],
     "src:lbl_centroid": "mapshaper",
     "src:population": "uscensus",
-    "src:population_date": "2020",
+    "src:population_date": "2023",
     "statoids:area_km": "181,186",
     "statoids:area_mi": "69,956",
     "statoids:as_of_date": "2010-04-01",
@@ -758,8 +758,8 @@
     "statoids:timezone": "-6~",
     "statoids:type": "state",
     "unlc:subdivision": "US-OK",
-    "uscensus:population": 3959353,
-    "uscensus:population_year": 2020,
+    "uscensus:population": 4053824,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793
@@ -785,7 +785,7 @@
       "iso:code"
     ],
     "wof:country": "US",
-    "wof:created": 1699297553,
+    "wof:created": 1724785722,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -806,12 +806,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1699297553,
+    "wof:lastmodified": 1724785722,
     "wof:name": "Oklahoma",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 3959353,
+    "wof:population": 4053824,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "OK",

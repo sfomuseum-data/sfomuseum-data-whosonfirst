@@ -7,10 +7,10 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 5.764673699181482,
-    "geom:area_square_m": 64287982161.94059,
+    "geom:area": 5.764673699181474,
+    "geom:area_square_m": 64287981363.694916,
     "geom:bbox": "-101.206763,23.162683,-98.421576,27.799137",
-    "geom:latitude": 25.572590354070158,
+    "geom:latitude": 25.572590354070154,
     "geom:longitude": -99.96896989230252,
     "iso:country": "MX",
     "label:eng_x_preferred_longname": [
@@ -46,6 +46,9 @@
     "name:aym_x_preferred": [
       "Nuevo León Istadu"
     ],
+    "name:aze_x_preferred": [
+      "Nuevo-Leon"
+    ],
     "name:bel_x_preferred": [
       "Штат Нуэва-Леон"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:ces_x_preferred": [
       "Nuevo León"
+    ],
+    "name:che_x_preferred": [
+      "Нуэво-Леон"
     ],
     "name:chy_x_preferred": [
       "Nuevo León"
@@ -145,11 +151,17 @@
     "name:ind_x_preferred": [
       "León Baru"
     ],
+    "name:isl_x_preferred": [
+      "Nuevo León"
+    ],
     "name:ita_x_preferred": [
       "Nuevo León"
     ],
     "name:jpn_x_preferred": [
       "ヌエボ・レオン州"
+    ],
+    "name:kab_x_preferred": [
+      "Nuevo León"
     ],
     "name:kan_x_preferred": [
       "ನ್ಯೂವೊ ಲಿಯೋನ್"
@@ -178,6 +190,9 @@
     "name:mar_x_preferred": [
       "नुएव्हो लेओन"
     ],
+    "name:mkd_x_preferred": [
+      "Нов Леон"
+    ],
     "name:mlg_x_preferred": [
       "Nuevo León"
     ],
@@ -189,6 +204,9 @@
     ],
     "name:nah_x_preferred": [
       "Yancuīc León"
+    ],
+    "name:nah_x_variant": [
+      "Nuevo León"
     ],
     "name:nan_x_preferred": [
       "Nuevo León Chiu"
@@ -253,6 +271,9 @@
     "name:spa_x_variant": [
       "Estado de Nuevo León"
     ],
+    "name:srd_x_preferred": [
+      "Nou Liune"
+    ],
     "name:srp_x_preferred": [
       "Нови Леон"
     ],
@@ -264,6 +285,9 @@
     ],
     "name:tam_x_preferred": [
       "நுஏவோ லியோன்"
+    ],
+    "name:tat_x_preferred": [
+      "Нвево-Леон"
     ],
     "name:tel_x_preferred": [
       "న్యూవో లియోన్"
@@ -277,6 +301,9 @@
     "name:tha_x_preferred": [
       "รัฐนวยโวเลออง"
     ],
+    "name:tha_x_variant": [
+      "รัฐนวยโบเลออน"
+    ],
     "name:tur_x_preferred": [
       "Nuevo León"
     ],
@@ -289,11 +316,17 @@
     "name:uzb_x_preferred": [
       "Nuevoleon"
     ],
+    "name:vec_x_preferred": [
+      "Nuevo León"
+    ],
     "name:vie_x_preferred": [
       "Nuevo León"
     ],
     "name:war_x_preferred": [
       "Nuevo León"
+    ],
+    "name:wuu_x_preferred": [
+      "新莱昂州"
     ],
     "name:yue_x_preferred": [
       "新萊昂州"
@@ -398,12 +431,18 @@
       "gn:id": 3522542,
       "gp:id": 2346282,
       "hasc:id": "MX.NL",
+      "inegi:id": "19",
+      "iso:code": "MX-NLE",
       "iso:id": "MX-NLE",
       "unlc:id": "MX-NLE",
       "wd:id": "Q15282"
     },
+    "wof:concordances_official": "inegi:id",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "MX",
-    "wof:created": 1652218039,
+    "wof:created": 1740081012,
     "wof:geomhash": "3125dc2eac86e00cf457699da4eda614",
     "wof:hierarchy": [
       {
@@ -419,7 +458,7 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1652218039,
+    "wof:lastmodified": 1740081012,
     "wof:name": "Nuevo León",
     "wof:parent_id": 85633293,
     "wof:placetype": "region",

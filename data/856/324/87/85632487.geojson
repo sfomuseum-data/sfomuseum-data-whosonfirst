@@ -4,16 +4,19 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 4.234516648451988,
-    "geom:area_square_m": 51566292161.009125,
+    "geom:area": 4.234516648451977,
+    "geom:area_square_m": 51566292161.006165,
     "geom:bbox": "-87.097473,5.501444,-82.552657,11.219681",
     "geom:latitude": 9.971356163716088,
-    "geom:longitude": -84.19756691514655,
+    "geom:longitude": -84.19756691514654,
     "gn:id": "",
     "gn:population": 4516220,
     "iso:country": "CR",
     "itu:country_code": [
       "506"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "CR"
@@ -43,11 +46,20 @@
     "name:aka_x_preferred": [
       "Kɔsta Rika"
     ],
+    "name:aka_x_variant": [
+      "Costa Rica"
+    ],
     "name:als_x_preferred": [
       "Costa Rica"
     ],
     "name:amh_x_preferred": [
       "ኮስታ ሪካ"
+    ],
+    "name:ami_x_preferred": [
+      "Costa riga"
+    ],
+    "name:anp_x_preferred": [
+      "कोस्टा रीका"
     ],
     "name:ara_x_preferred": [
       "كوستاريكا"
@@ -63,6 +75,9 @@
     ],
     "name:ast_x_preferred": [
       "Costa Rica"
+    ],
+    "name:avk_x_preferred": [
+      "Costarika"
     ],
     "name:aym_x_preferred": [
       "Kustarika"
@@ -85,6 +100,9 @@
     "name:bam_x_variant": [
       "Kɔsitarika"
     ],
+    "name:ban_x_preferred": [
+      "Kosta Rika"
+    ],
     "name:bar_x_preferred": [
       "Costa Rica"
     ],
@@ -105,6 +123,9 @@
     ],
     "name:bho_x_preferred": [
       "कोस्टा रिका"
+    ],
+    "name:bis_x_preferred": [
+      "Kosta Rika"
     ],
     "name:bod_x_preferred": [
       "ཁོ་ས་ཏ་རི་ཁ"
@@ -142,16 +163,28 @@
     "name:che_x_preferred": [
       "Коста-Рика"
     ],
+    "name:chr_x_preferred": [
+      "ᎪᏍᏓ ᎵᎧ"
+    ],
+    "name:chy_x_preferred": [
+      "Costa-Rica"
+    ],
     "name:ckb_x_preferred": [
       "کۆستاریکا"
     ],
     "name:cor_x_preferred": [
       "Kosta Rika"
     ],
+    "name:cos_x_preferred": [
+      "Costa Rica"
+    ],
     "name:crh_x_preferred": [
       "Kosta Rika"
     ],
     "name:cym_x_preferred": [
+      "Costa Rica"
+    ],
+    "name:dag_x_preferred": [
       "Costa Rica"
     ],
     "name:dan_x_preferred": [
@@ -242,6 +275,9 @@
     "name:ful_x_preferred": [
       "Kosta Rikaa"
     ],
+    "name:ful_x_variant": [
+      "Kosta Rika"
+    ],
     "name:gag_x_preferred": [
       "Kosta Rika"
     ],
@@ -265,6 +301,9 @@
     ],
     "name:gom_x_preferred": [
       "कोस्टा रिका"
+    ],
+    "name:gpe_x_preferred": [
+      "Costa Rica"
     ],
     "name:grn_x_preferred": [
       "Kosta Rrika"
@@ -317,6 +356,9 @@
     ],
     "name:hye_x_variant": [
       "Կոստա-Ռիկա"
+    ],
+    "name:hyw_x_preferred": [
+      "Քոսթա Ռիքա"
     ],
     "name:ido_x_preferred": [
       "Kosta Rika"
@@ -399,6 +441,9 @@
     "name:kor_x_preferred": [
       "코스타리카"
     ],
+    "name:krj_x_preferred": [
+      "Baybay Manggaranën"
+    ],
     "name:kur_x_preferred": [
       "Kosta Rîka"
     ],
@@ -438,6 +483,9 @@
     "name:lit_x_preferred": [
       "Kosta Rika"
     ],
+    "name:lld_x_preferred": [
+      "Costa Rica"
+    ],
     "name:lmo_x_preferred": [
       "Costa Rica"
     ],
@@ -456,6 +504,9 @@
     "name:lzh_x_preferred": [
       "哥斯大黎加"
     ],
+    "name:mad_x_preferred": [
+      "Kosta Rika"
+    ],
     "name:mal_x_preferred": [
       "കോസ്റ്റ റീക്ക"
     ],
@@ -468,8 +519,14 @@
     "name:mar_x_variant": [
       "कोस्टारिका"
     ],
+    "name:mdf_x_preferred": [
+      "Коста-Рика"
+    ],
     "name:mhr_x_preferred": [
       "Коста-Рика"
+    ],
+    "name:min_x_preferred": [
+      "Kosta Rika"
     ],
     "name:mkd_x_preferred": [
       "Костарика"
@@ -482,6 +539,12 @@
     ],
     "name:mlt_x_preferred": [
       "Kosta Rika"
+    ],
+    "name:mlt_x_variant": [
+      "Costa Rica"
+    ],
+    "name:mni_x_preferred": [
+      "ꯀꯣꯁ꯭ꯇꯥ ꯔꯤꯀꯥ"
     ],
     "name:mon_x_preferred": [
       "Коста-Рика"
@@ -497,6 +560,9 @@
     ],
     "name:msa_x_variant": [
       "Kosta Rika"
+    ],
+    "name:mwl_x_preferred": [
+      "Cuosta Rica"
     ],
     "name:mya_x_preferred": [
       "ကော့စတာရီကာနိုင်ငံ"
@@ -579,6 +645,9 @@
     "name:pap_x_preferred": [
       "Costa Rica"
     ],
+    "name:pcd_x_preferred": [
+      "Costa Rica"
+    ],
     "name:pih_x_preferred": [
       "Costa Rica"
     ],
@@ -636,6 +705,9 @@
     "name:sat_x_preferred": [
       "ᱠᱳᱥᱴᱟᱨᱤᱠᱟ"
     ],
+    "name:sat_x_variant": [
+      "ᱠᱚᱥᱴᱟ ᱨᱤᱠᱟ"
+    ],
     "name:scn_x_preferred": [
       "Costa Rica"
     ],
@@ -644,6 +716,9 @@
     ],
     "name:sgs_x_preferred": [
       "Kuosta Rėka"
+    ],
+    "name:shn_x_preferred": [
+      "မိူင်းၵေႃးသတႃႇရိၵႃႇ"
     ],
     "name:sin_x_preferred": [
       "කෝස්ට රිකා"
@@ -657,8 +732,14 @@
     "name:sme_x_preferred": [
       "Costa Rica"
     ],
+    "name:smn_x_preferred": [
+      "Costa Rica"
+    ],
     "name:smo_x_preferred": [
       "Kosta Rika"
+    ],
+    "name:sms_x_preferred": [
+      "Costa Rica"
     ],
     "name:sna_x_preferred": [
       "Costa Rica"
@@ -729,6 +810,9 @@
     "name:tat_x_preferred": [
       "Коста-Рика"
     ],
+    "name:tay_x_preferred": [
+      "Costa riga"
+    ],
     "name:tel_x_preferred": [
       "కోస్టారీకా"
     ],
@@ -753,8 +837,14 @@
     "name:tir_x_preferred": [
       "ኮስታ ሪካ"
     ],
+    "name:tok_x_preferred": [
+      "ma Kosalika"
+    ],
     "name:ton_x_preferred": [
       "Kosita Lika"
+    ],
+    "name:trv_x_preferred": [
+      "Costa Rica"
     ],
     "name:tuk_x_preferred": [
       "Kosta-Rika"
@@ -1018,7 +1108,8 @@
       "meso"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "506",
     "statoids:ds": "CR",
     "statoids:fifa": "CRC",
@@ -1056,6 +1147,7 @@
       "hasc:id": "CR",
       "icao:code": "TI",
       "ioc:id": "CRC",
+      "iso:code": "CR",
       "itu:id": "CTR",
       "loc:id": "n79070075",
       "m49:code": "188",
@@ -1070,9 +1162,10 @@
       "wk:page": "Costa Rica",
       "wmo:id": "CS"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "CR",
     "wof:country_alpha3": "CRI",
-    "wof:created": 1652217918,
+    "wof:created": 1740081013,
     "wof:geom_alt": [
       "meso",
       "naturalearth",
@@ -1092,12 +1185,12 @@
     "wof:lang_x_spoken": [
       "spa"
     ],
-    "wof:lastmodified": 1652217918,
+    "wof:lastmodified": 1740081013,
     "wof:name": "Costa Rica",
     "wof:parent_id": 102191575,
     "wof:placetype": "country",
-    "wof:population": 4872166,
-    "wof:population_rank": 12,
+    "wof:population": 5047561,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "CR",
     "wof:superseded_by": [],

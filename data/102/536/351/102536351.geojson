@@ -2,14 +2,16 @@
   "id": 102536351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "1970-11-25",
+    "date:inception_upper": "1970-11-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "1970-11-25",
     "geom:area": 0.00005841430550001502,
     "geom:area_square_m": 650418.183964,
     "geom:bbox": "-100.120636,25.773014,-100.107079,25.784590",
     "geom:latitude": 25.779301716497976,
     "geom:longitude": -100.11444185840533,
-    "iso:country": "",
+    "iso:country": "MX",
     "lbl:latitude": 25.780084,
     "lbl:longitude": -100.114904,
     "mps:latitude": 25.780084,
@@ -17,6 +19,12 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:min_zoom": 13,
+    "name:bre_x_preferred": [
+      "Monterrey-Gen. Mariano Escobedo"
+    ],
+    "name:cym_x_preferred": [
+      "Maes Awyr Rhyngwladol Monterrey"
+    ],
     "name:deu_x_preferred": [
       "Flughafen Monterrey"
     ],
@@ -25,7 +33,8 @@
     ],
     "name:eng_x_variant": [
       "MTY",
-      "MMMY"
+      "MMMY",
+      "Monterrey-Gen. Mariano Escobedo"
     ],
     "name:fas_x_preferred": [
       "فرودگاه بین‌المللی ژنرال ماریانو اسکبیدو"
@@ -39,6 +48,9 @@
     "name:ita_x_preferred": [
       "Aeroporto Internazionale General Mariano Escobedo"
     ],
+    "name:ita_x_variant": [
+      "Monterrey-Gen. Mariano Escobedo"
+    ],
     "name:jpn_x_preferred": [
       "モンテレイ国際空港"
     ],
@@ -47,6 +59,9 @@
     ],
     "name:nld_x_preferred": [
       "Internationale Luchthaven General Mariano Escobedo"
+    ],
+    "name:nob_x_preferred": [
+      "Monterrey-Gen. Mariano Escobedo"
     ],
     "name:pol_x_preferred": [
       "Port lotniczy Monterrey"
@@ -63,11 +78,17 @@
     "name:spa_x_preferred": [
       "Aeropuerto Internacional General Mariano Escobedo"
     ],
+    "name:spa_x_variant": [
+      "Monterrey-Gen. Mariano Escobedo"
+    ],
     "name:swe_x_preferred": [
       "General Mariano Escobedo International Airport"
     ],
     "name:tgk_x_preferred": [
       "Фурудгоҳи бин‌алмилалӣ жинирол мориону оскбиду"
+    ],
+    "name:tur_x_preferred": [
+      "Monterrey Uluslararası Havaalanı"
     ],
     "name:vie_x_preferred": [
       "Sân bay quốc tế General Mariano Escobedo"
@@ -77,10 +98,6 @@
     ],
     "oa:elevation_ft": "1278",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": -1,
-    "sfomuseum:is_sfo": 1,
-    "sfomuseum:placetype": "airport",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "woedb",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
@@ -96,10 +113,15 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "iata:code": "MTY"
+      "gp:id": 12514877,
+      "iata:code": "MTY",
+      "icao:code": "MMMY",
+      "oa:id": "4732",
+      "wd:id": "Q767660",
+      "wk:page": "General_Mariano_Escobedo_International_Airport"
     },
-    "wof:country": "",
-    "wof:created": 1652218224,
+    "wof:country": "MX",
+    "wof:created": 1740080606,
     "wof:geomhash": "654ed7b3c5358a81eba3935466bd5476",
     "wof:hierarchy": [
       {
@@ -109,11 +131,11 @@
       }
     ],
     "wof:id": 102536351,
-    "wof:lastmodified": 1652218224,
+    "wof:lastmodified": 1740080606,
     "wof:name": "Gen Mariano Escobedo International Airport",
     "wof:parent_id": 85686681,
     "wof:placetype": "campus",
-    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:repo": "whosonfirst-data-admin-xy",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

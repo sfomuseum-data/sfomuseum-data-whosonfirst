@@ -1,0 +1,160 @@
+{
+  "id": 102537555,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1958-05-02",
+    "date:inception_upper": "1958-05-02",
+    "edtf:cessation": "..",
+    "edtf:inception": "1958-05-02",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.208801,9.993860,-84.208801,9.993860",
+    "geom:latitude": 9.99386,
+    "geom:longitude": -84.208801,
+    "iso:country": "CR",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار خوان سانتاماريا الدولي"
+    ],
+    "name:cym_x_preferred": [
+      "Maes Awyr Rhyngwladol Juan Santamaría"
+    ],
+    "name:dan_x_preferred": [
+      "Juan Santamaría International Airport"
+    ],
+    "name:deu_x_preferred": [
+      "Juan Santamaría International Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Juan Santamaría International Airport"
+    ],
+    "name:eng_x_variant": [
+      "SJO",
+      "MROC"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی خوآن سانتاماریا"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport international Juan Santamaría de San José"
+    ],
+    "name:glg_x_preferred": [
+      "Aeroporto Juan Santamaría"
+    ],
+    "name:hrv_x_preferred": [
+      "Zračna luka Juan Santamaría"
+    ],
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Juan Santamaria"
+    ],
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale Juan Santamaría"
+    ],
+    "name:jpn_x_preferred": [
+      "フアン・サンタマリーア国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "후안 산타마리아 국제공항"
+    ],
+    "name:mar_x_preferred": [
+      "हुआन सांतामरिया आंतरराष्ट्रीय विमानतळ"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Juan Santamaria"
+    ],
+    "name:nld_x_preferred": [
+      "Juan Santamaría International Airport"
+    ],
+    "name:nob_x_preferred": [
+      "Juan Santamaría internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Juan Santamaria"
+    ],
+    "name:por_x_preferred": [
+      "Aeroporto Internacional Juan Santamaría"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Juan Santamaría"
+    ],
+    "name:rus_x_preferred": [
+      "Международный аэропорт имени Хуана Сантамарии"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Juan Santamaría"
+    ],
+    "name:swe_x_preferred": [
+      "Aeropuerto Internacional Juan Santamaría"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ хӯон сонтоморио"
+    ],
+    "name:ukr_x_preferred": [
+      "Міжнародний аеропорт Хуан Сантамарія"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Juan Santamaría"
+    ],
+    "name:zho_x_preferred": [
+      "胡安·圣玛丽亚国际机场"
+    ],
+    "oa:elevation_ft": "3021",
+    "oa:type": "medium_airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424791,
+      "county_id": 26808786,
+      "localadmin_id": 26809142,
+      "planet_id": 1,
+      "state_id": 2345082
+    },
+    "wof:belongsto": [
+      102191575,
+      85632487,
+      85670393,
+      421201603
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12512434,
+      "iata:code": "SJO",
+      "icao:code": "MROC",
+      "oa:id": "4810",
+      "wd:id": "Q555940",
+      "wk:page": "Juan_Santamar%C3%ADa_International_Airport"
+    },
+    "wof:country": "CR",
+    "wof:created": 1740080295,
+    "wof:geomhash": "0bd9b7dbf5bce7231764c69a93a874bf",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102537555,
+        "continent_id": 102191575,
+        "country_id": 85632487,
+        "county_id": 421201603,
+        "region_id": 85670393
+      }
+    ],
+    "wof:id": 102537555,
+    "wof:lastmodified": 1740080295,
+    "wof:name": "Juan Santamaria International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    -84.208801,
+    9.99386,
+    -84.208801,
+    9.99386
+  ],
+  "geometry": {"coordinates":[-84.208801,9.99386],"type":"Point"}
+}

@@ -102,6 +102,7 @@
     ],
     "oa:elevation_ft": "3021",
     "oa:type": "medium_airport",
+    "sfomuseum:placetype": "airport",
     "src:geom": "ourairports",
     "src:geom_alt": [],
     "woe:hierarchy": {
@@ -143,7 +144,7 @@
     "wof:name": "Juan Santamaria International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
+    "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [

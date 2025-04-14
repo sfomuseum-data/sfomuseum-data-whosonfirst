@@ -7,11 +7,11 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 12.320068964174464,
-    "geom:area_square_m": 115971755888.01566,
+    "geom:area": 12.320068964174562,
+    "geom:area_square_m": 115971755888.01129,
     "geom:bbox": "-84.820305,38.403423,-80.518454,42.327132",
-    "geom:latitude": 40.415487141116685,
-    "geom:longitude": -82.70937763708525,
+    "geom:latitude": 40.41548714111667,
+    "geom:longitude": -82.70937763708527,
     "iso:country": "US",
     "iso:subdivision": "US-OH",
     "label:eng_x_preferred_longname": [
@@ -54,6 +54,9 @@
     "name:arg_x_preferred": [
       "Ohio"
     ],
+    "name:ary_x_preferred": [
+      "أوهايو"
+    ],
     "name:arz_x_preferred": [
       "اوهايو"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:bak_x_preferred": [
       "Огайо"
+    ],
+    "name:ban_x_preferred": [
+      "Ohio"
     ],
     "name:bar_x_preferred": [
       "Ohio"
@@ -144,7 +150,13 @@
     "name:cos_x_preferred": [
       "Ohio"
     ],
+    "name:crh_x_preferred": [
+      "Ogayo"
+    ],
     "name:cym_x_preferred": [
+      "Ohio"
+    ],
+    "name:dag_x_preferred": [
       "Ohio"
     ],
     "name:dan_x_preferred": [
@@ -195,6 +207,9 @@
     ],
     "name:fas_x_preferred": [
       "اوهایو"
+    ],
+    "name:fij_x_preferred": [
+      "Ohio"
     ],
     "name:fin_x_preferred": [
       "Ohio"
@@ -273,6 +288,9 @@
     ],
     "name:hye_x_preferred": [
       "Օհայո"
+    ],
+    "name:hyw_x_preferred": [
+      "Օհայիօ"
     ],
     "name:ibo_x_preferred": [
       "Ohaïyo"
@@ -367,6 +385,9 @@
     "name:lit_x_preferred": [
       "Ohajas"
     ],
+    "name:lld_x_preferred": [
+      "Ohio"
+    ],
     "name:lmo_x_preferred": [
       "Ohio"
     ],
@@ -394,11 +415,17 @@
     "name:mhr_x_preferred": [
       "Огайо"
     ],
+    "name:min_x_preferred": [
+      "Ohio"
+    ],
     "name:mkd_x_preferred": [
       "Охајо"
     ],
     "name:mlg_x_preferred": [
       "Ohio"
+    ],
+    "name:mni_x_preferred": [
+      "ꯑꯣꯍꯤꯌꯣ"
     ],
     "name:mon_x_preferred": [
       "Охайо"
@@ -466,6 +493,9 @@
     "name:pap_x_preferred": [
       "Ohio"
     ],
+    "name:pcd_x_preferred": [
+      "Ohio"
+    ],
     "name:pdc_x_preferred": [
       "Ohio"
     ],
@@ -498,6 +528,9 @@
     ],
     "name:ron_x_preferred": [
       "Ohio"
+    ],
+    "name:rue_x_preferred": [
+      "Огайо"
     ],
     "name:rup_x_preferred": [
       "Ohio"
@@ -533,6 +566,15 @@
       "Ohio"
     ],
     "name:sme_x_preferred": [
+      "Ohio"
+    ],
+    "name:smn_x_preferred": [
+      "Ohio"
+    ],
+    "name:sms_x_preferred": [
+      "Ohio"
+    ],
+    "name:som_x_preferred": [
       "Ohio"
     ],
     "name:spa_x_preferred": [
@@ -574,11 +616,17 @@
     "name:tgk_x_preferred": [
       "Оҳаё"
     ],
+    "name:tgk_x_variant": [
+      "Оҳайо"
+    ],
     "name:tgl_x_preferred": [
       "Ohio"
     ],
     "name:tha_x_preferred": [
       "รัฐโอไฮโอ"
+    ],
+    "name:tok_x_preferred": [
+      "ma Owajo"
     ],
     "name:tur_x_preferred": [
       "Ohio"
@@ -725,8 +773,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "107,044",
     "statoids:area_mi": "41,330",
     "statoids:as_of_date": "2010-04-01",
@@ -740,6 +788,8 @@
     "statoids:timezone": "-5~",
     "statoids:type": "state",
     "unlc:subdivision": "US-OH",
+    "uscensus:population": 11785935,
+    "uscensus:population_date": "2023",
     "wd:wordcount": 9299,
     "wof:belongsto": [
       102191575,
@@ -755,12 +805,18 @@
       "gn:id": 5165418,
       "gp:id": 2347594,
       "hasc:id": "US.OH",
+      "iso:code": "US-OH",
       "iso:id": "US-OH",
       "unlc:id": "US-OH",
+      "uscensus:geoid": "39",
       "wd:id": "Q1397"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1662684629,
+    "wof:created": 1744668809,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -781,12 +837,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1662684629,
+    "wof:lastmodified": 1744668809,
     "wof:name": "Ohio",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 11536504,
+    "wof:population": 11785935,
     "wof:population_rank": 14,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "OH",

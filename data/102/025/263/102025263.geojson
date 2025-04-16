@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.10449867466149977,
+    "geom:area": 0.10449867466149973,
     "geom:area_square_m": 1255051813.983215,
     "geom:bbox": "100.318391,13.535502,101.407575,14.214848",
-    "geom:latitude": 13.761719091484622,
-    "geom:longitude": 100.60204803147795,
+    "geom:latitude": 13.761719091484624,
+    "geom:longitude": 100.60204803147792,
     "gn:latitude": 13.75398,
     "gn:longitude": 100.50144,
     "gn:population": 5104476,
@@ -37,6 +37,9 @@
     "name:arg_x_preferred": [
       "Bangkok"
     ],
+    "name:ary_x_preferred": [
+      "بانكوك"
+    ],
     "name:arz_x_preferred": [
       "بانكوك"
     ],
@@ -58,6 +61,9 @@
     "name:bam_x_preferred": [
       "Bangkok"
     ],
+    "name:ban_x_preferred": [
+      "Bangkok"
+    ],
     "name:bcl_x_preferred": [
       "Bangkok"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:bjn_x_preferred": [
       "Bangkok"
+    ],
+    "name:blk_x_preferred": [
+      "ဝေင်ꩻဗန်ကောက်"
     ],
     "name:bod_x_preferred": [
       "པན་ཀོག"
@@ -119,6 +128,9 @@
       "بانکۆک"
     ],
     "name:cor_x_preferred": [
+      "Bangkok"
+    ],
+    "name:crh_x_preferred": [
       "Bangkok"
     ],
     "name:cym_x_preferred": [
@@ -189,6 +201,9 @@
     "name:fas_x_preferred": [
       "بانکوک"
     ],
+    "name:fij_x_preferred": [
+      "Bangkok"
+    ],
     "name:fin_x_preferred": [
       "Bangkok"
     ],
@@ -207,6 +222,9 @@
     "name:fry_x_preferred": [
       "Bangkok"
     ],
+    "name:fur_x_preferred": [
+      "Bangkok"
+    ],
     "name:gla_x_preferred": [
       "Bangkok"
     ],
@@ -214,6 +232,9 @@
       "Bancác"
     ],
     "name:glg_x_preferred": [
+      "Bangkok"
+    ],
+    "name:gpe_x_preferred": [
       "Bangkok"
     ],
     "name:grn_x_preferred": [
@@ -336,11 +357,17 @@
     "name:lat_x_preferred": [
       "Bancocum"
     ],
+    "name:lat_x_variant": [
+      "Bāncōcum"
+    ],
     "name:lav_x_preferred": [
       "Bangkoka"
     ],
     "name:lez_x_preferred": [
       "Бангкок"
+    ],
+    "name:lfn_x_preferred": [
+      "Bangcoc"
     ],
     "name:lij_x_preferred": [
       "Bangkòk"
@@ -372,6 +399,9 @@
     "name:mar_x_preferred": [
       "बँकॉक"
     ],
+    "name:mdf_x_preferred": [
+      "Бангкок"
+    ],
     "name:mhr_x_preferred": [
       "Бангкок"
     ],
@@ -382,6 +412,9 @@
       "Бангкок"
     ],
     "name:mlg_x_preferred": [
+      "Bangkok"
+    ],
+    "name:mlt_x_preferred": [
       "Bangkok"
     ],
     "name:mon_x_preferred": [
@@ -407,6 +440,9 @@
     ],
     "name:nan_x_preferred": [
       "Bangkok"
+    ],
+    "name:nav_x_preferred": [
+      "Chʼiltah Tábąąhkin"
     ],
     "name:nep_x_preferred": [
       "बैङ्कक"
@@ -504,8 +540,20 @@
     "name:sgs_x_preferred": [
       "Bankoks"
     ],
+    "name:shn_x_preferred": [
+      "ၵုင်းထဵပ်ႈ"
+    ],
     "name:sin_x_preferred": [
       "බැංකොක්"
+    ],
+    "name:sjd_x_preferred": [
+      "Бангкок"
+    ],
+    "name:sje_x_preferred": [
+      "Bangkok"
+    ],
+    "name:sju_x_preferred": [
+      "Bangkok"
     ],
     "name:slk_x_preferred": [
       "Bangkok"
@@ -513,7 +561,19 @@
     "name:slv_x_preferred": [
       "Bangkok"
     ],
+    "name:sma_x_preferred": [
+      "Bangkok"
+    ],
     "name:sme_x_preferred": [
+      "Bangkok"
+    ],
+    "name:smj_x_preferred": [
+      "Bangkok"
+    ],
+    "name:smn_x_preferred": [
+      "Bangkok"
+    ],
+    "name:sms_x_preferred": [
       "Bangkok"
     ],
     "name:sna_x_preferred": [
@@ -529,6 +589,9 @@
       "Bangkok"
     ],
     "name:sqi_x_preferred": [
+      "Bangkok"
+    ],
+    "name:srd_x_preferred": [
       "Bangkok"
     ],
     "name:srp_x_preferred": [
@@ -586,6 +649,9 @@
     "name:twi_x_preferred": [
       "Bangkok"
     ],
+    "name:udm_x_preferred": [
+      "Бангкок"
+    ],
     "name:uig_x_preferred": [
       "بانگكوك"
     ],
@@ -601,11 +667,17 @@
     "name:urd_x_preferred": [
       "بنکاک"
     ],
+    "name:urd_x_variant": [
+      "بینکاک"
+    ],
     "name:uzb_x_preferred": [
       "Bangkok"
     ],
     "name:vec_x_preferred": [
       "Bangkok"
+    ],
+    "name:vec_x_variant": [
+      "Bancòc"
     ],
     "name:vep_x_preferred": [
       "Bankok"
@@ -636,6 +708,9 @@
     ],
     "name:yid_x_preferred": [
       "באנגקאק"
+    ],
+    "name:yid_x_variant": [
+      "באַנקאָק"
     ],
     "name:yor_x_preferred": [
       "Bangkok"
@@ -757,7 +832,6 @@
     "qs:source": "Aquattroshapes",
     "qs:type": "Town",
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -793,7 +867,7 @@
       85678739
     ],
     "wof:country": "TH",
-    "wof:created": 1652218101,
+    "wof:created": 1744827590,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -811,7 +885,7 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1652218101,
+    "wof:lastmodified": 1744827590,
     "wof:megacity": 1,
     "wof:name": "Bangkok",
     "wof:parent_id": 890466393,

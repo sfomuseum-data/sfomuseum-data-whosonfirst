@@ -2,843 +2,846 @@
   "id": 85678739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.130701,
-    "geom:area_square_m":1569682663.445835,
-    "geom:bbox":"100.326982,13.489325,100.924259,13.949795",
-    "geom:latitude":13.771279,
-    "geom:longitude":100.620058,
-    "gn:population":5104476,
-    "iso:country":"TH",
-    "label:eng_x_preferred_longname":[
-        "Bangkok Metropolitan Region"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.1307009671229994,
+    "geom:area_square_m": 1569682663.445835,
+    "geom:bbox": "100.326982,13.489325,100.924259,13.949795",
+    "geom:latitude": 13.771279389582594,
+    "geom:longitude": 100.62005764168761,
+    "gn:population": 5104476,
+    "iso:country": "TH",
+    "label:eng_x_preferred_longname": [
+      "Bangkok Metropolitan Region"
     ],
-    "label:eng_x_preferred_placetype":[
-        "metropolitan region"
+    "label:eng_x_preferred_placetype": [
+      "metropolitan region"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "BM"
+    "label:eng_x_preferred_shortcode": [
+      "BM"
     ],
-    "label:tha_x_preferred_longname":[
-        "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f"
+    "label:tha_x_preferred_longname": [
+      "กรุงเทพฯ"
     ],
-    "lbl:latitude":13.804014,
-    "lbl:longitude":100.640412,
-    "lbl:min_zoom":8.0,
-    "mps:latitude":13.804014,
-    "mps:longitude":100.640412,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:max_zoom":11.0,
-    "mz:min_zoom":8.7,
-    "name:ace_x_preferred":[
-        "Bangkok"
+    "lbl:latitude": 13.804014,
+    "lbl:longitude": 100.640412,
+    "lbl:min_zoom": 8,
+    "mps:latitude": 13.804014,
+    "mps:longitude": 100.640412,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:max_zoom": 11,
+    "mz:min_zoom": 8.7,
+    "name:ace_x_preferred": [
+      "Bangkok"
     ],
-    "name:afr_x_preferred":[
-        "Bangkok"
+    "name:afr_x_preferred": [
+      "Bangkok"
     ],
-    "name:amh_x_preferred":[
-        "\u1263\u1295\u12ae\u12ad"
+    "name:amh_x_preferred": [
+      "ባንኮክ"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0627\u0646\u0643\u0648\u0643"
+    "name:ara_x_preferred": [
+      "بانكوك"
     ],
-    "name:arg_x_preferred":[
-        "Bangkok"
+    "name:arg_x_preferred": [
+      "Bangkok"
     ],
-    "name:ary_x_preferred":[
-        "\u0628\u0627\u0646\u0643\u0648\u0643"
+    "name:ary_x_preferred": [
+      "بانكوك"
     ],
-    "name:arz_x_preferred":[
-        "\u0628\u0627\u0646\u0643\u0648\u0643"
+    "name:arz_x_preferred": [
+      "بانكوك"
     ],
-    "name:asm_x_preferred":[
-        "\u09ac\u09c7\u0982\u0995\u0995"
+    "name:asm_x_preferred": [
+      "বেংকক"
     ],
-    "name:ast_x_preferred":[
-        "Bangkok"
+    "name:ast_x_preferred": [
+      "Bangkok"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u0627\u0646\u06a9\u0648\u06a9"
+    "name:azb_x_preferred": [
+      "بانکوک"
     ],
-    "name:aze_x_preferred":[
-        "Banqkok"
+    "name:aze_x_preferred": [
+      "Banqkok"
     ],
-    "name:bak_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:bak_x_preferred": [
+      "Бангкок"
     ],
-    "name:bam_x_preferred":[
-        "Bangkok"
+    "name:bam_x_preferred": [
+      "Bangkok"
     ],
-    "name:ban_x_preferred":[
-        "Bangkok"
+    "name:ban_x_preferred": [
+      "Bangkok"
     ],
-    "name:bcl_x_preferred":[
-        "Bangkok"
+    "name:bcl_x_preferred": [
+      "Bangkok"
     ],
-    "name:bel_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:bel_x_preferred": [
+      "Бангкок"
     ],
-    "name:ben_x_preferred":[
-        "\u09ac\u09cd\u09af\u09be\u0982\u0995\u0995"
+    "name:ben_x_preferred": [
+      "ব্যাংকক"
     ],
-    "name:bho_x_preferred":[
-        "\u092c\u0948\u0902\u0915\u093e\u0915"
+    "name:bho_x_preferred": [
+      "बैंकाक"
     ],
-    "name:bis_x_preferred":[
-        "Bangkok"
+    "name:bis_x_preferred": [
+      "Bangkok"
     ],
-    "name:bjn_x_preferred":[
-        "Bangkok"
+    "name:bjn_x_preferred": [
+      "Bangkok"
     ],
-    "name:blk_x_preferred":[
-        "\u101d\u1031\u1004\u103a\uaa7b\u1017\u1014\u103a\u1000\u1031\u102c\u1000\u103a"
+    "name:blk_x_preferred": [
+      "ဝေင်ꩻဗန်ကောက်"
     ],
-    "name:bod_x_preferred":[
-        "\u0f54\u0f53\u0f0b\u0f40\u0f7c\u0f42"
+    "name:bod_x_preferred": [
+      "པན་ཀོག"
     ],
-    "name:bos_x_preferred":[
-        "Bangkok"
+    "name:bos_x_preferred": [
+      "Bangkok"
     ],
-    "name:bpy_x_preferred":[
-        "\u099a\u09be\u0982\u09f1\u09be\u09a4 \u09ac\u09cd\u09af\u09be\u0982\u0995\u0995"
+    "name:bpy_x_preferred": [
+      "চাংৱাত ব্যাংকক"
     ],
-    "name:bre_x_preferred":[
-        "Bangkok"
+    "name:bre_x_preferred": [
+      "Bangkok"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0430\u043d\u043a\u043e\u043a"
+    "name:bul_x_preferred": [
+      "Банкок"
     ],
-    "name:bxr_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:bxr_x_preferred": [
+      "Бангкок"
     ],
-    "name:cat_x_preferred":[
-        "Bangkok"
+    "name:cat_x_preferred": [
+      "Bangkok"
     ],
-    "name:cdo_x_preferred":[
-        "M\u00e0ng-g\u00f3k"
+    "name:cdo_x_preferred": [
+      "Màng-gók"
     ],
-    "name:ceb_x_preferred":[
-        "Bangkok"
+    "name:ceb_x_preferred": [
+      "Bangkok"
     ],
-    "name:ces_x_preferred":[
-        "Bangkok"
+    "name:ces_x_preferred": [
+      "Bangkok"
     ],
-    "name:che_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:che_x_preferred": [
+      "Бангкок"
     ],
-    "name:chv_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:chv_x_preferred": [
+      "Бангкок"
     ],
-    "name:chy_x_preferred":[
-        "Bangkok"
+    "name:chy_x_preferred": [
+      "Bangkok"
     ],
-    "name:ckb_x_preferred":[
-        "\u0628\u0627\u0646\u06a9\u06c6\u06a9"
+    "name:ckb_x_preferred": [
+      "بانکۆک"
     ],
-    "name:cor_x_preferred":[
-        "Bangkok"
+    "name:cor_x_preferred": [
+      "Bangkok"
     ],
-    "name:crh_x_preferred":[
-        "Bangkok"
+    "name:crh_x_preferred": [
+      "Bangkok"
     ],
-    "name:cym_x_preferred":[
-        "Bangkok"
+    "name:cym_x_preferred": [
+      "Bangkok"
     ],
-    "name:dan_x_preferred":[
-        "Bangkok"
+    "name:dan_x_preferred": [
+      "Bangkok"
     ],
-    "name:deu_x_preferred":[
-        "Bangkok"
+    "name:deu_x_preferred": [
+      "Bangkok"
     ],
-    "name:diq_x_preferred":[
-        "Bangkok"
+    "name:diq_x_preferred": [
+      "Bangkok"
     ],
-    "name:dsb_x_preferred":[
-        "Bangkok"
+    "name:dsb_x_preferred": [
+      "Bangkok"
     ],
-    "name:dty_x_preferred":[
-        "\u092c\u0948\u0919\u094d\u0915\u0915"
+    "name:dty_x_preferred": [
+      "बैङ्कक"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03b3\u03ba\u03cc\u03ba"
+    "name:ell_x_preferred": [
+      "Μπανγκόκ"
     ],
-    "name:eng_x_preferred":[
-        "Bangkok"
+    "name:eng_x_preferred": [
+      "Bangkok"
     ],
-    "name:eng_x_variant":[
-        "Bangkok Metropolis",
-        "Changwat Bangkok",
-        "Krung Thep",
-        "Krungthep"
+    "name:eng_x_variant": [
+      "Bangkok Metropolis",
+      "Changwat Bangkok",
+      "Krung Thep",
+      "Krungthep"
     ],
-    "name:epo_x_preferred":[
-        "Bankoko"
+    "name:epo_x_preferred": [
+      "Bankoko"
     ],
-    "name:est_x_preferred":[
-        "Bangkok"
+    "name:est_x_preferred": [
+      "Bangkok"
     ],
-    "name:eus_x_preferred":[
-        "Bangkok"
+    "name:eus_x_preferred": [
+      "Bangkok"
     ],
-    "name:ext_x_preferred":[
-        "Bangkok"
+    "name:ext_x_preferred": [
+      "Bangkok"
     ],
-    "name:fao_x_preferred":[
-        "Bangkok"
+    "name:fao_x_preferred": [
+      "Bangkok"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0627\u0646\u06a9\u0648\u06a9"
+    "name:fas_x_preferred": [
+      "بانکوک"
     ],
-    "name:fij_x_preferred":[
-        "Bangkok"
+    "name:fij_x_preferred": [
+      "Bangkok"
     ],
-    "name:fin_x_preferred":[
-        "Bangkok"
+    "name:fin_x_preferred": [
+      "Bangkok"
     ],
-    "name:fit_x_preferred":[
-        "Bangkok"
+    "name:fit_x_preferred": [
+      "Bangkok"
     ],
-    "name:fra_x_preferred":[
-        "Bangkok"
+    "name:fra_x_preferred": [
+      "Bangkok"
     ],
-    "name:frp_x_preferred":[
-        "Bangkok"
+    "name:frp_x_preferred": [
+      "Bangkok"
     ],
-    "name:frr_x_preferred":[
-        "Bangkok"
+    "name:frr_x_preferred": [
+      "Bangkok"
     ],
-    "name:fry_x_preferred":[
-        "Bangkok"
+    "name:fry_x_preferred": [
+      "Bangkok"
     ],
-    "name:fur_x_preferred":[
-        "Bangkok"
+    "name:fur_x_preferred": [
+      "Bangkok"
     ],
-    "name:gla_x_preferred":[
-        "Bangkok"
+    "name:gla_x_preferred": [
+      "Bangkok"
     ],
-    "name:gle_x_preferred":[
-        "Banc\u00e1c"
+    "name:gle_x_preferred": [
+      "Bancác"
     ],
-    "name:glg_x_preferred":[
-        "Bangkok"
+    "name:glg_x_preferred": [
+      "Bangkok"
     ],
-    "name:gpe_x_preferred":[
-        "Bangkok"
+    "name:gpe_x_preferred": [
+      "Bangkok"
     ],
-    "name:grn_x_preferred":[
-        "V\u00e3koke"
+    "name:grn_x_preferred": [
+      "Vãkoke"
     ],
-    "name:gsw_x_preferred":[
-        "Bangkok"
+    "name:gsw_x_preferred": [
+      "Bangkok"
     ],
-    "name:guj_x_preferred":[
-        "\u0aac\u0ac7\u0a82\u0a97\u0a95\u0acb\u0a95"
+    "name:guj_x_preferred": [
+      "બેંગકોક"
     ],
-    "name:hak_x_preferred":[
-        "M\u00e0n-kuk"
+    "name:hak_x_preferred": [
+      "Màn-kuk"
     ],
-    "name:hat_x_preferred":[
-        "Bangkok"
+    "name:hat_x_preferred": [
+      "Bangkok"
     ],
-    "name:hau_x_preferred":[
-        "Bangkok"
+    "name:hau_x_preferred": [
+      "Bangkok"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05e0\u05d2\u05e7\u05d5\u05e7"
+    "name:heb_x_preferred": [
+      "בנגקוק"
     ],
-    "name:hif_x_preferred":[
-        "Bangkok"
+    "name:hif_x_preferred": [
+      "Bangkok"
     ],
-    "name:hin_x_preferred":[
-        "\u092c\u0948\u0902\u0915\u0949\u0915"
+    "name:hin_x_preferred": [
+      "बैंकॉक"
     ],
-    "name:hrv_x_preferred":[
-        "Bangkok"
+    "name:hrv_x_preferred": [
+      "Bangkok"
     ],
-    "name:hsb_x_preferred":[
-        "Bangkok"
+    "name:hsb_x_preferred": [
+      "Bangkok"
     ],
-    "name:hun_x_preferred":[
-        "Bangkok"
+    "name:hun_x_preferred": [
+      "Bangkok"
     ],
-    "name:hye_x_preferred":[
-        "\u0532\u0561\u0576\u0563\u056f\u0578\u056f"
+    "name:hye_x_preferred": [
+      "Բանգկոկ"
     ],
-    "name:hyw_x_preferred":[
-        "\u054a\u0561\u0576\u056f\u0584\u0578\u0584"
+    "name:hyw_x_preferred": [
+      "Պանկքոք"
     ],
-    "name:ido_x_preferred":[
-        "Bangkok"
+    "name:ido_x_preferred": [
+      "Bangkok"
     ],
-    "name:ile_x_preferred":[
-        "Banghok"
+    "name:ile_x_preferred": [
+      "Banghok"
     ],
-    "name:ilo_x_preferred":[
-        "Bangkok"
+    "name:ilo_x_preferred": [
+      "Bangkok"
     ],
-    "name:ina_x_preferred":[
-        "Bangkok"
+    "name:ina_x_preferred": [
+      "Bangkok"
     ],
-    "name:ind_x_preferred":[
-        "Bangkok"
+    "name:ind_x_preferred": [
+      "Bangkok"
     ],
-    "name:inh_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:inh_x_preferred": [
+      "Бангкок"
     ],
-    "name:isl_x_preferred":[
-        "Bangkok"
+    "name:isl_x_preferred": [
+      "Bangkok"
     ],
-    "name:ita_x_preferred":[
-        "Bangkok"
+    "name:ita_x_preferred": [
+      "Bangkok"
     ],
-    "name:jav_x_preferred":[
-        "Bangkok"
+    "name:jav_x_preferred": [
+      "Bangkok"
     ],
-    "name:jpn_x_preferred":[
-        "\u30af\u30eb\u30f3\u30c6\u30d7"
+    "name:jpn_x_preferred": [
+      "クルンテプ"
     ],
-    "name:jpn_x_variant":[
-        "\u30d0\u30f3\u30b3\u30af"
+    "name:jpn_x_variant": [
+      "バンコク"
     ],
-    "name:kaa_x_preferred":[
-        "Bangkok"
+    "name:kaa_x_preferred": [
+      "Bangkok"
     ],
-    "name:kal_x_preferred":[
-        "Bangkok"
+    "name:kal_x_preferred": [
+      "Bangkok"
     ],
-    "name:kan_x_preferred":[
-        "\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cbe\u0c95\u0ccd"
+    "name:kan_x_preferred": [
+      "ಬ್ಯಾಂಕಾಕ್"
     ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d2\u10d9\u10dd\u10d9\u10d8"
+    "name:kat_x_preferred": [
+      "ბანგკოკი"
     ],
-    "name:kaz_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:kaz_x_preferred": [
+      "Бангкок"
     ],
-    "name:kbp_x_preferred":[
-        "Pank\u0254k\u0269"
+    "name:kbp_x_preferred": [
+      "Pankɔkɩ"
     ],
-    "name:khm_x_preferred":[
-        "\u1794\u17b6\u1784\u1780\u1780"
+    "name:khm_x_preferred": [
+      "បាងកក"
     ],
-    "name:kir_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:kir_x_preferred": [
+      "Бангкок"
     ],
-    "name:koi_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:koi_x_preferred": [
+      "Бангкок"
     ],
-    "name:kom_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:kom_x_preferred": [
+      "Бангкок"
     ],
-    "name:kor_x_preferred":[
-        "\ubc29\ucf55"
+    "name:kor_x_preferred": [
+      "방콕"
     ],
-    "name:kur_x_preferred":[
-        "Bangkok"
+    "name:kur_x_preferred": [
+      "Bangkok"
     ],
-    "name:lad_x_preferred":[
-        "Bangkok"
+    "name:lad_x_preferred": [
+      "Bangkok"
     ],
-    "name:lao_x_preferred":[
-        "\u0e9a\u0eb2\u0e87\u0e81\u0ead\u0e81"
+    "name:lao_x_preferred": [
+      "ບາງກອກ"
     ],
-    "name:lat_x_preferred":[
-        "Bancocum"
+    "name:lat_x_preferred": [
+      "Bancocum"
     ],
-    "name:lat_x_variant":[
-        "B\u0101nc\u014dcum"
+    "name:lat_x_variant": [
+      "Bāncōcum"
     ],
-    "name:lav_x_preferred":[
-        "Bangkoka"
+    "name:lav_x_preferred": [
+      "Bangkoka"
     ],
-    "name:lez_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:lez_x_preferred": [
+      "Бангкок"
     ],
-    "name:lfn_x_preferred":[
-        "Bangcoc"
+    "name:lfn_x_preferred": [
+      "Bangcoc"
     ],
-    "name:lij_x_preferred":[
-        "Bangk\u00f2k"
+    "name:lij_x_preferred": [
+      "Bangkòk"
     ],
-    "name:lim_x_preferred":[
-        "Bangkok"
+    "name:lim_x_preferred": [
+      "Bangkok"
     ],
-    "name:lit_x_preferred":[
-        "Bankokas"
+    "name:lit_x_preferred": [
+      "Bankokas"
     ],
-    "name:lmo_x_preferred":[
-        "Bangkok"
+    "name:lmo_x_preferred": [
+      "Bangkok"
     ],
-    "name:lrc_x_preferred":[
-        "\u0628\u0627\u0646\u06a9\u0648\u06a9"
+    "name:lrc_x_preferred": [
+      "بانکوک"
     ],
-    "name:ltz_x_preferred":[
-        "Bangkok"
+    "name:ltz_x_preferred": [
+      "Bangkok"
     ],
-    "name:lzh_x_preferred":[
-        "\u66fc\u8c37"
+    "name:lzh_x_preferred": [
+      "曼谷"
     ],
-    "name:mai_x_preferred":[
-        "\u092c\u0948\u0919\u094d\u0915\u0915"
+    "name:mai_x_preferred": [
+      "बैङ्कक"
     ],
-    "name:mal_x_preferred":[
-        "\u0d2c\u0d3e\u0d19\u0d4d\u0d15\u0d4b\u0d15\u0d4d\u0d15\u0d4d"
+    "name:mal_x_preferred": [
+      "ബാങ്കോക്ക്"
     ],
-    "name:mar_x_preferred":[
-        "\u092c\u0901\u0915\u0949\u0915"
+    "name:mar_x_preferred": [
+      "बँकॉक"
     ],
-    "name:mdf_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:mdf_x_preferred": [
+      "Бангкок"
     ],
-    "name:mhr_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:mhr_x_preferred": [
+      "Бангкок"
     ],
-    "name:min_x_preferred":[
-        "Bangkok"
+    "name:min_x_preferred": [
+      "Bangkok"
     ],
-    "name:mkd_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:mkd_x_preferred": [
+      "Бангкок"
     ],
-    "name:mlg_x_preferred":[
-        "Bangkok"
+    "name:mlg_x_preferred": [
+      "Bangkok"
     ],
-    "name:mlt_x_preferred":[
-        "Bangkok"
+    "name:mlt_x_preferred": [
+      "Bangkok"
     ],
-    "name:mon_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:mon_x_preferred": [
+      "Бангкок"
     ],
-    "name:msa_x_preferred":[
-        "Bangkok"
+    "name:msa_x_preferred": [
+      "Bangkok"
     ],
-    "name:mwl_x_preferred":[
-        "Banguecoque"
+    "name:mwl_x_preferred": [
+      "Banguecoque"
     ],
-    "name:mya_x_preferred":[
-        "\u1018\u1014\u103a\u1000\u1031\u102c\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    "name:mya_x_preferred": [
+      "ဘန်ကောက်မြို့"
     ],
-    "name:myv_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:myv_x_preferred": [
+      "Бангкок"
     ],
-    "name:mzn_x_preferred":[
-        "\u0628\u0627\u0646\u06a9\u0648\u06a9"
+    "name:mzn_x_preferred": [
+      "بانکوک"
     ],
-    "name:nah_x_preferred":[
-        "Bangkok"
+    "name:nah_x_preferred": [
+      "Bangkok"
     ],
-    "name:nan_x_preferred":[
-        "Bangkok"
+    "name:nan_x_preferred": [
+      "Bangkok"
     ],
-    "name:nav_x_preferred":[
-        "Ch\u02bciltah T\u00e1b\u0105\u0105hkin"
+    "name:nav_x_preferred": [
+      "Chʼiltah Tábąąhkin"
     ],
-    "name:nep_x_preferred":[
-        "\u092c\u0948\u0919\u094d\u0915\u0915"
+    "name:nep_x_preferred": [
+      "बैङ्कक"
     ],
-    "name:new_x_preferred":[
-        "\u092c\u0948\u0902\u0915\u0915"
+    "name:new_x_preferred": [
+      "बैंकक"
     ],
-    "name:nld_x_preferred":[
-        "Bangkok"
+    "name:nld_x_preferred": [
+      "Bangkok"
     ],
-    "name:nno_x_preferred":[
-        "Bangkok"
+    "name:nno_x_preferred": [
+      "Bangkok"
     ],
-    "name:nob_x_preferred":[
-        "Bangkok"
+    "name:nob_x_preferred": [
+      "Bangkok"
     ],
-    "name:nov_x_preferred":[
-        "Bangkok"
+    "name:nov_x_preferred": [
+      "Bangkok"
     ],
-    "name:nya_x_preferred":[
-        "Bangkok"
+    "name:nya_x_preferred": [
+      "Bangkok"
     ],
-    "name:oci_x_preferred":[
-        "Bangk\u00f2k"
+    "name:oci_x_preferred": [
+      "Bangkòk"
     ],
-    "name:olo_x_preferred":[
-        "Bangkok"
+    "name:olo_x_preferred": [
+      "Bangkok"
     ],
-    "name:ori_x_preferred":[
-        "\u0b2c\u0b4d\u0b5f\u0b3e\u0b19\u0b4d\u0b15\u0b15"
+    "name:ori_x_preferred": [
+      "ବ୍ୟାଙ୍କକ"
     ],
-    "name:oss_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:oss_x_preferred": [
+      "Бангкок"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2c\u0a48\u0a02\u0a15\u0a3e\u0a15"
+    "name:pan_x_preferred": [
+      "ਬੈਂਕਾਕ"
     ],
-    "name:pap_x_preferred":[
-        "Bangkok"
+    "name:pap_x_preferred": [
+      "Bangkok"
     ],
-    "name:pdc_x_preferred":[
-        "Bangkok"
+    "name:pdc_x_preferred": [
+      "Bangkok"
     ],
-    "name:pms_x_preferred":[
-        "Bangkok"
+    "name:pms_x_preferred": [
+      "Bangkok"
     ],
-    "name:pnb_x_preferred":[
-        "\u0628\u0646\u06a9\u0627\u06a9"
+    "name:pnb_x_preferred": [
+      "بنکاک"
     ],
-    "name:pol_x_preferred":[
-        "Bangkok"
+    "name:pol_x_preferred": [
+      "Bangkok"
     ],
-    "name:por_x_preferred":[
-        "Banguecoque"
+    "name:por_x_preferred": [
+      "Banguecoque"
     ],
-    "name:pus_x_preferred":[
-        "\u0628\u0627\u0646\u06ab\u06a9\u0648\u06a9"
+    "name:pus_x_preferred": [
+      "بانګکوک"
     ],
-    "name:que_x_preferred":[
-        "Bangkok"
+    "name:que_x_preferred": [
+      "Bangkok"
     ],
-    "name:ron_x_preferred":[
-        "Bangkok"
+    "name:ron_x_preferred": [
+      "Bangkok"
     ],
-    "name:rue_x_preferred":[
-        "\u0411\u0430\u043d\u043a\u043e\u043a"
+    "name:rue_x_preferred": [
+      "Банкок"
     ],
-    "name:rup_x_preferred":[
-        "Bangkok"
+    "name:rup_x_preferred": [
+      "Bangkok"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:rus_x_preferred": [
+      "Бангкок"
     ],
-    "name:sah_x_preferred":[
-        "\u0411\u0430\u04a5\u043a\u043e\u043a"
+    "name:sah_x_preferred": [
+      "Баҥкок"
     ],
-    "name:sat_x_preferred":[
-        "\u1c75\u1c6e\u1c5d\u1c60\u1c73\u1c60"
+    "name:sat_x_preferred": [
+      "ᱵᱮᱝᱠᱳᱠ"
     ],
-    "name:scn_x_preferred":[
-        "Bangkok"
+    "name:scn_x_preferred": [
+      "Bangkok"
     ],
-    "name:sco_x_preferred":[
-        "Bangkok"
+    "name:sco_x_preferred": [
+      "Bangkok"
     ],
-    "name:sgs_x_preferred":[
-        "Bankoks"
+    "name:sgs_x_preferred": [
+      "Bankoks"
     ],
-    "name:shn_x_preferred":[
-        "\u1075\u102f\u1004\u103a\u1038\u1011\u1035\u1015\u103a\u1088"
+    "name:shn_x_preferred": [
+      "ၵုင်းထဵပ်ႈ"
     ],
-    "name:sin_x_preferred":[
-        "\u0db6\u0dd0\u0d82\u0d9a\u0ddc\u0d9a\u0dca"
+    "name:sin_x_preferred": [
+      "බැංකොක්"
     ],
-    "name:sjd_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:sjd_x_preferred": [
+      "Бангкок"
     ],
-    "name:sje_x_preferred":[
-        "Bangkok"
+    "name:sje_x_preferred": [
+      "Bangkok"
     ],
-    "name:sju_x_preferred":[
-        "Bangkok"
+    "name:sju_x_preferred": [
+      "Bangkok"
     ],
-    "name:slk_x_preferred":[
-        "Bangkok"
+    "name:slk_x_preferred": [
+      "Bangkok"
     ],
-    "name:slv_x_preferred":[
-        "Bangkok"
+    "name:slv_x_preferred": [
+      "Bangkok"
     ],
-    "name:sma_x_preferred":[
-        "Bangkok"
+    "name:sma_x_preferred": [
+      "Bangkok"
     ],
-    "name:sme_x_preferred":[
-        "Bangkok"
+    "name:sme_x_preferred": [
+      "Bangkok"
     ],
-    "name:smj_x_preferred":[
-        "Bangkok"
+    "name:smj_x_preferred": [
+      "Bangkok"
     ],
-    "name:smn_x_preferred":[
-        "Bangkok"
+    "name:smn_x_preferred": [
+      "Bangkok"
     ],
-    "name:sms_x_preferred":[
-        "Bangkok"
+    "name:sms_x_preferred": [
+      "Bangkok"
     ],
-    "name:sna_x_preferred":[
-        "Bangkok"
+    "name:sna_x_preferred": [
+      "Bangkok"
     ],
-    "name:snd_x_preferred":[
-        "\u0628\u064a\u0646\u06aa\u0627\u06aa"
+    "name:snd_x_preferred": [
+      "بينڪاڪ"
     ],
-    "name:som_x_preferred":[
-        "Bangkok"
+    "name:som_x_preferred": [
+      "Bangkok"
     ],
-    "name:spa_x_preferred":[
-        "Bangkok"
+    "name:spa_x_preferred": [
+      "Bangkok"
     ],
-    "name:sqi_x_preferred":[
-        "Bangkok"
+    "name:sqi_x_preferred": [
+      "Bangkok"
     ],
-    "name:srd_x_preferred":[
-        "Bangkok"
+    "name:srd_x_preferred": [
+      "Bangkok"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:srp_x_preferred": [
+      "Бангкок"
     ],
-    "name:stq_x_preferred":[
-        "Bangkok"
+    "name:stq_x_preferred": [
+      "Bangkok"
     ],
-    "name:sun_x_preferred":[
-        "Bangkok"
+    "name:sun_x_preferred": [
+      "Bangkok"
     ],
-    "name:swa_x_preferred":[
-        "Bangkok"
+    "name:swa_x_preferred": [
+      "Bangkok"
     ],
-    "name:swe_x_preferred":[
-        "Bangkok"
+    "name:swe_x_preferred": [
+      "Bangkok"
     ],
-    "name:szl_x_preferred":[
-        "Bangkok"
+    "name:szl_x_preferred": [
+      "Bangkok"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b95\u0bcd"
+    "name:tam_x_preferred": [
+      "பாங்கொக்"
     ],
-    "name:tat_x_preferred":[
-        "Bangkok"
+    "name:tat_x_preferred": [
+      "Bangkok"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c3e\u0c15\u0c4d"
+    "name:tel_x_preferred": [
+      "బ్యాంకాక్"
     ],
-    "name:tgk_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:tgk_x_preferred": [
+      "Бангкок"
     ],
-    "name:tgl_x_preferred":[
-        "Bangkok"
+    "name:tgl_x_preferred": [
+      "Bangkok"
     ],
-    "name:tha_x_preferred":[
-        "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23"
+    "name:tha_x_preferred": [
+      "กรุงเทพมหานคร"
     ],
-    "name:tha_x_variant":[
-        "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f"
+    "name:tha_x_variant": [
+      "กรุงเทพฯ"
     ],
-    "name:tuk_x_preferred":[
-        "Bangkok"
+    "name:tuk_x_preferred": [
+      "Bangkok"
     ],
-    "name:tur_x_preferred":[
-        "Bangkok"
+    "name:tur_x_preferred": [
+      "Bangkok"
     ],
-    "name:twi_x_preferred":[
-        "Bangkok"
+    "name:twi_x_preferred": [
+      "Bangkok"
     ],
-    "name:udm_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:udm_x_preferred": [
+      "Бангкок"
     ],
-    "name:uig_x_preferred":[
-        "\u0628\u0627\u06ad\u0643\u0648\u0643"
+    "name:uig_x_preferred": [
+      "باڭكوك"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+    "name:ukr_x_preferred": [
+      "Бангкок"
     ],
-    "name:und_x_variant":[
-        "Krung Thep Mahanakhon"
+    "name:und_x_variant": [
+      "Krung Thep Mahanakhon"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0646\u06a9\u0627\u06a9"
+    "name:urd_x_preferred": [
+      "بنکاک"
     ],
-    "name:urd_x_variant":[
-        "\u0628\u06cc\u0646\u06a9\u0627\u06a9"
+    "name:urd_x_variant": [
+      "بینکاک"
     ],
-    "name:uzb_x_preferred":[
-        "Bangkok"
+    "name:uzb_x_preferred": [
+      "Bangkok"
     ],
-    "name:vec_x_preferred":[
-        "Bangkok"
+    "name:vec_x_preferred": [
+      "Bangkok"
     ],
-    "name:vec_x_variant":[
-        "Banc\u00f2c"
+    "name:vec_x_variant": [
+      "Bancòc"
     ],
-    "name:vep_x_preferred":[
-        "Bankok"
+    "name:vep_x_preferred": [
+      "Bankok"
     ],
-    "name:vie_x_preferred":[
-        "Bangkok"
+    "name:vie_x_preferred": [
+      "Bangkok"
     ],
-    "name:vls_x_preferred":[
-        "Bangkok"
+    "name:vls_x_preferred": [
+      "Bangkok"
     ],
-    "name:vol_x_preferred":[
-        "Bangkok"
+    "name:vol_x_preferred": [
+      "Bangkok"
     ],
-    "name:vro_x_preferred":[
-        "Bangkok"
+    "name:vro_x_preferred": [
+      "Bangkok"
     ],
-    "name:war_x_preferred":[
-        "Bangkok"
+    "name:war_x_preferred": [
+      "Bangkok"
     ],
-    "name:wuu_x_preferred":[
-        "\u66fc\u8c37"
+    "name:wuu_x_preferred": [
+      "曼谷"
     ],
-    "name:xal_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u043a\u043e\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    "name:xal_x_preferred": [
+      "Бангкок балһсн"
     ],
-    "name:xmf_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d2\u10d9\u10dd\u10d9\u10d8"
+    "name:xmf_x_preferred": [
+      "ბანგკოკი"
     ],
-    "name:yid_x_preferred":[
-        "\u05d1\u05d0\u05e0\u05d2\u05e7\u05d0\u05e7"
+    "name:yid_x_preferred": [
+      "באנגקאק"
     ],
-    "name:yid_x_variant":[
-        "\u05d1\u05d0\u05b7\u05e0\u05e7\u05d0\u05b8\u05e7"
+    "name:yid_x_variant": [
+      "באַנקאָק"
     ],
-    "name:yor_x_preferred":[
-        "Bangkok"
+    "name:yor_x_preferred": [
+      "Bangkok"
     ],
-    "name:yue_x_preferred":[
-        "\u66fc\u8c37"
+    "name:yue_x_preferred": [
+      "曼谷"
     ],
-    "name:zea_x_preferred":[
-        "Bangkok"
+    "name:zea_x_preferred": [
+      "Bangkok"
     ],
-    "name:zha_x_preferred":[
-        "Bangkok"
+    "name:zha_x_preferred": [
+      "Bangkok"
     ],
-    "name:zho_x_preferred":[
-        "\u66fc\u8c37"
+    "name:zho_x_preferred": [
+      "曼谷"
     ],
-    "ne:abbrev":"",
-    "ne:adm0_a3":"THA",
-    "ne:adm0_label":"2",
-    "ne:adm0_sr":"1",
-    "ne:adm1_cod_1":"THA-416",
-    "ne:adm1_code":"THA-416",
-    "ne:admin":"Thailand",
-    "ne:area_sqkm":"0.00000000000",
-    "ne:check_me":"20",
-    "ne:code_hasc":"TH.BM",
-    "ne:code_local":"",
-    "ne:datarank":"5",
-    "ne:diss_me":"416",
-    "ne:featurecla":"Admin-1 scale rank",
-    "ne:fips":"TH40",
-    "ne:fips_alt":"",
-    "ne:gadm_level":"1",
-    "ne:geonunit":"Thailand",
-    "ne:gn_a1_code":"TH.40",
-    "ne:gn_id":"1609348",
-    "ne:gn_level":"1",
-    "ne:gn_name":"Krung Thep Mahanakhon",
-    "ne:gn_region":"",
-    "ne:gns_adm1":"TH40",
-    "ne:gns_id":"-3250085",
-    "ne:gns_lang":"tha",
-    "ne:gns_level":"1",
-    "ne:gns_name":"Krung Thep Mahanakhon",
-    "ne:gns_region":"",
-    "ne:gu_a3":"THA",
-    "ne:hasc_maybe":"",
-    "ne:iso_3166_2":"TH-",
-    "ne:iso_a2":"TH",
-    "ne:labelrank":"7",
-    "ne:latitude":"13.79300000000",
-    "ne:longitude":"100.62600000000",
-    "ne:mapcolor13":1,
-    "ne:mapcolor9":8,
-    "ne:name":"Bangkok Metropolis",
-    "ne:name_alt":"Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi",
-    "ne:name_len":18,
-    "ne:name_local":"\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48",
-    "ne:note":"",
-    "ne:postal":"BM",
-    "ne:provnum_ne":"34",
-    "ne:region":"Central",
-    "ne:region_cod":"",
-    "ne:region_sub":"",
-    "ne:sameascity":"-99",
-    "ne:scalerank":"7",
-    "ne:sov_a3":"THA",
-    "ne:sub_code":"",
-    "ne:type":"Changwat",
-    "ne:type_en":"Province",
-    "ne:wikipedia":"",
-    "ne:woe_id":2347165,
-    "ne:woe_label":"Bangkok, TH, Thailand",
-    "ne:woe_name":"Bangkok Metropolis",
-    "qs:a0":"Thailand",
-    "qs:a0_lc":"TH",
-    "qs:a1":"Bangkok Metropolis",
-    "qs:a1_lc":"THA-416",
-    "qs:a1r":"Central",
-    "qs:adm0":"Thailand",
-    "qs:adm0_a3":"THA",
-    "qs:level":"adm1",
-    "qs:scale":4000000,
-    "qs:source":"Natural Earth",
-    "qs:type":"Province",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "src:population":"wikidata",
-    "src:population_date":"2017",
-    "statoids:area_km":"1,569",
-    "statoids:area_mi":"606",
-    "statoids:as_of_date":"2010-09-01",
-    "statoids:capital":"Bangkok",
-    "statoids:country":"TH",
-    "statoids:gec":"TH40",
-    "statoids:hasc":"TH.BM",
-    "statoids:iso":"10",
-    "statoids:name":"Bangkok Metropolis",
-    "statoids:population":"8305218",
-    "statoids:timezone":"+7",
-    "statoids:type":"municipality",
-    "wof:belongsto":[
-        102191569,
-        85632293
+    "ne:abbrev": "",
+    "ne:adm0_a3": "THA",
+    "ne:adm0_label": "2",
+    "ne:adm0_sr": "1",
+    "ne:adm1_cod_1": "THA-416",
+    "ne:adm1_code": "THA-416",
+    "ne:admin": "Thailand",
+    "ne:area_sqkm": "0.00000000000",
+    "ne:check_me": "20",
+    "ne:code_hasc": "TH.BM",
+    "ne:code_local": "",
+    "ne:datarank": "5",
+    "ne:diss_me": "416",
+    "ne:featurecla": "Admin-1 scale rank",
+    "ne:fips": "TH40",
+    "ne:fips_alt": "",
+    "ne:gadm_level": "1",
+    "ne:geonunit": "Thailand",
+    "ne:gn_a1_code": "TH.40",
+    "ne:gn_id": "1609348",
+    "ne:gn_level": "1",
+    "ne:gn_name": "Krung Thep Mahanakhon",
+    "ne:gn_region": "",
+    "ne:gns_adm1": "TH40",
+    "ne:gns_id": "-3250085",
+    "ne:gns_lang": "tha",
+    "ne:gns_level": "1",
+    "ne:gns_name": "Krung Thep Mahanakhon",
+    "ne:gns_region": "",
+    "ne:gu_a3": "THA",
+    "ne:hasc_maybe": "",
+    "ne:iso_3166_2": "TH-",
+    "ne:iso_a2": "TH",
+    "ne:labelrank": "7",
+    "ne:latitude": "13.79300000000",
+    "ne:longitude": "100.62600000000",
+    "ne:mapcolor13": 1,
+    "ne:mapcolor9": 8,
+    "ne:name": "Bangkok Metropolis",
+    "ne:name_alt": "Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi",
+    "ne:name_len": 18,
+    "ne:name_local": "จังหวัดเชียงใหม่",
+    "ne:note": "",
+    "ne:postal": "BM",
+    "ne:provnum_ne": "34",
+    "ne:region": "Central",
+    "ne:region_cod": "",
+    "ne:region_sub": "",
+    "ne:sameascity": "-99",
+    "ne:scalerank": "7",
+    "ne:sov_a3": "THA",
+    "ne:sub_code": "",
+    "ne:type": "Changwat",
+    "ne:type_en": "Province",
+    "ne:wikipedia": "",
+    "ne:woe_id": 2347165,
+    "ne:woe_label": "Bangkok, TH, Thailand",
+    "ne:woe_name": "Bangkok Metropolis",
+    "qs:a0": "Thailand",
+    "qs:a0_lc": "TH",
+    "qs:a1": "Bangkok Metropolis",
+    "qs:a1_lc": "THA-416",
+    "qs:a1r": "Central",
+    "qs:adm0": "Thailand",
+    "qs:adm0_a3": "THA",
+    "qs:level": "adm1",
+    "qs:scale": 4000000,
+    "qs:source": "Natural Earth",
+    "qs:type": "Province",
+    "sfomuseum:placetype": "region",
+    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "src:population": "wikidata",
+    "src:population_date": "2017",
+    "statoids:area_km": "1,569",
+    "statoids:area_mi": "606",
+    "statoids:as_of_date": "2010-09-01",
+    "statoids:capital": "Bangkok",
+    "statoids:country": "TH",
+    "statoids:gec": "TH40",
+    "statoids:hasc": "TH.BM",
+    "statoids:iso": "10",
+    "statoids:name": "Bangkok Metropolis",
+    "statoids:population": "8305218",
+    "statoids:timezone": "+7",
+    "statoids:type": "municipality",
+    "wof:belongsto": [
+      102191569,
+      85632293
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "fips:code":"TH40",
-        "gn:id":1609348,
-        "gp:id":2347165,
-        "hasc:id":"TH.BM",
-        "iso:code":"TH-10",
-        "iso:id":"TH-10",
-        "loc:id":"n79065460",
-        "qs_pg:id":660838,
-        "wd:id":"Q1861",
-        "wk:page":"Bangkok"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "fips:code": "TH40",
+      "gn:id": 1609348,
+      "gp:id": 2347165,
+      "hasc:id": "TH.BM",
+      "iso:code": "TH-10",
+      "iso:id": "TH-10",
+      "loc:id": "n79065460",
+      "qs_pg:id": 660838,
+      "wd:id": "Q1861",
+      "wk:page": "Bangkok"
     },
-    "wof:concordances_official":"iso:code",
-    "wof:coterminous":[
-        102025263
+    "wof:concordances_official": "iso:code",
+    "wof:coterminous": [
+      102025263
     ],
-    "wof:country":"TH",
-    "wof:geomhash":"21b05df624f7021781c4c6cd4142e7b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632293,
-            "region_id":85678739
-        }
+    "wof:country": "TH",
+    "wof:created": 1744827594,
+    "wof:geomhash": "7e64cb32d213ce76d45ae886c19fdddc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632293,
+        "region_id": 85678739
+      }
     ],
-    "wof:id":85678739,
-    "wof:lang_x_official":[
-        "tha"
+    "wof:id": 85678739,
+    "wof:lang_x_official": [
+      "tha"
     ],
-    "wof:lang_x_spoken":[
-        "tha"
+    "wof:lang_x_spoken": [
+      "tha"
     ],
-    "wof:lastmodified":1695884328,
-    "wof:name":"Bangkok",
-    "wof:parent_id":85632293,
-    "wof:placetype":"region",
-    "wof:placetype_local":"metropolitan region",
-    "wof:population":5682415,
-    "wof:population_rank":13,
-    "wof:repo":"whosonfirst-data-admin-th",
-    "wof:shortcode":"BM",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:lastmodified": 1744827594,
+    "wof:name": "Bangkok",
+    "wof:parent_id": 85632293,
+    "wof:placetype": "region",
+    "wof:placetype_local": "metropolitan region",
+    "wof:population": 5682415,
+    "wof:population_rank": 13,
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:shortcode": "BM",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.326982,
     13.489325,
     100.924259,
     13.949795
-],
-  "geometry": {"coordinates":[[[100.855374,13.691981],[100.836719,13.689733],[100.827572,13.691258],[100.81811500000001,13.695909],[100.81455,13.697226],[100.806591,13.698854],[100.799357,13.701024],[100.796566,13.702704],[100.788453,13.708363],[100.781322,13.71136],[100.77325999999999,13.712781],[100.755897,13.714099],[100.726545,13.711463],[100.713212,13.711515],[100.708716,13.710145],[100.70453000000001,13.7072],[100.70044799999999,13.700223],[100.69708900000001,13.690586],[100.696314,13.68702],[100.68763199999999,13.66312],[100.685875,13.660019],[100.682981,13.657229],[100.67874399999999,13.655058],[100.670062,13.65343],[100.664016,13.652965],[100.605673,13.656169],[100.60226299999999,13.656944],[100.598232,13.658391],[100.585261,13.666763],[100.591256,13.677176],[100.592341,13.680044],[100.594615,13.682163],[100.596992,13.685367],[100.598077,13.691439],[100.595907,13.697149],[100.591256,13.699629],[100.58660500000001,13.701335],[100.584434,13.704797],[100.580145,13.709164],[100.57074,13.708052],[100.561387,13.703582],[100.557098,13.697976],[100.548726,13.681672],[100.537564,13.681439],[100.530433,13.67361],[100.522474,13.66529],[100.519374,13.662784],[100.515653,13.662396],[100.50666099999999,13.666427],[100.503406,13.667228],[100.50077,13.667125],[100.49921999999999,13.665445],[100.49839299999999,13.662241],[100.500925,13.646532],[100.500925,13.640305],[100.49611899999999,13.60718],[100.49379399999999,13.599842],[100.48867799999999,13.59408],[100.481392,13.588602],[100.47472500000001,13.585786],[100.463047,13.583512],[100.459946,13.565839],[100.46697399999999,13.495688],[100.466976,13.495665],[100.429942,13.489325],[100.40078,13.490638],[100.400828,13.490727],[100.403825,13.496308],[100.406616,13.499719],[100.40909600000001,13.502225],[100.41043999999999,13.504783],[100.41157699999999,13.508194],[100.41157699999999,13.51207],[100.405169,13.559586],[100.389511,13.611805],[100.384705,13.620771],[100.37276799999999,13.63307],[100.368892,13.635886],[100.36563599999999,13.637488],[100.361761,13.638496],[100.35369900000001,13.639685],[100.349048,13.64909],[100.34594800000001,13.656919],[100.331788,13.730092],[100.326982,13.751073],[100.32910099999999,13.762287],[100.333339,13.773371],[100.33566399999999,13.798719],[100.43157600000001,13.800295],[100.46955800000001,13.795101],[100.477671,13.794869],[100.481392,13.795722],[100.48836799999999,13.798099],[100.491314,13.800502],[100.493329,13.804145],[100.493639,13.811948],[100.494569,13.817555],[100.49720499999999,13.823343],[100.51617,13.84099],[100.52175099999999,13.848199],[100.551517,13.947857],[100.585365,13.942483],[100.663241,13.920081],[100.678589,13.91804],[100.836719,13.936617],[100.862195,13.942741],[100.885605,13.944989],[100.90482799999999,13.949795],[100.896922,13.846804],[100.898627,13.841223],[100.901263,13.837399],[100.912735,13.830086],[100.917592,13.826056],[100.921468,13.821353],[100.92425900000001,13.817529],[100.923587,13.813421],[100.92115800000001,13.807659],[100.898782,13.784353],[100.893511,13.77748],[100.857338,13.718517],[100.849276,13.709164],[100.84865600000001,13.704099],[100.855374,13.691981]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[100.855374,13.691981],[100.836719,13.689733],[100.827572,13.691258],[100.818115,13.695909],[100.81455,13.697226],[100.806591,13.698854],[100.799357,13.701024],[100.796566,13.702704],[100.788453,13.708363],[100.781322,13.71136],[100.77326,13.712781],[100.755897,13.714099],[100.726545,13.711463],[100.713212,13.711515],[100.708716,13.710145],[100.70453,13.7072],[100.700448,13.700223],[100.697089,13.690586],[100.696314,13.68702],[100.687632,13.66312],[100.685875,13.660019],[100.682981,13.657229],[100.678744,13.655058],[100.670062,13.65343],[100.664016,13.652965],[100.605673,13.656169],[100.602263,13.656944],[100.598232,13.658391],[100.585261,13.666763],[100.591256,13.677176],[100.592341,13.680044],[100.594615,13.682163],[100.596992,13.685367],[100.598077,13.691439],[100.595907,13.697149],[100.591256,13.699629],[100.586605,13.701335],[100.584434,13.704797],[100.580145,13.709164],[100.57074,13.708052],[100.561387,13.703582],[100.557098,13.697976],[100.548726,13.681672],[100.537564,13.681439],[100.530433,13.67361],[100.522474,13.66529],[100.519374,13.662784],[100.515653,13.662396],[100.506661,13.666427],[100.503406,13.667228],[100.50077,13.667125],[100.49922,13.665445],[100.498393,13.662241],[100.500925,13.646532],[100.500925,13.640305],[100.496119,13.60718],[100.493794,13.599842],[100.488678,13.59408],[100.481392,13.588602],[100.474725,13.585786],[100.463047,13.583512],[100.459946,13.565839],[100.466974,13.495688],[100.466976,13.495665],[100.429942,13.489325],[100.40078,13.490638],[100.400828,13.490727],[100.403825,13.496308],[100.406616,13.499719],[100.409096,13.502225],[100.41044,13.504783],[100.411577,13.508194],[100.411577,13.51207],[100.405169,13.559586],[100.389511,13.611805],[100.384705,13.620771],[100.372768,13.63307],[100.368892,13.635886],[100.365636,13.637488],[100.361761,13.638496],[100.353699,13.639685],[100.349048,13.64909],[100.345948,13.656919],[100.331788,13.730092],[100.326982,13.751073],[100.329101,13.762287],[100.333339,13.773371],[100.335664,13.798719],[100.431576,13.800295],[100.469558,13.795101],[100.477671,13.794869],[100.481392,13.795722],[100.488368,13.798099],[100.491314,13.800502],[100.493329,13.804145],[100.493639,13.811948],[100.494569,13.817555],[100.497205,13.823343],[100.51617,13.84099],[100.521751,13.848199],[100.551517,13.947857],[100.585365,13.942483],[100.663241,13.920081],[100.678589,13.91804],[100.836719,13.936617],[100.862195,13.942741],[100.885605,13.944989],[100.904828,13.949795],[100.896922,13.846804],[100.898627,13.841223],[100.901263,13.837399],[100.912735,13.830086],[100.917592,13.826056],[100.921468,13.821353],[100.924259,13.817529],[100.923587,13.813421],[100.921158,13.807659],[100.898782,13.784353],[100.893511,13.77748],[100.857338,13.718517],[100.849276,13.709164],[100.848656,13.704099],[100.855374,13.691981]]],"type":"Polygon"}
 }

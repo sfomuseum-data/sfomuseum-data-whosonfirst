@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.01788199173200009,
+    "geom:area": 0.017881991732000085,
     "geom:area_square_m": 154112406.3384,
     "geom:bbox": "15.826614,45.741670,16.097204,45.907025",
-    "geom:latitude": 45.814748120868614,
+    "geom:latitude": 45.81474812086862,
     "geom:longitude": 15.978361768816262,
     "gn:population": 698966,
     "iso:country": "HR",
@@ -23,14 +23,23 @@
     "name:afr_x_preferred": [
       "Zagreb"
     ],
+    "name:aka_x_preferred": [
+      "Zagreb"
+    ],
     "name:amh_x_preferred": [
       "ዛግሬብ"
+    ],
+    "name:ang_x_preferred": [
+      "Agram"
     ],
     "name:ara_x_preferred": [
       "زغرب"
     ],
     "name:arg_x_preferred": [
       "Zagreb"
+    ],
+    "name:ary_x_preferred": [
+      "زاڭريب"
     ],
     "name:arz_x_preferred": [
       "زاجريب"
@@ -41,14 +50,23 @@
     "name:ava_x_preferred": [
       "Загреб"
     ],
+    "name:avk_x_preferred": [
+      "Zagreb"
+    ],
     "name:aze_x_preferred": [
       "Zaqreb"
     ],
     "name:bak_x_preferred": [
       "Загреб"
     ],
+    "name:ban_x_preferred": [
+      "Zagreb"
+    ],
     "name:bar_x_preferred": [
       "Agram"
+    ],
+    "name:bcl_x_preferred": [
+      "Zagreb"
     ],
     "name:bel_x_preferred": [
       "Горад Заграб"
@@ -159,6 +177,9 @@
     "name:fra_x_preferred": [
       "Zagreb"
     ],
+    "name:frp_x_preferred": [
+      "Zagrèbe"
+    ],
     "name:frr_x_preferred": [
       "Zagreb"
     ],
@@ -192,6 +213,9 @@
     "name:hat_x_preferred": [
       "Zagreb"
     ],
+    "name:hau_x_preferred": [
+      "Zagreb"
+    ],
     "name:hbs_x_preferred": [
       "Zagreb"
     ],
@@ -218,6 +242,9 @@
     ],
     "name:hye_x_preferred": [
       "Զագրեբ"
+    ],
+    "name:hyw_x_preferred": [
+      "Զաղրէպ"
     ],
     "name:ido_x_preferred": [
       "Zagreb"
@@ -261,6 +288,9 @@
     "name:kaz_x_preferred": [
       "Загреб"
     ],
+    "name:kin_x_preferred": [
+      "Zagreb"
+    ],
     "name:kir_x_preferred": [
       "Загреб"
     ],
@@ -273,11 +303,17 @@
     "name:kur_x_preferred": [
       "Zagreb"
     ],
+    "name:lao_x_preferred": [
+      "ຊາເກຣບ"
+    ],
     "name:lat_x_preferred": [
       "Zagrabia"
     ],
     "name:lav_x_preferred": [
       "Zagreba"
+    ],
+    "name:lfn_x_preferred": [
+      "Zagreb"
     ],
     "name:lij_x_preferred": [
       "Zagabbria"
@@ -309,6 +345,9 @@
     "name:mar_x_preferred": [
       "झाग्रेब"
     ],
+    "name:mdf_x_preferred": [
+      "Загрэб"
+    ],
     "name:mhr_x_preferred": [
       "Загреб"
     ],
@@ -330,6 +369,9 @@
     "name:msa_x_preferred": [
       "Zagreb"
     ],
+    "name:mzn_x_preferred": [
+      "زاگرب"
+    ],
     "name:nah_x_preferred": [
       "Zagreb"
     ],
@@ -338,6 +380,9 @@
     ],
     "name:nau_x_preferred": [
       "Zagrev"
+    ],
+    "name:nav_x_preferred": [
+      "Shashdziil Bitsį́į́ʼí"
     ],
     "name:nds_x_preferred": [
       "Zagreb"
@@ -441,8 +486,17 @@
     "name:sme_x_preferred": [
       "Zagreb"
     ],
+    "name:smn_x_preferred": [
+      "Zagreb"
+    ],
+    "name:sms_x_preferred": [
+      "Zagreb"
+    ],
     "name:sna_x_preferred": [
       "Zagreb"
+    ],
+    "name:snd_x_preferred": [
+      "زغرب"
     ],
     "name:sot_x_preferred": [
       "Zagreb"
@@ -460,6 +514,9 @@
       "Загреб"
     ],
     "name:srp_x_variant": [
+      "Zagreb"
+    ],
+    "name:stq_x_preferred": [
       "Zagreb"
     ],
     "name:swa_x_preferred": [
@@ -534,6 +591,9 @@
     "name:vie_x_preferred": [
       "Zagreb"
     ],
+    "name:vls_x_preferred": [
+      "Zagreb"
+    ],
     "name:vol_x_preferred": [
       "Zagreb"
     ],
@@ -548,6 +608,9 @@
     ],
     "name:wol_x_preferred": [
       "Sagreb"
+    ],
+    "name:wuu_x_preferred": [
+      "萨格勒布"
     ],
     "name:xmf_x_preferred": [
       "ზაგრები"
@@ -681,7 +744,6 @@
     "qs:source": "VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type": "urban core",
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
@@ -708,7 +770,7 @@
       "wd:id": "Q1435"
     },
     "wof:country": "HR",
-    "wof:created": 1652217824,
+    "wof:created": 1744916911,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -725,7 +787,7 @@
     "wof:lang": [
       "unk"
     ],
-    "wof:lastmodified": 1652217824,
+    "wof:lastmodified": 1744916911,
     "wof:megacity": 0,
     "wof:name": "Zagreb",
     "wof:parent_id": 85684811,

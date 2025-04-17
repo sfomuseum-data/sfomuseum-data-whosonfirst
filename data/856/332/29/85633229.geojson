@@ -6,15 +6,27 @@
     "date:inception_upper": "1991-06-30",
     "edtf:cessation": "..",
     "edtf:inception": "1991-~05/1991-~06",
-    "geom:area": 6.4426692890820725,
-    "geom:area_square_m": 56244397292.12026,
+    "eurostat:country_code": "HR",
+    "eurostat:level_code": "1",
+    "eurostat:name_latin": "Hrvatska",
+    "eurostat:name_local": "Hrvatska",
+    "eurostat:nuts_2021_id": "HR0",
+    "eurostat:nuts_2021_level_0": "",
+    "eurostat:nuts_2021_level_1": "HR0",
+    "eurostat:population": 3862305,
+    "eurostat:population_year": 2022,
+    "geom:area": 6.442669289082045,
+    "geom:area_square_m": 56283873267.10919,
     "geom:bbox": "13.490334,42.391224,19.447208,46.598101",
-    "geom:latitude": 45.0422430361465,
-    "geom:longitude": 16.407307641984826,
+    "geom:latitude": 45.04224303614651,
+    "geom:longitude": 16.40730764198483,
     "gn:population": 4491000,
     "iso:country": "HR",
     "itu:country_code": [
       "385"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "HR"
@@ -53,8 +65,14 @@
     "name:amh_x_preferred": [
       "ክሮኤሽያ"
     ],
+    "name:ami_x_preferred": [
+      "Croatia"
+    ],
     "name:ang_x_preferred": [
       "Croatia"
+    ],
+    "name:anp_x_preferred": [
+      "क्रोएशिया"
     ],
     "name:ara_x_preferred": [
       "كرواتيا"
@@ -76,6 +94,12 @@
     ],
     "name:ava_x_preferred": [
       "Хорватия"
+    ],
+    "name:avk_x_preferred": [
+      "Xrvatska"
+    ],
+    "name:awa_x_preferred": [
+      "क्रोएशिया"
     ],
     "name:aym_x_preferred": [
       "Kruwatiya"
@@ -189,6 +213,9 @@
       "Chòrwackô"
     ],
     "name:cym_x_preferred": [
+      "Croatia"
+    ],
+    "name:dag_x_preferred": [
       "Croatia"
     ],
     "name:dan_x_preferred": [
@@ -344,6 +371,9 @@
     "name:got_x_preferred": [
       "𐌺𐍂𐌿𐍅𐌰𐍄𐍃𐌾𐌰"
     ],
+    "name:gpe_x_preferred": [
+      "Croatia"
+    ],
     "name:grn_x_preferred": [
       "Kyoasia"
     ],
@@ -403,6 +433,9 @@
     ],
     "name:hye_x_variant": [
       "Հորվաթիա"
+    ],
+    "name:hyw_x_preferred": [
+      "Խրուաթիա"
     ],
     "name:ibo_x_preferred": [
       "Kroatia"
@@ -516,7 +549,8 @@
       "ປະເທດກະໂລອາຊີ"
     ],
     "name:lao_x_variant": [
-      "ໂຄເອເຊຍ"
+      "ໂຄເອເຊຍ",
+      "ປະເທດໂຄຣເອເຊຍ"
     ],
     "name:lat_x_preferred": [
       "Croatia"
@@ -533,6 +567,9 @@
     "name:lij_x_preferred": [
       "Croaçia"
     ],
+    "name:lij_x_variant": [
+      "Croàçia"
+    ],
     "name:lim_x_preferred": [
       "Kroatië"
     ],
@@ -547,6 +584,9 @@
     ],
     "name:liv_x_preferred": [
       "Horvātij"
+    ],
+    "name:lld_x_preferred": [
+      "Croazia"
     ],
     "name:lmo_x_preferred": [
       "Cruazia"
@@ -572,6 +612,9 @@
     "name:lzh_x_preferred": [
       "克羅埃西亞"
     ],
+    "name:mad_x_preferred": [
+      "Kroasia"
+    ],
     "name:mai_x_preferred": [
       "क्रोशिया"
     ],
@@ -583,6 +626,9 @@
     ],
     "name:mdf_x_preferred": [
       "Хорватие"
+    ],
+    "name:mdf_x_variant": [
+      "Хорватия"
     ],
     "name:mhr_x_preferred": [
       "Хорватий"
@@ -602,6 +648,9 @@
     "name:mlt_x_preferred": [
       "Kroazja"
     ],
+    "name:mni_x_preferred": [
+      "ꯀ꯭ꯔꯣꯁꯤꯌꯥ"
+    ],
     "name:mon_x_preferred": [
       "Хорват"
     ],
@@ -610,6 +659,9 @@
     ],
     "name:msa_x_preferred": [
       "Croatia"
+    ],
+    "name:mwl_x_preferred": [
+      "Croácia"
     ],
     "name:mya_x_preferred": [
       "ခရိုအေးရှားနိုင်ငံ"
@@ -746,6 +798,9 @@
     "name:que_x_preferred": [
       "Hurwatsuyu"
     ],
+    "name:rmy_x_preferred": [
+      "Kroatiya"
+    ],
     "name:roh_x_preferred": [
       "Croazia"
     ],
@@ -776,6 +831,9 @@
     "name:san_x_preferred": [
       "क्रोएशिया"
     ],
+    "name:sat_x_preferred": [
+      "ᱠᱨᱳᱭᱮᱥᱤᱭᱟ"
+    ],
     "name:scn_x_preferred": [
       "Croazzia"
     ],
@@ -784,6 +842,9 @@
     ],
     "name:sgs_x_preferred": [
       "Kruoatėjė"
+    ],
+    "name:shn_x_preferred": [
+      "မိူင်းၶရူဝ်ႇဢေးသျႃး"
     ],
     "name:sin_x_preferred": [
       "ක්‍රොඒෂියා"
@@ -797,8 +858,14 @@
     "name:sme_x_preferred": [
       "Kroatia"
     ],
+    "name:smn_x_preferred": [
+      "Kroatia"
+    ],
     "name:smo_x_preferred": [
       "Croatia"
+    ],
+    "name:sms_x_preferred": [
+      "Kroatia"
     ],
     "name:sna_x_preferred": [
       "Croatia"
@@ -881,6 +948,9 @@
     "name:tat_x_preferred": [
       "Хорватия"
     ],
+    "name:tay_x_preferred": [
+      "Croatia"
+    ],
     "name:tel_x_preferred": [
       "క్రొయేషియా"
     ],
@@ -908,11 +978,17 @@
     "name:tir_x_preferred": [
       "ክሮኤሽያ"
     ],
+    "name:tok_x_preferred": [
+      "ma Lowasi"
+    ],
     "name:ton_x_preferred": [
       "Kuloisia"
     ],
     "name:tpi_x_preferred": [
       "Krowesia"
+    ],
+    "name:trv_x_preferred": [
+      "Croatia"
     ],
     "name:tso_x_preferred": [
       "Croatia"
@@ -1038,7 +1114,8 @@
       "克罗地亚"
     ],
     "name:zho_x_variant": [
-      "克羅埃西亞"
+      "克羅埃西亞",
+      "克羅地亞"
     ],
     "name:zho_yue_x_preferred": [
       "克羅地亞"
@@ -1196,7 +1273,8 @@
       "whosonfirst"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "geonames",
+    "src:population": "eurostat",
+    "src:population_date": "2022",
     "statoids:dial": "385",
     "statoids:ds": "HR",
     "statoids:fifa": "CRO",
@@ -1226,6 +1304,7 @@
     "wof:concordances": {
       "dbp:id": "Croatia",
       "digitalenvoy:country_code": 191,
+      "eurostat:nuts_2021_id": "HR0",
       "fb:id": "en.croatia",
       "fifa:id": "CRO",
       "fips:code": "HR",
@@ -1235,6 +1314,7 @@
       "hasc:id": "HR",
       "icao:code": "9A",
       "ioc:id": "CRO",
+      "iso:code": "HR",
       "itu:id": "HRV",
       "loc:id": "n81035140",
       "m49:code": "191",
@@ -1249,6 +1329,7 @@
       "wk:page": "Croatia",
       "wmo:id": "RH"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "HR",
     "wof:country_alpha3": "HRV",
     "wof:created": 1652212669,
@@ -1274,11 +1355,11 @@
       "hrv",
       "ita"
     ],
-    "wof:lastmodified": 1652217939,
+    "wof:lastmodified": 1744916918,
     "wof:name": "Croatia",
     "wof:parent_id": 102191581,
     "wof:placetype": "country",
-    "wof:population": 4491000,
+    "wof:population": 3862305,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "HR",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.07423106229649987,
-    "geom:area_square_m": 639800905.550309,
+    "eurostat:coast_type": "3",
+    "eurostat:country_code": "HR",
+    "eurostat:level_code": "3",
+    "eurostat:mount_type": "4",
+    "eurostat:name_latin": "Grad Zagreb",
+    "eurostat:name_local": "Grad Zagreb",
+    "eurostat:nuts_2021_id": "HR050",
+    "eurostat:nuts_2021_level_0": "HR",
+    "eurostat:nuts_2021_level_1": "HR0",
+    "eurostat:nuts_2021_level_2": "HR05",
+    "eurostat:nuts_2021_level_3": "HR050",
+    "eurostat:population": 766824,
+    "eurostat:population_year": 2022,
+    "eurostat:urban_type": "1",
+    "geom:area": 0.07423106229649984,
+    "geom:area_square_m": 639800834.429722,
     "geom:bbox": "15.773189,45.613968,16.239620,45.969059",
     "geom:latitude": 45.80989583890302,
     "geom:longitude": 16.000017758764464,
@@ -30,6 +44,9 @@
     "mz:min_zoom": 9,
     "name:ara_x_preferred": [
       "مقاطعة زغرب"
+    ],
+    "name:aze_x_preferred": [
+      "Zaqreb jupaniyası"
     ],
     "name:bar_x_preferred": [
       "Gspanschoft Zagreb"
@@ -57,6 +74,9 @@
     ],
     "name:cor_x_preferred": [
       "Konteth Zagreb"
+    ],
+    "name:cym_x_preferred": [
+      "Sir Zagreb"
     ],
     "name:dan_x_preferred": [
       "Zagreb County"
@@ -120,6 +140,9 @@
     "name:hun_x_preferred": [
       "Zágráb megye"
     ],
+    "name:hyw_x_preferred": [
+      "Զաղրէպ"
+    ],
     "name:ind_x_preferred": [
       "Kabupaten Zagreb"
     ],
@@ -174,6 +197,9 @@
     "name:nob_x_variant": [
       "Zagreb"
     ],
+    "name:oss_x_preferred": [
+      "Загребы жупани"
+    ],
     "name:pnb_x_preferred": [
       "ضلع زاغرب"
     ],
@@ -188,6 +214,9 @@
     ],
     "name:ron_x_preferred": [
       "Cantonul Zagreb"
+    ],
+    "name:ron_x_variant": [
+      "cantonul Zagreb"
     ],
     "name:rus_x_preferred": [
       "Загребская жупания"
@@ -206,6 +235,12 @@
     ],
     "name:sme_x_preferred": [
       "Zagreb guovlu"
+    ],
+    "name:smn_x_preferred": [
+      "Zagreb pirrâdâhkodde"
+    ],
+    "name:sms_x_preferred": [
+      "Zagreb"
     ],
     "name:spa_x_preferred": [
       "Zagreb"
@@ -231,6 +266,9 @@
     "name:tha_x_preferred": [
       "ซาเกร็บ"
     ],
+    "name:tha_x_variant": [
+      "เทศมณฑลซาเกร็บ"
+    ],
     "name:tur_x_preferred": [
       "Zagreb Bölgesi"
     ],
@@ -245,6 +283,9 @@
     ],
     "name:war_x_preferred": [
       "Zagreb"
+    ],
+    "name:wuu_x_preferred": [
+      "萨格勒布县"
     ],
     "name:zho_x_preferred": [
       "薩格勒布縣"
@@ -322,8 +363,8 @@
     "src:geom": "quattroshapes",
     "src:geom_alt": [],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2011-03-31",
+    "src:population": "eurostat",
+    "src:population_date": "2022",
     "statoids:area_km": "641",
     "statoids:area_mi": "247",
     "statoids:as_of_date": "2011-03-31",
@@ -344,16 +385,23 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
+      "eurostat:nuts_2021_id": "HR050",
       "fips:code": "HR21",
       "gn:id": 3337532,
       "gp:id": 20070170,
       "hasc:id": "HR.GZ",
+      "iso:code": "HR-21",
       "iso:id": "HR-21",
+      "qs:local_id": "21",
       "unlc:id": "HR-21",
       "wd:id": "Q27038"
     },
+    "wof:concordances_official": "qs:local_id",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "HR",
-    "wof:created": 1652218027,
+    "wof:created": 1744916914,
     "wof:geomhash": "58ac2e9b56149cd95ae5eb6a9e37309a",
     "wof:hierarchy": [
       {
@@ -370,12 +418,12 @@
       "hrv",
       "ita"
     ],
-    "wof:lastmodified": 1652218027,
+    "wof:lastmodified": 1744916914,
     "wof:name": "Grad Zagreb",
     "wof:parent_id": 85633229,
     "wof:placetype": "region",
     "wof:placetype_local": "city",
-    "wof:population": 790017,
+    "wof:population": 766824,
     "wof:population_rank": 11,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "GZ",

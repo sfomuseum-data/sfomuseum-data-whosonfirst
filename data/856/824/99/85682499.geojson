@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.1180169660920001,
-    "geom:area_square_m": 888335924.972998,
+    "eurostat:country_code": "DE",
+    "eurostat:level_code": "1",
+    "eurostat:name_latin": "Berlin",
+    "eurostat:name_local": "Berlin",
+    "eurostat:nuts_2021_id": "DE3",
+    "eurostat:nuts_2021_level_0": "DE",
+    "eurostat:nuts_2021_level_1": "DE3",
+    "eurostat:population": 3677472,
+    "eurostat:population_year": 2022,
+    "geom:area": 0.11801696609200016,
+    "geom:area_square_m": 888335924.973041,
     "geom:bbox": "13.088333,52.338242,13.760469,52.674917",
     "geom:latitude": 52.50152680198007,
     "geom:longitude": 13.401858898704823,
@@ -55,6 +64,9 @@
     "name:ang_x_preferred": [
       "Berlin"
     ],
+    "name:anp_x_preferred": [
+      "बर्लिन"
+    ],
     "name:ara_x_preferred": [
       "برلين"
     ],
@@ -64,6 +76,9 @@
     "name:arg_x_preferred": [
       "Berlín"
     ],
+    "name:ary_x_preferred": [
+      "بيرلين"
+    ],
     "name:arz_x_preferred": [
       "بيرلين"
     ],
@@ -72,6 +87,12 @@
     ],
     "name:ava_x_preferred": [
       "Берлин"
+    ],
+    "name:avk_x_preferred": [
+      "Berlin"
+    ],
+    "name:awa_x_preferred": [
+      "बर्लिन"
     ],
     "name:aym_x_preferred": [
       "Berlin"
@@ -86,6 +107,9 @@
       "Берлин"
     ],
     "name:bam_x_preferred": [
+      "Berlin"
+    ],
+    "name:ban_x_preferred": [
       "Berlin"
     ],
     "name:bar_x_preferred": [
@@ -148,6 +172,9 @@
     "name:che_x_preferred": [
       "Берлин"
     ],
+    "name:chr_x_preferred": [
+      "ᏆᎵᏂ"
+    ],
     "name:chu_x_preferred": [
       "Бєрлинъ"
     ],
@@ -170,6 +197,9 @@
       "Berlëno"
     ],
     "name:cym_x_preferred": [
+      "Berlin"
+    ],
+    "name:dag_x_preferred": [
       "Berlin"
     ],
     "name:dan_x_preferred": [
@@ -258,6 +288,12 @@
     ],
     "name:glv_x_preferred": [
       "Berleen"
+    ],
+    "name:got_x_preferred": [
+      "𐌱𐌰𐌹𐍂𐌻𐌹𐌽"
+    ],
+    "name:gpe_x_preferred": [
+      "Berlin"
     ],
     "name:grn_x_preferred": [
       "Berlin"
@@ -370,6 +406,9 @@
     "name:kbp_x_preferred": [
       "Pɛrɩlɛɛ"
     ],
+    "name:khm_x_preferred": [
+      "ប៊ែរឡាំង"
+    ],
     "name:kin_x_preferred": [
       "Berlin"
     ],
@@ -400,6 +439,9 @@
     "name:lad_x_preferred": [
       "Berlin"
     ],
+    "name:lao_x_preferred": [
+      "ເບີລິນ"
+    ],
     "name:lat_x_preferred": [
       "Berolinum"
     ],
@@ -423,6 +465,9 @@
     ],
     "name:lit_x_preferred": [
       "Berlynas"
+    ],
+    "name:lld_x_preferred": [
+      "Berlin"
     ],
     "name:lmo_x_preferred": [
       "Berlin"
@@ -451,8 +496,14 @@
     "name:mar_x_preferred": [
       "बर्लिन"
     ],
+    "name:mdf_x_preferred": [
+      "Бэрлин"
+    ],
     "name:mhr_x_preferred": [
       "Берлин"
+    ],
+    "name:min_x_preferred": [
+      "Berlin"
     ],
     "name:mkd_x_preferred": [
       "Берлин"
@@ -462,6 +513,9 @@
     ],
     "name:mlt_x_preferred": [
       "Berlin"
+    ],
+    "name:mni_x_preferred": [
+      "ꯕꯔꯂꯤꯟ"
     ],
     "name:mon_x_preferred": [
       "Берлин"
@@ -499,6 +553,9 @@
     "name:nau_x_preferred": [
       "Berlin"
     ],
+    "name:nav_x_preferred": [
+      "Tséítłʼiní Anííkaadii"
+    ],
     "name:nds_x_preferred": [
       "Berlin"
     ],
@@ -520,6 +577,9 @@
     "name:nov_x_preferred": [
       "Berlin"
     ],
+    "name:nqo_x_preferred": [
+      "ߓߍߙߑߟߍ߲߫"
+    ],
     "name:nrm_x_preferred": [
       "Bèrlîn"
     ],
@@ -540,6 +600,9 @@
     ],
     "name:oss_x_preferred": [
       "Берлин"
+    ],
+    "name:pag_x_preferred": [
+      "Berlin"
     ],
     "name:pam_x_preferred": [
       "Berlin"
@@ -622,6 +685,9 @@
     "name:sgs_x_preferred": [
       "Berlīns"
     ],
+    "name:shi_x_preferred": [
+      "Brlin"
+    ],
     "name:sin_x_preferred": [
       "බර්ලිනය"
     ],
@@ -634,8 +700,14 @@
     "name:sme_x_preferred": [
       "Berlin"
     ],
+    "name:smn_x_preferred": [
+      "Berlin"
+    ],
     "name:smo_x_preferred": [
       "Perelini"
+    ],
+    "name:sms_x_preferred": [
+      "Berliin"
     ],
     "name:snd_x_preferred": [
       "برلن"
@@ -705,6 +777,12 @@
     ],
     "name:tir_x_preferred": [
       "በረሊን"
+    ],
+    "name:tir_x_variant": [
+      "በርሊን"
+    ],
+    "name:ton_x_preferred": [
+      "Pēlini"
     ],
     "name:tpi_x_preferred": [
       "Berlin"
@@ -868,8 +946,8 @@
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2011-05-09",
+    "src:population": "eurostat",
+    "src:population_date": "2022",
     "statoids:area_km": "892",
     "statoids:area_mi": "344",
     "statoids:as_of_date": "2011-05-09",
@@ -893,23 +971,30 @@
       101748799
     ],
     "wof:concordances": {
+      "de-bkg:id": "11",
       "digitalenvoy:metro_code": 276006,
       "digitalenvoy:region_code": 10383,
+      "eurostat:nuts_2021_id": "DE3",
       "fips:code": "GM16",
       "gn:id": 2950157,
       "gp:id": 2345496,
       "hasc:id": "DE.BE",
+      "iso:code": "DE-BE",
       "iso:id": "DE-BE",
       "unlc:id": "DE-BE",
       "wd:id": "Q64"
     },
+    "wof:concordances_official": "de-bkg:id",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:coterminous": [
       101748799,
       101909779,
       1377694153
     ],
     "wof:country": "DE",
-    "wof:created": 1652218016,
+    "wof:created": 1747347186,
     "wof:geom_alt": [
       "quattroshapes"
     ],
@@ -928,7 +1013,7 @@
     "wof:lang_x_spoken": [
       "deu"
     ],
-    "wof:lastmodified": 1652218016,
+    "wof:lastmodified": 1747347186,
     "wof:name": "Berlin",
     "wof:parent_id": 85633111,
     "wof:placetype": "region",
@@ -936,7 +1021,7 @@
       "county"
     ],
     "wof:placetype_local": "state",
-    "wof:population": 3292365,
+    "wof:population": 3677472,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "BE",

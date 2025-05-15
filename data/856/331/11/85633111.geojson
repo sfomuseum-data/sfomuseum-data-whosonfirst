@@ -4,15 +4,26 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 45.871487943043434,
-    "geom:area_square_m": 355919563615.0006,
+    "eurostat:country_code": "DE",
+    "eurostat:level_code": "0",
+    "eurostat:name_latin": "Deutschland",
+    "eurostat:name_local": "Deutschland",
+    "eurostat:nuts_2021_id": "DE",
+    "eurostat:nuts_2021_level_0": "DE",
+    "eurostat:population": 83237124,
+    "eurostat:population_year": 2022,
+    "geom:area": 45.87148794304352,
+    "geom:area_square_m": 355919563614.9986,
     "geom:bbox": "5.866250,47.270124,15.041816,55.058384",
-    "geom:latitude": 51.11021036898619,
-    "geom:longitude": 10.392331242994738,
+    "geom:latitude": 51.110210368986166,
+    "geom:longitude": 10.392331242994741,
     "gn:population": 81802257,
     "iso:country": "DE",
     "itu:country_code": [
       "49"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "DE"
@@ -57,11 +68,17 @@
     "name:amh_x_preferred": [
       "ጀርመን"
     ],
+    "name:ami_x_preferred": [
+      "Germany"
+    ],
     "name:ang_x_preferred": [
       "Þēodscland"
     ],
     "name:ang_x_variant": [
       "Þēodiscland"
+    ],
+    "name:anp_x_preferred": [
+      "जर्मनी"
     ],
     "name:ara_x_preferred": [
       "ألمانيا"
@@ -78,6 +95,9 @@
     "name:arg_x_variant": [
       "Alemaña"
     ],
+    "name:arq_x_preferred": [
+      "ألمانيا"
+    ],
     "name:ary_x_preferred": [
       "ألمانيا"
     ],
@@ -90,11 +110,23 @@
     "name:asm_x_preferred": [
       "জাৰ্মানি"
     ],
+    "name:asm_x_variant": [
+      "জাৰ্মানী"
+    ],
     "name:ast_x_preferred": [
       "Alemaña"
     ],
+    "name:atj_x_preferred": [
+      "Tcariman aski"
+    ],
     "name:ava_x_preferred": [
       "Алмания"
+    ],
+    "name:avk_x_preferred": [
+      "Germana"
+    ],
+    "name:awa_x_preferred": [
+      "जर्मनी"
     ],
     "name:aym_x_preferred": [
       "Alimaña"
@@ -221,6 +253,12 @@
     ],
     "name:cym_x_preferred": [
       "Yr Almaen"
+    ],
+    "name:cym_x_variant": [
+      "yr Almaen"
+    ],
+    "name:dag_x_preferred": [
+      "Germany"
     ],
     "name:dan_x_preferred": [
       "Tyskland"
@@ -361,11 +399,20 @@
     "name:glv_x_preferred": [
       "Yn Ghermaan"
     ],
+    "name:glv_x_variant": [
+      "yn Ghermaan"
+    ],
     "name:gom_x_preferred": [
       "जर्मनी"
     ],
     "name:got_x_preferred": [
       "𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐌰𐌻𐌰𐌽𐌳"
+    ],
+    "name:gpe_x_preferred": [
+      "Germany"
+    ],
+    "name:grc_x_preferred": [
+      "Γερμανία"
     ],
     "name:grn_x_preferred": [
       "Alemaña"
@@ -451,6 +498,9 @@
     "name:inh_x_preferred": [
       "Германи"
     ],
+    "name:ipk_x_preferred": [
+      "Germany"
+    ],
     "name:isl_x_preferred": [
       "Þýskaland"
     ],
@@ -503,6 +553,9 @@
     "name:kbp_x_preferred": [
       "Caama"
     ],
+    "name:kcg_x_preferred": [
+      "Jami̱ni"
+    ],
     "name:khm_x_preferred": [
       "អាល្លឺម៉ង់"
     ],
@@ -533,6 +586,9 @@
     ],
     "name:krc_x_preferred": [
       "Германия"
+    ],
+    "name:krj_x_preferred": [
+      "Alemanya"
     ],
     "name:ksh_x_preferred": [
       "Dütschland"
@@ -571,6 +627,9 @@
     "name:lij_x_preferred": [
       "Germania"
     ],
+    "name:lij_x_variant": [
+      "Germània"
+    ],
     "name:lim_x_preferred": [
       "Duutsjlandj"
     ],
@@ -585,6 +644,9 @@
     ],
     "name:liv_x_preferred": [
       "Saksāmō"
+    ],
+    "name:lld_x_preferred": [
+      "Germania"
     ],
     "name:lmo_x_preferred": [
       "Germania"
@@ -613,6 +675,9 @@
     "name:lzh_x_preferred": [
       "德國"
     ],
+    "name:mad_x_preferred": [
+      "Jerman"
+    ],
     "name:mai_x_preferred": [
       "जर्मनी"
     ],
@@ -632,6 +697,9 @@
     "name:mdf_x_preferred": [
       "Германие мастор"
     ],
+    "name:mdf_x_variant": [
+      "Дойчмастор"
+    ],
     "name:mhr_x_preferred": [
       "Немыч Эл"
     ],
@@ -647,8 +715,14 @@
     "name:mlt_x_preferred": [
       "Ġermanja"
     ],
+    "name:mni_x_preferred": [
+      "ꯖꯔꯃꯦꯅꯤ"
+    ],
     "name:mon_x_preferred": [
       "Герман"
+    ],
+    "name:mos_x_preferred": [
+      "Germany"
     ],
     "name:mri_x_preferred": [
       "Tiamana"
@@ -874,6 +948,12 @@
     "name:sgs_x_preferred": [
       "Vuokītėjė"
     ],
+    "name:shi_x_preferred": [
+      "Lalman"
+    ],
+    "name:shn_x_preferred": [
+      "မိူင်းၵျႃႇမၼီႇ"
+    ],
     "name:sin_x_preferred": [
       "ජර්මනිය"
     ],
@@ -892,11 +972,17 @@
     "name:sme_x_variant": [
       "Duiskka"
     ],
+    "name:smj_x_preferred": [
+      "Tusklánnda"
+    ],
     "name:smn_x_preferred": [
       "Saksa"
     ],
     "name:smo_x_preferred": [
       "Siamani"
+    ],
+    "name:sms_x_preferred": [
+      "Saksslajânnam"
     ],
     "name:sna_x_preferred": [
       "Germany"
@@ -986,6 +1072,9 @@
     "name:tat_x_preferred": [
       "Алмания"
     ],
+    "name:tay_x_preferred": [
+      "Germany"
+    ],
     "name:tcy_x_preferred": [
       "ಜರ್ಮನಿ"
     ],
@@ -1015,6 +1104,9 @@
     "name:tir_x_preferred": [
       "ጀርመን"
     ],
+    "name:tok_x_preferred": [
+      "ma Tosi"
+    ],
     "name:ton_x_preferred": [
       "Siamane"
     ],
@@ -1023,6 +1115,9 @@
     ],
     "name:tpi_x_variant": [
       "Siaman"
+    ],
+    "name:trv_x_preferred": [
+      "Germany"
     ],
     "name:tso_x_preferred": [
       "Jarimani"
@@ -1075,7 +1170,8 @@
       "Germania"
     ],
     "name:vec_x_variant": [
-      "Xermanja"
+      "Xermanja",
+      "Zermània"
     ],
     "name:vep_x_preferred": [
       "Saksanma"
@@ -1301,7 +1397,8 @@
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "eurostat",
+    "src:population_date": "2022",
     "statoids:dial": "49",
     "statoids:ds": "D",
     "statoids:fifa": "GER",
@@ -1331,6 +1428,7 @@
     "wof:concordances": {
       "dbp:id": "Germany",
       "digitalenvoy:country_code": 276,
+      "eurostat:nuts_2021_id": "DE",
       "fb:id": "en.germany",
       "fifa:id": "GER",
       "fips:code": "GM",
@@ -1340,6 +1438,7 @@
       "hasc:id": "DE",
       "icao:code": "D",
       "ioc:id": "GER",
+      "iso:code": "DE",
       "itu:id": "D",
       "loc:id": "n80125931",
       "m49:code": "276",
@@ -1354,9 +1453,10 @@
       "wk:page": "Germany",
       "wmo:id": "DL"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "DE",
     "wof:country_alpha3": "DEU",
-    "wof:created": 1652217938,
+    "wof:created": 1747347191,
     "wof:geom_alt": [
       "naturalearth-display-terrestrial-zoom6",
       "de-bkg-reversegeo",
@@ -1377,11 +1477,11 @@
     "wof:lang_x_spoken": [
       "deu"
     ],
-    "wof:lastmodified": 1652217938,
+    "wof:lastmodified": 1747347191,
     "wof:name": "Germany",
     "wof:parent_id": 102191581,
     "wof:placetype": "country",
-    "wof:population": 81292400,
+    "wof:population": 83237124,
     "wof:population_rank": 16,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "DE",

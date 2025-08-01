@@ -9,11 +9,11 @@
     "date:inception_upper": "1850-04-15",
     "edtf:cessation": "",
     "edtf:inception": "1850-04-15",
-    "geom:area": 0.06140786112650015,
-    "geom:area_square_m": 600307527.98061,
+    "geom:area": 0.061407861126500186,
+    "geom:area_square_m": 600307527.980684,
     "geom:bbox": "-123.173825,37.639830,-122.281780,37.929824",
-    "geom:latitude": 37.75971500351901,
-    "geom:longitude": -122.69397562197962,
+    "geom:latitude": 37.759715003519005,
+    "geom:longitude": -122.69397562197963,
     "gn:elevation": 16,
     "gn:latitude": 37.77493,
     "gn:longitude": -122.41942,
@@ -32,8 +32,14 @@
     "name:afr_x_preferred": [
       "San Francisco"
     ],
+    "name:aka_x_preferred": [
+      "San Francisco"
+    ],
     "name:amh_x_preferred": [
       "ሳን ፍራንሲስኰ"
+    ],
+    "name:ang_x_preferred": [
+      "San Francisco"
     ],
     "name:ara_x_preferred": [
       "سان فرانسيسكو"
@@ -57,6 +63,9 @@
       "Сан-Франциско"
     ],
     "name:bam_x_preferred": [
+      "San Francisco"
+    ],
+    "name:ban_x_preferred": [
       "San Francisco"
     ],
     "name:bar_x_preferred": [
@@ -122,7 +131,13 @@
     "name:cos_x_preferred": [
       "San Francisco"
     ],
+    "name:crh_x_preferred": [
+      "San Frantsisko"
+    ],
     "name:cym_x_preferred": [
+      "San Francisco"
+    ],
+    "name:dag_x_preferred": [
       "San Francisco"
     ],
     "name:dan_x_preferred": [
@@ -223,6 +238,12 @@
     "name:fra_x_preferred": [
       "San Francisco"
     ],
+    "name:frp_x_preferred": [
+      "San Francisco"
+    ],
+    "name:frr_x_preferred": [
+      "San Francisco"
+    ],
     "name:fry_x_preferred": [
       "San Fransisko"
     ],
@@ -239,6 +260,9 @@
       "San Francisco"
     ],
     "name:glv_x_preferred": [
+      "San Francisco"
+    ],
+    "name:grn_x_preferred": [
       "San Francisco"
     ],
     "name:gsw_x_preferred": [
@@ -316,6 +340,9 @@
     "name:kan_x_preferred": [
       "ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ"
     ],
+    "name:kas_x_preferred": [
+      "سین فرٛانٛسِکو"
+    ],
     "name:kat_x_preferred": [
       "სან-ფრანცისკო"
     ],
@@ -361,6 +388,9 @@
     "name:lit_x_preferred": [
       "San Fransiskas"
     ],
+    "name:lld_x_preferred": [
+      "San Francisco"
+    ],
     "name:lmo_x_preferred": [
       "San Francisco"
     ],
@@ -386,6 +416,9 @@
       "Сан Франциско"
     ],
     "name:mlg_x_preferred": [
+      "San Francisco"
+    ],
+    "name:mlt_x_preferred": [
       "San Francisco"
     ],
     "name:mon_x_preferred": [
@@ -499,10 +532,16 @@
     "name:sah_x_preferred": [
       "Сан Франсиско"
     ],
+    "name:sat_x_preferred": [
+      "ᱥᱟᱱ ᱯᱷᱨᱟᱱᱥᱤᱥᱠᱳ"
+    ],
     "name:scn_x_preferred": [
       "San Franciscu"
     ],
     "name:sco_x_preferred": [
+      "San Francisco"
+    ],
+    "name:shi_x_preferred": [
       "San Francisco"
     ],
     "name:sin_x_preferred": [
@@ -512,6 +551,9 @@
       "San Francisco"
     ],
     "name:slv_x_preferred": [
+      "San Francisco"
+    ],
+    "name:smn_x_preferred": [
       "San Francisco"
     ],
     "name:som_x_preferred": [
@@ -556,6 +598,9 @@
     "name:tel_x_preferred": [
       "శాన్ ఫ్రాన్సిస్కో"
     ],
+    "name:tgk_x_preferred": [
+      "Сан-Франсиско"
+    ],
     "name:tgl_x_preferred": [
       "San Francisco"
     ],
@@ -565,6 +610,9 @@
     "name:tha_x_preferred": [
       "ซานฟรานซิสโก"
     ],
+    "name:tok_x_preferred": [
+      "ma tomo Sanpansiko"
+    ],
     "name:tuk_x_preferred": [
       "San-Fransisko"
     ],
@@ -573,6 +621,9 @@
     ],
     "name:twi_x_preferred": [
       "San Francisco"
+    ],
+    "name:udm_x_preferred": [
+      "Сан-Франциско"
     ],
     "name:uig_x_preferred": [
       "San Fransisko"
@@ -749,17 +800,19 @@
     "qs:source": "AUS Census",
     "qs:type": "G4110",
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "mapzen",
       "quattroshapes_pg"
     ],
     "src:lbl_centroid": "mz",
-    "src:population": "geonames",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "src:tourist_centroid": "mz",
     "tourist:latitude": 37.808766,
     "tourist:longitude": -122.409988,
+    "uscensus:population": 808988,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -778,11 +831,13 @@
       "ne:id": 1159151479,
       "nyt:id": 9223372036854776000,
       "qs_pg:id": 240388,
+      "uscensus:geoid": "0667000",
       "wd:id": "Q62",
       "wk:page": "San Francisco"
     },
+    "wof:concordances_official": "uscensus:geoid",
     "wof:country": "US",
-    "wof:created": 1659747961,
+    "wof:created": 1754007709,
     "wof:geom_alt": [
       "mapzen",
       "quattroshapes_pg",
@@ -802,12 +857,12 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1659747961,
+    "wof:lastmodified": 1754007709,
     "wof:megacity": 1,
     "wof:name": "San Francisco",
     "wof:parent_id": 102087579,
     "wof:placetype": "locality",
-    "wof:population": 805235,
+    "wof:population": 808988,
     "wof:population_rank": 11,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 1,

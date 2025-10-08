@@ -4,16 +4,19 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 1.6202727012845013,
-    "geom:area_square_m": 19112152462.737328,
+    "geom:area": 1.620272701284501,
+    "geom:area_square_m": 19112152462.734943,
     "geom:bbox": "-180.000000,-21.738659,180.000000,-12.457111",
-    "geom:latitude": -17.442913913472562,
-    "geom:longitude": 160.60367963076627,
+    "geom:latitude": -17.442913913472566,
+    "geom:longitude": 160.6036796307663,
     "gn:id": "",
     "gn:population": 875983,
     "iso:country": "FJ",
     "itu:country_code": [
       "679"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "FJ"
@@ -28,6 +31,9 @@
     "mz:is_current": 1,
     "mz:max_zoom": 8,
     "mz:min_zoom": 3,
+    "name:abk_x_preferred": [
+      "Фиџьи"
+    ],
     "name:ace_x_preferred": [
       "Fiji"
     ],
@@ -37,17 +43,26 @@
     "name:aka_x_preferred": [
       "Figyi"
     ],
+    "name:aka_x_variant": [
+      "Fiji"
+    ],
     "name:als_x_preferred": [
       "Fidschi"
     ],
     "name:amh_x_preferred": [
       "ፊጂ"
     ],
+    "name:ami_x_preferred": [
+      "Fiji"
+    ],
     "name:ang_x_preferred": [
       "Ficgīege"
     ],
     "name:ang_x_variant": [
       "Ficgiege"
+    ],
+    "name:anp_x_preferred": [
+      "फीजी"
     ],
     "name:ara_x_preferred": [
       "فيجي"
@@ -66,6 +81,9 @@
     ],
     "name:ast_x_variant": [
       "Islles Fixi"
+    ],
+    "name:avk_x_preferred": [
+      "Vitia"
     ],
     "name:azb_x_preferred": [
       "فیجی"
@@ -93,6 +111,9 @@
     ],
     "name:bho_x_preferred": [
       "फिजी"
+    ],
+    "name:bis_x_preferred": [
+      "Fiji"
     ],
     "name:bod_x_preferred": [
       "ཧྥི་ཇི།"
@@ -133,6 +154,9 @@
     "name:chv_x_preferred": [
       "Фиджи"
     ],
+    "name:chy_x_preferred": [
+      "Fiji"
+    ],
     "name:ckb_x_preferred": [
       "فیجی"
     ],
@@ -146,6 +170,9 @@
       "Ffiji"
     ],
     "name:cym_x_variant": [
+      "Fiji"
+    ],
+    "name:dag_x_preferred": [
       "Fiji"
     ],
     "name:dan_x_preferred": [
@@ -281,6 +308,9 @@
     ],
     "name:gom_x_preferred": [
       "फिजी"
+    ],
+    "name:gpe_x_preferred": [
+      "Fiji"
     ],
     "name:grn_x_preferred": [
       "Fíji"
@@ -446,6 +476,9 @@
     "name:lit_x_preferred": [
       "Fidžis"
     ],
+    "name:lld_x_preferred": [
+      "Fiji"
+    ],
     "name:lmo_x_preferred": [
       "Figi"
     ],
@@ -470,6 +503,9 @@
     "name:mar_x_preferred": [
       "फिजी"
     ],
+    "name:mhr_x_preferred": [
+      "Фиджи"
+    ],
     "name:min_x_preferred": [
       "Fiji"
     ],
@@ -484,6 +520,9 @@
     ],
     "name:mlt_x_preferred": [
       "Fiġi"
+    ],
+    "name:mni_x_preferred": [
+      "ꯐꯤꯖꯤ"
     ],
     "name:mon_x_preferred": [
       "Фижи"
@@ -593,6 +632,9 @@
     "name:pus_x_preferred": [
       "فېجي"
     ],
+    "name:pus_x_variant": [
+      "فجي جمهوريت"
+    ],
     "name:que_x_preferred": [
       "Phiyi"
     ],
@@ -629,6 +671,9 @@
     "name:sgs_x_preferred": [
       "Fėdžis"
     ],
+    "name:shn_x_preferred": [
+      "မိူင်းၾီႇၵျီႇ"
+    ],
     "name:sin_x_preferred": [
       "ෆීජි"
     ],
@@ -644,8 +689,14 @@
     "name:sme_x_preferred": [
       "Fiži"
     ],
+    "name:smn_x_preferred": [
+      "Fidži"
+    ],
     "name:smo_x_preferred": [
       "Fiti"
+    ],
+    "name:sms_x_preferred": [
+      "Fidži"
     ],
     "name:sna_x_preferred": [
       "Fiji"
@@ -707,6 +758,9 @@
     "name:tat_x_variant": [
       "Fiji"
     ],
+    "name:tay_x_preferred": [
+      "Fiji"
+    ],
     "name:tel_x_preferred": [
       "ఫిజీ"
     ],
@@ -732,6 +786,9 @@
     "name:tir_x_preferred": [
       "ፊጂ"
     ],
+    "name:tok_x_preferred": [
+      "ma Pisi"
+    ],
     "name:ton_x_preferred": [
       "Fisi"
     ],
@@ -741,11 +798,17 @@
     "name:tpi_x_preferred": [
       "Fiji"
     ],
+    "name:trv_x_preferred": [
+      "Fiji"
+    ],
     "name:tuk_x_preferred": [
       "Fiji"
     ],
     "name:tur_x_preferred": [
       "Fiji"
+    ],
+    "name:udm_x_preferred": [
+      "Фиджи"
     ],
     "name:uig_x_preferred": [
       "فىجى"
@@ -771,6 +834,9 @@
     ],
     "name:vec_x_preferred": [
       "Fiġi"
+    ],
+    "name:vec_x_variant": [
+      "Fizi"
     ],
     "name:vep_x_preferred": [
       "Fidži"
@@ -980,7 +1046,8 @@
       "naturalearth"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "679",
     "statoids:ds": "FJI",
     "statoids:fifa": "FIJ",
@@ -1018,6 +1085,7 @@
       "hasc:id": "FJ",
       "icao:code": "DQ",
       "ioc:id": "FIJ",
+      "iso:code": "FJ",
       "itu:id": "FJI",
       "m49:code": "242",
       "marc:id": "fj",
@@ -1031,9 +1099,10 @@
       "wk:page": "Fiji",
       "wmo:id": "FJ"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "FJ",
     "wof:country_alpha3": "FJI",
-    "wof:created": 1660002177,
+    "wof:created": 1759960922,
     "wof:geom_alt": [
       "naturalearth-display-terrestrial-zoom6",
       "naturalearth"
@@ -1056,12 +1125,12 @@
       "hif",
       "fij"
     ],
-    "wof:lastmodified": 1660002177,
+    "wof:lastmodified": 1759960923,
     "wof:name": "Fiji",
     "wof:parent_id": 102191583,
     "wof:placetype": "country",
-    "wof:population": 881065,
-    "wof:population_rank": 11,
+    "wof:population": 889953,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "FJ",
     "wof:superseded_by": [],

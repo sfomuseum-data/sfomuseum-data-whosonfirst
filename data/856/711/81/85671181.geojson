@@ -4,8 +4,8 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.5604803410645034,
-    "geom:area_square_m": 6601107121.710375,
+    "geom:area": 0.5604803410645032,
+    "geom:area_square_m": 6601108616.169879,
     "geom:bbox": "174.588878,-21.711114,178.448622,-16.676853",
     "geom:latitude": -17.731542075397822,
     "geom:longitude": 177.76352093725885,
@@ -70,6 +70,9 @@
     "name:fra_x_variant": [
       "division occidentale"
     ],
+    "name:frr_x_preferred": [
+      "Western"
+    ],
     "name:glg_x_preferred": [
       "División Occidental"
     ],
@@ -133,6 +136,9 @@
     "name:por_x_preferred": [
       "Divisão do Oeste"
     ],
+    "name:ron_x_preferred": [
+      "Diviziunea Occidentală"
+    ],
     "name:rus_x_preferred": [
       "Западный округ"
     ],
@@ -147,6 +153,9 @@
     ],
     "name:tam_x_preferred": [
       "மேற்கு  டிவிசன்"
+    ],
+    "name:tam_x_variant": [
+      "மேற்கு டிவிசன்"
     ],
     "name:tel_x_preferred": [
       "పశ్చిమ డివిజన్"
@@ -276,14 +285,16 @@
       "gn:id": 2194371,
       "gp:id": 2345338,
       "hasc:id": "FJ.WE",
+      "iso:code": "FJ-W",
       "iso:id": "FJ-W",
       "qs_pg:id": 901862,
       "unlc:id": "FJ-W",
       "wd:id": "Q1062451",
       "wk:page": "Western Division, Fiji"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "FJ",
-    "wof:created": 1652217955,
+    "wof:created": 1759960927,
     "wof:geomhash": "d112cc03275a7410a495daabd392930e",
     "wof:hierarchy": [
       {
@@ -304,7 +315,7 @@
       "hif",
       "fij"
     ],
-    "wof:lastmodified": 1652217955,
+    "wof:lastmodified": 1759960927,
     "wof:name": "Western",
     "wof:parent_id": 85632755,
     "wof:placetype": "region",

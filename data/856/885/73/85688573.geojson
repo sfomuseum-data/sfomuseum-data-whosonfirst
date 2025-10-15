@@ -7,11 +7,11 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 313.9951335024462,
-    "geom:area_square_m": 1712881940620.9062,
+    "geom:area": 313.99513350244604,
+    "geom:area_square_m": 1712881940620.9116,
     "geom:bbox": "-179.231086,51.175092,179.859681,71.441059",
     "geom:latitude": 63.7429914149101,
-    "geom:longitude": -151.59341834103165,
+    "geom:longitude": -151.5934183410317,
     "iso:country": "US",
     "iso:subdivision": "US-AK",
     "label:eng_x_preferred_longname": [
@@ -58,6 +58,9 @@
     "name:arg_x_preferred": [
       "Alaska"
     ],
+    "name:ary_x_preferred": [
+      "ألاسكا"
+    ],
     "name:arz_x_preferred": [
       "الاسكا"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:bak_x_preferred": [
       "Аляска"
+    ],
+    "name:ban_x_preferred": [
+      "Alaska"
     ],
     "name:bar_x_preferred": [
       "Alaska"
@@ -136,6 +142,12 @@
     "name:che_x_preferred": [
       "Аляска"
     ],
+    "name:chr_x_preferred": [
+      "ᎠᎳᏍᎦ"
+    ],
+    "name:chu_x_preferred": [
+      "Аласка"
+    ],
     "name:chv_x_preferred": [
       "Аляска"
     ],
@@ -151,7 +163,13 @@
     "name:cos_x_preferred": [
       "Alaska"
     ],
+    "name:crh_x_preferred": [
+      "Alâska"
+    ],
     "name:cym_x_preferred": [
+      "Alaska"
+    ],
+    "name:dag_x_preferred": [
       "Alaska"
     ],
     "name:dan_x_preferred": [
@@ -197,6 +215,9 @@
     "name:eus_x_preferred": [
       "Alaska"
     ],
+    "name:ext_x_preferred": [
+      "Alaska"
+    ],
     "name:fao_x_preferred": [
       "Alaska"
     ],
@@ -233,11 +254,17 @@
     "name:glg_x_preferred": [
       "Alasca"
     ],
+    "name:glk_x_preferred": [
+      "آلاسکا"
+    ],
     "name:glv_x_preferred": [
       "Alaska"
     ],
     "name:got_x_preferred": [
       "𐌰𐌻𐌰𐍃𐌺𐌰"
+    ],
+    "name:gpe_x_preferred": [
+      "Alaska"
     ],
     "name:grn_x_preferred": [
       "Alaska"
@@ -286,6 +313,9 @@
     ],
     "name:hye_x_preferred": [
       "Ալյասկա"
+    ],
+    "name:hyw_x_preferred": [
+      "Ալասքա"
     ],
     "name:ibo_x_preferred": [
       "Àláskà"
@@ -377,6 +407,9 @@
     "name:lit_x_preferred": [
       "Aliaska"
     ],
+    "name:lld_x_preferred": [
+      "Alaska"
+    ],
     "name:lmo_x_preferred": [
       "Alaska"
     ],
@@ -412,6 +445,9 @@
     ],
     "name:mlg_x_preferred": [
       "Alaska"
+    ],
+    "name:mni_x_preferred": [
+      "ꯑꯂꯥꯁꯀꯥ"
     ],
     "name:mon_x_preferred": [
       "Аляска"
@@ -491,6 +527,9 @@
     "name:pap_x_preferred": [
       "Alaska"
     ],
+    "name:pcd_x_preferred": [
+      "Alaska"
+    ],
     "name:pih_x_preferred": [
       "Alaska"
     ],
@@ -512,6 +551,9 @@
     "name:por_x_preferred": [
       "Alasca"
     ],
+    "name:pus_x_preferred": [
+      "الاسکا"
+    ],
     "name:que_x_preferred": [
       "Alaska suyu"
     ],
@@ -532,6 +574,9 @@
     ],
     "name:san_x_variant": [
       "अलास्‍का"
+    ],
+    "name:sat_x_preferred": [
+      "ᱟᱞᱟᱥᱠᱟ"
     ],
     "name:scn_x_preferred": [
       "Alaska"
@@ -555,6 +600,12 @@
       "Aljaska"
     ],
     "name:sme_x_preferred": [
+      "Alaska"
+    ],
+    "name:smn_x_preferred": [
+      "Alaska"
+    ],
+    "name:sms_x_preferred": [
       "Alaska"
     ],
     "name:snd_x_preferred": [
@@ -608,8 +659,14 @@
     "name:tha_x_preferred": [
       "รัฐอะแลสกา"
     ],
+    "name:tok_x_preferred": [
+      "ma Alaka"
+    ],
     "name:tuk_x_preferred": [
       "Alýaska"
+    ],
+    "name:tum_x_preferred": [
+      "Alaska"
     ],
     "name:tur_x_preferred": [
       "Alaska"
@@ -768,8 +825,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "1,530,700",
     "statoids:area_mi": "591,007",
     "statoids:as_of_date": "2010-04-01",
@@ -783,6 +840,8 @@
     "statoids:timezone": "-9~",
     "statoids:type": "state",
     "unlc:subdivision": "US-AK",
+    "uscensus:population": 733406,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793
@@ -797,12 +856,18 @@
       "gn:id": 5879092,
       "gp:id": 2347560,
       "hasc:id": "US.AK",
+      "iso:code": "US-AK",
       "iso:id": "US-AK",
       "unlc:id": "US-AK",
+      "uscensus:geoid": "02",
       "wd:id": "Q797"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1652218054,
+    "wof:created": 1760568772,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -823,12 +888,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1652218054,
+    "wof:lastmodified": 1760568772,
     "wof:name": "Alaska",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 710231,
+    "wof:population": 733406,
     "wof:population_rank": 11,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "AK",

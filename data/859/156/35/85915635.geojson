@@ -4,8 +4,8 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.015919273650000457,
-    "geom:area_square_m": 83702757.626464,
+    "geom:area": 0.015919273650000454,
+    "geom:area_square_m": 83702757.626448,
     "geom:bbox": "-147.813844,64.779792,-147.524419,64.878212",
     "geom:latitude": 64.83529763295913,
     "geom:longitude": -147.65325285358858,
@@ -32,6 +32,9 @@
     "name:arg_x_preferred": [
       "Fairbanks"
     ],
+    "name:arz_x_preferred": [
+      "فيربانكس"
+    ],
     "name:ast_x_preferred": [
       "Fairbanks"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bar_x_preferred": [
       "Fairbanks"
+    ],
+    "name:bel_x_preferred": [
+      "Фэрбанкс"
     ],
     "name:ben_x_preferred": [
       "ফেয়ারব্যাংকস"
@@ -64,6 +70,9 @@
     ],
     "name:cha_x_preferred": [
       "Fairbanks"
+    ],
+    "name:che_x_preferred": [
+      "Фербанкс"
     ],
     "name:cor_x_preferred": [
       "Fairbanks"
@@ -146,6 +155,9 @@
     "name:hun_x_preferred": [
       "Fairbanks"
     ],
+    "name:hye_x_preferred": [
+      "Ֆերբանկս"
+    ],
     "name:ido_x_preferred": [
       "Fairbanks"
     ],
@@ -181,6 +193,9 @@
     ],
     "name:lit_x_preferred": [
       "Ferbanksas"
+    ],
+    "name:lld_x_preferred": [
+      "Fairbanks"
     ],
     "name:lmo_x_preferred": [
       "Fairbanks"
@@ -275,6 +290,9 @@
     "name:tha_x_preferred": [
       "แฟร์แบงค์"
     ],
+    "name:tha_x_variant": [
+      "แฟร์แบงส์"
+    ],
     "name:tur_x_preferred": [
       "Fairbanks"
     ],
@@ -307,6 +325,9 @@
     ],
     "name:wuu_x_preferred": [
       "费尔班克斯"
+    ],
+    "name:xmf_x_preferred": [
+      "ფერბენქსი"
     ],
     "name:yue_x_preferred": [
       "費爾班克斯"
@@ -424,13 +445,15 @@
     "qs:source": "AUS Census",
     "qs:type": "G4110",
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "quattroshapes_pg"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "geonames",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
+    "uscensus:population": 31856,
+    "uscensus:population_date": "2023",
     "wd:elevation": 136,
     "wd:latitude": 64.843611,
     "wd:longitude": -147.723056,
@@ -451,11 +474,13 @@
       "gp:id": 2401279,
       "nyt:id": "60749658483452254111",
       "qs_pg:id": 818758,
+      "uscensus:geoid": "0224230",
       "wd:id": "Q79638",
       "wk:page": "Fairbanks, Alaska"
     },
+    "wof:concordances_official": "uscensus:geoid",
     "wof:country": "US",
-    "wof:created": 1652217966,
+    "wof:created": 1760568700,
     "wof:geom_alt": [
       "quattroshapes_pg"
     ],
@@ -473,12 +498,12 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1652217966,
+    "wof:lastmodified": 1760568700,
     "wof:megacity": 0,
     "wof:name": "Fairbanks",
     "wof:parent_id": 102081397,
     "wof:placetype": "locality",
-    "wof:population": 31535,
+    "wof:population": 31856,
     "wof:population_rank": 7,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 3,

@@ -7,10 +7,10 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 2.460704079971997,
-    "geom:area_square_m": 28393131878.23986,
+    "geom:area": 2.4607040799719972,
+    "geom:area_square_m": 28393131878.23932,
     "geom:bbox": "-178.443593,18.865460,-154.755792,28.517269",
-    "geom:latitude": 20.97884704288033,
+    "geom:latitude": 20.97884704288032,
     "geom:longitude": -158.06484077102314,
     "iso:country": "US",
     "iso:subdivision": "US-HI",
@@ -46,6 +46,9 @@
     "name:amh_x_preferred": [
       "ሃዋኢ"
     ],
+    "name:ami_x_preferred": [
+      "Hawai"
+    ],
     "name:ang_x_preferred": [
       "Hawaii"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:arg_x_preferred": [
       "Hawaii"
+    ],
+    "name:ary_x_preferred": [
+      "هاواي"
     ],
     "name:arz_x_preferred": [
       "هاواى"
@@ -75,6 +81,9 @@
     ],
     "name:bak_x_preferred": [
       "Гавайҙар"
+    ],
+    "name:ban_x_preferred": [
+      "Hawaii"
     ],
     "name:bar_x_preferred": [
       "Hawaii"
@@ -133,8 +142,14 @@
     "name:che_x_preferred": [
       "Гавайи"
     ],
+    "name:chr_x_preferred": [
+      "ᎭᏩᏱ"
+    ],
     "name:chv_x_preferred": [
       "Гавайи"
+    ],
+    "name:chy_x_preferred": [
+      "Hawaii"
     ],
     "name:ckb_x_preferred": [
       "ھاوایی"
@@ -145,7 +160,13 @@
     "name:cos_x_preferred": [
       "Hawaii"
     ],
+    "name:crh_x_preferred": [
+      "Gavayi"
+    ],
     "name:cym_x_preferred": [
+      "Hawaii"
+    ],
+    "name:dag_x_preferred": [
       "Hawaii"
     ],
     "name:dan_x_preferred": [
@@ -238,6 +259,9 @@
     "name:got_x_preferred": [
       "𐌷𐌰𐍅𐌰𐌾𐌴𐌹"
     ],
+    "name:gpe_x_preferred": [
+      "Hawaii"
+    ],
     "name:grn_x_preferred": [
       "Havái"
     ],
@@ -270,7 +294,8 @@
     "name:haw_x_variant": [
       "Ka Pae ʻĀina o Hawaiʻi",
       "Ka Pae Moku o Hawaiʻi",
-      "Ke Aupuni Mōʻī o Hawaiʻi"
+      "Ke Aupuni Mōʻī o Hawaiʻi",
+      "Hawaiʻi"
     ],
     "name:hbs_x_preferred": [
       "Havaji"
@@ -350,6 +375,9 @@
     "name:kbp_x_preferred": [
       "Hawayii"
     ],
+    "name:khm_x_preferred": [
+      "ហាវ៉ៃ"
+    ],
     "name:kir_x_preferred": [
       "Гавайи"
     ],
@@ -383,6 +411,9 @@
     "name:lit_x_preferred": [
       "Havajai"
     ],
+    "name:lld_x_preferred": [
+      "Hawaii"
+    ],
     "name:lmo_x_preferred": [
       "Hawaii"
     ],
@@ -397,6 +428,9 @@
     ],
     "name:lzh_x_preferred": [
       "夏威夷"
+    ],
+    "name:lzh_x_variant": [
+      "夏威夷州"
     ],
     "name:mai_x_preferred": [
       "हवाई"
@@ -418,6 +452,9 @@
     ],
     "name:mlg_x_preferred": [
       "Hawaii"
+    ],
+    "name:mni_x_preferred": [
+      "ꯍꯋꯥꯢꯏ"
     ],
     "name:mon_x_preferred": [
       "Хавай"
@@ -491,6 +528,12 @@
     "name:pan_x_preferred": [
       "ਹਵਾਈ"
     ],
+    "name:pap_x_preferred": [
+      "Hawaii"
+    ],
+    "name:pcd_x_preferred": [
+      "Hawaï"
+    ],
     "name:pih_x_preferred": [
       "Hawaii"
     ],
@@ -536,6 +579,9 @@
     "name:san_x_preferred": [
       "हवाई"
     ],
+    "name:sat_x_preferred": [
+      "ᱦᱟᱣᱟᱭ"
+    ],
     "name:scn_x_preferred": [
       "Hawaii"
     ],
@@ -556,6 +602,9 @@
     ],
     "name:sme_x_preferred": [
       "Haváija"
+    ],
+    "name:smn_x_preferred": [
+      "Havaiji"
     ],
     "name:smo_x_preferred": [
       "Hawai'i"
@@ -614,6 +663,9 @@
     "name:tha_x_preferred": [
       "รัฐฮาวาย"
     ],
+    "name:tok_x_preferred": [
+      "ma Awawi"
+    ],
     "name:ton_x_preferred": [
       "Hauaiʻi"
     ],
@@ -647,6 +699,9 @@
     "name:vie_x_preferred": [
       "Hawaii"
     ],
+    "name:vls_x_preferred": [
+      "Hawaï"
+    ],
     "name:vol_x_preferred": [
       "Hawaii"
     ],
@@ -655,6 +710,9 @@
     ],
     "name:war_x_preferred": [
       "Hawaii"
+    ],
+    "name:wln_x_preferred": [
+      "Hawayi"
     ],
     "name:wuu_x_preferred": [
       "夏威夷州"
@@ -768,8 +826,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "16,760",
     "statoids:area_mi": "6,471",
     "statoids:as_of_date": "2010-04-01",
@@ -783,6 +841,8 @@
     "statoids:timezone": "-10",
     "statoids:type": "state",
     "unlc:subdivision": "US-HI",
+    "uscensus:population": 1435138,
+    "uscensus:population_date": "2023",
     "wd:wordcount": 14844,
     "wof:belongsto": [
       102191575,
@@ -798,12 +858,18 @@
       "gn:id": 5855797,
       "gp:id": 2347570,
       "hasc:id": "US.HI",
+      "iso:code": "US-HI",
       "iso:id": "US-HI",
       "unlc:id": "US-HI",
+      "uscensus:geoid": "15",
       "wd:id": "Q782"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1652218056,
+    "wof:created": 1763063665,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -824,12 +890,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1652218056,
+    "wof:lastmodified": 1763063665,
     "wof:name": "Hawaii",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 1360301,
+    "wof:population": 1435138,
     "wof:population_rank": 12,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "HI",

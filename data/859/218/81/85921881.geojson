@@ -5,7 +5,7 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0.014960197741499986,
-    "geom:area_square_m": 146185809.851674,
+    "geom:area_square_m": 146185558.338653,
     "geom:bbox": "-122.341562,37.698758,-122.111965,37.884926",
     "geom:latitude": 37.79089045319005,
     "geom:longitude": -122.21475944981813,
@@ -36,6 +36,9 @@
     ],
     "name:arg_x_preferred": [
       "Oakland"
+    ],
+    "name:arz_x_preferred": [
+      "اوكلاند"
     ],
     "name:ast_x_preferred": [
       "Oakland"
@@ -76,6 +79,9 @@
     "name:ces_x_preferred": [
       "Oakland"
     ],
+    "name:che_x_preferred": [
+      "Окленд"
+    ],
     "name:cor_x_preferred": [
       "Oakland"
     ],
@@ -111,6 +117,9 @@
     "name:eus_x_preferred": [
       "Oakland"
     ],
+    "name:fao_x_preferred": [
+      "Oakland"
+    ],
     "name:fas_x_preferred": [
       "اوکلند"
     ],
@@ -121,6 +130,12 @@
       "Oakland"
     ],
     "name:fra_x_preferred": [
+      "Oakland"
+    ],
+    "name:frp_x_preferred": [
+      "Oakland"
+    ],
+    "name:frr_x_preferred": [
       "Oakland"
     ],
     "name:fry_x_preferred": [
@@ -189,6 +204,9 @@
     "name:kor_x_preferred": [
       "오클랜드"
     ],
+    "name:kur_x_preferred": [
+      "Oakland"
+    ],
     "name:lat_x_preferred": [
       "Quercupolis"
     ],
@@ -200,6 +218,9 @@
     ],
     "name:lit_x_preferred": [
       "Oklandas"
+    ],
+    "name:lld_x_preferred": [
+      "Oakland"
     ],
     "name:lmo_x_preferred": [
       "Oakland"
@@ -213,11 +234,20 @@
     "name:mar_x_preferred": [
       "ओकलंड"
     ],
+    "name:mdf_x_preferred": [
+      "Оклэнд"
+    ],
+    "name:mhr_x_preferred": [
+      "Окленд"
+    ],
     "name:mkd_x_preferred": [
       "Оукленд"
     ],
     "name:mlg_x_preferred": [
       "Oakland"
+    ],
+    "name:mri_x_preferred": [
+      "Ōkerana"
     ],
     "name:mrj_x_preferred": [
       "Окленд"
@@ -252,8 +282,14 @@
     "name:oci_x_preferred": [
       "Oakland"
     ],
+    "name:oss_x_preferred": [
+      "Окленд"
+    ],
     "name:pam_x_preferred": [
       "Oakland"
+    ],
+    "name:pan_x_preferred": [
+      "ਓਕਲੈਂਡ"
     ],
     "name:pms_x_preferred": [
       "Oakland"
@@ -265,6 +301,9 @@
       "Oakland"
     ],
     "name:por_x_preferred": [
+      "Oakland"
+    ],
+    "name:rmf_x_preferred": [
       "Oakland"
     ],
     "name:ron_x_preferred": [
@@ -282,10 +321,34 @@
     "name:sin_x_preferred": [
       "ඕක්ලන්ඩ්"
     ],
+    "name:sjd_x_preferred": [
+      "Окленд"
+    ],
+    "name:sje_x_preferred": [
+      "Oakland"
+    ],
+    "name:sju_x_preferred": [
+      "Oakland"
+    ],
     "name:slk_x_preferred": [
       "Oakland"
     ],
     "name:slv_x_preferred": [
+      "Oakland"
+    ],
+    "name:sma_x_preferred": [
+      "Oakland"
+    ],
+    "name:sme_x_preferred": [
+      "Oakland"
+    ],
+    "name:smj_x_preferred": [
+      "Oakland"
+    ],
+    "name:smn_x_preferred": [
+      "Oakland"
+    ],
+    "name:sms_x_preferred": [
       "Oakland"
     ],
     "name:som_x_preferred": [
@@ -339,6 +402,9 @@
     "name:uzb_x_preferred": [
       "Oakland"
     ],
+    "name:vec_x_preferred": [
+      "Oakland"
+    ],
     "name:vie_x_preferred": [
       "Oakland"
     ],
@@ -348,8 +414,14 @@
     "name:war_x_preferred": [
       "Oakland"
     ],
+    "name:wuu_x_preferred": [
+      "奥克兰"
+    ],
     "name:yid_x_preferred": [
       "אקלאנד"
+    ],
+    "name:yid_x_variant": [
+      "אויקלאנד"
     ],
     "name:yor_x_preferred": [
       "Oakland"
@@ -464,18 +536,17 @@
     "qs:type": "G4110",
     "reversegeo:latitude": 37.785199,
     "reversegeo:longitude": -122.197811,
-    "sfomuseum:hashtags": [
-      "oakland"
-    ],
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "oakced",
     "src:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "geonames",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
+    "uscensus:population": 436504,
+    "uscensus:population_date": "2023",
     "wd:wordcount": 11785,
     "wof:belongsto": [
       102191575,
@@ -493,11 +564,13 @@
       "loc:id": "n79118971",
       "nyt:id": "51115423641853673011",
       "qs_pg:id": 274643,
+      "uscensus:geoid": "0653000",
       "wd:id": "Q17042",
       "wk:page": "Oakland, California"
     },
+    "wof:concordances_official": "uscensus:geoid",
     "wof:country": "US",
-    "wof:created": 1652217974,
+    "wof:created": 1763061984,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -513,12 +586,12 @@
       }
     ],
     "wof:id": 85921881,
-    "wof:lastmodified": 1652217974,
+    "wof:lastmodified": 1763061984,
     "wof:megacity": 0,
     "wof:name": "Oakland",
     "wof:parent_id": 102086959,
     "wof:placetype": "locality",
-    "wof:population": 390724,
+    "wof:population": 436504,
     "wof:population_rank": 10,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,

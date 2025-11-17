@@ -4,17 +4,20 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.4277873330759998,
-    "geom:area_square_m": 5201498234.897195,
+    "geom:area": 0.4277873330760002,
+    "geom:area_square_m": 5201498234.89777,
     "geom:bbox": "-61.933723,10.041139,-60.494610,11.363472",
-    "geom:latitude": 10.472075072795327,
-    "geom:longitude": -61.26199244510574,
+    "geom:latitude": 10.472075072795333,
+    "geom:longitude": -61.261992445105754,
     "gn:population": 1228691,
     "iso:country": "TT",
     "itu:country_code": [
       "1-868"
     ],
     "itu:region": "1",
+    "label:eng_x_preferred_placetype": [
+      "country"
+    ],
     "label:eng_x_preferred_shortcode": [
       "TT"
     ],
@@ -34,6 +37,9 @@
     "name:aka_x_preferred": [
       "Trinidad ne Tobago"
     ],
+    "name:aka_x_variant": [
+      "Trinidad and Tobago"
+    ],
     "name:als_x_preferred": [
       "Trinidad und Tobago"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:ang_x_preferred": [
       "Þrines and Tobāgo"
+    ],
+    "name:anp_x_preferred": [
+      "त्रिनिदाद आरो टोबेगो"
     ],
     "name:ara_x_preferred": [
       "ترينيداد وتوباغو"
@@ -64,6 +73,9 @@
     "name:ast_x_variant": [
       "Trinidá y Tobagu"
     ],
+    "name:awa_x_preferred": [
+      "त्रिनिदाद औ टोबैगो"
+    ],
     "name:aym_x_preferred": [
       "Trinidad wan Tubagu"
     ],
@@ -82,6 +94,9 @@
     "name:bam_x_preferred": [
       "Trinite-ni-Tobago"
     ],
+    "name:ban_x_preferred": [
+      "Trinidad miwah Tobago"
+    ],
     "name:bar_x_preferred": [
       "Trinidad und Tobago"
     ],
@@ -99,6 +114,9 @@
     ],
     "name:bho_x_preferred": [
       "ट्रिनिडाड आ टोबैगो"
+    ],
+    "name:bis_x_preferred": [
+      "Trinidad mo Tobago"
     ],
     "name:bod_x_preferred": [
       "ཏྲི་ནི་ཌད་དང་ཏྲོ་བེ་གོ"
@@ -143,6 +161,9 @@
     "name:cor_x_preferred": [
       "Trynses ha Tobago"
     ],
+    "name:cos_x_preferred": [
+      "Trinidad è Tobago"
+    ],
     "name:crh_x_preferred": [
       "Trinidad ve Tobago"
     ],
@@ -151,6 +172,9 @@
     ],
     "name:cym_x_variant": [
       "Trinidad a Tobago"
+    ],
+    "name:dag_x_preferred": [
+      "Republic of Trinidad and Tobago"
     ],
     "name:dan_x_preferred": [
       "Trinidad og Tobago"
@@ -236,6 +260,9 @@
     "name:fas_x_variant": [
       "ترینیداد و تباکو"
     ],
+    "name:fij_x_preferred": [
+      "Trinidad kei Tobago"
+    ],
     "name:fin_x_preferred": [
       "Trinidad ja Tobago"
     ],
@@ -259,6 +286,9 @@
     ],
     "name:ful_x_preferred": [
       "Tirnidaad e Tobaago"
+    ],
+    "name:ful_x_variant": [
+      "Tirinidad e Tobago"
     ],
     "name:gag_x_preferred": [
       "Trinidad hem Tobago"
@@ -287,6 +317,12 @@
     ],
     "name:gom_x_preferred": [
       "त्रिनिदाद आणि टोबॅगो"
+    ],
+    "name:gpe_x_preferred": [
+      "Trinidad and Tobago"
+    ],
+    "name:grn_x_preferred": [
+      "Trinidad ha Továgo"
     ],
     "name:gsw_x_preferred": [
       "Trinidad und Tobago"
@@ -321,6 +357,9 @@
     "name:hif_x_preferred": [
       "Trinidad and Tobago"
     ],
+    "name:hil_x_preferred": [
+      "Trinidad kag Tobago"
+    ],
     "name:hin_x_preferred": [
       "त्रिनिदाद और टोबैगो"
     ],
@@ -342,6 +381,9 @@
     ],
     "name:hye_x_variant": [
       "Տրինիդադ-Տոբագո"
+    ],
+    "name:hyw_x_preferred": [
+      "Թրինիտատ"
     ],
     "name:ibo_x_preferred": [
       "Trinidad and Tobago"
@@ -458,6 +500,9 @@
     "name:lit_x_preferred": [
       "Trinidadas ir Tobagas"
     ],
+    "name:lld_x_preferred": [
+      "Trinidad y Tobago"
+    ],
     "name:lmo_x_preferred": [
       "Trinidad e Tobago"
     ],
@@ -479,6 +524,12 @@
     "name:lzh_x_preferred": [
       "千里達及托巴哥"
     ],
+    "name:lzh_x_variant": [
+      "千里達"
+    ],
+    "name:mad_x_preferred": [
+      "Trinidad bân Tobago"
+    ],
     "name:mal_x_preferred": [
       "ട്രിനിഡാഡ് ടൊബാഗോ"
     ],
@@ -491,8 +542,14 @@
     "name:mar_x_variant": [
       "त्रिनिदाद आणि टोबॅगो"
     ],
+    "name:mdf_x_preferred": [
+      "Тринидад ди Тобаго"
+    ],
     "name:mhr_x_preferred": [
       "Тринидад да Тобаго"
+    ],
+    "name:min_x_preferred": [
+      "Trinidad jo Tobago"
     ],
     "name:mkd_x_preferred": [
       "Тринидад и Тобаго"
@@ -500,11 +557,20 @@
     "name:mlg_x_preferred": [
       "Trinidad sy Tobagô"
     ],
+    "name:mlg_x_variant": [
+      "Trinite-sy-Tôbagô"
+    ],
     "name:mlt_x_preferred": [
       "Trinidad u Tobago"
     ],
+    "name:mni_x_preferred": [
+      "ꯇ꯭ꯔꯤꯅꯤꯗꯥꯗ ꯑꯃꯗꯤ ꯇꯣꯕꯥꯒꯣ"
+    ],
     "name:mon_x_preferred": [
       "Тринидад ба Тобаго"
+    ],
+    "name:mri_x_preferred": [
+      "Tirinaki me Tāpako"
     ],
     "name:mrj_x_preferred": [
       "Тринидад дӓ Тобаго"
@@ -644,6 +710,9 @@
     "name:sgs_x_preferred": [
       "Trinidads ėr Tuobags"
     ],
+    "name:shn_x_preferred": [
+      "မိူင်းထရီႇၼီႇတၢတ်ႈ လႄႈ ထူဝ်ႇပေးၵူဝ်ႇ"
+    ],
     "name:sin_x_preferred": [
       "ට්‍රිනිඩෑඩ් සහ ටොබැගෝ"
     ],
@@ -659,8 +728,14 @@
     "name:sme_x_preferred": [
       "Trinidad ja Tobago"
     ],
+    "name:smn_x_preferred": [
+      "Trinidad já Tobago"
+    ],
     "name:smo_x_preferred": [
       "Trindad ma Tobacco"
+    ],
+    "name:sms_x_preferred": [
+      "Trinidad da Tobago"
     ],
     "name:sna_x_preferred": [
       "Trinidad and Tobago"
@@ -719,7 +794,8 @@
       "ట్రినిడాడ్ మరియు టొబాగో"
     ],
     "name:tel_x_variant": [
-      "ట్రినిడేడ్ మరియు టొబాగో"
+      "ట్రినిడేడ్ మరియు టొబాగో",
+      "ట్రినిడాడ్ అండ్ టొబాగో"
     ],
     "name:tet_x_preferred": [
       "Trindade no Tobagu"
@@ -738,6 +814,12 @@
     ],
     "name:tir_x_preferred": [
       "ትሪኒዳድ እና ቶባጎ"
+    ],
+    "name:tir_x_variant": [
+      "ትሪኒዳድን ቶባጎን"
+    ],
+    "name:tok_x_preferred": [
+      "ma Sinita"
     ],
     "name:ton_x_preferred": [
       "Tilinitati mo Topako"
@@ -786,6 +868,9 @@
     ],
     "name:vie_x_variant": [
       "Tri-ni-đát và Tô-ba-gô"
+    ],
+    "name:vls_x_preferred": [
+      "Trinidad en Tobago"
     ],
     "name:vol_x_preferred": [
       "Trinidadeän e Tobageäns"
@@ -987,13 +1072,13 @@
     "qs:scale": 200000,
     "qs:source": "US State Department, with Natural Earth mods",
     "sfomuseum:placetype": "country",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "quattroshapes",
     "src:geom_alt": [
       "naturalearth"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "1-868",
     "statoids:ds": "TT",
     "statoids:fifa": "TRI",
@@ -1029,6 +1114,7 @@
       "hasc:id": "TT",
       "icao:code": "9Y",
       "ioc:id": "TTO",
+      "iso:code": "TT",
       "itu:id": "TRD",
       "loc:id": "n81008555",
       "m49:code": "780",
@@ -1042,9 +1128,10 @@
       "wk:page": "Trinidad and Tobago",
       "wmo:id": "TD"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "TT",
     "wof:country_alpha3": "TTO",
-    "wof:created": 1652217914,
+    "wof:created": 1763423102,
     "wof:geom_alt": [
       "naturalearth-display-terrestrial-zoom6",
       "naturalearth"
@@ -1063,12 +1150,12 @@
     "wof:lang_x_spoken": [
       "eng"
     ],
-    "wof:lastmodified": 1652217914,
+    "wof:lastmodified": 1763423102,
     "wof:name": "Trinidad and Tobago",
     "wof:parent_id": 102191575,
     "wof:placetype": "country",
-    "wof:population": 1341151,
-    "wof:population_rank": 12,
+    "wof:population": 1394973,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "TT",
     "wof:superseded_by": [],

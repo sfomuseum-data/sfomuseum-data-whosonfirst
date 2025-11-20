@@ -2,201 +2,203 @@
   "id": 102525635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.00032,
-    "geom:area_square_m":2930845.720827,
-    "geom:bbox":"-83.359619,42.209114,-83.326721,42.249432",
-    "geom:latitude":42.225967,
-    "geom:longitude":-83.346459,
-    "iso:country":"US",
-    "lbl:latitude":42.21886,
-    "lbl:longitude":-83.351709,
-    "mps:latitude":42.21886,
-    "mps:longitude":-83.351709,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":13.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u062f\u064a\u062a\u0631\u0648\u064a\u062a"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0.00032008614099988855,
+    "geom:area_square_m": 2930845.720827,
+    "geom:bbox": "-83.359619,42.209114,-83.326721,42.249432",
+    "geom:latitude": 42.22596686179587,
+    "geom:longitude": -83.34645905682575,
+    "iso:country": "US",
+    "lbl:latitude": 42.21886,
+    "lbl:longitude": -83.351709,
+    "mps:latitude": 42.21886,
+    "mps:longitude": -83.351709,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار ديترويت"
     ],
-    "name:arz_x_preferred":[
-        "\u0645\u0637\u0627\u0631 \u062f\u064a\u062a\u0631\u0648\u064a\u062a"
+    "name:arz_x_preferred": [
+      "مطار ديترويت"
     ],
-    "name:ben_x_preferred":[
-        "\u09a1\u09c7\u099f\u09cd\u09b0\u09af\u09bc\u09c7\u099f \u09ae\u09c7\u099f\u09cd\u09b0\u09cb\u09aa\u09b2\u09bf\u099f\u09be\u09a8 \u0993\u09af\u09bc\u09c7\u09a8 \u0995\u09be\u09a8\u09cd\u099f\u09cd\u09b0\u09bf \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    "name:ben_x_preferred": [
+      "ডেট্রয়েট মেট্রোপলিটান ওয়েন কান্ট্রি বিমানবন্দর"
     ],
-    "name:ben_x_variant":[
-        "\u09a1\u09c7\u099f\u09cd\u09b0\u09af\u09bc\u09c7\u099f \u09ae\u09c7\u099f\u09cd\u09b0\u09cb\u09aa\u09b2\u09bf\u099f\u09be\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    "name:ben_x_variant": [
+      "ডেট্রয়েট মেট্রোপলিটান বিমানবন্দর"
     ],
-    "name:ceb_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:ceb_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:ces_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:ces_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:deu_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:deu_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:eng_x_preferred":[
-        "Detroit Metro Airport"
+    "name:eng_x_preferred": [
+      "Detroit Metro Airport"
     ],
-    "name:eng_x_variant":[
-        "DTW",
-        "KDTW",
-        "Detroit Metropolitan Wayne County Airport"
+    "name:eng_x_variant": [
+      "DTW",
+      "KDTW",
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:eus_x_preferred":[
-        "Detroiteko Nazioarteko Aireportua"
+    "name:eus_x_preferred": [
+      "Detroiteko Nazioarteko Aireportua"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u062a\u0646 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u0646 \u062f\u06cc\u062a\u0631\u0648\u06cc\u062a"
+    "name:fas_x_preferred": [
+      "فرودگاه متروپولیتن شهرستان وین دیترویت"
     ],
-    "name:fas_x_variant":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u062a\u0646 \u0648\u06cc\u0646 \u06a9\u0627\u0646\u062a\u06cc \u062f\u06cc\u062a\u0631\u0648\u06cc\u062a"
+    "name:fas_x_variant": [
+      "فرودگاه متروپولیتن وین کانتی دیترویت"
     ],
-    "name:fin_x_preferred":[
-        "Detroit Metropolitan Wayne Countyn kansainv\u00e4linen lentoasema"
+    "name:fin_x_preferred": [
+      "Detroit Metropolitan Wayne Countyn kansainvälinen lentoasema"
     ],
-    "name:fra_x_preferred":[
-        "A\u00e9roport m\u00e9tropolitain de D\u00e9troit"
+    "name:fra_x_preferred": [
+      "Aéroport métropolitain de Détroit"
     ],
-    "name:fra_x_variant":[
-        "a\u00e9roport m\u00e9tropolitain de D\u00e9troit"
+    "name:fra_x_variant": [
+      "aéroport métropolitain de Détroit"
     ],
-    "name:heb_x_preferred":[
-        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d3\u05d8\u05e8\u05d5\u05d9\u05d8 \u05de\u05d8\u05e8\u05d5\u05e4\u05d5\u05dc\u05d9\u05d8\u05df"
+    "name:heb_x_preferred": [
+      "נמל התעופה דטרויט מטרופוליטן"
     ],
-    "name:hin_x_preferred":[
-        "\u0921\u0947\u091f\u094d\u0930\u093e\u0907\u091f \u092e\u0947\u091f\u094d\u0930\u094b\u092a\u0949\u0932\u093f\u091f\u0928 \u0935\u0947\u0928 \u0915\u093e\u0909\u0902\u091f\u0940 \u0935\u093f\u092e\u093e\u0928\u092a\u0924\u094d\u0924\u0928"
+    "name:hin_x_preferred": [
+      "डेट्राइट मेट्रोपॉलिटन वेन काउंटी विमानपत्तन"
     ],
-    "name:hun_x_preferred":[
-        "Detroit Metropolitan rep\u00fcl\u0151t\u00e9r"
+    "name:hun_x_preferred": [
+      "Detroit Metropolitan repülőtér"
     ],
-    "name:hye_x_preferred":[
-        "\u0534\u0565\u0569\u0580\u0578\u0575\u0569"
+    "name:hye_x_preferred": [
+      "Դեթրոյթ"
     ],
-    "name:ita_x_preferred":[
-        "Aeroporto Metropolitano di Detroit-Contea di Wayne"
+    "name:ita_x_preferred": [
+      "Aeroporto Metropolitano di Detroit-Contea di Wayne"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c7\u30c8\u30ed\u30a4\u30c8\u30fb\u30e1\u30c8\u30ed\u30dd\u30ea\u30bf\u30f3\u30fb\u30a6\u30a7\u30a4\u30f3\u30fb\u30ab\u30a6\u30f3\u30c6\u30a3\u7a7a\u6e2f"
+    "name:jpn_x_preferred": [
+      "デトロイト・メトロポリタン・ウェイン・カウンティ空港"
     ],
-    "name:kor_x_preferred":[
-        "\ub514\ud2b8\ub85c\uc774\ud2b8 \uba54\ud2b8\ub85c\ud3f4\ub9ac\ud0c4 \uc6e8\uc778 \uce74\uc6b4\ud2f0 \uacf5\ud56d"
+    "name:kor_x_preferred": [
+      "디트로이트 메트로폴리탄 웨인 카운티 공항"
     ],
-    "name:mar_x_preferred":[
-        "\u0921\u0947\u091f\u094d\u0930\u0949\u0908\u091f \u092e\u0947\u091f\u094d\u0930\u094b\u092a\u0949\u0932\u093f\u091f\u0928 \u0935\u0947\u0928 \u0915\u093e\u0909\u0902\u091f\u0940 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    "name:mar_x_preferred": [
+      "डेट्रॉईट मेट्रोपॉलिटन वेन काउंटी विमानतळ"
     ],
-    "name:nav_x_preferred":[
-        "T\u00f3naazy\u00edn\u00edta\u02bcdi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
+    "name:nav_x_preferred": [
+      "Tónaazyínítaʼdi chidí naatʼaʼí ńdinibįįhígi"
     ],
-    "name:nld_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:nld_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:nob_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:nob_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:nor_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:nor_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:pol_x_preferred":[
-        "Port lotniczy Detroit"
+    "name:pol_x_preferred": [
+      "Port lotniczy Detroit"
     ],
-    "name:por_x_preferred":[
-        "Aeroporto Metropolitano de Detroit Wayne County"
+    "name:por_x_preferred": [
+      "Aeroporto Metropolitano de Detroit Wayne County"
     ],
-    "name:ron_x_preferred":[
-        "Aeroportul Detroit Metropolitan Wayne County"
+    "name:ron_x_preferred": [
+      "Aeroportul Detroit Metropolitan Wayne County"
     ],
-    "name:rus_x_preferred":[
-        "\u0414\u0435\u0442\u0440\u043e\u0439\u0442"
+    "name:rus_x_preferred": [
+      "Детройт"
     ],
-    "name:spa_x_preferred":[
-        "Aeropuerto Internacional de Detroit"
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Detroit"
     ],
-    "name:swe_x_preferred":[
-        "Detroit Metropolitan Wayne County Airport"
+    "name:swe_x_preferred": [
+      "Detroit Metropolitan Wayne County Airport"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u0435\u0442\u0440\u043e\u0439\u0442\u0430"
+    "name:ukr_x_preferred": [
+      "Аеропорт Детройта"
     ],
-    "name:ukr_x_variant":[
-        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u0435\u0442\u0440\u043e\u0439\u0442 \u041c\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0456\u0442\u0435\u043d \u0423\u0435\u0439\u043d"
+    "name:ukr_x_variant": [
+      "Аеропорт Детройт Метрополітен Уейн"
     ],
-    "name:urd_x_preferred":[
-        "\u0688\u06cc\u0679\u0631\u0627\u0626\u0679 \u0645\u06cc\u0679\u0631\u0648\u067e\u0648\u0644\u06cc\u0679\u0646 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    "name:urd_x_preferred": [
+      "ڈیٹرائٹ میٹروپولیٹن ہوائی اڈا"
     ],
-    "name:vie_x_preferred":[
-        "S\u00e2n bay qu\u1ed1c t\u1ebf Detroit"
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Detroit"
     ],
-    "name:yue_x_preferred":[
-        "\u5e95\u7279\u5f8b\u90fd\u6703\u97cb\u6069\u7e23\u6a5f\u5834"
+    "name:yue_x_preferred": [
+      "底特律都會韋恩縣機場"
     ],
-    "name:zho_x_preferred":[
-        "\u5e95\u7279\u5f8b\u90fd\u4f1a\u97e6\u6069\u53bf\u673a\u573a"
+    "name:zho_x_preferred": [
+      "底特律都会韦恩县机场"
     ],
-    "oa:elevation_ft":"645",
-    "oa:type":"large_airport",
-    "src:geom":"woedb",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":6354,
-    "woe:hierarchy":{
-        "country_id":23424977,
-        "county_id":12588795,
-        "planet_id":1,
-        "state_id":2347581
+    "oa:elevation_ft": "645",
+    "oa:type": "large_airport",
+    "sfomuseum:placetype": "airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 6354,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12588795,
+      "planet_id": 1,
+      "state_id": 2347581
     },
-    "wof:belongsto":[
-        102191575,
-        404508657,
-        85633793,
-        85951131,
-        102083147,
-        85688599
+    "wof:belongsto": [
+      102191575,
+      404508657,
+      85633793,
+      85951131,
+      102083147,
+      85688599
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "faa:code":"DTW",
-        "gp:id":12519481,
-        "iata:code":"DTW",
-        "icao:code":"KDTW",
-        "oa:id":"3497",
-        "wd:id":"Q652505",
-        "wk:page":"Detroit_Metropolitan_Wayne_County_Airport"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "DTW",
+      "gp:id": 12519481,
+      "iata:code": "DTW",
+      "icao:code": "KDTW",
+      "oa:id": "3497",
+      "wd:id": "Q652505",
+      "wk:page": "Detroit_Metropolitan_Wayne_County_Airport"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a9ccb9c06518bc8fa05f9fdddfdb4f87",
-    "wof:hierarchy":[
-        {
-            "campus_id":102525635,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083147,
-            "localadmin_id":404508657,
-            "locality_id":85951131,
-            "neighbourhood_id":-1,
-            "region_id":85688599
-        }
+    "wof:country": "US",
+    "wof:created": 1763673940,
+    "wof:geomhash": "a9ccb9c06518bc8fa05f9fdddfdb4f87",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102525635,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083147,
+        "localadmin_id": 404508657,
+        "locality_id": 85951131,
+        "neighbourhood_id": -1,
+        "region_id": 85688599
+      }
     ],
-    "wof:id":102525635,
-    "wof:lastmodified":1690881350,
-    "wof:name":"Detroit Metro Airport",
-    "wof:parent_id":85951131,
-    "wof:placetype":"campus",
-    "wof:repo":"whosonfirst-data-admin-us",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:id": 102525635,
+    "wof:lastmodified": 1763673940,
+    "wof:name": "Detroit Metro Airport",
+    "wof:parent_id": 85951131,
+    "wof:placetype": "campus",
+    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -83.359619,
     42.209114,
     -83.326721,
     42.249432
-],
-  "geometry": {"coordinates":[[[[-83.349037,42.24649],[-83.349197,42.247204],[-83.34766399999999,42.249432],[-83.3479,42.246418],[-83.347481,42.243767],[-83.346588,42.241798],[-83.341965,42.239834],[-83.34108000000001,42.238049],[-83.340485,42.236523],[-83.333572,42.234013],[-83.339966,42.232712],[-83.341537,42.232254],[-83.34382600000001,42.22858],[-83.34440600000001,42.225918],[-83.34108000000001,42.221523],[-83.336792,42.218536],[-83.344002,42.218346],[-83.349243,42.213261],[-83.352585,42.212498],[-83.35507200000001,42.212402],[-83.35945100000001,42.209114],[-83.35644499999999,42.212658],[-83.358681,42.21822],[-83.359619,42.221397],[-83.35449199999999,42.223907],[-83.353218,42.224617],[-83.35080000000001,42.230057],[-83.344345,42.231567],[-83.34245300000001,42.234173],[-83.345467,42.239265],[-83.34899900000001,42.238674],[-83.351311,42.238487],[-83.349411,42.240463],[-83.349037,42.24649]]],[[[-83.333572,42.234013],[-83.329666,42.238998],[-83.329323,42.239033],[-83.32672100000001,42.238831],[-83.327286,42.236073],[-83.32727800000001,42.235817],[-83.328636,42.23093],[-83.332489,42.232498],[-83.333572,42.234013]]]],"type":"MultiPolygon"}
+  ],
+  "geometry": {"coordinates":[[[[-83.349037,42.24649],[-83.349197,42.247204],[-83.347664,42.249432],[-83.3479,42.246418],[-83.347481,42.243767],[-83.346588,42.241798],[-83.341965,42.239834],[-83.34108,42.238049],[-83.340485,42.236523],[-83.333572,42.234013],[-83.339966,42.232712],[-83.341537,42.232254],[-83.343826,42.22858],[-83.344406,42.225918],[-83.34108,42.221523],[-83.336792,42.218536],[-83.344002,42.218346],[-83.349243,42.213261],[-83.352585,42.212498],[-83.355072,42.212402],[-83.359451,42.209114],[-83.356445,42.212658],[-83.358681,42.21822],[-83.359619,42.221397],[-83.354492,42.223907],[-83.353218,42.224617],[-83.3508,42.230057],[-83.344345,42.231567],[-83.342453,42.234173],[-83.345467,42.239265],[-83.348999,42.238674],[-83.351311,42.238487],[-83.349411,42.240463],[-83.349037,42.24649]]],[[[-83.333572,42.234013],[-83.329666,42.238998],[-83.329323,42.239033],[-83.326721,42.238831],[-83.327286,42.236073],[-83.327278,42.235817],[-83.328636,42.23093],[-83.332489,42.232498],[-83.333572,42.234013]]]],"type":"MultiPolygon"}
 }

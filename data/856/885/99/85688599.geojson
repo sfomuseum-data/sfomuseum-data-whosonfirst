@@ -8,9 +8,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 28.538683833566466,
-    "geom:area_square_m": 249956514013.61093,
+    "geom:area_square_m": 249956514013.61746,
     "geom:bbox": "-90.418392,41.696118,-82.122971,48.306063",
-    "geom:latitude": 44.874773594689124,
+    "geom:latitude": 44.87477359468912,
     "geom:longitude": -85.73095291268794,
     "iso:country": "US",
     "iso:subdivision": "US-MI",
@@ -54,6 +54,9 @@
     "name:arg_x_preferred": [
       "Michigan"
     ],
+    "name:ary_x_preferred": [
+      "ميشيڭان"
+    ],
     "name:arz_x_preferred": [
       "ميشيجان"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:aze_x_preferred": [
       "Miçiqan"
+    ],
+    "name:ban_x_preferred": [
+      "Michigan"
     ],
     "name:bar_x_preferred": [
       "Michigan"
@@ -123,6 +129,9 @@
     "name:che_x_preferred": [
       "Мичиган"
     ],
+    "name:chr_x_preferred": [
+      "ᎻᏏᎦᏂ"
+    ],
     "name:chv_x_preferred": [
       "Мичиган"
     ],
@@ -135,7 +144,13 @@
     "name:cos_x_preferred": [
       "Michigan"
     ],
+    "name:crh_x_preferred": [
+      "Miçigan"
+    ],
     "name:cym_x_preferred": [
+      "Michigan"
+    ],
+    "name:dag_x_preferred": [
       "Michigan"
     ],
     "name:dan_x_preferred": [
@@ -264,6 +279,9 @@
     "name:hye_x_preferred": [
       "Միչիգան"
     ],
+    "name:hyw_x_preferred": [
+      "Միշիկըն"
+    ],
     "name:ibo_x_preferred": [
       "Michigan"
     ],
@@ -348,6 +366,9 @@
     "name:lit_x_preferred": [
       "Mičiganas"
     ],
+    "name:lld_x_preferred": [
+      "Michigan"
+    ],
     "name:lmo_x_preferred": [
       "Michigan"
     ],
@@ -377,6 +398,9 @@
     ],
     "name:mlg_x_preferred": [
       "Michigan"
+    ],
+    "name:mni_x_preferred": [
+      "ꯃꯤꯆꯤꯒꯥꯟ"
     ],
     "name:mon_x_preferred": [
       "Мичиган"
@@ -444,6 +468,12 @@
     "name:pan_x_preferred": [
       "ਮਿਸ਼ੀਗਨ"
     ],
+    "name:pap_x_preferred": [
+      "Michigan"
+    ],
+    "name:pcd_x_preferred": [
+      "Michigan"
+    ],
     "name:pli_x_preferred": [
       "मिसिगन"
     ],
@@ -510,6 +540,15 @@
     "name:sme_x_preferred": [
       "Michigan"
     ],
+    "name:smn_x_preferred": [
+      "Michigan"
+    ],
+    "name:sms_x_preferred": [
+      "Michigan"
+    ],
+    "name:som_x_preferred": [
+      "Mishiigan"
+    ],
     "name:spa_x_preferred": [
       "Míchigan"
     ],
@@ -557,6 +596,9 @@
     ],
     "name:tha_x_preferred": [
       "รัฐมิชิแกน"
+    ],
+    "name:tok_x_preferred": [
+      "ma Misikan"
     ],
     "name:tur_x_preferred": [
       "Michigan"
@@ -703,8 +745,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "151,585",
     "statoids:area_mi": "58,527",
     "statoids:as_of_date": "2010-04-01",
@@ -718,6 +760,8 @@
     "statoids:timezone": "-5~",
     "statoids:type": "state",
     "unlc:subdivision": "US-MI",
+    "uscensus:population": 10037261,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793
@@ -732,12 +776,18 @@
       "gn:id": 5001836,
       "gp:id": 2347581,
       "hasc:id": "US.MI",
+      "iso:code": "US-MI",
       "iso:id": "US-MI",
       "unlc:id": "US-MI",
+      "uscensus:geoid": "26",
       "wd:id": "Q1166"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1660065358,
+    "wof:created": 1763674021,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -758,13 +808,13 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1660065358,
+    "wof:lastmodified": 1763674021,
     "wof:name": "Michigan",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 9883640,
-    "wof:population_rank": 13,
+    "wof:population": 10037261,
+    "wof:population_rank": 14,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "MI",
     "wof:subdivision": "US-MI",

@@ -12,8 +12,6 @@
     "iso:country": "US",
     "lbl:latitude": 42.21886,
     "lbl:longitude": -83.351709,
-    "millsfield:count_images": 12,
-    "millsfield:count_objects": 8,
     "mps:latitude": 42.21886,
     "mps:longitude": -83.351709,
     "mz:hierarchy_label": 1,
@@ -22,8 +20,14 @@
     "name:ara_x_preferred": [
       "مطار ديترويت"
     ],
+    "name:arz_x_preferred": [
+      "مطار ديترويت"
+    ],
     "name:ben_x_preferred": [
       "ডেট্রয়েট মেট্রোপলিটান ওয়েন কান্ট্রি বিমানবন্দর"
+    ],
+    "name:ben_x_variant": [
+      "ডেট্রয়েট মেট্রোপলিটান বিমানবন্দর"
     ],
     "name:ceb_x_preferred": [
       "Detroit Metropolitan Wayne County Airport"
@@ -41,6 +45,9 @@
       "DTW",
       "KDTW",
       "Detroit Metropolitan Wayne County Airport"
+    ],
+    "name:eus_x_preferred": [
+      "Detroiteko Nazioarteko Aireportua"
     ],
     "name:fas_x_preferred": [
       "فرودگاه متروپولیتن شهرستان وین دیترویت"
@@ -62,6 +69,12 @@
     ],
     "name:hin_x_preferred": [
       "डेट्राइट मेट्रोपॉलिटन वेन काउंटी विमानपत्तन"
+    ],
+    "name:hun_x_preferred": [
+      "Detroit Metropolitan repülőtér"
+    ],
+    "name:hye_x_preferred": [
+      "Դեթրոյթ"
     ],
     "name:ita_x_preferred": [
       "Aeroporto Metropolitano di Detroit-Contea di Wayne"
@@ -117,13 +130,14 @@
     "name:vie_x_preferred": [
       "Sân bay quốc tế Detroit"
     ],
+    "name:yue_x_preferred": [
+      "底特律都會韋恩縣機場"
+    ],
     "name:zho_x_preferred": [
       "底特律都会韦恩县机场"
     ],
     "oa:elevation_ft": "645",
     "oa:type": "large_airport",
-    "sfomuseum:airport_id": 35,
-    "sfomuseum:name": "Detroit Metro Airport",
     "sfomuseum:placetype": "airport",
     "src:geom": "woedb",
     "src:geom_alt": [],
@@ -136,12 +150,12 @@
       "state_id": 2347581
     },
     "wof:belongsto": [
-      85688599,
       102191575,
       404508657,
       85633793,
       85951131,
-      102083147
+      102083147,
+      85688599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -154,7 +168,7 @@
       "wk:page": "Detroit_Metropolitan_Wayne_County_Airport"
     },
     "wof:country": "US",
-    "wof:created": 1652218117,
+    "wof:created": 1763673940,
     "wof:geomhash": "a9ccb9c06518bc8fa05f9fdddfdb4f87",
     "wof:hierarchy": [
       {
@@ -169,7 +183,7 @@
       }
     ],
     "wof:id": 102525635,
-    "wof:lastmodified": 1652218117,
+    "wof:lastmodified": 1763673940,
     "wof:name": "Detroit Metro Airport",
     "wof:parent_id": 85951131,
     "wof:placetype": "campus",

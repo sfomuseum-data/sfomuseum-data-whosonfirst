@@ -7,11 +7,11 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 12.747283673291468,
-    "geom:area_square_m": 119137295388.76152,
+    "geom:area": 12.747283673291486,
+    "geom:area_square_m": 119137295388.7652,
     "geom:bbox": "-80.519851,39.719799,-74.689502,42.516072",
-    "geom:latitude": 40.896700235964836,
-    "geom:longitude": -77.83891681728221,
+    "geom:latitude": 40.89670023596484,
+    "geom:longitude": -77.8389168172822,
     "iso:country": "US",
     "iso:subdivision": "US-PA",
     "label:eng_x_preferred_longname": [
@@ -59,6 +59,9 @@
     "name:arg_x_preferred": [
       "Pennsilvania"
     ],
+    "name:ary_x_preferred": [
+      "پانسيلڤانيا"
+    ],
     "name:arz_x_preferred": [
       "بنسيلفانيا"
     ],
@@ -77,6 +80,9 @@
     "name:bak_x_preferred": [
       "Пенсильвания"
     ],
+    "name:ban_x_preferred": [
+      "Pennsylvania"
+    ],
     "name:bar_x_preferred": [
       "Pennsylvania"
     ],
@@ -93,8 +99,14 @@
     "name:ben_x_preferred": [
       "পেন্সিল্‌ভেনিয়া"
     ],
+    "name:ben_x_variant": [
+      "পেনসিলভেনিয়া"
+    ],
     "name:bho_x_preferred": [
       "पेन्सिल्भेनिया"
+    ],
+    "name:bho_x_variant": [
+      "पेंसिल्वेनिया"
     ],
     "name:bis_x_preferred": [
       "Pennsylvania"
@@ -153,7 +165,13 @@
     "name:cos_x_preferred": [
       "Pennsylvania"
     ],
+    "name:crh_x_preferred": [
+      "Pensilvaniya"
+    ],
     "name:cym_x_preferred": [
+      "Pennsylvania"
+    ],
+    "name:dag_x_preferred": [
       "Pennsylvania"
     ],
     "name:dan_x_preferred": [
@@ -172,7 +190,8 @@
       "Πενσυλβάνια"
     ],
     "name:ell_x_variant": [
-      "Πενσιλβανία"
+      "Πενσιλβανία",
+      "Πενσιλβάνια"
     ],
     "name:eml_x_preferred": [
       "Pennsylvania"
@@ -289,6 +308,9 @@
     "name:hye_x_preferred": [
       "Փենսիլվանիա"
     ],
+    "name:hyw_x_preferred": [
+      "Փենսիլվանիա"
+    ],
     "name:ibo_x_preferred": [
       "Pensílvéníyạ"
     ],
@@ -376,6 +398,9 @@
     "name:lit_x_preferred": [
       "Pensilvanija"
     ],
+    "name:lld_x_preferred": [
+      "Pennsylvania"
+    ],
     "name:lmo_x_preferred": [
       "Pennsylvania"
     ],
@@ -409,6 +434,9 @@
     "name:mlg_x_preferred": [
       "Pennsylvania"
     ],
+    "name:mni_x_preferred": [
+      "ꯄꯦꯟꯟꯁꯤꯜꯚꯥꯅꯤꯌꯥ"
+    ],
     "name:mon_x_preferred": [
       "Пеннсилвани"
     ],
@@ -423,6 +451,9 @@
     ],
     "name:mya_x_preferred": [
       "ပင်ဆယ်ဗေးနီးယားပြည်နယ်"
+    ],
+    "name:mya_x_variant": [
+      "ပန်ဆယ်ဗေးနီးယားပြည်နယ်"
     ],
     "name:mzn_x_preferred": [
       "پنسیلوانیا"
@@ -480,6 +511,9 @@
     ],
     "name:pap_x_preferred": [
       "Pennsylvania"
+    ],
+    "name:pcd_x_preferred": [
+      "Pennsylvanie"
     ],
     "name:pdc_x_preferred": [
       "Pennsilfaani"
@@ -553,6 +587,9 @@
     "name:sme_x_preferred": [
       "Pennsylvania"
     ],
+    "name:smn_x_preferred": [
+      "Pennsylvania"
+    ],
     "name:smo_x_preferred": [
       "Penisilevania"
     ],
@@ -576,6 +613,9 @@
     ],
     "name:stq_x_variant": [
       "Pensilvanien"
+    ],
+    "name:sun_x_preferred": [
+      "Pennsylvania"
     ],
     "name:swa_x_preferred": [
       "Pennsylvania"
@@ -607,6 +647,12 @@
     "name:tha_x_preferred": [
       "รัฐเพนซิลเวเนีย"
     ],
+    "name:tok_x_preferred": [
+      "ma Pensiwenja"
+    ],
+    "name:tpi_x_preferred": [
+      "Pensilvania"
+    ],
     "name:tur_x_preferred": [
       "Pensilvanya"
     ],
@@ -615,6 +661,9 @@
     ],
     "name:ukr_x_preferred": [
       "Пенсильванія"
+    ],
+    "name:ukr_x_variant": [
+      "Пенсільванія"
     ],
     "name:urd_x_preferred": [
       "پنسلوانیا"
@@ -761,8 +810,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "117,348",
     "statoids:area_mi": "45,308",
     "statoids:as_of_date": "2010-04-01",
@@ -776,6 +825,8 @@
     "statoids:timezone": "-5~",
     "statoids:type": "state",
     "unlc:subdivision": "US-PA",
+    "uscensus:population": 12961683,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793
@@ -790,12 +841,18 @@
       "gn:id": 6254927,
       "gp:id": 2347597,
       "hasc:id": "US.PA",
+      "iso:code": "US-PA",
       "iso:id": "US-PA",
       "unlc:id": "US-PA",
+      "uscensus:geoid": "42",
       "wd:id": "Q1400"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1662757039,
+    "wof:created": 1763670609,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -816,12 +873,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1662757039,
+    "wof:lastmodified": 1763670609,
     "wof:name": "Pennsylvania",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 12702379,
+    "wof:population": 12961683,
     "wof:population_rank": 14,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "PA",

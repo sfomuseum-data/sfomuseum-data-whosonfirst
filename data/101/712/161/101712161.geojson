@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0.015398192801499854,
+    "geom:area": 0.015398192801499868,
     "geom:area_square_m": 146325442.450389,
     "geom:bbox": "-84.311377,39.701834,-84.092938,39.920823",
     "geom:latitude": 39.77978128440116,
@@ -26,6 +26,12 @@
     ],
     "name:ara_x_variant": [
       "دايتون"
+    ],
+    "name:arz_x_preferred": [
+      "دايتون"
+    ],
+    "name:ast_x_preferred": [
+      "Dayton"
     ],
     "name:azb_x_preferred": [
       "دیتون"
@@ -54,10 +60,16 @@
     "name:ces_x_preferred": [
       "Dayton"
     ],
+    "name:che_x_preferred": [
+      "Дейтон"
+    ],
     "name:cor_x_preferred": [
       "Dayton"
     ],
     "name:cym_x_preferred": [
+      "Dayton"
+    ],
+    "name:dag_x_preferred": [
       "Dayton"
     ],
     "name:dan_x_preferred": [
@@ -124,6 +136,9 @@
     "name:hye_x_preferred": [
       "Դեյթոն"
     ],
+    "name:ido_x_preferred": [
+      "Dayton"
+    ],
     "name:ind_x_preferred": [
       "Dayton"
     ],
@@ -135,6 +150,9 @@
     ],
     "name:kan_x_preferred": [
       "ಡೇಯ್ಟನ್"
+    ],
+    "name:kat_x_preferred": [
+      "დეიტონი"
     ],
     "name:kaz_x_preferred": [
       "Дэйтон"
@@ -151,14 +169,23 @@
     "name:lit_x_preferred": [
       "Deitonas"
     ],
+    "name:lld_x_preferred": [
+      "Dayton"
+    ],
     "name:ltz_x_preferred": [
       "Dayton"
     ],
     "name:mar_x_preferred": [
       "डेटन"
     ],
+    "name:mdf_x_preferred": [
+      "Дэйтон"
+    ],
     "name:mlg_x_preferred": [
       "Dayton"
+    ],
+    "name:mon_x_preferred": [
+      "Дэйтон"
     ],
     "name:msa_x_preferred": [
       "Dayton"
@@ -256,6 +283,9 @@
     "name:uzb_x_preferred": [
       "Dayton"
     ],
+    "name:vec_x_preferred": [
+      "Dayton"
+    ],
     "name:vie_x_preferred": [
       "Dayton"
     ],
@@ -264,6 +294,9 @@
     ],
     "name:war_x_preferred": [
       "Dayton"
+    ],
+    "name:wuu_x_preferred": [
+      "代顿"
     ],
     "name:zho_x_preferred": [
       "戴顿"
@@ -378,14 +411,14 @@
     "qs:source": "AUS Census",
     "qs:type": "G4110",
     "sfomuseum:placetype": "city",
-    "sfomuseum:repo": "sfomuseum-data-whosonfirst",
     "src:geom": "uscensus",
     "src:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "uscensus",
+    "src:population_date": "2022",
     "uscensus:aland": 143474440,
     "uscensus:awater": 2988504,
     "uscensus:classfp": "C5",
@@ -401,6 +434,8 @@
     "uscensus:pcinecta": "N",
     "uscensus:placefp": "21000",
     "uscensus:placens": "01086167",
+    "uscensus:population": 137297,
+    "uscensus:population_date": "2022",
     "uscensus:statefp": "39",
     "wd:elevation": 225,
     "wd:latitude": 39.766667,
@@ -426,12 +461,13 @@
       "ne:id": 1159146277,
       "nyt:id": "87257295096528052021",
       "qs_pg:id": 274603,
-      "uscensus:geoid": 3921000,
+      "uscensus:geoid": "3921000",
       "wd:id": "Q34739",
       "wk:page": "Dayton, Ohio"
     },
+    "wof:concordances_official": "uscensus:geoid",
     "wof:country": "US",
-    "wof:created": 1652217764,
+    "wof:created": 1763670451,
     "wof:geom_alt": [
       "quattroshapes_pg",
       "quattroshapes"
@@ -451,12 +487,12 @@
     "wof:lang": [
       "eng"
     ],
-    "wof:lastmodified": 1652217764,
+    "wof:lastmodified": 1763670451,
     "wof:megacity": 1,
     "wof:name": "Dayton",
     "wof:parent_id": 404524075,
     "wof:placetype": "locality",
-    "wof:population": 141527,
+    "wof:population": 137297,
     "wof:population_rank": 9,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:scale": 6,

@@ -7,11 +7,11 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 66.05431238211649,
-    "geom:area_square_m": 696290118990.0897,
+    "geom:area": 66.05431238211598,
+    "geom:area_square_m": 696290118990.0682,
     "geom:bbox": "-106.645646,25.837164,-93.508039,36.500704",
-    "geom:latitude": 31.44721459329153,
-    "geom:longitude": -99.31713666446224,
+    "geom:latitude": 31.44721459329151,
+    "geom:longitude": -99.31713666446221,
     "iso:country": "US",
     "iso:subdivision": "US-TX",
     "label:eng_x_preferred_longname": [
@@ -48,8 +48,14 @@
     "name:ara_x_preferred": [
       "تكساس"
     ],
+    "name:arc_x_preferred": [
+      "ܬܟܣܐܣ"
+    ],
     "name:arg_x_preferred": [
       "Texas"
+    ],
+    "name:ary_x_preferred": [
+      "طيكساس"
     ],
     "name:arz_x_preferred": [
       "تكساس"
@@ -68,6 +74,9 @@
     ],
     "name:bak_x_preferred": [
       "Техас"
+    ],
+    "name:ban_x_preferred": [
+      "Téxas"
     ],
     "name:bar_x_preferred": [
       "Texas"
@@ -95,6 +104,9 @@
     ],
     "name:bos_x_preferred": [
       "Texas"
+    ],
+    "name:bos_x_variant": [
+      "Teksas"
     ],
     "name:bpy_x_preferred": [
       "টেক্সাস"
@@ -147,7 +159,13 @@
     "name:cos_x_preferred": [
       "Texas"
     ],
+    "name:crh_x_preferred": [
+      "Tehas"
+    ],
     "name:cym_x_preferred": [
+      "Texas"
+    ],
+    "name:dag_x_preferred": [
       "Texas"
     ],
     "name:dan_x_preferred": [
@@ -241,6 +259,12 @@
       "Texas"
     ],
     "name:gor_x_preferred": [
+      "Texas"
+    ],
+    "name:got_x_preferred": [
+      "𐍄𐌰𐌹𐌺𐍃𐌰𐍃"
+    ],
+    "name:gpe_x_preferred": [
       "Texas"
     ],
     "name:grn_x_preferred": [
@@ -351,6 +375,9 @@
     "name:kbp_x_preferred": [
       "Tɛkɩzasɩ"
     ],
+    "name:kir_x_preferred": [
+      "Техас"
+    ],
     "name:kor_x_preferred": [
       "텍사스 주"
     ],
@@ -362,6 +389,9 @@
     ],
     "name:lad_x_preferred": [
       "Texas"
+    ],
+    "name:lao_x_preferred": [
+      "ເທັກຊາສ"
     ],
     "name:lat_x_preferred": [
       "Texia"
@@ -380,6 +410,9 @@
     ],
     "name:lit_x_preferred": [
       "Teksasas"
+    ],
+    "name:lld_x_preferred": [
+      "Texas"
     ],
     "name:lmo_x_preferred": [
       "Texas"
@@ -413,6 +446,9 @@
     ],
     "name:mlg_x_preferred": [
       "Texas"
+    ],
+    "name:mni_x_preferred": [
+      "ꯇꯦꯛꯁꯥꯁ"
     ],
     "name:mon_x_preferred": [
       "Техас"
@@ -480,6 +516,9 @@
     "name:pap_x_preferred": [
       "Teksas"
     ],
+    "name:pcd_x_preferred": [
+      "Texas"
+    ],
     "name:pli_x_preferred": [
       "टेक्सास"
     ],
@@ -503,6 +542,9 @@
     ],
     "name:que_x_preferred": [
       "Texas suyu"
+    ],
+    "name:rmy_x_preferred": [
+      "Texas"
     ],
     "name:roh_x_preferred": [
       "Texas"
@@ -542,6 +584,15 @@
     ],
     "name:sme_x_preferred": [
       "Texas"
+    ],
+    "name:smn_x_preferred": [
+      "Texas"
+    ],
+    "name:sms_x_preferred": [
+      "Texas"
+    ],
+    "name:snd_x_preferred": [
+      "ٽيڪساس"
     ],
     "name:som_x_preferred": [
       "Texas"
@@ -601,6 +652,9 @@
     ],
     "name:tha_x_preferred": [
       "รัฐเทกซัส"
+    ],
+    "name:tok_x_preferred": [
+      "ma Tesa"
     ],
     "name:tuk_x_preferred": [
       "Tehas"
@@ -747,8 +801,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "691,030",
     "statoids:area_mi": "266,808",
     "statoids:as_of_date": "2010-04-01",
@@ -762,6 +816,8 @@
     "statoids:timezone": "-6~",
     "statoids:type": "state",
     "unlc:subdivision": "US-TX",
+    "uscensus:population": 30503301,
+    "uscensus:population_date": "2023",
     "wof:belongsto": [
       102191575,
       85633793
@@ -776,12 +832,18 @@
       "gn:id": 4736286,
       "gp:id": 2347602,
       "hasc:id": "US.TX",
+      "iso:code": "US-TX",
       "iso:id": "US-TX",
       "unlc:id": "US-TX",
+      "uscensus:geoid": "48",
       "wd:id": "Q1439"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1660846789,
+    "wof:created": 1763671908,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -802,13 +864,13 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1660846789,
+    "wof:lastmodified": 1763671908,
     "wof:name": "Texas",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 25145561,
-    "wof:population_rank": 14,
+    "wof:population": 30503301,
+    "wof:population_rank": 15,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "TX",
     "wof:subdivision": "US-TX",

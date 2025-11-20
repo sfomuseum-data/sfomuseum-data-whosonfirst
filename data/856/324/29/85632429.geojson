@@ -4,16 +4,19 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 38.151054799181054,
-    "geom:area_square_m": 373263526066.4303,
+    "geom:area": 38.15105479918127,
+    "geom:area_square_m": 373263526066.33777,
     "geom:bbox": "122.934586,20.422890,153.987061,45.522888",
-    "geom:latitude": 37.52934474980134,
-    "geom:longitude": 137.94475962321738,
+    "geom:latitude": 37.52934474980135,
+    "geom:longitude": 137.9447596232174,
     "gn:id": "",
     "gn:population": 127288000,
     "iso:country": "JP",
     "itu:country_code": [
       "81"
+    ],
+    "label:eng_x_preferred_placetype": [
+      "country"
     ],
     "label:eng_x_preferred_shortcode": [
       "JP"
@@ -55,11 +58,20 @@
     "name:als_x_preferred": [
       "Japan"
     ],
+    "name:alt_x_preferred": [
+      "Япония"
+    ],
     "name:amh_x_preferred": [
       "ጃፓን"
     ],
+    "name:ami_x_preferred": [
+      "Japan"
+    ],
     "name:ang_x_preferred": [
       "Iapan"
+    ],
+    "name:anp_x_preferred": [
+      "जापान"
     ],
     "name:ara_x_preferred": [
       "اليابان"
@@ -90,6 +102,12 @@
     ],
     "name:ava_x_preferred": [
       "Япония"
+    ],
+    "name:avk_x_preferred": [
+      "Nipona"
+    ],
+    "name:awa_x_preferred": [
+      "जापान"
     ],
     "name:aym_x_preferred": [
       "Nihun"
@@ -138,6 +156,9 @@
     ],
     "name:bjn_x_preferred": [
       "Japang"
+    ],
+    "name:blk_x_preferred": [
+      "ဂျပန်ခမ်းထီ"
     ],
     "name:bod_x_preferred": [
       "ཉི་ཧོང་།"
@@ -191,6 +212,9 @@
     "name:che_x_preferred": [
       "Япони"
     ],
+    "name:che_x_variant": [
+      "Япон"
+    ],
     "name:cho_x_preferred": [
       "Japan"
     ],
@@ -221,11 +245,17 @@
     "name:cos_x_preferred": [
       "Giapponu"
     ],
+    "name:cos_x_variant": [
+      "Ghjappone"
+    ],
     "name:cre_x_preferred": [
       "ᔭᐊᐸᐊᐣ"
     ],
     "name:crh_x_preferred": [
       "Yaponiya"
+    ],
+    "name:crh_x_variant": [
+      "Japon"
     ],
     "name:csb_x_preferred": [
       "Japòńskô"
@@ -235,6 +265,9 @@
     ],
     "name:cym_x_variant": [
       "Siapan"
+    ],
+    "name:dag_x_preferred": [
+      "Japan"
     ],
     "name:dan_x_preferred": [
       "Japan"
@@ -366,7 +399,8 @@
       "An Iapan"
     ],
     "name:gla_x_variant": [
-      "An t-Seapan"
+      "An t-Seapan",
+      "Iapan"
     ],
     "name:gle_x_preferred": [
       "An tSeapáin"
@@ -383,6 +417,9 @@
     "name:glv_x_preferred": [
       "Yn Çhapaan"
     ],
+    "name:glv_x_variant": [
+      "yn Çhapaan"
+    ],
     "name:gom_x_preferred": [
       "जपान"
     ],
@@ -395,6 +432,12 @@
     "name:got_x_preferred": [
       "𐌾𐌰𐍀𐌰𐌽"
     ],
+    "name:gpe_x_preferred": [
+      "Japan"
+    ],
+    "name:grc_x_preferred": [
+      "Ἰαπωνία"
+    ],
     "name:grn_x_preferred": [
       "Hapõ"
     ],
@@ -403,6 +446,9 @@
     ],
     "name:guj_x_preferred": [
       "જાપાન"
+    ],
+    "name:guw_x_preferred": [
+      "Japan"
     ],
     "name:hak_x_preferred": [
       "Ngi̍t-pún"
@@ -535,6 +581,9 @@
     "name:kbp_x_preferred": [
       "Japɔŋ"
     ],
+    "name:kcg_x_preferred": [
+      "Ja̱pan"
+    ],
     "name:kea_x_preferred": [
       "Japon"
     ],
@@ -567,6 +616,9 @@
     ],
     "name:krc_x_preferred": [
       "Япония"
+    ],
+    "name:krj_x_preferred": [
+      "Hapon"
     ],
     "name:ksh_x_preferred": [
       "Japan"
@@ -623,6 +675,9 @@
     "name:lit_x_preferred": [
       "Japonija"
     ],
+    "name:lld_x_preferred": [
+      "Iapan"
+    ],
     "name:lmo_x_preferred": [
       "Giapun"
     ],
@@ -649,6 +704,9 @@
     ],
     "name:lzh_x_preferred": [
       "日本"
+    ],
+    "name:mad_x_preferred": [
+      "Jeppang"
     ],
     "name:mah_x_preferred": [
       "Japan"
@@ -683,11 +741,17 @@
     "name:mlt_x_preferred": [
       "Ġappun"
     ],
+    "name:mni_x_preferred": [
+      "ꯖꯄꯥꯟ"
+    ],
     "name:mnw_x_preferred": [
       "ဂျပန်နိုင်ငံ"
     ],
     "name:mon_x_preferred": [
       "Япон"
+    ],
+    "name:mos_x_preferred": [
+      "Japan"
     ],
     "name:mri_x_preferred": [
       "Nipono"
@@ -752,6 +816,9 @@
     "name:new_x_preferred": [
       "जापान"
     ],
+    "name:nia_x_preferred": [
+      "Nifo"
+    ],
     "name:nld_x_preferred": [
       "Japan"
     ],
@@ -806,6 +873,9 @@
     "name:pam_x_preferred": [
       "Hapon"
     ],
+    "name:pam_x_variant": [
+      "Hapun"
+    ],
     "name:pan_x_preferred": [
       "ਜਪਾਨ"
     ],
@@ -814,6 +884,9 @@
     ],
     "name:pcd_x_preferred": [
       "Japon"
+    ],
+    "name:pcm_x_preferred": [
+      "Japan"
     ],
     "name:pdc_x_preferred": [
       "Japan"
@@ -850,6 +923,9 @@
     ],
     "name:pus_x_preferred": [
       "جاپان"
+    ],
+    "name:pwn_x_preferred": [
+      "Dripun"
     ],
     "name:que_x_preferred": [
       "Nihun"
@@ -911,8 +987,14 @@
     "name:shn_x_preferred": [
       "မိူင်းၵျပၢၼ်ႇ"
     ],
+    "name:shn_x_variant": [
+      "မိူင်းၵျႃႇပၢၼ်ႇ"
+    ],
     "name:sin_x_preferred": [
       "ජපානය"
+    ],
+    "name:skr_x_preferred": [
+      "جاپان"
     ],
     "name:slk_x_preferred": [
       "Japonsko"
@@ -926,8 +1008,17 @@
     "name:sme_x_variant": [
       "Japána"
     ],
+    "name:smj_x_preferred": [
+      "Japádna"
+    ],
+    "name:smn_x_preferred": [
+      "Jaapaan"
+    ],
     "name:smo_x_preferred": [
       "Iapani"
+    ],
+    "name:sms_x_preferred": [
+      "Japaan"
     ],
     "name:sna_x_preferred": [
       "Japan"
@@ -1001,6 +1092,9 @@
     "name:tat_x_preferred": [
       "Япония"
     ],
+    "name:tay_x_preferred": [
+      "Japan"
+    ],
     "name:tcy_x_preferred": [
       "ಜಪಾನ್"
     ],
@@ -1012,6 +1106,9 @@
     ],
     "name:tgk_x_preferred": [
       "Жопун"
+    ],
+    "name:tgk_x_variant": [
+      "Ҷопон"
     ],
     "name:tgl_x_preferred": [
       "Hapon"
@@ -1028,11 +1125,17 @@
     "name:tir_x_variant": [
       "Japan"
     ],
+    "name:tok_x_preferred": [
+      "ma Nijon"
+    ],
     "name:ton_x_preferred": [
       "Siapani"
     ],
     "name:tpi_x_preferred": [
       "Siapan"
+    ],
+    "name:trv_x_preferred": [
+      "Japan"
     ],
     "name:tsn_x_preferred": [
       "Japan"
@@ -1082,6 +1185,9 @@
     "name:vec_x_preferred": [
       "Giapòn"
     ],
+    "name:vec_x_variant": [
+      "Japon"
+    ],
     "name:ven_x_preferred": [
       "Japan"
     ],
@@ -1105,6 +1211,9 @@
     ],
     "name:wln_x_preferred": [
       "Djapon"
+    ],
+    "name:wls_x_preferred": [
+      "Saponia"
     ],
     "name:wol_x_preferred": [
       "Sapoŋ"
@@ -1306,7 +1415,8 @@
       "meso"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "wk",
+    "src:population": "naturalearth",
+    "src:population_date": "2019",
     "statoids:dial": "81",
     "statoids:ds": "J",
     "statoids:fifa": "JPN",
@@ -1344,6 +1454,7 @@
       "hasc:id": "JP",
       "icao:code": "JA",
       "ioc:id": "JPN",
+      "iso:code": "JP",
       "itu:id": "J",
       "loc:id": "n78089021",
       "m49:code": "392",
@@ -1357,9 +1468,10 @@
       "wk:page": "Japan",
       "wmo:id": "JP"
     },
+    "wof:concordances_official": "iso:code",
     "wof:country": "JP",
     "wof:country_alpha3": "JPN",
-    "wof:created": 1677703342,
+    "wof:created": 1763676107,
     "wof:geom_alt": [
       "naturalearth-display-terrestrial-zoom6",
       "naturalearth",
@@ -1379,12 +1491,12 @@
     "wof:lang_x_spoken": [
       "jpn"
     ],
-    "wof:lastmodified": 1677703342,
+    "wof:lastmodified": 1763676107,
     "wof:name": "Japan",
     "wof:parent_id": 102191569,
     "wof:placetype": "country",
-    "wof:population": 127110047,
-    "wof:population_rank": 17,
+    "wof:population": 126264931,
+    "wof:population_rank": 18,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "JP",
     "wof:superseded_by": [],

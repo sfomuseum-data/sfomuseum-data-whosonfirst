@@ -7,11 +7,11 @@
     ],
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 22.010713441998075,
-    "geom:area_square_m": 184159987667.21735,
+    "geom:area": 22.010713441998078,
+    "geom:area_square_m": 184159987667.216,
     "geom:bbox": "-124.848974,45.543541,-116.915580,49.002494",
     "geom:latitude": 47.41171129027724,
-    "geom:longitude": -120.59251654357573,
+    "geom:longitude": -120.59251654357571,
     "iso:country": "US",
     "iso:subdivision": "US-WA",
     "label:eng_x_preferred_longname": [
@@ -48,8 +48,14 @@
     "name:ara_x_preferred": [
       "واشنطن"
     ],
+    "name:arc_x_preferred": [
+      "ܘܐܫܝܢܓܛܘܢ"
+    ],
     "name:arg_x_preferred": [
       "Washington"
+    ],
+    "name:ary_x_preferred": [
+      "واشينطون"
     ],
     "name:arz_x_preferred": [
       "ولاية واشنطن"
@@ -74,6 +80,9 @@
     ],
     "name:bak_x_preferred": [
       "Вашингтон"
+    ],
+    "name:ban_x_preferred": [
+      "Washington"
     ],
     "name:bar_x_preferred": [
       "Washington"
@@ -129,6 +138,9 @@
     "name:che_x_preferred": [
       "Вашингтон"
     ],
+    "name:chr_x_preferred": [
+      "ᏩᏏᏓᏂ"
+    ],
     "name:chv_x_preferred": [
       "Вашингтон"
     ],
@@ -148,6 +160,9 @@
       "Vaşington"
     ],
     "name:cym_x_preferred": [
+      "Washington"
+    ],
+    "name:dag_x_preferred": [
       "Washington"
     ],
     "name:dan_x_preferred": [
@@ -278,6 +293,9 @@
     "name:hye_x_preferred": [
       "Վաշինգտոն"
     ],
+    "name:hyw_x_preferred": [
+      "Ուաշինկթըն"
+    ],
     "name:ibo_x_preferred": [
       "Washington"
     ],
@@ -359,6 +377,9 @@
     "name:lit_x_preferred": [
       "Vašingtonas"
     ],
+    "name:lld_x_preferred": [
+      "Washington"
+    ],
     "name:lmo_x_preferred": [
       "Washington"
     ],
@@ -392,6 +413,9 @@
     "name:mlg_x_preferred": [
       "Washington"
     ],
+    "name:mni_x_preferred": [
+      "ꯋꯥꯁꯤꯡꯇꯟ"
+    ],
     "name:mon_x_preferred": [
       "Вашингтон Муж Улс"
     ],
@@ -414,6 +438,9 @@
       "Washington"
     ],
     "name:nan_x_preferred": [
+      "Washington"
+    ],
+    "name:nau_x_preferred": [
       "Washington"
     ],
     "name:nav_x_preferred": [
@@ -453,6 +480,9 @@
       "ਵਾਸ਼ਿੰਗਟਨ"
     ],
     "name:pap_x_preferred": [
+      "Washington"
+    ],
+    "name:pcd_x_preferred": [
       "Washington"
     ],
     "name:pli_x_preferred": [
@@ -497,6 +527,9 @@
     "name:san_x_preferred": [
       "वाशिङ्टन्"
     ],
+    "name:sat_x_preferred": [
+      "ᱣᱟᱥᱤᱝᱴᱳᱱ"
+    ],
     "name:scn_x_preferred": [
       "Washington"
     ],
@@ -516,6 +549,9 @@
       "Washington"
     ],
     "name:sme_x_preferred": [
+      "Washington"
+    ],
+    "name:smn_x_preferred": [
       "Washington"
     ],
     "name:snd_x_preferred": [
@@ -569,8 +605,14 @@
     "name:tha_x_preferred": [
       "รัฐวอชิงตัน"
     ],
+    "name:tok_x_preferred": [
+      "ma Wasinton"
+    ],
     "name:tur_x_preferred": [
       "Vaşington"
+    ],
+    "name:tur_x_variant": [
+      "Washington"
     ],
     "name:uig_x_preferred": [
       "Washingiton Shitati"
@@ -592,6 +634,9 @@
     ],
     "name:vec_x_preferred": [
       "Washington"
+    ],
+    "name:vep_x_preferred": [
+      "Vašington-štat"
     ],
     "name:vie_x_preferred": [
       "Tiểu bang Washington"
@@ -619,6 +664,9 @@
     ],
     "name:yor_x_preferred": [
       "Ìpínlẹ̀ Washington"
+    ],
+    "name:yor_x_variant": [
+      "Washington"
     ],
     "name:yue_x_preferred": [
       "華盛頓州"
@@ -723,8 +771,8 @@
       "uscensus"
     ],
     "src:lbl_centroid": "mapshaper",
-    "src:population": "statoids",
-    "src:population_date": "2010-04-01",
+    "src:population": "uscensus",
+    "src:population_date": "2023",
     "statoids:area_km": "176,480",
     "statoids:area_mi": "68,139",
     "statoids:as_of_date": "2010-04-01",
@@ -738,6 +786,8 @@
     "statoids:timezone": "-8~",
     "statoids:type": "state",
     "unlc:subdivision": "US-WA",
+    "uscensus:population": 7812880,
+    "uscensus:population_date": "2023",
     "wd:wordcount": 453,
     "wof:belongsto": [
       102191575,
@@ -753,12 +803,18 @@
       "gn:id": 5815135,
       "gp:id": 2347606,
       "hasc:id": "US.WA",
+      "iso:code": "US-WA",
       "iso:id": "US-WA",
       "unlc:id": "US-WA",
+      "uscensus:geoid": "53",
       "wd:id": "Q1223"
     },
+    "wof:concordances_official": "uscensus:geoid",
+    "wof:concordances_official_alt": [
+      "iso:code"
+    ],
     "wof:country": "US",
-    "wof:created": 1659747965,
+    "wof:created": 1764710863,
     "wof:geom_alt": [
       "uscensus-display-terrestrial-zoom-10"
     ],
@@ -779,12 +835,12 @@
       "spa",
       "haw"
     ],
-    "wof:lastmodified": 1659747965,
+    "wof:lastmodified": 1764710863,
     "wof:name": "Washington",
     "wof:parent_id": 85633793,
     "wof:placetype": "region",
     "wof:placetype_local": "state",
-    "wof:population": 6724540,
+    "wof:population": 7812880,
     "wof:population_rank": 13,
     "wof:repo": "sfomuseum-data-whosonfirst",
     "wof:shortcode": "WA",

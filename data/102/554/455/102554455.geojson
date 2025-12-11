@@ -14,8 +14,8 @@
     "iso:country": "",
     "lbl:latitude": 48.945249,
     "lbl:longitude": -54.572648,
-    "millsfield:count_images": 6,
-    "millsfield:count_objects": 3,
+    "millsfield:count_images": 11,
+    "millsfield:count_objects": 8,
     "mps:latitude": 48.945249,
     "mps:longitude": -54.572648,
     "mz:hierarchy_label": 1,
@@ -120,7 +120,7 @@
       }
     ],
     "wof:id": 102554455,
-    "wof:lastmodified": 1652218273,
+    "wof:lastmodified": 1765442282,
     "wof:name": "Gander International Airport",
     "wof:parent_id": -1,
     "wof:placetype": "campus",
@@ -138,5 +138,5 @@
     -54.56789,
     48.947308
   ],
-  "geometry": {"coordinates":[[[[-54.573212,48.947308],[-54.57201,48.946632],[-54.571323,48.946407],[-54.56789,48.945446],[-54.572803,48.942558],[-54.573555,48.944038],[-54.577332,48.946308],[-54.576214,48.946518],[-54.573212,48.947308]]]],"type":"MultiPolygon"}
+  "geometry": {"type":"MultiPolygon","coordinates":[[[[-54.573212,48.947308],[-54.57201,48.946632],[-54.571323,48.946407],[-54.56789,48.945446],[-54.572803,48.942558],[-54.573555,48.944038],[-54.577332,48.946308],[-54.576214,48.946518],[-54.573212,48.947308]]]]}
 }
